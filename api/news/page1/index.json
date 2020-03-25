@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-25-facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically.md",
+      "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
+      "excerpt": "The AMA Journal of Ethics further lists some of the implications of AI and facial recognition technology, in terms of violating a user’s privacy. Informed consent is one such issue, with an increasing need for healthcare providers that utilize facial recognition to inform their patients about the potential uses of patient data. To quote the ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/03/25/facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-22-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai.md",
+      "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
+      "excerpt": "and her team to select the specific subjects that they felt were pivotal to understanding AI and its role in how the world operates today. “The 26 topics chosen are by no means an exhaustive list, but they are a great place for first-timers to start,” the guide’s FAQ section explains. “The team carefully balanced their selections across ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
+      "publishedDateTime": "2020-03-25T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Feat-3.png?fit=1383%2C794&strip=all",
+          "width": 1383,
+          "height": 794,
+          "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-the-ai-paradox-four-benefits-we-didnt-see-coming.md",
       "title": "The AI Paradox: Four Benefits We Didn't See Coming",
       "excerpt": "Research firm IDC predicts the total spent on AI systems could reach almost $98 billion three years from now — more than 2.5 times the estimated $37.5 billion spent in 2019. While some business leaders have gone all-in and quickly embraced AI,",
@@ -122,6 +212,51 @@
           "width": 640,
           "height": 640,
           "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
+      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "publishedDateTime": "2020-03-25T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
           "attribution": null
         }
       ],
@@ -968,140 +1103,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-technology-is-racist-study-finds.md",
-      "title": "Speech recognition technology is racist, study finds",
-      "excerpt": "New evidence of voice recognition’s racial bias problem has emerged. Speech recognition technologies developed by Amazon, Google, Apple, Microsoft, and IBM make almost twice as many errors when transcribing African American voices as they do with white American voices, according to a new Stanford study. All five systems produced these error ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
-      "publishedDateTime": "2020-03-24T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Speech recognition technology is racist, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-can-ai-predict-global-pandemics-like-the-coronavirus.md",
-      "title": "Can AI predict global pandemics like the coronavirus?",
-      "excerpt": "AI is supposed to be the most powerful pattern detection and prediction technology ... This applies to other sparse events like market crashes, earthquakes, the emergence of a game-changing startup, or any infrequent cultural, political, or natural sea-change events. Global pandemics are thankfully sparse events and therefore would likely ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/can-ai-predict-global-pandemics-like-the-coronavirus/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-predict-global-pandemics-like-the-coronavirus/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-predict-global-pandemics-like-the-coronavirus/",
-      "publishedDateTime": "2020-03-24T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/23/46d752de-2425-4574-83e1-2d64f19121c7/thumbnail/1200x675/7bb3e1cc05b49716cc14382035637767/20200323-tiernan-karen-spread.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Can AI predict global pandemics like the coronavirus?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-the-potential-of-ai-rpa-together.md",
-      "title": "The Potential Of AI & RPA Together",
-      "excerpt": "Robotic Process Automation (RPA) has been on fire, but it will need an assist from AI to reach its full potential",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/the-potential-of-ai--rpa-together/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/the-potential-of-ai--rpa-together/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/24/the-potential-of-ai--rpa-together/amp/",
-      "publishedDateTime": "2020-03-24T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a0ec3d8e1ae0007b75d8e%2F0x0.jpg",
-          "width": 1200,
-          "height": 1125,
-          "title": "The Potential Of AI & RPA Together",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

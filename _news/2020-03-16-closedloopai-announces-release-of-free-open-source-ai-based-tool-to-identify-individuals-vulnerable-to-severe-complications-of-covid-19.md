@@ -1,21 +1,25 @@
 ---
 category: news
 title: "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19"
-excerpt: "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ..."
-publishedDateTime: 2020-03-16T11:15:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15556274"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274"
+excerpt: "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ..."
+publishedDateTime: 2020-03-16T12:11:00Z
+webUrl: "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "pMgEjQrWPbybR8qpta8xTAZGbBl7qijfadc1+4cYm7KMMIIJBrsM9YmfqFCeGGpRMh03nJPaHAqbJz4UWbGzQGi7+lOwgChHqtDfsazJjGa6JFsV8xx89g8OQ8CwuE4A3P7ZNnAvqsZePvB4Ss6hjb3drjqDXglOCfWVVmiKeiNrK9Ke4SiAGFFZ41kKxC+CTYV8b3SZSacWhUAMgUdKXAQXd/jEW1rRmKm6PkX28DlXXSSMs7yrcksE5McHwbmUgAYhcHFvzkCcBjFngD74F5zyY2M2mWewhevZ3gQg/4nmbsxHYdgeBYmX6nbQR8Xx;EuQbGxejIAzz0J/nTWx5Zw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg"
+    width: 1200
+    height: 627
+    title: "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19"
+
+secured: "jEFbii+OEUmpk6+VEpcoLudrVJ9Fh54kAX8r+wrWxbLUMdrdEpIh+Mc4ctIuK3tLQLyOyypzqEuxOp/OOi+amKIPwlCSidpz/+89Aj9/hkLwHDIxs9ODLyEvBueeEKb7M/4R2oNo6mQu7n1OeA3rIEmpTS/08EFjKzmzjHTe0qKTh6JRBIDvmp+F8AxGwk3UlsRoFXGDnFALGzy8SLfFHaOrmuziVEos4CZlGTEuEOwmh1ol7s5Cd6BQrzo38swKxJon7FApr+z0viDv6ta4Tk/DWlslKEbzO0iqSH44vYarrzF/leiKxqwdvhh4nnq7;8dbFJr3wBY/lUacJiq9cug=="
 ---
 

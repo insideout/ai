@@ -47,6 +47,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
+      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "publishedDateTime": "2020-03-25T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-research-report-on-global-neural-network-software-industry-2020-2025.md",
       "title": "Research Report on Global Neural Network Software Industry 2020-2025",
       "excerpt": "Market Overview. The Neural Network Software Market was valued at USD 8.30 billion in 2019 and is expected to reach USD 50.66 bil",
@@ -1182,35 +1227,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-multithreaded-cores-handle-machine-learning-chores.md",
-      "title": "Multithreaded Cores Handle Machine-Learning Chores",
-      "excerpt": "The cores and software support are designed to handle real-time communication between the cores. This is facilitated by the switch that connects everything, including the new vector-processing unit, DSP support, machine-learning support, and cryptographic support. This distribution keeps the RISC cores simple while providing access to the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21126392/multithreaded-cores-handle-machinelearning-chores",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,391 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-01-16-new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai.md",
+      "title": "New KMPG report says industry leaders want government guidance around AI",
+      "excerpt": "Companies are making progress on internal ethics but training still lags. Companies are starting to see a few benefits from artificial intelligence, but there are still many roadblocks to progress. In Living in an AI World: Achievements and Challenges of Artificial Intelligence Across Five Industries, KPMG looks at what's working and what isn't ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-kmpg-report-says-industry-leaders-want-government-guidance-around-ai/",
+      "publishedDateTime": "2020-01-16T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/12/04/70d05d50-7fdc-4611-acee-d1c6867906c0/thumbnail/1200x675/075730befe930c61f707faeac9381bfe/20191125-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New KMPG report says industry leaders want government guidance around AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts.md",
+      "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
+      "excerpt": "A bill introduced in the Senate this week aims to steer tens of billions of new funding toward civilian Federal government research and development efforts involving “industries of the future” including artificial intelligence (AI) and quantum information science ... of those Federal investments in R&D “with complimentary investments ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MeriTalk",
+        "domain": "meritalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.meritalk.com/wp-content/uploads/2019/01/shutterstock_1186368289-min.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others.md",
+      "title": "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others",
+      "excerpt": "Phenom People, a human resources (HR) platform that leverages artificial intelligence (AI) to help companies attract new talent, has raised $30 million in a series C round of funding led by WestBridge Capital, with participation from eBay founder Pierre Omidyar’s VC firm Omidyar Ventures, AXA Venture Partners, Sierra Ventures, Sigma Prime ...",
+      "heat": 189,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/",
+      "publishedDateTime": "2020-01-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Phenom-People-Front-Lobby.jpg?fit=2544%2C1227&strip=all",
+          "width": 2544,
+          "height": 1227,
+          "title": "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-the-10-most-important-skills-youll-need-to-nail-a-high-paying-job-in-2020.md",
+      "title": "The 10 most important skills you'll need to nail a high-paying job in 2020",
+      "excerpt": "New skills like learning blockchain, the technology that enables cryptocurrency, and affiliate marketing, made the list for the first time.",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/the-most-in-demand-job-skills-linkedin-hiring",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e1f41edf4423136864a9684?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "The 10 most important skills you'll need to nail a high-paying job in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-apple-acquires-on-device-ai-startup-xnorai-for-200-million.md",
+      "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
+      "excerpt": "In brief: Apple is on a spending spree for AI startups, and the latest is a Seattle-based startup that makes on-device machine learning tools that literally sip power and cost very little to ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83569-apple-acquires-device-ai-startup-xnorai-200-million.html",
+      "publishedDateTime": "2020-01-16T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-15-ts3_thumbs-d0f.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Apple acquires on-device AI startup Xnor.ai for $200 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-alphabets-google-boosts-cloud-offerings-with-appsheet-buyout.md",
+      "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
+      "excerpt": "Alphabet ’s GOOGL division Google is on a buying spree. The company recently acquired a Seattle-based, no-code application development platform, AppSheet. The terms of the deal have not yet been disclosed.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16",
+      "ampWebUrl": "https://www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/alphabets-google-boosts-cloud-offerings-with-appsheet-buyout-2020-01-16?amp",
+      "publishedDateTime": "2020-01-16T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Alphabet's Google Boosts Cloud Offerings With AppSheet Buyout",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-artist-refik-anadol-turns-data-into-art-with-help-from-ai.md",
+      "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
+      "excerpt": "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/",
+      "ampWebUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
+      "publishedDateTime": "2020-01-16T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e1f7e0294f53e000834150c/master/pass/Biz-AnadolInstall-DSC06728.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-democratizing-the-optimization-of-ais-arcane-neural-networks.md",
+      "title": "Democratizing the optimization of AI’s arcane neural networks",
+      "excerpt": "We’re only a few weeks into the new year, but already we’re seeing signs that automated machine learning modeling, sometimes known as autoML, is rising to a new plateau of sophistication. Specifically, it appears that a promising autoML approach known as “neural architecture search” will soon become part of data scientists’ core toolkits.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3514568/democratizing-the-optimization-of-ais-arcane-neural-networks.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Democratizing the optimization of AI’s arcane neural networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-dewo-uses-ai-to-minimize-digital-distractions.md",
+      "title": "Dewo uses AI to minimize digital distractions",
+      "excerpt": "A productivity-tracking tool that taps AI to create up-to-the-minute time sheets on employees’ behalves, Timely quickly found success, racking up thousands of paying customers across over 160 countries and attracting the attention of investors like Concentric, Investinor, 500 Startups, and SNÖ Ventures. (Memory raised $5 million in an ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/dewo-uses-ai-to-minimize-digital-distractions/amp/",
+      "publishedDateTime": "2020-01-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/2d083e56-d88b-4bd4-a29b-3fdf6cb8c495-e1579106323862.png?fit=1202%2C598&strip=all",
+          "width": 1202,
+          "height": 598,
+          "title": "Dewo uses AI to minimize digital distractions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-healthcare-ai-firm-hiring-considering-ma-after-150m-raise.md",
       "title": "Healthcare AI firm hiring, considering M&A after $150M raise",
       "excerpt": "A healthcare AI company founded by a billionaire investor plans to substantially grow its team and potentially make some acquisitions after raising $150 million.",
@@ -692,402 +1077,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-aoc-is-sounding-the-alarm-about-the-rise-of-facial-recognition-this-is-some-real-life-black-mirror-stuff.md",
-      "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-      "excerpt": "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1/",
-      "ampWebUrl": "https://amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "cdnAmpWebUrl": "https://amp-businessinsider-com.cdn.ampproject.org/c/s/amp.businessinsider.com/aoc-facial-recognition-similar-to-black-mirror-stuff-2020-1",
-      "publishedDateTime": "2020-01-15T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://amp.businessinsider.com/images/5e1f847fb6d52d23c07e6a04-750-563.jpg",
-          "width": 750,
-          "height": 563,
-          "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-apple-buys-edge-based-ai-startup-xnorai-for-a-reported-200m.md",
-      "title": "Apple buys edge-based AI startup Xnor.ai for a reported $200M",
-      "excerpt": "Xnor.ai, spun off in 2017 from the nonprofit Allen Institute for AI (AI2), has been acquired by Apple for about $200 million. A source close to the company corroborated a report this morning from GeekWire to that effect. Apple confirmed the reports with its standard statement for this sort of quiet acquisition: “Apple buys smaller technology ...",
-      "heat": 319,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/15/apple-buys-edge-based-ai-startup-xnor-ai-for-a-reported-200m/amp/",
-      "publishedDateTime": "2020-01-15T17:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/01/ai-platforms1.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Apple buys edge-based AI startup Xnor.ai for a reported $200M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-exclusive-apple-acquires-xnorai-edge-ai-spin-out-from-paul-allens-ai2-for-price-in-200m-range.md",
-      "title": "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range",
-      "excerpt": "The workforce count is now reportedly upwards of 70 people. Xnor machine learning engineer Hessam Bagherinezhad, hardware engineer Saman Nderiparizi and CXO Ali Farhadi show off a chip that can use solar-powered AI to detect people. (GeekWire Photo / Alan Boyle) The ups and downs of the Wyze Labs deal provided the first hints that something big ...",
-      "heat": 285,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/",
-      "ampWebUrl": "https://www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/exclusive-apple-acquires-xnor-ai-edge-ai-spin-paul-allens-ai2-price-200m-range/amp/",
-      "publishedDateTime": "2020-01-15T16:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2018/05/180506-xnor-630x354.jpg",
-          "width": 630,
-          "height": 354,
-          "title": "Exclusive: Apple acquires Xnor.ai, edge AI spin-out from Paul Allen’s AI2, for price in $200M range",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say.md",
-      "title": "Facial recognition's accuracy is the least of our worries, lawmakers say",
-      "excerpt": "One of the issues with facial recognition today is its high error rates with people of color and women. But lawmakers on Wednesday pointed to a broader concern as well: Facial recognition's effects on civil liberties and privacy. At the House Oversight Committee's third hearing on facial recognition, members of Congress looked to address the ...",
-      "heat": 138,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognitions-accuracy-is-the-least-of-our-worries-lawmakers-say/",
-      "publishedDateTime": "2020-01-15T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/H6AUA_n2v1b3OwxJS1xtij9rQtg=/756x567/2020/01/15/727e8cd0-4aa7-4ebb-b416-cb1ccbf3c7b7/gettyimages-1198303844.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Facial recognition's accuracy is the least of our worries, lawmakers say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-announcing-the-agenda-for-robotics-ai-march-3-at-uc-berkeley.md",
-      "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-      "excerpt": "We’re bringing TC Sessions: Robotics + AI back to UC Berkeley on March 3, and we’re excited to announce our jam ... Student tickets are just $50 and can be purchased here. Got a startup? Book a startup exhibitor package today and demo your company in front of 1,000+ attendees. Each table comes with four attendee tickets, so you can divide ...",
-      "heat": 229,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/14/announcing-the-agenda-for-robotics-ai-march-3-at-ucberkeley/amp/",
-      "publishedDateTime": "2020-01-15T16:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/header_agenda.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Announcing the agenda for Robotics + AI — March 3 at UC Berkeley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-what-is-machine-learning-why-its-matters-and-how-does-it-works.md",
-      "title": "What is Machine Learning? Why its Matters and how does it works?",
-      "excerpt": "Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves. The process of learning begins with ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/swlh/what-is-machine-learning-why-its-matters-and-how-does-it-works-846055a676d4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T16:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*YaCKYPDAZ31OA5OgTT3tjA.jpeg",
-          "width": 600,
-          "height": 256,
-          "title": "What is Machine Learning? Why its Matters and how does it works?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
-      "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-      "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "publishedDateTime": "2020-01-15T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health.md",
-      "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-      "excerpt": "A new IEEE study shows millennial parents would embrace self-driving school busses, 3D-printed organs and AI-powered assistants. TechRepublic's Karen Roby interviewed Dr. Karen Panetta, dean of engineering at Tufts University, about the tech organization IEEE and a recent study concerning AI and healthcare. The following is an edited transcript ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "publishedDateTime": "2020-01-15T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/15/0474ddc4-0751-4943-ba45-8001b2a71c49/thumbnail/1200x675/d7a62e7ff462af441cef021bc9ac5d6c/20191212-panetta-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-digital-dream-labs-acquires-anki-roboticss-assets.md",
-      "title": "Digital Dream Labs acquires Anki Robotics's assets",
-      "excerpt": "Pittsburgh-based education technology firm Digital Dream Labs LLC has acquired the assets of Anki Robotics and Artificial Intelligence assets without taking on any liabilities. Financials were not disclosed.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.html",
-      "ampWebUrl": "https://www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/pittsburgh/news/2020/01/15/digital-dream-labs-acquires-anki-roboticss-assets.amp.html",
-      "publishedDateTime": "2020-01-15T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/6817752/254283*600xx800-533-0-18.jpg",
-          "width": 600,
-          "height": 399,
-          "title": "Digital Dream Labs acquires Anki Robotics's assets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

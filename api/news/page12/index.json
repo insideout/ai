@@ -2,6 +2,273 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-16-machine-learning-technique-sharpens-prediction-of-materials-mechanical-properties.md",
+      "title": "Machine learning technique sharpens prediction of material's mechanical properties",
+      "excerpt": "Scientists at Nanyang Technological University, Singapore (NTU Singapore), Massachusetts Institute of Technology (MIT), and Brown University have developed new approaches that significantly improve the accuracy of an important material testing technique by harnessing the power of machine learning. Nano-indentation - the process of poking a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ntu-mlt031320.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/226983_web.jpg",
+          "width": 720,
+          "height": 405,
+          "title": "Machine learning technique sharpens prediction of material's mechanical properties",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-how-enterprise-companies-are-changing-recruitment-with-ai.md",
+      "title": "How Enterprise Companies Are Changing Recruitment With AI",
+      "excerpt": "One of the fastest-growing enterprises putting forward recruitment solutions is Jobpal, a chatbot-software company that can use any of the popular messaging platforms (WhatsApp, LINE, Telegram, Facebook messenger or even SMS) to create software that ensures better customer engagement. The benefits of using AI in this fashion for recruitment are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347190",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347190",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347190",
+      "publishedDateTime": "2020-03-16T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200312202638-GettyImages-1166135960.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Enterprise Companies Are Changing Recruitment With AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east.md",
+      "title": "Fintech Firms, Aion Digital and Qarar, Team Up to Accelerate Development of Online Lending Platforms in the Middle East",
+      "excerpt": "Two major Fintech companies, Aion Digital and Qarar ... As mentioned in the announcement, the platform integrates artificial intelligence (AI) capabilities to assist banks in improving their decision-making processes. Qarar’s deep analytics engine helps financial institutions make risk-managed, consistent business decisions by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
+      "publishedDateTime": "2020-03-16T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider.md",
+      "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
+      "excerpt": "$5 million) to a $42 million investment round in Eigen Technologies, a natural language processing (NLP) solution provider. The investment, which has been made via ING’s VC division, ING Ventures, is part of Eigen Technologies’ Series B funding round, which was announced in November of last year. The round also included contributions from ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/amp/",
+      "publishedDateTime": "2020-03-16T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/ING-Bank-300x239.jpg",
+          "width": 300,
+          "height": 239,
+          "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
+      "title": "Roboy the robot is fully compliant, soft, and huggable",
+      "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/roboy-the-robot-is-fully-compliant-soft-and-huggable/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/16/e7e28fc1-a205-412e-9fe0-76fc29086f0a/thumbnail/770x578/6562c9429e0a748d1b522ac17b0a91a6/20200224-kaufmann-dan.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Roboy the robot is fully compliant, soft, and huggable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-hospital-using-chatbot-to-screen-coronavirus-patients.md",
+      "title": "Hospital using chatbot to screen coronavirus patients",
+      "excerpt": "Microsoft's Azure Cognitive Services have the capability to build enterprise-grade bots that let companies maintain control of data, including Q&A bots like the one answering COVID-19 questions in Everett, WA. The service includes open-source SDK and tools to connect a bot across popular channels and devices. Azure Cognitive Services gives the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
+      "publishedDateTime": "2020-03-16T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/12/6a60eb6e-31b5-4bb4-9754-b5d452b01a19/resize/1200x/d038e660e4462c967d719b66355a8b1b/istock-1061564280.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Hospital using chatbot to screen coronavirus patients",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-botz-the-roboticsartificial-intelligence-etf-is-not-a-bargain-buy-even-after-recent-crash.md",
+      "title": "BOTZ: The Robotics/Artificial Intelligence ETF Is Not A Bargain Buy Even After Recent Crash",
+      "excerpt": "For the Global X Robotics & Artificial Intelligence ETF (BOTZ), its bear market actually started in 2018 when BOTZ stumbled back to earth from its 80+% meteoric rise in the preceding year: Source: WingCapital Investments Prior to the market turmoil, BOTZ had struggled to retrace towards its all-time high, even as the broader technology sector ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4332230-botz-robotics-artificial-intelligence-etf-is-not-bargain-buy-even-after-recent-crash",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans.md",
       "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
       "excerpt": "Then they used a Microsoft Azure Kinect depth camera to compile a data set to train an AI model to classify a hand holding an object into one of those categories, specifically by showing an example image of a hand grasp to the subject and recording the subject performing similar poses from 20-60 seconds. During the recording, the person could ...",
@@ -255,23 +522,31 @@
     {
       "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
+      "excerpt": "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
+      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T05:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -622,273 +897,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-an-agreement-for-cancer-therapy.md",
-      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
-      "excerpt": "BEIJING and HONG KONG, CHINA, March 17, 2020 (9 AM Beijing time) - Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence company developing end-to-end drug discovery pipelines, announced today that they are entering a collaboration, applying artificial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/im-btp031620.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/227125_web.jpg",
-          "width": 1440,
-          "height": 1440,
-          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
-      "title": "BMW says large-scale production of self-driving cars likely in next decade",
-      "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bmwblog.com/2016/03/16/bmw-says-large-scale-production-self-driving-cars-likely-next-decade/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMW BLOG",
-        "domain": "bmwblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bmwblog.com/wp-content/uploads/2015/03/xc_24_dwn_20_2014_hres.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "BMW says large-scale production of self-driving cars likely in next decade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-middlesex-health-using-artificial-intelligence-making-patients-more-comfortable.md",
-      "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
-      "excerpt": "Middletown, Conn. (WTNH) Middlesex Health is the first healthcare system in the northeast to use artificial intelligence-powered software to Improve PET scans for patients. Typically a PET, or positron emission tomography scan, would take 24 minutes or longer. The tests are frequently done on Cancer patients to see if treatments are working or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/",
-      "ampWebUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
-      "publishedDateTime": "2020-03-15T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2020/03/Annotation-2020-03-15-152535.png?w=620&h=352&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-legal-aid-society-dubious-of-new-nypd-facial-recognition-provision.md",
-      "title": "Legal Aid Society dubious of new NYPD facial recognition provision",
-      "excerpt": "He was surrounded by representatives of the Jewish community and flanked by Commissioner Dermot Shea. (Photo by Todd Maisel) An update to the NYPD policy regarding facial recognition technology does not change precautions against using the feature as evidence to convict, according to Commissioner Dermot Shea. As the technology advances ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/",
-      "ampWebUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
-      "cdnAmpWebUrl": "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
-      "publishedDateTime": "2020-03-15T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AM New York",
-        "domain": "amny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-googles-parent-company-just-made-its-first-ever-investment-in-an-ai-chip-start-up.md",
-      "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
-      "excerpt": "GV had never invested in a start-up making processors for artificial intelligence ... special features in its consumer products, while Waymo relies on AI for autonomous driving.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
-      "publishedDateTime": "2020-03-15T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105066224-Handout_SambaNova_Systems.jpeg?v=1529477748",
-          "width": 2000,
-          "height": 1333,
-          "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
-      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
-      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
-      "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
-      "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.salon.com/2020/03/15/aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology_partner/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salon",
-        "domain": "salon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.salon.com/2014/09/surveillance_camera.jpg",
-          "width": 620,
-          "height": 412,
-          "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -2,6 +2,212 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-17-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
+      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
+      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001838/0/en/Cerence-Powers-Voice-for-All-New-Uconnect-5-Global-Infotainment-Platform-at-FCA.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-axon-announces-three-new-members-to-ai-ethics-board.md",
+      "title": "Axon Announces Three New Members to AI Ethics Board",
+      "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, announced today the appointment of three new members to its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/axon-announces-three-new-members-to-ai-ethics-board-301025168.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134612/Danielle_Citron.jpg?p=facebook",
+          "width": 2735,
+          "height": 1431,
+          "title": "Axon Announces Three New Members to AI Ethics Board",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "They’re two of the four founders of the Dazzle Club, a group of artists set up last year to provoke discussion about the growing using of facial recognition technology. The group holds monthly silent walks through different parts of London to raise awareness about the technology, which they say is being used for “rampant surveillance.”",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.html",
+      "ampWebUrl": "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html",
+      "cdnAmpWebUrl": "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html",
+      "publishedDateTime": "2020-03-17T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winston-Salem Journal",
+        "domain": "journalnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/4/9d/49d157b8-e91c-5627-ab5a-25446ae50b4d/5e42e4e96835d.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-mccs-azure-based-ai-solution-detects-eerie-silence.md",
+      "title": "MCC’s Azure-based AI solution detects eerie silence",
+      "excerpt": "After two years of careful design and another two of intense deployment and ongoing refinement, a sophisticated Azure-based AI solution at the Melbourne Cricket Club (MCC) is possibly feeling a little confused by an entirely new and unexpected sound triggered after teams score or players are dismissed on the field: crickets. As the coronavirus ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.html",
+      "ampWebUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
+      "publishedDateTime": "2020-03-17T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio-street-sign-cricket-ground-by-ctrphotos-gettyimages-516114501-100835591-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MCC’s Azure-based AI solution detects eerie silence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
+      "title": "Why SD-WANs Need Artificial Intelligence",
+      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why SD-WANs Need Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries.md",
+      "title": "Venture Capitalist Tim Draper: Bitcoin, decentralization and artificial intelligence could transform global industries",
+      "excerpt": "WELCOME We use cookies to enhance your experience like remembering your Time Zone. We have updated our privacy policy please check our Terms&Conditions Accept and Continue Industries that could be transformed using decentralization,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fxstreet.com/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "ampWebUrl": "https://www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/cryptocurrencies/news/venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries-202003170949",
+      "publishedDateTime": "2020-03-17T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FXStreet",
+        "domain": "fxstreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-facebook-ais-demucs-teaches-ai-to-hear-in-a-more-human-like-way.md",
       "title": "Facebook AI’s Demucs teaches AI to hear in a more human-like way",
       "excerpt": "Demucs is a new research project by Facebook AI. It is designed to separate musical tracks into different instruments or vocals, similar to how a human can detect the specific instruments, and solve the problems of existing approaches. In the long run, Demucs could be applied to other AI tasks as well. Music source separation can be a tricky ...",
@@ -893,112 +1099,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-17-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy.md",
-      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
-      "excerpt": "/PRNewswire/ -- Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial",
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy-301025103.html",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:00:00-07:00",
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1134498/Insilico_Medicine_partnership.jpg?p=facebook",
-          "width": 1920,
-          "height": 1005,
-          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
-      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "publishedDateTime": "2020-03-16T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-recruited-to-find-clues-about-covid-19.md",
-      "title": "Artificial intelligence recruited to find clues about COVID-19",
-      "excerpt": "With data scientists and machine language experts mining the literature compilation known as COVID-19 Open Research Dataset ... Allen Institute of AI, Georgetown University’s Center for Security and Emerging Technology, the Chan Zuckerberg Initiative (named for Mark Zuckerberg, Facebook's founder, and his wife Priscilla Chan), and Kaggle ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rollcall.com/2020/03/16/artificial-intelligence-recruited-to-find-clues-about-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Roll Call",
-        "domain": "rollcall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.rollcall.com/wp-content/uploads/2020/03/WASHINGTON_VIRUS_007_03162020.jpg?resize=1200,600",
-          "width": 1200,
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
           "height": 600,
-          "title": "Artificial intelligence recruited to find clues about COVID-19",
+          "title": "Now AI will understand language of business",
           "attribution": null
         }
       ],
@@ -1007,171 +1131,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
-      "title": "AWS Australia returns to profit after posting half a billion revenue",
-      "excerpt": "Read more AWS Summit in Singapore set to go ahead, despite coronavirus concerns The company recently outlined three areas of opportunity for partners to capitalise on this year. These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/adam_beavis.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "AWS Australia returns to profit after posting half a billion revenue",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-the-10-best-free-online-artificial-intelligence-and-machine-learning-courses-for-2020.md",
-      "title": "The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020",
-      "excerpt": "Demand for people with artificial intelligence and machine learning skills has never been bigger. Demand clearly outstrips supply. If you want to boost your AI and ML skills, then these 10 free courses are a great place to start.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/amp/",
-      "publishedDateTime": "2020-03-16T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6f204737d0440006bc84f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-machine-learning-technique-sharpens-prediction-of-materials-mechanical-properties.md",
-      "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-      "excerpt": "Scientists at Nanyang Technological University, Singapore (NTU Singapore), Massachusetts Institute of Technology (MIT), and Brown University have developed new approaches that significantly improve the accuracy of an important material testing technique by harnessing the power of machine learning. Nano-indentation - the process of poking a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ntu-mlt031320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226983_web.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-how-enterprise-companies-are-changing-recruitment-with-ai.md",
-      "title": "How Enterprise Companies Are Changing Recruitment With AI",
-      "excerpt": "One of the fastest-growing enterprises putting forward recruitment solutions is Jobpal, a chatbot-software company that can use any of the popular messaging platforms (WhatsApp, LINE, Telegram, Facebook messenger or even SMS) to create software that ensures better customer engagement. The benefits of using AI in this fashion for recruitment are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/347190",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347190",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347190",
-      "publishedDateTime": "2020-03-16T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200312202638-GettyImages-1166135960.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Enterprise Companies Are Changing Recruitment With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
+        "Natural Language Processing",
         "AI"
       ]
     }

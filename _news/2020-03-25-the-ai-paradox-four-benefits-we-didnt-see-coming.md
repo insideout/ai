@@ -28,6 +28,6 @@ images:
     height: 640
     title: "The AI Paradox: Four Benefits We Didn't See Coming"
 
-secured: "P1C1Kog1r8zdOwtgKMemfz4yYGAOgOATQYCNGmU1jqk1iXwB/D3AeKpbWInAKrbdzTuLrDYypBeUVBhxhv2hvWM1dBFa8v+hlOKBBLxVKyuVSjiLhIdSUsyfwI/Gtq/bEAKYow4+znzyzkde0BN8Bwv0E4vuFuCQs0CZV9bxBraJNCgBhIp/KEKLpDmyJIUifDxQ0hy8v79jKlK+4N9Y5JGDFtSKgeNJAbzU8EaDdpwawp59HacFpJSXb6QWkQcODwib/AeUH+DmoKqXkmg8OqtebiQERlSZpFjVC/e8SVBJ0TWMzXfA71n6dlXkKlL+;DVczPESem8Galgsj72BzVw=="
+secured: "yul6oY3+hoM+3yaP4DHPw6Ojs76jaLASCP9s+e5cGtqw+lbMvyT9y4Ojr8O63lEhUuh0JRiCSqcP2d5MUSZEFgd0U+yJHE/goqrP/nOvp3aW03X9CIh/N0aPPD7u0giGf67BYE58iy7nDJZ4z6sT6YlSjyOV2Ryz/cnz/K36EJO8kg4Mmkn6eIME/0iPQgLIi+zGaBbTEkDdZUyC7jh+htLeHaaPcqKnSkAVWtYl4TNKIZuUobx3/yOfOUfygitq/+ayJ261slhnFcJcV3RVsvg2QdzLttwRZXy9Tlqw+BeDW5xGgslS+dolVVovPp+Pg/merzVyO4R2PO7JDkUK55MZdwCG0GwOZM58QAQy4U4A8zRryY4v+aXAFdi33GGJwnliSrIEF5/eH4FEWirIANtkyrfZIoMOcwHR7Tzb/CB1EH1VONAeuH+udRrryKmY92UKUT9RYq6FRHYqqSHOC2c8Ag0Zvtcf+QDy7+45g8s=;FiV6NffCCcBheUbfDB/LrQ=="
 ---
 

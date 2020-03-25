@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-25-facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically.md",
+      "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
+      "excerpt": "The AMA Journal of Ethics further lists some of the implications of AI and facial recognition technology, in terms of violating a user’s privacy. Informed consent is one such issue, with an increasing need for healthcare providers that utilize facial recognition to inform their patients about the potential uses of patient data. To quote the ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/03/25/facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-22-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
       "title": "Speech recognition systems have higher error rates for black people, study finds",
       "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
@@ -1134,43 +1180,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-facial-recognition-merely-a-lead-and-not-proof-of-someones-involvement-in-crime-says-new-nypd-policy.md",
-      "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
-      "excerpt": "Cops can use facial recognition software to identify criminal suspects — but any match is “merely a lead” and not probable cause that someone is connected to a crime, NYPD Commissioner Dermot Shea said Friday. “It is our responsibility to ensure investigators are equipped with effective technologies to bring justice to New Yorkers who ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html",
-      "ampWebUrl": "https://www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/new-york/nyc-crime/ny-nypd-facial-recognition-rules-20200313-5gvkzrh6ubfmvi67he2vzjrm64-story.html?outputType=amp",
-      "publishedDateTime": "2020-03-13T03:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/resizer/zSmItPl11VfSZK_HlthWE4t6ueI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/TRO2XAVMCJDFDHJMTP7WVOQS3E.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "Facial recognition ‘merely a lead’ and not proof of someone’s involvement in crime, says new NYPD policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

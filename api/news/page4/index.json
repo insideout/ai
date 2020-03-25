@@ -2,6 +2,132 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-20-waymo-gamifies-self-driving-car-data-and-wants-everyone-involved.md",
+      "title": "Waymo gamifies self-driving car data and wants everyone involved",
+      "excerpt": "Waymo expands its Open Dataset program and issues some challenges that may result in prize money. Waymo is calling all intrigued minds to partake in an Open Dataset challenge, and it could result in some cold,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-data-game-prize/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
+      "publishedDateTime": "2020-03-20T11:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/reqDD4K5243DNGVR3dFQcAi2c_o=/2019/08/21/3bba88b6-75ae-43fc-8e92-4d307cf9c2eb/waymo-data-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo gamifies self-driving car data and wants everyone involved",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation.md",
+      "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
+      "excerpt": "A new AI system has revealed that we’re finally getting better at wildlife conservation. Researchers came to this conclusion after using machine learning to analyze more than 4,000 studies on species reintroduction across four decades. The system evaluated the outcomes of conservation programs by assessing the study abstracts with sentiment ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
+      "publishedDateTime": "2020-03-20T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design32-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
+      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
+      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T10:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
+          "width": 600,
+          "height": 401,
+          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-an-ibm-supercomputer-called-summit-is-taking-on-the-coronavirus.md",
       "title": "An IBM supercomputer called Summit is taking on the coronavirus",
       "excerpt": "Technology in the form of jet planes may have helped the coronavirus ... to IBM, which developed the supercomputer, scientists are hoping that Summit’s findings will inform future studies and provide a focused framework for further investigation of the compounds that will reveal if any of them have the characteristics to attack and kill ...",
@@ -196,6 +322,51 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-running-these-workloads-you-should-take-a-look-at-the-ibm-z15.md",
+      "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
+      "excerpt": "Talk to any IT administrator about what they look for in a server platform and performance, openness, and security will top the list. Specifically, run my most demanding applications fast, enable my organization to support the range of workloads that power my modern business,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/20/running-these-workloads-you-should-take-a-look-at-the-ibm-z15/amp/",
+      "publishedDateTime": "2020-03-20T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e73ebfb10380d0006bda89a%2F0x0.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -623,6 +794,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-20-researchers-publish-survey-of-explainable-ai.md",
+      "title": "Researchers Publish Survey of Explainable AI",
+      "excerpt": "A team of researchers from IBM Watson and Arizona State University have published a survey of work in Explainable AI Planning (XAIP). The survey covers the work of 67 papers and charts recent trends in the field. The team, led by Prof. Subbarao Kambhampati of ASU's Yochan Lab, focused their review on the area of automated planning systems ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/explainable-ai-survey/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
       "title": "Domo Announces Support for Amazon SageMaker Autopilot",
       "excerpt": "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ...",
@@ -821,214 +1021,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-insights-how-ai-is-changing-jobs.md",
-      "title": "Insights: How AI is Changing Jobs",
-      "excerpt": "FORTUNE On-Demand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fortune.com/videos/insights/insights%3A-how-ai-is-changing-jobs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video.fortune.com/static/images/on-demand-share.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Insights: How AI is Changing Jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19.md",
-      "title": "Can AI Help Us Build a More Resilient Economy in the Face of COVID-19?",
-      "excerpt": "This will start with the most mundane and repetitive tasks ... It’s conceivable this trend could progress further with the help of intelligent machines. In this distant future, AI and robots could automate many of the crucial operations that are necessary for a society to function without too much human supervision. AI can not only help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/amp/",
-      "publishedDateTime": "2020-03-19T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-19-march-fearless-girl-statue.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": "Can AI Help Us Build a More Resilient Economy in the Face of COVID-19?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-can-ai-help-with-autism-diagnosis.md",
-      "title": "Can AI Help With Autism Diagnosis?",
-      "excerpt": "An Interview with Cognoa’s CEO Brent Vaughan In the US, one in five children are living with a diagnosable behavioral health disorder; however, only 21% of those children who are diagnosed receive needed treatment.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/amp/",
-      "publishedDateTime": "2020-03-19T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e73a3c9b113460006856bc0%2F0x0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Can AI Help With Autism Diagnosis?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-coronavirus-health-workers-at-newcross-healthcare-to-be-training-to-perform-oxygen-therapy.md",
-      "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-      "excerpt": "Training is being delivered in partnership with Docebo - a leading artificial intelligence learning platform - to cover virus protection and infection control. It will also train skills to perform Oxygen therapy (ventilation for respiratory infections), blood pressure, temperature and Oxygen saturation, using PPE gear in line with NHS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyecho.co.uk/news/18319277.coronavirus-health-workers-newcross-healthcare-training-perform-oxygen-therapy/",
-      "ampWebUrl": "https://www.dailyecho.co.uk/news/18319277.amp/",
-      "cdnAmpWebUrl": "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/18319277.amp/",
-      "publishedDateTime": "2020-03-19T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Southern Daily Echo",
-        "domain": "dailyecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailyecho.co.uk/resources/images/11155370/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research.md",
-      "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages, Alibaba Cloud is also trying to build a virtual community where doctors from China can share their experiences and answer questions from their peers around the world. Alibaba's research arm DAMO Academy also revealed that it would make three applications available as a ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "ampWebUrl": "https://www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "publishedDateTime": "2020-03-19T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LVg6Poe67rd5TpWqhLcfie-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,335 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-11-ai-and-ethics-time-to-talk-about-responsibility.md",
+      "title": "AI and ethics: Time to talk about responsibility",
+      "excerpt": "That way both parties work together in contributing to better ethics and towards a better future for humans with the help of AI tools. Utopia Analytics is holding a panel debate moderated by The Drum at the Finnish Ambassador’s Residence in London on March 18th from 2.30. Details of the panellists taking part and too book a place lease follow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thedrum.com/industryinsights/2020/03/11/ai-and-ethics-time-talk-about-responsibility",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-assets-04.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-394692-20200304_ethicalai-part1-cover-photo--default--1280.jpg",
+          "width": 1280,
+          "height": 723,
+          "title": "AI and ethics: Time to talk about responsibility",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers.md",
+      "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
+      "excerpt": "Cadence Design Systems, Inc. CDNS, -8.50% today announced that software for Cadence [®] Tensilica [®] HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers-2020-03-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ai-startup-accuses-facebook-of-stealing-code-designed-to-speed-up-machine-learning-models-on-ordinary-cpus.md",
+      "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
+      "excerpt": "Neural Magic, founded in 2017 by Nir Shavit and Alex Matveev, describes itself as a \"no-hardware AI\" company. Instead of relying on GPU chips that are able to crunch through matrix maths operations to run machine-learning models quickly, the Boston-based upstart employs nifty software tricks to achieve similar speeds on CPUs. Court documents ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/11/facebook_ai_chips/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/11/facebook_ai_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/11/facebook_ai_chips/",
+      "publishedDateTime": "2020-03-11T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/07/26/shutterstock_processor_design.jpg",
+          "width": 1000,
+          "height": 680,
+          "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-nvidias-rapids-python-analytics-on-the-gpu.md",
+      "title": "Nvidia’s Rapids: Python analytics on the GPU",
+      "excerpt": "This is one of the reasons practical enterprise use of AI today is dominated by the largest enterprises, which can throw enormous resources at the problem. Rapids is an umbrella for several open source projects, incubated by Nvidia, that puts the entire processing pipeline on the GPU, eliminating the I/O bound data transfers, while also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532009/nvidias-rapids-python-analytics-on-the-gpu.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/stream_river-bed_water-flow_rapids_rush-100780362-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Nvidia’s Rapids: Python analytics on the GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2020-2025.md",
+      "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
+      "excerpt": "“Computer Vision in Healthcare Market 2020-2025” Summary: – Wiseguyreports.Com Adds \"Computer Vision in Healthcare – Market Demand, Growth,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524368/global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524368",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524368",
+      "publishedDateTime": "2020-03-11T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583916027.jpeg",
+          "width": 500,
+          "height": 598,
+          "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-2026.md",
+      "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
+      "excerpt": "”  Robo-Taxi Market – 2020-2026″ A new market study, titled \"Discover Global Robo-Taxi Market By Upcoming Trends, Growth Drivers and Challenges\" has",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524352/robo-taxi-market-2020-technology-share-demand-opportunity-projection-analysis-forecast-outlook-20",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524352",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524352",
+      "publishedDateTime": "2020-03-11T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583915997.jpeg",
+          "width": 600,
+          "height": 250,
+          "title": "Robo-Taxi Market 2020 Technology, Share, Demand, Opportunity, Projection Analysis Forecast Outlook 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-improves-the-way-watson-products-analyze-language.md",
+      "title": "IBM Improves the Way Watson Products Analyze Language",
+      "excerpt": "The company is enhancing several of its Watson artificial-intelligence products with technology designed to help businesses better process and analyze human language, whether it comes from text or voice.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ibm-improves-the-way-watson-products-analyze-language-11583880567",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-GH238_robtho_SOC_20200310183834.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "IBM Improves the Way Watson Products Analyze Language",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-global-voice-recognition-market-latest-study-explores-key-players-apple-inc-facebook-inc-and-biotrust-id-bv.md",
+      "title": "Global Voice Recognition Market Latest Study Explores Key Players Apple Inc, Facebook Inc and BioTrust ID B.V.",
+      "excerpt": "Global Voice Recognition Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-voice-recognition-market-latest-study-explores-key-players-apple-inc-facebook-inc-and-biotrust-id-bv-2020-03-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Voice Recognition Market Latest Study Explores Key Players Apple Inc, Facebook Inc and BioTrust ID B.V.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-the-ethical-use-of-ai-on-low-wage-workers.md",
       "title": "The ethical use of AI on low-wage workers",
       "excerpt": "Also read: Should there be a code of ethics in technology? Hourly workers such as warehouse workers may be adversely impacted by AI-enabled workforce management systems. Lower-wage workers stand to lose the most with the rise of automation while white-collar workers are generally unaffected, the report noted. It cited a McKinsey & Co. study ...",
@@ -678,334 +1007,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-forwardx-debuts-computer-vision-amr-fleet.md",
-      "title": "ForwardX debuts computer vision AMR fleet",
-      "excerpt": "ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in logistics, manufacturing and retail facilities abroad. Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.logisticsmgmt.com/article/forwardx_debuts_computer_vision_amr_fleet",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
-          "width": 300,
-          "height": 400,
-          "title": "ForwardX debuts computer vision AMR fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-facebooks-ride-encourages-ai-agents-to-explore-their-environments.md",
-      "title": "Facebook’s RIDE encourages AI agents to explore their environments",
-      "excerpt": "A preprint paper coauthored by scientists at Facebook AI Research describes Rewarding Impact-Driven Exploration (RIDE), an intrinsic reward method that encourages AI-driven agents to take actions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
-      "publishedDateTime": "2020-03-10T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s RIDE encourages AI agents to explore their environments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-are-ai-ethicists-making-any-difference.md",
-      "title": "Are AI ethicists making any difference?",
-      "excerpt": "Tech companies, consulting firms, and even the US military are rushing to add ethics boards and hire “AI ethicists.” They’re asking them to think about everything from bias and fairness to the circumstances under which it is acceptable to use autonomous weapons. It’s a welcome acknowledgment of the harm AI can do. But many people are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/1814436/what-is-an-ai-ethicists-job/",
-      "ampWebUrl": "https://qz.com/1814436/what-is-an-ai-ethicists-job/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1814436/what-is-an-ai-ethicists-job/amp/",
-      "publishedDateTime": "2020-03-10T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/03/GettyImages-1056547320-e1583669963557.jpg?quality=75&strip=all&w=1400",
-          "width": 1400,
-          "height": 790,
-          "title": "Are AI ethicists making any difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation.md",
-      "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
-      "excerpt": "/PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the TransPerfect",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-301020975.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T12:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
-      "title": "Google launches machine learning framework for training quantum models",
-      "excerpt": "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/uk/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
-      "publishedDateTime": "2020-03-10T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/PUkY2vFk37Kh5uzdiWBBgW-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google launches machine learning framework for training quantum models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-imx-8-applications-processor.md",
-      "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
-      "excerpt": "The cloud stack is deployed directly from the device in just a few steps via AWS CloudFormation as a dedicated AWS instance. AWS enabled the NXP i.MX 8 applications processor as a target for Amazon SageMaker Neo. Amazon SageMaker Neo allows developers to optimize a ML model for a certain device. Lastly, a trained and optimized model is included ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded-computing.com/news/toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-i-mx-8-applications-processor",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T11:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://share.opsy.st/5e67d3c91f0cd-76219803_toradex_aws_nxp.jpg",
-          "width": 5000,
-          "height": 1934,
-          "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age.md",
-      "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
-      "excerpt": "AI was so transformative because of the huge amount of data it was able to process at speed, changing and shaping everything we do. She continued: “The reason why we’re talking so much about ethics in AI is over the last few years we have seen the best of technology – but also the worst.” AI was already being used to detect cancer and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.research-live.com/article/news/the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age/id/5066342",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
-      "publishedDateTime": "2020-03-10T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners.md",
-      "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
-      "excerpt": "We tried something new at last week’s TC Sessions: Robotics + AI. For the first time ever, we incorporated a pitch-off into the event. With a site as embedded in the startup world, it made sense to find a way to give some stage time to some early-stage startups. On Monday night, I was joined by Aaron Jacobson (NEA), Jennifer Roberts (Grit ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
-      "publishedDateTime": "2020-03-10T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/49615823798_a99646b439_c.jpg",
-          "width": 799,
-          "height": 533,
-          "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

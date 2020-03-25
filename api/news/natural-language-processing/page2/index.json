@@ -76,6 +76,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Now AI will understand language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider.md",
       "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
       "excerpt": "$5 million) to a $42 million investment round in Eigen Technologies, a natural language processing (NLP) solution provider. The investment, which has been made via ING’s VC division, ING Ventures, is part of Eigen Technologies’ Series B funding round, which was announced in November of last year. The round also included contributions from ...",
@@ -295,6 +332,43 @@
           "width": 480,
           "height": 270,
           "title": "ING invests in natural language proccesor Eigen Technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ibm-prepares-to-advance-watsons-language-ability.md",
+      "title": "IBM prepares to advance Watson’s language ability",
+      "excerpt": "NAIROBI, Kenya, Mar 13 - IBM has announced several new IBM Watson technologies designed to help organizations begin identifying, understanding and Kenya breaking news | Kenya news today |",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.capitalfm.co.ke/business/2020/03/ibm-prepares-to-advance-watsons-language-ability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Capital FM",
+        "domain": "capitalfm.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.capitalfm.co.ke/business/files/2020/03/artificial-intelligence-ibm-watson-ai.jpg",
+          "width": 968,
+          "height": 681,
+          "title": "IBM prepares to advance Watson’s language ability",
           "attribution": null
         }
       ],
@@ -1098,98 +1172,6 @@
           "width": 1200,
           "height": 675,
           "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions.md",
-      "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
-      "excerpt": "For the first time in four years, Google is launching five additional languages for Google Translate, bringing its total number of supported languages to 108. Google says the large interval since it last added new languages is down to how its machine-translation app learns new languages. If there's a shortage of content on the web from a ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
-      "publishedDateTime": "2020-02-26T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/1200x675/1317bfa4f1d53dd161472cda0e14a784/20200129-dean-steph.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-reuters-launches-ai-powered-video-transcription-feature-for-connect-customers.md",
-      "title": "Reuters launches AI-powered video transcription feature for Connect customers",
-      "excerpt": "Customers on Reuters Connect, the award-winning digital content platform, will now have access to automated transcripts from across 11 languages. The system employs AI technology to auto-transcribe English ... services to automate the process of video transcription and translation, we’re now delivering faster and easier access to more ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.reuters.com/article/rpb-connectaivideo/reuters-launches-ai-powered-video-transcription-feature-for-connect-customers-idUKKCN20K254",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKCN20K254",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKCN20K254",
-      "publishedDateTime": "2020-02-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Reuters launches AI-powered video transcription feature for Connect customers",
           "attribution": null
         }
       ],

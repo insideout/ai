@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management.md",
+      "title": "ACI Worldwide debuts new machine learning kit for fraud management",
+      "excerpt": "“Traditional machine learning models in many cases are not sufficient to ... the new ‘Incremental Learning’ technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, Head of Payments Intelligence ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/pressarticle/81765/aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
+          "width": 480,
+          "height": 270,
+          "title": "ACI Worldwide debuts new machine learning kit for fraud management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-hazelcast-speeds-time-to-market-for-operationalization-of-machine-learning-in-enterprise-applications.md",
       "title": "Hazelcast Speeds Time-to-Market for Operationalization of Machine Learning in Enterprise Applications",
       "excerpt": "models into ultra-low latency production with its support for running native Python- or Java-based models at real-time speeds. The latest release of the event stream processing engine, Hazelcast Jet,",
@@ -1207,51 +1244,6 @@
           "width": 378,
           "height": 213,
           "title": "Bahrain, Karnataka sign pact on cooperation in fintech, AI, cyber security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-how-bank-of-america-uses-ai-to-improve-customer-service-and-take-on-competitors.md",
-      "title": "How Bank of America uses AI to improve customer service and take on competitors",
-      "excerpt": "Indeed, most banks have a dedicated data science team and have had for some time, with AI and machine learning (ML) increasingly taking a supporting role ... Thanks to regulations such as the European Commission’s Markets in Financial Instruments Directive 2, this data is available to all of BoA’s competitors, and vice versa.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354510/how-bank-of-america-uses-ai-to-improve-customer?amp",
-      "publishedDateTime": "2020-01-22T14:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1579733058/itpro/BoA_Erica_AI.png",
-          "width": 2173,
-          "height": 1082,
-          "title": "How Bank of America uses AI to improve customer service and take on competitors",
           "attribution": null
         }
       ],

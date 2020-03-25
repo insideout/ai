@@ -2,6 +2,396 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-01-10-export-controls-threaten-the-future-of-ai-outposts-in-china.md",
+      "title": "Export Controls Threaten the Future of AI Outposts in China",
+      "excerpt": "Other US tech companies, like Facebook, are effectively blocked ... University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/",
+      "ampWebUrl": "https://www.wired.com/story/export-controls-threaten-ai-outposts-china/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/export-controls-threaten-ai-outposts-china/amp",
+      "publishedDateTime": "2020-01-10T05:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e177e6287b5f30008dd4e8e/master/pass/Business-AI-US-China-1169747427.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "Export Controls Threaten the Future of AI Outposts in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-artificial-intelligence-makes-bad-medicine-even-worse.md",
+      "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
+      "excerpt": "Google researchers made headlines early this month for a study that claimed their artificial intelligence system could outperform human experts at finding breast cancers on mammograms. It sounded like a big win, and yet another example of how AI will soon transform health care: More cancers found! Fewer false positives! A better, cheaper way to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/",
+      "ampWebUrl": "https://www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-intelligence-makes-bad-medicine-even-worse/amp",
+      "publishedDateTime": "2020-01-10T03:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Artificial Intelligence Makes Bad Medicine Even Worse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-five-conversational-ai-predictions-for-2020.md",
+      "title": "Five Conversational AI Predictions For 2020",
+      "excerpt": "The year 2020 will be an exciting time for conversational artificial intelligence (AI), as chatbots join forces with other digital assistants and integrate deeper into back-end technologies to deliver better user experiences and increase productivity.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/01/10/five-conversational-ai-predictions-for-2020/amp/",
+      "publishedDateTime": "2020-01-10T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1130053721/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Five Conversational AI Predictions For 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon.md",
+      "title": "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon",
+      "excerpt": "it's hard to discern whether a sincere conversation on AI ethics is being had at all by the heads of the world's biggest tech companies, or if those conversations are solely relegated to the ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsungs-neon-ai-has-an-ethics-problem-and-its-as-old-as-sci-fi-canon/",
+      "publishedDateTime": "2020-01-10T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/jY1NA7fgUSXw2YCWellHwymQwys=/756x567/2020/01/06/da4e3477-788c-4267-8588-df6272e31bd1/neon-tweet.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Samsung's Neon AI has an ethics problem, and it's as old as sci-fi canon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
+      "title": "The best computer reading glasses to help reduce eye strain",
+      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
+      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "publishedDateTime": "2020-01-09T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "The best computer reading glasses to help reduce eye strain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-10-self-driving-car-market-revenue-of-usd-17315-bn-by-2023.md",
+      "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
+      "excerpt": "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-09T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-amazons-autogluon-produces-ai-models-with-as-little-as-3-lines-of-code.md",
+      "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
+      "excerpt": "AutoGluon’s debut follows on the heels of major upgrades to Amazon Web Services’ (AWS’) SageMaker, a toolkit for continuously training and deploying machine learning models to cloud and edge environments. AWS SageMaker Studio is a model training and workflow management tool that collects all the code, notebooks, and folders for machine ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
+      "publishedDateTime": "2020-01-09T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-the-trump-administration-wants-to-regulate-artificial-intelligence.md",
+      "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
+      "excerpt": "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/",
+      "ampWebUrl": "https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/",
+      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/",
+      "publishedDateTime": "2020-01-09T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 600,
+          "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-microsoft-announces-canadian-azure-availability-zone-and-azure-expressroute-in-vancouver.md",
+      "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
+      "excerpt": "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
+      "publishedDateTime": "2020-01-09T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
       "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
       "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
@@ -686,395 +1076,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-ambarella-collaborates-with-aws-and-enables-ai-on-connected-cameras-using-amazon-sagemaker-neo.md",
-      "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
-      "excerpt": "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
-      "publishedDateTime": "2020-01-08T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-toyota-is-building-a-smart-city-to-test-ai-robots-and-self-driving-cars.md",
-      "title": "Toyota is building a 'smart' city to test AI, robots and self-driving cars",
-      "excerpt": "Carmaker Toyota has unveiled plans for a 2,000-person \"city of the future\" near Japan's Mount Fuji, where it will test emerging technologies in a real-life environment.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ces-toyota-big-smart-city/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ces-toyota-big-smart-city/index.html",
-      "publishedDateTime": "2020-01-08T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200108111821-woven-city-toyota-big-1-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Toyota is building a 'smart' city to test AI, robots and self-driving cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-robots-artificial-intelligence-highlight-ces-expo.md",
-      "title": "Robots, artificial intelligence highlight CES expo",
-      "excerpt": "Most robots now also come with some sort of Artificial Intelligence function, like the ability to answer questions and hold a basic conversation. But AI can also be found in other devices ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://timesofindia.indiatimes.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/videoshow/73152741.cms",
-      "ampWebUrl": "https://m.timesofindia.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/amp_videoshow/73152741.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/tech/robots-artificial-intelligence-highlight-ces-expo/amp_videoshow/73152741.cms",
-      "publishedDateTime": "2020-01-08T00:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-73152741/videos/tech/robots-artificial-intelligence-highlight-ces-expo.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "Robots, artificial intelligence highlight CES expo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai.md",
-      "title": "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI",
-      "excerpt": "Artificial Intelligence (AI) Market Research Report – Forecast To 2023 Market Highlights The global market for artificial intelligence (AI) can expect to attain a highly impressive growth rate of 48% during the forecast period (2017-2023),",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-forecast-2023-how-much-of-the-stock-market-is-traded-by-ai-2020-01-08",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-07T23:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Market Forecast 2023 | How Much of the Stock Market is Traded by AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-artificial-intelligence-application-with-android-using-microsoft-cognitive-services.md",
-      "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
-      "excerpt": "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-07T20:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg",
-          "width": 540,
-          "height": 960,
-          "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-amazon-doubles-down-on-ring-partnerships-with-law-enforcement.md",
-      "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
-      "excerpt": "In other cases, municipalities may be utilizing other technology—such as Amazon’s Rekognition product—to extract data even if the security cameras themselves aren’t the most sophisticated. When asked whether Amazon had considered applying facial recognition software technology to Ring cameras, Limp pointed out that Amazon hasn’t ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/",
-      "ampWebUrl": "https://www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ces-2020-amazon-defends-ring-police-partnerships/amp",
-      "publishedDateTime": "2020-01-07T12:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e151678fa6692000820d0e8/master/pass/Biz_Ring-1174747225.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "Amazon Doubles Down on Ring Partnerships With Law Enforcement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-lidar-sensors-arent-just-for-self-driving-cars-anymore.md",
-      "title": "LIDAR sensors aren’t just for self-driving cars anymore",
-      "excerpt": "Most people will recognize a self-driving car based on the whirling sensor perched on the roof. LIDAR, which stands for Light Detection and Ranging, uses laser pulses to build a 3D model of the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/7/21055011/lidar-sensor-self-driving-mainstream-mass-market-velodyne-ces-2020",
-      "publishedDateTime": "2020-01-07T11:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/kI7dwYuO8ZqGFhuVRa626zpmMDQ=/0x0:1024x683/1400x933/filters:focal(431x261:593x423):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66045713/lidar_still_1024.0.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "LIDAR sensors aren’t just for self-driving cars anymore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-ai-in-2020-from-experimentation-to-adoption.md",
-      "title": "AI in 2020: From Experimentation to Adoption",
-      "excerpt": "Advances in data discovery and management, skills training and AI explainability are driving the rate of AI adoption faster than many predicted.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/",
-      "ampWebUrl": "https://www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibm/2020/01/07/ai-in-2020-from-experimentation-to-adoption/amp/",
-      "publishedDateTime": "2020-01-07T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e135cf50bf81b0006244a5e%2F0x0.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI in 2020: From Experimentation to Adoption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-deep-learning-vs-machine-learning-understand-the-differences.md",
-      "title": "Deep learning vs. machine learning: Understand the differences",
-      "excerpt": "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
-      "publishedDateTime": "2020-01-07T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep learning vs. machine learning: Understand the differences",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
