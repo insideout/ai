@@ -1,9 +1,11 @@
 ---
 category: news
 title: "Google launches machine learning framework for training quantum models"
-excerpt: "The machine learning framework has the ability to construct quantum ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at ..."
+excerpt: "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ..."
 publishedDateTime: 2020-03-10T18:34:00Z
-webUrl: "https://www.techradar.com/sg/news/google-launches-machine-learning-framework-for-training-quantum-models"
+webUrl: "https://www.techradar.com/uk/news/google-launches-machine-learning-framework-for-training-quantum-models"
+ampWebUrl: "https://www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models"
 type: article
 
 provider:
@@ -24,6 +26,6 @@ images:
     height: 675
     title: "Google launches machine learning framework for training quantum models"
 
-secured: "Nub4pLoUqF2aGEMcEfpKA/BuaxNKqkmAEVYpQiR1md2mLLUadKFR+DarDLxtZl1gLIx7aFNzpbTnHCIPruDqbRH8/4loABehW8RnAjWdAK/6JrLtclRwWKL1m019JKtVcIwAYTEjLUJpWP7UNdqDecBdxJaPh8thQzIdgMfrgo0EychzaW/OKOzycfVCg4Slz7a9aYrvYyNS7HbgZyInBttHZq/ubJf0lHt4Torg2I2Ny64tMSLiMba2oBa5taaTv1tJHfOxmOO4SpwUuL+HfqWSyKz45HXn6Z4QtlyE0EijkRPTT41eVLKtsC0LQEjY;luEJ99phVvHW3AwM4c7iLw=="
+secured: "VorQIiH+rOdymLdCihcOvKjm8JbOclLHwqdfihDG9ko7cxxajFDQZUAQ3oDda6hjwpKaLUWTkOdi+pqg74A2acIZYdwGw6uAT5ADH2I/fUjBSA9+qOgV3saGrwrEpE7Xmus3dLEyqjwdsxr/DWsJUcXhyLJOiaCemeMX2vB3PUey2ZZenP4IiAwNyD4xAKWRVZks19rzTqHKheNSgxSLdeH5PeBYJ0z15LKjy/OQj2hqc7L1sLLzQh8/I+dNAZwRpUyimWi4S7jnGqK3cGz9YG4W3qrtBnBvE1b78TC8zDQhyMiEmKPGaQML1CaB77lH;PCpkow40c4UaAhjojClaCw=="
 ---
 

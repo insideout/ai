@@ -2,6 +2,179 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-19-can-ai-help-with-autism-diagnosis.md",
+      "title": "Can AI Help With Autism Diagnosis?",
+      "excerpt": "An Interview with Cognoa’s CEO Brent Vaughan In the US, one in five children are living with a diagnosable behavioral health disorder; however, only 21% of those children who are diagnosed receive needed treatment.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/amp/",
+      "publishedDateTime": "2020-03-19T10:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e73a3c9b113460006856bc0%2F0x0.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Can AI Help With Autism Diagnosis?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-coronavirus-health-workers-at-newcross-healthcare-to-be-training-to-perform-oxygen-therapy.md",
+      "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
+      "excerpt": "Training is being delivered in partnership with Docebo - a leading artificial intelligence learning platform - to cover virus protection and infection control. It will also train skills to perform Oxygen therapy (ventilation for respiratory infections), blood pressure, temperature and Oxygen saturation, using PPE gear in line with NHS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailyecho.co.uk/news/18319277.coronavirus-health-workers-newcross-healthcare-training-perform-oxygen-therapy/",
+      "ampWebUrl": "https://www.dailyecho.co.uk/news/18319277.amp/",
+      "cdnAmpWebUrl": "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/18319277.amp/",
+      "publishedDateTime": "2020-03-19T10:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Southern Daily Echo",
+        "domain": "dailyecho.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailyecho.co.uk/resources/images/11155370/?type=responsive-gallery",
+          "width": 650,
+          "height": 433,
+          "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research.md",
+      "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
+      "excerpt": "Through video conferencing and real-time AI translation into 11 languages, Alibaba Cloud is also trying to build a virtual community where doctors from China can share their experiences and answer questions from their peers around the world. Alibaba's research arm DAMO Academy also revealed that it would make three applications available as a ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
+      "ampWebUrl": "https://www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
+      "publishedDateTime": "2020-03-19T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/LVg6Poe67rd5TpWqhLcfie-1200-80.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths.md",
+      "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
+      "excerpt": "Driverless truck startup Starsky Robotics is shutting down ... In a blunt post-mortem of what went wrong, founder and CEO Stefan Seltz-Axmacher blamed results-hungry investors, unexpected difficulties with getting the AI right, and the fact that safety just isn’t sexy for Starsky’s problems – and the problems that he predicts will ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/",
+      "ampWebUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
+      "publishedDateTime": "2020-03-19T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/starsky-robotics-autonomous-truck.jpg",
+          "width": 1080,
+          "height": 680,
+          "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-the-end-of-starsky-robotics.md",
       "title": "The End of Starsky Robotics",
       "excerpt": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016 ... to land many of the vulnerable jobs by the end of January and I’m in the process of selling ...",
@@ -1003,162 +1176,6 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-bioxcel-therapeutics-provides-an-update-on-its-ongoing-phase-3-serenity-trials.md",
-      "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
-      "excerpt": "A non-invasive therapy that causes rapid symptom relief and de-escalates agitation may be ... About BioXcel Therapeutics, Inc.: BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology. BTI's drug re-innovation approach leverages ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-provides-an-update-its-ongoing-phase-/2020/03/19/9117710.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
-          "width": 252,
-          "height": 335,
-          "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
-      "title": "Google Translate now enables you to transcribe speech",
-      "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech",
-      "ampWebUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
-      "publishedDateTime": "2020-03-19T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151499-apps-news-google-translate-now-enables-you-to-transcribe-speech-image1-hdvtbcdk05.jpg",
-          "width": 945,
-          "height": 630,
-          "title": "Google Translate now enables you to transcribe speech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
-      "title": "How Machine Learning Fights Financial Fraud",
-      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": "How Machine Learning Fights Financial Fraud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
-      "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-      "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/03/19/hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Hybrid AI systems are quietly solving the problems of deep learning",
           "attribution": null
         }
       ],

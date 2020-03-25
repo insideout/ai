@@ -2,6 +2,186 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-24-mit-can-now-train-self-driving-cars-in-a-photorealistic-simulator.md",
+      "title": "MIT can now train self-driving cars in a photorealistic simulator",
+      "excerpt": "Simulators have been used for years to train human drivers, pilots and astronauts, and now they're being used to train self-driving cars too – and a new system developed by researchers at MIT could be the most promising yet. The Virtual Image Synthesis and Transformation for Autonomy (VISTA) simulation system means cars don't have to venture ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/",
+      "ampWebUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
+      "publishedDateTime": "2020-03-24T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4baac11/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F28%2F58%2F5fe4b6c24adb8500a2a8e0daf3fa%2F00-mit-sim.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MIT can now train self-driving cars in a photorealistic simulator",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live.md",
+      "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
+      "excerpt": "At the core of these activities is to have a holistic, evolving view of the customer over time. Data analytics and AI are at the core of future solutions. This means moving from communication to conversation by capturing both implicit and explicit data, and creating a “living” customer profile that changes as the customer goals and ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/amp/",
+      "publishedDateTime": "2020-03-24T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4.16-Yodlee-webinar.png?fit=1489%2C782&strip=all",
+          "width": 1489,
+          "height": 782,
+          "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ibm-invests-in-ai-hardware.md",
+      "title": "IBM Invests In AI Hardware",
+      "excerpt": "While the IBM hardware business today is limited to POWER and Mainframe chips and systems, the technology giant is quietly building its expertise and capabilities in AI hardware. Where this could end up is anybody’s guess,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "publishedDateTime": "2020-03-24T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a793610380d0006fc0469%2F0x0.jpg",
+          "width": 745,
+          "height": 489,
+          "title": "IBM Invests In AI Hardware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
+      "title": "Building a trash sorter with AWS DeepLens",
+      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
+          "width": 1200,
+          "height": 545,
+          "title": "Building a trash sorter with AWS DeepLens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
       "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
       "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
@@ -50,7 +230,7 @@
       "path": "_news/2020-03-24-ai-events-and-conferences-moving-online.md",
       "title": "AI Events And Conferences Moving Online",
       "excerpt": "It simply is not life-as-usual for event and training organizers who need to satisfy the still-strong hunger for information, connection, education, marketing, and networking that customers, technology providers,",
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/",
@@ -529,6 +709,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-24-microsoft-is-expanding-the-azure-stack-edge-with-nvidia-gpu-preview.md",
+      "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
+      "excerpt": "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T07:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png",
+          "width": 377,
+          "height": 212,
+          "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-the-potential-of-ai-rpa-together.md",
       "title": "The Potential Of AI & RPA Together",
       "excerpt": "Robotic Process Automation (RPA) has been on fire, but it will need an assist from AI to reach its full potential",
@@ -708,43 +933,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
-      "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
-      "excerpt": "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing t...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322",
-      "publishedDateTime": "2020-03-24T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-24-artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024.md",
       "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
       "excerpt": "Mar 24, 2020 (The Expresswire) -- Global “Artificial Intelligence (AI) ChipsMarket“ Report 2020report recorddetailed estimation to improvement a complete...",
@@ -912,177 +1100,6 @@
           "width": 760,
           "height": 428,
           "title": "Sony launches AI-based music production service, Flow Machines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
-      "title": "Speech recognition systems have higher error rates for black people, study finds",
-      "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias/",
-      "ampWebUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "publishedDateTime": "2020-03-23T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech recognition systems have higher error rates for black people, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world.md",
-      "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
-      "excerpt": "In a recent study, researchers hailing from MIT’s Computer Science and Artificial Intelligence Laboratory and the Toyota Research Institute ... uses a real-world data set to synthesize viewpoints from trajectories a car could take. While driverless car companies including Waymo, Uber, Cruise, Aurora, and others use simulation environments ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
-      "publishedDateTime": "2020-03-23T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-monitoring-is-critical-to-successful-ai.md",
-      "title": "Monitoring is critical to successful AI",
-      "excerpt": "Amit Paka is co-founder and chief product officer at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. Krishna Gade is co-founder and CEO at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. As the ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "publishedDateTime": "2020-03-23T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/adeolu-eletu-unRkg2jH1j0-unsplash.jpg?w=640",
-          "width": 640,
-          "height": 424,
-          "title": "Monitoring is critical to successful AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-apple-musics-ai-generated-upbeat-playlist-helps-you-cope-with-reality.md",
-      "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
-      "excerpt": "The playlist is rolling out this week. Apple is trying something new to keep people's spirits up during the coronavirus pandemic. In Apple Music, it's introducing a new algorithmic playlist called the Get Up! Mix that the company says is full of \"happy-making, smile-finding, sing-alonging music.\" With the help of human editors, it will update ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
-      "publishedDateTime": "2020-03-23T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F07a201d0-6d3a-11ea-bf47-e4e4f9df29c0%26client%3Da1acac3e1b3290917d92%26signature%3D7a66d47a4dc4e944e3620250179345469011b0fd&client=amp-blogside-v2&signature=fcc19d346f99286c069caa46ba5faf0cf0a34dac",
-          "width": 600,
-          "height": 350,
-          "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
           "attribution": null
         }
       ],

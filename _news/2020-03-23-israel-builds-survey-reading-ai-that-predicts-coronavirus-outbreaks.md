@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/03/23/israel-builds-survey-readin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

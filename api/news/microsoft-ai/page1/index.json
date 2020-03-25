@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-24-microsoft-is-expanding-the-azure-stack-edge-with-nvidia-gpu-preview.md",
+      "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
+      "excerpt": "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T07:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png",
+          "width": 377,
+          "height": 212,
+          "title": "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-microsoft-adaptive-biotech-collaborate-to-fight-covid-19.md",
       "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
       "excerpt": "Microsoft MSFT and Adaptive Biotechnologies ADPT recently extended partnership in a bid to aid public health officials and researchers to access and track data pertaining to COVID-19 patient immune responses.",
@@ -1156,43 +1201,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ai-provider-releases-social-determinants-of-health-tool.md",
-      "title": "AI provider releases social determinants of health tool",
-      "excerpt": "Jvion leveraged its own AI along with Microsoft Azure Maps to empower providers and health systems to address underserved populations. Jvion's social determinants of health platform also offers individualized interventions to aid in aligning community benefits more effectively. The platform is based on de-identified patient information.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ai-provider-releases-social-determinants-of-health-tool.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "AI provider releases social determinants of health tool",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

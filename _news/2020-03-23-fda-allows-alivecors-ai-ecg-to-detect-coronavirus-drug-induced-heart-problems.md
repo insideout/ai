@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-de
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-detect-coronavirus-drug-induced-heart-problems/amp/"
 type: article
 quality: 83
-heat: 85
+heat: 83
 published: true
 
 provider:

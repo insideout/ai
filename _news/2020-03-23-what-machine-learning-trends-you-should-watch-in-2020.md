@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

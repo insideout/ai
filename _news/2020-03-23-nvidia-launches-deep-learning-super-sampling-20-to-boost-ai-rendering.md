@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampl
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 428
     title: "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering"
 
-secured: "Xgqfkq/N37KOcxWOmZabNozYTMrC+59SbmGJKNjO19j6AFaCqCLCAx/dwAI2Ly6hrJskjb1Vcj+mHN3Cx72p7fQscCDJL9Ccd3cXBK2N58pdbRPdG78rEmu5KpsJ8sXgVZQbvpXy4KWZuUChuusTRTCZFLTpjZxe4JWobdydXxAHpcLCKbjyU65ir9jUpC/ft2ayHyZtVmDadPm7Ao6O4g1g4aV0+T3k8VbzC0ZJyTbIccw9M/uLvfA/74nQqfEBsx6QHQZw4uEdPwYqzwZdT2lYYbn97ZQowQ43Yuci9RxWJar2qpAxSC3BmRyAu4/43fgRrFNPBNjc5f3fHKeew8il/uctBLsQ/K9nZweEH0w/vuuZgTMolppgpgX1big8W+Q6CEWIaPu9ySoow/GUtEeCHgOB5XL6W8jYD2ba4vmW3BuZcndJeszf/qa+WZ4gNc/CthbLWanfTIvSW95NP9WBKz9rZ/TU930dMSFJzss=;HNj46Jtudf2+9mQqsp9bUg=="
+secured: "hgrNTr7IM7ZuYwnZrxj/4RjJfGPQrB8YfRuw2FtuKR6HgZnsRjhXwC7178PAy3HOiMIjcknkhkNt5jOlCpBZcNNlsGA5QXxXFKsc3K7E5eX83cabGDL1a1DNXscB7TauQlsCVaSVWshWe1Aj+P7P62iEHy8ndDWKOVJ9j0vYjJxKyRFWz2Wa8FSQg37n1mFvp/F0BxHDCmVtljMi0l7YSQvCA1P5dw2RNTLLN9dsTyOPn9Wya5Y6C08HG55Sqf6HhlN4QmJmmz7+9uPHmz1+RddoOI5nfc072quhupnSdpc647Jggz5KK84+9C5CvadKlMTVzoVy+QSEbTW9q619bm2Bp+EFkcp+zUETDADGQHLRKy4ACCoq5f4NT92mz/NuVQUz7jxXwUd8jQg9/7Kq/WIbU7fW/5POd4bXhOR3b0Gbudazn1l5aXk17LixRXVnO3QtHi5qk1ODLnGvaUBFo1g6enCx3xkCx1dFODyckDA=;PUPxFl1tK6e6rnYt+VN3eA=="
 ---
 

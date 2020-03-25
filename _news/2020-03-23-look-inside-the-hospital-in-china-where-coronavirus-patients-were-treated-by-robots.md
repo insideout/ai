@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/03/23/video-hospital-in-china-where-co
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/23/video-hospital-in-china-where-covid-19-patients-treated-by-robots.html"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:
