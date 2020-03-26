@@ -28,6 +28,6 @@ images:
     height: 502
     title: "Kaizo raises $3M for its AI-based tools to improve customer service support teams"
 
-secured: "OX9gVqxabfj8n613EqCE7l4ytUAEJtgY+hnTTQUjWT50OqbJv6JigwTtrmvnSPvZfxHi+fUUO+a4RhRFqjTSf5Bc6PIffeqpepY11JpfrrnE1kK0ABFMpzwVVrPVEK7+hI26FRGhWA4JGd4i+OtkERusvfIGwvmGDCPFUkVYCJGqm/AuUZl8/3qQQkQXVDEivKf4O+fuGsTUPwIeqE2Ie51gkO6ikwbVcrPhPVozkyIDE5SKt8zXJMq7oeeViW3Ft5aQxPIyCZ/ZBWm8KIuHrrN2hHywfb/dlZ+q7Gh523NGSydm9QKPqMD0N1J/YKTu;5xzFIaBaEWf+7WgI8TTYhQ=="
+secured: "Nz/I1jk3+Xsw6uSsouD9ogP/l3zUFy7DjzbotlNgY0le02lz2bXtjIGrYXceyBSYThpgr7X1MllVaFhvZ8UeCRttyUzRWs5oyLjgkh91S+DO+Vkqg2tc0i4aCzxOcYK/FmzWt6Kw1AP5k9p+1dh1CNRpiQa1BOWNoGr1YhrsYVt6WZyrhuvqND/wSGQUojItvvlgFejs9VmGmTq5vqA/HwOWA+NuxjckDcIaHtF0tpJtV1r6lZZ7fyfhtxHZeH5VgW/xXynBiQ3w+e1brSI2m7fySjdDaXYthCqeSEKBS+pzsM1JwKm7wUlqU2neB+B+Y1XYygJadXxM9gmL63U3CUcT2onKPxdEDaEp8y9aQIfd9E3pDVJWD5yhEfqZjlUFGu+Dmbb7SHKnqUlTedxntpTB5/DuqoUIevftskWInENVQllntk3G8pFg3O9L6rfhdduwX0SZOpJ9GjtLy7YPuDSZxmDVZDsp32SMEILhH90=;MBim6m/hi09vtIKknlaEsA=="
 ---
 

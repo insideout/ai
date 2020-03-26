@@ -1,50 +1,28 @@
 ---
 category: news
 title: "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics"
-excerpt: "Grazper has developed advanced artificial intelligence (AI) technologies for analysing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Why 100% Accurate Technical Translation Is a ... circuit design in the hardware language About Yokogawa Founded in ..."
-publishedDateTime: 2020-03-25T15:41:00Z
-webUrl: "https://www.manufacturingtomorrow.com/news/2020/03/25/yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics/15024/"
+excerpt: "Grazper has developed advanced artificial intelligence (AI) technologies for analyzing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Recent advances in deep learning and related technologies have enabled the practical application of AI in industry ..."
+publishedDateTime: 2020-03-25T02:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200324005287/en/Yokogawa-Acquires-Danish-Startup-Grazper-Technologies-Specialists"
 type: article
-quality: 8
-heat: -1
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Manufacturing
-  domain: manufacturingtomorrow.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Natural Language Processing
   - AI
+  - AI in Robotics
 
-related:
-  - title: "Dell Technologies AI Solutions Announced"
-    excerpt: "Today, Dell announced several Dell Technologies AI solutions. The solutions include Dell EMC HPC Ready Architecture for AI and Data Analytics, as well as two new validated architectures specifically for data analytics. Dell Technologies has been the parent company of Dell and Dell EMC ever since Dell acquired EMC in 2015. Dell was founded in ..."
-    publishedDateTime: 2020-03-25T13:54:00Z
-    webUrl: "https://www.storagereview.com/news/dell-technologies-ai-solutions-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 37
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/sb-instagram-feed-images/90430505_696968217777648_8365686552064321519_nfull.jpg"
-        width: 506
-        height: 264
-  - title: "New AI Solutions from Dell Technologies"
-    excerpt: "The systems are certified NVIDIA NGC-Ready to help data scientists, developers and researchers quickly deploy AI frameworks with containers and get a head start with pre-trained models or model training scripts. In addition, the Data Science Workstation portfolio is optimized for NVIDIA Data Science Software powered by RAPIDS™, including GPU ..."
-    publishedDateTime: 2020-03-26T14:32:00Z
-    webUrl: "https://insidehpc.com/2020/03/new-ai-solutions-from-dell-technologies/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/03/0-1.jpg"
-        width: 420
-        height: 420
+images:
+  - url: "https://mms.businesswire.com/media/20200324005287/en/564757/23/Logo_YB1.jpg"
+    width: 1200
+    height: 627
+    title: "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics"
 
-secured: "JUdX22EOYMr/tV1TVD74YPQEzXssuBHfHDliyFWSF7javSDAjj/yn+6LTRoeCz8KqxD3O9F0p6kGlaiqGAyMDSkkAQJgCjvKq3q2C6Ig8W3+KTiMI3EyhjwJB3GSZEF3/EgSSkeU5K+uc+8UtO7P5wzaY8GFUz+moxaRmG3GF2RDvwdJgk/7LMDYp0AFjuwMdAS0Z+xy41veD4hFNxnBlrz9LEk34iV3DNrSTi2+eQkncL3piKms0DKrsAMLs5m0DmeZ6GHomvJ7SHcO0WUEukx8tX9mQhFHO19sISBSZYRL+QhPG1AxpCVeRy79cn0x;ndc6kxdpWVRgWmW5sBRyeg=="
+secured: "7uj7NwqtBGEts6BxuWY5npV7YqSGX19u/7n6vpvadKXbenxPz7cs0HkqZwziDpinsGEBLBLqk9OgSoYK9vhe6YHF0ecpxgY3RogggbS5wru/ZN+V0vZbLGXsqQf8gl6SfSajWA2rYE5ojRPIRt3IaXqRoDDHYA+IqQThcsCEkiosRiNDikkUIOOWYd9BJOsdVZEX4OPUVN3xC5ceU6jC53JzUsYLOuBT+nyUkh/A4GcS7HMFOgNrH8+dXOr0N6F8Cjmd02oKu45v09BrLWvXdLUj0u4ZPRMnz+118ERf6lW61/0XksTOfNxPTCEYY4MA;Nhss8iKcS+jxc3B9/1eWzw=="
 ---
 
