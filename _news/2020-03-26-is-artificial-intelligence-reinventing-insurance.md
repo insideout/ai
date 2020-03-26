@@ -7,8 +7,8 @@ webUrl: "https://www.itweb.co.za/content/Pero37ZxmyRqQb6m"
 ampWebUrl: "https://amp.itweb.co.za/content/Pero37ZxmyRqQb6m"
 cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/Pero37ZxmyRqQb6m"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.itweb.co.za/static/pictures/2020/03/Bill-Hoggarth.jpg"
@@ -24,6 +25,6 @@ images:
     height: 400
     title: "Is artificial intelligence reinventing insurance?"
 
-secured: "vQxmedFwqBjmwUCMgWlrF3y04S9QMHgHn/GawX8pfP1SheN9Hx67ltMU7HMeT/Ig9VaZqhBqYhMCUhEgBQMsfbc9XwjWJXCYfh0UKvRdoxwPKu7ffsbJH8TNgXNvdoxMJUMFkXlhJPs3U8OMtwAORkoYUdW4FEgxjip/OpjBj7ifNpG4XwtTSIB5s4OsLH7x5UvQJsw+UofeaEXx1V2CifeNeyLFuDActqwnNhrJjqV23aQTXfFnNzfTMpxVOpHouN3kK6f5cFSXBPDR0yrZ7Xhn0iyiNxYDrR7ziQkY6MzOXHIKP3g4wvVwGmTTGv2r;7u6bnp0xDMh1FfrLGIjJDA=="
+secured: "jy5UdwBfdlOtYWrL7UDCZjeRnsChUIlIs05jTc4cBwWTr/IIH2yYl8Wly9D4VIwe/Qdc9W08wkk4B1LWUlj0kFME6GcanXl6egrkigMHYEBmltGpBaq1VybrFV9/LQEKT1f/hUE9UoFSOtpHEXzJhleSz+d/foBYELQtkpyyCvublarcYw4DlLWO0ORjJ04K0yu67z0yQM5XxRf6x842ZPXpkJiZ74eJ8PQY4dd3pOPCBd58G3DbEPEEbHkhLFHucUzcuXhND7gd+A77fGpfH+DDobPyIYUWkIOL2GMl+ZA+93iUP0bZT5ChkgM17EJKA9pjleGewQCfz/SLaMyCRCmZQUbb/66u3mdVVgjt8pQW3XT6aYK4tyEKcT9zy9EXVkIW4N4GXuNP/viBnc/l/LFLwWvNKAjT9nUkhSg86xG0ozb8+L1zJ4KI7NvTADZi1KsOjA9VmNPUkMSjIsR/h4zwh+1ym5v4P8TXrtUkvbM=;G5ueTtLuFf4sXYqXjh4vDA=="
 ---
 

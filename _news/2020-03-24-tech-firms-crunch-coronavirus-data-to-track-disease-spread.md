@@ -7,8 +7,8 @@ webUrl: "https://www.axios.com/tech-firms-crunch-coronavirus-data-to-track-disea
 ampWebUrl: "https://www.axios.com/tech-firms-crunch-coronavirus-data-to-track-disease-spread-e2a49766-74e6-4292-a754-192c5465bb23.html"
 cdnAmpWebUrl: "https://www-axios-com.cdn.ampproject.org/c/s/www.axios.com/tech-firms-crunch-coronavirus-data-to-track-disease-spread-e2a49766-74e6-4292-a754-192c5465bb23.html"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://images.axios.com/Sbt5myhUjxrZ-Encvx76d2n2Dc8=/2020/03/23/1585000957509.jpg"

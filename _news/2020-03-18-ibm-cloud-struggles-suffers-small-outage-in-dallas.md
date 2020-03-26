@@ -20,6 +20,6 @@ images:
     height: 630
     title: "IBM Cloud struggles, suffers small outage in Dallas"
 
-secured: "hHNNr+KCS3EJ3eu5cjdBEzZALMnN2xtKP+3RmriYECYcis+mroGPbGjoybWokP0bZ9BcY/l8jCFxCBVIjQHYm0tT4MnEpi9KjS/+OwfzZ3h3ORKxDl3lX3tcDpYJESYVV0z9hoMBsy0ZyWTOaGaOSNQBpYakTfLm7V0GXPH6fkOOISVJXcc8Udw4cG2YeWytqFuFUUBl1WnyFYYqQ0yHFTdBya8jEcwyfa+cuExqBfpO6VQK+DJkxtfcy4uRindgcaaQTtY5/Ixo7uWbPw3vD2M3GgS27K+FJmsVXEhL+pc6lj8Jm22dtSU454fwUtEA;h0PKU/h/J3PjF/cZCEzk1Q=="
+secured: "bWBZ31LkDCS301usBIzl2tX1iU88xrVwmqEROL0AngjqGOfNLm75opcRbHR8IqTBVAuCDJfewYQh/+4RlvUSoEQFZhHjhw0/5U4HdHSS9iuu7coYh10/emFlxTghOfGRXrqn/+M+p4cJ/D46KgD04//z/klQyibVflJol6TnXMjuBZ52mMIkBnj4KXJFlf7L0laNvHqwbyJ2oVIOVDqrV3Pus3ljqYAocPeERA42ptmDIEidkhQAdT8Dhp5VIQ4mh/T0OMCQakyT92OkuUH4x9FqupS8pQxiS4OybcibHb3I1S/7j5GuhxA07hSRTBcxL7qijGFjp3H3ua8SYlCIQy+8YU4pr05nVLrhMqrLm5YBmSkhMyCJxMR+htAAn2coIBrEqX2z9xHYhQlcb21KJW2RCVvkM/2N3MoK3v3+W574NsDRtFKHGEDsJvc0JOAibmR+iCiiYio4D9fbzMg8kguelhTaAxkeDWCN4Li26us=;IaZqNdo0nCB6OINhQ/KD3Q=="
 ---
 

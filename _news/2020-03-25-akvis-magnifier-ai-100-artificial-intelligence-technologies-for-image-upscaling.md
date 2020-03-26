@@ -1,27 +1,28 @@
 ---
 category: news
 title: "AKVIS Magnifier AI 10.0: Artificial Intelligence Technologies for Image Upscaling!"
-excerpt: "AKVIS announces the release of Magnifier AI 10.0! The new version uses artificial neural networks and machine learning groundbreaking"
-publishedDateTime: 2020-03-25T12:38:00Z
-webUrl: "https://www.prnewswire.com/news-releases/akvis-magnifier-ai-10-0-artificial-intelligence-technologies-for-image-upscaling-301029151.html"
+excerpt: "AKVIS announces the release of Magnifier AI 10.0! The new version uses artificial neural networks and machine learning groundbreaking image enlargement technologies. The"
+publishedDateTime: 2020-03-25T13:13:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/akvis-magnifier-ai-artificial-intelligence-technologies-for-image-upscaling/article_f9c618ee-6be3-5185-ba3d-67feb7e1c68b.html"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1137163/AKVIS_Lab___Magnifier_AI.jpg?p=publish&w=650"
-    width: 650
-    height: 519
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/36/836fb622-351a-541c-ae99-77cf0f964e62/5e7b56404cfc0.image.jpg?resize=400%2C320"
+    width: 400
+    height: 320
     title: "AKVIS Magnifier AI 10.0: Artificial Intelligence Technologies for Image Upscaling!"
 
-secured: "npdg/0NkvhRv5UcZ4xn6hSIsdJVt9LfmiAeimLFSjQPRyI1vZAVHXSAcjdNNPL6jCmJ/JJpAY81zDf45Om8pP11B5SjX9071UYap6i0SdNjYe1ilzeaMN10yxevjfK5AHRkk4KyUEZm47meYxjwzQos8xMuf2s+893fBXnm99gKBDKb7KPxvPg0uXIm8ImFjjdvCF7tgW5d+9MOrSVbg3f+ppY5+nNShiMdKAbPt8Z54xoUkRHh+rmdOOulK0dr6/+XYAdrPU4cKjhW2SvyIxN6uqk9R6ftEkJo8wqSPDShOQWZXFepnWGqvkcbbbnMJ;18TpX2c5ghs0aOLUCaua+A=="
+secured: "Xz/r5iW4HnXhUiOucao8A9GO78L+08KF9g/O854Pkibytwz1hUMQlbmHklBdNoLSNX0dw5LBsf7fLTGYERaOaqX7tsybU4NEqIOhNtlPslHhWGQX4A0IMHAmEeVkq2TmjTGCVcphKUtULYYaRfDUgjxCO+sSRDrGQM+6yAjBKnNtMfPX5+Ragr2klO0k/YxceppXAEphiOPy2g1yk0XBmVkSKLT3YyyPRTEKAVcGEXdNzZbWgFE2xsgDOvF/WkTSdMszoNE8Ejg8W8tnMyI2K1SyzUbvY1D8wKv+l7mW6Jo5VvtE9J8PqkjF6mvxPBWa;mPTzJIvVnTZzWcI4BRj6+Q=="
 ---
 
