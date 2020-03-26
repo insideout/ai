@@ -31,6 +31,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
+      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
+      "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141641.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-revolutionary-ai-algorithm-speeds-up-deep-learning-on-cpus.md",
       "title": "Revolutionary AI Algorithm Speeds up Deep Learning on CPUs",
       "excerpt": "This week at the MLSys Conference in Austin, Texas, researchers from Rice University in collaboration with Intel Corporation, announced a breakthrough deep learning algorithm called SLIDE (sub ...",
@@ -935,50 +972,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-ai-based-software-is-being-used-to-diagnose-coronavirus.md",
-      "title": "AI-based software is being used to diagnose coronavirus",
-      "excerpt": "After BlueDot's AI epidemiologist was one of the first to signal the outbreak of the coronavirus (Covid 19), another AI-based software developed by a Beijing-based startup Infervision, is now helping physicians diagnose it in Wuhan. The software, developed in collaboration with Wuhan Tongji Hospital, helps detect typical and partial symptoms of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/ai-based-software-is-being-used-to-diagnose-coronavirus",
-      "ampWebUrl": "https://www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "publishedDateTime": "2020-02-28T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/02/1581340066_1024px-2019-ncov-cdc-23312_without_background_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "AI-based software is being used to diagnose coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

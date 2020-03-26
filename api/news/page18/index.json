@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-12-machine-learning-as-a-service-market-overview-and-scope-industry-outlook-size-forecast-2020-2025.md",
+      "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
+      "excerpt": "New York, March 12, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market--overview-and-scope-industry-outlook-size-forecast-2020-2025-2020-03-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T23:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects.md",
       "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
       "excerpt": "Deep Learning Market Highlights: The prominence of cloud-based services is predicted to play a key role in the expansion of the deep learning market 2020. The information & communication technology industry reports are created by Market Research Future,",
@@ -943,42 +988,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-york-times-best-selling-book-the-lean-startup-expands-series-with-newest-addition-lean-ai.md",
-      "title": "New York Times Best-Selling Book, The Lean Startup, Expands Series with Newest Addition, Lean AI",
-      "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--The next book in the Lean Startup series by Eric Ries, and the first book from Lomit Patel, Lean AI will launch in bookstores across the country on March 17th. Published by O’Reilly Media, Lean AI dives into the power of artificial intelligence and automation to adapt, customize, and personalize cross-channel ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200311005108/en/New-York-Times-Best-Selling-Book-Lean-Startup",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200311005108/en/778928/23/AF_color_medium.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "New York Times Best-Selling Book, The Lean Startup, Expands Series with Newest Addition, Lean AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

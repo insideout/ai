@@ -2,6 +2,43 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-09-googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models.md",
+      "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+      "excerpt": "Google LLC today open-sourced TensorFlow Quantum, an extension to TensorFlow that enables developers to build artificial intelligence models for quantum computers. Quantum computing is still in an early stage, but the technology is maturing rapidly. IBM Corp. is doubling the processing power of its quantum chips every year, while Honeywell ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/09/googles-new-tensorflow-quantum-tool-lets-developers-build-quantum-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/quantum.png",
+          "width": 718,
+          "height": 400,
+          "title": "Google’s new TensorFlow Quantum tool lets developers build quantum AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
       "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
       "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
@@ -879,35 +916,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence.md",
-      "title": "Michael del Vecchio discusses how business accounting is changing due to artificial intelligence",
-      "excerpt": "has become a mainstream expression lately, and keeping in mind that it is difficult to isolate the publicity from practical possibilities, AI is established on a strong rule. Essentially expressed, AI is one of the most exceptional ideas in framework creation and dynamic,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/w15504476/michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504476",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504476",
-      "publishedDateTime": "2020-03-08T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

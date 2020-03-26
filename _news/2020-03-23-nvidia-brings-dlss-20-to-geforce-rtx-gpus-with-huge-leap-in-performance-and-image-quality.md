@@ -41,6 +41,19 @@ related:
       - url: "https://scdn.slashgear.com/wp-content/uploads/2020/03/nvidiadlss20.jpg"
         width: 1280
         height: 800
+  - title: "NVIDIA Intros DLSS 2.0: Ditches Per-Game Training, Adds Motion Vectors for Better Quality"
+    excerpt: "While NVIDIA’s annual GPU Technology Conference has been extensively dialed back and the bulk of NVIDIA ... This morning NVIDIA is finally taking the wraps off of their DLSS 2.0 technology, which the company is shipping as a major update to their earlier AI-upscaling tech. Responding to both competitive pressure and the realization of ..."
+    publishedDateTime: 2020-03-23T14:00:00Z
+    webUrl: "https://www.anandtech.com/show/15648/nvidia-intros-dlss-20-adds-motion-vectors"
+    type: article
+    provider:
+      name: AnandTech
+      domain: anandtech.com
+    quality: 30
+    images:
+      - url: "https://images.anandtech.com/doci/15648/DLSS_20_car_678x452.jpg"
+        width: 678
+        height: 381
 
 secured: "rKuy0DG7EuHO47Ry23zB00HE5LeDZHHRimPN7F62IWLG1HQB4Nas5tU5WS71tg5DGtPHDC0i9QzGrdTdGIzll4g0/G1fJSsIrbTz+zpL2FejGSiKGRTBoKYWVhKB4Q8EivO6Rejf6Zu0IyjrBRbF5c7VJlrDr5W1MZ3AoMGtKk8cjUnm/2yaH3QODFSLDu2oJlT+Rrm545/9F4FK4J07axpG1FfSuBNJs6wGo30QqI1yfeWuDbaWMTbwmG88+J5E4aGZDmeoUzRvR8lBxW8/ZyxN8FEdQMEKvCuAs1pKuzqxsyG10j6ELQc9cPQN5NZPxjf4QRBVvzWOM2351m5U+y64YaI2IqE0d9xdY/wA5wdcuV2AFYzO2KELn28lnkVyObELYnp5eu1AkDVD64riAGXUn50roB3yIOyPu7J2I7nITHLBUbtc7l527DAdRB/tLa3eKodBkWet5FyMV2RTrYJNEy1hz+cCaNdBqFADolQ=;3JAqChyAKMQbIvZhyGVUxg=="
 ---

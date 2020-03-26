@@ -2,6 +2,51 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-03-05-googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak.md",
+      "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
+      "excerpt": "These predictions were drawn from DeepMind's new deep learning system but have yet to be experimentally verified, DeepMind noted.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/google-deepmind-ai-predictions-coronavirus-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/google-deepmind-ai-predictions-coronavirus-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-deepmind-ai-predictions-coronavirus-2020-3?amp",
+      "publishedDateTime": "2020-03-05T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e616fe7fee23d05c93321cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 900,
+          "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-alphabets-deepmind-hopes-to-aid-researchers-with-ai-insight-into-covid-19-virus-structure.md",
       "title": "Alphabet’s DeepMind hopes to aid researchers with AI insight into COVID-19 virus structure",
       "excerpt": "DeepMind is best known for AI that easily defeated the world’s best Go and StarCraft II players in recent years. The Alphabet-owned research lab is now applying its existing work to help ...",
@@ -353,23 +398,31 @@
     {
       "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
       "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
-      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant.",
+      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_0c14fdad-29d2-545c-81bb-71534d62503f.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T04:08:00-08:00",
+      "publishedDateTime": "2020-03-05T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -785,35 +838,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
-      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
-      "excerpt": "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "publishedDateTime": "2020-03-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

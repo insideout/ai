@@ -2,6 +2,43 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-02-26-people-prefer-robots-to-explain-themselves-and-a-brief-summary-doesnt-cut-it.md",
+      "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
+      "excerpt": "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop AI systems that human beings find trustworthy – while also performing ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html",
+      "ampWebUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
+      "publishedDateTime": "2020-02-26T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/309620/original/file-20200113-103951-1d39a4w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+          "width": 754,
+          "height": 507,
+          "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-white-houses-top-techie-explains-how-ai-initiative-will-help-seattle-tech-community.md",
       "title": "White House’s top techie explains how AI initiative will help Seattle tech community",
       "excerpt": "White House chief technology officer Michael Kratsios speaks at last year’s Web Summit in Portugal. (Web Summit via YouTube) One year after the White House kicked off the American AI Initiative, its effects on research and development in the burgeoning field of artificial intelligence are just beginning to sink in. And Michael Kratsios ...",
@@ -1031,51 +1068,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-nvidia-dlss-in-2020-stunning-results.md",
-      "title": "Nvidia DLSS in 2020: Stunning Results",
-      "excerpt": "This AI algorithm also leveraged a new feature on RTX Turing GPUs: the tensor cores. While these cores are most likely included on the GPU to make it also suitable for data center and workstation use cases, Nvidia found a way to use this hardware feature for gaming. Later, Nvidia decided to ditch the tensor cores for their cheaper Turing GPUs ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/article/1992-nvidia-dlss-2020/",
-      "ampWebUrl": "https://www.techspot.com/amp/article/1992-nvidia-dlss-2020/",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/1992-nvidia-dlss-2020/",
-      "publishedDateTime": "2020-02-26T03:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/articles-info/1992/images/2020-02-26-image-6.jpg",
-          "width": 3134,
-          "height": 1449,
-          "title": "Nvidia DLSS in 2020: Stunning Results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

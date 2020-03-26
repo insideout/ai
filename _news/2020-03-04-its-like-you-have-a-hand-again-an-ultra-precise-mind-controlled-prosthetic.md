@@ -1,21 +1,23 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ..."
-publishedDateTime: 2020-03-04T19:00:00Z
-webUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
+excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
+publishedDateTime: 2020-03-04T00:00:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "pISMP01Y4VGzghiNe4ibzArjzc8/oKYT9nrBDcKLtcEKBcHmkeipIGnMYnzURj3horiPD2aXwREDOzdhXeHW5w4JazZ6rkSN2yNW58/ITFbR1J8rA3/T8oxdA8766ivSWSotaogVCUABiqAp+AIL9JKtxtijWTgAWoRDlQlfgB7ZzBzPkmdc52Ruhh8JbHU/h0Ob/0OlMOYqpJfg097z40nRdT7TN//pTNQAGhFA0jT0sY8fBtWCpCk3sAVIkiXF3BpGLRxY/k8FHRX5LG96AZLjfCw1+gOZCsGs5j7VyKPSH4finAXNw0yaiokI4I9b;OP+zWZLlUgNRYsAvyOS7zg=="
+secured: "eSIQAuHmqfRGOm7/8czoR0uqM0if65s3TNgrZ04UC/pYfcV987TaQx5A3nkuikZWGvuOAcgulwtS0EIUoQAPXZbHzyzRF/HI3qxSFfE16D+yWGcQ7Bwd3VFvmxnVC27CMIYQcMyMugd96SDcRfx0NlfGRCO0H4xw0CJjJ8SwX1Yxb25YznGtR5jMZ/O3wpyApceeiKPiqi3a+zs/yGrkNncDsD7Eg1c70p41E2BLKlckosaOVLx5yZfZM/TL8MTqOEFwU08vEs6ULrPYNdeE45++37NGtC2SZswW4nAvCz6XBUdZXHrSEPOu72VUOakk;jk8Hv/PefQx/J/ts36PeCQ=="
 ---
 

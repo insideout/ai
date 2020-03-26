@@ -781,6 +781,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-14-create-no-code-predictive-models-with-azure-machine-learning.md",
+      "title": "Create no-code predictive models with Azure Machine Learning",
+      "excerpt": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code. Training a machine learning model is an iterative process that requires time and compute resources.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-face-service-encryption-of-data-at-rest.md",
       "title": "Face service encryption of data at rest",
       "excerpt": "For more information about Azure Key Vault, see What is Azure Key Vault?. A new Cognitive Services resource is always encrypted using Microsoft-managed keys. It's not possible to enable customer-managed keys at the time that the resource is created. Customer-managed keys are stored in Azure Key Vault, and the key vault must be provisioned with ...",
@@ -912,7 +949,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1163,43 +1201,6 @@
           "width": 669,
           "height": 632,
           "title": "Towards an AI-led 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-swiss-re-launches-digital-market-center-supported-by-microsoft-data-analytics-ai-tools.md",
-      "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
-      "excerpt": "As part of the strategic alliance, Swiss Re will transform its internal operating platform by modernizing and moving it to the Azure cloud. This move will increase the efficiency and effectiveness of the core processes by leveraging the most advanced data processing and AI capabilities at scale. “Swiss Re’s alliance with Microsoft will help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.insurancejournal.com/news/international/2020/03/12/560945.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurance Journal",
-        "domain": "insurancejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.insurancejournal.com/app/uploads/2017/03/business-technology-.jpg",
-          "width": 900,
-          "height": 615,
-          "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
           "attribution": null
         }
       ],

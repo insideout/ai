@@ -2,6 +2,51 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-05-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games.md",
+      "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+      "excerpt": "In a preprint paper, DeepMind described a new reinforcement learning technique that models human behavior in a potentially new and powerful way. It could lead to much more capable AI decision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "publishedDateTime": "2020-03-05T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
       "title": "Goodyear concept EV tire can regrow tread",
       "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
@@ -152,23 +197,31 @@
     {
       "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
       "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
-      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant.",
+      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.oaoa.com/news/business/article_0c14fdad-29d2-545c-81bb-71534d62503f.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T04:08:00-08:00",
+      "publishedDateTime": "2020-03-05T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -584,35 +637,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
-      "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
-      "excerpt": "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp",
-      "publishedDateTime": "2020-03-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

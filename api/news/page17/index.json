@@ -2,6 +2,51 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-12-the-humanization-of-customer-experience-in-an-era-of-artificial-intelligence.md",
+      "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
+      "excerpt": "This requires innovative solutions and making artificial intelligence a priority. 70% of companies are already using some form of AI to engage customers. 90% will be using AI within the next 24 months. Risk-averse markets such as healthcare, utilities and insurance are more than 70% of organizations are planning to make AI investments in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/humanization-customer-experience-era-artificial-brian-solis/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHHhzgKh1QPJQ/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=qFepTyXnx18VGXkqZJm8DEAeU-7dWL19yrdvzoBkFms",
+          "width": 1279,
+          "height": 720,
+          "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
       "title": "Artificial Intelligence in Medical Imaging",
       "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
@@ -882,51 +927,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-machine-learning-as-a-service-market-overview-and-scope-industry-outlook-size-forecast-2020-2025.md",
-      "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
-      "excerpt": "New York, March 12, 2020: Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing (AI), that performs applied mathematics analysis of input file to know its current or future relationship and performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market--overview-and-scope-industry-outlook-size-forecast-2020-2025-2020-03-12",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T23:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market -overview and scope, Industry Outlook, Size & Forecast 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

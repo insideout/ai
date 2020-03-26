@@ -338,6 +338,52 @@
       ]
     },
     {
+      "path": "_news/2020-03-13-ai-in-healthcare-market-exploring-future-growth-2019-2030-and-key-players-nvidia-intel-general-electric.md",
+      "title": "Ai in Healthcare Market Exploring Future Growth 2019-2030 and Key Players - NVIDIA, Intel, GENERAL ELECTRIC",
+      "excerpt": "AI in healthcare is used to perform complex cognitive tasks and to analyze large amounts of patient data quickly & effectively. Artificial Intelligence makes use of number of different algorithms and decision-making capabilities,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-exploring-future-growth-2019-2030-and-key-players---nvidia-intel-general-electric-2020-03-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Ai in Healthcare Market Exploring Future Growth 2019-2030 and Key Players - NVIDIA, Intel, GENERAL ELECTRIC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-ibm-to-integrate-ai-debating-technology-into-its-qa-computer-system-watson.md",
       "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
       "excerpt": "IBM plans to integrate several key components, such as natural language processing (NLP), from the AI system into its question-answering computer system Watson from March this year. The move is aimed at “enabling businesses to capture, analyse, and understand more from human language and … transform how they use intellectual capital that ...",
@@ -1186,51 +1232,6 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
-      "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
-      "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/07/biased-algorithms/amp/",
-      "publishedDateTime": "2020-02-07T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3e257cf133f400076bf4fe%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5785%26cropY1%3D413%26cropY2%3D3667",
-          "width": 1200,
-          "height": 675,
-          "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "IBM AI"
       ]
     }

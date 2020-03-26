@@ -2,6 +2,50 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-02-07-ai-weekly-announcing-our-ai-and-security-special-issue.md",
+      "title": "AI Weekly: Announcing our AI and security special issue",
+      "excerpt": "VentureBeat’s second special issue is nigh. Following our first special issue, Power in AI, this next one focuses on AI and security. Each special issue is a package of articles that explores a central topic from a variety of angles, from voices in industry, academia, and our newsroom. Whether we’re aware of it or not, both AI and ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/07/ai-weekly-announcing-our-ai-and-security-special-issue/amp/",
+      "publishedDateTime": "2020-02-07T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/AI-and-Security-header.png?fit=4842%2C2421&strip=all",
+          "width": 4842,
+          "height": 2421,
+          "title": "AI Weekly: Announcing our AI and security special issue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
       "title": "What do we teach when we teach tech & AI ethics?",
       "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
@@ -1042,51 +1086,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
-      "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
-      "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T15:40:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif",
-          "width": 800,
-          "height": 605,
-          "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

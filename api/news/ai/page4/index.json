@@ -980,7 +980,7 @@
     {
       "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
       "title": "Domo Announces Support for Amazon SageMaker Autopilot",
-      "excerpt": "including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot. Amazon SageMaker Autopilot is an ...",
+      "excerpt": "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ...",
       "heat": null,
       "tags": null,
       "type": "article",
@@ -1002,9 +1002,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
