@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collabora
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp"
 type: article
 quality: 89
-heat: 102
+heat: 99
 published: true
 
 provider:

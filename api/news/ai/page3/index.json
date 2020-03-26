@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-23-how-this-startup-is-using-ai-to-detect-coronavirus.md",
+      "title": "How This Startup Is Using AI To Detect Coronavirus",
+      "excerpt": "Athena Security uses thermal imaging and computer vision for gun detection-- and now is using the same technology to spot fevers in hopes of mitigating the spread of the coronavirus.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/geekgirlrising/2020/03/20/texas-based-ai-company-gears-up-to-fight-coronavirus-with-fever-detection-system/",
+      "ampWebUrl": "https://www.forbes.com/sites/geekgirlrising/2020/03/20/texas-based-ai-company-gears-up-to-fight-coronavirus-with-fever-detection-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geekgirlrising/2020/03/20/texas-based-ai-company-gears-up-to-fight-coronavirus-with-fever-detection-system/amp/",
+      "publishedDateTime": "2020-03-23T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207242751%2F0x0.jpg",
+          "width": 1200,
+          "height": 758,
+          "title": "How This Startup Is Using AI To Detect Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
       "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
       "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
@@ -275,7 +319,7 @@
       "path": "_news/2020-03-23-microsoft-adaptive-biotech-collaborate-to-fight-covid-19.md",
       "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
       "excerpt": "Microsoft MSFT and Adaptive Biotechnologies ADPT recently extended partnership in a bid to aid public health officials and researchers to access and track data pertaining to COVID-19 patient immune responses.",
-      "heat": 102,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23",
@@ -876,6 +920,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
+      "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
+      "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/23/aws-announces-support-for-pytorch-with-amazon-elastic-inference/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shutterstock_1489195400.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-22-5-ai-policy-questions-our-presidential-candidates-must-address.md",
       "title": "5 AI policy questions our presidential candidates must address",
       "excerpt": "Our 2020 presidential candidates will be questioned about their stance on artificial intelligence (AI) policy, especially with regard to the job displacement AI could cause in manufacturing, transportation, and other industries. An over-regulation of AI could hand technical superiority to countries like China and Russia, leading to a ripple ...",
@@ -1221,95 +1302,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-stuart-russell-on-how-to-make-ai-human-compatible.md",
-      "title": "Stuart Russell on how to make AI ‘human-compatible’",
-      "excerpt": "He joined us onstage at TC Sessions: Robotics + AI to discuss the threat he perceives from AI, and his book, which proposes a novel solution. Russell’s thesis, which he develops in “Human Compatible: Artificial Intelligence and the Problem of Control,” is that the field of AI has been developed on the false premise that we can ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "publishedDateTime": "2020-03-20T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/stuart-russell-ai-robotics-2.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Stuart Russell on how to make AI ‘human-compatible’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-waymo-gamifies-self-driving-car-data-and-wants-everyone-involved.md",
-      "title": "Waymo gamifies self-driving car data and wants everyone involved",
-      "excerpt": "Waymo expands its Open Dataset program and issues some challenges that may result in prize money. Waymo is calling all intrigued minds to partake in an Open Dataset challenge, and it could result in some cold,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-data-game-prize/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
-      "publishedDateTime": "2020-03-20T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/reqDD4K5243DNGVR3dFQcAi2c_o=/2019/08/21/3bba88b6-75ae-43fc-8e92-4d307cf9c2eb/waymo-data-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo gamifies self-driving car data and wants everyone involved",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

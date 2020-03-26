@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampl
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

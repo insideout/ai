@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successf
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 87
 published: true
 
 provider:

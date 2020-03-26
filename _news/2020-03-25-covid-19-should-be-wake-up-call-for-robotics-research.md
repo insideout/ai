@@ -52,6 +52,17 @@ related:
       - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
+  - title: "Robots could help us combat future pandemics. Here's how experts wish they could help us now"
+    excerpt: "Although many people around the world are practicing social distancing during the coronavirus pandemic, those on the frontlines fighting the virus can't stay home. Experts agree that robots could take over the \"dull,"
+    publishedDateTime: 2020-03-25T18:12:00Z
+    webUrl: "https://www.wral.com/robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now/19028736/"
+    ampWebUrl: "https://www.wral.com/robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now/19028736/?version=amp"
+    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now/19028736/?version=amp"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 28
 
 secured: "I/JV5YgvU93BQh1gazyvPMd/HZr7OIqzebtTGXxBgKF0CzuGPqf6/OS4tV1LaH3efIo1xLGzAyc9wQ6qLi7j7uP+uLQhqRUmgr+vmOWTBoC5di3p1BsBnhwENms4ql32qHiUFTT4T9sxnjxWd7Mv54wGz5lXzehDw7wTqaZ5KvQjWDT8SPcRPnASrF20zQXRRLVDf+JRqvkNKuqo3Pld9Hd3yAdVyMrG6gmUGLmvfxaTTN5fgf9J6jP5wRXm4WhAkzBvX5P9uohNIADydZTNMVIqMzUY4QHXNb1TQuKtDNsG/UrLAlaqVkPEof2emScx;cC8ppWcF3GmA8nmpaS3Ywg=="
 ---

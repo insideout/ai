@@ -2,6 +2,154 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-05-americans-still-wary-of-self-driving-cars-many-worry-about-hacking.md",
+      "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
+      "excerpt": "Half (51%) said they were interested in laws to make sure self-driving cars are safe. — 44% expressed the desire to have access to easy-to-understand information about how self-driving cars will ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
+      "publishedDateTime": "2020-03-05T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e61060ee1e617000758e8a2%2F0x0.jpg%3FcropX1%3D8%26cropX2%3D600%26cropY1%3D0%26cropY2%3D333",
+          "width": 593,
+          "height": 333,
+          "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
+      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
+      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-harnessing-thoughts-to-control-a-computer.md",
+      "title": "Harnessing Thoughts To Control A Computer",
+      "excerpt": "What is the best way to link the brain signals to the machine? FLATOW: Right. What about a mind-controlled robot? You know, the whole robot you can control with thinking about it? Prof.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/templates/story/story.php?storyId=124361781?storyId=124361781",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Harnessing Thoughts To Control A Computer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
+      "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-its-like-you-have-a-hand-again-ultra-precise-mind-controlled-prosthetic-developed.md",
       "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
       "excerpt": "The scientists tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, they developed a way to tame ...",
@@ -589,43 +737,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-04-robot-uses-artificial-intelligence-and-imaging-to-draw-blood.md",
-      "title": "Robot uses artificial intelligence and imaging to draw blood",
-      "excerpt": "Rutgers engineers have created a tabletop device that combines a robot, artificial intelligence and near-infrared and ultrasound imaging to draw blood or insert catheters to deliver fluids and drugs. Their most recent research results, published in the journal Nature Machine Intelligence, suggest that autonomous systems like the image-guided ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ru-rua030320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226001_web.jpg",
-          "width": 1440,
-          "height": 1022,
-          "title": "Robot uses artificial intelligence and imaging to draw blood",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-04-how-automation-and-artificial-intelligence-are-transforming-the-sell-side.md",
       "title": "How automation and artificial intelligence are transforming the sell side",
       "excerpt": "Though Twitter, Amazon AWS, and Hadoop all came out before ... is interpretability and ‘explainability’. Using artificial intelligence, sell-side firms can analyze large amounts of data ...",
@@ -828,117 +939,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-google-cloud-hits-major-league-baseball-home-run-aws-is-out.md",
-      "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
-      "excerpt": "has chosen AWS as its official provider for machine learning, artificial intelligence, and deep learning workloads. In extending its long-standing relationship, MLB will use AWS machine learning services to continue development of Statcast -- the tracking ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://virtualizationreview.com/articles/2020/03/03/mlb-gcp.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Virtualization Review",
-        "domain": "virtualizationreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://virtualizationreview.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ArrowsRoadManCloudsSmall.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Google Cloud Hits Major League Baseball Home Run, AWS Is Out",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-robots-are-poised-to-transform-the-construction-industry.md",
-      "title": "Robots Are Poised To Transform The Construction Industry",
-      "excerpt": "Artificial intelligence already powers driverless cars, virtual assistants and autonomous warehouse robots. And now, technology entrepreneurs are using their expertise to take on the challenges of construction. Construction is among the least digitized industries in the U.S., owing to the labor-intensive and localized nature of the work.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bisnow.com/houston/news/construction-development/robots-are-poised-to-transform-the-construction-industry-103213",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T12:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bisnow",
-        "domain": "bisnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2020%2F03%2F5e5d9d52553a3-built_robotics_software_interface.jpeg&width=1200&sign=4GS_ORXyGyz0OA9BRvWn7NdbQaexIlXCzPyL6df3RkA",
-          "width": 1200,
-          "height": 799,
-          "title": "Robots Are Poised To Transform The Construction Industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-self-driving-cars-a-far-future-in-india-but-china-expects-to-go-commercial-by-2025.md",
-      "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
-      "excerpt": "A recent survey of self-driving vehicle testing published by Beijing’s Innovation Center for Mobility Intelligent (BICMI) said that 77 AVs of 12 China-based companies including Tencent ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.deccanchronicle.com/technology/in-other-news/030320/self-driving-cars-a-far-future-in-india-but-china-expects-to-go-comme.html",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/in-other-news/030320/self-driving-cars-a-far-future-in-india-but-china-expects-to-go-comme.html",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/in-other-news/030320/self-driving-cars-a-far-future-in-india-but-china-expects-to-go-comme.html",
-      "publishedDateTime": "2020-03-03T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-k58fgos9953hfvj83ktq9nada0-20200303173920.Medi.jpeg",
-          "width": 800,
-          "height": 448,
-          "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

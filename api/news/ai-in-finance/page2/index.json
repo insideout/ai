@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
+      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management.md",
       "title": "ACI Worldwide debuts new machine learning kit for fraud management",
       "excerpt": "“Traditional machine learning models in many cases are not sufficient to ... the new ‘Incremental Learning’ technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, Head of Payments Intelligence ...",
@@ -1207,43 +1244,6 @@
           "width": 796,
           "height": 417,
           "title": "Get ready for the emergence of AI-as-a-Service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security.md",
-      "title": "Bahrain, Karnataka sign pact on cooperation in fintech, AI, cyber security",
-      "excerpt": "The Bahrain Economic Development Board (EDB) and Karnataka government on Thursday signed a pact to promote cooperation in AI, fintech and other emerging technologies. The Kingdom's investment promotion agency signed the memorandum of understanding (MoU) with the Department of Information Technology; Biotechnology; and Science & Technology of ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/bahrain-karnataka-sign-pact-on-cooperation-in-fintech-ai-cyber-security-4853121.html/amp",
-      "publishedDateTime": "2020-01-23T19:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2018/10/tax-assessment-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "Bahrain, Karnataka sign pact on cooperation in fintech, AI, cyber security",
           "attribution": null
         }
       ],

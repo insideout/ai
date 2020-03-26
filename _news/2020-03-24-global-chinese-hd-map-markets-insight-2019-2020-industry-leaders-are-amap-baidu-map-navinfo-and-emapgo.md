@@ -1,35 +1,24 @@
 ---
 category: news
 title: "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo"
-excerpt: "Dublin, March 24, 2020 (GLOBE NEWSWIRE) -- The \"Global and China HD Map Industry Report, 2019-2020\" report has been added to ..."
-publishedDateTime: 2020-03-24T12:03:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005473/0/en/Global-Chinese-HD-Map-Markets-Insight-2019-2020-Industry-Leaders-are-Amap-Baidu-Map-NavInfo-and-eMapgo.html"
+excerpt: "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application."
+publishedDateTime: 2020-03-24T12:32:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15649371"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371"
 type: article
-quality: 0
-heat: -1
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "AI-Based Chatbot (Text, Voice, Hybrid) Market Insights, 2020-2025"
-    excerpt: "Dublin, March 24, 2020 (GLOBE NEWSWIRE) -- The \"AI-Based Chatbot Market by Type (Text, Voice, and Hybrid), Use Case, Deployment Type, Value Chain Component, Market..."
-    publishedDateTime: 2020-03-24T11:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/03/g15648692/ai-based-chatbot-text-voice-hybrid-market-insights-2020-2025"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15648692"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648692"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 37
-
-secured: "kXIk8AsiQlOoRnR1hV9/hP/YhNFkjTInvHlVmfwYz7QMv4smRUDaLl1CEfAia7GM2H/Wq3A6/r7N51N8WSMCHUd6hC9/gEqJoooPQRC/scDab56xHAqeigY+dcVu1ICGAlf11hA4vGOFBHnJFv6F83AbenFJvKURLvCduuxHOtDer3pMGOjUEZc1m0Ll2LaEjJzXqFmGyxMAEaHoYpg4qVMIHjg2FMrVCKwbGixxpNHZ5jNxlsAJ+O2cabBDuKZNc8HnTGnyumO1GdsF7GyrIZjvuijFaWouYJVeK7CBiVmlC4N1Dn+tCTnKpA63sfZt;owmVKvTcUdpkyHcEcCUR0w=="
+secured: "Car350tXPiAYgBI5GtW3AmDTDv6cljPY9ymlQJ9jFU3dUl0FWq6vvLy2J7xd8dI09/FdRAh41rGD0cuAKCeFMzEp98GYmjAZyW+/r8AqVx7uFLjQGbkSuqrPhzMxsekuXLr5JnHacHK6IA0cr2dvecsqdshyrvvjh0H6ionmdWdjUGPg7lxuCT+dJ84cPdPIz7LdoKvjYfJkrehRtrE00BAYWQVuXClOxRmDzU6FOOBEnv1+T5sj6z8S98wB/YdlZ9lg6IXh1fvRzfOUu7dBLXdJks/IPsKWKbE9DvjI0ID4J1j7XAQLnPqrkryZHG9F;WR+l6Vkc9dar3XTlQkjxzA=="
 ---
 

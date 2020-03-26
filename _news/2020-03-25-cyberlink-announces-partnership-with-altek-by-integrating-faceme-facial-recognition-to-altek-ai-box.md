@@ -5,8 +5,8 @@ excerpt: "TAIPEI, Taiwan--(BUSINESS WIRE)--CyberLink Corp. (5203.TW), a pioneer 
 publishedDateTime: 2020-03-25T13:00:00Z
 webUrl: "https://www.businesswire.com/news/home/20200325005189/en/CyberLink-announces-partnership-Altek-integrating-FaceMe®-facial"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20200325005189/en/781553/23/FaceMe-Altek-AIBOX-EN.jpg"

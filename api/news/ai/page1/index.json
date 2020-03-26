@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
+      "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+      "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "publishedDateTime": "2020-03-25T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2015/10/29/f5c9599b-804a-4829-9f04-6a58f753506f/thumbnail/1200x675/f8d4a0c55c206203f8f657a373484a70/australian-passport.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
       "title": "IBM’s AI generates videos of chairs, golfers, and more",
       "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
@@ -137,51 +181,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-25-robots-could-help-us-combat-future-pandemics-heres-how-experts-wish-they-could-help-us-now.md",
-      "title": "Robots could help us combat future pandemics. Here's how experts wish they could help us now",
-      "excerpt": "Experts agree that robots could take over the \"dull, dirty and dangerous\" jobs humans are currently fulfilling during the coronoavirus pandemic.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://edition.cnn.com/2020/03/25/world/robots-pandemics-coronavirus-scn/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/03/25/world/robots-pandemics-coronavirus-scn/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/03/25/world/robots-pandemics-coronavirus-scn/index.html",
-      "publishedDateTime": "2020-03-25T11:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200325135630-01-coronavirus-robot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Robots could help us combat future pandemics. Here's how experts wish they could help us now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-25-robots-could-be-trained-to-help-combat-the-coronavirus-pandemic.md",
       "title": "Robots could be trained to help combat the coronavirus pandemic",
       "excerpt": "The 'dull, dirty and dangerous jobs' could be automated, but we would need to add many new functionalities to machines first, US roboticists argued in a journal editorial.",
@@ -267,7 +266,7 @@
       "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
       "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
       "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
-      "heat": 109,
+      "heat": 120,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/covid-19-pandemic-robots/",
@@ -521,6 +520,51 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-a-list-of-fintech-firms-providing-free-technology-during-the-coronavirus-crisis.md",
+      "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
+      "excerpt": "To help in these trying times, many fintech firms are extending free, discounted, or accelerated deployment offers.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/",
+      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/amp/",
+      "publishedDateTime": "2020-03-25T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77d942c7b02d000666dfb9%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1261,51 +1305,6 @@
           "width": 1200,
           "height": 631,
           "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
-      "title": "How 5G is enhancing business productivity",
-      "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/how-5g-is-enhancing-business-productivity/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "publishedDateTime": "2020-03-24T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/24/b89d0c18-f127-4489-a85e-3b812da03063/native-1333x750-3.jpg",
-          "width": 1333,
-          "height": 750,
-          "title": "How 5G is enhancing business productivity",
           "attribution": null
         }
       ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-25T14:44:00Z
 webUrl: "https://www.businesswire.com/news/home/20200325005451/en/WekaIO-Named-Winner-2020-Artificial-Intelligence-Excellence"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 627
     title: "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards"
 
-secured: "UTUTTWest7+AbkEREDABtrOATmbvQcFBJznAkvLa+cBDFdUdnu46oJWF0BMZS0b0WJjIPik+au9A1HKkuTWAqxNMhR/HflhvD0MPO68yq26VQxm1RrPmGa1BmEqbDhv+vFEvLQeIJrvRzCJIBou578mF+a6RaFLpBdd9cWD1UMYMaibG0s+vwknjMCjLsI/iFl0FJhUx/6CDDavjotMoqRM87MpH7xfIOoEbhArIkOd0FnYBsbtEeqdefSv4w9lWeTyU9Xl29/308TvdWdqpM4fYe/fdf2wizzjrEYXntoHhOeMJyfHZ9eJaZo+5AVHM;E/UKkQTpEzaTa9U4gFoS7g=="
+related:
+  - title: "Kneron Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "low thermal profiles and yet complex neural network computational requirements “Kneron is honored to have been recognized by Business Intelligence Group for excellence in artificial intelligence,\" stated Albert Liu, Kneron’s Cofounder and CEO. “This award serves as inspiration for us to continue democratizing AI through building the Edge ..."
+    publishedDateTime: 2020-03-25T20:12:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200325005738/en/Kneron-Named-Winner-2020-Artificial-Intelligence-Excellence"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20200325005738/en/777358/23/kneron_logo_transparent.jpg"
+        width: 1200
+        height: 627
+
+secured: "M6pQawvmPOGbfqyt2nJblmMYKhgKGEcgIbsW0sOi436juFtIVG+i5Oxz6+UOw9eBXdeLzJCgTnJBf5zSn6WDcvMZHV/MKuWp6y+uIc7sCSoIMdmnm2Sti3znIDO7EOxnxAXNjD4z+LGi6CWlkPjVD5rLN1ZdwEnDNZq50w76ODNepoVk8AJep+0RmPkDLuLBQTE4lEQakxjoxYPdwyI4wCkLO0Rs+fBKN5oCaGkFY1XvHrG+3/EqGYg23d5f7/2A+wY1yX/jwcggdt3cXxjQ5Wkbe56LMONm4C8kUgdOfLKV3yYntEakexcxV0QmDXfuka9MHM5TbAsKIWciizbHLBIZ8un9R3vskPWNS4DZRQaA5MbdmTh+JMG6kDHcIwL2q7heTG5LgeiN8DvuYoNY/s8zSeP6bs7FhS2vi5E1RCg+QyuLB2xRA4iUkRE2gEaZFCUTMgDHGEziVhLDbYvAv/9sMfpIfdXuFcTMDrXrAzU=;62160ggxp3ZA/tZARflRIQ=="
 ---
 
