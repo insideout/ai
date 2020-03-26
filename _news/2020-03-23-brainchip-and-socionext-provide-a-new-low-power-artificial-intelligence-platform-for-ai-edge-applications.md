@@ -1,25 +1,25 @@
 ---
 category: news
 title: "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications"
-excerpt: "BrainChip's AI technology provides a complete ultra-low power AI Edge Network for vision ... About Socionext Inc. Socionext is a global, innovative enterprise that designs, develops and delivers System-on-Chip based solutions to customers worldwide. The company is focused on technologies that drive today's leading-edge applications in consumer ..."
-publishedDateTime: 2020-03-23T12:09:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-brainchip-socionext-provide-new-low-power-artificial-intelligence-/2020/03/23/9119201.htm"
+excerpt: "BrainChip has developed an advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. This innovative, event-based, neural network processor is inspired by the event-based nature of the human brain. The resulting technology is high performance, small, ultra-low power ..."
+publishedDateTime: 2020-03-23T12:00:00Z
+webUrl: "https://www.businesswire.com/news/home/20200323005183/en/BrainChip-Socionext-Provide-New-Low-Power-Artificial-Intelligence"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg"
-    width: 252
-    height: 335
+  - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+    width: 600
+    height: 300
     title: "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications"
 
-secured: "3C1xWM8sqprG3Mi3ndoRLGdZwEU1SFyekuhZY6Vh+VTVyV82PHgIX3/IdH2uf9rpeoDV2pBMEjGNNbzeJgukm10mmWgo8fiqSH8ALdQMsGrcMoy9jUqkz0btkXxPjsxRkwRrJS4iUY4pm2AwGLxkO6qfC7R11dxkSGIkne3vLQOW/bSIY6NNDe299+YEfZdbrhW1wxaPYaZI/eAq9kcQNCpYh/xp2Aicrke7wt90yozNaSdX4+spFyXKVHRhjv72Ie0ftzSQhTy9ts6BTywldwYtwBO4mSrD35soelRptq93bALHHl2XkFwsgSRAwGFy;zMTK+QY4ynKwfpRG8d+7Dg=="
+secured: "L8QGnAVvpEFdyDBpJa0SUrdh0AvLb3u8Mb4R2G3SLAhLPLUVhnboY22hA2qb/LBjIeoNXbEqyvPCFRqE13TyrfJ04Jv/v0jGr5ra1T6IQJzC0+KD0Ja1bgBgl+gSuuTU6SXgneYKJ+YRb1JJujFH/1L0+hBJzlHocO1+4AWwYALNK7LWKC7CmjAjVdSMQbl81zQQis2W9Rh+mPcN2mDd/B+/Myc65HTBgCQ0VXQU/ObS2rHguq566bff+yDth4fqAd0yd8/GwSJufW9As7cKZ+N0tFAsMJ1eqmiwVwv5LWpAkA9dbzkPpjjndVJh3lsW;0yRBipqVP021LgATkSJrvg=="
 ---
 

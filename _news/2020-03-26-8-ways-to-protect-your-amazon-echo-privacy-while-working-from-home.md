@@ -1,0 +1,64 @@
+---
+category: news
+title: "8 ways to protect your Amazon Echo privacy while working from home"
+excerpt: "With states on lockdown and companies asking employees to work at home due to the novel coronavirus, there have been concerns around the internet that Alexa may be listening to confidential conversations."
+publishedDateTime: 2020-03-26T16:36:00Z
+webUrl: "https://www.cnet.com/how-to/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/"
+type: article
+quality: 74
+heat: 94
+published: true
+
+provider:
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AWS AI
+  - AI
+
+images:
+  - url: "https://cnet3.cbsistatic.com/img/7jPvaiaAoUDSSF-B5aUV6DFN9Dc=/940x0/2018/10/22/fc5cf5c1-a4f0-4e40-83a5-78dd5f7cec06/fear-alexa-1.jpg"
+    width: 940
+    height: 529
+    title: "8 ways to protect your Amazon Echo privacy while working from home"
+
+related:
+  - title: "Amazon Echo: How to protect your privacy while working from home"
+    excerpt: "If you're worried about keeping your information private while working from home, change these Alexa settings now."
+    publishedDateTime: 2020-03-26T13:10:00Z
+    webUrl: "https://www.cnet.com/how-to/amazon-echo-how-to-protect-your-privacy-while-working-from-home/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-echo-how-to-protect-your-privacy-while-working-from-home/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-how-to-protect-your-privacy-while-working-from-home/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/7jPvaiaAoUDSSF-B5aUV6DFN9Dc=/940x0/2018/10/22/fc5cf5c1-a4f0-4e40-83a5-78dd5f7cec06/fear-alexa-1.jpg"
+        width: 940
+        height: 529
+  - title: "Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more"
+    excerpt: "For the MacBook, however, the integration of Face ID is awkwardly designed having some components at the top of the display but having light pattern recognition module that includes the needed dot projector built into the Touch Bar area in the keyboard. Technically speaking Apple notes that recent advances in computing devices have enabled ..."
+    publishedDateTime: 2020-03-26T13:34:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/03/apple-is-working-on-bringing-face-id-to-macs-for-user-authentication-face-gesture-recognition-and-more.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 8
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4f5f2d1200d-600wi"
+        width: 600
+        height: 356
+
+secured: "4fq/urp/rjnyFvSe3qEqUOvaAw6bFRMfoTYDjgDm5TNvVn5GfbPqPx8vX0Z1zm8l+/8a0stFHN5p0+uRCrxRbONEgxIYRj6GAF7GLcsYb9XxmG2rwo/WSKDzTk4ZLLWAsFmMOD0OWw339gRNQdrnAcjg5OiFkYdBi9LwOvr8eXplS1KWYYAW/tUQBsIWtvhgvrM73PRPT2OG63oTHhjrqdDhQ3g+KyXZgy6zOw3dyclDiCiTgmsl0T3RDf8lkmOYp0J7PebwitF/QeDL1S5+6vizArRJ7jjd4OD5YCUJGhjFCSRP2tKk1wNElbSKDQhm;vNk9lUgXvROAPIjggpod2w=="
+---
+

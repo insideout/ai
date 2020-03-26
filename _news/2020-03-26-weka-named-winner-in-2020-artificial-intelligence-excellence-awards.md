@@ -50,7 +50,20 @@ related:
       - url: "https://mms.businesswire.com/media/20200325005738/en/777358/23/kneron_logo_transparent.jpg"
         width: 1200
         height: 627
+  - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2020-03-26T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards-301030407.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1138061/Aarki_Award.jpg?p=facebook"
+        width: 1800
+        height: 942
 
-secured: "ffRQgkECazdC0ysnV/EsWUjS6J3+SZ2TZvicesedu2hm+k1nzN4sXZRqyVdPF9zuqkd+I7Gb/qcE9v7TWj9KXd1bqSr5n0Ba5zsSDlbwgeG67V5jFX+v34Rhxuc6IxzXXG5/LDufJXPQeULE8VDIjJdQDJjQgXMfNMX8MMsFA82TQSzG9Ux1VaHDY6LwOgKt0v6Pl7O61AmuEMw6vu3iYt6SA2WOhjsEDzLmFjB6E/naC4kN2MR4UgnNx6Ocr9DUVhIRUpshNvt+GDW+AqX4r35m+O76u+JEjbdQi9Ib9axERQ4Mlbpd09CymFJDhwOL;G/ws6cS1aB8E2SjyPhGoTw=="
+secured: "/gRioql67MlrN6XhI8ZWxgIfHj3j0t2FTVQxoEBuysAg2uwVWqw3K8qFT0TDmWcR5saZfh4M0V7Npri1GwkwzY2WQY6IoGmfZIXP92t5ZLidKKGLkpJEkmoq4T3DUtiHQC+UlZuDMiK2netLAo00+DeGAUvDEB4/xk1oeT6kvAkr32Q17hFSk5xcQvnjmusCQBlTlJ+Ua3GZ6iBZV5FGptffkxDCOdPyAmYjpLLjaJb2/bc8bqYULVzvHeIqJ3tgECdW8vOGI9O1CVIV7S2L531aL7nkEJcbZ2ZOROmFDMNsjVkubL0KKLbDcEgwr9+0le8Gu9G8Wl/5I2zpVE64W3298XJCVX6inu5HJOwrdCNGkkfEHVz/zdwpk0yDI3ySD0qnfsclBg3TguoxP39AmHIbz5JgqDXgqihZ6JrRl/o6DSX4NSrkrDw6zaCzZ2yJegNtbH3joKyw7yMkjyvxno+xDNiNJqDOB0WcP8ey/zg=;qSr73tSoQ56zXFkre7csgQ=="
 ---
 

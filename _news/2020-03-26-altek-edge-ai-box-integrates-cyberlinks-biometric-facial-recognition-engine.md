@@ -23,6 +23,21 @@ images:
     height: 260
     title: "Altek edge AI box integrates CyberLink’s biometric facial recognition engine"
 
-secured: "6bBbJWD8pwHu7szi0GpPokQqR+lFIVbaY8yiAVvYZihMxKfMjRRcwdRKT8OlxHbjWrygZWmshfeBgJHJrEe9P4m7vi8rJe642Jl3hCB4nVthBKPIwHTrbdvwc9u1Fy8zh2xMF7YagaF/Pvxnx77gqpijj0x6al0AfGiWbrW59oJMwLMDEpfMZ8To8Jt3kc+eNb8bzhbA5dlv0VrSbpKA/0/jecswTpUbpUGIKn/YVYTx53zRKHUVuQRT01RqBapdiQ8AsAeJNBKx0Xn1qINkBpCtrADwaYlx7Rn9RO1X3H4rS12ivbHabClcDOmVpTKz;huZtnRYTo234MhKBcTYFZw=="
+related:
+  - title: "ICE Wants to Connect Its Facial Recognition System With a Pennsylvania County’s Gang Intel App"
+    excerpt: "Homeland Security Investigations and Immigration and Customs Enforcement want to leverage a transnational gang intelligence app developed by a Pennsylvania county district attorney’s office to improve data collection and coordination and connect with the agency’s facial recognition program. The Gang Intelligence Application was developed by ..."
+    publishedDateTime: 2020-03-26T18:19:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/03/ice-wants-connect-its-facial-recognition-system-pennsylvania-countys-gang-intel-app/164139/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 27
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/03/26/NGcops20200326_Z53BIPK/open-graph.jpg"
+        width: 400
+        height: 400
+
+secured: "MbdMp7e5WgfctAAvhAQt3otLFhSP5R50ZFrIJ4LvqmI/wg8sPPknBgFIbKF0F3CN/E4hZ9l9UjcqW7YXeJ7wxDiHpRhFXd8zQwAtwhgvQ95ISasJw3EGe10C8EPHf0IWmR3NeDTA8RX77Hj78TaJsDEPXNjb6mh3/0+VQo73YslsfSoJZcnH0nRFFOxXUyidGzGdh9AzJldcI0/L6NQXdBHrQcXalKij3IuHjnNpazwp1aGe+ut6/2e+FjcH+Z+u/eTi7Dox3NLVa3a07ynbaSRB7c03GJ+zeQeoyBKX8seXld8TJeAGE5CG/NcTjePwKTOKX8lsFfBqmXfPZv/fNdLiv838jRLwYiw8efh9ruiy5MLuYb8X/6Li+aKGal2jE8uTnQiWEkxWl7SsjuSPawcrJ9OoFsAwKFihm8bJmCbzBoauFxwuBh6JlrfIfy30z97MAfUew906NWalFzJPcN76NeXTXqO5ip0OS+WzivA=;7JDlo0hHwWtZuPtuIfie4w=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cio.com/article/3534496/enabling-end-to-end-machine-lear
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3534496/enabling-end-to-end-machine-learning-workflows-with-iguazio.amp.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 802
     title: "Enabling end-to-end machine learning workflows with Iguazio"
 
-related:
-  - title: "Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more"
-    excerpt: "For the MacBook, however, the integration of Face ID is awkwardly designed having some components at the top of the display but having light pattern recognition module that includes the needed dot projector built into the Touch Bar area in the keyboard. Technically speaking Apple notes that recent advances in computing devices have enabled ..."
-    publishedDateTime: 2020-03-26T13:34:00Z
-    webUrl: "https://www.patentlyapple.com/patently-apple/2020/03/apple-is-working-on-bringing-face-id-to-macs-for-user-authentication-face-gesture-recognition-and-more.html"
-    type: article
-    provider:
-      name: Patently Apple
-      domain: patentlyapple.com
-    quality: 8
-    images:
-      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4f5f2d1200d-600wi"
-        width: 600
-        height: 356
-
-secured: "oIp1qjNEWywvRE8K5TF2Gqomev2mJgI3UCHX2Dqd5QsfV+iWQdcA97qffEUHsFwHnhStj/w+QCiXLKOIvoiZvtOW9G5ZOskavVd6qoibTcjTVUze5INpam2tmxUFHKlqcQwpzpLwRD02h/cLc66FhwSvdKpZdiqOuRIX0TASR2rA6NwmyziEK7PFklHeYBpL3pO1N2wlcgPd3GYbdPbkU4osN5jgurfbSb4ITXHgUS1dezhFT+A4bW6uon3yjEyP77pGivYqAPMZC/8bl6DmZerYVaG9IGGcehKLLYlsdTouzPmkA1AJvaEMo7HAY6DB;sKfSKIYg6h8i8s0a4pFjlg=="
+secured: "gun2p4qF56ovZ/XNKUqGogsbuW1iLCeP429GG3kDwRG9adtKK8ZasVLptj8o9r4kEKL6d4JujY5tw3cv6LcKbWwfOY7qA7fVMFkMKFj6BqDOjd6jCpkyN1Wf3D2T5WBug9Ia2uGYGkibB1hL1MaVkbRxxTUzYxsPg9xtLI8K2bfKtZRFt9REzwry5ba3sKCd5FYAmjWt92ZEtejxtnWDJTqm3SVWwnCEY/ozimQRvKLUBo/RvLFw5De6YM38Sl4wrZheCEb3SaZ3Ims0EUpXoOomUK5HTtfQp2XtN1GpfyC3PxNzqsTM+emMFxBLsQmvct4pR0LaXZKMlf0oYruUJO0cUCtgXlQVl3TKPcC4V35Dt8HmpGWy+hnAALS2pyAUYSNqJjG0op3YVmtsR6BbpX0ULXpseW3BCpOj3e5WYRTtBVdMAOQXP7k+vz7xxCS/djTCxjjvvDtAyz+mmmeEvrAJgZMGZpzr1tWdedWBtnc=;ePhSe0hvlSZBYL6I1+hbjQ=="
 ---
 

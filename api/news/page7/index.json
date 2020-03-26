@@ -2,6 +2,250 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-19-amazon-researchers-develop-ai-that-improves-knowledge-graph-performance.md",
+      "title": "Amazon researchers develop AI that improves knowledge graph performance",
+      "excerpt": "In a new study, researchers at Amazon describe a technique that factors in information about knowledge graphs to perform entity alignment, which entails determining which elements of different graphs refer to the same “entities” (which might be anything from products to song titles). The idea is to improve computational efficiency while at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
+      "publishedDateTime": "2020-03-19T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon researchers develop AI that improves knowledge graph performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-the-women-defining-the-21st-century-ai-movement-part-2-of-2.md",
+      "title": "The Women Defining The 21st Century AI Movement: Part 2 Of 2",
+      "excerpt": "In this two-part series I will highlight several of the dozens of women that I believe will lead the 21st century in the field of Artificial Intelligence. Part one was focused on Women in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/03/19/the-women-defining-the-21st-century-ai-movement-part-2-of-2/",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/03/19/the-women-defining-the-21st-century-ai-movement-part-2-of-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/03/19/the-women-defining-the-21st-century-ai-movement-part-2-of-2/amp/",
+      "publishedDateTime": "2020-03-19T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e729f78aa542800075a53e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": "The Women Defining The 21st Century AI Movement: Part 2 Of 2",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-microsoft-teams-update-adds-ai-background-noise-removal.md",
+      "title": "Microsoft Teams Update Adds AI Background Noise Removal",
+      "excerpt": "Microsoft's workforce collaboration service, Teams, got an update today, adding AI-powered background noise reduction in online meetings, a Bookings feature, and a RealWear hands-free hard-hat technology integration. Since in-person meetings are a no-no ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal",
+      "ampWebUrl": "https://www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/microsoft-teams-update-adds-ai-background-noise-removal?amp=true",
+      "publishedDateTime": "2020-03-19T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00mmXZY5zaCUdlluCPuJHHL-6.fit_lim.size_1200x630.v_1584632844.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": "Microsoft Teams Update Adds AI Background Noise Removal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
+      "title": "How Machine Learning Improves Banks’ Customer Experience",
+      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
+      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
+      "publishedDateTime": "2020-03-19T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
+          "width": 1440,
+          "height": 500,
+          "title": "How Machine Learning Improves Banks’ Customer Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
+      "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
+      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/biology_shutterstock-205625032_800x-405x228.jpg",
+          "width": 405,
+          "height": 228,
+          "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-fairy-tail-rpgs-story-trailer-reveals-gildarts.md",
+      "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
+      "excerpt": "The official PlayStation YouTube channel began streaming a story trailer for KOEI Tecmo Games and Gust's Fairy Tail role-playing game on Thursday. The video reveals the new playable character Gildarts. KOEI Tecmo America and Gust also revealed details fo the game's new Eclipse arc. The arc centers on the “Project Eclipse” experiment \"that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Anime News Network",
+        "domain": "animenewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-ai-models-could-struggle-to-handle-the-market-downturn.md",
       "title": "AI models could struggle to handle the market downturn",
       "excerpt": "However, these models introduce significant fair lending risk, reputational risk and credit risk. Many newly established fintech and nonbanks entering the credit market late in the cycle favor the use of AI and ML underwriting methods that focus on thin file and near-prime borrowers. Additionally, established banks face pressure to grow.",
@@ -723,234 +967,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-bioxcel-therapeutics-provides-an-update-on-its-ongoing-phase-3-serenity-trials.md",
-      "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
-      "excerpt": "A non-invasive therapy that causes rapid symptom relief and de-escalates agitation may be ... About BioXcel Therapeutics, Inc.: BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology. BTI's drug re-innovation approach leverages ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-provides-an-update-its-ongoing-phase-/2020/03/19/9117710.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
-          "width": 252,
-          "height": 335,
-          "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
-      "title": "Google Translate now enables you to transcribe speech",
-      "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech",
-      "ampWebUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
-      "publishedDateTime": "2020-03-19T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151499-apps-news-google-translate-now-enables-you-to-transcribe-speech-image1-hdvtbcdk05.jpg",
-          "width": 945,
-          "height": 630,
-          "title": "Google Translate now enables you to transcribe speech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
-      "title": "How Machine Learning Fights Financial Fraud",
-      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": "How Machine Learning Fights Financial Fraud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
-      "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-      "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/03/19/hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-multi-modular-ai-approach-to-streamline-autism-diagnosis-in-young-children.md",
-      "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
-      "excerpt": "Autism has become a pressing healthcare challenge. The instruments used to aid diagnosis are time and labor expensive and require trained clinicians to administer, leading to long wait times for at-risk children.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61213-w",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61213-w/MediaObjects/41598_2020_61213_Fig1_HTML.png",
-          "width": 685,
-          "height": 365,
-          "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-driven-scanning-probe-microscopy.md",
-      "title": "Artificial-intelligence-driven scanning probe microscopy",
-      "excerpt": "Enabling atomic-precision mapping and manipulation of surfaces, scanning probe microscopy requires constant human supervision to assess image quality and probe conditions. Here, the authors demonstrate DeepSPM,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s42005-020-0317-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs42005-020-0317-3/MediaObjects/42005_2020_317_Fig1_HTML.png",
-          "width": 636,
-          "height": 685,
-          "title": "Artificial-intelligence-driven scanning probe microscopy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

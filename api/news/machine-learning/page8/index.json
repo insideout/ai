@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-07-deep-learning-vs-machine-learning-understand-the-differences.md",
+      "title": "Deep learning vs. machine learning: Understand the differences",
+      "excerpt": "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3512245/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
+      "publishedDateTime": "2020-01-07T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep learning vs. machine learning: Understand the differences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-microsoft-releases-nni-v13-for-automl-algorithms-and-training.md",
       "title": "Microsoft Releases NNI V1.3 for AutoML Algorithms and Training",
       "excerpt": "Automated machine learning (AutoML) aims to change that — making it easier to build and use ML models by running systematic processes on raw data and selecting models that pull the most relevant ...",

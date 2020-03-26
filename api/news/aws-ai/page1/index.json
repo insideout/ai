@@ -2,16 +2,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-03-26-amazon-echo-how-to-protect-your-privacy-while-working-from-home.md",
-      "title": "Amazon Echo: How to protect your privacy while working from home",
-      "excerpt": "If you're worried about keeping your information private while working from home, change these Alexa settings now.",
-      "heat": 74,
+      "path": "_news/2020-03-26-8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home.md",
+      "title": "8 ways to protect your Amazon Echo privacy while working from home",
+      "excerpt": "With states on lockdown and companies asking employees to work at home due to the novel coronavirus, there have been concerns around the internet that Alexa may be listening to confidential conversations.",
+      "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/amazon-echo-how-to-protect-your-privacy-while-working-from-home/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-echo-how-to-protect-your-privacy-while-working-from-home/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-how-to-protect-your-privacy-while-working-from-home/",
-      "publishedDateTime": "2020-03-26T06:10:00-07:00",
+      "webUrl": "https://www.cnet.com/how-to/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
+      "publishedDateTime": "2020-03-26T09:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -33,7 +33,7 @@
           "url": "https://cnet3.cbsistatic.com/img/7jPvaiaAoUDSSF-B5aUV6DFN9Dc=/940x0/2018/10/22/fc5cf5c1-a4f0-4e40-83a5-78dd5f7cec06/fear-alexa-1.jpg",
           "width": 940,
           "height": 529,
-          "title": "Amazon Echo: How to protect your privacy while working from home",
+          "title": "8 ways to protect your Amazon Echo privacy while working from home",
           "attribution": null
         }
       ],
@@ -727,31 +727,23 @@
     {
       "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ...",
+      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T05:11:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
+      "publishedDateTime": "2020-03-16T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

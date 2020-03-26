@@ -50,6 +50,19 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x-405x228.jpg"
         width: 405
         height: 228
+  - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2020-03-26T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards-301030407.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1138061/Aarki_Award.jpg?p=facebook"
+        width: 1800
+        height: 942
 
 secured: "49yCNq3NTQBc42BtzkRScI3BsDDoKkgyx75KDQSDoPGnK7Qynlh8RP9O2s02tO4OPeKytfUst0KthGvf8TdMdpOaJ5AARmACGp46mwIa+UwUei3W9cIBMXFa71AP0SGSgPce8YV/MSLpx7pgfQfLljdXbxXx0llyyq3LFF5R3cassTwnqFSn0mRw42zAncjegeSilsXQqTbZoPGcxDBAZMhNubwj6xtDSfuEuw7pFm1WHxHA2YxPbq3BlVYBHDm0uJ2nbwdpdpruU0bPGiqVvkOvC5bc+RPDZDKz+5tV6yYXAGyqqQnOyAgcSTMfcs/lCfV7ftH405flpGO4Nlj5ZOykwkDTBduNXoLyp/0P/jFR6fMUxbPUoxfLSZjke+eg0H2ZJ64P0QQEejNlJ5lTmggeI4NJDFXhpYvCUetLvCOtA5S0sUd3mtPN9SpyTYSFTg7DrrVFRFFyGTar8g6KjMj/1EO9unYvPmyF6FxLEGI=;SKVesff6I0/TOLpgTx9n+w=="
 ---

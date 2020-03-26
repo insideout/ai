@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-25T14:44:00Z
 webUrl: "https://www.businesswire.com/news/home/20200325005451/en/WekaIO-Named-Winner-2020-Artificial-Intelligence-Excellence"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -50,6 +50,19 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x-405x228.jpg"
         width: 405
         height: 228
+  - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2020-03-26T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards-301030407.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1138061/Aarki_Award.jpg?p=facebook"
+        width: 1800
+        height: 942
 
 secured: "M6pQawvmPOGbfqyt2nJblmMYKhgKGEcgIbsW0sOi436juFtIVG+i5Oxz6+UOw9eBXdeLzJCgTnJBf5zSn6WDcvMZHV/MKuWp6y+uIc7sCSoIMdmnm2Sti3znIDO7EOxnxAXNjD4z+LGi6CWlkPjVD5rLN1ZdwEnDNZq50w76ODNepoVk8AJep+0RmPkDLuLBQTE4lEQakxjoxYPdwyI4wCkLO0Rs+fBKN5oCaGkFY1XvHrG+3/EqGYg23d5f7/2A+wY1yX/jwcggdt3cXxjQ5Wkbe56LMONm4C8kUgdOfLKV3yYntEakexcxV0QmDXfuka9MHM5TbAsKIWciizbHLBIZ8un9R3vskPWNS4DZRQaA5MbdmTh+JMG6kDHcIwL2q7heTG5LgeiN8DvuYoNY/s8zSeP6bs7FhS2vi5E1RCg+QyuLB2xRA4iUkRE2gEaZFCUTMgDHGEziVhLDbYvAv/9sMfpIfdXuFcTMDrXrAzU=;62160ggxp3ZA/tZARflRIQ=="
 ---

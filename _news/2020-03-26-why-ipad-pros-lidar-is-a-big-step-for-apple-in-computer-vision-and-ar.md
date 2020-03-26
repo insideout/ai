@@ -8,7 +8,7 @@ ampWebUrl: "https://appleinsider.com/articles/20/03/26/why-ipad-pros-lidar-is-a-
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/03/26/why-ipad-pros-lidar-is-a-big-step-for-apple-in-computer-vision-and-ar/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,21 @@ images:
     height: 742
     title: "Why iPad Pro's LiDAR is a big step for Apple in computer vision and AR"
 
-secured: "g1703QTQ63VvDeey8WW3yNwthhNuFg0iKjw9AdhdbXVpZOOjF1CW4zWQ8jYVBd2Zw2cdSMygnMznnRkocNONlgcJnLNfZGEQ9RUS59WvnBw5AbYbyx1OAP+zCzzXYdikQ1efTI/ETExntZ7bOZ8+F2xjppRUcjOlS9DJueRelpQH0sy0itHwt44QOX0UVyL2XTvLaGV93LgND1rKOZY0ae0RCf2loRURBVc6BZFSN5loptsGgzEj7T2ynMetP0looCi6wKRwT/ZX6TfTkZI32z+IJA2k85Ng1xx3OCBnk4oCZxzv5ymqxmsGeQpbhX7N;YA8ya77lukuwOCDRhX3g5A=="
+related:
+  - title: "ST looks to power next-generation computer-vision applications"
+    excerpt: "size, and system integration,” said Eric Aussedat, Imaging Sub-Group General Manager and Executive Vice President of the Analog, MEMs and Sensors Group at STMicroelectronics. “They are enabling another step forward in computer-vision applications, empowering designers to create tomorrow’s smart, autonomous industrial and consumer devices.”"
+    publishedDateTime: 2020-03-26T16:38:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/st-looks-to-power-next-generation-computer-vision-applications/225526/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 24
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/225526/stmicro.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+
+secured: "iLq76hTuTSLgNCvpXiXa+i2aSnswJyhPPqlgwT9zx+QVTwoikSYbHm+8mK97H68h+jICU5lC7coexjtc5ySDizCpM1y9PSnLM9su34xRfcikqGlmM+vYfDP7mWli5I/BIy1wd/Xa+AaHfkQsHHhAqJtFKr5SKM+tL7iapV1p9GNXMxDxWJXBNEDY5Z5jIUcBUJd+L8W1fICiROTglLHq0P0lpoSGspaU77azBmd8Njl9EZUuEAwBQYwoCGuIyZzUH7uyH/gvDSNFMCgoJUbnPdElWOpSLcWqA1gWS6ONiDF7s9fIB8yUBtqD8Dm2lDBbQ/+EmC/kkee55nPjigY0CxIRifqo+fw1sKkXp+LrJRShsTUaR5XIeKokdcOkoDTSOtmReIPRQDqrRQBvyVCGCOljWSimxwumvKWIQJp9UMfZRJdh5SRk3HgiMjRCTC5VzDa8Ml3O0uYr3CgjcUtFjpz7tYbYtB+/iXOJMCYYy1g=;XyCDYDu5D/1s6Ym2TmzLfg=="
 ---
 
