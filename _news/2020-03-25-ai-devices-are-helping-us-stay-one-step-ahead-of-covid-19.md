@@ -5,8 +5,8 @@ excerpt: "This AI inference server, which features Gyrfalcon's Lightspeeur 2803S
 publishedDateTime: 2020-03-25T18:42:00Z
 webUrl: "https://www.allaboutcircuits.com/news/ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.allaboutcircuits.com/uploads/thumbnails/BlueDot_Feature.jpg"
@@ -23,6 +24,6 @@ images:
     height: 435
     title: "AI Devices Are Helping Us Stay One Step Ahead of COVID-19"
 
-secured: "EE4LbFv2VdKE+aLoLobtWOAq+PAvjP3NzGlR/cYy8Sv4CQHoT6x6j8oOSvWqr7Yz2euRNXl6RfkX4HcsZ6Irl/4JQ10QrqcRUN2ozcoa+cpj3/q0UWvHJz/POo7myqD49ZyXuGddevHj3g1U22p2U8RLkm0K8nJFsNP9IuD2OlEBquYtXTjoZdSquWowAwlhn3eLwItCuu9q8SKXdn7UNV2PtJafUblHBmTV7vKY70FlQ5zTJ/8NMqN1wx63mScpo48SRJVkXpxh2cPwwp/8K7usYlapBYGYN1NayiFpx6My2I//Iq1pXWdhyrrc6oo1;GpJeSl7Bna/bk7qcpy/27A=="
+secured: "gW6bdZyrne42fjdAq2uSud92LFzqFPfofLhdnmCTlVJZFAAmTeQd0sdYZ07YUZJDwd9b+Q2u5ylAvoPbsia4UIz9dI1adO+02+5/dy52vvc4hLZbDin3zPNeQBCozWsXVcSeRBUMEizFHUQbm1LMp127Xd5S0fkYXvx/jGpL9D3/vhSNrem3TLfU2cFuV7/2bjCJrj/v5DTLUdOYS8e3z6F6w2mcDJMiQUKLKcndF8gpO30oTRwjghzafYD7Bbj6zvvNbpjxcF2M5IuVev8Um39f2+7LwC4mRJKYGlXpnDUihDdlSzwKoilyTSuZJCjUIW8AMYpIOa4ckpIR6aQPPSiiY5xH1bMLlj6r2bzccAZhcDZNrQxWao7TpDtyu+F993Jjc/Xn11OoA9Xs6VixMoJEq0mXwerpBWC6FWwq4YP3e+veW6SAaQC0DwlFVrozWz8R0i/jjGqLEdV+BbJXjnxGB9SuPwO/ILdRyJkU29U=;VlUWILjPxhqDYZDWF5FfSQ=="
 ---
 
