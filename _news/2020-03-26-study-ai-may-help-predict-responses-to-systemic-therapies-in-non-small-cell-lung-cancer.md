@@ -23,6 +23,6 @@ images:
     height: 260
     title: "Study: AI May Help Predict Responses to Systemic Therapies in Non-Small Cell Lung Cancer"
 
-secured: "Cfbj2GKmcGyJFsUwX0zn4lqpStBf0wJSOR+w8E2pw8Ok7hbj3/LQUU3XTd4lFQWCW7ZJXYTDkmFWh17XizlQ1dBLBuH06Y9P6tzg1DA9960lPuAeZIv3z3wj8oN2k/a1oetAzZNuhiRUkSSH/YF98A+Do64GcAVxKvH6BBRuiUmRy+JqydC7d5t/RdN7s6cpTicb7NExLqAgwTmIGngG+Lx1y9e5ZCWAnXssnBoz48y9NcM7iHnQvAOMgwchXMiW9JwPPZTG7+mmtgQgH8X2ErCqegrGBojRBo1qop6QNv//RE1D/XH7bdQYJZ/5wJWh;i3lmKOhP+GWihHMe+iyNSg=="
+secured: "Aq0dPelH5DVZeka47/3eERVCcNWNs/bpESYe+jg7Oyb1GBN0J8gKQpeYAYayv1zZF9u4d5SAIGKZUNbhcGcSXKI6ehKmg+SoRhOGDb9qj9ZI7dmL8mm8ds+0BHguJzVKS6QEvkggShCHj2A/aLR16QnxNBsd0PMJBO/MDN8iuceur3bercp/GEw8o6JnlTg9zp53PAPAZxkJxChF0Q+RVHN6cygiW9qa0tBzFAxp2swwRSpp3yP7p8Dy6d7wPjNNEnxQeNpFXJnAfXlJ9BslH+kg6vO1ovf6c92ahJpspDCrgOgddjMVIhb/Etzk0eD6pIDmMk8r18m2p4LE6xJcGyI3LjesPi+9Z3mF0KcGShGiLIakG8p3+XV8oNfhxHKaoieqamGnuHJ0/dkFffcE6myfNenQEt+8Lc+gEPaQM9Iqq5XU5wit0WSrnT2a3OdjhuqzkpHFvr9hG+XRnXhKtYbsKXvxuOdf45tniVPBF2o=;EudVgItVLCsXtwKgX8KXGg=="
 ---
 

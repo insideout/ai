@@ -2,6 +2,177 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-26-textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants.md",
+      "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
+      "excerpt": "For companies like Nvidia, for example, its use of Textio has led to a higher number of women job applicants. Textio uses natural language processing to color-highlight and interrupt bias communication in workplace text like job applications, LinkedIn job candidate outreach, or emails on Outlook or Gmail. Accommodation language- and ageism ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
+      "publishedDateTime": "2020-03-26T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/textio-2-1.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams.md",
+      "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
+      "excerpt": "Now to add to that we’re starting to see a new theme: apps to help agents track how they work and to work better. Today comes the latest startup in that category, a Dutch company called Kaizo, which uses AI and gamification to provide feedback on agents’ work, tips on what to do differently, and tools to set and work to goals — all of ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/amp/",
+      "publishedDateTime": "2020-03-26T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/personal-agents-training-space.png?w=680",
+          "width": 680,
+          "height": 502,
+          "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
+      "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+      "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "publishedDateTime": "2020-03-26T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design39-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-amds-processors-to-power-microsoft-azure-virtual-machines.md",
+      "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+      "excerpt": "AMD recently announced that its second generation EPYC processors and Radeon Instinct MI25 GPUs have been adopted by Microsoft’s MSFT Azure division to power its NVv4 virtual machines (VMs). AMD’s hardware will enable Azure to provide customers with a cloud based virtual desktop capable of handling memory and graphics intensive as well as high-performance computing workloads.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "publishedDateTime": "2020-03-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1371717012",
+          "width": 1024,
+          "height": 512,
+          "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
       "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
       "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
@@ -962,6 +1133,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-25-wekaio-named-winner-in-2020-artificial-intelligence-excellence-awards.md",
+      "title": "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards",
+      "excerpt": "WekaFS has a clean sheet design that handles the demands of new emerging and converging workloads, including artificial intelligence (AI) and machine/deep learning (ML/DL ... paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200325005451/en/WekaIO-Named-Winner-2020-Artificial-Intelligence-Excellence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200325005451/en/665363/23/WEKA-LogoPMS_BlackGreen_NoTagline.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-a-list-of-fintech-firms-providing-free-technology-during-the-coronavirus-crisis.md",
       "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
       "excerpt": "To help in these trying times, many fintech firms are extending free, discounted, or accelerated deployment offers.",
@@ -1095,220 +1303,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-the-ai-paradox-four-benefits-we-didnt-see-coming.md",
-      "title": "The AI Paradox: Four Benefits We Didn't See Coming",
-      "excerpt": "Research firm IDC predicts the total spent on AI systems could reach almost $98 billion three years from now — more than 2.5 times the estimated $37.5 billion spent in 2019. While some business leaders have gone all-in and quickly embraced AI,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
-      "publishedDateTime": "2020-03-25T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-20-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The AI Paradox: Four Benefits We Didn't See Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
-      "title": "Cars Will Transform Before AI Drives Them",
-      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
-      "publishedDateTime": "2020-03-25T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Cars Will Transform Before AI Drives Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
-      "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-      "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
-      "publishedDateTime": "2020-03-25T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-17-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
-      "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-      "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/",
-      "ampWebUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "publishedDateTime": "2020-03-25T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/031820c.jpg",
-          "width": 768,
-          "height": 489,
-          "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
-      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "publishedDateTime": "2020-03-25T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

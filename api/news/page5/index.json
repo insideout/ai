@@ -2,6 +2,267 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-22-this-ai-powered-website-builder-uses-a-few-simple-keywords-to-build-your-entire-site.md",
+      "title": "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site",
+      "excerpt": "But do you know how to build one? The good news is that you don't need to shell out thousands on a web developer, all you need is Leia AI Website Builder. Leia makes it easy to build custom websites from scratch by using artificial intelligence. All you need is a voice description and a few keywords to create a beautiful, mobile-responsive ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347916",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347916",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347916",
+      "publishedDateTime": "2020-03-22T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200320061120-LeiaWebsiteBuilder.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "This AI-Powered Website Builder Uses a Few Simple Keywords to Build Your Entire Site",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-21-why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19.md",
+      "title": "Why AI might be the most effective weapon we have to fight COVID-19",
+      "excerpt": "As governments and health organizations scramble to contain the spread of coronavirus, they need all the help they can get, including from artificial intelligence. Though current AI technologies are far from replicating human intelligence, they are proving to be very helpful in tracking the outbreak, diagnosing patients, disinfecting areas ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/21/why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/21/why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/21/why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19/amp/",
+      "publishedDateTime": "2020-03-21T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-15-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Why AI might be the most effective weapon we have to fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
+      "title": "Artificial Intelligence System Aimed at Preventing Drownings",
+      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
+      "publishedDateTime": "2020-03-21T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-21-microsoft-and-adaptive-biotechnologies-partner-to-study-immune-response-to-covid-19.md",
+      "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
+      "excerpt": "Researchers will sequence immune cell receptors from the samples using Adaptive’s proprietary technology. The findings will then be analyzed by Microsoft’s large-scale machine learning capabilities and Azure cloud platform. “We can improve our collective understanding of COVID-19 by decoding the immune system’s response to the virus and ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/",
+      "publishedDateTime": "2020-03-20T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/20191008_GeekWire_Summit_244-630x450.jpg",
+          "width": 630,
+          "height": 450,
+          "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api.md",
+      "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+      "excerpt": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T16:14:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/batch-translation-6.gif",
+          "width": 432,
+          "height": 298,
+          "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
+      "title": "Google taps computer vision to improve robot manipulation performance",
+      "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "publishedDateTime": "2020-03-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google taps computer vision to improve robot manipulation performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
       "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
       "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
@@ -780,244 +1041,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
-      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
-      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
-      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
-      "publishedDateTime": "2020-03-19T23:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets.md",
-      "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
-      "excerpt": "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21646I",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21646I",
-      "publishedDateTime": "2020-03-19T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP",
-          "width": 830,
-          "height": 545,
-          "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
-      "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-      "excerpt": "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "publishedDateTime": "2020-03-19T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2019/09/Anthony-Levandowski.jpg?crop=0px%2C0px%2C0px%2C0px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-google.md",
-      "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
-      "excerpt": "After about three years of legal wrangling between Uber and Waymo over self-driving car tech, the engineer at the center of it has agreed to plead guilty to one count of stealing materials from Google. Anthony Levandowski was a lead engineer on the self-driving car project that's now known as Waymo, until he left to form his own company ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
-      "publishedDateTime": "2020-03-19T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F97bc78b0-6aa9-11ea-bbef-ef6aaf3814e8%26client%3Da1acac3e1b3290917d92%26signature%3Ddfbe6b14bd6b68e0cf808e931d1901198bc44b47&client=amp-blogside-v2&signature=6a3341e3904862e1c842819e0249daf2fe72c112",
-          "width": 600,
-          "height": 350,
-          "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-researchers-publish-survey-of-explainable-ai.md",
-      "title": "Researchers Publish Survey of Explainable AI",
-      "excerpt": "A team of researchers from IBM Watson and Arizona State University have published a survey of work in Explainable AI Planning (XAIP). The survey covers the work of 67 papers and charts recent trends in the field. The team, led by Prof. Subbarao Kambhampati of ASU's Yochan Lab, focused their review on the area of automated planning systems ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/explainable-ai-survey/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-the-impactful-role-of-ai-in-mobile-app-development.md",
-      "title": "The Impactful Role of AI in Mobile App Development",
-      "excerpt": "driverless, earth-moving vehicles. The perks aren’t just limited to this, it enables clients to see machine data and observe framework on their iOS and Android mobile phones or tablets. The growth curve of AI in mobile app development According to Statista, by the year 2025, the growth of the Artificial Intelligence (AI) software market ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development",
-      "ampWebUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
-      "publishedDateTime": "2020-03-19T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/a-/AOh14GhpNN87cfKPOxK5gBMpO01Xq87Dw_O39FUU8GJevA",
-          "width": 512,
-          "height": 512,
-          "title": "The Impactful Role of AI in Mobile App Development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

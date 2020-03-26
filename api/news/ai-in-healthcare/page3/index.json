@@ -2,6 +2,98 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-09-artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology.md",
+      "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
+      "excerpt": "The use of radiology in clinical medicine is exponentially growing. Many issues need to be resolved prior to integrating artificial intelligence into this field.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/saibala/2020/02/03/artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology/",
+      "ampWebUrl": "https://www.forbes.com/sites/saibala/2020/02/03/artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/02/03/artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology/amp/",
+      "publishedDateTime": "2020-02-09T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F453008535%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4495%26cropY1%3D695%26cropY2%3D3223",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-08-artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020.md",
+      "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+      "excerpt": "The report titled \"Artificial Intelligence (AI) In Supply Chain And Logistics Market\" has recently added by MarketInsightsReports to get a stronger and effective business outlook. It provides an in-depth analysis of different attributes of industries such as trends,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-supply-chain-and-logistics-market-technology-advancement-and-business-outlook-2020-2020-02-08",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T20:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) In Supply Chain And Logistics Market Technology Advancement and Business Outlook 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027.md",
       "title": "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027",
       "excerpt": "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
@@ -1148,88 +1240,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-how-ai-is-revolutionizing-health-care.md",
-      "title": "How AI Is Revolutionizing Health Care",
-      "excerpt": "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/",
-      "publishedDateTime": "2020-01-15T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Is Revolutionizing Health Care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare.md",
-      "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
-      "excerpt": ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/",
-      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
-      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
-      "publishedDateTime": "2020-01-15T05:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheHealthSite",
-        "domain": "thehealthsite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg",
-          "width": 679,
-          "height": 365,
-          "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

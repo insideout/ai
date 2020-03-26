@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-17-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
+      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
+      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001838/0/en/Cerence-Powers-Voice-for-All-New-Uconnect-5-Global-Infotainment-Platform-at-FCA.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
       "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
       "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
@@ -1127,51 +1156,6 @@
           "width": 1200,
           "height": 600,
           "title": "This startup can predict heart failure over the phone using AI and speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
-      "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-      "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "publishedDateTime": "2020-02-26T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713",
-          "width": 1200,
-          "height": 675,
-          "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
           "attribution": null
         }
       ],

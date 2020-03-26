@@ -2,8 +2,8 @@
 category: news
 title: "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images"
 excerpt: "and computer vision technology, announced today a new innovative AI-based solution for 3D Reconstruction of Knees from X-ray Images. This technology provides physicians with a rich 3D modelling of each bone,"
-publishedDateTime: 2020-03-16T22:00:00Z
-webUrl: "https://www.prnewswire.com/il/news-releases/rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images-301024885.html"
+publishedDateTime: 2020-03-16T16:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images-301024885.html"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 315
     title: "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images"
 
-secured: "BPBpproVt83biQ6gcUwrKUSR1JO+qjJ7HoCJxqaIWCooJVIF9m3VYjC2XNUC831tveWW7pjh3aQr6641GYT0SCSwTIZpgcoOtnN/IUbLBZW3iYMHNit6y/vgtiaeUlH2yWaUnGVjmsF29071NJHgFLcchLrVQO2weGCeKzorgnNLISDXGTPtE0qE4Gf6RdVRQHwjVlXEa437iHJLh3uGTW7EaAor/0vE9epwlQYCHYc4p/GiVfxR5YSkTWgaoIgDlFt/qkFSYv2AXYu1q8zbOrcFK4blBoagfigZtnfDwpPdT7JrBXqABTW88u8v2qvKVKzGz76N/1jJH28IvpD+UjIqcyqB3vx1Npqo4o+MfPaukD7Bf7AEcKAVP+jAhsZfblDrxudjVUtn7HnZ3DuGZktQs9Uowbc7M1cEYpE1XyoO1lvRHzjH3HTf1TwlatmYbWA3JnJyf0FI939EPOT0kaEivC7VPxSEoE4P87RJbZU=;rPvMAl+mh3HIJ85STFUEcw=="
+secured: "kUVfK9wAFz6L7ieaOK5XRUOqAE0tssoTxKVnNAUH0lIOWMB1VW5el1jajslsthiRnoz599qMaIfT8OQWfoOvWGecbqgC3FTaNeQMf0aN9hjoOY4JNYm8UzD34oiWUbkwjozzTrH4CJOxOU36xAjpOyiw920aPOqQcfzapyroLlhvEmwC2UWZzs8qS343UrjRq0vEtdenNiLynjzitFZ7nkmmDa43r9FJGByj532C5XIaJyYVuUrl+j+sjMSFbZ976DDzFs9fVZre+B6okvm2wtBOdLyAdfETOra6J4GGbdf+LQyiL+J09UmoSq/s6ufz;glXm2DiawsemrTFz8bqkLQ=="
 ---
 

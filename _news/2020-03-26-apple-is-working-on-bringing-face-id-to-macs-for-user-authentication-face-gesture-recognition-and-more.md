@@ -24,22 +24,22 @@ images:
     title: "Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more"
 
 related:
-  - title: "Apple planning Face ID for MacBook Pro and iMac — plus a notch"
-    excerpt: "Apple intends to bring the Face ID biometric authentication system introduced with the iPhone, to its Mac range, including both portables and desktops. Notice the circled part at the top of the screen on this MacBook Pro-like sketch \"Light Recognition Module for Determining a User of a Computing Device,\" US Patent No. 20200097747, is chiefly ..."
-    publishedDateTime: 2020-03-26T11:09:00Z
-    webUrl: "https://appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch"
-    ampWebUrl: "https://appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/03/26/apple-planning-face-id-for-macbook-pro-and-imac----plus-a-notch/amp/"
+  - title: "Enabling end-to-end machine learning workflows with Iguazio"
+    excerpt: "This Dell EMC Reference Architecture for Iguazio helps your organization implement optimized machine learning and deep learning projects faster and manage and scale them more easily. The components of this jointly engineered reference architecture include leading-edge products from Dell Technologies, Intel and Iguazio: Dell Technologies For ..."
+    publishedDateTime: 2020-03-26T15:34:00Z
+    webUrl: "https://www.cio.com/article/3534496/enabling-end-to-end-machine-learning-workflows-with-iguazio.html"
+    ampWebUrl: "https://www.cio.com/article/3534496/enabling-end-to-end-machine-learning-workflows-with-iguazio.amp.html"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3534496/enabling-end-to-end-machine-learning-workflows-with-iguazio.amp.html"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
+      name: CIO
+      domain: cio.com
+    quality: 59
     images:
-      - url: "https://photos5.appleinsider.com/gallery/35095-63998-000-lead-Face-ID-on-Mac-xl.jpg"
-        width: 870
-        height: 485
+      - url: "https://images.idgesg.net/images/article/2020/03/iguazio_image-100836581-large.jpg"
+        width: 1200
+        height: 802
 
-secured: "a8TfFUJ2p63J+0vJllLqKxbDTA2EmxvzSPoxtx5IwR//BIZrlbuhXaU9HZA00//AsfoKPkSjilcDh6st7dg2fj9FXCR/J/j+wrVUqna7Nal7jXpThRY6f79oj/XHwnTxZYRQUK3MjVAy1TmblqiwwxOkH8m/td9cwZ2CUJE9iqauNPZimVeJTBPIS9KukgFuEHd9GPKZX2ir8zuHfmveehd7iIWgapbdOBwwaOoZQ+fX7bpS84RH0cxf1SBRuuQHRUfEtcixcvBV8Omob85478/zTBplVS26/8nq4q68lFUFjGhdH4yney4t6zWeQsfN;u+D4XA85S1zD2hvKvcfG+w=="
+secured: "yDWUw9+waV7N0ConHPXy3BxU9EoeA2bNpJv/8tKm5xvsfiBhvUa2TdLGaL8YEso0ikJqgQfpYDqDstxF4f0XJacloFZq0d4EIwp7q9LC0wjQhSmK6vrz9t8LHgeTo6QkAPHFWJBbNSTP6zLvQP1KErmAtjfBzVt1968BU5+fJqxWFSSCh5ja4VzVwt7NsendGoB7sv6N9h9RwBz0na7QRTBwzUtCsmDg109Ndyqn0U5JNWDQj6GmbS0uat0+PjE4K7A+tqShZPIhEbMSm/OTIPSdr54cf4vPqGhgqGWJSLOMMX4c6O7rm028LxxYJg/pq0OJq5dBWnOTx2zIm/0uRuccYTEXOTjVz8NUONYLBGjaqgFS1EFlZnFyHYUbDyVCx++xGEWx7lAx+hvaiQwWgctvimt4AzR/l8OKgu/XQeAw2YrjSrHGNPEjf9+5GZ22RTB4UOBLt57GocZU0NnWMRG5JWG2OqZc3l2RRNRMBgY=;+RDHaIFiPcMPGi3aN9AC/w=="
 ---
 

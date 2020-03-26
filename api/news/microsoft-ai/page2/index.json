@@ -2,6 +2,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-12-responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum.md",
+      "title": "Responsible AI Moves Into Focus at Microsoft's Data Science and Law Forum",
+      "excerpt": "A year later, Microsoft set up its AI and Ethics in Engineering and Research (AETHER) Committee, a cross-company set of internal working groups tasked with deliberating over hard questions about the use of AI and advising Microsoft leadership on its development. The AETHER advisory committee set the blueprint for the publication in 2018 of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/",
+      "ampWebUrl": "https://www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/amp/",
+      "publishedDateTime": "2020-03-12T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-didier-reynolds-ec-commissioner-for-justice.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "Responsible AI Moves Into Focus at Microsoft's Data Science and Law Forum",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-towards-an-ai-led-2020.md",
       "title": "Towards an AI-led 2020",
       "excerpt": "Paul Morgan, Business Unit Lead – Data, Planning, and Analytics at Altron Karabina AI, machine learning, and data science are becoming more mainstream in larger organisations in South Africa. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of Cognitive Services ...",
@@ -1142,51 +1180,6 @@
         "Natural Language Processing",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-better-buy-ibm-vs-google.md",
-      "title": "Better Buy: IBM vs. Google",
-      "excerpt": "The cloud and cognitive software unit houses various cloud ... which competes against larger platforms like Amazon (NASDAQ:AMZN) Web Services (AWS), Microsoft's (NASDAQ:MSFT) Azure, and Google Cloud. Its global business services unit offers IT and ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/26/better-buy-ibm-vs-google.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/26/better-buy-ibm-vs-google.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/26/better-buy-ibm-vs-google.aspx",
-      "publishedDateTime": "2020-02-26T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F559643%2Fgettyimages-1133081620.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 713,
-          "title": "Better Buy: IBM vs. Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
