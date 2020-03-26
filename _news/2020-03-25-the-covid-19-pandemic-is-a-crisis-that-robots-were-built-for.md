@@ -30,19 +30,6 @@ images:
     title: "The Covid-19 Pandemic Is a Crisis That Robots Were Built For"
 
 related:
-  - title: "COVID-19 should be wake-up call for robotics research"
-    excerpt: "Choset also emphasized that, like robots, artificial intelligence could help in responding to epidemics and pandemics. Researchers at Carnegie Mellon, for instance, are performing research to address humanitarian aid and disaster response. For that task, they envision a combination of AI and robotics technologies, such as drones. Human-robot ..."
-    publishedDateTime: 2020-03-25T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-03/cmu-csb032020.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
   - title: "AI finds 9 potential COVID-19 drugs that can be used on humans immediately"
     excerpt: "The emergency of the situation, as well as the legal and regulatory status of these agents, make it possible to start immediate clinical trials for most of the suggested drugs. Gero used its AI drug discovery platform to identify molecules with potential effects on the coronavirus replication. The fact that this time the potential treatments ..."
     publishedDateTime: 2020-03-25T15:39:00Z
@@ -56,6 +43,15 @@ related:
       - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
         width: 900
         height: 300
+  - title: "COVID-19 Should be Wake-up Call for Robotics Research"
+    excerpt: "Choset also emphasized that, like robots, artificial intelligence could help in responding to epidemics and pandemics. Researchers at Carnegie Mellon, for instance, are performing research to address humanitarian aid and disaster response. For that task, they envision a combination of AI and robotics technologies, such as drones. Human-robot ..."
+    publishedDateTime: 2020-03-25T20:31:00Z
+    webUrl: "https://www.laboratoryequipment.com/562308-COVID-19-Should-be-Wake-up-Call-for-Robotics-Research/"
+    type: article
+    provider:
+      name: Laboratory Equipment
+      domain: laboratoryequipment.com
+    quality: 34
   - title: "Robots could help us combat future pandemics. Here's how experts wish they could help us now"
     excerpt: "Although many people around the world are practicing social distancing during the coronavirus pandemic, those on the frontlines fighting the virus can't stay home. Experts agree that robots could take over the \"dull,"
     publishedDateTime: 2020-03-25T18:12:00Z
@@ -68,6 +64,6 @@ related:
       domain: wral.com
     quality: 28
 
-secured: "PQ9gNHf6RtOlZ9dxChxkdWBTqb48T5Z76O5BBwC1zfvZsm8YhsKgZAtftlzD9rMtkSMdwyJ6RCkctfVr7JE6GUGSrEnz58wdvG/V9rVyrnTpcNllcy/uASXy4FDIlCcNhXKb+e+grfuRZsTCLvGPDVkbUcbFnCEdggkGLfS0VzmNIz9NUsihGk20u5FgmNXAyhqBZMlQbr2wT77xUK5MrYDdWaOejO3MQnmNC+SNIyoILRNOUTs4d9+FZ6tGHJWMQCtuRUbmMYgcnKI+C6UcQi4USAVjZgd4Z5xII70qAHQij4NgoXf9s2G0OaqVgxdgE1y+qsptUhqgoKXbXzPyYpnN9N6JqD0bEL4Rw+L4nxnEeZz6+kCAM9JJBcPP28BYO4F4OLFr1AIVynNwd3pLC3ZxDwf9es4RGXsWQQeEUFWNbflzqRB7LZ3yclkE7yJ9bPVoslDDdVSB0fECAnb3Lyuit228/f94J/RchEWzLnk=;sH24wui1fJnBF5CAuuW5mA=="
+secured: "4jDTdT3OkoVVBjDUbD8J1H34G1QkLrsOweMQyoFvFX0ihn+DUorMgBMb210/9s9gLgkbsmL9/5fl9bXuR7gEbUzX4u/2VAJ7IG3z26c4GsvLziIHcrmOesAz4zTKvUF1IVkidOu+rqptM2dl2nOwINtvszadIqNBczDr+Cs3glX9/CtxVrT/aJ2Fm9HHK9g5NhMcPcJWF1mwjgUaOU74Io9ABxHy43mAZGxv8xVBOHhb2y8f1jkVSnKIgi+cXA616wD1QTx1vxkwQupO1/P2NoXEusmMoDXXCBnx7OlFyApb3JZVuh/dsiLYeBMwl288SIw4DnR+Y1kljI41CR6aDkbFF6W2XsUlaEQL6L1790P+WtmcotLdsKy7WHqf8pzR6VLgs+3eKnb0dmrGCvE/J/ZbPViBcPZihbegrqp099zAyoItsJ6vVVYWte/myxGK9KmWq9Dii09kvnfBp4nB5K6MZiGI2p1OX6vEdPf18VY=;zmm4k8mrfvrGMMOMNiwZkg=="
 ---
 

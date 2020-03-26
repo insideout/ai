@@ -38,19 +38,15 @@ related:
       - url: "https://media.wired.com/photos/5e7a57d18283f9000a415185/master/pass/Science_covid19_1207640994.jpg"
         width: 2300
         height: 1533
-  - title: "COVID-19 should be wake-up call for robotics research"
+  - title: "COVID-19 Should be Wake-up Call for Robotics Research"
     excerpt: "Choset also emphasized that, like robots, artificial intelligence could help in responding to epidemics and pandemics. Researchers at Carnegie Mellon, for instance, are performing research to address humanitarian aid and disaster response. For that task, they envision a combination of AI and robotics technologies, such as drones. Human-robot ..."
-    publishedDateTime: 2020-03-25T18:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-03/cmu-csb032020.php"
+    publishedDateTime: 2020-03-25T20:31:00Z
+    webUrl: "https://www.laboratoryequipment.com/562308-COVID-19-Should-be-Wake-up-Call-for-Robotics-Research/"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
+      name: Laboratory Equipment
+      domain: laboratoryequipment.com
+    quality: 34
   - title: "Robots could help us combat future pandemics. Here's how experts wish they could help us now"
     excerpt: "Although many people around the world are practicing social distancing during the coronavirus pandemic, those on the frontlines fighting the virus can't stay home. Experts agree that robots could take over the \"dull,"
     publishedDateTime: 2020-03-25T18:12:00Z

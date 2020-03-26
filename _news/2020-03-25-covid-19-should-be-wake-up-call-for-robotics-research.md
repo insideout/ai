@@ -1,27 +1,21 @@
 ---
 category: news
-title: "COVID-19 should be wake-up call for robotics research"
+title: "COVID-19 Should be Wake-up Call for Robotics Research"
 excerpt: "Choset also emphasized that, like robots, artificial intelligence could help in responding to epidemics and pandemics. Researchers at Carnegie Mellon, for instance, are performing research to address humanitarian aid and disaster response. For that task, they envision a combination of AI and robotics technologies, such as drones. Human-robot ..."
-publishedDateTime: 2020-03-25T18:03:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-03/cmu-csb032020.php"
+publishedDateTime: 2020-03-25T20:31:00Z
+webUrl: "https://www.laboratoryequipment.com/562308-COVID-19-Should-be-Wake-up-Call-for-Robotics-Research/"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Laboratory Equipment
+  domain: laboratoryequipment.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "COVID-19 should be wake-up call for robotics research"
 
 related:
   - title: "The Covid-19 Pandemic Is a Crisis That Robots Were Built For"
@@ -64,6 +58,6 @@ related:
       domain: wral.com
     quality: 28
 
-secured: "I/JV5YgvU93BQh1gazyvPMd/HZr7OIqzebtTGXxBgKF0CzuGPqf6/OS4tV1LaH3efIo1xLGzAyc9wQ6qLi7j7uP+uLQhqRUmgr+vmOWTBoC5di3p1BsBnhwENms4ql32qHiUFTT4T9sxnjxWd7Mv54wGz5lXzehDw7wTqaZ5KvQjWDT8SPcRPnASrF20zQXRRLVDf+JRqvkNKuqo3Pld9Hd3yAdVyMrG6gmUGLmvfxaTTN5fgf9J6jP5wRXm4WhAkzBvX5P9uohNIADydZTNMVIqMzUY4QHXNb1TQuKtDNsG/UrLAlaqVkPEof2emScx;cC8ppWcF3GmA8nmpaS3Ywg=="
+secured: "yN9+4JGbBygh9fRUsLzQ18DQmjz7egFDyEMfZKh/P9pKcpiYcLMcgudf548On70F9Y1oJSB5J/RAgkNyqQtofrOnjNaaA1mY9na+xeD6rvzL0SiCS+Lvei2zC6zanalt4JCK4qOmRj9jNRbAhKJk6+str7/MJHoMosfQgnk4+74oPDeZTr1YpFYNG9pzi8lCCVyzdhi0q1d6HjI3kiZg2w5eW64bLAwwfSyf8s1Z31SyCFYtpjUKjGzlduQAKL2KeZwbi3dV+XACgeDk05amysPmqHxIPIvNnoHp9dOdh/ItMlaV8hd/h5RGw8kbEdMJ5lYyvtk6XbkdU2EinchdXFLFK4N9pV3VUIqXmhXw87yfdbb+ZQ5EtveBOtpXdAMJLP25QWztpJWLIV3JBHNgoiV4mKyUSiSiPmaUeSzn7yFVGJ/K7HomKSDW1qybCr5D6jZXPaGXkraq9rhkoo0+RFi6PXWGnKsmhKP7AkTWsOE=;uBYNJXzXfxWCPv3o0uHVVg=="
 ---
 

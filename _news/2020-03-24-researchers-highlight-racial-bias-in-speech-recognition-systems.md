@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/2020-03-24-racial-bias-speech-recogniti
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-24-racial-bias-speech-recognition-siri-alexa-ai.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Engadget
@@ -28,23 +28,6 @@ images:
     width: 600
     height: 350
     title: "Researchers highlight racial bias in speech recognition systems"
-
-related:
-  - title: "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say"
-    excerpt: "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message."
-    publishedDateTime: 2020-03-23T19:07:00Z
-    webUrl: "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html"
-    ampWebUrl: "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 76
-    images:
-      - url: "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg"
-        width: 1050
-        height: 550
 
 secured: "x9hNJj1IKsMKMuW4G1IMdIGDLuKIooIJDx0Cp2sHnz6gzV5317VboUy7di6QOxD1UeOpBzPqbTcAeZUkPSzHvuZ0qXQrRLSZF09lkrgAZ9Dy7RegxmLwDZsu0tjugW5tj9YVcju5dewesqPsmomdhhfwUf7RXvjSuEHDkopFfitbdJhPrxX6IE4xZXXWiYlqQ3xy04aUVz/62IiTBM+mDBj2Kq0BkqFFHwZs03xd0Z4B6hyqrjpA44HOpS0cTUCLjs88bjh7CIncJXTpx20nKvcJeIOseBp34rvtOwozRKEan/hn7oQ5vSuhfT8qzrA9;HN5DJNAOZjZ6pEKU3sNTHQ=="
 ---
