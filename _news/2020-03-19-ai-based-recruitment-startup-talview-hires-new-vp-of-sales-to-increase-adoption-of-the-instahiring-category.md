@@ -19,6 +19,6 @@ images:
     height: 419
     title: "AI-Based Recruitment Startup Talview Hires New VP of Sales to Increase Adoption of the \"Instahiring\" Category"
 
-secured: "1kUECbhBo+PwFT6/+YKeuzWvQThWLHxdcc48yQlIhisfVODmyWWy/+4VLyN/pe8i2gyoJywsecPBVd+fyaa2HQzbcKc0xRpYzjlcGPCENczHtm9S4Sr03NHtPAD/LNDZRXXfdY4MUsgd//H6WHAqNOkQtGKhVEh+nvZETaH5QXjzB3NLCrrUU/Sz8wUkLOKTRmY4ptTLHJbb9k/AkyBsBv/vlrTNPAaRNE5BQwIXhuxLb+Wk39pcaWpF3elKzbQpAkypm3ChW4u58/4vtZbSNH16Z8MmmhupXWXHB4IOgISfvTH3iwkfE9IFAGBzqCvS;Bj2+sqbuUdzV835I7kyLyw=="
+secured: "bxArXImLgeA5DkwG4C+A3kVg764/guqjuvoMpZ9v6E88kvAXz91SPawYWIAQ8WWDeim/aBh+7m6Alb+Yi1JjYa7GQsWeicKF3jJf8O1lq9Cc6ukibSLPIyEh7YGKq/bYvxTyHwPZ0OjDCqVQ8ACxmgAATvhtnQwfvgUYJtV6j2lvu3fGcZMBmH2Pj+49hJT4EEIunvGbPdVOn5YHkBscs8xfCloWZXxWVYcj+UEryKcAEAHzGxBS+nVY7FdEYGl7jl95NkjAX2hj0DaMQo3t15Qov5ruOOeNiGuBxCPvQEoJ/B4dM4H26q+Golg3m/vh441ohGw1tv5iK7A8cNp2GUVbio7SXKnbd90g70XR3zmTKzZy8DljmlZUXq0FPKbQU+jIVoES9f7Rutoo4YR1sakkjFUOkkUct3vlj1KjJQ4nq+svcmqWWj6Hc3d1cNua0fq+rI7KbZCXmt6utGO1OyMEAnqS/qntu3yxj5SfPr0=;RHLTPmiBM6ea/l5Ls5/UCQ=="
 ---
 

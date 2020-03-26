@@ -2,6 +2,51 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-03-01-artificial-intelligence-of-thingsaiot-explained.md",
+      "title": "Artificial Intelligence of Things(AIoT) Explained!",
+      "excerpt": "The application can range from smart home speakers to self driving cars. Both terms, Artificial Intelligence and Internet of Things, are buzzwords. This means we did already hear about them and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@arun.cthomas3/artificial-intelligence-of-things-aiot-explained-eedd4376f027",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-29T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*iZ-stajAPTmKQe3-0Ldf1g.jpeg",
+          "width": 1200,
+          "height": 773,
+          "title": "Artificial Intelligence of Things(AIoT) Explained!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-01-amazon-microsoft-and-ibm-are-under-pressure-to-follow-google-and-drop-gender-labels-like-man-and-woman-from-their-ai.md",
       "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
       "excerpt": "Now the AI researchers who helped bring about the change say Amazon's Rekognition, IBM's Watson, and Microsoft's Azure facial recognition should follow suit. Joy Buolamwini, a computer scientist ...",
@@ -1050,51 +1095,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence.md",
-      "title": "How We Educate Our Children Will Change In The Age Of Artificial Intelligence",
-      "excerpt": "In the age of artificial intelligence, technology has given us many online tools, apps, and robots to help us educate our children. But, as parents know, nothing beats one-on-one interaction between a parent and a child.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/how-we-educate-our-children-will-change-in-the-age-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-28T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1031377970%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How We Educate Our Children Will Change In The Age Of Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

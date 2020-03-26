@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/03/26/ai-powered-smart-glasses-ar
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/ai-powered-smart-glasses-are-finding-people-with-coronavirus-in-china/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 417
     title: "AI-powered smart glasses are finding people with coronavirus in China"
 
-secured: "MZB/Tio/LzdUKWjaTtNzFYm/LqntMB/gO2CJg/iiVz4YTKGTYncKoavwgj8gEPn2SVv7OCL5ArZElgZIYHpRfsvcOIn2dV5hC/t9eEHSY9LT93Qxh3Sx8ALykh44yTvjl7fprVYLL9oTCQjKq1fKF/aWs4ibiKJwlBKLo0hu/ceOLyKLTzgM4Gj946xIcngcmYkCLbnLsrH4YOAEyFAAOLJ6c3n+GNyCxMLtEJ7iUmOVh4U0cTlMFgqIyAoiqhCl8HoXtc7fF6IdlcrppRh76qSqEQzJaoxisOGvvJY2h09+Chphc5/cEengOdFFHd0+;u/j1I/66AS8GBGYfLBHAMg=="
+secured: "ODglCwoQyG28/rupWRV9eiO5/bvpytlUsJffkflKNsdey1qo5wgeVQ4Slf2FSgdKt6dTzERjwhQUyIlKWKJP51qHdLQJLdPphGegBZ35ELscEmsiO248TYPIOCaXx7RA1q296bCw6g5EiuhqnBJ02i5zvRfUtsKW1hOi7HRzh/LaiRNUpObR8P4z0uUyo1xMKEAE/z2UJIC6d2opm8c81DbvYmS5CdMdW+6KwPuw4AL9YZ84K5TVaUUZ4tOaFkK/VxoRTloLkwlF6Yc/S4DI1De/mqAQQTq1unKiWgIDv0vQTe3d3JE3TyQEgmIjWwTtQQ5Ach/bPKlh7W3eL7cMMD2JAZt5GeoNhZM7cewaypJ2UrjGir7iOxdwajwMy1JhZvzu/ZCI/BgiFNkFo9MmMVWgvIbGLlS3K4SMGabEUDLB1iln0nJBIQLatOlH0bgQxxUki97r7AqT9g2OObQEnaQy3bq4jh6ZS/Zlcz7nDoI=;Y/SdcuMCEK4OLUkyO6ztwg=="
 ---
 

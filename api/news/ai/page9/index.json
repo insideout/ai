@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-18-5-elements-of-a-comprehensive-government-ai-strategy.md",
+      "title": "5 Elements of a Comprehensive Government AI Strategy",
+      "excerpt": "Strategy architects should identify appropriate performance metrics for the AI, adopt data ethics guardrails, and explicitly define performance standards in terms of accuracy, explainability, transparency and preventing bias. An AI upgrade may require platform, data and technical upgrades. The U.S. Department of Health and Human Services ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html",
+      "ampWebUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
+      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
+      "publishedDateTime": "2020-03-18T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Governing",
+        "domain": "governing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/amazon+echo.jpg",
+          "width": 770,
+          "height": 513,
+          "title": "5 Elements of a Comprehensive Government AI Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-toyota-partners-with-chinas-momenta-to-commercialize-hd-maps-for-self-driving-vehicles.md",
       "title": "Toyota Partners With China's Momenta To Commercialize HD Maps For Self-Driving Vehicles",
       "excerpt": "has partnered with Beijing-based artificial intelligence startup Momenta to commercialize its high definition road map for automated vehicles, the Nikkei Asian Review reported Wednesday. \"With this joint development,",
@@ -1127,43 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-composing-new-proteins-with-artificial-intelligence.md",
-      "title": "Composing new proteins with artificial intelligence",
-      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. \"These networks learn to understand the complex language folded proteins speak at multiple time scales,\" said Markus J. Buehler, from the Massachusetts Institute of Technology. \"And once the computer has been given a seed of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/aiop-cnp031220.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226903_web.jpg",
-          "width": 1440,
-          "height": 1205,
-          "title": "Composing new proteins with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
