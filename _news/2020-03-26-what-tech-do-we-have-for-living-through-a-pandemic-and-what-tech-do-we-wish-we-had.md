@@ -25,6 +25,6 @@ images:
     height: 416
     title: "What tech do we have for living through a pandemic? And what tech do we wish we had?"
 
-secured: "xIAR/39amcjgVNnemN5mxkqhalafRRHeDgZDBRkI+z7M4JUYcnkii6UWBsgE4a6icUq2uq7ixy380jOJPTMyTWCgSqLRR75HEybHe7GYePrCI29AxnTJ4rB7GR4Ne3IOZG3VYbt8TREkZJV+GTphj/I6j8zGJV5VXrOE3wFrePtHvLViyZkr8VZHWhcc1LUAoSWKK8avMppWQIxdVNabqCZAPHi5APjF4U7C5Cz9OJfjVSp36HEh549UhEvI3BNpyl8z+Jul5Q0q/a+HAMWfnNMMREe9vK4KI998SB7RZIXR9NAbRw3JNtHDzIVCwrFW;fSq7C1iq/JFjSUBgEfq2Ww=="
+secured: "iNvCV4aWzr/Bvwzm2GWthQ0aVtvVXzdB6P08ralG7gWCyGgJprTgLS549fp+WcqgjpBnt5JEIYMOAgraWvrFSESmXYAbLFlnLqyMWOihpqF+RiJbReqAZ+OAwfrgcyY+oy4fkWG92e9uDR6Td7Ma5Mo/wb+DKtLkf+vpIFlQIrYsQiJgweA6sFcwdsUnamhiOGxtJ3tFr7JqMDRRUAmjqoTmy9Q45YlghEnveCB44S+C2p5Bah1TJXEFCTN2dKdKUVkvmQn/NmhSNUzrvX46LpsCQLB//30dyI8FexuOz+XS0NKlByO6/twnRRM86A6+UhMx76xImGT54lvR+UdhPrSGl/pIo5ItsEkm/xo7ICw6fwbEOfL8L4r3IeMZIYs4sZysJ9r6S5iWDjVos9dj2XZ3lfCHcwBdY7J9QhT9TraFVFzhoE8BB49reK1E0fEWrg/f6D/Arx9lS3EjQRgKKajQdD971MKnqMKSU9bQT/w=;7dF/5THJjm6IAbmU/tbBTA=="
 ---
 

@@ -25,6 +25,21 @@ images:
     height: 485
     title: "Apple planning Face ID for MacBook Pro and iMac — plus a notch"
 
-secured: "XtgptvWDwg0GNaXp/mawPmLKdjtqgx3LBQyXTEwvYZzwHPhO8BK/k9uk2jxgq9w/b3xxVC5OiEqGJXFQsEGP4gUxCnp/ER30kMvUsSiU0u2ZxyLKMDTX9byrJkzfKz2PvIaVv4zIvuj4GRYkimxd6EsSSXpSpLZjVWwe6FVSssuIj0rMY9aunhKtiBH3ks6Mdu+zl2VfXp3bXEXmaheNGyfngTi1IwQ5564oWy9rMUhvPQRrH6Y8NSFyaNjvrvx3oscbGKjVEsWJX7vSVbuu5HevuahcOFojgVM9F+eOyRi9uqOsGilrL1rNECnPTauY;m+B6JgDicRUEv3KxhjewFQ=="
+related:
+  - title: "Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more"
+    excerpt: "For the MacBook, however, the integration of Face ID is awkwardly designed having some components at the top of the display but having light pattern recognition module that includes the needed dot projector built into the Touch Bar area in the keyboard. Technically speaking Apple notes that recent advances in computing devices have enabled ..."
+    publishedDateTime: 2020-03-26T13:34:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/03/apple-is-working-on-bringing-face-id-to-macs-for-user-authentication-face-gesture-recognition-and-more.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 8
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4f5f2d1200d-600wi"
+        width: 600
+        height: 356
+
+secured: "yuYRnFg+S+wjOlkPbOuRYSpSUoCx2QAx0F9qsFPXBk17IiCC0hjs3wTID7+S3oAV0D98bOcnPKd52NqVNY0VcejNM5YtBpcsrNxp9pJtadFM5pGu8i61mh4zPHfmTa2P4VmpU5igy+D2nIvNGs+WsAfV/fF2UjzfCRaHmwsrEKP8epNR+py97hCOrobBGSrLPp1TcyfNIwpszO69sajhcN/G/uP2fraT/j6BI2AYP3d3E76ITOBqP9QogEAXLYJf+DNFEWnVMdR6igW54wfd7z+MuRKg7f13XTBu3z8ilTeD0PltkGNJzEixJY3t6UjX0j5tgm8RqvSOmHxBr7m1I7B9kDtUAwlBgJG35bHJgYpv9FEhU/5LRAUVFIvX8fWHE97+QUNoy3ZJ9WT5WZZenDdNXWXYXuItL740XGY+P3/lVXPYq4eqTEJAb93AVP4Anm7rWsJaA9vPO6TBjHRL3mB2l5woaUFzYLXEu1+RmUg=;BTmJQu3o4W3k07cF8jWA/Q=="
 ---
 

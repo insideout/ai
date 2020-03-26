@@ -1,26 +1,28 @@
 ---
 category: news
-title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
-excerpt: "This will include unlimited use of the C3 AI Suite and access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications (NCSA) at UIUC and the NERSC Perlmutter supercomputer at Lawrence Berkeley Lab. “We are collecting a massive amount of data about MERS ..."
-publishedDateTime: 2020-03-26T10:12:00Z
-webUrl: "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
+title: "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute"
+excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.\" “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary collaboration, represents ..."
+publishedDateTime: 2020-03-26T12:47:00Z
+webUrl: "https://www.businesswire.com/news/home/20200326005334/en/C3.ai-Microsoft-Leading-Universities-Launch-C3.ai-Digital"
 type: article
-quality: 25
-heat: 25
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Microsoft AI
+  - AI Ethics
   - AI
 
-secured: "i05zZsrmct/aotvCMWsy9+4tJm+MBtvBHOg7Q1VdShN6Uzd0b6XUE7bHv6NLoBOoWybQleqgHMRvxgW70aLwpcu6MIjdJRj2c4NfJo0JbYst8Y3spXyzd6aLAxJS5l/wZfM4038KhPj+O8jlpRr+4aCy1ghYyAfuDFLonuJRXiNyLtbFcYgo8EixfpqPvGhb5b8Kz6iGgnbQg30LVCiva893YskXztkWW3Lx2QkqJJgaHLkMaGpCPwLOKLjckmSAmV1IAaUPUxOS1P87un6BmhMNJuG4F3A5KNoUFga/BV0O0GYeE9sg5pEHQezrcUij;qncJY9w0Hv2oWVICtHNmkg=="
+images:
+  - url: "https://mms.businesswire.com/media/20200326005334/en/781777/23/C3DTI_MembersNEW.jpg"
+    width: 1200
+    height: 627
+    title: "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute"
+
+secured: "rQGGfH1403bvCyVvfvoyCG9/P4xfwZMESyhkgjzS0RUxJDZeANdHfSi6r4pTKkck9rY5IqRTG8qqf7ANhVloD+KZ2wEFJTkVhun79cgRdMV3kl/akveD73B3ER7pK8rzF3/Wriu922KswBjLebq7nwLireM2u8UlOG4bRx1rh257+rEpkxSUPbRmENU6fQROFWdOFoRQvOhJgP3YWUovrLJCwQ5MFN/DF0hu5b594NGPyGc9GZAz47IxpaL0kdhsc5Q+97QrDoviXGnm24j7wFuRXWd59OiSahvchNYOZvi9HD+bp7Bbyyswr/N9g3ee;C6ZGrqqFtwhd85hUM1vMBA=="
 ---
 

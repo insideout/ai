@@ -1,43 +1,37 @@
 ---
 category: news
 title: "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics"
-excerpt: "Acquiring Grazper’s technology will enable the company to provide solutions that use AI for image analysis, such as capturing image information for robots, detecting abnormalities at plants, and monitoring security using cameras. As a first step, Yokogawa’s subsidiary, amnimo Inc., will embed Grazper's FPGA IP core into its Edge Gateway ..."
-publishedDateTime: 2020-03-25T02:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200324005287/en/Yokogawa-Acquires-Danish-Startup-Grazper-Technologies-Specialists"
+excerpt: "Grazper has developed advanced artificial intelligence (AI) technologies for analysing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Why 100% Accurate Technical Translation Is a ... circuit design in the hardware language About Yokogawa Founded in ..."
+publishedDateTime: 2020-03-25T15:41:00Z
+webUrl: "https://www.manufacturingtomorrow.com/news/2020/03/25/yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics/15024/"
 type: article
-quality: 28
+quality: 8
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Manufacturing
+  domain: manufacturingtomorrow.com
 
 topics:
-  - AI in Robotics
+  - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200324005287/en/564757/23/Logo_YB1.jpg"
-    width: 1200
-    height: 627
-    title: "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics"
-
 related:
-  - title: "Deloitte acquires Microsoft, IBM partner Bistech"
-    excerpt: "“We’re incredibly excited and pleased to be joining Deloitte’s Analytics & Cognitive team ... data management and financial performance management services in the form of consulting, technical implementation, support and training. Its vendor partners include Microsoft, IBM and Adaptive Insights. “The Bistech team bring a great mix ..."
-    publishedDateTime: 2020-03-24T13:01:00Z
-    webUrl: "https://www.crn.com.au/news/deloitte-acquires-microsoft-ibm-partner-bistech-539759"
+  - title: "Dell Technologies AI Solutions Announced"
+    excerpt: "Today, Dell announced several Dell Technologies AI solutions. The solutions include Dell EMC HPC Ready Architecture for AI and Data Analytics, as well as two new validated architectures specifically for data analytics. Dell Technologies has been the parent company of Dell and Dell EMC ever since Dell acquired EMC in 2015. Dell was founded in ..."
+    publishedDateTime: 2020-03-25T13:54:00Z
+    webUrl: "https://www.storagereview.com/news/dell-technologies-ai-solutions-announced"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 39
+      name: StorageReview
+      domain: storagereview.com
+    quality: 37
     images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_Bistech_Leaders_(L-R_Justin,_Shane,_Brad).jpg"
-        width: 1400
-        height: 900
+      - url: "https://www.storagereview.com/wp-content/uploads/sb-instagram-feed-images/90430505_696968217777648_8365686552064321519_nfull.jpg"
+        width: 506
+        height: 264
 
-secured: "TKhmBjsqAyxaBYbt7GMqOL3LK2UhBe2AatsGwD6NjIahbc98Sq6IUace28kN0WE9x1j3Z/2E7jLNjlMQMREA2PgESo38kUq7Za0AadziBU/A3ax+Bt0ngItZbtJB+hsEF/cC58dUNqTy05b03RpIMbaJy0wyqJgQxWSJ9z8srEAY6A4QQOC3nwwRwNkCNCz1C7vwTRLbtZyjZy4Rtz/znOwJ7PI3wKRDubgS42Sejw+DjgRerYztpLBjWwivomN1McuoDOvIaSDoVbxb5qOM9gvyJMNlvlN+82eS7PHLjf0jZJJKNxtKnzrt0bowjABmbrGu7uDjYSkzjx/UIl2csOT19jHU7/zatM+nDeHtipcuzcNRqDsYx2SIZFDI+ENathOvXaEpZ2AtZexAwvU+b243D0lPsq4o7pQV4pfJmVsb7lhDzTne7XIj2Kfj6/paJ6oaDjBBcAU6f2x+ZYKqCI3zn1tWpSTL13fa3/b+Za8=;NTYJVlKSCJD9n6sG7IhchQ=="
+secured: "Vk8ZCrjxZ8DmOLdXtwEOZ10J5mfiHi/ajELJ/dy4zNWOc3/gD83jCwd6N6y922nOa5ELqeimv2JY15BCqRMe5dzm0sKrO4D8qv1GS3j8fwprs/D7zb56QmExYTheZq5h0n6GNxM91iAm6UWLBZZjgHt1UuHcwnBeBeJlxfAJFWaBJgG0YA1x62vEowC18stfKCz3tmOdrG8q9SzrLJAwFGjHq8OnHMu/92nquLed8MkHF9WKeZ394ONjc8asT71mluFdXi2rABwj0MDKhG7DOecC2Bw+FhxPkE3ezgqrSvlsgtuogUBmc3brc10XRCNQ;+9yVfr/M2ifnywwylvAvSA=="
 ---
 

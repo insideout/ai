@@ -1,28 +1,28 @@
 ---
 category: news
 title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
-excerpt: "PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that Amazon"
-publishedDateTime: 2020-03-25T04:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-301029298.html"
+excerpt: "SAN MATEO, Calif., March 25, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that Amazon Web Services"
+publishedDateTime: 2020-03-25T04:28:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dotdata-receives-apn-machine-learning-competency-partner-of-the-year/article_55172511-3105-57be-b800-ee633ae23d67.html"
 type: article
-quality: 22
-heat: 22
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "H5BlBdA8gMYfm4m5eu5fTqcJ7e1P9UeBbBCLOiWM5ng/MrEaroaoJrhd4KirBUb7YbMEavaR+GFCuSH764EefB2hqbyfZiWCGMkVUOkXvNqSINnbXn7pmY4dSltbN0H6ZcMghw32nzJ/aEK9zd+Iv6U25wQTg01WbjAhd6LykzDnn4fU+Zov8j9xKzlPkgK3YpQuYOkOB4d+SVMatyEsIEK6Otb3zTTgHuemiygNJWpwY75iydchHu5NQYs7t/ntzuR3VoFOh95sCgruxIY6KenUmLUnt9veg/AJtgUwrqqRdWMzmyAf7zMv2B9zX2fU;VCOHlkZkCfLijplmTMO51w=="
+secured: "1QhF87UfnFdPhn6TIhL/+BgFGiqRStTL6/kPBjwvxWC9lV0I9xliPQJDPJrCwnOE5ImpxINGiRMYQEg89xP7Cj4Kz5ZIvgY4nN/nYVHTAc0cdjfJ5yI8ZrvuAwq8lmwg9bdQHLKOYWFNIwECFNzNWSBiC3RIKo1oDI6w10r5CCDVDxDGCxNtXTnzIXYDisek8eGwhSjTm2jc0TFfzr+tujS/ppPtqdC6E7XwN6MKAkQIvtIZqi2KlqqIxlMBzjp0boUOGmzWV2IoiTcaWjpSKD+Ylw4yhRCJxz0F5GxN8ZnyoF6a1sj23Iq6O3sw1rRG;VXTpmVE5fQATCqrRfmP3xg=="
 ---
 

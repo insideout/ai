@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers"
 
-secured: "T+rhOiL4lnhJq+Hgze8SKWAs3B2adw+THR3STXGtGg42PRoxPtssGHN24j0gkGdPSJ9z0+PpL4KKaUrFS/iE8Ku8oBLJtCaTrKLS91bWjzjHxRs4UKy3Nx1zHUd0MZWSOO8JZ++hvWEyZa0mNq3CXWYKHm0AApbPvbZMS8XHneSFna5YA//lIh3xLPnr5J9lTZ/4XP1O7nwYuEi66no5DKqYhCz0VheqHFo//nqBmFuyvRMoW19KyBl/8w15PH06yr+edGcoDTQ9mf7a2hIcLmtBtGtfDKWoNkFc8gergEJEOeyDCMxTZboAskEyA0uD;uD2f8AdGrnfx8RgnLseOgQ=="
+secured: "SJsND8f7PYUORQ0sRJoenLUqwf610vgFKN5Yr1p6tz0GbxBK/MfiNvFRZ40+mvcukRu6ldNKX8LlrdqY20VW0UNC6qBjnf+CukCVFl9AEBR4S93bHBxrENNkiXhK4oPIamDIf5DSY4xfaW6Sn6mBqazPUZ61B+Ixxy4U5n/+KixYqmKZz9eTp1ivTmrkKYRydK6NYLT1FJDJnufiMBjPt5Cm9srL0o2vQb384hakoSw/IacQ0/PE6sv7BpNb+YoBpJmsmiMHb7z9gFkO4u0xznsoXxjdiesjThItGjQDGMMtVv3UULfAdYIW4jUoyG4y;C47k6nQp/ef2+dFVrl/BYg=="
 ---
 
