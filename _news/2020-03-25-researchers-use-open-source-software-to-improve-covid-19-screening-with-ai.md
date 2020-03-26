@@ -21,8 +21,8 @@ topics:
 related:
   - title: "Argonne uses artificial intelligence to improve the safety and design of advanced nuclear reactors"
     excerpt: "Now they're integrating their decades of knowledge with the latest artificial intelligence (AI) methods and tools. Doing so can help researchers better understand the mechanics that govern nuclear reactors, which reactor designers and analysts can use to improve their design, operation and safety. \"We've been working on system level codes since ..."
-    publishedDateTime: 2020-03-25T21:09:00Z
-    webUrl: "https://www.eurekalert.org/features/doe/2020-03/dnl-aua032520.php"
+    publishedDateTime: 2020-03-25T21:50:00Z
+    webUrl: "https://eurekalert.org/features/doe/2020-03/dnl-aua032520.php"
     type: article
     provider:
       name: EurekAlert!

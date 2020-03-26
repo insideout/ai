@@ -1,23 +1,21 @@
 ---
 category: news
 title: "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic"
-excerpt: "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ..."
-publishedDateTime: 2020-03-04T00:00:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/03/200304141641.htm"
+excerpt: "In a major advance in mind-controlled prosthetics for amputees ... finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings ..."
+publishedDateTime: 2020-03-04T19:00:00Z
+webUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-ultra-precise-mind-controlled-prosthetic.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "qw9mqRb+z+bNtjf2h0OtbFO/1x1RbzGbp0A9wPBSWPn+2XcydBzUZvSc67tHGEuJEf4gDPZxQWlYfoJXhgSYfyvMJpKUP3dM/TH+rZGIIrLRjVeQF7njVVWOiFSOyFKf8yNoroE30AIBx65M4e4zK/ehmA9w5uRAwDSAQfeoaEvGapvzcZf49kpRmeAMhsM4i/3/M8kee/ZZ8Ynirs879+bS/Qe6It0zOPDh4uk2zsTsJ7YDW3RPzokXauDtRtYikIVEbGj10T1n3Jjv+ZdFsC8w9pHURQLdhNItOkXw0i8LOULN75gDXgZdD/aueQFd;ndyD23klLNSxJ2lk6oyI8g=="
+secured: "pISMP01Y4VGzghiNe4ibzArjzc8/oKYT9nrBDcKLtcEKBcHmkeipIGnMYnzURj3horiPD2aXwREDOzdhXeHW5w4JazZ6rkSN2yNW58/ITFbR1J8rA3/T8oxdA8766ivSWSotaogVCUABiqAp+AIL9JKtxtijWTgAWoRDlQlfgB7ZzBzPkmdc52Ruhh8JbHU/h0Ob/0OlMOYqpJfg097z40nRdT7TN//pTNQAGhFA0jT0sY8fBtWCpCk3sAVIkiXF3BpGLRxY/k8FHRX5LG96AZLjfCw1+gOZCsGs5j7VyKPSH4finAXNw0yaiokI4I9b;OP+zWZLlUgNRYsAvyOS7zg=="
 ---
 

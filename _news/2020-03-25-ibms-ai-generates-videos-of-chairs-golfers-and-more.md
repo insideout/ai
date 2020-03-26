@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chair
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "IBM’s AI generates videos of chairs, golfers, and more"
 
-secured: "8FQZP/HaHQ4G7+c9EAYYkd9uHb0OH3FFcpJvk0jWtvqgZRG8lb84BdxaGaJt4UawBd8ixUtl+bd+9zNKc+VSfVMbji+1Gbwxxv72EMRD9B9XlC0teZT6WEdoJqUX2476iGT/YE0ADe3+V1yVB8sU4iYwQu/gSQsKQk+D+ALRlnTKOEIERJ31kxgqrEH1Tl+G1lqy0taa5RHVHXquuA17br0YWQ1BW2c3kuDhmxVFhegNLlJYan0DRZEI+AspvB9kWj9kv1kw8bZBYm38kq75pJ2KOROUiuLc7nLaXq/aUZdrKHZHLpQeOY7gtnYkEFQbECj8VUCfVDUbZzZOaQdvvdz5B13qSR73WIQYW5aH7f5KpYZXnYxbax8Z5lNyRg26CNBJzuRel3vbXsYLuSLs355j7eHpKfHPgcSDBPWdbSjXu8SSZuuo106wghr1/m3ZKB3t77EmcAqoTKPn5Y/CsTDnSbY8dbIPXUgG7zbYft4=;1BkrfSGe10eH29kB7jnh4A=="
+secured: "ts+MaDO+KHb7JJFYCfVi/03sn0epGyDuvk0N8XAhGZrnfa03n6cjffspbbpgRd4fDfpA4kKrBPy5Cd3MGWTppILPFzwHk/DZZPBZfUd5M2pMM6rtRzXVtRC5l4uoQfIQjXC0XbYv86BSx0FGRLsbjCNvKEta/vTp2fLLjjnpmuCJdR/Qrzq/aaPDwk+e8dApaWBUmeg+CQVJIr1a0bfqoaW0JCTxFgJAY/i1VM8h7p1KBz/N8Ui3/nZ6Bpq1O4BQWUz/p87fPvExZgsW18pIJFzMwjo9tTI3PcyjPndrHiutcDf6A6rnkGmGS+AlwVpT31BtAr7o16/yxjFk7ozqkXpkLfO53OeSqIt6rQE455i9XsdyRnaeJmsf7/OZcRLQW4sOrwuwiCp6nB1rNJYFg+Y/BL687EFIhFbuQJWMu7Uzg+F0rq5FRmHcnSxKP0S1YYFX97lPxe+Qd6eVLo2b5DVYjINsFbdDmE31N0DDXog=;pq2978kDyLEg0zi8ajw0yA=="
 ---
 

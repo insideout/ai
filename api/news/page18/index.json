@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-12-deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects.md",
+      "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
+      "excerpt": "Deep Learning Market Highlights: The prominence of cloud-based services is predicted to play a key role in the expansion of the deep learning market 2020. The information & communication technology industry reports are created by Market Research Future,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-create-review-and-deploy-automated-machine-learning-models-with-azure-machine-learning.md",
       "title": "Create, review, and deploy automated machine learning models with Azure Machine Learning",
       "excerpt": "In this article, you learn how to create, explore, and deploy automated machine learning models without a single line of code in Azure Machine Learning's studio interface. Automated machine learning is a process in which the best machine learning algorithm to use for your specific data is selected for you. This process enables you to generate ...",
@@ -933,43 +978,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-researchers-unveil-ultra-precise-mind-controlled-prosthetic-its-like-you-have-a-hand-again.md",
-      "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
-      "excerpt": "In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, the researchers developed a way to tame temperamental nerve endings, separate thick nerve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.goodnewsnetwork.org/u-of-m-researchers-unveil-ultra-precise-mind-controlled-prosthetic/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoodNewsNetwork",
-        "domain": "goodnewsnetwork.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.goodnewsnetwork.org/wp-content/uploads/2020/03/Prosthetic-Arm-User-Evan-Dougherty-Michigan-Engineering.jpg",
-          "width": 1400,
-          "height": 874,
-          "title": "Researchers Unveil Ultra-Precise, Mind-Controlled Prosthetic: ‘It’s like you have a hand again’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

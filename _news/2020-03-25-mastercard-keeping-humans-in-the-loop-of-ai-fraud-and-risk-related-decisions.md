@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mastercard-keeping-the-huma
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Mastercard keeping humans in the loop of AI fraud and risk-related decisions"
 
-secured: "Oe72FTacrxXqph2PHn/J6DQXGxqhkH15fdFSzghDm1wXO7n39yOSQJvoYJ3ZvH7GxmfGduOrSih15MdTMU0BZHkrMgIKCb4f/DvNG3Hah7CElK3rgc9EjvT6hSjI+GoN0b0uZz9vFaLNJuYmYmDWpGaxTHI3rmJXeM3r5AU1KJaBSnIktGsf+B48QtM0nYetUHLv5JVwTfPCYTFm5rR9/Y3yrMRK0Z61PlRY1sxnNm000OoL8mhyRpOAgbnVWbf919hYS045M84fq6ri51ARalLg3KhdPTO8tVomYRozV13XgCvAL2Z/1oizKYUkAf1P;1ZjL6CAFQRnDKVXrjDDjCQ=="
+secured: "U1wCuwTAE3mvZxHAUf/bqCAE6WJ5l3fVq5L8wrbg/ZnmlwFz1BH+kUe6fjz2UjCOIN+OWL409h29X/l0GLd3D4GTDirqwyWBFL5uh2hgwM8pX8rq9+LYHLVjiU5mjUcUEP8J85EuvFozEJw908iCN6aEL9gTnPsbKdEiHW5eGuf3mo5VaMPPS8D3mwO1JJrcMeu74KYV84bPLsf7LB/nMb3oxxjjMsRV7teAkRfWLbXYd5ISpp5vT9phjUg/smZa/QY70puFWISKA5v45DjJq0myEtrD+HZgdZn9t9uM6yAhXGWWT4AiVjZp1oswc1ALdZfk41mYKxtoUz5Lo6DLrF9I/Y2/O7V9eRZ/BL9BdPRc+K1TnVjg4jbO4w4sqzfzmy+teGJK012AKyu/hGNdMdex9npdnklDd1RhsyQKkGQhm7RjIBN4unl4AohEEtHiGGRbJFYb7IbZ87j56Ru633/gPBzE+4y1zNqERZIpx2Y=;pHiJGw1wxhnptCw1N5atRA=="
 ---
 

@@ -2,8 +2,8 @@
 category: news
 title: "Argonne uses artificial intelligence to improve the safety and design of advanced nuclear reactors"
 excerpt: "Now they're integrating their decades of knowledge with the latest artificial intelligence (AI) methods and tools. Doing so can help researchers better understand the mechanics that govern nuclear reactors, which reactor designers and analysts can use to improve their design, operation and safety. \"We've been working on system level codes since ..."
-publishedDateTime: 2020-03-25T21:09:00Z
-webUrl: "https://www.eurekalert.org/features/doe/2020-03/dnl-aua032520.php"
+publishedDateTime: 2020-03-25T21:50:00Z
+webUrl: "https://eurekalert.org/features/doe/2020-03/dnl-aua032520.php"
 type: article
 quality: 23
 heat: -1
@@ -35,6 +35,6 @@ related:
       domain: medicalxpress.com
     quality: 35
 
-secured: "yvZGlurxoiIXr42ZLeKEP3WMZ6+UvA/Elo3d+fxvGsYCSGSGwq06DzZIsOcSEDBDvY4Rd/3unINdRpF4UH6Glz6fFokpxEw64XjmV/0vM7tITiyBP8EmR0tT7Xt5RdfrF6/LP236wcdVFnCeofo6xixboEFukbMjwOusYQczKdBqEOcelnAYvb0qdoX8xYJG4EN4AypAhaDdiVwoJf/EID/u5ORYTxRCMUD7pPfLhT5S5s4TEKto5zYLBghXTRFtL6GUk2OWhowuYakIu7bk/c4dm35hJaZFUuPJBM5l9Dm5XC2S6MGBc8Md5UN44eTl;ZLgz3wlhA1cTnPjs2HJ2mw=="
+secured: "FDXMb2el/xkFGdKkkNRR+RX3n4IUj2lYkZANChMpZANq4S4INMCMmgv3ppZXIARRxUKlTmxw+upcgi3azTZ/rpZUM7aeGuXzH+ywap8vLvGBG0lS0yDgXgZz4ohgeK28WwKeFjvkhwn6ogXvc/qiK2e4St8pfRXI4rjDcgnSCTdTKIqOV6i05PqZAh/FNNufsi0KPEJFoMwFy9TcS60qs8mGTGIYXb+uOl05NtXfvR0Kt0cFJFzjPLzXp2ZBRHBRzmriOC7XI7UHkBDbWt3RFWVENekgIRTM0aRFFrY3FobYPbPSIXCtLCoYgzau+Cqp;j9qvul3KUbUuIp42NkXifQ=="
 ---
 
