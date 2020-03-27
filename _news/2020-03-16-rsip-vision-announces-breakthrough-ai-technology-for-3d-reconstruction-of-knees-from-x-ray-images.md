@@ -20,6 +20,6 @@ images:
     height: 315
     title: "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images"
 
-secured: "xTj5VfD6CQXfWWN+XDmii1b9jy/eFxoaq/rg3tCVrXXjAM71nBVolVtkxCNPFUj/hAiL0Wun7IfbX3sf4mYdRJAQcul+/pvUmVu4paiDvIvmGlMoYP4e1QFwRFlLosHjXUYDB64CBjm8HqixRarrzvwzQeM9wC8NVLqTzF4BQuNIvyrWV5nDb3eOoMPYCYZS8lIPkLCD7RoWDFQ0U8KJk39AUALhuSUzaO9cLhSqdeHVLDL0njBF8n3F1HRuMdMV4JPDBEkH1dEnXWKvN2sVNBx/ZMQhILyVD2pNzPC4mu/zeBcM9b1G7i/9iyPwlu1+;GVAAlw3LBhW3fesPf5+/JQ=="
+secured: "ZERDfAjvJZPKGlq/2TpZ/G3EBXlRlO9LbTEbUR1e1YfSZE/F/0DU2eevzCuPmg6lShFBR6VcWSdIrawDsngM9/g5Z6F8pRo7EO46c3CIv13/qBYduBvZpgbcrhpcoDsmyvfPrXv3qew8YrXJfGkoE7DyZx++bSbaw7RYygzzFuzgMLZj0e2w67kvV5HUoeocLxn1Vmoa/M0mpWgFrdZ0GXvb6nGrO4IUq4yJyn6mWXXjz9pYcfkAvZtRWHD8LdD/IQJFBhwBBm+vGNBFafQ5U32/tHPAqULRyr+Ow/nrbtLDa/oAaKS/iOQvkVO1ccAfMhTg+/6i/CUrmEriQniQsDpvyzB27RhH7x9HK+x+g6ciKBbGNZZ2rg9iGpQNI2O/To4+/P5R6Qvb89Jz5trXheuh3/vq2NuK+rns7K4YIrbV8WNXxXSrfFsLRBBKNz2uhpzKnudUcLcZqDdo1Ik6WbF6l84eDArBlUSJRJ7bXdU=;Rd9NSRnfq6HtbYyy5f4d3Q=="
 ---
 

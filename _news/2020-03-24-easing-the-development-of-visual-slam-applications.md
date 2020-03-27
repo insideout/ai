@@ -23,21 +23,6 @@ images:
     height: 604
     title: "Easing the development of visual SLAM applications"
 
-related:
-  - title: "Hyperalignment of motor cortical areas based on motor imagery during action observation"
-    excerpt: "Recent work by Haxby et al. (2011) introduced a method called Hyperalignment that explored neural activity in ventral temporal cortex during object recognition and demonstrated the ability to align individual patterns of brain activity into a common high dimensional space to facilitate Between Subject Classification (BSC). Here we examined BSC ..."
-    publishedDateTime: 2020-03-24T10:38:00Z
-    webUrl: "https://www.nature.com/articles/s41598-020-62071-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 16
-    images:
-      - url: "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62071-2/MediaObjects/41598_2020_62071_Fig1_HTML.png"
-        width: 685
-        height: 629
-
 secured: "fJi3f6sdrtX7R7qjC33FWNng1t7ZOeDZw3Tb3NK4tIaIodRrhfpDvkXbCscVxeSOY2fBt0rPr9JggHFMIf0+4045oxMSTAZbZFZBSEkx0wpvnWMBKPuSUR48aSNyr8IllNNvw+bIR8HlUQY0vVMjted5dR0VhqSTdso+Q/Yq/saVYZhZsfMEgPXL6dXfB7m/Osd0LyhFpNCavYT0EZgL20h6KbBvgDjMKMOP9TRL56IDw7rIh2lqWgNN6mzsegv+vde2R2KSi+ZmwAiI86EjDcYfkmQG/WIKDK0AvquAyJh9a3J5CAdzdIPOhd5qZ8xu3EvgifpHh2E/a4+Ho/j6Xu0Kxq6RDk9Pc4TFhEP4O3VgshHveoL5D/F7P43fOy2vmq4AMSoQGK0ADGZZjVkOlyYi3PLrk6MXMfdB60OtBi0ggZvm6lNspc8hg+XRkRL20lDRTuDrAO+1C2QF3VhwSsuM3wkHBZUHISuH//CaQpg=;Q+/2hQ1g+CIQ7t5BZJEqZw=="
 ---
 

@@ -23,17 +23,6 @@ images:
     height: 627
     title: "Global Speech & Voice Recognition Market Analysis, Drivers & Challenges to 2024 - ResearchAndMarkets.com"
 
-related:
-  - title: "Global Market Opportunities and Challenges on Convergence of AI and IoT - Featuring ENEL, FogHorn & GE Capacitors Among Others"
-    excerpt: "Dublin, March 24, 2020 (GLOBE NEWSWIRE) -- The \"Convergence of AI and IoT - Market Opportunities and Challenges, 2019\" report has been added to ..."
-    publishedDateTime: 2020-03-24T10:13:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005320/0/en/Global-Market-Opportunities-and-Challenges-on-Convergence-of-AI-and-IoT-Featuring-ENEL-FogHorn-GE-Capacitors-Among-Others.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-
 secured: "pV0f6GGU9CWwTp0d4ytWwVgQB/czht8XSORL6vYcPta57hTY+r0ZCzx8lkuJ9Ififr1kqRB2y6EQR+xQkPpFmk+yD0T0OwF8YFv3c/lhjCbUnk/ZPDpQ9Pq7G0+xxrw7q98La8zl3NwcAD0p2XjUmAG2fWu/DacnGqgjAS6Sqw09hYOUK+tXqk8HTb6HvObawRFwKrRFXcN757bqK63PmLv59vyAP1Lah6a6kJKsu3rcgLI5EBmSayvASSJ0CTupxJlst0+nEt9DNJ0JuENYv2J1wZ5NS6YkRJxnloodOHs1wkc30J4RZUjWOdI2Y4OClILMsbBaCEH39ijg738FmeYpS7sShuSCFFqW03FMH8sXVEQuA8vizSb1rJzBaH9tAQvOammriVT7neJzWWRg2Q/y0MJxDWqS+ugp9pxehMqkcGDB+GPy3bXb6Fbt+QvbhkOMkvfwALD+EML6FOhFd/waFf8HTwZUSg2LN0UXW+k=;DSYuRVx/r1cxjmP7yBLRvA=="
 ---
 

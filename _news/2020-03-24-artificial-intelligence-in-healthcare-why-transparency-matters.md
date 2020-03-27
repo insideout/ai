@@ -8,7 +8,7 @@ ampWebUrl: "https://healthtechmagazine.net/article/2020/03/artificial-intelligen
 cdnAmpWebUrl: "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 1440
     height: 500
     title: "Artificial Intelligence in Healthcare: Why Transparency Matters"
-
-related:
-  - title: "North America NLP in Healthcare & Lifesciences Market to 2027 - Drivers, Restraints & Opportunities - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"North America NLP in Healthcare and Lifesciences Market Outlook & Projections ... This is usually done through the combination of language, computer science and artificial intelligence. The growth can be attributed to rising advancements in technology in these industries and growing usage of patient health record ..."
-    publishedDateTime: 2020-03-24T09:50:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200324005301/en/North-America-NLP-Healthcare-Lifesciences-Market-2027"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20200324005301/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
 
 secured: "Cg9U6W/ojY4uOhRCt7fBwKELukyDo7d91tC8DAWL+AOcPQDHfGpjySHNFPSCoxmFQzPnL8D6ic/Oi9wtuxwlzKsM1AfmUQOj+Cie+AZuhGOLAVhb9smcIPqj4a5hqM2CoVIvuhX2sDf+c6qmaHl/+1ubjcZ6/+qPz4OmGKwmUXNVQmXBz6mtxuBGJwBL1ZM+cT9SXzSUR37/xVMvVN05QEttXcIdMjMNo6hOPbUEWpnCOuA+bzuQvpMaam3RXnc+KlqrI57Ta/gu6zg5RdfiPfAWVEd4fyIebnB8PdkMz62QKClBXObIZkBUV3fMbNTrcwYkNyof+yWKTLYRC5wRNhjZx9ejFGa6c3aiHcCPpwTCZRtAQigmluS7KKajTQ75kSdoWDDk0+2AWfRdjjO+vEzje0fPlch5hHM7SG3KrJ8EqPIl34XeQ6y7qVufcAQjE4KqHFAQW4lMJVCTTlyHCRE8dO3dIW4pmrk/eUUuauk=;dTkyh2VI9fNhlDbEa9UJ0w=="
 ---

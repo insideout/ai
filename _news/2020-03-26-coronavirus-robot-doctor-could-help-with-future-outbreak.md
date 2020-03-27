@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/uk-scotland-52042891"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-52042891"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,19 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-hcs7puu0upskrh1earlsmqnmm2-20200326121104.Medi.jpeg"
         width: 800
         height: 448
+  - title: "Coronavirus: Robot doctor could help with future outbreak"
+    excerpt: "Artificial intelligence and robotics experts in Edinburgh are working to create what they hope will be the first healthcare robots to hold a conversation with more than one person at a time. It is a project designed to help older people, but it could one day be used to help handle virus outbreaks like the coronavirus pandemic. \"It's not ..."
+    publishedDateTime: 2020-03-27T03:55:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/209241/Coronavirus:-Robot-doctor-could-help-with-future-outbreak"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://ichef.bbci.co.uk/news/624/cpsprodpb/17D06/production/_111424579_oliverlemon_03.jpg"
+        width: 624
+        height: 351
   - title: "Coronavirus India Update: Robots, Artificial Intelligence will be taking care of patients in Isolation Wards"
     excerpt: "The virus has infected countries and brought the world to kneel. Amidst the lockdown and disrupted economy look at some clever way in which Artificial Intelligence i.e Robots are becoming a part of the fight to slow down Coronavirus and help healthcare workers. In its originating country, Coronavirus has claimed over 3000 people. The fight ..."
     publishedDateTime: 2020-03-26T06:53:00Z
