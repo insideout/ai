@@ -1,27 +1,25 @@
 ---
 category: news
-title: "Artificial intelligence system aimed at preventing drownings"
+title: "Artificial Intelligence System Aimed at Preventing Drownings"
 excerpt: "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them."
-publishedDateTime: 2020-03-21T07:01:00Z
-webUrl: "https://www.charlotteobserver.com/news/article241279376.html"
-ampWebUrl: "https://amp.charlotteobserver.com/news/article241279376.html"
-cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/article241279376.html"
+publishedDateTime: 2020-03-21T07:20:00Z
+webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings"
+ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
 type: article
 
 provider:
-  name: Charlotte Observer
-  domain: charlotteobserver.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557045001/f4140e87-7fb1-4722-b023-afd55a0f89ce/4b122922-4af0-491a-a71b-938294265442/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
-    title: "Artificial intelligence system aimed at preventing drownings"
-
-secured: "sRgTaYr9Wdx3LKNcZjfit2fyQRGMxZuOtcO6Wn0UhZSolMdSJc1WJFwR9Lp9anmqt+wGR7XgFVEQi1nc/qIQHCJrrkMpaS4vod9o9+U0MLhRbPm62Z7XBCIznZujsNyYBpkIMUW8US3wEukBWRNCRiBGdh81VGrnZclSWPJ/fxQVjgn80uGdz9TjgRKNsL5I6C0SQh+VjHAiWBGg03a7JjiPvnkrP9wqnh78a238YtNyIf6GTUGV98qf3glSBBuWevBa12KD4i18PM6PXtj7NcbLa3FOvi+NIahioFegnU7eSK2RhyGptEXy0WdnFsx1;Uk2AuXSMNHoC9ZlGUv5/qA=="
+secured: "shT8Nd8H8hCwhZQAIjnQi7FI1sy5LempW9/3q7k2vkqxAJjJ30ff+/gdZIynTwN3x5Y6zEWZkAqbomfcx44/qnCAkYF0uSVxVsN0CoH6lOZHNqRhdZ0K7OSTffQx17KXQDIFSWWleUHoaZVmXkTOpUB/KOe1NuWBx+vnL+NJHXpC2/HsY6zSxTJZebpQoJ3FexNpy2VYRwGM9S17eS8AtzurhRGGGplSeHkkFM3cTgYS9Tw5/l8Lw7dog2GoQwqF2NmD5OQd5IME9jpRs+jxhBv5q5azd92sQH1ZIQh8kRFvlg6TL1Kv9DxK7ZPBJT2mKcBpc4ZMBOtrR6f/dkzI5oMzlF5wdTssGZP/9fz9jD7hW0MXg75IfLMbjR6QuCdGr++3nyYMP1PPbpJphsLDInjrtvFtrgnDHVsy2aHVKfR2nnmdCmfm8EERJMnqvZVY4dpKd0P8QBmg9B6XKg2Fwkhh4KXZifIDqQw99IJ7OCs=;5ZYV0MfoXS/hdy2hpjSMQQ=="
 ---
 

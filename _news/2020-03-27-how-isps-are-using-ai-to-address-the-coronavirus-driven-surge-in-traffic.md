@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the
 ampWebUrl: "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/"
 type: article
-quality: 86
-heat: 96
+quality: 88
+heat: 98
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-473061628-e1585083199228.jpg?fit=1244%2C600&strip=all"
@@ -43,6 +44,6 @@ related:
         width: 270
         height: 670
 
-secured: "jjZxYSDmJ0iudwb40o8EviX4xiRZ6mWDgP4J3corD6I8l2y5UrNayFonuDvhuF6KTypuPLpxVNxFosLFSAqVfTO0gVAH0CaN/8tGFO4t97D94CTN/ttONvYE2ctaowm6hRxXS1nizfhqFe8HZrSV26Q/39AHIK8d1jNZFvFMoCFbyF8zSvTOjL6EkVu9E+giIUKejzQ8zFEQtM5TQ92SV8LOgqeeacF1pl70+/x7mTbFwibMAuJWzQgM1LecEp2m966RPqDNQuxb5pOazERWx9Ol5tyEUNs/WJfZj2fNbic7pOfeEIBwoG8PCEEpyB0E;VzFDwf7HrWKD8+lMdsVtoQ=="
+secured: "5M87Bgv4FK/AeVZiOPS22TGBApnFzvcVagO6FLYBo9KbD3WJ9SdMsl1U9qJ8W9hRXe9hN4fEeVsRljFXvN3yKWyJR9iaf2hQkp/38HPRu9wDs0ZaleLUygHKwV3oTTLg9AkjiXyqEMzh2ri0AtZNjF/oZxDz5wsWuSBWcOm/nCupk/YIH9lhz6OtDH2nWOkZfxShdGFNNVboyocuZ8G1/qHCCtgVcYRLPt0yZZqrI3jtJWY2R6lMyHIGZckisp/blWcfZve/PtuhLf6mdoxtjvN+0SbMWMpnZkJ70KjJSmin2U9ZxvAN+TI+ZOzGJQLdMYc9d7VOZR+6fAOHShQzM2ZFMgy2vdpTDkophqeZTaGz1zGtxyNjVQB4xRPc7UvNvrzTTXouBKOckyAoaHJRLP00ltopg6+5EiJeIfAnx7q/+RPCm+HsBiYq8YuKYDhiEmrACZ8WT002iN4I6ZboaDowqILOFqgqN21PdPb4Kbs=;cCEbmcy0+3fytANm5hjuUQ=="
 ---
 

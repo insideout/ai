@@ -36,6 +36,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200325005451/en/665363/23/WEKA-LogoPMS_BlackGreen_NoTagline.jpg"
         width: 1200
         height: 627
+  - title: "WekaIO Receives Artificial Intelligence Excellence Award"
+    excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program ... able to deliver paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh Manjrekar, head ..."
+    publishedDateTime: 2020-03-27T16:14:00Z
+    webUrl: "https://insidehpc.com/2020/03/wekaio-receives-artificial-intelligence-excellence-award/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/03/AI-ExcellenceAward-2020.jpg"
+        width: 485
+        height: 479
   - title: "Kneron Named Winner in 2020 Artificial Intelligence Excellence Awards"
     excerpt: "low thermal profiles and yet complex neural network computational requirements “Kneron is honored to have been recognized by Business Intelligence Group for excellence in artificial intelligence,\" stated Albert Liu, Kneron’s Cofounder and CEO. “This award serves as inspiration for us to continue democratizing AI through building the Edge ..."
     publishedDateTime: 2020-03-25T20:12:00Z
@@ -75,6 +88,15 @@ related:
       - url: "https://mma.prnewswire.com/media/1138061/Aarki_Award.jpg?p=facebook"
         width: 1800
         height: 942
+  - title: "Artificial Intelligence Excellence Awards"
+    excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program. “the WekaFS file system can deliver 80 GB/sec of bandwidth to a single GPU server, scale to Exabytes in a single ..."
+    publishedDateTime: 2020-03-27T16:22:00Z
+    webUrl: "https://insidehpc.com/tag/artificial-intelligence-excellence-awards/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "YfBWaTznYSilRJvAImaEQCTfUU1pA2nMAbsl4ZsN/wUZiAV6E3umcHdHHdJKu50pvNTY9L8gIJogF2muqMMk1HqDzAUn1MJxV/yxYaVhBwF/YACyOHxdLVxo/Yav6hWyVCPRiBwOBeW1wRm+0Izgr0XTD2TL4wdlHW+phrv9wEP0mtWBvfimzSIC+2d/vWFBQtO6nkg4RmK9EkLWSF3AVVbVRNLsGYNCYrxqMikHDDyjDh9ZmecGg5kXIXCmiL9g/JEFfen55EpLT99d2XVcCMhBbvPOhBxBibzdyXO1TEMEvWnKxsBVMbedFFDb8Mcd;8tJPfi+kDcltG5gOtAjW1A=="
 ---

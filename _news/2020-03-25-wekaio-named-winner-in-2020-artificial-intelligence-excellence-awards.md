@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-25T14:44:00Z
 webUrl: "https://www.businesswire.com/news/home/20200325005451/en/WekaIO-Named-Winner-2020-Artificial-Intelligence-Excellence"
 type: article
 quality: 54
-heat: 94
+heat: 114
 published: true
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards"
 
 related:
+  - title: "WekaIO Receives Artificial Intelligence Excellence Award"
+    excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program ... able to deliver paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh Manjrekar, head ..."
+    publishedDateTime: 2020-03-27T16:14:00Z
+    webUrl: "https://insidehpc.com/2020/03/wekaio-receives-artificial-intelligence-excellence-award/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 54
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/03/AI-ExcellenceAward-2020.jpg"
+        width: 485
+        height: 479
   - title: "Kneron Named Winner in 2020 Artificial Intelligence Excellence Awards"
     excerpt: "low thermal profiles and yet complex neural network computational requirements “Kneron is honored to have been recognized by Business Intelligence Group for excellence in artificial intelligence,\" stated Albert Liu, Kneron’s Cofounder and CEO. “This award serves as inspiration for us to continue democratizing AI through building the Edge ..."
     publishedDateTime: 2020-03-25T20:12:00Z
@@ -76,6 +89,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200327005079/en/781909/23/veritone_logo.jpg"
         width: 1200
         height: 627
+  - title: "Artificial Intelligence Excellence Awards"
+    excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program. “the WekaFS file system can deliver 80 GB/sec of bandwidth to a single GPU server, scale to Exabytes in a single ..."
+    publishedDateTime: 2020-03-27T16:22:00Z
+    webUrl: "https://insidehpc.com/tag/artificial-intelligence-excellence-awards/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 17
 
 secured: "M6pQawvmPOGbfqyt2nJblmMYKhgKGEcgIbsW0sOi436juFtIVG+i5Oxz6+UOw9eBXdeLzJCgTnJBf5zSn6WDcvMZHV/MKuWp6y+uIc7sCSoIMdmnm2Sti3znIDO7EOxnxAXNjD4z+LGi6CWlkPjVD5rLN1ZdwEnDNZq50w76ODNepoVk8AJep+0RmPkDLuLBQTE4lEQakxjoxYPdwyI4wCkLO0Rs+fBKN5oCaGkFY1XvHrG+3/EqGYg23d5f7/2A+wY1yX/jwcggdt3cXxjQ5Wkbe56LMONm4C8kUgdOfLKV3yYntEakexcxV0QmDXfuka9MHM5TbAsKIWciizbHLBIZ8un9R3vskPWNS4DZRQaA5MbdmTh+JMG6kDHcIwL2q7heTG5LgeiN8DvuYoNY/s8zSeP6bs7FhS2vi5E1RCg+QyuLB2xRA4iUkRE2gEaZFCUTMgDHGEziVhLDbYvAv/9sMfpIfdXuFcTMDrXrAzU=;62160ggxp3ZA/tZARflRIQ=="
 ---
