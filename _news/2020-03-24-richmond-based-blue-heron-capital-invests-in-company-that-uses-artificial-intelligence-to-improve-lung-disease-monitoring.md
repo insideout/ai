@@ -25,17 +25,6 @@ images:
     height: 505
     title: "Richmond-based Blue Heron Capital invests in company that uses artificial intelligence to improve lung disease monitoring"
 
-related:
-  - title: "CIT GAP Funds Invests in MetiStream to Improve Patient Outcomes by Addressing Healthcare Industry’s Unstructured Data Problems"
-    excerpt: "Company’s Ember Platform provides faster and deeper patient insights, leading to decreased health risks and lower costs"
-    publishedDateTime: 2020-03-24T14:32:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005678/0/en/CIT-GAP-Funds-Invests-in-MetiStream-to-Improve-Patient-Outcomes-by-Addressing-Healthcare-Industry-s-Unstructured-Data-Problems.html"
-    type: article
-    provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 0
-
 secured: "tlj3mbhwp3g/t09EThudQyhcqhnjG80U6b/BhCHZ7GAmRXcUM43BQoEaadTJBW+l/0SpHRnz4eKSu3V2vxKwBRawVBWFTdmCbp+rfNN+vNSx2CBJuh+23wU/pM8en1fcdMrCfAC1sZILxBeRjcHRTPaF1LA+Y2FiVaTuaXg8v4b6K70xzOZJCR1b+bT518onPXyrJ/a0rwFQR8oIfOF8loPmptK2Dr99c/s4hVFaB6m7p4zzbc1htGt/lg+ncY3hd/y8MojWKn0Hv1Y/CtRIk7nkQHzKfcLykZP1ZX7TATO2+pMbNOyfP46BMqPxG7f5LTLCghcdbRDP3W0YFOcwPMPWF9DdMjajQCarzPXZ1D5OkcfxQZSf+zckkzNhOwQIlXWgs8bIs5250xjBNzU+lDrDmZrJENNxP7Km6LXsHhSXjgimRyXyJgr0+dsBmfss4j79mjRCM7GrFxRGKqwYUb1e6UfnmdgZ+jHv0Djx5Ds=;kS7D8siwJB84ZKed6xgFlA=="
 ---
 

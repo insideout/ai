@@ -3,7 +3,7 @@ category: news
 title: "COVID researchers can apply for free cloud services"
 excerpt: "The AWS Diagnostic Development Initiative will be open to accredited research institutions ... The scalable public cloud service allows organizations to build artificial intelligence-powered bots for websites or applications. It draws on official COVID-19 information and offers users a natural conversation-like experience."
 publishedDateTime: 2020-03-25T01:11:00Z
-webUrl: "https://gcn.com/articles/2020/03/24/cloud-vendors-covid-research.aspx?admgarea=TC_Cloud"
+webUrl: "https://gcn.com/articles/2020/03/24/cloud-vendors-covid-research.aspx"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 368
     title: "COVID researchers can apply for free cloud services"
 
-secured: "XlD90kSgjnrk1LCvGGR5DYd2zjBt5XMLUK1oOHw30bzYU9U+dL9eYDKbHvdlRpTPlUL4Dy5PMUFZ2DnLy1nCBsmmJUkHvGTjZdBegvTEa5YljlIbyGgbc+8n35BnouQHdrLZ1+48Lf08qkmsJfBzgNRVA8EDDcHyavE85zeJa7T+71FQ6ExR9nh3I30KUBX3Hizm/CAQ4UhWa1dUytYMVdUrMs4dAX/AJt3L6XiODfcn7VrPzIQvjr+kQehggyXKY9YpErXMxmvHlSdsGq7Mky+ZNE4cdaFCrusJ1M/02UZ3oRd2XzK/OUxCS76KQOKimrpiXuFYG6xBs8l80wXGspDpawQHzZgUx19eO84c2CLRDuqd6QuWrAw07odupisIJxgfNPylVFBFL/Kw90mQo5n1XMalrth0BQsqZfzGS4MNv37gROI4F47XAWjSnUPDaINHa09b6Y3902lLc9CdobASGNX68EhCGX0f5bzdT4E=;GlleToenddPTt2UQhQwmlg=="
+secured: "8WuHl86+oaMNH4nEqu2mNJFKsQCDXnIpNue4hRuH4yiTBHw/cgIST/AnHRh8VDH42V3q+IJGgEGZz4TGNwKcOS45N490wkeM0KNGRZTPFaiiKc3Li9LDu/3bZi8hQf08tbhmHG6Fs+rWPlQGWZTZnQpSua0BJtZLbsu0xUWtGQrVmIleqcddNv/V0xlKRZwDcL0K3hwrLoDZ/GnekSxyGw+Za7ABNQY96/6Hl+1GpqYF8jkbN9fBVL37JzNjP7t0CurUJYdx23ixEtiOIxrVtKvc41F8msZ4DkjshzZD2L9CSzIYqRZj6KfmGcf30N0O;wr7njCOm9r2mExCRXUzFnQ=="
 ---
 

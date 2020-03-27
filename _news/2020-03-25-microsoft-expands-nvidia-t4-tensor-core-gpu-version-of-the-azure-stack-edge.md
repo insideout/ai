@@ -8,7 +8,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-g
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/"
 type: article
 quality: 119
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -31,19 +31,6 @@ images:
     title: "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge"
 
 related:
-  - title: "Microsoft is expanding the Azure Stack Edge with NVIDIA GPU preview"
-    excerpt: "We’re expanding the Microsoft Azure Stack Edge with NVIDIA T4 Tensor Core GPU preview during the GPU Technology Conference (GTC Digital). Azure Stack Edge is a cloud-managed appliance that brings Azure’s compute, storage, and machine learning capabilities to the edge for fast local analysis and insights."
-    publishedDateTime: 2020-03-24T14:00:25Z
-    webUrl: "https://azure.microsoft.com/blog/microsoft-is-expanding-the-azure-stack-edge-with-nvidia-t4-gpu-preview/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 104
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/1f6343e9-ac74-4c7b-8f27-8784133e6897.png"
-        width: 377
-        height: 212
   - title: "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU"
     excerpt: "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ..."
     publishedDateTime: 2020-03-25T11:22:00Z
