@@ -2,6 +2,146 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-18-machine-learning-pushes-quantum-computing-forward.md",
+      "title": "Machine learning pushes quantum computing forward",
+      "excerpt": "Researchers have created a machine learning framework to precisely locate atom-sized quantum bits in silicon. It’s a crucial step for building a large-scale silicon quantum computer, the researchers report. Here, Muhammad Usman and Lloyd Hollenberg of the University of Melbourne explain their research and what it means for the future of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.futurity.org/quantum-computers-machine-learning-2309802/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T12:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/quantum-computers-machine-learning_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Machine learning pushes quantum computing forward",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications.md",
+      "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
+      "excerpt": "The fanless embedded system employs an NVIDIA Jetson TX2 module which has a 64-bit ARM A57 processor; NVIDIA Pascal GPU with 256 CUDA cores; and 8 GB of 128-bit LPDDR4 memory ... with the NVIDIA Jetson platform and minimize what they need to do to develop AI-related applications.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.automationworld.com/products/product/21121944/axiomtek-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/2003np_axiomtek1.5e6bba9286ba2.png?auto=format&fit=max&w=1200",
+          "width": 574,
+          "height": 549,
+          "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud.md",
+      "title": "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud",
+      "excerpt": "Ubiquitous machine learning and turbo-charged data management tools empower technical and non-technical users to get more data leverage more quickly",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002920/0/en/Domo-Shines-a-Light-on-Dark-Data-with-New-Augmented-Capabilities-in-the-Business-Cloud.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-taking-inventory-of-ai-within-financial-institutions-and-fintech.md",
+      "title": "Taking Inventory of AI within Financial Institutions and Fintech",
+      "excerpt": "This article describes most of the AI activity occurring within financial institutions and fintech suppliers then compares and contrasts the two. It also identifies the challenges associated with deploying AI: “Financial services were one of the first sectors to understand the promise of the Big Data revolution, and the wave of new technology ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/",
+      "ampWebUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
+      "publishedDateTime": "2020-03-18T11:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PaymentsJournal",
+        "domain": "paymentsjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.paymentsjournal.com/wp-content/uploads/2020/03/futuristic-artificial-intelligence-face-technology-background_1017-18295.jpg",
+          "width": 470,
+          "height": 328,
+          "title": "Taking Inventory of AI within Financial Institutions and Fintech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system.md",
       "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
       "excerpt": "Point Roberts, WA and Vancouver, BC - March 18, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
@@ -1016,148 +1156,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-talks-up-deeper-language-smarts-for-watson.md",
-      "title": "IBM talks up deeper language smarts for Watson",
-      "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, general manager, IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson – to enable businesses to capture, analyse, and understand more from human language and start ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.html",
-      "ampWebUrl": "https://www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532454/ibm-talks-up-deeper-language-smarts-for-watson.amp.html",
-      "publishedDateTime": "2020-03-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/09/11_everyone-has-a-voice_point-of-view_speaking_communication_megaphone-100771142-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "IBM talks up deeper language smarts for Watson",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
-      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
-      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/press-releases/cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform--at-fca_22558/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
-      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
-      "publishedDateTime": "2020-03-18T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-canon-medicals-3t-mr-system-receives-fda-clearance-for-artificial-intelligence-based-image-reconstruction-technology.md",
-      "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-      "excerpt": "AiCE was trained using vast amounts of high-quality image data, and features a deep learning neural network that can reduce noise and boost signal to quickly deliver sharp, clear and distinct images, further opening doors for advancements in MR imaging. Capabilities include: “AiCE utilizes a next generation approach to MR image reconstruction ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005103/en/Canon-Medical’s-3T-System-Receives-FDA-Clearance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005103/en/706033/23/3724089_3724081_Canon_Medical_Systems_Corpration_USA_Red_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Canon Medical’s 3T MR System Receives FDA Clearance for Artificial Intelligence-Based Image Reconstruction Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

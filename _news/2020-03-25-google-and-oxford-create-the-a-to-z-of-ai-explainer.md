@@ -7,8 +7,8 @@ webUrl: "https://9to5google.com/2020/03/25/google-ai-explainer/"
 ampWebUrl: "https://9to5google.com/2020/03/25/google-ai-explainer/amp/"
 cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/03/25/google-ai-explainer/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/03/google-ai-explainer-2.png?w=600"

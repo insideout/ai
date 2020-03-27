@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 683
     title: "Will this crisis help set autonomous AI on the right course?"
 
-secured: "tHdWEcP0vxwbXHuabFXCRNPXv81sJy4Iz9RzQmEKGO2Pdq/uz7F5dnsw8WT8s6XFSytYouJHosmc8Onr3iJZbGiVVDhiRDG8+9kxEAoMPVdxkhuUHluNBukFaUReKsbB9HenpI/6ZOhYDpcQx8ecptMGeX2Cramd611cZqG/99i2zUGwGM68/JhXeOZ0lGDDzELon/Zpsou4JqSw51YZapE5bMQe72pA+53oCx07KqQMIABmeMqIuDssMXzxT3SOczrlak//v/DuZMHz3PziLOL7imhJMqjs2rOgJ5KgkAcuAhQlsuCHC0luggHAsNZE;3shq2NGHbN/2V7U8P+7zug=="
+secured: "bI2zdQnOao0nRv/+ica9ED/FIdbXMEhYCDNN3aE649vgCK0MfUoolqMvqCYH7Bkwp3eB5aEPBJpJ9SLJO4WTtexo3L7gY8zDZNzkiHbzFxVcB6Bmla4w0LTDjt5iQjdnyg/KH7V0zRrWmwLmMNZV8+0KKU0B5S3Icc7LjOR+pJ4Nvlk/pJjiMF9jg/DDJzzOBEmHhGO7iNHjTuNI5Pm/OlOACsTMsZZcJNHZrd7abKNnZ6+v79qsT0dVuVR1kbD6xn5ROfmQdX2yo03o9ugFGBK0tn14UsHDqHecxWUgRfxf6OAjabg0XhCd8PGSnefb5iO32ub6yFfXhezUI79eKHdtqExWWtQYA61Iye0PGHhAQIdXELmzkxe32XAg+Kb7pzn9nCTdfwfmriLQWx5MK6ZEVWY29IF0Xn7D0lCVbUsyen0ZyAPaQuaqsEv7O8cCHwmC6S+Zt1h4lg9zJb4eqOa2TOvhgt7Ex4rUoWeTlgQ=;fVmk4+eF64UHjz3wgW0sBg=="
 ---
 

@@ -2,6 +2,162 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-15-legal-aid-society-dubious-of-new-nypd-facial-recognition-provision.md",
+      "title": "Legal Aid Society dubious of new NYPD facial recognition provision",
+      "excerpt": "He was surrounded by representatives of the Jewish community and flanked by Commissioner Dermot Shea. (Photo by Todd Maisel) An update to the NYPD policy regarding facial recognition technology does not change precautions against using the feature as evidence to convict, according to Commissioner Dermot Shea. As the technology advances ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/",
+      "ampWebUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "cdnAmpWebUrl": "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "publishedDateTime": "2020-03-15T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AM New York",
+        "domain": "amny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-googles-parent-company-just-made-its-first-ever-investment-in-an-ai-chip-start-up.md",
+      "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+      "excerpt": "GV had never invested in a start-up making processors for artificial intelligence ... special features in its consumer products, while Waymo relies on AI for autonomous driving.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "publishedDateTime": "2020-03-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105066224-Handout_SambaNova_Systems.jpeg?v=1529477748",
+          "width": 2000,
+          "height": 1333,
+          "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
+      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
+      "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+      "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.salon.com/2020/03/15/aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology_partner/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.salon.com/2014/09/surveillance_camera.jpg",
+          "width": 620,
+          "height": 412,
+          "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan.md",
       "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
       "excerpt": "Furthermore, AMD-centric nodes will also be upgraded to speed up artificial intelligence (AI) and machine learning (ML) workloads, for extensive research, analysis, and computing technology that will be beneficial to NNSA endeavors. ‘The El Capitan supercomputer will benchmark on HP’s next-gen AMD EPYC CPU and Radeon Instinct GPU to enhance ...",
@@ -1012,162 +1168,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill.md",
-      "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-      "excerpt": "Scientists at the Massachusetts Institute of Technology and Harvard last month described in the scholarly journal Cell how they used a deep learning neural network to identify a molecular compound that's different from most antibiotics. They showed that when the compound is injected in mice, it fights bacteria that no existing drug can eliminate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "publishedDateTime": "2020-03-13T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/03/13/b98e832c-157c-4938-8c1e-6b692877d498/mit-chemprop-building-representations.png",
-          "width": 1766,
-          "height": 1207,
-          "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024.md",
-      "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-      "excerpt": "The recent investment in Valencell biometric sensors for wearables and Facebook’s acquisition of Sanzaru Games are among recent ... These challenges now are being overcome by leveraging advances in AI and connectivity.” The research notes the increasing prevalence of CCTV systems for video surveillance for behavior or anomaly analysis ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202003/biometrics-market-research-briefs-digital-id-revenues-to-leap-past-30b-by-2024",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T12:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/11111722/Digital-identity-v2.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Biometrics market research briefs: digital ID revenues to leap past $30B by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance.md",
-      "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
-      "excerpt": "We zoom in on how employers use controversial AI technology to monitor their employees. And we hear from IBM’s AI ethics chief how her company is trying to live up to the ethics it’s preaching. WORKPLACE SURVEILLANCE: Ever heard of “people analytics”?",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg",
-          "width": 1500,
-          "height": 1500,
-          "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-hades-startup-uses-ai-to-explore-fix-the-sewer-underworld.md",
-      "title": "Hades Startup Uses AI To Explore, Fix The Sewer Underworld",
-      "excerpt": "Hades is a company that uses artificial intelligence to identify cracks, defects and blocks in sewers. Hades also is a god in Greek mythology that looks after the underworld. “Like him, we see ourselves as the ones looking after the underground,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/03/13/hades-startup-uses-ai-to-explore-fix-the-sewer-underworld/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

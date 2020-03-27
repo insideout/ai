@@ -2,6 +2,138 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-24-researchers-use-ai-to-find-link-between-nature-and-happiness.md",
+      "title": "Researchers use AI to find link between nature and happiness",
+      "excerpt": "A cross-disciplinary group of researchers used AI as part of an analysis of photos posted online that recognizes an association between happiness, life satisfaction, and nature. Researchers from universities in Australia and Singapore say the analysis demonstrates the biophilia hypothesis that humans are naturally attracted to nature and people ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
+      "publishedDateTime": "2020-03-24T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/emma-simpson-mNGaaLeWEp0-unsplash.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Researchers use AI to find link between nature and happiness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic.md",
+      "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
+      "excerpt": "The decision to place the UK on a police-enforced lockdown couldn’t have come sooner, new AI analysis of traffic footage has revealed. Until last night, Brits had been merely been advised to avoid “non-essential” travel. Not many of them were listening, according to research by Vivacity Labs, a startup that makes camera-based traffic sensors.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
+      "publishedDateTime": "2020-03-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design36-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
+      "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+      "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs",
+      "ampWebUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "publishedDateTime": "2020-03-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CambodiaBombingGetty1970.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-personal-voice-assistants-struggle-with-black-voices-new-study-shows.md",
       "title": "Personal voice assistants struggle with black voices, new study shows",
       "excerpt": "Microsoft had the smallest disparity; Apple had the biggest.",
@@ -1192,132 +1324,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud.md",
-      "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
-      "excerpt": "Unity’s newest tool allows game developers to run cloud-based playtests at unprecedented speed and scale with machine learning. T0day, as part of the Google for Games Developer Summit, Unity Technologies announced Unity Game Simulation.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/",
-      "ampWebUrl": "https://www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jessedamiani/2020/03/23/unity-game-simulation-lets-studios-use-ai-bots-to-playtest-games-in-google-cloud/amp/",
-      "publishedDateTime": "2020-03-23T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78dcbcc7b02d000666f0b4%2F0x0.jpg",
-          "width": 1200,
-          "height": 605,
-          "title": "Unity Game Simulation Lets Studios Use AI Bots To Playtest Games In Google Cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
-      "title": "SoftBank Nears Deal to Invest in Didi's Self-Driving Unit: the Information",
-      "excerpt": "(Reuters) - SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-03-23/softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-investigating-performance-issues-with-amazon-codeguru-profiler.md",
-      "title": "Investigating performance issues with Amazon CodeGuru Profiler",
-      "excerpt": "Amazon CodeGuru (Preview) analyzes your application’s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/investigating-performance-issues-with-amazon-codeguru-profiler/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:58:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/investigating-performance-codeguru-9.gif",
-          "width": 800,
-          "height": 478,
-          "title": "Investigating performance issues with Amazon CodeGuru Profiler",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

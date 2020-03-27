@@ -5,7 +5,7 @@
       "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
       "title": "Will this crisis help set autonomous AI on the right course?",
       "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
@@ -79,6 +79,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
+      "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
+      "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology-2020-03-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -951,6 +996,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-ai-revolutionizing-the-museum-experience-at-the-smithsonian.md",
+      "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+      "excerpt": "(Disclosure: I’m a host of the AI Today podcast). SoftBank Robotics Pepper robot(Photo by Joan Cros/NurPhoto via Getty Images ... interactions that people seem to have with Pepper is when they first approach the bot, they typically start off standing further away because they aren't exactly sure how to interact. However, since Pepper is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1127839788%2F0x0.jpg",
+          "width": 1200,
+          "height": 1803,
+          "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
       "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
       "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
@@ -983,6 +1073,50 @@
           "width": 1200,
           "height": 675,
           "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-helmai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai.md",
+      "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
+      "excerpt": "Helm.ai will put the $13 million in seed funding toward advanced engineering and R&D and hiring more employees, as well as locking in and fulfilling deals with customers. Helm.ai is focused solely ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "publishedDateTime": "2020-03-25T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/helm-ai-interior.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
           "attribution": null
         }
       ],
@@ -1133,7 +1267,7 @@
       "path": "_news/2020-03-25-robots-could-be-trained-to-help-combat-the-coronavirus-pandemic.md",
       "title": "Robots could be trained to help combat the coronavirus pandemic",
       "excerpt": "The 'dull, dirty and dangerous jobs' could be automated, but we would need to add many new functionalities to machines first, US roboticists argued in a journal editorial.",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8152265/Robots-trained-help-combat-coronavirus-pandemic.html",
@@ -1163,140 +1297,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again.md",
-      "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
-      "excerpt": "Robotics, which exists at the intersection of fields as diverse as mechanical engineering, computer engineering, machine vision, artificial intelligence, and biomechanics has long been particularly challenging to fund outside of certain prescribed industrial use cases. With some notable exceptions, including Moxi, the socially intelligent ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
-      "publishedDateTime": "2020-03-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/25/73eb45b4-7df9-43d5-ac2f-ebab6fe9bd7c/moxi.jpg",
-          "width": 4000,
-          "height": 2666,
-          "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
-      "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
-      "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/covid-19-pandemic-robots/",
-      "ampWebUrl": "https://www.wired.com/story/covid-19-pandemic-robots/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/covid-19-pandemic-robots/amp",
-      "publishedDateTime": "2020-03-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e7a57d18283f9000a415185/master/pass/Science_covid19_1207640994.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people.md",
-      "title": "How do we get AI out of the early adopter phase? It's about people",
-      "excerpt": "For those companies that are still kicking the tires on AI, it's natural that cultural antibodies would fight against it. It's new and (as yet) unproven. As it gets implemented in production, however, people start to see the value and the antibodies dissipate, as can be seen in the vastly diminished cultural headwinds for those companies that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-do-we-get-ai-out-of-the-early-adopter-phase-its-about-people/",
-      "publishedDateTime": "2020-03-25T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How do we get AI out of the early adopter phase? It's about people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

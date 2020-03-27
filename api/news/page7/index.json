@@ -2,6 +2,169 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
+      "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+      "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-insights-how-ai-is-changing-jobs.md",
+      "title": "Insights: How AI is Changing Jobs",
+      "excerpt": "FORTUNE On-Demand",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fortune.com/videos/insights/insights%3A-how-ai-is-changing-jobs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video.fortune.com/static/images/on-demand-share.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Insights: How AI is Changing Jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19.md",
+      "title": "Can AI Help Us Build a More Resilient Economy in the Face of COVID-19?",
+      "excerpt": "This will start with the most mundane and repetitive tasks ... It’s conceivable this trend could progress further with the help of intelligent machines. In this distant future, AI and robots could automate many of the crucial operations that are necessary for a society to function without too much human supervision. AI can not only help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/",
+      "ampWebUrl": "https://www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/amp/",
+      "publishedDateTime": "2020-03-19T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-19-march-fearless-girl-statue.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "Can AI Help Us Build a More Resilient Economy in the Face of COVID-19?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-ai-based-recruitment-startup-talview-hires-new-vp-of-sales-to-increase-adoption-of-the-instahiring-category.md",
+      "title": "AI-Based Recruitment Startup Talview Hires New VP of Sales to Increase Adoption of the \"Instahiring\" Category",
+      "excerpt": "/PRNewswire/ -- AI Recruitment startup Talview is excited to announce the addition of Colin Danaher to its executive team as the new VP of Sales. Colin",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-based-recruitment-startup-talview-hires-new-vp-of-sales-to-increase-adoption-of-the-instahiring-category-301027039.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1135808/Colin_Danaher.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "AI-Based Recruitment Startup Talview Hires New VP of Sales to Increase Adoption of the \"Instahiring\" Category",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-can-ai-help-with-autism-diagnosis.md",
       "title": "Can AI Help With Autism Diagnosis?",
       "excerpt": "An Interview with Cognoa’s CEO Brent Vaughan In the US, one in five children are living with a diagnosable behavioral health disorder; however, only 21% of those children who are diagnosed receive needed treatment.",
@@ -843,147 +1006,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ai-chip-startup-graphcore-lands-150-million-in-funding.md",
-      "title": "AI Chip Startup Graphcore Lands $150 Million in Funding",
-      "excerpt": "Graphcore, one of the top startups selling chips custom-made for artificial intelligence, has added another $150 million in funding led by financial asset firms and investment funds, as it looks to lure customers in the market and challenge its leaders Intel and Nvidia. The funding brings its total amount raised to about $450 million since it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21126492/ai-chip-startup-graphcore-lands-150-million-in-funding",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-this-ai-camera-detects-people-who-may-have-covid-19.md",
-      "title": "This AI camera detects people who may have COVID-19",
-      "excerpt": "The company’s software, which works with high-grade, off-the-shelf security cameras, uses an AI model to zoom in on a subject’s inner eye, which is most reflective of the body’s actual temperature, she said. The system uses AI to monitor numerous cameras at once, and automatically sends an alert to security personnel if it detects someone ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90479220/this-ai-camera-detects-people-who-may-have-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/03/p-3-this-ai-camera-spots-people-with-coronavirus-fever.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "This AI camera detects people who may have COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-artificial-intelligence-can-help-fight-coronavirus.md",
-      "title": "How Artificial Intelligence Can Help Fight Coronavirus",
-      "excerpt": "Imagine a typical Tuesday morning. You park your car in the nearby Costco’s parking lot. The lot is full, with vehicles parked nose to nose. You wait in a long line, similar to what you would see at Disney on a typical weekend.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
-      "publishedDateTime": "2020-03-19T05:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140779754%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How Artificial Intelligence Can Help Fight Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-north-american-deep-learning-chipset-market-by-type-technology-end-user-and-country-forecast-to-2025.md",
-      "title": "North American Deep Learning Chipset Market by Type, Technology, End-user and Country - Forecast to 2025",
-      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/19/2003377/0/en/North-American-Deep-Learning-Chipset-Market-by-Type-Technology-End-user-and-Country-Forecast-to-2025.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T05:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

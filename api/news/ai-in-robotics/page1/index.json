@@ -39,10 +39,55 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-ai-revolutionizing-the-museum-experience-at-the-smithsonian.md",
+      "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+      "excerpt": "(Disclosure: I’m a host of the AI Today podcast). SoftBank Robotics Pepper robot(Photo by Joan Cros/NurPhoto via Getty Images ... interactions that people seem to have with Pepper is when they first approach the bot, they typically start off standing further away because they aren't exactly sure how to interact. However, since Pepper is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1127839788%2F0x0.jpg",
+          "width": 1200,
+          "height": 1803,
+          "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-robots-could-be-trained-to-help-combat-the-coronavirus-pandemic.md",
       "title": "Robots could be trained to help combat the coronavirus pandemic",
       "excerpt": "The 'dull, dirty and dangerous jobs' could be automated, but we would need to add many new functionalities to machines first, US roboticists argued in a journal editorial.",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8152265/Robots-trained-help-combat-coronavirus-pandemic.html",
@@ -124,7 +169,7 @@
       "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
       "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
       "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
-      "heat": 120,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/covid-19-pandemic-robots/",
@@ -421,6 +466,35 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-robots-handle-the-tough-jobs.md",
+      "title": "Robots Handle The Tough Jobs",
+      "excerpt": "Robots can be a quick way to automate a shop, boost production, improve part handling, and free workers from back-breaking manual labor. Robots can be a quick way to automate a shop, boost ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.machinedesign.com/archive/article/21816290/robots-handle-the-tough-jobs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1139,81 +1213,6 @@
           "width": 800,
           "height": 450,
           "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
-      "title": "The Evolution of Artificial Intelligence and Future of National Security",
-      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
-          "width": 1386,
-          "height": 924,
-          "title": "The Evolution of Artificial Intelligence and Future of National Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-artificial-intelligence-in-alzheimers-applications-2020-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
-      "excerpt": "The Report Includes: Summary Artificial intelligence (AI) is a term used to identify a scientific field that covers the creation of machines aimed at reproducing wholly or in part the intelligent behavior of human beings. These machines include computers, sensors, robots, and hypersmart devices. As shown in the figure below, the ultimate ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200313005186/en/Artificial-Intelligence-Alzheimers-Applications---2020--",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200313005186/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
           "attribution": null
         }
       ],

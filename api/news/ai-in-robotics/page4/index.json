@@ -2,6 +2,88 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-18-can-ai-and-rpa-transform-legacy-systems.md",
+      "title": "Can AI And RPA Transform Legacy Systems?",
+      "excerpt": "AI and RPA are often mentioned in the same sentence as ML and IoT; they are touted as magical solutions that will transform the way we live and work. For companies with massive legacy tech platforms,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
+      "publishedDateTime": "2020-02-18T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/dam/imageserve/1187105635/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 399,
+          "title": "Can AI And RPA Transform Legacy Systems?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
+      "title": "Mankato robotics teams qualify for worldwide competition",
+      "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.html",
+      "ampWebUrl": "https://www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "cdnAmpWebUrl": "https://www-mankatofreepress-com.cdn.ampproject.org/c/s/www.mankatofreepress.com/news/local_news/mankato-robotics-teams-qualify-for-worldwide-competition/article_0afbdb7a-4e05-11ea-93f4-5fdc9dd5010a.amp.html",
+      "publishedDateTime": "2020-02-18T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mankato Free Press",
+        "domain": "mankatofreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/assets/v3/editorial/9/1a/91a10458-4dff-11ea-b845-c78e0123f55b/5e44a54858b67.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": "Mankato robotics teams qualify for worldwide competition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-why-your-new-work-colleague-could-be-a-robot.md",
       "title": "Why your new work colleague could be a robot",
       "excerpt": "A whirring and whizzing noise greets you as you enter the offices of Automata, a start-up robotics company based in London ... Yet now, developments in artificial intelligence, alongside improved vision technology and better devices for gripping, are ...",
@@ -1178,88 +1260,6 @@
           "width": 1200,
           "height": 630,
           "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
-      "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
-      "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-daily-news-of-artificial-intelligence.md",
-      "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
-      "excerpt": "The robots have recently entered pole-dancers ... costs and fraudulent orders PWC Tech World reports that most e-commerce platforms are focused on sectors such as communication commerce, artificial intelligence (AI), virtual reality (VR) / augmented reality (AR) and analytics technologies New Delhi: Global auditing and consulting firm PWC ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/series/daily-news-of-artificial-intelligence-66b0dd171af1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/2400/1*nUI0tQinevzbwiWcodKGCg.jpeg",
-          "width": 639,
-          "height": 429,
-          "title": "DAILY NEWS OF ARTIFICIAL INTELLIGENCE",
           "attribution": null
         }
       ],

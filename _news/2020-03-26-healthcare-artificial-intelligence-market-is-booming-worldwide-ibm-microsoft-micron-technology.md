@@ -5,9 +5,9 @@ excerpt: "Advance Market Analytics released the research report of Global Health
 publishedDateTime: 2020-03-26T20:08:00Z
 webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology-2020-03-26"
 type: article
-quality: 53
-heat: 53
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

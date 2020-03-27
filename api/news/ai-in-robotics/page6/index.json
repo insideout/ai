@@ -2,6 +2,97 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-29-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
+      "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
+      "excerpt": "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
+      "publishedDateTime": "2020-01-29T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-ai-powered-robot-pickers-will-be-the-next-big-work-revolution-in-warehouses.md",
+      "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
+      "excerpt": "As it comes out of stealth today, Covariant has announced a raft of private backers, including some of the most high-profile names in AI research. They include Google’s head of AI, Jeff Dean; Facebook’s head of AI research, Yann LeCun, and one of the “godfathers of AI,” Geoffrey Hinton. As Abbeel says, the involvement of these ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/29/21083313/robot-picking-warehouses-logistics-ai-covariant-stealth",
+      "publishedDateTime": "2020-01-29T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/sAH8ueW1jJ5J3BYmdZYCiU5QDzQ=/0x1166:2412x2998/1400x933/filters:focal(24x1737:708x2421):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66211274/A_Covariant_robot_at_a_KNAPP_powered_warehouse_Obeta_outside_Berlin_.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
       "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
       "excerpt": "New York, January 29, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
@@ -1167,89 +1258,6 @@
           "width": 1200,
           "height": 675,
           "title": "12 AI Milestones: 1. Shakey The Robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
-      "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
-      "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Globe Newswire/712b21a98df35f1c4468b46f8c35c4c6",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press News",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
-      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "publishedDateTime": "2020-01-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
           "attribution": null
         }
       ],

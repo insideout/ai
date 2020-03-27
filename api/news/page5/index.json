@@ -2,6 +2,140 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
+      "title": "Tesla files patent for sourcing self-driving training data from its fleet",
+      "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/",
+      "ampWebUrl": "https://electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/amp/",
+      "publishedDateTime": "2020-03-23T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Screen-Shot-2020-03-23-at-5.48.09-AM-e1584968198929.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 372,
+          "title": "Tesla files patent for sourcing self-driving training data from its fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks.md",
+      "title": "Israel builds survey-reading AI that predicts coronavirus outbreaks",
+      "excerpt": "As coronavirus cases in Israel surge past 1,200, researchers in the country are predicting where it will spread next analyzing responses to questionnaires with AI. After members of the public report their condition, algorithms evaluate their answers to connect symptoms to locations. The results are then displayed on a map showing the clusters ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/amp/",
+      "publishedDateTime": "2020-03-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design33-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Israel builds survey-reading AI that predicts coronavirus outbreaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
+      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "publishedDateTime": "2020-03-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-global-artificial-intelligence-ai-market-investments-vs-potential.md",
       "title": "Global Artificial Intelligence (AI) Market: Investments vs Potential",
       "excerpt": "NEW YORK, March 23, 2020 /PRNewswire/ --Report Scope:The scope of this report is broad and covers the global markets for artificial intelligence,",
@@ -378,6 +512,35 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-robots-handle-the-tough-jobs.md",
+      "title": "Robots Handle The Tough Jobs",
+      "excerpt": "Robots can be a quick way to automate a shop, boost production, improve part handling, and free workers from back-breaking manual labor. Robots can be a quick way to automate a shop, boost ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.machinedesign.com/archive/article/21816290/robots-handle-the-tough-jobs",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Machine Design",
+        "domain": "machinedesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -897,167 +1060,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-an-ibm-supercomputer-called-summit-is-taking-on-the-coronavirus.md",
-      "title": "An IBM supercomputer called Summit is taking on the coronavirus",
-      "excerpt": "Technology in the form of jet planes may have helped the coronavirus ... to IBM, which developed the supercomputer, scientists are hoping that Summit’s findings will inform future studies and provide a focused framework for further investigation of the compounds that will reveal if any of them have the characteristics to attack and kill ...",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/nordic-msp/ibm-supercomputer-summit-attacks-coronavirus/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2020/03/Screenshot-2020-03-13-at-10.01.55.png",
-          "width": 978,
-          "height": 612,
-          "title": "An IBM supercomputer called Summit is taking on the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading.md",
-      "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
-      "excerpt": "A new AI-powered system monitors coughing sounds to understand where the coronavirus is spreading. The FluSense device first detects coughing and crowd sizes in real-time. It then analyzes the data to predict the progress of COVID-19 and other respiratory diseases. These insights could guide public health responses to the pandemic, such as the ...",
-      "heat": 194,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
-      "publishedDateTime": "2020-03-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design31-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
-      "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
-      "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
-      "publishedDateTime": "2020-03-20T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=1024",
-          "width": 1024,
-          "height": 662,
-          "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
-      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
-      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

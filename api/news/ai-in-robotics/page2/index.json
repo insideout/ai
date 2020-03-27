@@ -2,6 +2,81 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
+      "title": "The Evolution of Artificial Intelligence and Future of National Security",
+      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
+          "width": 1386,
+          "height": 924,
+          "title": "The Evolution of Artificial Intelligence and Future of National Security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-artificial-intelligence-in-alzheimers-applications-2020-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
+      "excerpt": "The Report Includes: Summary Artificial intelligence (AI) is a term used to identify a scientific field that covers the creation of machines aimed at reproducing wholly or in part the intelligent behavior of human beings. These machines include computers, sensors, robots, and hypersmart devices. As shown in the figure below, the ultimate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200313005186/en/Artificial-Intelligence-Alzheimers-Applications---2020--",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200313005186/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence in Alzheimer's Applications - 2020 - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
       "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
       "excerpt": "swept from China to the rest of the world, emerging technologies such as artificial intelligence (AI), data science, and other technologies were thrust into action to help humans manage the crisis. Here are 10 ways technology is being used to manage and fight COVID-19.",
@@ -1077,80 +1152,6 @@
           "width": 1024,
           "height": 735,
           "title": "Covariant, ABB partner to integrate AI and robots for warehouses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-repair-robot-swims-through-oil-pipelines-and-welds-cracks-without-exploding.md",
-      "title": "Repair robot swims through oil pipelines and welds cracks — without exploding",
-      "excerpt": "Before this project even really got going, we knew that the technology worked and that this is something we could do. Everything else — the robotics, the artificial intelligence — all followed on from there.” The robot consists of five or six joined segments, each of which carries out tasks like navigation, control, communications ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
-      "publishedDateTime": "2020-02-26T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-people-prefer-robots-to-explain-themselves-and-a-brief-summary-doesnt-cut-it.md",
-      "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
-      "excerpt": "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop AI systems that human beings find trustworthy – while also performing ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html",
-      "ampWebUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
-      "publishedDateTime": "2020-02-26T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/309620/original/file-20200113-103951-1d39a4w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
-          "width": 754,
-          "height": 507,
-          "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
           "attribution": null
         }
       ],
