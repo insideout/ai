@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-02-10-behind-the-code-meet-zia-mohammad.md",
+      "title": "Behind the Code: Meet Zia Mohammad",
+      "excerpt": "As a product manager on IBM’s Watson Platform team, Zia Mohammad oversees Natural Language Understanding offerings such as Language Translator and Tone Analyzer. Zia also teaches at IBM’s Project Management Bootcamp. We talked to him about why he chose to work in AI, where he sees the field going in",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/02/behind-the-code-meet-zia-mohammad/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T11:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/02/2020_02_05_-Marketing_Materials_Blog_Image.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Behind the Code: Meet Zia Mohammad",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-08-biased-algorithms-learn-from-biased-data-3-kinds-biases-found-in-ai-datasets.md",
       "title": "Biased Algorithms Learn From Biased Data: 3 Kinds Biases Found In AI Datasets",
       "excerpt": "Algorithmic bias negatively impacts society, and has a direct negative impact on the lives of traditionally marginalized groups.",
