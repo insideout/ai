@@ -2,6 +2,51 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-01-amazon-microsoft-and-ibm-are-under-pressure-to-follow-google-and-drop-gender-labels-like-man-and-woman-from-their-ai.md",
+      "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
+      "excerpt": "Now the AI researchers who helped bring about the change say Amazon's Rekognition, IBM's Watson, and Microsoft's Azure facial recognition should follow suit. Joy Buolamwini, a computer scientist ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
+      "publishedDateTime": "2020-02-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e592f43fee23d4f40526c86?width=1200&format=jpeg",
+          "width": 1028,
+          "height": 514,
+          "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-29-ai-based-software-is-being-used-to-diagnose-coronavirus.md",
       "title": "AI-based software is being used to diagnose coronavirus",
       "excerpt": "After BlueDot's AI epidemiologist was one of the first to signal the outbreak of the coronavirus (Covid 19), another AI-based software developed by a Beijing-based startup Infervision, is now helping physicians diagnose it in Wuhan. The software, developed in collaboration with Wuhan Tongji Hospital, helps detect typical and partial symptoms of ...",
@@ -1264,50 +1309,6 @@
           "width": 1200,
           "height": 801,
           "title": "Can Machines And Artificial Intelligence Be Creative?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy.md",
-      "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
-      "excerpt": "Recent surveys of the progress and impact of AI highlight the confusion and contradictory attitudes of consumers about the privacy of their data, the impact of AI on jobs, and the race for AI supremacy.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
-      "publishedDateTime": "2020-02-27T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F844039488%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
           "attribution": null
         }
       ],

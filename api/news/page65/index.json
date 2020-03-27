@@ -2,6 +2,50 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-01-27-ubers-ai-plays-text-based-games-like-a-human.md",
+      "title": "Uber’s AI plays text-based games like a human",
+      "excerpt": "Can AI learn to play text-based games like a human? That’s the question applied scientists at Uber’s AI research division set out to answer in a recent study. Their exploration and imitation-learning-based system — which builds upon an earlier framework called Go-Explore — taps policies to solve a game by following paths (or ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/27/ubers-ai-plays-text-based-video-games-with-human-life-self-sufficiency/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/27/ubers-ai-plays-text-based-video-games-with-human-life-self-sufficiency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/ubers-ai-plays-text-based-video-games-with-human-life-self-sufficiency/amp/",
+      "publishedDateTime": "2020-01-27T08:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/04/ai_robotics_keyboard-shutterstock_316477904.jpg?fit=1000%2C640&strip=all",
+          "width": 1000,
+          "height": 640,
+          "title": "Uber’s AI plays text-based games like a human",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-launchable-applies-machine-learning-to-software-testing.md",
       "title": "Launchable applies machine learning to software testing",
       "excerpt": "Startup Launchable, with Kohsuke Kawaguchi, creator of the Jenkins CI/CD platform, as a co-founder, is applying machine learning to software testing. The company’s technology predicts the likelihood of failure for each test given a change in the source code. Still in stealth mode, Launchable is positioned to offer “smarter” testing ...",
@@ -1057,43 +1101,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
-      "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-      "excerpt": "But IBM is betting its AI can “extract the insights” from data to help its clients stay ahead of the curve, Nebo said. For example, Watson’s AI could reveal a preference for avocado oil over ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/",
-      "ampWebUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
-      "publishedDateTime": "2020-01-26T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01182020_AIibm_182723-300x201.jpg",
-          "width": 300,
-          "height": 201,
-          "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
       ]
     }
   ],

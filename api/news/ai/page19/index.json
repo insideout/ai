@@ -2,6 +2,43 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-03-10-machine-learning-could-be-canadas-edge-in-the-global-quantum-computing-arms-race.md",
+      "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
+      "excerpt": "Her work applies machine learning to quantum physics problems ... Recently, 1QBit was listed as Microsoft’s only software partner on Azure Quantum, which aims to bring its cloud computing software to quantum computers and make them mainstream. “It’s about getting the whole ecosystem up and standing and feeding into each other ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://betakit.com/ai-nation-quantum-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2020/01/2000Q-Chip_feature-1024x680.jpg",
+          "width": 1024,
+          "height": 680,
+          "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-deep-learning-to-be-topic-for-1st-tectalk.md",
       "title": "Deep Learning to be Topic for 1st teCTalk",
       "excerpt": "One of your neighbors posted in Business. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
@@ -1097,35 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-patriot-one-secures-contract-for-correctional-service-canada-from-innovative-solutions-canada.md",
-      "title": "Patriot One Secures Contract for Correctional Service Canada from Innovative Solutions Canada",
-      "excerpt": "The contract from Innovative Solution Canada (ISC), was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/09/1997106/0/en/Patriot-One-Secures-Contract-for-Correctional-Service-Canada-from-Innovative-Solutions-Canada.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

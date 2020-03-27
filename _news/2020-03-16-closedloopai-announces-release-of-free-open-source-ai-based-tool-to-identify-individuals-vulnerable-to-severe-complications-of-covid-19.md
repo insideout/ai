@@ -1,25 +1,21 @@
 ---
 category: news
 title: "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19"
-excerpt: "on Amazon’s SageMaker platform, and via ClosedLoop’s HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum ..."
-publishedDateTime: 2020-03-16T12:11:00Z
-webUrl: "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based"
+excerpt: "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ..."
+publishedDateTime: 2020-03-16T11:15:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15556274"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg"
-    width: 1200
-    height: 627
-    title: "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19"
-
-secured: "PPJJTk6nhulpYPrCnG/A0nwicn7Mi6FUUVLPxVdq6w0uybJ6rna6K7dLTCJRVwUsRqtfSA/AV0Twrf4EmJqpxbbT0tFuDt9I6WXdtUkFt2B5odZjpXdQapRVF/yrOd+8GHf2/pXn9UFKWmjMW2Qu3OikO9/shpuq0K7k2uBK4YbNGrrBRWCPFdY9LVmPSln9RLmvj6utsLE+E9qMffzKyrtNa80HuWemdgBw29bat5BBGJr+qVm08MJfbgW1A/5mqMAtwcmfeoMQZjSLwbhF8BVYUX9SY4dl8qVz+MbBuprJOkXgJMeoVbJ1o8mvxKj5;7T6FHKF+H9+MoFX78qccdA=="
+secured: "+j2naXg2MHxZkIDAvn0AZ/v+S2ODbAuV2BJm8wJdNxUjxPYFHH0r7ytKNCjdY4EZ/LOvv/dH44LktujxjQQfZ2xtRFiUhWIBexOCf2iIzwdmomJTBIwM0hAN6pD+eTE/XdrUhjrfHMR4GHL2v7fNI1BFfI1r1ygNZgt2lI2x/FbJs1Qsu6HmX0tedV8DrIY3crlYImB0sCpJZU9647Aeg+yS9LjYMF24Iq1jXdXrtx4r/njSqu5Np/X2Jkq6qSh8OH6vLcj5GcwN0Cd2uIXNGG7Np9ztrOvJOVA5pTOcLG2TnHbJ0XPOesm4YxjKIs9S;EFkEt5q1vw77LIZdacGmVg=="
 ---
 

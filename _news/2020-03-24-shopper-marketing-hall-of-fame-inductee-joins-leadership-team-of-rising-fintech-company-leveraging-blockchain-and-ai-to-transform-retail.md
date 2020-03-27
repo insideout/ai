@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Shopper Marketing Hall of Fame Inductee Joins Leadership Team of Rising FinTech Company Leveraging Blockchain and AI to Transform Retail"
-excerpt: "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a \"Top Ten Mover and Shaker in Retail,\" Karen Sales has joined the leadership team at SKUx as Senior Vice..."
+excerpt: "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a “Top Ten Mover and Shaker in Retail,” Karen Sales has joined the leadership team..."
 publishedDateTime: 2020-03-24T13:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/g15650351/shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15650351"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15650351"
+webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005543/0/en/Shopper-Marketing-Hall-of-Fame-Inductee-Joins-Leadership-Team-of-Rising-FinTech-Company-Leveraging-Blockchain-and-AI-to-Transform-Retail.html"
 type: article
-quality: 6
-heat: 6
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: GlobeNewswire
+  domain: globenewswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Pp6WSyDA9pE04ormSqPPHR1nqV0YBbLteNqPi16xO65TMJ8BqtPLyS/+kRGGyN7dhmXo0Zif0cE7na6yx20MeH4AbYJkZEDCD6NaJ4RoBNmBEAgwHbyWu/RnEwENfX+mVvutxfubLkHQWbfbTaCjE/qDqaQASAKnlN9gZq77jKidumN1mfuP8OgCUnFbgWDGZYlWc04u7PJNmJ9qiVG/hMQ3wSNWLmw+R3Vp0TDPPpUyt7+iCF4iJIj6A5u01mkdicrjJ8GWnHgQeS+JgqTkvjpj4xp3EjCjXMI2hiX6+2Fy0NwximZeUZsLKdnrOweR;jGXpry10Mzu36UoikZiv0w=="
+secured: "HNbVgG01RH3OVq2jBGmRR2mUAxPQxyYUE1b8SuAdhry7rD08zy4QP4rs2J3/onmMgHF/9+XhBCMIQwrSkVl8Gg+Z2FvotZEakuVyQEDo3F8A2JmsHBoaiZKxAroDjmuOHJbqyNNsv46+h8XdOnMDlUfm6joqQpt/cYmqP8fp3sVyI5RacLkScViYqdXlQZylG4/5KYk9xxsvsKsUSpGRMuoap6b4iAyZEbv3GBknOZRn7VD2ZQVF6t2sWe2OmfDrKdE7Nsr1n2FB1qP2ALimFH6JjtZZZJh8S8UQFCJW+apEikcYS2fq+E08oXN6ka6c;YJtX/SASgykgo3YvuYpTcA=="
 ---
 

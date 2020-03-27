@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous
 ampWebUrl: "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/"
 type: article
-quality: 87
-heat: 88
+quality: 89
+heat: 90
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 683
     title: "Will this crisis help set autonomous AI on the right course?"
 
-secured: "bI2zdQnOao0nRv/+ica9ED/FIdbXMEhYCDNN3aE649vgCK0MfUoolqMvqCYH7Bkwp3eB5aEPBJpJ9SLJO4WTtexo3L7gY8zDZNzkiHbzFxVcB6Bmla4w0LTDjt5iQjdnyg/KH7V0zRrWmwLmMNZV8+0KKU0B5S3Icc7LjOR+pJ4Nvlk/pJjiMF9jg/DDJzzOBEmHhGO7iNHjTuNI5Pm/OlOACsTMsZZcJNHZrd7abKNnZ6+v79qsT0dVuVR1kbD6xn5ROfmQdX2yo03o9ugFGBK0tn14UsHDqHecxWUgRfxf6OAjabg0XhCd8PGSnefb5iO32ub6yFfXhezUI79eKHdtqExWWtQYA61Iye0PGHhAQIdXELmzkxe32XAg+Kb7pzn9nCTdfwfmriLQWx5MK6ZEVWY29IF0Xn7D0lCVbUsyen0ZyAPaQuaqsEv7O8cCHwmC6S+Zt1h4lg9zJb4eqOa2TOvhgt7Ex4rUoWeTlgQ=;fVmk4+eF64UHjz3wgW0sBg=="
+secured: "GKIPtQBVCKM/y+nBpeGal84wq7/4ad31V5PDqJf5hl/MBfnqbCEC/9OX7JrOOnC/st5rLqhstaiaWtnnxoW5V2jCFYSSukOb+bKP8sks+PdUOQrGxEu+jYM6iC2voPRRV5+XYE2WHbQHRZ9o4sNMCssWOWbs1l8DrGOI84IwMKn5dBWh7idaj1GplnzNJW4EUpMBhE9nxDLKf2FS4Q55kQntYgUkpr63+5RV9gpGmMpEoVCddaKhqua4pGiCZxEzil4AHZEQoSwiwvopAEggOua3X61asbpergUd1e2ZossFqBkU5on4l9dOwFfE1GY/NuJ8AQxiQYXSdx/6TDZiMvMjb+DsDAgioXP+MjIA3HzuTJw2W0Wbo/yQAfEZpuTepxUxtskuH3df4sTh+gXOBK59J1f+dnoAHwC10y/WBuQq7xwGQVRucKPlHUhWQBNc5eqZWn9EJEj2ET4F8d/VRpRWplKRLyBHV7O3+6dufC8=;MVtDv5++Jgr11eaup4HdNg=="
 ---
 

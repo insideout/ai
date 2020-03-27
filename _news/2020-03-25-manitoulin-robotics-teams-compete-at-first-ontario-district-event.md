@@ -8,8 +8,8 @@ ampWebUrl: "https://www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first
 cdnAmpWebUrl: "https://www-manitoulin-ca.cdn.ampproject.org/c/s/www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: manitoulin.ca
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 900
     title: "Manitoulin robotics teams compete at FIRST Ontario district event"
-
-related:
-  - title: "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants"
-    excerpt: "Miso Robotics, a startup developing robots that can perform basic cooking tasks in commercial kitchens ... can boost productivity by working with humans as opposed to wholly replacing them. Miso AI, Miso’s eponymous cloud-based platform, orchestrates the prep of over a dozen food items, including chicken tenders, chicken wings, tater ..."
-    publishedDateTime: 2020-03-24T09:03:00Z
-    webUrl: "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/"
-    ampWebUrl: "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 113
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "TqTlAXB4+K9nEAJv8h/OGOqOi6HgDmE0tAdDaSwfl+9EDQGfoq6dorv75Q/nbCtYlFZnswQhOfW28I+6aZy39uj6x0AIVjmpvMZOsUJLxpOP5JBmbTlzg/57eZIN84H4mrpKY+34tj3Xhwu9iX66yiWngqhyXP2fxRElse586T2jZ5c0nDONM9D5jQQFuXQMRK1DXu7Em1qdkl/8wegDoP7xJSrewcK4xCGo7p9d/in8KJxJfM/LxMe8t5U6uuPeVeZvIr+r7xyssUeYNwHgZ4qnsAW+2aLnxLwZwyPyVeQrufcfp1Yi9AXL0j7gf4Da;W9RA/ffgHLcXudhgK3ozRA=="
 ---

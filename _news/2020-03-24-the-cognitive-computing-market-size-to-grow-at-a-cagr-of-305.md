@@ -24,15 +24,15 @@ images:
     title: "The cognitive computing market size to grow at a CAGR of 30.5%"
 
 related:
-  - title: "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025."
-    publishedDateTime: 2020-03-24T08:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-03-24"
+  - title: "Machine Learning Market Overview, Development by Companies and Comparative Analysis by 2030 - Intel, H2O.ai, Amazon Web Services"
+    excerpt: "Mar 24, 2020 (Xherald via COMTEX) -- Machine Learning Market was estimated at US$ 2.7 billion in 2019. The market is anticipated to further grow at a CAGR of..."
+    publishedDateTime: 2020-03-24T10:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-overview-development-by-companies-and-comparative-analysis-by-2030---intel-h2oai-amazon-web-services-2020-03-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 64
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
