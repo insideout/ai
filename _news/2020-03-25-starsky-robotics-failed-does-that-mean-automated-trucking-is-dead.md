@@ -3,7 +3,7 @@ category: news
 title: "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?"
 excerpt: "Axmacher’s Medium post about the company's failure has energized the rest of the truck Automated Driving Systems industry. They emphatically do not agree. The consensus is that investors didn't abandon all of truck ADS,"
 publishedDateTime: 2020-03-25T01:01:00Z
-webUrl: "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead"
+webUrl: "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/"
 ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/amp/"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 900
     title: "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?"
 
-secured: "cAOLQeOQ5W7DXusL6K6StE6Co0/3CtbThw9KDk0bhA+ZmjOUCZ2M25Yv2BtTh+lE1WkKtILFJBtmlHhRlhB/g0CDNGS6ZYw28TnKMMNzz1Z04iterjxr1dZ0pClXDHtxRkjEcxoAKMlNK1kVJH1TmdmmmeyR2izbjtAXMtazU8XqU3VfkBnMzj0gn0KEzMY80qN7fba2/2n9DkLCE0siBmp5aG9p+e7Z8JBgLXBdh3NeoYpWm6gVcPB1+Z+VJzrGEFj7cGfBOJ2x9KT1no3dHyRdueMeG091R2iYYMRRC6+rB9HVKQ/93MrxpZiOB5D2;Kt1O5aHWp8AU82Ucunb8lA=="
+secured: "OjFHkE7gfX+8dfx9d8mIcZgVLYZItBf7vjfpwNjNzzbNHUMXpjrl5lEaTIcoyxDFVl8D0c772NF3NbMQMQVkJd+78Zlu/ejZNzMzrf2U11Eo3CAh0py6fCJSRppI0A06FFf4XMW4/9AsCPUt2810PTB1mLSPMnwauN48u7VuRV60UuIv1BGjFIQSDWnbdtUl1uSyCC0Vk6sGnVxqTLafcGgeTXlKEqIQqfnhL6rPA97TjV3qO+65nEsDTjRG7++FAY+Hby/xdmlXNrgEWe65jccuWqhXwJBZflW1O4zGtv8zgqxmc4NgSfrZipdNQRbW;N+XLNmyGYrNv5X0RB6/s5Q=="
 ---
 

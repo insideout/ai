@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-17-google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate.md",
+      "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
+      "excerpt": "Google has launched its new near real-time transcription feature as part of Google Translate, which is available for eight languages. Google showed off the AI-powered feature this January and will now roll it out on Android with support transcribed translations between any of a set of eight languages, including English, French, German ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
+      "publishedDateTime": "2020-03-17T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
       "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
       "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios, U.S. chief technology officer, during a press briefing Monday. “And we’re able to ...",
@@ -1129,35 +1174,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
-      "title": "Global Voice and Speech Recognition Technology Industry",
-      "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15509110/global-voice-and-speech-recognition-technology-industry",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15509110",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15509110",
-      "publishedDateTime": "2020-03-09T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

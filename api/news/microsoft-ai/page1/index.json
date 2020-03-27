@@ -168,6 +168,44 @@
       ]
     },
     {
+      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
+      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
+          "width": 620,
+          "height": 431,
+          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
       "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
       "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
@@ -1180,43 +1218,6 @@
           "width": 1198,
           "height": 628,
           "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on-microsoft-azure.md",
-      "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
-      "excerpt": "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure",
           "attribution": null
         }
       ],

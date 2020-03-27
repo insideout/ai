@@ -2,6 +2,139 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-01-22-adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model.md",
+      "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
+      "excerpt": "They also say it achieved state-of-the-art results across qualitative metrics, including Fréchet Inception Distance (FID), which takes photos from both the target distribution and the system being evaluated (in this case SieveNet) and uses an AI object recognition system to capture important features and suss out similarities. SieveNet isn’t ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/adobes-ai-lets-you-preview-any-item-of-clothing-on-a-virtual-body-model/amp/",
+      "publishedDateTime": "2020-01-22T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/8d194448-ea6c-4e6a-8ef4-2e26bf92cd0a-e1579709264687.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
+      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
+      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
+      "publishedDateTime": "2020-01-22T08:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
+          "width": 1028,
+          "height": 578,
+          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-ibm-chief-calls-for-precision-regulation-on-ai-that-weighs-privacy-against-benefits-to-society.md",
+      "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
+      "excerpt": "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "publishedDateTime": "2020-01-22T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990",
+          "width": 5424,
+          "height": 3724,
+          "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
       "title": "Octi launches a social network built around augmented reality",
       "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
@@ -1131,125 +1264,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
-      "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-      "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary",
-      "ampWebUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "publishedDateTime": "2020-01-21T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
-          "width": 997,
-          "height": 1201,
-          "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-preparing-for-ai-ethics-and-explainability-in-2020.md",
-      "title": "Preparing For AI Ethics And Explainability In 2020",
-      "excerpt": "After racing head long into creating complex models, companies must take a step back to provide explainable and ethical AI. Fortunately, researchers are providing new tools to help demystify complex models.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2020/01/21/preparing-for-ai-ethics-and-explainability-in-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T13:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
-      "title": "Why most self-driving car companies use these 3 models",
-      "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
-      "ampWebUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "publishedDateTime": "2020-01-21T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Why most self-driving car companies use these 3 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -7,9 +7,9 @@ webUrl: "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for
 ampWebUrl: "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "Google releases Semantic Reactor for natural language understanding experimentation"
 
-secured: "VH+Eky06G5HtJFuEjHK/22CRqhulg750vrgQMlLl2Vm2stPHoQfmWwr83u/kHLDTLYLiyAi4RhYOxpfa8j4G5KDyIlvxOgAK/csuSNZ4kJItzrz7PcMbWFntsA8b04AK6tQWPfBw/YltLR68WO9BEi+Xd3q4gjPOY2GOSJ9NwE6lpvLEXnORC/GVlUKMpfx+UL87evToDA0PjchoUF4Sso+kBMRYPDXdLg3B1GOfmcHsGAb8kAm82DtChCJcxvxG+ccbd0eYVN9o+gvyAO5c1gK4+qD/5aBGQJSxJMr8Z/5h/iDOIMZhFvZ0WJesprMZ;6mk9qA+iSNmFk/U5S6rM6A=="
+secured: "YwxzltOci2o9PcGtfRl85NWMYTamXKylSgyIvpKSfnJCKLy9rxVvSWylkEOyXbdR+zSEhuET2gUzldH+d5pof27wdHiFkNZvkkhjJHyhMW3YqSHplgfT6x3Cc87v55wUVGgyxv4wmXccoO0U5SUqee0k/RYa5xLkpVtRmC9+jVV8wy9Zt3nTJExVTEC8eP7S59bQgNqGB7jHk6OVY2Wlfq8Fub9FX14XPXNYn8Iw8oNj3kFmaO58m8bvBt5vfNA9VZE9p881c4QxnJ7IumaS5MKv1Khy31aBb8xcJbvMAMjl7NVF5aRjPO9EvQnSOdelf+P1VQSoFufSijGMdw0Lb0b/OP0/LoAyeVd9ivkV1tcFOfR6ClW2+oAmQrG78HEKhQ/7DQ4ZI95tUolEaKFjtsFIBb+T0xsTVKj2GNxf2KNPJCFrF/h//wC+cIumhshOR8SIt/DKVJH76bOGIOwa8J3VfdVsWWYgZTeMfoauUjU=;5twfH2ZxL03r8k2SX0wCBg=="
 ---
 

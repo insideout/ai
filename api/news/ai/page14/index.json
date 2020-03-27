@@ -2,6 +2,80 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-15-amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan.md",
+      "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+      "excerpt": "Furthermore, AMD-centric nodes will also be upgraded to speed up artificial intelligence (AI) and machine learning (ML) workloads, for extensive research, analysis, and computing technology that will be beneficial to NNSA endeavors. ‘The El Capitan supercomputer will benchmark on HP’s next-gen AMD EPYC CPU and Radeon Instinct GPU to enhance ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://happygamer.com/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "ampWebUrl": "https://happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "cdnAmpWebUrl": "https://happygamer-com.cdn.ampproject.org/c/s/happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "publishedDateTime": "2020-03-15T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HappyGamer",
+        "domain": "happygamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://happygamer.com/wp-content/uploads/2020/03/45af85dee2cfbe420edf4ac7c8a435b0.jpg",
+          "width": 1990,
+          "height": 1098,
+          "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-tra-attains-cips-corporate-ethics-mark-reinforcing-the-organizations-commitment-to-ethical-sourcing-and-supplier-management.md",
+      "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
+      "excerpt": "This mark is highly regarded as an indicator of key global practice in the procurement and supply profession, especially in dealing with suppliers and partners while ensuring transparency and professional ethics. Commenting on this ... of the Fourth Industrial Revolution (4IR) and Artificial Intelligence (AI). Our success depends mainly on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/TRA_attains_CIPS_Corporate_Ethics_mark_reinforcing_the_organizations_commitment_to_ethical_sourcing_and_supplier_managementnbsp-ZAWYA20200315090947/",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20200315090947/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200315090947/",
+      "publishedDateTime": "2020-03-15T02:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-deepmind-uses-ai-to-help-fight-covid-19.md",
       "title": "DeepMind Uses AI to Help Fight COVID-19",
       "excerpt": "The world is facing a global public health crisis due to the COVID-19 pandemic caused by the novel coronavirus named SARS-CoV-2. This is a new pathogen, and scientists around the world are researching the SARS-CoV-2 coronavirus in order to develop therapeutics to treat,",
@@ -792,6 +866,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-14-driverless-trucks-being-tested-right-now-on-public-roads.md",
+      "title": "Driverless trucks being tested right now on public roads",
+      "excerpt": "(CBS News) — Few are aware that driverless 18-wheelers are already on the road ... cameras and radar devices affixed to the rig feed data to the artificial intelligence-driven supercomputer that controls the truck. Price says his product is superior to others. “Our system can see farther than any other autonomous system in the world.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/",
+      "ampWebUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLFY",
+        "domain": "klfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/03/trucks.png?w=620&h=349&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Driverless trucks being tested right now on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
       "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
       "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
@@ -1058,124 +1169,6 @@
         "AI Ethics",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-hades-startup-uses-ai-to-explore-fix-the-sewer-underworld.md",
-      "title": "Hades Startup Uses AI To Explore, Fix The Sewer Underworld",
-      "excerpt": "Hades is a company that uses artificial intelligence to identify cracks, defects and blocks in sewers. Hades also is a god in Greek mythology that looks after the underworld. “Like him, we see ourselves as the ones looking after the underground,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffkart/2020/03/13/hades-startup-uses-ai-to-explore-fix-the-sewer-underworld/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-introduction-to-natural-language-processing.md",
-      "title": "Introduction To Natural Language Processing",
-      "excerpt": "Natural Language Processing or simply abbreviated as NLP is a highly specialized branch of Artificial Intelligence and Machine Learning that deals with understanding the natural human language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/introduction-to-natural-language-processing-a39168c69c86",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*v1h6A7-ufXZo4l1Y",
-          "width": 1200,
-          "height": 600,
-          "title": "Introduction To Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-cynergisteks-seasoned-privacy-investigators-leverage-artificial-intelligence-for-the-detection-of-snooping-related-to-the-coronavirus.md",
-      "title": "CynergisTek’s Seasoned Privacy Investigators Leverage Artificial Intelligence for the Detection of Snooping Related to the Coronavirus",
-      "excerpt": "About CynergisTek, Inc. CynergisTek is a top-ranked cybersecurity firm dedicated to serving the information assurance needs of the healthcare industry. CynergisTek offers specialized services and solutions to help organizations achieve privacy, security, and compliance goals. Since 2004, the company has served as a partner to hundreds of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200313005364/en/CynergisTek’s-Seasoned-Privacy-Investigators-Leverage-Artificial-Intelligence",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200313005364/en/616701/23/CynergisTek_Logo_Color.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "CynergisTek’s Seasoned Privacy Investigators Leverage Artificial Intelligence for the Detection of Snooping Related to the Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

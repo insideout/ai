@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
+      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
+      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
+      "publishedDateTime": "2020-02-13T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
+          "width": 600,
+          "height": 315,
+          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-reviewing-ai-powered-contract-management-software-evisort.md",
       "title": "Reviewing AI Powered Contract Management Software Evisort",
       "excerpt": "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ...",
@@ -1286,51 +1331,6 @@
           "width": 1200,
           "height": 630,
           "title": "Natural Language Processing (NLP) Market Growth, Opportunity And 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-amazons-ai-automatically-dubs-videos-into-other-languages.md",
-      "title": "Amazon’s AI automatically dubs videos into other languages",
-      "excerpt": "In a paper published this week on the preprint server Arxiv.org, researchers from the tech giant detailed a novel “speech-to-speech” pipeline that taps AI to ... across languages and follows a “fluency-based” rather than a content-based criterion. It comprises several parts, including a Transformer-based machine translation bit trained ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/amazons-ai-automatically-dubs-videos-into-other-languages/amp/",
-      "publishedDateTime": "2020-01-24T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI automatically dubs videos into other languages",
           "attribution": null
         }
       ],

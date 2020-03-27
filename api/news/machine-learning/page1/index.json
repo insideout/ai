@@ -92,6 +92,52 @@
       ]
     },
     {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
       "title": "What winemaking has taught me about artificial intelligence",
       "excerpt": "It was a central part of the culture in ancient Rome. Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and the Dartmouth Summer Research Project, and only in recent years has it emerged as a technology poised to impact society on par with the industrial revolution in terms of eliminating whole job segments such as ...",
@@ -1202,51 +1248,6 @@
           "width": 640,
           "height": 360,
           "title": "Machine Learning-Powered Steam Recommendations Now Live",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deep-learning-changes-scientific-research-finds-antibiotic-for-multi-resistant-bacteria.md",
-      "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
-      "excerpt": "Scientists at MIT and Harvard’s Broad Institute and MIT’s CSAIL built a deep learning network that can acquire a broad representation of molecular structure and thereby discover novel antibiotics.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/a054429e-8520-4d0a-9fcc-055da9056537/thumbnail/370x278/ef50d64ea8facf64a4639d9a1183f872/apple-updates-its-macbook-air-with-more-5e7371a2daf32b2d76d61158-1-mar-20-2020-15-12-55-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
           "attribution": null
         }
       ],

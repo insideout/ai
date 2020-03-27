@@ -2,6 +2,96 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-14-ai-is-coming-for-your-most-mind-numbing-office-tasks.md",
+      "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
+      "excerpt": "Such reservations seem unlikely to dampen believers’ enthusiasm, though. Guy Kirkwood, the chief evangelist at UiPath, says the vision is for software robots to be a lot more like the AI of science fiction, eventually taking over how they are programmed from start to finish. “The direction of travel—and we’re not there yet—is that we ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/",
+      "ampWebUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
+      "publishedDateTime": "2020-03-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-this-stance-detecting-ai-will-help-us-fact-check-fake-news.md",
+      "title": "This stance-detecting AI will help us fact-check fake news",
+      "excerpt": "However, while those techniques have been efficient for some tasks such as machine translation, they have had limited success on ... time- and labor-intensive data-labeling work that goes into most contemporary AI work. “The beauty of bidirectional transformer language models is that they allow very large text corpuses to be used to obtain ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
+      "publishedDateTime": "2020-03-14T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-8-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This stance-detecting AI will help us fact-check fake news",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-create-no-code-predictive-models-with-azure-machine-learning.md",
       "title": "Create no-code predictive models with Azure Machine Learning",
       "excerpt": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code. Training a machine learning model is an iterative process that requires time and compute resources.",
@@ -410,6 +500,43 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-driverless-trucks-being-tested-right-now-on-public-roads.md",
+      "title": "Driverless trucks being tested right now on public roads",
+      "excerpt": "(CBS News) — Few are aware that driverless 18-wheelers are already on the road ... cameras and radar devices affixed to the rig feed data to the artificial intelligence-driven supercomputer that controls the truck. Price says his product is superior to others. “Our system can see farther than any other autonomous system in the world.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/",
+      "ampWebUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLFY",
+        "domain": "klfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/03/trucks.png?w=620&h=349&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Driverless trucks being tested right now on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -878,125 +1005,6 @@
           "width": 1200,
           "height": 675,
           "title": "The top 5 fintech trends for 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-current-ai-hardware-focus-is-misguided-says-ai-pioneer.md",
-      "title": "Current AI hardware focus is misguided, says AI pioneer",
-      "excerpt": "offered a glimpse of what Facebook is working on, and made some predictions for the future of deep-learning hardware. Le Cun is a renowned visionary in the field of AI, having been at the forefront of neural-network research in the 1980s and 1990s. As a Bell Labs researcher in the late 1980s, he worked with the earliest types of dedicated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/current-ai-hardware-focus-is-misguided-says-ai-pioneer/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200313102416Le-Cun-It-s-Really-Hard-to_0.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "Current AI hardware focus is misguided, says AI pioneer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction.md",
-      "title": "Eigen and ING target financial industry with NLP-driven data extraction",
-      "excerpt": "As one of the biggest banks in the world, ING is a major partner for Eigen and should go some way toward expediting the uptake of machine learning in the financial services sector. Indeed, ING is already using Eigen’s NLP in specific areas such as loan operations and LIBOR replacement, and as part of their new partnership this will be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
-      "publishedDateTime": "2020-03-13T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Eigen.png?fit=1284%2C632&strip=all",
-          "width": 1284,
-          "height": 632,
-          "title": "Eigen and ING target financial industry with NLP-driven data extraction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
-      "title": "Riskalyze Fintech Report Card: February 2020",
-      "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wealthmanagement.com/technology/riskalyze-fintech-report-card-february-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WealthManagement.com",
-        "domain": "wealthmanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/fintech-report-card-promo.jpg",
-          "width": 2000,
-          "height": 1040,
-          "title": "Riskalyze Fintech Report Card: February 2020",
           "attribution": null
         }
       ],

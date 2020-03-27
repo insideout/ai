@@ -2,6 +2,125 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-12-ai-recruitment-start-up-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI recruitment start-up Talview wins the \"Best AI Application for Societal Impact\" recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "... partners and has built its Instahiring Experience platform using Microsoft Azure AI, machine learning and cognitive services. For corporate customers, Talview leverages the capabilities of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20200312/3519349.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence.md",
+      "title": "Smart Dubai identifies 40 use cases from 10 different sectors for artificial intelligence",
+      "excerpt": "“The steps we are taking at the moment, having an AI Lab, developing use cases across the city, having AI ethics, principles and guidelines, having data exchange and dissemination process, Dubai Pulse feeding city data to the public and government organisations and looking at the potential of exchange of data between the private and public ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence",
+      "ampWebUrl": "https://www.techradar.com/amp/news/smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence",
+      "publishedDateTime": "2020-03-12T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/NQjdFLA3AuYRNHf7z72td7-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Smart Dubai identifies 40 use cases from 10 different sectors for artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-10-questions-about-deep-learning.md",
+      "title": "10 questions about deep learning",
+      "excerpt": "Learn why neural networks are so powerful, how and where they’re used, and how to get started — no programming necessary It seems everywhere you look nowadays, you will find an article that describes a winning strategy using deep learning in a data science problem, or more specifically in the field of artificial intelligence (AI).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532058/10-questions-about-deep-learning.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 questions about deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-artificial-intelligence-robots-market-competitive-outlook.md",
       "title": "Artificial Intelligence Robots Market Competitive Outlook",
       "excerpt": "This global Artificial Intelligence Robots Market report includes all the company profiles of the top market players and brands Client s needs are understood well by experts leveraging their expertise and strong knowledge base to identify and evaluate competition and",
@@ -1039,142 +1158,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
-      "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
-      "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027-2020-03-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026.md",
-      "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
-      "excerpt": "Market Analysis: In accordance with the study held by Acumen Research, the Machine Learning Market size is projected to reach US$ 76.8 Bn by 2026 with a CAGR of 40.1% from 2019 to 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026-2020-03-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-built-language-processing-ai-technology-that-was-a-hit-after-debating-against-humans-now-its-ready-for-businesses-needing-to-plow-through-data.md",
-      "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
-      "excerpt": "IBM's AI head said the company is commercializing its famous \"Debater\" technology, which became a hit for debating with humans.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/ibm-debater-watson-ai-technology-available-to-businesses-2020-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ab2631798e6e51f008b45a7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,88 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-18-natural-language-processing-nlp-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025.md",
+      "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
+      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
+      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
+      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "publishedDateTime": "2020-03-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
+          "width": 801,
+          "height": 401,
+          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
@@ -1082,88 +1164,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ai-everywhere-iot-chips-coming-from-arm.md",
-      "title": "'AI everywhere' IoT chips coming from Arm",
-      "excerpt": "The new machine-learning silicon will include micro neural processing units (microNPU) that can be used to identify speech patterns and perform other AI tasks. Importantly, the processing is accomplished on-device and in smaller form factors than have so far been available. The chips don't need the cloud or any network. RELATED: IoT catches on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.amp.html",
-      "publishedDateTime": "2020-03-17T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/02/heart-cardiogram-100832450-large.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "'AI everywhere' IoT chips coming from Arm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-intel-made-experimental-chips-that-can-smell.md",
-      "title": "Intel made experimental chips that can smell",
-      "excerpt": "but a team at Intel has been attempting to train AI to something unorthorodox for a computer: smell. Researchers from Intel Labs and Cornell University have announced that Intel’s neuromorphic research chip, dubbed Loihi, is able to “learn and recognize hazardous chemicals,” through algorithms that mimic the brain’s olfactory system.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-made-experimental-chips-that-can-smell-17613449/",
-      "ampWebUrl": "https://www.slashgear.com/intel-made-experimental-chips-that-can-smell-17613449/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-made-experimental-chips-that-can-smell-17613449/amp/",
-      "publishedDateTime": "2020-03-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/Intel-Loihi.jpg",
-          "width": 1424,
-          "height": 959,
-          "title": "Intel made experimental chips that can smell",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

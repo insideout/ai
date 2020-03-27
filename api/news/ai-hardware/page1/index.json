@@ -40,6 +40,44 @@
       ]
     },
     {
+      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
+      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
+          "width": 620,
+          "height": 431,
+          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
       "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
       "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
@@ -1140,43 +1178,6 @@
           "width": 2400,
           "height": 1257,
           "title": "Advent of 5G and AI Chip Manufacturing Renews the Need for Advanced Semiconductor Testing Systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-chip-progress-ai-gains-leave-intel-stock-poised-to-outperform.md",
-      "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
-      "excerpt": "I remain convinced that Intelâs (NASDAQ:) increased parity with AMD (NASDAQ:) when it comes to computer chips, along with Intelâs superiority in the vital field of AI, leave Intel stock poised to outperform the market and AMD stock over the longer term,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11",
-      "ampWebUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
-      "publishedDateTime": "2020-03-11T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?128964636",
-          "width": 1024,
-          "height": 512,
-          "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
           "attribution": null
         }
       ],

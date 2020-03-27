@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
       "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
       "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
@@ -1196,51 +1242,6 @@
           "width": 1400,
           "height": 933,
           "title": "Google Translate’s real time transcription feature is out now for Android",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate.md",
-      "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
-      "excerpt": "Google has launched its new near real-time transcription feature as part of Google Translate, which is available for eight languages. Google showed off the AI-powered feature this January and will now roll it out on Android with support transcribed translations between any of a set of eight languages, including English, French, German ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
-      "publishedDateTime": "2020-03-17T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
           "attribution": null
         }
       ],

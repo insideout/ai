@@ -591,6 +591,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-14-driverless-trucks-being-tested-right-now-on-public-roads.md",
+      "title": "Driverless trucks being tested right now on public roads",
+      "excerpt": "(CBS News) — Few are aware that driverless 18-wheelers are already on the road ... cameras and radar devices affixed to the rig feed data to the artificial intelligence-driven supercomputer that controls the truck. Price says his product is superior to others. “Our system can see farther than any other autonomous system in the world.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/",
+      "ampWebUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KLFY",
+        "domain": "klfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/03/trucks.png?w=620&h=349&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Driverless trucks being tested right now on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
       "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
       "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
@@ -1093,44 +1130,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
-      "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-      "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "publishedDateTime": "2020-03-10T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/02/02182020_train_083439-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
