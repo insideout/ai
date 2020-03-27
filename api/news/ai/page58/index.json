@@ -2,6 +2,50 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-01-22-disruption-20-how-iot-and-ai-are-breaking-up-the-business-world.md",
+      "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+      "excerpt": "Once again, businesses are under attack. We are in the midst of \"Disruption 2.0,\" and this time, the attack comes from within. Previously, in the age of Disruption 1.0, startups were spearheading the battle against established businesses.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/01/22/disruption-20-how-iot-and-ai-are-breaking-up-the-business-world/amp/",
+      "publishedDateTime": "2020-01-22T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192770754%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D177%26cropY2%3D2147",
+          "width": 1200,
+          "height": 676,
+          "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
       "title": "GitHub now uses AI to recommend open issues in project repositories",
       "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
@@ -1236,50 +1280,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-theres-nowhere-to-hide-anymore-this-ai-can-see-around-corners.md",
-      "title": "There's nowhere to hide anymore: This AI can see around corners",
-      "excerpt": "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
-      "publishedDateTime": "2020-01-21T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "There's nowhere to hide anymore: This AI can see around corners",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

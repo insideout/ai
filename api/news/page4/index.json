@@ -2,6 +2,35 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
+      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15649371",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371",
+      "publishedDateTime": "2020-03-24T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-machine-learning-the-real-buzzword-of-2020.md",
       "title": "Machine Learning: The Real Buzzword Of 2020",
       "excerpt": "Machine learning is a game-changer for many industries.",
@@ -1051,43 +1080,6 @@
         "AI",
         "AI in Robotics",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-microsoft-adaptive-biotech-collaborate-to-fight-covid-19.md",
-      "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
-      "excerpt": "Microsoft MSFT and Adaptive Biotechnologies ADPT recently extended partnership in a bid to aid public health officials and researchers to access and track data pertaining to COVID-19 patient immune responses.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp",
-      "publishedDateTime": "2020-03-23T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2130115734",
-          "width": 1024,
-          "height": 512,
-          "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

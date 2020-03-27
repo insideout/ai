@@ -2,6 +2,51 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-01-24-facial-recognition-startup-fends-off-accuracy-doubts-and-legal-claims-after-nyt-report.md",
+      "title": "Facial recognition startup fends off accuracy doubts and legal claims after NYT report",
+      "excerpt": "Clearview AI, an artificial intelligence firm providing facial recognition technology to US law enforcement, may be overstating how effective its services are in catching terrorist suspects and preventing attacks, according to a report from BuzzFeed News. Clearview falsely claimed it helped the NYPD catch a terrorism suspect last year “The ...",
+      "heat": 146,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/24/21079354/clearview-ai-nypd-terrorism-suspect-false-claims-facial-recognition",
+      "publishedDateTime": "2020-01-24T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/k9hv7Ppucrt9N28vjV1wId2fmbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66161809/acastro_180730_1777_facial_recognition_0002.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Facial recognition startup fends off accuracy doubts and legal claims after NYT report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-24-docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance.md",
       "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
       "excerpt": "As one of the earliest cellular pioneers, Japanese carrier NTT Docomo today weighed in with predictions on what 6G will look like in 2030, and they’re intriguing: 6G will bring AI everywhere, and transform 5G’s “best effort” performance standards into guarantees of hyper-fast speeds. Docomo has an expansive view of AI’s role in the ...",
@@ -1010,51 +1055,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-microsoft-unveils-new-azure-service-genesys-engage.md",
-      "title": "Microsoft unveils new Azure Service, Genesys Engage",
-      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft’s Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" Microsoft has ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-unveils-new-azure-service-genesys-engage",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-23T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1579801417_ms-nadella-satyagenesys-ceo-bates-tony-0019-edit-1-1024x803_story.jpg",
-          "width": 760,
-          "height": 595,
-          "title": "Microsoft unveils new Azure Service, Genesys Engage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

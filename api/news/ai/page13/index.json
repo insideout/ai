@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy.md",
+      "title": "Of epidemics, artificial intelligence and responsive public policy",
+      "excerpt": "Black Twitter is breaking the internet with memes, perhaps providing palliative therapy to an otherwise depressing national development ... its deadly tracks – are largely also shaped by viral videos of machines and robots that use artificial intelligence. These machines and robots are disinfecting cities, buildings, public transport ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Maverick",
+        "domain": "dailymaverick.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailymaverick.co.za/wp-content/uploads/busani-ngcaweni-1.jpg",
+          "width": 334,
+          "height": 480,
+          "title": "Of epidemics, artificial intelligence and responsive public policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-westworld-premiere-doloress-road-to-revenge-crosses-paths-with-jesse-pinkman.md",
       "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
       "excerpt": "It’s slowly revealed, however, that Francis died and is now nothing more than artificial intelligence himself, a familiar character in Caleb’s ... There were several other intriguing technological achievements I could have selected here: driverless cars, those implants everyone seems to like, Dolores’s telescopic sunglasses, Dolores ...",
@@ -1114,43 +1151,6 @@
         "Computer Vision",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
-      "title": "NYPD says it plans to use facial recognition technology",
-      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "publishedDateTime": "2020-03-13T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": "NYPD says it plans to use facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

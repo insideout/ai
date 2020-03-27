@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-17-javascript-face-detection-with-face-apijs.md",
+      "title": "JavaScript Face Detection with face-api.js",
+      "excerpt": "The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. As explained by face-api.js creator Vincent Mühler, face recognition with deep learning is a detailed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/face-api-js/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/03/face-api-js/en/headerimage/faceapi-1584401193144.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "JavaScript Face Detection with face-api.js",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-google-translate-launches-transcribe-for-android-in-8-languages.md",
       "title": "Google Translate launches Transcribe for Android in 8 languages",
       "excerpt": "Transcribe will begin by rolling out support for eight languages in the coming days: English, French, German, Hindi, Portuguese, Russian, Spanish and Thai. With Transcribe, Translate is now capable of translating classroom or conference lectures with no time limits, whereas before speech-to-text AI in Translate lasted no longer than a word ...",
@@ -912,35 +949,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
-      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
-      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001838/0/en/Cerence-Powers-Voice-for-All-New-Uconnect-5-Global-Infotainment-Platform-at-FCA.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

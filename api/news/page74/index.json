@@ -2,6 +2,43 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-01-18-how-to-build-ethical-ai.md",
+      "title": "How to build ethical AI",
+      "excerpt": "There are serious ethical and societal issues we must confront quickly.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence",
+      "ampWebUrl": "https://thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/technology/478731-how-to-build-ethical-artificial-intelligence?amp",
+      "publishedDateTime": "2020-01-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/humanoid_robot_07272018_1_0.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "How to build ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-18-secure-technologies-and-artificial-intelligence-in-focus-for-airbus-at-intersec-2020.md",
       "title": "Secure Technologies and Artificial Intelligence in Focus for Airbus at Intersec 2020",
       "excerpt": "In addition, the company will also be showcasing various projects around the use of Artificial Intelligence for mission-critical application. The latter include facial, license plate, and object recognition, which run on the Tactilon Agnet mission-critical collaborative platform integrated with other systems through Application Programming ...",
@@ -1016,51 +1053,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
-      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
-      "publishedDateTime": "2020-01-17T07:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

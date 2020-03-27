@@ -2,6 +2,35 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-17-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
+      "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
+      "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001838/0/en/Cerence-Powers-Voice-for-All-New-Uconnect-5-Global-Infotainment-Platform-at-FCA.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-axon-announces-three-new-members-to-ai-ethics-board.md",
       "title": "Axon Announces Three New Members to AI Ethics Board",
       "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, announced today the appointment of three new members to its",
@@ -41,25 +70,25 @@
     {
       "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
       "title": "With painted faces, artists fight facial recognition tech",
-      "excerpt": "They’re two of the four founders of the Dazzle Club, a group of artists set up last year to provoke discussion about the growing using of facial recognition technology. The group holds monthly silent walks through different parts of London to raise awareness about the technology, which they say is being used for “rampant surveillance.”",
+      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.html",
-      "ampWebUrl": "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html",
-      "cdnAmpWebUrl": "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html",
-      "publishedDateTime": "2020-03-17T03:32:00-07:00",
+      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
+      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "publishedDateTime": "2020-03-17T03:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Winston-Salem Journal",
-        "domain": "journalnow.com",
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/4/9d/49d157b8-e91c-5627-ab5a-25446ae50b4d/5e42e4e96835d.image.jpg?resize=1024%2C738",
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
           "width": 1024,
           "height": 738,
           "title": "With painted faces, artists fight facial recognition tech",
@@ -1103,43 +1132,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
-      "title": "Now AI will understand language of business",
-      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "Now AI will understand language of business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

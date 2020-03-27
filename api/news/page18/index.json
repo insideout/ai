@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
+      "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
+      "excerpt": "BENGALURU, India, March 13, 2020 /PRNewswire/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services report 2020. Infosys emerged as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
+      "publishedDateTime": "2020-03-13T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
       "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
       "excerpt": "swept from China to the rest of the world, emerging technologies such as artificial intelligence (AI), data science, and other technologies were thrust into action to help humans manage the crisis. Here are 10 ways technology is being used to manage and fight COVID-19.",
@@ -887,35 +924,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-how-ai-could-help-translate-the-written-language-of-ancient-civilizations.md",
-      "title": "How AI could help translate the written language of ancient civilizations",
-      "excerpt": "But a technological breakthrough at the University of Chicago may finally make automated transcription of these tablets—which reveal rich information about Achaemenid history, society and language—possible ... Krishnan applies deep learning and AI techniques to data analysis, including video and other complex data types.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.html",
-      "ampWebUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
-      "publishedDateTime": "2020-03-12T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

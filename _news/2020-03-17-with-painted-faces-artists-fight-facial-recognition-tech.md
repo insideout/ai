@@ -1,27 +1,27 @@
 ---
 category: news
 title: "With painted faces, artists fight facial recognition tech"
-excerpt: "They’re two of the four founders of the Dazzle Club, a group of artists set up last year to provoke discussion about the growing using of facial recognition technology. The group holds monthly silent walks through different parts of London to raise awareness about the technology, which they say is being used for “rampant surveillance.”"
-publishedDateTime: 2020-03-17T10:32:00Z
-webUrl: "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.html"
-ampWebUrl: "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html"
-cdnAmpWebUrl: "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html"
+excerpt: "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face."
+publishedDateTime: 2020-03-17T10:49:00Z
+webUrl: "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html"
+ampWebUrl: "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html"
+cdnAmpWebUrl: "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html"
 type: article
 
 provider:
-  name: Winston-Salem Journal
-  domain: journalnow.com
+  name: The Press of Atlantic City
+  domain: pressofatlanticcity.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/4/9d/49d157b8-e91c-5627-ab5a-25446ae50b4d/5e42e4e96835d.image.jpg?resize=1024%2C738"
+  - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738"
     width: 1024
     height: 738
     title: "With painted faces, artists fight facial recognition tech"
 
-secured: "q3Qgri8b4cP31bN+e7xuXoU+ry/6Z2gIOiOlOU4O+teOcQ20Ex09DxK4eQi8b7xPWtuqEcD8viaXJbq32uxVR9vJZUsgClUHrhwE4uoWhek/dBcFb1NwdxD2Kr25Jg3JmCEWbWyjcR67d0JstFMnImtyLkHoK6Y7aY4xbtn2JRIeIxKRSebRhiFF4te8LN4qefqxB62pI/cHX5ITKoBn5hAjg/7x8RFw3Qd5OELkzuoSVQ48J/aHoLrvmPD+VcqJr0ZaFERqO/5B4FVUxD3XNlh1kAGsYI1HvBxaPgEyf5zfHN2R+vQG5UFtMz5FOcVw9gYjeXfN3gvEoSH2fm+Tfb2Wl+YdPlDwxVORZrtiWnr1Gi35bs+PPFo0u6+Y4Gaodasns6OUhwccGinkkbNowINIzQtvFkfbNdFECIjMROQg8Gct8VQTsp/+UwCb2CMMe5xg+KPbF8bPw81QRvVJVOjxjVhmRCsrtBQKu8Kqf6Q=;Mzg+VEzohNxMzYlfcvfFTg=="
+secured: "UUAQH16zKJmgC+OVYvX5Fkaadl2DwMZoZPEhVa2hJIkRp93it91cJqJNB192wVkwLLbyAkovjiEEGN/ZRmA/jD0ZSRF2ZSxgjYj0uk/+Be+qwVucUi3EJxHkvnmvUZ1JitE8zN4tmA2rJxR0plAoEjUmfIVUH382XjnIaMD6Ftz5anpo8qfg3LmZ6SMj7eyKZqHsIQ6z11M55IEouqL7WG+Vg2hZW9FkWiRG+ctVkzeNae/YeYLZUP/LvCSgZMiwlH5TSbLYfGV04DdhJH8UNCr/BcgdepX1tCGfKbsE6eQ7nAzCYGSKp6FmXY3F0igp;XCQG1jmOuS44iLCoNFH2og=="
 ---
 

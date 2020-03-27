@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-23-microsoft-adaptive-biotech-collaborate-to-fight-covid-19.md",
+      "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
+      "excerpt": "Microsoft MSFT and Adaptive Biotechnologies ADPT recently extended partnership in a bid to aid public health officials and researchers to access and track data pertaining to COVID-19 patient immune responses.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-adaptive-biotech-collaborate-to-fight-covid-19-2020-03-23?amp",
+      "publishedDateTime": "2020-03-23T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2130115734",
+          "width": 1024,
+          "height": 512,
+          "title": "Microsoft, Adaptive Biotech Collaborate to Fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-nvidias-dlss-20-details-better-graphics-made-easier-with-ai.md",
       "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
       "excerpt": "DLSS 2.0 (Deep Learning Super Sampling) might be just the game-changing graphics technology we need at this strange point in history. DLSS 2.0 uses dedicated AI processors (Tensor Cores) on NVIDIA GeForce RTX graphics cards to bring boosted frame rates without the blurry textures that usually come along for the ride. While DLSS 2.0 works with ...",
@@ -1018,50 +1055,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
-      "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-      "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
-      "publishedDateTime": "2020-03-20T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/flatten-the-curve-cdc.png?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

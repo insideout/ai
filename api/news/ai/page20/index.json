@@ -2,6 +2,43 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-03-09-tensorflow-quantum-software-combines-quantum-and-classical-machine-learning.md",
+      "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+      "excerpt": "The collaborative effort resulted in the creation of an open-source hybrid quantum-classical machine learning software platform, called TensorFlow Quantum. TensorFlow Quantum integrates Google’s Cirq and TensorFlow and will allow for the rapid ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/tensorflow-quantum-software-combines-quantum-and-classical-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg",
+          "width": 640,
+          "height": 480,
+          "title": "TensorFlow Quantum software combines quantum and classical machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-global-voice-and-speech-recognition-technology-industry.md",
       "title": "Global Voice and Speech Recognition Technology Industry",
       "excerpt": "NEW YORK, March 9, 2020 /PRNewswire/ -- Voice and Speech Recognition Technology market worldwide is projected to grow by US$15 Billion, driven by a compounded growth of",
@@ -1055,51 +1092,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
-      "title": "Application of Computer Vision in Precision Agriculture & Farming",
-      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
-          "width": 1200,
-          "height": 813,
-          "title": "Application of Computer Vision in Precision Agriculture & Farming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

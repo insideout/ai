@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-20-raspberry-pi-camera-with-smarts-cloud-or-local.md",
+      "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
+      "excerpt": "[Mark’s] first pass was to use Amazon’s Rekognition service to process video. This allowed the camera to actually be smarter about what would trigger a detection event. In particular ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2019/03/07/raspberry-pi-camera-with-smarts-cloud-or-local/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/03/cam-1.png",
+          "width": 800,
+          "height": 450,
+          "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
       "title": "Domo Announces Support for Amazon SageMaker Autopilot",
       "excerpt": "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ...",
@@ -27,8 +64,7 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
@@ -970,42 +1006,6 @@
           "width": 770,
           "height": 578,
           "title": "AI: A Guide For Thinking Humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-can-improve-colonoscopies.md",
-      "title": "Artificial intelligence can improve colonoscopies",
-      "excerpt": "There are more than 1 million colon cancer survivors in the U.S., according to the American Cancer Society. That number is rising because doctors are finding and removing more precancerous polyps during colonoscopies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/health/artificial-intelligence-can-improve-colonoscopies/article_7732fc5c-5ca5-11ea-83be-2bb7cb94b861.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/1/2f/12fac9b4-6063-5a8f-bf96-974744138e5c/5e736ce857ed7.image.jpg?resize=1120%2C630",
-          "width": 1120,
-          "height": 630,
-          "title": "Artificial intelligence can improve colonoscopies",
           "attribution": null
         }
       ],
