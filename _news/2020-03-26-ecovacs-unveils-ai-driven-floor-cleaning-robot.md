@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-26T16:35:00Z
 webUrl: "https://www.dealerscope.com/article/ecovacs-unveils-ai-driven-floor-cleaning-robot/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 750
     height: 562
     title: "ECOVACS Unveils AI-Driven Floor Cleaning Robot"
-
-related:
-  - title: "ECOVACS Unveils the DEEBOT OZMO T8 AIVI™: The World’s Leading AI-Driven Floor Cleaning Robot Just Got Smarter"
-    excerpt: "Press release content from PR Newswire. The AP news staff was not involved in its creation."
-    publishedDateTime: 2020-03-24T12:00:00Z
-    webUrl: "https://apnews.com/PR Newswire/e74115a8e89f7ffb5a06a6d6dfbda1d5"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
 
 secured: "4Br6ckuAFhfs5P0Dx7/lqRgGNw7czdwXsFTGNBCBD6AuoNDCtkDHG9CKjI8Q47koxj1d2w1w8OI33iTx1WTT7PSXGgBVrCvR/OU2MotzfrM8IIv6ZLR0pCXrXcgOUoovy05pK03nietfGxIL5rYPL6sXoeu7/zcUj3snRjaSACGdLfq545n2DuXIloFfaTSYjBZc0N6BCdST1I5V/hWY77oq2+GQNqLe7VmAoMPaCkr/35FLc+NMY1lDytrYQKbQNyaoYm9Nfn1XNfQgoIyh8yuy+8zTA5T/qyovX37MmJsWqcGiPaarK1EL7yxHN85q;Gen5PjDdXLB8uMUIMnupgg=="
 ---

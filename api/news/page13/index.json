@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "They’re two of the four founders of the Dazzle Club, a group of artists set up last year to provoke discussion about the growing using of facial recognition technology. The group holds monthly silent walks through different parts of London to raise awareness about the technology, which they say is being used for “rampant surveillance.”",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.html",
+      "ampWebUrl": "https://www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html",
+      "cdnAmpWebUrl": "https://www-journalnow-com.cdn.ampproject.org/c/s/www.journalnow.com/news/national/with-painted-faces-artists-fight-facial-recognition-tech/article_51674148-7b4d-58f6-9b88-889067c4f3ff.amp.html",
+      "publishedDateTime": "2020-03-17T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winston-Salem Journal",
+        "domain": "journalnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/4/9d/49d157b8-e91c-5627-ab5a-25446ae50b4d/5e42e4e96835d.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-mccs-azure-based-ai-solution-detects-eerie-silence.md",
       "title": "MCC’s Azure-based AI solution detects eerie silence",
       "excerpt": "After two years of careful design and another two of intense deployment and ongoing refinement, a sophisticated Azure-based AI solution at the Melbourne Cricket Club (MCC) is possibly feeling a little confused by an entirely new and unexpected sound triggered after teams score or players are dismissed on the field: crickets. As the coronavirus ...",
@@ -918,43 +955,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
-      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
-      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "publishedDateTime": "2020-03-16T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
-          "width": 512,
-          "height": 512,
-          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

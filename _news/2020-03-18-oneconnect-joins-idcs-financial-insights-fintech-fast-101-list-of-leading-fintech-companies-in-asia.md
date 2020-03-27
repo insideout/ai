@@ -20,6 +20,6 @@ images:
     height: 627
     title: "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia"
 
-secured: "pLFBOES/Tshv57LgY+Szd9nj4eJiYLqfPVgk3MI9Hp3ySxW/eI6VjDJ1PTUZm/Nn8CqLsqNMgJVYfrVKWZiAJz35OKG6aDmXF4FeDium0HUt67LlIdc/Cf15MbQkDauPi4Ha+l/V9GID6CE+PKoECIhpfaR1OOQ2F1CyRpc5z9dyEovJgu1q4Zs33yWwgkrXHTyyJGsochPiBu3+1iegq2v5HrCGHzFO+NEFbNzzscgFcoaIrAQkXVkkvUeccraDKiAVLp0xCr+nG7zv0vGPODdKO3bIXavzhrTAa9FyRoB+jQcMGo3GppTkXFEMArQp;vhUCjmnDBmBgiR64ZXcnRg=="
+secured: "CWC1i0zlXAT/0pvyKALWgxpm9jVde33OwBBNtvy4AZpwXzFeXKnteKe/f2P274uyFvo+AnoRxqsoImbu+P0Pl++vtkDuw1RQdmEKAGZNF7BbZ3h3kDHo4qGzEgE/NxKWMxrHGHCUNDDZh2M8qwuc3MAaXJLb48wY0lmNyYxBuIZtcvCeUVpHueH8SYG+e8W7ejleYWiQXaC/+vzJvrylTxpVSgvlB4rNEi1i7eRQiYq/1zQ3xYZJC8QRZutkQyLX1b3NzaZ2pFHVReNgAdeWg+sjYeKQud5ekqt0gbPL8cO7O7as+FZxGiRqHuHBZ8Y50/8pokdwjKBnWBihVyqKvuMo/P4w4P7/qktCRNJDS5sZrR4XmSK134f3qpsZNQl59lOw82eZyAFLnW33Y+yax7vLCxgYc+b7Nx/Ft4GMJzCeQLkfmbgqeS6/tzmClEY37kS+BG+rqXoHMrNQYO3FDM4cJtzn69nZJz+KpJBu9Vk=;+b+bgjAb/bDlUq/+hnmLag=="
 ---
 

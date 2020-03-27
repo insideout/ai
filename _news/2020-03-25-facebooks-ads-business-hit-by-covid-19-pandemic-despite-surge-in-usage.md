@@ -25,23 +25,6 @@ images:
     height: 630
     title: "Facebook’s ads business hit by Covid-19 pandemic despite surge in usage"
 
-related:
-  - title: "European Commission hits out at online Covid-19 scams, writes to tech platforms including Alibaba, Amazon and Facebook"
-    excerpt: "Facebook, the world’s biggest social media company ... Alibaba is the parent company of the South China Morning Post. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$400). This 60-page all new intelligence report gives you first-hand insights and analysis into the latest industry ..."
-    publishedDateTime: 2020-03-24T12:30:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3076767/european-commission-hits-out-online-covid-19-scams-writes-tech"
-    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3076767/european-commission-hits-out-online-covid-19-scams-writes-tech"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3076767/european-commission-hits-out-online-covid-19-scams-writes-tech"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 20
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/24/5c1a81be-6dc2-11ea-b0ed-5e14cf8eb9e1_image_hires_195037.JPG?itok=od9Cx7ju&v=1585050642"
-        width: 1200
-        height: 630
-
 secured: "IECejQsgjtBMtI+Eqzkroh4Epokc/4Q1oxc366UFcPuuN2rgEXM3RacuQ42DLI7p6eG9UvJ0TIdP0LaExk6TErAw1BPrHwjcW5rMsvWZgv5eRzbuGKwb9XXd7zYYeWUrUtPMkM6qCog8pJZbwxZ/Wu009Dj+9Pvc/7vroU4bCC+Mxltbg5CHHOdFbJUAjc+JrjBq9HhQBi2s7p5NJuPRzghWqmNjqwP3sP0RUyiIngyKf5t+FZdflVWNzTUkUCVNhDI9r8SttsquiJ6L9FaGzmQCJV9ZdA96Q9E3TBfId6jsrgTvAdcshudhnGJU5gWTkxPQXsGjt4wNEeKiI2Mb6pV7IM8GJklyTIBTkWTM7StluJFsnf2a5Yf+u6MetGL/xhs1Z2B7Cp+KU7zKv9Dl4TPmJndhfl3OZPmjiZGSosJIr3MTt3Lt4y8CIIUwjRupO9swYU77pbCAZdMBGm6g1J5M4MV83IlJfgswst3xgrM=;BLhbrA2tqk4ueUQ2KdIosA=="
 ---
 

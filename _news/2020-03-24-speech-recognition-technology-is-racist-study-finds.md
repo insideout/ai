@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/03/24/speech-recognition-technolo
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 796
     height: 417
     title: "Speech recognition technology is racist, study finds"
-
-related:
-  - title: "Amazon, Apple, Google, IBM, and Microsoft worse at transcribing black people's voices than white people's with AI voice recognition, study finds"
-    excerpt: "Previous studies have shown that AI systems like facial recognition can become engrained with racial bias."
-    publishedDateTime: 2020-03-24T13:21:00Z
-    webUrl: "https://www.businessinsider.com/study-ai-voice-recognition-racially-biased-against-black-voices-2020-3"
-    ampWebUrl: "https://www.businessinsider.com/study-ai-voice-recognition-racially-biased-against-black-voices-2020-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/study-ai-voice-recognition-racially-biased-against-black-voices-2020-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/5deeb975fd9db22c100c5f33?width=1200&format=jpeg"
-        width: 1102
-        height: 551
 
 secured: "SJYcVt+po1CZXdZHpJpyPpqOxYKQu+LLUgMCR4lLacxHkbzCpnpFxeGcW2FrIuoRWB+S75uTg7cqrX9nmIUwvQ5xUrXLM9kb6UBEtz6ua4jSJyxKMHhMIMyz6XXGl1bGyuHNK628EuuFD4FWdO/yZjxoZxSRVgA4u8VvANObh8Pm5yJgJQzuk/OqaehJZKZQUOohM49UCbXdD+B5Di9up4J/smMbV0G3yalKRHKkdTJFrH1KBpvRj9vCkS5TjOiFVoAbo1NUhjfPm/qJx81eCzi+mim5W2y/6R/kafLZBH1qCPnrpamxLWyQ+ImnaL3FawCVx3489zGD3zPipektAWhtZkqPH3O2ByF7DPb4bYaep1z1BucAIPHHuQa45US9RJAgBELBdo/uOnZRfyf6OzRVS+wjJVE89OmscmdF0eCO8owTGxlpO6BTMAmhkDqTjTfJ6hrgUeFNGo6JmJRa5LWRcx3LwbWGAV5RxbKCE8U=;hYgyi0Ha5bcvsJsP9VDJ+Q=="
 ---

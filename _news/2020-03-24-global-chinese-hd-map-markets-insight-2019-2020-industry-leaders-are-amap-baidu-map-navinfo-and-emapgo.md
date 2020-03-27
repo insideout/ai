@@ -7,9 +7,6 @@ webUrl: "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-h
 ampWebUrl: "https://amp.benzinga.com/amp/content/15649371"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371"
 type: article
-quality: 20
-heat: 20
-published: false
 
 provider:
   name: Benzinga.com
@@ -19,6 +16,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "qltdKGUmJEoPZVxkyZpItmnfiYt8PfRPT0P/DagPmowDZv0jgxgaoBFdqWnca24tjlqy+vh20Jnt//KElpzZedqbRKoIN7rm2ie2KXWkiWLNF1Nf1ViJunq+9RcjEqXL0R/3rTLwGuh0/ZowWzirtVJ6Bkx61HJr2kUrJqAr0H7OuZTdHkkzcS2K23ZNjm5JoJXiMz4bLJ5ZS+LLbcpvTJMcZWCFbmbk77Qj+FqXFRGAd2LqnR8n0g62C/zWra1+0wYvzOzlG+0sn4Xl5KwVAgp0u8oAIymb7fPLLdfnjjjoNwAaVoAoB6ZnxS7W++Bf;ojsT+vPaTi/o81xE6TtP0A=="
+secured: "J/uOABVhCl4gCQRm5LX4NqeGQYl1QAGm1Nt359biArJ68wGaIHkW5rczx3+K1r0z+QQ+cXO2pMvtd0Fx09Rh17OlSpNaMjZSHnWITE1rPZzDK2bU4rWyBI+1B5A0bCRb5wZVvX23Pcu+odEtPuszMKD22cAoWIRYxQ0yrBg6T7Ijkmj4v/nEksFvcvvbqFnJ7lPxstvN7e6mbB1KS3boY4fo06qALIJhYXLDC0gnjQPN2vVKp169NeYQPuq2+X5iX3VkBem7+p0OeQCfgffoPpMnqfxEtzwbwR6U5yrYt4sznteqekDsB3bnDhyR9zzh;27EgEAYeq09ux7KS5JYbzw=="
 ---
 
