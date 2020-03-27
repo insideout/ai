@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-27T08:32:00Z
 webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-medtech-startup-is-using-computer-vision-to-provide-ayurvedic-healthcare-solutions/"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -24,15 +24,19 @@ images:
     title: "How This Bangalore-Based MedTech Startup Is Using Computer Vision To Provide Ayurvedic Healthcare Solutions"
 
 related:
-  - title: "Analysis on the United States' $3.48B Healthcare Fraud Analytics Market, 2027: Artificial Intelligence to Provide Robust Opportunities"
-    excerpt: "The \"US Healthcare Fraud Analytics Market to 2027 - Country Analysis and Forecasts by Solution; Mode of Delivery; Application; End User\" report has been added to ResearchAndMarkets.com's offering. The US Healthcare Fraud Analytics Market is expected to reach US$ 3,"
-    publishedDateTime: 2020-03-27T09:18:00Z
-    webUrl: "https://www.globenewswire.com/news-release/2020/03/27/2007473/0/en/Analysis-on-the-United-States-3-48B-Healthcare-Fraud-Analytics-Market-2027-Artificial-Intelligence-to-Provide-Robust-Opportunities.html"
+  - title: "Aisera offers AI remote working assistant to healthcare providers during COVID-19 pandemic"
+    excerpt: "Aisera, a Palo Alto-based Artificial Intelligence (AI) solutions company, will provide free 24/7 AI technology-based assistance to healthcare providers and government agencies during the COVID-19 pandemic. \"The overwhelming amount of inquiries are beyond what staff and current tools can handle,” said Muddu Sudhakar, CEO of Aisera."
+    publishedDateTime: 2020-03-27T17:01:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139981"
     type: article
     provider:
-      name: GlobeNewswire
-      domain: globenewswire.com
-    quality: 2
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 44
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
 
 secured: "qDPhCnAE+NMQMo5wlKRHoWbT9YHUTdbYR74U2M1MRs83/LD+KmjByTaMypMwO3IUfzJjmtJq5iIO6FYvbmbzPJbtMETF/O/NsQx9XX/mHuwrbeM5u5txWBOBfiR1n1eqUY4oz7qJITBJg7rz3bKEWvOjcltivckSdClP5mPcuh6LTa4fohTR1QPRAsTy6wL9CUISd3c9kHdMC9x6AX2StOCXJxCEQ3lq6QWGqNlPI3UdAEmuXAhBpGmGrXLUCwMyG4DhLyZyWN/tL+1+1IKSmlWk4FqKtdXmhZhPavl9jMN/C1aQY6L3JBo5bwYJfMX6fraJDaj6M9/WmQkqQhevfeF3eot6ZlWwnqmrNQXs3lxc8NwlrSQhsyo0/123NUT32gCIx/xy741WLjFnKlnefDOu5gz0afT38WjfqDh6qccbiXRh4ia2Zt9+rwYF0xS8LmvEXdK1erb2FThUl7LwQ/wCKkhQ2UVAOjxD8pRfUDc=;2Ny1KROVgt9Wo62gF3n5Mw=="
 ---

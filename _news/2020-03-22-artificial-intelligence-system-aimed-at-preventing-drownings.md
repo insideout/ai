@@ -20,6 +20,6 @@ images:
     height: 630
     title: "Artificial intelligence system aimed at preventing drownings"
 
-secured: "WcWYFKO6E7Rul/DjB6jt4GVp3/ftZPhWD/inAlyhbU8pQqY2uQ4jbyJUFyj6RB94S55EER+ZpmYSXcuStdhB06nM5AdVo4oVNpMPH4T59K+66lnZHiTTpjpciyjuN9BnUKEmA7SGfmnHAWU3HobkyzevRB5ASla5L59bkT/tDJo3gEEsYpTzd+wFB/j+3LGbG8UllTo8CMu28isb6XptpS2ANkpBtGLKgBM+Uz0vSpw1nTCIo4LcV316VTko+Js0qJWwesLW/3pCWmEpOT2BdWFjJKowAlivM9jql2/Zo2J7vTwfrUCZoQwORhPMJmxq;yuWHIg5PH4rCG3jjZzq2JA=="
+secured: "20hZ/qPp3zBHX+X0z3D8O39udWz9RrcoGk//Y02KRoqPs4dcE/CZFPsoIsM3OriXbvGuZZWGEBebrZVUpjWiMlsm5Cn+hiDmp7VX8yZ0KPoPkSeQNQ46GysbxF4aA8NHsksNOvPgly5vLxD/mDUizhm+iGAhKrT1uyMb3KSihg/3Be6IZ05zRiaDI/fwWlAD2drrj7ax1ZRZbk0mG6pWnr0Hd1NfyXe06f1Se3ztX6BU4H+eRE1Flm0iUU+Z46i+Yk/O/NlVwBw+GcHrnTdT1f71wP+oiqNH8kF3gmWOG5Rti0/qJdR+KbrGvEpzz4x/64r+25aJhkDOPP51vzHMBGNPg1EZBvJ/UhSXRpH9903ztXiSu0mKORNHZEcJf4sxY7Tn3WsdezZssBhv8mQ/8a/s69QfWxOW2GFeRU1pWIiLMrLt5Rkl/QBR4FleYIo6aPd5Y/A7mTCkAtZEWisaCUdcz034FKEZlnTIWVagSHg=;zDBjUfGeW7aN0ASt6dLZPw=="
 ---
 

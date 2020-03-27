@@ -1,22 +1,21 @@
 ---
 category: news
 title: "Shopper Marketing Hall of Fame Inductee Joins Leadership Team of Rising FinTech Company Leveraging Blockchain and AI to Transform Retail"
-excerpt: "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a “Top Ten Mover and Shaker in Retail,” Karen Sales has joined the leadership team..."
+excerpt: "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a \"Top Ten Mover and Shaker in Retail,\" Karen Sales has joined the leadership team at SKUx as Senior Vice..."
 publishedDateTime: 2020-03-24T13:00:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005543/0/en/Shopper-Marketing-Hall-of-Fame-Inductee-Joins-Leadership-Team-of-Rising-FinTech-Company-Leveraging-Blockchain-and-AI-to-Transform-Retail.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/03/g15650351/shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15650351"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15650351"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "HNbVgG01RH3OVq2jBGmRR2mUAxPQxyYUE1b8SuAdhry7rD08zy4QP4rs2J3/onmMgHF/9+XhBCMIQwrSkVl8Gg+Z2FvotZEakuVyQEDo3F8A2JmsHBoaiZKxAroDjmuOHJbqyNNsv46+h8XdOnMDlUfm6joqQpt/cYmqP8fp3sVyI5RacLkScViYqdXlQZylG4/5KYk9xxsvsKsUSpGRMuoap6b4iAyZEbv3GBknOZRn7VD2ZQVF6t2sWe2OmfDrKdE7Nsr1n2FB1qP2ALimFH6JjtZZZJh8S8UQFCJW+apEikcYS2fq+E08oXN6ka6c;YJtX/SASgykgo3YvuYpTcA=="
+secured: "04sFiI6PXW691rdziNzOKNxPZ6pxNTVbSSKhsnGkdEt94visRZUvHwUCpAzk7kW84JEJF9YoT/JwZsO9bee7tSECWWCiCzw04uITj25XdC3pTUI67JUNH1XT65nMiCtpS5rVY+AQCqWMdGwzsF8O23yOm22yxHZbVHbb8TxZTdOOJYOI2EiEZNMOFf59/07w+GpX/fcp97wEKZLKHrHlp1r+kga62D67c79lS6C2LyMNGRr6gcthy0+BJTArr1QBwDDhLuGgTvbWm+EKqYPypwsSVF0HnzLYS8wO3mbkw2YYxxn3RUoiaSpIQKwaMaSF;YHNDqjCsdIU0CF+cycTa7Q=="
 ---
 

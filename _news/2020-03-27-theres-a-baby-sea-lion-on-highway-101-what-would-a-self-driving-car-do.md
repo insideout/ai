@@ -29,6 +29,6 @@ images:
     height: 762
     title: "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?"
 
-secured: "+Mm6vMNX9yyCVdWGKQ+Z4OjmZ2aheCGUR/0oZufvZaWG6+2Hq5WIJ99wGPPOkQIXkDnpRHaU2jHbAlQG/TNXbKJmpyoDQjGEysNnPGbaThmP7mmCXyNR9clP+ubFXIzMPjzf0c/QFNZAQrzzVNc2KxMi8yQGRqAol7PpWc1zUsDcMoJ7vS3Hh59NGHbaZZkk9CRUD56v0hs8vJA6CKUApCyoC7cgp/t5aloRsMVOV6IWF7Q00E4VFBOmvaaTEt+RA1kP3Ri5UuQfpWk+BIGAhwrpAPJ1WllZngnMKskFBoO8+z8/ok3XBuGUphvbxXXY;YoiMZd5by8orG0b8MZ9yhw=="
+secured: "PX8Xlp7kUpGBwH//T7j8tI+F/tJNrPRNWa9VNioId7p/yj/Kr3BopL/qzjQ1AJMWwjD9GBg926nGJNEEF0fg3I1GieT7+HxZS243XOnoJ+YgXJbErPyrXddmtixaTHmKqzk3JCsnkPQ/sFk5Sl0XipAH/5WbyutdOHLmI1qsdP9pnuvY/pcdizwE4DhlAXW5/4o9HQviCl2GYN2yXs91eISBtIMO4vLLSS5RMyJmyHPniCRUWgC4D329opgmj+/sxpGM6n8NqsvdkwjRcKDMwGQSE+vsMJBfG4dnkvA4TXEWmxfiiXhh3B2zpui0yR+Vbhh5T8u3nY6bCAZH4EHBiy9ZgGhetZgI55yos5pb/A7zeJJRNBLHIvnwh3BJGV5MtmyBC/PoVVBazmgnwjzi+ZDtg8+s6CaqX04WH0psl4keOcHwTjAJy17BpyPZbxuktA7m8OO7cD4QoP2iAekvwgKvjrbLAVp869+Wko1lDgQ=;KGg2WriTvBnGAPbiKQTBSA=="
 ---
 

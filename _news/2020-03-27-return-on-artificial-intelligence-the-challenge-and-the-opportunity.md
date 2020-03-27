@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artifici
 ampWebUrl: "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 980
     title: "Return On Artificial Intelligence: The Challenge And The Opportunity"
 
-secured: "q3Lp7Y412+RmCJsZBevXufEulYICm+XJo1p8RuG62Yq4nqvwpAZMzAbb9UeuFEl7RMVpHecQbIMtdtPJbkDCarkackep0/q0MGyB2kY4n1kyo67jpV6gx/RnAT2Pi5o0kbwSGYB1d/NKK+dwZv8dy7MHNerNhE2GFS57EcYq8siTuPAP/mH8foiH/bhsA2U6tda9I416IrDKDhV6B14I/s//LLJUz6kHp08m2r3HGwADV5+cH4s6OYgnT42L6wS6Xug1f1roQBlgLPPUexhCaDnj5rmWCI2hn2+uy8WVfENeDz5xj+biPmnv5hdkdG5A;2YJuryYkwYBm4Vrk9qwuuA=="
+secured: "Lra0kjm0WCJXipqxQd94J3Gi0un+0gj2a7N/wZLsBE+3V90pYTYOeeXfW5pdNVkp1zbzoUOpkYmEa9DVpVGsiA04sDl8vKypIfnDQQsRV6p85ZdpKCkHKbJuZrjP/J6HqcY/TjOAkmMwy2frYsxA9fP//bkT1yPrImL/fnPd8fSlW/xrLLQl0cvbiRBV0POGWevhaC26toB5OJ/AbVtiDPShP33pOIbbwoEEIftC/R0so2gw5diutBqKjre3p6Xb6ZEvKddnd+YNEwbBhSzkMd//LB2fKWEBMsBFDU+m/nJk5FEbdujZVDrk+SHNDwu7MBZzYrCctwi1IN0KTjBUQIAHStZkaaVL0K39vdvpmtAKhvglSBjmGZqD8K4RSkpBV6BjROfC945x3Y12Ef00ebWs+ZGLbcJ14EX20tKY2L0C15NUjCveGANLGKImPZToooAMOFtj04KKYgzH7ZrH81gW7my4gPQJG3wGqsr28jk=;aaSTLsolJ7gDnO0KRJ4RFw=="
 ---
 
