@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 567
     title: "iPad trackpad support is just the start of iOS 13.4's great features"
 
-secured: "R0SHX+3vZsb5IpRMupIl0SaH4dKDeF8TXHKMiTgMbTQm/eAR5z5UzCWZLKDRGW83BS2eyY7FwUP4sNCRP8pxfkmFmSbNxVozBYj8uZeKpJJPvaHTD7sWXHsVzt11UjHK8DX6g9BC5ST4Izp+UCI62L8yXdLD+m8wKRbvWa+mKYdvUIsdcLzcV9VVZOkomOxxSMg51vnl2pqJLMkDus9nI0I7M0NZNvD9PSepahk8q7umKP34hrpeAqncsUVT+0cBYqrVi0KlYU2D7UZcNUdwoWXxmSm/pFNdlm1l1srOLh/aXCwiMqYwp4SzadmstjJ2;RTrf7xFDJqAVt2BOF+n2jg=="
+secured: "erVASmhQRaP+Tr9P51PUQqdO2GGjwoqv+LdJ6mUJaQLF+ymLxQArQy4HklhJoKRkM8Wd0hsZwc5JUW0zmpKTJsqKb/dgVkNoRfFSCoF1gvSd86Kct0801jZ7vfdJpckRSdQwdzMVCKhr0cd+p6SVF38K9APu3f5DxIyUwaAtWjk6GFNKYpUBAruesv3+RbP50TNE1KiVzAuER9WonKhYsLPvvtQ/4azwCRiETFmObCuyBKvrHCJ34cs0qxxC1miysU9C+OE8qxJAza5weOnYREYlOXwmFHmNBl15pW6ks33xCEnjFmgnaIlKE1+PokA4;012ijwpi5iuDvMqEnB9BLQ=="
 ---
 

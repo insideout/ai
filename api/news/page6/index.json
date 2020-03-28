@@ -2,6 +2,52 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-23-there-is-a-racial-divide-in-speech-recognition-systems-researchers-say.md",
+      "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
+      "excerpt": "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
+      "publishedDateTime": "2020-03-23T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80.md",
       "title": "Google open-sources framework that reduces AI training costs by up to 80%",
       "excerpt": "Google researchers recently published a paper describing a framework — SEED RL — that scales AI model training to thousands of machines. They say that it could facilitate training at millions of frames per second on a machine while reducing costs by up to 80%, potentially leveling the playing field for startups who couldn’t previously ...",
@@ -1032,51 +1078,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-amazon-and-microsoft-join-white-house-team-to-unleash-high-performance-computing-on-covid-19.md",
-      "title": "Amazon and Microsoft join White House team to unleash high-performance computing on COVID-19",
-      "excerpt": "(ORNL Photo) Less than a week after the White House’s Office of Science and Technology organized a consortium to focus the power of artificial intelligence on addressing the coronavirus outbreak ... companies technical support and promotional credits for the use of AWS services to advance research on diagnosis, treatment and vaccine studies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/amazon-microsoft-join-white-house-team-unleash-high-performance-computing-covid-19/",
-      "ampWebUrl": "https://www.geekwire.com/2020/amazon-microsoft-join-white-house-team-unleash-high-performance-computing-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-microsoft-join-white-house-team-unleash-high-performance-computing-covid-19/amp/",
-      "publishedDateTime": "2020-03-23T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/200322-summit-630x504.jpg",
-          "width": 630,
-          "height": 504,
-          "title": "Amazon and Microsoft join White House team to unleash high-performance computing on COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

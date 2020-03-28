@@ -2,6 +2,38 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
+      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
+      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-processors-best-suited-for-embedded-vision-applications.md",
       "title": "Processors best suited for embedded vision applications",
       "excerpt": "Plus, there’s only so much real estate inside your device. Manufacturers have had to make processors smaller and smaller so you can bring embedded vision along for the ride. Computer vision technology typically uses a central processing unit (CPU) and a graphics processing unit (GPU). Manufacturers have realized that there is a need for ...",
@@ -894,43 +926,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-create-no-code-predictive-models-with-azure-machine-learning.md",
-      "title": "Create no-code predictive models with Azure Machine Learning",
-      "excerpt": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code. Training a machine learning model is an iterative process that requires time and compute resources.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

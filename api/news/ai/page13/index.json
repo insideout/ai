@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
+      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "publishedDateTime": "2020-03-16T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
+          "width": 730,
+          "height": 395,
+          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-yunqi-partners-and-others-inject-rmb-200-million-in-b-series-funding-round-for-robot-company-keenon.md",
       "title": "Yunqi Partners and Others Inject RMB 200 million in B series Funding Round for Robot Company Keenon",
       "excerpt": "BEIJING, March 16, 2020 /PRNewswire/ -- Robot startup Keenon recently completed a new round of financing. Source Code Capital, Walden International and Shanghai S&T were the investors in this round of funding,",
@@ -1137,35 +1174,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-smart-money-is-on-the-sensors.md",
-      "title": "The Smart Money Is on the Sensors",
-      "excerpt": "With a tracking module connected to the OBD II port and the integration of RFID readers, telematics use cases can be extended to identifying individual drivers and passengers through ID tag swipe. RFID technology allows businesses to, for example, keep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rfidjournal.com/articles/view?18461/2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

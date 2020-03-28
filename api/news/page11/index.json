@@ -2,6 +2,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-18-amazon-elastic-inference-adds-support-for-pytorch-machine-learning-models.md",
+      "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+      "excerpt": "Enhanced PyTorch libraries for EI are available by default in Amazon SageMaker, AWS Deep Learning AMIs, and AWS Deep Learning Containers, allowing developers to deploy PyTorch models in production with minimal code changes. In a blog post, Amazon explained that inference tends to account for around 90% of the compute costs for the average deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/amazon-elastic-inference-adds-support-pytorch-machine-learning-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/aws-logo-reinvent2018-800x537.jpg",
+          "width": 800,
+          "height": 537,
+          "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market.md",
       "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
       "excerpt": "The smart camera capabilities including object recognition for people, animals, and vehicles, were introduced with the HomeKit Secure Video in the previous version. The feature is expected to consist of face classification with identification for family members through smart home cameras. Other new features include Night Shift, which makes ...",
@@ -919,43 +956,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

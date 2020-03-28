@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-18-quickstart-create-ml-services-cluster-in-azure-hdinsight-using-resource-manager-template.md",
+      "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
+      "excerpt": "In this quickstart, you use an Azure Resource Manager template to create an ML Services cluster in Azure HDInsight. Microsoft Machine Learning Server is available as a deployment option when you create HDInsight clusters in Azure. The cluster type that provides this option is called ML Services. This capability provides data scientists ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/hdinsight/r-server/quickstart-resource-manager-template",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-why-voice-recognition-is-vital-to-payments-during-the-coronavirus-pandemic.md",
       "title": "Why voice recognition is vital to payments during the coronavirus pandemic",
       "excerpt": "And it calls for advanced speech recognition technology that concentrates as much on what is said as it does on the voice inflection of those saying it. For the past three years, London-based Speechmatics has offered its clients — generally companies that deploy call center services technology — with automated speech recognition that ...",
@@ -1119,43 +1164,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
-      "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-      "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios, U.S. chief technology officer, during a press briefing Monday. “And we’re able to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fedscoop.com/coronavirus-database-natural-language-processing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/2020/03/GettyImages-1204793213.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

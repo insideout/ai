@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-00847-2/d41586-020-00847-2_17822942.jpg"
