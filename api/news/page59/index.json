@@ -2,6 +2,51 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-03-ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandmaster-level.md",
+      "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
+      "excerpt": "Image: DeepMind Computer scientists at DeepMind have developed an artificially intelligent bot capable of defeating the world’s best players at StarCraft II, the popular real-time strategy video ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798",
+      "ampWebUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
+      "publishedDateTime": "2020-02-03T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--lXLgmwrS--/c_scale,f_auto,fl_progressive,q_80,w_800/m02voe7tkleeh51jbcx2.png",
+          "width": 800,
+          "height": 450,
+          "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-google-has-made-it-simple-for-anyone-to-tap-into-its-image-recognition-ai.md",
       "title": "Google Has Made It Simple for Anyone to Tap Into Its Image Recognition AI",
       "excerpt": "The software is called Cloud AutoML Vision. In an accompanying blog post, the chief scientist of Google’s Cloud AI division explains how the software can help users without machine learning ...",
@@ -1011,43 +1056,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-01-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai.md",
-      "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
-      "excerpt": "Dubai American Academy has announced the launch of its new Centre of Excellence for Artificial Intelligence and Robotics. The vision of the Centre of Excellence is to promote educational and research activities in the field of AI and Robotics. GEMS ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai",
-      "ampWebUrl": "https://www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp",
-      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/business/91271-gems-dubai-american-academy-launches-center-of-excellence-for-robotics-and-ai?amp",
-      "publishedDateTime": "2020-02-01T15:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GDPR fines",
-        "domain": "itp.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itp.net/sites/default/files/itpdotnet/images/2020/02/01/PRL--GEMS-Dubai-American-Academy-launches-Artificial-Intelligence-and-Robotics-Centre-of-Excellence1.JPG",
-          "width": 2550,
-          "height": 1663,
-          "title": "GEMS Dubai American Academy launches center of excellence for robotics and AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

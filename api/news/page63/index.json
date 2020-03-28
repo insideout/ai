@@ -2,6 +2,43 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-01-30-self-driving-waymo-minivans-will-assist-ups-with-deliveries.md",
+      "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+      "excerpt": "It's not just people who get to experience self-driving minivans in the Phoenix area. On Wednesday, Google spin-off company Waymo announced a partnership with UPS, the package delivery service. Soon, Waymo's self-driving Chrysler Pacifica minivans will be moving packages around instead of humans. The autonomous driving company is more than a ...",
+      "heat": 209,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery/",
+      "ampWebUrl": "https://mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-ups-autonomous-delivery.amp",
+      "publishedDateTime": "2020-01-29T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252F92%252F1adb436cf38e4b8ba6ab5feee3237afa.7da77.jpg%252F1200x630.jpg?signature=xF6AUmM-vbSssyr5JnsUmU94XQM=",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving Waymo minivans will assist UPS with deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-food-delivery-robots-roll-onto-ole-miss-campus.md",
       "title": "Food delivery robots roll onto Ole Miss campus",
       "excerpt": "OXFORD, Miss. — Artificial intelligence has arrived at Ole Miss in the form of food delivery robots. Thirty new robots have been roaming campus for a week, dropping off snacks, meals and drinks. It’s been exactly one week since Ole Miss launched 30 Starship delivery robots. They line up outside the student union, are packed with food and ...",
@@ -1026,51 +1063,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-google-translate-app-to-transcribe-and-translate-in-real-time.md",
-      "title": "Google Translate App to Transcribe and Translate in Real Time",
-      "excerpt": "As CNET reports, Google was showing off a number of its AI projects earlier this week in San Francisco. One of them is a new feature heading to the Google Translate app a few months from now which allows a conversation to be transcribed in real-time while simultaneously being translated into another language. From a practical point of view it ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345665",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345665",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345665",
-      "publishedDateTime": "2020-01-29T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200129163936-google-translate.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Google Translate App to Transcribe and Translate in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Microsoft divests from Israeli facial-recognition startup"
-excerpt: "Microsoft says it is pulling its investments from a controversial facial-recognition startup that scans faces at Israeli military checkpoints"
-publishedDateTime: 2020-03-27T22:46:00Z
-webUrl: "https://www.washingtonpost.com/business/technology/microsoft-divests-from-israeli-facial-recognition-startup/2020/03/27/5f8c92d8-7074-11ea-a156-0048b62cdb51_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/technology/microsoft-divests-from-israeli-facial-recognition-startup/2020/03/27/5f8c92d8-7074-11ea-a156-0048b62cdb51_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/microsoft-divests-from-israeli-facial-recognition-startup/2020/03/27/5f8c92d8-7074-11ea-a156-0048b62cdb51_story.html?outputType=amp"
+title: "Microsoft Divests From Israeli Facial-Recognition Startup"
+excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically."
+publishedDateTime: 2020-03-27T21:44:00Z
+webUrl: "https://www.nytimes.com/aponline/2020/03/27/business/ap-us-microsoft-israel-facial-recognition.html"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: New York Times
+  domain: nytimes.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+    width: 1200
+    height: 630
+    title: "Microsoft Divests From Israeli Facial-Recognition Startup"
 
 related:
   - title: "Microsoft sells stake in Israeli facial recognition company"
@@ -45,15 +53,19 @@ related:
       domain: usnews.com
     quality: 46
   - title: "Microsoft sells stake in Israeli face recognition firm"
-    excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks ..."
-    publishedDateTime: 2020-03-28T00:00:00Z
-    webUrl: "https://www.newkerala.com/news/2020/52785.htm"
+    excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks, and use-cases. AnyVision currently develops technology for security and surveillance ..."
+    publishedDateTime: 2020-03-28T08:29:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
     type: article
     provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
+      name: Sify.com
+      domain: sify.com
+    quality: 39
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
+        width: 1350
+        height: 750
 
-secured: "HEWsE4b8O+8XoCBV42AT+yV/NHTsKAzMlIwpbtzQuUlAiP0girEsmNAlrAp2wZ7nGDyG2rxn+fJugbXqbIJdKir5KzUgRnPp+xxA12/H6rTFXtZhMSLnKUIm0HXcJ50E23pZm3FGIXvUAfe0a7KWVAwr/UjFJq4nwqlLzJR7vWvKXV4BO3Ih65duvLawXyQi2NaWYS9ZlEbMXdHKasgw4f8aptEk/3QKa67TxVIzUlflFJU1p1d3GRgSVNaBFJkr+C7F/Yc89h0TdzZ9lv19O9dDk7iGjatwk9BWywbPiGvxra1Bo2IRjdpKF5J1vhPs;akmTUgsb6WLGTjPS1cJqYA=="
+secured: "OnMH2cuGv+6LfQmteAye/q4WOTuWsXHyeU/bj1hkPJY3jcrcngkqUUHHlWgd942WywHQ/qajuGNYupjqnURknY0dNEkw5auPgPu81QNNg7i6SwS830+vCBzE7EoIGsubijr5bw8g1mxhdEtMuvX07pwQpiZJWIvP+26OYw65CsvatagoMTRZgub/XBLkA4LDIGgBA4ASRkYiNhbDA8VBUncU5DINc9Y9GFvJVU8+FmU37kCb3ORQxHtbdZt6d+N0hTrNPUnUJ/T1NlTw4zxRPAPpRm0nv5tUTGLznBa5coyQstNrTl+lPsztPOmytFDw;ap/nOY2XNPR+ylWJy1IQ2g=="
 ---
 

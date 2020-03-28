@@ -2,6 +2,51 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-02-11-deepfakes-and-deep-media-a-new-security-battleground.md",
+      "title": "Deepfakes and deep media: A new security battleground",
+      "excerpt": "“Deepfakes [produced by] generative [systems] learn a data set of actual images in videos, to which you add new images and then generate a new video with the new images,” Ishai Rosenberg, head of the deep learning group at cybersecurity company Deep Instinct, told VentureBeat via email. “The result is that the output video has subtle ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/deepfake-media-and-detection-methods/amp/",
+      "publishedDateTime": "2020-02-11T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/3-Deepfake-illustration-e1580975661512.jpg?fit=1202%2C600&strip=all",
+          "width": 1202,
+          "height": 600,
+          "title": "Deepfakes and deep media: A new security battleground",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-army-looks-to-block-data-poisoning-in-facial-recognition-ai.md",
       "title": "Army looks to block data ‘poisoning’ in facial recognition, AI",
       "excerpt": "The Army has many data problems. But when it comes to the data that underlies facial recognition, one sticks out: Enemies want to poison the well. Adversaries are becoming more sophisticated at providing “poisoned,” or subtly altered, data that will mistrain artificial intelligence and machine learning algorithms. To try and safeguard ...",
@@ -1015,52 +1060,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
-      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 175,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

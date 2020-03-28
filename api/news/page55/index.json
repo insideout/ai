@@ -2,6 +2,43 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
+      "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
+      "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition",
+      "ampWebUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
+      "publishedDateTime": "2020-02-06T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-crowdstrike-aws-expand-world-challenge-official-provider-roles.md",
       "title": "CrowdStrike, AWS expand World Challenge official provider roles",
       "excerpt": "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ...",
@@ -1002,43 +1039,6 @@
         "AI",
         "AI Hardware",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra-in-sharjah.md",
-      "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
-      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.html",
-      "ampWebUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
-      "cdnAmpWebUrl": "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
-      "publishedDateTime": "2020-02-05T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manorama Online",
-        "domain": "manoramaonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.manoramaonline.com/content/dam/mm/en/business/gadgets/images/2020/2/6/humanoid-music2.jpg",
-          "width": 845,
-          "height": 440,
-          "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

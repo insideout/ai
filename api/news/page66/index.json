@@ -2,6 +2,51 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-01-28-this-young-innovator-is-a-champion-of-ai-for-good.md",
+      "title": "This Young Innovator Is A Champion Of AI For Good",
+      "excerpt": "At the AIMed conference 2019, UCI’s sophomore, and Dalai Lama Scholar Karishma Muthukumar gave an opening speech about her big idea of using empathy-based artificial intelligence to improve human connection in the healthcare field.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/this-young-innovator-is-a-champion-of-ai-for-good/amp/",
+      "publishedDateTime": "2020-01-28T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2f1c45f133f400076acafb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D616%26cropY1%3D76%26cropY2%3D423",
+          "width": 616,
+          "height": 348,
+          "title": "This Young Innovator Is A Champion Of AI For Good",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.md",
       "title": "Uber's self-driving cars are a key to its path to profitability",
       "excerpt": "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable.",
@@ -993,50 +1038,6 @@
           "width": 1200,
           "height": 675,
           "title": "Bzigo Uses AI And Lasers To Locate Mosquitoes In Your Home",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-27-apples-200m-acquisition-of-xnorai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone.md",
-      "title": "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone",
-      "excerpt": "Fast-forward to today, and only the almighty camera receives attention. Apple's acquisition of Xnor.ai is the latest move in the battle for phone photo supremacy, and AI-on-the-edge is the weapon of choice. What is Xnor.ai, and why does Apple want it? Xnor.ai's technology enables you to run deep learning models on edge devices, which ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/apples-200m-acquisition-of-xnor-ai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apples-200m-acquisition-of-xnor-ai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-200m-acquisition-of-xnor-ai-a-snapshot-into-our-ai-on-the-edge-future-via-your-iphone/",
-      "publishedDateTime": "2020-01-27T09:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/21/575f455b-55e2-4575-996b-0489aa1f6eea/thumbnail/1200x675/f29dd75290e47f1228abef7be6666964/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Apple's $200M acquisition of Xnor.ai: A snapshot into our AI-on-the-edge future via your iPhone",
           "attribution": null
         }
       ],

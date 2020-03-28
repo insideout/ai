@@ -26,6 +26,19 @@ images:
     title: "Microsoft sells stake in Israeli facial recognition company"
 
 related:
+  - title: "Microsoft Divests From Israeli Facial-Recognition Startup"
+    excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically."
+    publishedDateTime: 2020-03-27T21:44:00Z
+    webUrl: "https://www.nytimes.com/aponline/2020/03/27/business/ap-us-microsoft-israel-facial-recognition.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 54
+    images:
+      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
+        width: 1200
+        height: 630
   - title: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work"
     excerpt: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz's TheMarker business newspaper and NBC News that its technology is used to surveil Palestinians who live in the occupied West Bank."
     publishedDateTime: 2020-03-27T20:43:00Z
@@ -35,26 +48,19 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 46
-  - title: "Microsoft divests from Israeli facial-recognition startup"
-    excerpt: "Microsoft says it is pulling its investments from a controversial facial-recognition startup that scans faces at Israeli military checkpoints"
-    publishedDateTime: 2020-03-27T22:46:00Z
-    webUrl: "https://www.washingtonpost.com/business/technology/microsoft-divests-from-israeli-facial-recognition-startup/2020/03/27/5f8c92d8-7074-11ea-a156-0048b62cdb51_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/technology/microsoft-divests-from-israeli-facial-recognition-startup/2020/03/27/5f8c92d8-7074-11ea-a156-0048b62cdb51_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/technology/microsoft-divests-from-israeli-facial-recognition-startup/2020/03/27/5f8c92d8-7074-11ea-a156-0048b62cdb51_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
   - title: "Microsoft sells stake in Israeli face recognition firm"
-    excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks ..."
-    publishedDateTime: 2020-03-28T00:00:00Z
-    webUrl: "https://www.newkerala.com/news/2020/52785.htm"
+    excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks, and use-cases. AnyVision currently develops technology for security and surveillance ..."
+    publishedDateTime: 2020-03-28T08:29:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
     type: article
     provider:
-      name: New Kerala
-      domain: newkerala.com
-    quality: 19
+      name: Sify.com
+      domain: sify.com
+    quality: 39
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
+        width: 1350
+        height: 750
 
 secured: "TvQ9gIBDqgvynaUHXZ+EqBZ+AL3gXevq7dFxw/I+2wBpUUqzn/Qif//HUJeVX32RIkhZA+/BGydXL3syxF4/iLiOaqhC8sOexu4MEjJ3UU8MB5gGjvcLciYatuCbB57gBoHdCA/UXoBfRREhKBb+0PckKHUTzW5ZiEFOyH1iANNvTONHTFJOfE6aaEZLL5GJPF1aVUBoIRWFskEr+KfAkCp46m8jbq91VOgTJ7tLNaWKlMi8Zve+5wMepxoOWJqtfa+X0USdmiSbTmULE8Q8NSgu5BuJp6McUSS9h+1s/x3HGyTHl5BFcOry6dBpd46uZPHlwGWlXRgD/eRBQl/pwW4sYqcr1O6XzKI+V2olewuDhZkm/gR/Eg4TLB+i8lggvba30yw4iCdPBuB+9ErC4SZEN7yDBHFR1Ha7YtrtNIatGisbzvmziLmgKkHlCf/hqHKdjMA1pQFDysL8hOSiVJhwb/35YM8AUbGqfmbQwHU=;CafOtZDUQRNezCdcHt8Fpg=="
 ---
