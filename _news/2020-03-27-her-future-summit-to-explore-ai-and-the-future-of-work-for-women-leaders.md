@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-su
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Her Future Summit To Explore AI And The Future Of Work For Women Leaders"
 
-secured: "fFhNG6TlKh4RHk4TXhADqAvWLkRRPOmRt5V3U14ItuxIQfTHXFGI8u4xwm5KTf+p5AkEtytQzCP/DgDMoij/fuIZm1RwVtU4McHRBHml4hYtVaImrX/DI4qZmkuN3ECctlJhPYTx/2nBLjfiV7Dyswjo//qaTZ/D5vSJ12SulD8seM3ZGQ92aBbLjwL7xlDjoMPL4hIb7SrJI+qemn7SIwIVD7Itl+Fp5jiL92GAAQ/i6d1R1YbYAILpjdOC81Q91QlT1V7WwaNZ5krp1OfZKzcj8q/O3EXDIAjB/QCioWdqjhqlloGrbzWz7HP1M6XmvC1EgYDatglZS+l/dzO/SIXDHUa7+VPCZscIkIQ84Wap3sfaP236YXXSVKWXyYnSi2oCH0TX4mOFJhhd/ePoGUwpK0Fl1TBw0MVIUxwVWQvDiHkZl5xwh4QltW9sWgEAHZ08gp3IoiawyylGhmclD+CbVQkKcCHMZM0s7E9URNU=;WxVkJly7G7s81gE721j6iw=="
+secured: "16qSjREmaoYPcG7eKTWC1+drLTHuz6v8rdW5U509nvTxbo99kl61qQttL1+GvujbHyeHzZHqCTIoz/uJ0LIb52v4WujbA6TVRU/HEAp0iRMVSA0O0Yj05w4lqc9DThRi2+ARwoFCWNmQV9dYw9sS8zLItKBfOecgs2mjB/2skEp5fOxmHEIuuamzeEU4s3fN0ny+FYm21N+X6mXJx9j4m5FsHXa05DrgON6AgaaBdgV9QDA1CvqkXETVqqiCo/X3heDN3I/0m5odGkMItkwvblwrdAiXmqEkaJBkFk+JfpxgzahhoZnHdDDsDAhesQMyL5zqk9DKkmN1HtxT32iNV5EFuAzM5R+i8NCFb0z98TXFTQIEis7ff0jPMpRoVuBXIA/3wvtozZqEAle4Ow/thyrpqw2caRLpA4ltg1NtX+U89qii4q6WetW0fdhBRSarw43oqmSmpLiRJJ/08xjta8CQtXEn52Y+t/EhzNSin8E=;b/jW4isg6ABlyL4KijIwhw=="
 ---
 

@@ -2,6 +2,43 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
+      "title": "Artificial intelligence system aimed at preventing drownings",
+      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kansascity.com/news/article241279376.html",
+      "ampWebUrl": "https://amp.kansascity.com/news/article241279376.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article241279376.html",
+      "publishedDateTime": "2020-03-21T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5502557046001/47ddf09d-4026-42c9-b0bc-20cb152f1f85/main/1280x720/29s733ms/match/image.jpg",
+          "width": 1252,
+          "height": 720,
+          "title": "Artificial intelligence system aimed at preventing drownings",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-21-why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19.md",
       "title": "Why AI might be the most effective weapon we have to fight COVID-19",
       "excerpt": "As governments and health organizations scramble to contain the spread of coronavirus, they need all the help they can get, including from artificial intelligence. Though current AI technologies are far from replicating human intelligence, they are proving to be very helpful in tracking the outbreak, diagnosing patients, disinfecting areas ...",
@@ -44,43 +81,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial Intelligence System Aimed at Preventing Drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "publishedDateTime": "2020-03-21T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
