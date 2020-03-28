@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-28-ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic.md",
+      "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
+      "excerpt": "AI (Artificial Intelligence) has a long history, going back to the 1950s when the computer industry started. It’s interesting to note that much of the innovation came from government programs, not private industry.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2020-03-28T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215339620%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
+      "title": "In artificial intelligence, enterprises still not minding their data",
+      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "publishedDateTime": "2020-03-28T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "In artificial intelligence, enterprises still not minding their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ai-can-help-find-scientists-find-a-covid-19-vaccine.md",
       "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
       "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
@@ -123,6 +212,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-how-artificial-intelligence-is-helping-the-fight-against-coronavirus.md",
+      "title": "How artificial intelligence is helping the fight against coronavirus",
+      "excerpt": "Artificial intelligence is improving the ability of healthcare providers to effectively respond to the coronavirus pandemic – allowing for faster diagnoses and speedy dissemination of trusted information as well as detecting fraudulent insurance claims and accurately evaluating patient data in real time. SoftBank-backed AI company Automation ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
+      "ampWebUrl": "https://amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
+      "cdnAmpWebUrl": "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
+      "publishedDateTime": "2020-03-28T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Blogs",
+        "domain": "thenational.ae",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thenational.ae/image/policy:1.997838:1585236541/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9",
+          "width": 1200,
+          "height": 675,
+          "title": "How artificial intelligence is helping the fight against coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -257,51 +383,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
-      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "publishedDateTime": "2020-03-27T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -561,6 +642,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
+      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "publishedDateTime": "2020-03-27T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1182,132 +1308,6 @@
           "width": 9000,
           "height": 5063,
           "title": "Why transparency is key to promoting trust in artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech.md",
-      "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
-      "excerpt": "Self-driving truck startup TuSimple is partnering with automotive supplier ZF to develop and produce autonomous vehicle technology, such as sensors, on a commercial scale. The partnership, slated to begin in April, will cover China, Europe and North America. The two companies will co-develop sensors needed in autonomous vehicle technology such ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
-      "publishedDateTime": "2020-03-26T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
-      "title": "Will this crisis help set autonomous AI on the right course?",
-      "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
-      "publishedDateTime": "2020-03-26T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": "Will this crisis help set autonomous AI on the right course?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-new-ai-powered-blood-test-could-reveal-lung-cancer-without-a-ct-scan.md",
-      "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
-      "excerpt": "A blood test that uses machine learning to hunt for cancer DNA could reveal lung cancer in patients who otherwise would never have been tested. The system is accurate in roughly two-thirds of patients, but that may be enough to save an additional 1,200 lives per year, according to the scientists who developed it. Visit BGR’s homepage for more ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/",
-      "ampWebUrl": "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-03-26T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2019/05/3138283a-e1558460934306.jpg?quality=98&#038;strip=all",
-          "width": 2000,
-          "height": 1082,
-          "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
           "attribution": null
         }
       ],

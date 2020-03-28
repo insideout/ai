@@ -2,6 +2,125 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
+      "title": "Is Python storming ahead of Java in fintech?",
+      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Is Python storming ahead of Java in fintech?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
+      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
+      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
+      "publishedDateTime": "2020-03-18T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
+      "title": "How China built facial recognition for people wearing masks",
+      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
       "title": "Specialized processors accelerate endpoint AI workloads",
       "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
@@ -507,43 +626,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
-      "title": "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "p> IDC's FinTech Fast 101 was based upon extensive ... Lastly, OneConnect's rapid respond to customers' demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth online ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-oneconnect-joins-idcs-financial-insights-fintech-fast-101-/2020/03/18/9116926.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/4/IDC.jpg",
-          "width": 278,
-          "height": 480,
-          "title": "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
       "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
       "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
@@ -569,6 +651,43 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
+      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1046,117 +1165,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-researchers-encouraged-to-use-artificial-intelligence-to-analyze-coronavirus.md",
-      "title": "Researchers Encouraged to Use Artificial Intelligence to Analyze Coronavirus",
-      "excerpt": "COVID-19 researchers are expected to begin using artificial intelligence (AI) and machine learning to data-mine new ... using this technology to sort through the scholarly data on the topic using a newly created database. Major healthcare organizations would like a better understanding of how COVID-19 originated and how it spreads to better ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/17/researchers-encouraged-to-use-artificial-intellige.aspx",
-      "publishedDateTime": "2020-03-17T19:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564002%2Fgettyimages-1160995648.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": "Researchers Encouraged to Use Artificial Intelligence to Analyze Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
-      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
-      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-microsoft-to-help-kubota-explore-ai-application-in-agriculture.md",
-      "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
-      "excerpt": "(RTTNews) - Tech giant Microsoft (MSFT) is set to help Japanese tractor and heavy equipment manufacturer Kubota with digital transformation. Both the companies have entered a multi-year strategic alliance,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17?amp",
-      "publishedDateTime": "2020-03-17T16:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1260061287",
-          "width": 1024,
-          "height": 512,
-          "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

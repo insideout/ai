@@ -2,6 +2,80 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-12-ai-applications-in-alzheimers-forecast-to-2024-diagnosis-therapy-health-management-research.md",
+      "title": "AI Applications in Alzheimer's, Forecast to 2024: Diagnosis, Therapy, Health Management, Research",
+      "excerpt": "DUBLIN, March 12, 2020 /PRNewswire/ -- The \"Artificial Intelligence (AI) in Alzheimer's Applications\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-applications-in-alzheimers-forecast-to-2024-diagnosis-therapy-health-management-research-301022297.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "AI Applications in Alzheimer's, Forecast to 2024: Diagnosis, Therapy, Health Management, Research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus.md",
+      "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
+      "excerpt": "Today, it unveiled the use of PolyTope mAb Therapy, which it says is enabled by Immunoprecise's diverse discovery platforms and artificial intelligence (AI) capabilities with partner EVQLV Inc. Last month, Immunoprecise named Dr Ilse Roodink, the firm's ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/914841/immunoprecise-antibodies-unveils-new-therapy-approach-in-bid-to-tackle-coronavirus-914841.html",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/914841",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/914841",
+      "publishedDateTime": "2020-03-12T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2020_03/1200z740_1584014619_shutterstock_1621031059_coronavirus.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": "ImmunoPrecise Antibodies unveils new therapy approach in bid to tackle coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-immunoprecise-announces-the-launch-of-polytope-mab-therapy-to-tackle-coronavirus-pandemic.md",
       "title": "ImmunoPrecise Announces the Launch of PolyTope mAb Therapy™ to Tackle Coronavirus Pandemic",
       "excerpt": "/PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the \"Company\" or \"IPA\") (TSX VENTURE: IPA) (OTC QB: IPATF), following its announcement to develop",
@@ -1143,88 +1217,6 @@
         "AI",
         "AI in Healthcare",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-depression-treatment-using-ai-brain-scans.md",
-      "title": "Depression treatment using AI, brain scans",
-      "excerpt": "Artificial intelligence (AI) may be a useful and even essential tool in selecting the best ... patterns of brain activity were actually linked to the kind of brain activity impairment that improves with antidepressant therapy. This data came from the EMBARC trial for patients with major depression. The trial lasted 16 weeks at four different ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200210/Depression-treatment-using-AI-brain-scans.aspx",
-      "publishedDateTime": "2020-02-10T17:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f2%2f223421_web_00c4750629854c469bd98996c081a559-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Depression treatment using AI, brain scans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes.md",
-      "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-      "excerpt": "AI and ML are revolutionizing many healthcare processes that, although not medical in nature, directly affect provider efficiency and productivity — as well as the patient experience.",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/02/10/three-ways-ai-and-ml-are-making-a-difference-in-healthcare-behind-the-scenes/amp/",
-      "publishedDateTime": "2020-02-10T16:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1199231029/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Three Ways AI And ML Are Making A Difference In Healthcare Behind The Scenes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

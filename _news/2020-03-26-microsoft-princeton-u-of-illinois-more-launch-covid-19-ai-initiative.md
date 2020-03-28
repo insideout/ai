@@ -39,6 +39,19 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg"
         width: 1200
         height: 675
+  - title: "C3.ai, Microsoft und führende Universitäten starten das C3.ai Digital Transformation Institute"
+    excerpt: "REDWOOD CITY, Kalifornien und REDMOND, Washington, und URBANA-CHAMPAIGN, Ill. und BERKELEY, Kalifornien--(BUSINESS WIRE)--Mrz 28, 2020--"
+    publishedDateTime: 2020-03-28T15:10:00Z
+    webUrl: "https://www.pressofatlanticcity.com/business/c-ai-microsoft-und-f-hrende-universit-ten-starten-das/article_054fce5a-a236-5652-af0b-880819a79500.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 42
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
   - title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
     excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ..."
     publishedDateTime: 2020-03-26T10:12:00Z

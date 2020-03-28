@@ -2,6 +2,96 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
+      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T12:18:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
+          "width": 800,
+          "height": 400,
+          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker.md",
+      "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+      "excerpt": "As machine learning (ML) becomes a larger part of companies’ core business, there is a greater emphasis on reducing the time from model creation to deployment. In November of 2019, AWS released the AWS Step Functions Data Science SDK for Amazon SageMaker, an open-source SDK that allows developers to",
+      "heat": 190,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T10:22:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif",
+          "width": 800,
+          "height": 397,
+          "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-how-to-teach-artificial-intelligence.md",
       "title": "How To Teach Artificial Intelligence",
       "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
@@ -1231,80 +1321,6 @@
       "topics": [
         "AI",
         "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
-      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
-      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI"
       ]
     }

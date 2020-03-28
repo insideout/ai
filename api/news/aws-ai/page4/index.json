@@ -2,6 +2,80 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
+      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
+      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
+      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
+      "publishedDateTime": "2020-01-14T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
       "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
       "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",

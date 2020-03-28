@@ -51,6 +51,19 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
         width: 400
         height: 300
+  - title: "C3.ai, Microsoft und führende Universitäten starten das C3.ai Digital Transformation Institute"
+    excerpt: "REDWOOD CITY, Kalifornien und REDMOND, Washington, und URBANA-CHAMPAIGN, Ill. und BERKELEY, Kalifornien--(BUSINESS WIRE)--Mrz 28, 2020--"
+    publishedDateTime: 2020-03-28T15:10:00Z
+    webUrl: "https://www.pressofatlanticcity.com/business/c-ai-microsoft-und-f-hrende-universit-ten-starten-das/article_054fce5a-a236-5652-af0b-880819a79500.html"
+    type: article
+    provider:
+      name: The Press of Atlantic City
+      domain: pressofatlanticcity.com
+    quality: 42
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
+        width: 1200
+        height: 630
 
 secured: "z493XAHmrVFOD+m4NSt8qflweIujzp0Oa54eANelzS8YH8N2MicnLt35dE0L3U3VVDCvAt36TEHfOY8imjNV0X9Zr293Zdwq6hICUwHtx6AFahV5yNTPIsXxjoy18BZlhNd0rq5XKmJMZYmY852gKnZofpTiwdiy6cJFN222xIwiVFg9Xp9ObAASy46WkZ0GyaSesq0Ow4W5rYTLbV282UnOJc0DMer2e7O8wQfAn0SIZfDd0qld3joZ6ZGQKHF+D+prCrRuw+oA7IYlRGwpK8xEx6lhU9+73oLWpUu65CMDRHBAvMWitVI/l/D9G140;I/VMcGkRQyaz/ePEBmqdPQ=="
 ---

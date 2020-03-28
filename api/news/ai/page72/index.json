@@ -2,6 +2,186 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-01-06-blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter.md",
+      "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+      "excerpt": "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "ampWebUrl": "https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "publishedDateTime": "2020-01-06T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-microsoft-research-proposes-face-swapping-ai-and-face-forgery-detector.md",
+      "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
+      "excerpt": "In a pair of academic papers published by teams at Microsoft Research and Peking University ... In June 2019, a report revealed that a spy used an AI-generated profile picture to fool contacts in LinkedIn. And just last December, Facebook discovered hundreds of accounts with profile photos of fake faces synthesized using AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
+      "publishedDateTime": "2020-01-06T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/3b33aff6-35d5-414f-bb88-adb09af8b7a6-e1578332008715.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020.md",
+      "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
+      "excerpt": "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
+      "publishedDateTime": "2020-01-06T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/VB_FeatureImage_1200x600.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us.md",
+      "title": "Tech trade ban: Exporting AI is going to get harder, says US",
+      "excerpt": "The US government is making it harder for US companies to export artificial-intelligence software that helps organizations automate object recognition from geospatial imagery. The export ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
+      "publishedDateTime": "2020-01-06T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/31/c45c0834-cacf-4fb3-8544-50f658eeb76b/thumbnail/1200x675/e0c52fee5b4d38162a8ffa35af46d4d8/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech trade ban: Exporting AI is going to get harder, says US",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-06-machine-translation-market-research-and-technology-developments-2020-to-2024.md",
       "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
       "excerpt": "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,",
@@ -1094,186 +1274,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.md",
-      "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
-      "excerpt": "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "publishedDateTime": "2020-01-02T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587",
-          "width": 5121,
-          "height": 3416,
-          "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-artificial-neural-networks-for-blockchain-a-primer.md",
-      "title": "Artificial Neural Networks For Blockchain: A Primer",
-      "excerpt": "Artificial intelligence -- and especially neural networks -- poses a solution to these problems by using them in a new, energy-saving protocol called proof of artificial intelligence (PoAI).",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/",
-      "publishedDateTime": "2020-01-02T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-7.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Neural Networks For Blockchain: A Primer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-googles-deepmind-created-an-ai-for-spotting-breast-cancer-that-can-outperform-human-radiologists.md",
-      "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
-      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal.md",
-      "title": "Ambarella shows off new robotics platform and AWS AI programming deal",
-      "excerpt": "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/",
-      "publishedDateTime": "2020-01-02T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all",
-          "width": 1200,
-          "height": 646,
-          "title": "Ambarella shows off new robotics platform and AWS AI programming deal",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

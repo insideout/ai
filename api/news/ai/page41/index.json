@@ -2,6 +2,168 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
+      "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+      "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "publishedDateTime": "2020-02-11T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG",
+          "width": 640,
+          "height": 419,
+          "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.md",
+      "title": "NBA using artificial intelligence for highlight clips this All-Star game",
+      "excerpt": "The NBA says they are using machine learning to create more highlights than ever before this All-Star weekend.",
+      "heat": 186,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.html",
+      "publishedDateTime": "2020-02-11T14:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106384981-1581436693869gettyimages-1196398279.jpeg?v=1581436778",
+          "width": 5231,
+          "height": 3487,
+          "title": "NBA using artificial intelligence for highlight clips this All-Star game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-meet-ella-new-zealand-police-unveil-first-artificial-intelligence-officer.md",
+      "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
+      "excerpt": "The police have unveiled their first AI officer, with hopes she'll soon be smiling and blinking out of screens in stations all around New Zealand. Ella, the Māori artificial intelligence cop at the centre of the police's new digital services, was revealed at the police national headquarters in Wellington this morning. Ella, which stands for ...",
+      "heat": 135,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12307902",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T13:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/E5V-a96jpTiF5t4mMHUgW5umkyU=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/UYPVACGFG5ANNLPOYQ6G2IUFKM.jpg",
+          "width": 1200,
+          "height": 752,
+          "title": "Meet Ella: New Zealand Police unveil first artificial intelligence officer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-we-still-cant-agree-how-to-regulate-self-driving-cars.md",
+      "title": "We still can’t agree how to regulate self-driving cars",
+      "excerpt": "A quick recap in case you forgot: the Republican-controlled House of Representatives unanimously passed the SELF DRIVE Act in 2017, which would speed the adoption of self-driving cars and bar ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/11/21133389/house-energy-commerce-self-driving-car-hearing-bill-2020",
+      "publishedDateTime": "2020-02-11T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/10T-kTZJK2tlblwYeUppcBLmegw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66295443/vpavic_191202_3827_0024.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "We still can’t agree how to regulate self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-the-ai-revolution-is-here-a-podcast-and-interview-with-nate-yohannes.md",
       "title": "The AI Revolution Is Here - A Podcast And Interview With Nate Yohannes",
       "excerpt": "Nate’s perspective on AI being built for everybody on the planet is birthed from one of the most unique foundations possible. He’s the offspring of a revolutionary who stepped on a landmine in 1978 fighting for democracy on the Horn of Africa,",
@@ -1118,170 +1280,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
-      "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-      "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.inc.com/marcel-schwantes/3-big-trends-about-future-of-work-every-leader-should-know-about.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_867341882_412451.jpg",
-          "width": 970,
-          "height": 450,
-          "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
-      "title": "Arm targets IoT with new Machine Learning IP, processors",
-      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "publishedDateTime": "2020-02-11T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
-          "width": 650,
-          "height": 400,
-          "title": "Arm targets IoT with new Machine Learning IP, processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
-      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-11T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 511,
-          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-china-tech-giants-chip-in-to-combat-coronavirus-global-events-impacted.md",
-      "title": "China tech giants chip in to combat coronavirus, global events impacted",
-      "excerpt": "Meanwhile, Alibaba's rival JD.com on Monday said its smart assistant platform, powered by artificial intelligence (AI), had been integrated with the WeChat account of the Wuhan Mayor's Office. The messaging app, which provides updated information and services related to the coronavirus, taps the AI capabilities--including semantic ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/china-tech-giants-chip-in-to-combat-coronavirus-global-shows-impacted/",
-      "publishedDateTime": "2020-02-11T00:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2014/10/04/d918c155-4bf8-11e4-b6a0-d4ae52e95e57/thumbnail/1200x675/8160da71d46f35e6b7f8af8058103971/ftc-thumb.jpeg",
-          "width": 1200,
-          "height": 675,
-          "title": "China tech giants chip in to combat coronavirus, global events impacted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

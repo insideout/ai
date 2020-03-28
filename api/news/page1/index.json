@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-28-ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic.md",
+      "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
+      "excerpt": "AI (Artificial Intelligence) has a long history, going back to the 1950s when the computer industry started. It’s interesting to note that much of the innovation came from government programs, not private industry.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
+      "publishedDateTime": "2020-03-28T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215339620%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
+      "title": "In artificial intelligence, enterprises still not minding their data",
+      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "publishedDateTime": "2020-03-28T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "In artificial intelligence, enterprises still not minding their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ai-can-help-find-scientists-find-a-covid-19-vaccine.md",
       "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
       "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
@@ -123,6 +212,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-how-artificial-intelligence-is-helping-the-fight-against-coronavirus.md",
+      "title": "How artificial intelligence is helping the fight against coronavirus",
+      "excerpt": "Artificial intelligence is improving the ability of healthcare providers to effectively respond to the coronavirus pandemic – allowing for faster diagnoses and speedy dissemination of trusted information as well as detecting fraudulent insurance claims and accurately evaluating patient data in real time. SoftBank-backed AI company Automation ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
+      "ampWebUrl": "https://amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
+      "cdnAmpWebUrl": "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
+      "publishedDateTime": "2020-03-28T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Blogs",
+        "domain": "thenational.ae",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thenational.ae/image/policy:1.997838:1585236541/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9",
+          "width": 1200,
+          "height": 675,
+          "title": "How artificial intelligence is helping the fight against coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -257,51 +383,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
-      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "publishedDateTime": "2020-03-27T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -561,6 +642,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
+      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "publishedDateTime": "2020-03-27T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -966,141 +1092,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
-      "title": "What winemaking has taught me about artificial intelligence",
-      "excerpt": "Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and ... Similarly, building an AI-driven wireless network (which is my day job), must account for all the network features that decide whether a mobile device user has a good experience or a poor one. In today’s world of always-connected offices, stores, hotels ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-03-27T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-wine-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "What winemaking has taught me about artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
-      "title": "Human Compatible: A timely warning on the future of AI",
-      "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "publishedDateTime": "2020-03-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Human Compatible: A timely warning on the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report.md",
-      "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
-      "excerpt": "According to a report by the BBC, Amazon, Microsoft and Palantir will be part of the effort, as well as Faculty AI, a London-based company that specialises in machine learning and artificial intelligence ... Amazon Web Services will provide cloud-computing resources, while Microsoft Azure is said to have built a \"gigantic\" data store to ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
-      "publishedDateTime": "2020-03-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/24/c1e56d77-d792-423d-b2a0-51f41dcd0e59/thumbnail/1200x675/0216fc8a384fce84009b1f6fcd8dc9cd/us-israel-south-korea-and-china-look-at-5e750948daf32b2d76d61991-1-mar-24-2020-17-50-00-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

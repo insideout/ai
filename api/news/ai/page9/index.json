@@ -2,6 +2,133 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-19-global-forecast-for-artificial-intelligence-in-supply-chains-to-2026-researchandmarketscom.md",
+      "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence In Supply Chain (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200319005265/en/Global-Forecast-Artificial-Intelligence-Supply-Chains-2026",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200319005265/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-efforts.md",
+      "title": "Alibaba Cloud offers AI platform to support coronavirus medical efforts",
+      "excerpt": "Offered for free, the video conferencing platform can perform, real-time translation via AI with support for 11 languages including Chinese, Bahasa, French, and Spanish. Alibaba's cloud revenue exceeded 10 billion yuan for the first time in a single quarter, growing 62% to hit 10.72 billion yuan for its third quarter, but the coronavirus ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research/",
+      "publishedDateTime": "2020-03-19T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/48f250f2-5821-4f99-9b79-2ef061a03d36/thumbnail/1200x675/c19314592f4fa3fdec28c61ae209487c/tencent-meeting.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba Cloud offers AI platform to support coronavirus medical efforts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-facebook-covid-19-fallout-why-is-the-social-network-taking-down-legitimate-posts.md",
+      "title": "Facebook COVID-19 Fallout: Why Is The Social Network Taking Down Legitimate Posts?",
+      "excerpt": "On Monday, Facebook sent its content moderators home. By Tuesday, it was falsely flagging and removing legitimate content.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/03/18/covid-19-fallout-why-is-facebook-wrongly-removing-legitimate-content/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/03/18/covid-19-fallout-why-is-facebook-wrongly-removing-legitimate-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/03/18/covid-19-fallout-why-is-facebook-wrongly-removing-legitimate-content/amp/",
+      "publishedDateTime": "2020-03-18T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190727828%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Facebook COVID-19 Fallout: Why Is The Social Network Taking Down Legitimate Posts?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-status-swot-analysis-and-forecast-to-2026.md",
       "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
       "excerpt": "“Natural Language Processing and Recognition Market” WiseGuyRerports.com Presents \"Global Natural Language Processing and Recognition Market Size, Status",
@@ -1030,125 +1157,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
-      "title": "Is Python storming ahead of Java in fintech?",
-      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is Python storming ahead of Java in fintech?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
-      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -1,21 +1,29 @@
 ---
 category: news
 title: "Domo Announces Support for Amazon SageMaker Autopilot"
-excerpt: "including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot. Amazon SageMaker Autopilot is an ..."
-publishedDateTime: 2020-03-19T20:08:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15611470"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470"
+excerpt: "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ..."
+publishedDateTime: 2020-03-19T16:05:00Z
+webUrl: "https://www.marketwatch.com/press-release/domo-announces-support-for-amazon-sagemaker-autopilot-2020-03-19"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
 
-secured: "4P96/VMwnqAo4/CnQbRdOiI5Tc4V9LzvVOQhYUBby79O3EatJZ4lQVP2xjMmjpOD7ZevYq4nZA16IUzUSHBC/2mx9z0PnY9EV1BX+Fcd5Bfo/cS48pDzu4gbzhpdHvF8FV6HC4tRlffVZiaScpLt09nX9hfbIqP1rNt23sgGqI58O2x1m02FuD3wM2wMJM8MjfZ+wO9s4UI0QX8csuizl+BeI0CVstSFZl+y/bUOFWZc0urAK0mbf0yCf244dRRHmhANhH8aJ70bAlWJLs5IumC3N+Xew0gG5hofONnEJCsHcdynSu03AEaJ9kLrttqo;izDgJphA9poD9NYvsMF2VQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Domo Announces Support for Amazon SageMaker Autopilot"
+
+secured: "t5EMlsfZvxBKOn9hmwnUVhI4nh8mjOoqc43iPLf9icIvzkSC6U0ImarTQze9zit/DAsbeWmyNt/qrtRA1mTCLWm5sHgpMSN8QA+oB/jo55qTvt7g22dCBxLBbI1aWrhSYR7Kgrg3p7NQ0rc18ho2TGPV5bYy0FvaqKQyMLrD9e7bw9NhjprpCsU5LAtFykUEr8R4XO428jo04nzTFw+TepIelmyyjH2UsCFODZ+196J1JJ7atRA9nnfNxtdv0nVYcBuQr8E/EVniRce5WOrmEAcm+Y0kNYvwsF45X4uI/P02FcClGZ/6frsEmhuQHB1e;tUp3zl+TvLfOj4BeHaBR1Q=="
 ---
 

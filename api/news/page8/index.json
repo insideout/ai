@@ -2,6 +2,131 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-20-self-driving-car-testing-freezes-due-to-covid-19.md",
+      "title": "Self-driving car testing freezes due to COVID-19",
+      "excerpt": "Waymo will continue to monitor COVID-19 developments until any further service changes are needed. Cruise Automation, the self-driving arm of General Motors Co., also took to Twitter to explain how it would be suspending its own self-driving test operations and closed its San Francisco facilities with the hope of re-opening in three weeks.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electronics360.globalspec.com/article/14864/self-driving-car-testing-freezes-due-to-covid-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering360 News",
+        "domain": "globalspec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electronics360.globalspec.com/images/assets/864/14864/waymo_minivan_4.jpg",
+          "width": 752,
+          "height": 501,
+          "title": "Self-driving car testing freezes due to COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head.md",
+      "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
+      "excerpt": "The answer to the next big food or flavor trend has had less to do with humans and more with the power of big data and artificial intelligence (AI).",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
+      "publishedDateTime": "2020-03-20T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-37.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-ais-effect-on-productivity-now-and-in-the-future.md",
+      "title": "AI's Effect On Productivity Now And In The Future",
+      "excerpt": "Artificial intelligence is one of the hottest topics in the business world, and speculations about its potential effects abound. Professional services giant PwC claims AI could add nearly $16 trillion to the world economy by 2030.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
+      "publishedDateTime": "2020-03-20T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-36.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI's Effect On Productivity Now And In The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-watch-the-nokia-bond-campaign-trailer-the-only-gadget-youll-ever-need.md",
       "title": "Watch the Nokia-Bond campaign trailer: “The Only Gadget You’ll Ever Need",
       "excerpt": "HMD has now posted its official campaign trailer for the Nokia-James Bond movie “No time to die” collaboration on YouTube. The movie is coming to cinemas in November. Read more about the Nokia-James Bond collaboration here. Check out our new campaign trailer featuring @LashanaLynch as agent Nomi. We are the proud technology partner of the ...",
@@ -477,35 +602,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
-      "title": "Domo Announces Support for Amazon SageMaker Autopilot",
-      "excerpt": "including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot. Amazon SageMaker Autopilot is an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15611470",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470",
-      "publishedDateTime": "2020-03-19T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-19-developing-applications-for-an-ai-enabled-world.md",
       "title": "Developing Applications for an AI-Enabled World",
       "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting pricing, recognizing images, and improving decision making are ...",
@@ -919,97 +1015,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths.md",
-      "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
-      "excerpt": "Driverless truck startup Starsky Robotics is shutting down ... In a blunt post-mortem of what went wrong, founder and CEO Stefan Seltz-Axmacher blamed results-hungry investors, unexpected difficulties with getting the AI right, and the fact that safety just isn’t sexy for Starsky’s problems – and the problems that he predicts will ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/",
-      "ampWebUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
-      "publishedDateTime": "2020-03-19T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/starsky-robotics-autonomous-truck.jpg",
-          "width": 1080,
-          "height": 680,
-          "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-the-end-of-starsky-robotics.md",
-      "title": "The End of Starsky Robotics",
-      "excerpt": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016 ... to land many of the vulnerable jobs by the end of January and I’m in the process of selling ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*u_7DPtYho3U38K5MelTEXA.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "The End of Starsky Robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
