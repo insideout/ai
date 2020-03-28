@@ -6,6 +6,7 @@ heat: 25234
 
 items:
   - courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz
+  - courses/udacity-intro-to-deep-learning-with-pytorch
   - courses/coursera-deep-neural-networks-with-pytorch
   - courses/edx-deep-learning-with-python-and-pytorch
 
