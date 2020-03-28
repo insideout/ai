@@ -803,6 +803,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-13-4-steps-to-improve-customer-experience-with-ai.md",
+      "title": "4 Steps To Improve Customer Experience With AI",
+      "excerpt": "With the above-mentioned challenges in mind, a multi-step, holistic effort is the best way for financial services companies to ensure their AI and machine learning initiatives deliver a return on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/13/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T11:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-the-top-5-fintech-trends-for-2020.md",
       "title": "The top 5 fintech trends for 2020",
       "excerpt": "They're also investing in cloud technologies as part of a broader digital transformation effort (11%) and automating through AI or robotics (10%), according to the survey. Only 45% of survey respondents said they're in great shape when it comes to their ...",
@@ -1084,35 +1121,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ticker-tocker-wins-best-social-trading-platform-designation-in-2020-fintech-breakthrough-awards-program.md",
-      "title": "Ticker Tocker Wins \"Best Social Trading Platform\" Designation in 2020 FinTech Breakthrough Awards Program",
-      "excerpt": "NEW YORK, March 11, 2020 /PRNewswire/ -- Ticker Tocker, an award winning social marketplace of verified trading leaders, announced today that it has been selected as the winner of the \"Best Social Trading Platform\" award in the 2020 FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ticker-tocker-wins-best-social-trading-platform-designation-in-fintech/article_fa63fe8a-81c6-59bb-a66a-17cac9527377.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

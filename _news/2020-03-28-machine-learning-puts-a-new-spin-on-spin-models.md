@@ -23,6 +23,6 @@ images:
     height: 617
     title: "Machine learning puts a new spin on spin models"
 
-secured: "z+XGlYcreQjtyHJ/4CCzMqiYoya66e0mxNynrSiVuUlNANacN0//sFyGDGVtxIjjykPWih8junY9/CM4Bmgu295XXF2eezYo7BeOM20G3px1AY8kXzr5AqJyQzV8Ghaz93KjzLcemioYuEFKfWeP0/xQIRqb3e61e4QMfsk5pa/1OWJ3Gz1+4HSV9boYS+Hj7qx07Ox6TDRdBraoXFcz9BXqGHqY+ZIMvEUVchEQfzsIZk6/lOrtyrDPql2+QVXJpVNdGdtKMgPpR5lo78WUcGon1zr5UacgRHFCu5RhJ3FXqznSxYoOUZ5qLUUbefmb;T2V14Ef8h/DxpI7OAd3rxQ=="
+secured: "TahaEEUWua0vPEyh+b/oSsUZcUfBV15PvcN9md0t8eN8lcf5xKLtKo/r3ZzejZgKWYr8CNjXq9lfn//JaIu1kjwace+hshBSMTCPppeILp7KD+iZ8QkigQ6vdG0bzFOO0oGj8VZpwxXEeoii5Dl2HtYgvUegQG9obgRTZo2Tem6RWhPMXaQyYhlY3VqR6/XH075yrJgylyReSkRADr+diLc82AxhVDRM7RhuABgZmCVZ5fD6ZPdu1xKr4CZT470/m62DtEaYIo+va/QBg5gWlwKIcJoA0jy93iynndVg2Aq9v0c/ce3nRUbyhmjFYfkNTDxnnueG7J6ubHA1usWuMHVmYObselOYNK7ntwgUumuY/ApZG+YJR/lCn6JZbktXj3S//98uvVem88nqM+U7rGtLE66rC65RAVbRGSsc739BIgyJlVSv6VLOhkNeQNJIoNePu0cQb9EkByNQC8wvH1dAdYZopfd3RwyvITBd2iE=;xvGX4ZeKvsIbj/XwV5o0nQ=="
 ---
 

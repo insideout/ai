@@ -1,14 +1,14 @@
 ---
 category: news
 title: "What winemaking has taught me about artificial intelligence"
-excerpt: "It was a central part of the culture in ancient Rome. Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and the Dartmouth Summer Research Project, and only in recent years has it emerged as a technology poised to impact society on par with the industrial revolution in terms of eliminating whole job segments such as ..."
+excerpt: "VP and CTO, Mist — Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. You wouldn’t think one has much to do with the other, but as both an AI ..."
 publishedDateTime: 2020-03-27T13:37:00Z
-webUrl: "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/"
-ampWebUrl: "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
+webUrl: "https://thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/"
+ampWebUrl: "https://thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 87
+heat: 87
 published: true
 
 provider:
@@ -21,7 +21,6 @@ provider:
 
 topics:
   - AI
-  - Machine Learning
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-wine-796x417.png"
@@ -29,6 +28,6 @@ images:
     height: 417
     title: "What winemaking has taught me about artificial intelligence"
 
-secured: "om1yPJgnNZ6yMMEREZqSTW0L75eHppzFR+hjGPyWrnDRvbTnEBhtLRk4/XZbl/HVhKBG88tUAiXehs1TG5XJ2sblnq1G5Opsx2w3GOBPvk3/nqC+11j+mrPIb8H7YW/v2LQcRnTpooOt8dg3lSM61+GcQD/jSogqLDrpxJ51QVMR0OcpLJeeJfnIlezOWI4lxJ0ak7pahu23f1GueOguRuHAyJFrB2uAzzYWhkFTZa4TQUgzInepY6yawFVGvKoPF1AWYBRXQbkttwAV0i48/L1wIRtbvqWIGg6jXR1t1wL3ZIMol7GIZH6LS50s2MSy;ECi3Fk41pxxwzmhhrxxXzA=="
+secured: "LoceiRGax054M/u1dGxm26HylGxxT9sNbELVK1kvN2QTzCcrvt4GENfV0g7nS7iQeoBANb/w+FLxBF/wQEB878JRTEa8pbgvECl7GHmfE7AglRAVxQH8r5rFyDp1hC59dWytw+NGmX+0/n4Ct+En7AjASXzwF5OKRvf6ltH1EYajTfLzICd0bZBtfjBaxmbb468mtqzzwsgqBQouw1Ahe6IghjJV43KRPww/QHcXVC9UcWzx+ivKJRW8+3H2qS7F5bjfwiNXD3h0B8hY3hZJMgzDuOF3sEknxdFimxNe3lBg6A5QmwljI0JO1eadKGvy;0/n4JoYm0Wop8YreTT4nmg=="
 ---
 

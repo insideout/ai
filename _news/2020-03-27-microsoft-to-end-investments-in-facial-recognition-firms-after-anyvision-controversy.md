@@ -8,8 +8,8 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/3/27/21197577/microsoft-f
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/27/21197577/microsoft-facial-recognition-investing-divest-anyvision-controversy"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Verge
@@ -30,21 +30,36 @@ images:
     title: "Microsoft to end investments in facial recognition firms after AnyVision controversy"
 
 related:
-  - title: "Microsoft Alters Policy on Facial-Recognition Investments"
-    excerpt: "The company is ending its controversial investment in Israeli startup AnyVision as it swears off minority stakes in suppliers of facial-recognition technology."
-    publishedDateTime: 2020-03-27T23:52:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890"
-    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890"
+  - title: "Microsoft to divest AnyVision stake, end face recognition investing"
+    excerpt: "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology."
+    publishedDateTime: 2020-03-28T05:39:00Z
+    webUrl: "https://www.reuters.com/article/us-microsoft-anyvision-idUSKBN21E3BA"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21E3BA"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://images.wsj.net/im-170213/social"
-        width: 1280
-        height: 640
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200328&t=2&i=1509159992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2Q222"
+        width: 818
+        height: 545
+  - title: "Microsoft drops Israeli facial recognition firm following accusations of mass surveillance"
+    excerpt: "In November last year, we reported on a controversy around AnyVision, an Israeli facial recognition company with ties to the government which was accused of peddling a mass surveillance solution that tracks Palestinians working in Israel around the West Bank. Microsoft, who has always advocated for the ethical use of AI technology, had taken a ..."
+    publishedDateTime: 2020-03-27T23:00:00Z
+    webUrl: "https://mspoweruser.com/microsoft-drops-israeli-facial-recognition-firm-following-accusations-of-mass-surveillance/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-drops-israeli-facial-recognition-firm-following-accusations-of-mass-surveillance/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-drops-israeli-facial-recognition-firm-following-accusations-of-mass-surveillance/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 49
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/facial-recognition.jpg"
+        width: 803
+        height: 533
 
 secured: "BWNV59kblSjKD95snCRweSxTsRHa72S5Gtsu+itDLxs3RjuURidYa8MXToKPNz9o4DV2H/uP0kvMp61rm4Xe5DnQJ+J6roPtTSdyFF0Z9ap/YPyn8nIq7EbkBmRb6cvwZv7y3ErGRge6VZJxGhwoI3q0nvwB1165ZVaEEJGT88Wt4Zete8soVhd54ePejYknD3Yrmd/jVFG3UwpkO3jfoiZi1GvwzXr3rEsZbdOyr+RTYdLcsxfw/wuC65Y2U9N3To7m70OQ+O9/BaBBaji+KXJTTwYnfXMnqXACE3Qx1tkwILbk90/bcti+mgrnMHgAXffFOVfukvQqXIpthRMeop1L+v16ckbrx7A70/0ZZHT5aUzHjx7TNWJvKnsOT/9yovc0H1Qle8v2hYuW08t/jKwHJLohywfflUYwlaFlsEmBkmKT6hOYKgKtCy3AEW34rTUIlDnHn20zD6swYHvlzlXz061gkOaQeyg4rvs9mOs=;sFtI9mlruANQU0RfrgqEsg=="
 ---
