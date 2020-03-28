@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-26T16:26:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/weka-named-winner-in-2020-artificial-intelligence-excellence-awards/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -24,19 +24,6 @@ images:
     title: "Weka Named Winner in 2020 Artificial Intelligence Excellence Awards"
 
 related:
-  - title: "Kneron Named Winner in 2020 Artificial Intelligence Excellence Awards"
-    excerpt: "low thermal profiles and yet complex neural network computational requirements “Kneron is honored to have been recognized by Business Intelligence Group for excellence in artificial intelligence,\" stated Albert Liu, Kneron’s Cofounder and CEO. “This award serves as inspiration for us to continue democratizing AI through building the Edge ..."
-    publishedDateTime: 2020-03-25T20:12:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200325005738/en/Kneron-Named-Winner-2020-Artificial-Intelligence-Excellence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
-    images:
-      - url: "https://mms.businesswire.com/media/20200325005738/en/777358/23/kneron_logo_transparent.jpg"
-        width: 1200
-        height: 627
   - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
     publishedDateTime: 2020-03-26T17:30:00Z
