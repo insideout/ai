@@ -1,25 +1,25 @@
 ---
 category: news
-title: "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia"
-excerpt: "p> IDC's FinTech Fast 101 was based upon extensive ... Lastly, OneConnect's rapid respond to customers' demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth online ..."
-publishedDateTime: 2020-03-18T10:22:00Z
-webUrl: "https://www.tmcnet.com/usubmit/-oneconnect-joins-idcs-financial-insights-fintech-fast-101-/2020/03/18/9116926.htm"
+title: "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia"
+excerpt: "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for"
+publishedDateTime: 2020-03-18T10:16:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200318005262/en/780435/4/IDC.jpg"
-    width: 278
-    height: 480
-    title: "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia"
-
-secured: "vlL8xEN5a8ep0xZdtLh+wkNfC43+AR3IbF2VZ2zSJOoZ1Ox0r/GnM+oqcXOblw9+OqaC8ud/fs3P0djbVvEzd9ojA0cBHPyfOyyeXYb2xwT+RgkViLwxihzm9ROAF5VZjSpERj2i96m6umP+uwPu4Fo36oJhfYOk2fAiUcXMbxh3MUJnaAa9MMHiWFYc+0P+CRs5usYzvpSKqHbS49rzDdKpFHyxyq89xFxqZM4sUAkEryQmfS64KhQomoum+H2Viys4MKAB74HHGyiq28tyJwBiVWmsHGY1CTagI+8iF5uPM/ZYZhYsbj0d+q4rOeOa;57oi6F40Yicx3YTI+5ZFvw=="
+secured: "Ae0wzatItlnmM6VzUNm1b1O9njIqnAWQHwT4L8xIFO0nV+itezGERznjeVRSMgIAJlejZ6owgTihvRsxxd97HHcpBWfCKZAwNdpxXQicr6aFJspBfX7TyIP+EnNoM364AiiiqqosqACUpWrpS16G9bH6DFpRRTd7WZ7aS2fRXgidNgJGBSmnpmrrJd7tfhsPY3cMslilpfTIo/cbmg2EPEVGo23H+G5y+VZveaDkli53cqwxSVq5MvzslRW6WN2AQkbPnxVDr7oCrdr/Oweo9bqAY9lJbHP3i0eKIJa1VxVaEVs4TRXIrVkAJWP4prXbqp556kQa705pxSWmWCY4e+zuyZJvSmZi7qK9u9E81iNchyzzfq7UHGIokfeUn/LQaj9v8jUWCV5U3xYfr9jVEZN6svuiKHfg5TExQ6awuQohCZ6povg4hDwHOdtYRDCS0bqvLarRjKS7rvqZapuB8Cp1vfUq4gReyWhsHxfK9g4=;dqS0aULktLIHv6t0t0UdJA=="
 ---
 

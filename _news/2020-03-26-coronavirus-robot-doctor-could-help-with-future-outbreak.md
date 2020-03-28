@@ -64,7 +64,7 @@ related:
     provider:
       name: CIOL
       domain: ciol.com
-    quality: 35
+    quality: 37
 
 secured: "YMngcoHuhy5EfIVuFsV1ApK0zDQ5hcuecZrcdK9kYy8qWM/cKolyDAk0r/mHaEWSoGGnOYvKnj9uSp1y6/ss/tJJjq6G3Zw1RJGg8D7zxWBdkh/fWVrET8i6P53zpTqwrg3aJJWpguYrSv1lkYwtt4Ymtw6hJL7lxeCnUEDYlI34b8KoWRvUV0LlsIUk+NIeboLXrK8N/ShOV6MwvNA7ID7vx1CXYmtMcqG5LxT3cmOEXKJzgP5q9BcSIkIBBnOilmyoe6Td3N1RybCRyIpXDMA3Jgv749ZhvlIciMdj0iSAxt1FQGjJS2t6iJQxeAD1;60ygtgquIkyy97+Cy8uRAA=="
 ---

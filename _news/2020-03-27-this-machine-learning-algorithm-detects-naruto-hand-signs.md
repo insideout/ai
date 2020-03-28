@@ -1,11 +1,11 @@
 ---
 category: news
 title: "This Machine Learning Algorithm Detects Naruto Hand Signs"
-excerpt: "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ..."
-publishedDateTime: 2020-03-27T17:48:00Z
-webUrl: "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs"
+excerpt: "math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single neural network running in Javascript, the Keras deep learning library, and a dataset of hand-gesture examples from the show to train the model. They posted the code for the neural network on Github. Every frame of hand gesture is translated ..."
+publishedDateTime: 2020-03-27T21:58:00Z
+webUrl: "https://www.vice.com/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs"
+ampWebUrl: "https://www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs"
 type: article
 quality: 89
 heat: 89
@@ -29,6 +29,6 @@ images:
     height: 1398
     title: "This Machine Learning Algorithm Detects Naruto Hand Signs"
 
-secured: "5d/iO3wsVXASZMCKxTmFoqhRBBaMDH4wttKCftndB7/rbOJay9MGyn4872JHIYghyEvjWQNBEUSKpJejTVTjDtvKJOlOrHpFcnXqPVH/MHI5eB8T08uLVhoE4Hvrlg55S+GEjelAv9Dat6uhGf99xyT2N0AW6vUJsvII+UdUc3mo3IVzHZR1NMy/sXsI01OdZSz/8dvqN9xjtiwf0GpI4z0iqEg5A7IM3bOqJAI+1ZIsM7gub6XH2yRfsyROpzk3jbP6rjDvDm6U42qYCDpyZe555z46ZSdlWXOn5mz5FkLfTWPKER8i/5d9ElYOmkwU+64UDMpbCMKd3h2V7ADp2bUB8hoPRL55juXO+6UO4vGyYoMoyRvGP/5xhpEATebZ7HuVa1qAwo6owe8GFUH8QIMawevAle6SUceOoFT6uqZnfcWKPCx/V6ra48Wf7iU6m1uRXyjncZr5OPdz+g/ZEBOjr5WbuX3uT0PETvT/INs=;6RzQdvbrvTm539Q3F+mF+Q=="
+secured: "2OH2f91MPXHTlh3bx9D7jDgVTKn6DgeTMK6FMH6kwdMXcspmDYFkWReBTi2hlNEGL0GdsQ4wlpA+m5y3YjKqyNAKMFRsbaBnJ/oPw1tU4bSluCm747CAOe9UqIVYDr+wJUpbKC6Skm6tJc3zfRN0JdR7glArGRw7QS3dL8y5mKoFGLgg0jyxrR1L5XdekDK3NnAL34JHbg30JnduwAmKAe5QQMEh6sqt4FQhTtZO9/tzNs0yWvs3lcDiW2+amwIDkSC93gTg4GFBikR+JLh2KEsTbaTu+AFIwlzwt0tJgZZo+HOYnLTUN/NwNCHKjQkd;0n+AvHkz6BQHB0LE0u/b/g=="
 ---
 

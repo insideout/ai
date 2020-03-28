@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonom
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

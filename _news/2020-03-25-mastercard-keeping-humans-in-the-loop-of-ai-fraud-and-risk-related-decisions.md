@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/mastercard-keeping-the-huma
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/"
 type: article
 quality: 84
-heat: 85
+heat: 84
 published: true
 
 provider:

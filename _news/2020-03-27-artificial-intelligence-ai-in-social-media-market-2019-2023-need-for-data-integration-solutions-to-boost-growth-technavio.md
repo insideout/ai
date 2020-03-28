@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Artificial Intelligence (AI) in Social Media Market 2019-2023 | Need for Data Integration Solutions to Boost Growth | Technavio"
 
-secured: "SY/TBkGc9SQZCNowRe5IHSBnt18Ajxz2uigu691DCd/cbbqnn+aVlwpePM0q94rOa2i3oSHxyG5LpD9wiwsalj/AW2K4lNgDT7er+Ly3NPpRdj4UNQjYSkZMa3GZYTjoEXBjmCcpEqGjnC7KPbJlBsLJxV+fpWocMJsTm5mb9rm+YLrNxYX7JCCWc11fLfwfz7nUh1YPd0Tyrz05xheCn45qyQiQDu1YDBvMLivaen0ChMFzqtEUNrYDQjpB0gBzTq6w5hegQU9KZVIId8slXnx7C+gImhfv2LF7ge9RrbgM6nt+X6qu+ItxZtzoGPpN;6woUBmL+pXfM5n0hhw9JCQ=="
+secured: "TsBf2LR11/Xd3yKxTz5ghHJRqkCdsV2n3sJSPyqdUmBel8Nm9SXCCdD7JfZ0J7jHEKAQjFEfeIZKOQH4v1S5HXC8Qx9PwQUOWbULOOvirRQ/jI3kK9gOvcN5qU4ql4kjjj+44Mvofs8LnrRZ5bwzca12MSq3Y93c5qhGeeGMY/AshyP4sGdGh3/rvGdCEPcixSOs7++wk9RTqrih7LP+XtGvBQED4T9OlTYt91UMzlx2JkaWOoTNF+mbKSpp+KWsHt2aoK/3DugW2TauV8N4KYipsaMwi5TCdC0zekdIoFieTVcvvs+tUgVfOjubiOcaBiCMTXSpALTMa0T8vOqSJY0FrmNL2yNIMuRIrt/cNXQk8dY2+pl4cOGZyYq4zqWr2kuOiCN4CBCDZ1W30aWoEP3n2HyQLeftrBEj0874UV5okSzSAliqooyJKdj/4d6PziNbE5fpfOTgUg0FWlN5s9EFnHfJihmDpw+FZHF/15o=;rdYPrUjBnGRHkXE6rBI9oA=="
 ---
 

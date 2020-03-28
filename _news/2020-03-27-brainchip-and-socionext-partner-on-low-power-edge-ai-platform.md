@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Brainchip and Socionext partner on low-power edge AI platform"
 
-secured: "eyn5fndc9bUUmxd+6Vy2R3bctcoYk8z7jsK/fZ2R0J+W3dOjLNUD/RFeVcK04lN61VLQd+GsqiHhZmDoDRknQ3UtH8SjAnFGf7FfzgqVRSR5iHJG7uyh/okicR2vzJdqTblrW32mvHMQ+9h/ckI6kgXWxMSl8wqQ7kSxMmx6YTgQ8YeTx8FgMVV76aJj7/XUigTtU1Vm7zpnwlLYduyqMHXb7dGvUgqgjZ1YAvDEF3nSsUP6MP3zl1w4l0oOJRxbGcRIoL7kw8D+kB3LFShRhdzXdWmwvjdGUqQOx9SybD/iwuJWMnT4SHixQHE76wzk;Pc5U2tYnoZTxCsnRVjCcGw=="
+secured: "4jVlEpTvU+eXFBXmtSeh+fM1ncbKtBjETYUTdsp/V3bm/orBe76czSYTC4CvvI5J/KJZEdEvGrd/Riq7dd5XDPVWvUQDVowF+pwocbD8jQtECD74Sh+mJ2W//fSdtrf5npHTUjz3RAI3VVS8N0waBFdmyk4Z5Lrm7AKM0YR03oPXyRXSZq++YhZoHLHjzaJ7VTF2WXvnkWQZi3Uv1Yhp/VcYFHPdqplFVM3JhSteqbeKlm+jpTMp+6KDUacJVgqlh14W1kdrLrvmSkwXMtNXZku1p1smyEWHHSmzL6i/0L1hcin5j5oV25D5hslW7O3+idJ04VLzgpLPd2yP6U59K/BOw58M8zzAKH/uMirNwjVwQv+hQitFDtmAvTG+sa6U6Zjivs3rWHWUO+31F5s72S33uVK+i5Vcx9Fm/s+Nu/Yb/6VhomKwBX9zFJvZ+PFYW5c3qkdahjWJLKmp4e+T22zvs+L1L98p6UuU8DjxYJg=;/D8R8uCMvLkBVVV/Otuq5g=="
 ---
 

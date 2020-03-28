@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/03/26/ai-powered-smart-glasses-ar
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/ai-powered-smart-glasses-are-finding-people-with-coronavirus-in-china/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

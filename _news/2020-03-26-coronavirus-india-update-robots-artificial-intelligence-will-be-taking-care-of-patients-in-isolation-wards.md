@@ -7,7 +7,7 @@ webUrl: "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelli
 ampWebUrl: "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/"
 type: article
-quality: 35
+quality: 37
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Coronavirus: Robot doctor could help with future outbreak"
