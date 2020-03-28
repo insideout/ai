@@ -2,6 +2,50 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-02-26-integrating-ai-and-hr-where-do-you-start.md",
+      "title": "Integrating AI And HR — Where Do You Start?",
+      "excerpt": "Artificial Intelligence has the potential to profoundly improve an organization’s bottom line, and HR leaders groups are exceptionally positioned to profit from it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/amp/",
+      "publishedDateTime": "2020-02-26T13:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56cfbcd378190007f45ea2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D371%26cropY2%3D2621",
+          "width": 1199,
+          "height": 675,
+          "title": "Integrating AI And HR — Where Do You Start?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-clearview-ais-law-enforcement-client-data-stolen-in-massive-breach.md",
       "title": "Clearview AI’s law enforcement client data stolen in massive breach",
       "excerpt": "“Security is Clearview’s top priority.” Tor Eklund, attorney for Clearview AI. Clearview AI, the dubious startup that’s cozied up to the US law enforcement community with its facial recognition software, has managed to crap the metaphorical bed by allowing an intruder to exploit a security flaw and make off with its entire client lis",
@@ -1245,43 +1289,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-government-to-hold-global-summit-on-ai-in-april.md",
-      "title": "Government to hold global summit on AI in April",
-      "excerpt": "NEW DELHI: The government will hold a global summit on artificial intelligence on 11-12 April to exchange ideas with the industry ... The summit will see participation from major tech companies including Intel, Microsoft and AWS in addition to researchers and scientists from Carnegie Mellon University, Stanford University and Indian Institute ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april-11582710062443.html",
-      "ampWebUrl": "https://www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april/amp-11582710062443.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/infotech/government-to-hold-global-summit-on-ai-in-april/amp-11582710062443.html",
-      "publishedDateTime": "2020-02-26T02:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/26/600x338/AI-kkGH--621x414@LiveMint_1582711656144.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Government to hold global summit on AI in April",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

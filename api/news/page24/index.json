@@ -2,6 +2,35 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-10-deep-learning-electrocardiogram-devices-found-to-be-susceptible-to-adversarial-attack.md",
+      "title": "Deep learning electrocardiogram devices found to be susceptible to adversarial attack",
+      "excerpt": "A team of researchers from New York University and NYU Langone Health has found that deep learning electrocardiogram devices can be susceptible to adversarial attacks. In their paper published in the journal Nature Medicine, the group describes how they developed an attack approach and tested it with electrocardiogram devices. Over the past ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
+      "publishedDateTime": "2020-03-10T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-how-canadian-ai-start-up-bluedot-spotted-coronavirus-before-anyone-else-had-a-clue.md",
       "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
       "excerpt": "An AI-based infectious disease surveillance system that searches the world around-the-clock for possible pandemics should have your attention. BlueDot Explorer On December 30, 2019, BlueDot, a Toronto-based startup that uses a platform built around artificial intelligence, machine learning and big data to track and predict the outbreak and ...",
@@ -894,51 +923,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-predictive-modelling-automl-which-ai-provider-to-choose.md",
-      "title": "Predictive modelling & AutoML: Which AI provider to choose",
-      "excerpt": "This is how Auto Machine Learning (AutoML) appeared, designed to make Machine Learning accessible to the greatest number of people, especially developers who do not have any knowledge in mathematics.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@aicompare/predictive-modelling-automated-machine-learning-which-ai-provider-to-choose-5b6075b07da7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*CmkQe29XGO19x9qt.png",
-          "width": 1200,
-          "height": 733,
-          "title": "Predictive modelling & AutoML: Which AI provider to choose",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

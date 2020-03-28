@@ -2,6 +2,52 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-02-18-join-the-innovators-in-enterprise-ai-at-transform-2020.md",
+      "title": "Join the innovators in enterprise AI at Transform 2020",
+      "excerpt": "The AI event of the year for business leaders, Transform 2020 doubles down on results-driven content that helps executives at the senior director level and above maintain their competitive edge. Expect two days of the most transformative trends in conversational AI, computer vision, IoT and AI at the edge, and automation, plus a special ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/join-the-innovators-in-enterprise-ai-at-transform-2020/amp/",
+      "publishedDateTime": "2020-02-18T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/4TPO2827.jpg?fit=6655%2C3329&strip=all",
+          "width": 6655,
+          "height": 3329,
+          "title": "Join the innovators in enterprise AI at Transform 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-mankato-robotics-teams-qualify-for-worldwide-competition.md",
       "title": "Mankato robotics teams qualify for worldwide competition",
       "excerpt": "which stands for artificial intelligence. Their team of eight students won the state championships in their division and will be competing at the world championships in April. Each student has a unique role to play. Anderson drives the robot using a game controller similar to an Xbox — picking up, moving and stacking green, purple and orange ...",
@@ -1210,42 +1256,6 @@
           "width": 1280,
           "height": 720,
           "title": "How the race to autonomous cars got sidetracked by human nature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-eu-plan-on-ai-new-rules-better-taxes.md",
-      "title": "EU plan on AI: new rules, better taxes",
-      "excerpt": "\"The new ... taxes and others do not,\" it adds. Other initiatives currently being discussed include an action plan on 6G, making data-centres more sustainable and a revision of the regulation on online identification. After the EU's approach to AI and ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://euobserver.com/science/147454",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-16T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EUobserver",
-        "domain": "euobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.eu-central-1.amazonaws.com/euobs-media/ed6fdf40109cab6388b14a8576373ce9-480x.jpg",
-          "width": 480,
-          "height": 320,
-          "title": "EU plan on AI: new rules, better taxes",
           "attribution": null
         }
       ],

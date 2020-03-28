@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-21-microsoft-and-adaptive-biotechnologies-partner-to-study-immune-response-to-covid-19.md",
+      "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
+      "excerpt": "Researchers will sequence immune cell receptors from the samples using Adaptive’s proprietary technology. The findings will then be analyzed by Microsoft’s large-scale machine learning capabilities and Azure cloud platform. “We can improve our collective understanding of COVID-19 by decoding the immune system’s response to the virus and ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-adaptive-biotechnologies-partner-study-immune-response-covid-19/amp/",
+      "publishedDateTime": "2020-03-20T18:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/20191008_GeekWire_Summit_244-630x450.jpg",
+          "width": 630,
+          "height": 450,
+          "title": "Microsoft and Adaptive Biotechnologies partner to study immune response to COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-translating-documents-with-amazon-translate-aws-lambda-and-the-new-batch-translate-api.md",
       "title": "Translating documents with Amazon Translate, AWS Lambda, and the new Batch Translate API",
       "excerpt": "With an increasing number of digital text documents shared across the world for both business and personal reasons, the need for translation capabilities becomes even more critical. There are multiple tools available online that enable people to copy/paste text and get the translated equivalent in the",
@@ -988,51 +1033,6 @@
           "width": 1200,
           "height": 675,
           "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-google.md",
-      "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
-      "excerpt": "After about three years of legal wrangling between Uber and Waymo over self-driving car tech, the engineer at the center of it has agreed to plead guilty to one count of stealing materials from Google. Anthony Levandowski was a lead engineer on the self-driving car project that's now known as Waymo, until he left to form his own company ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/19/ubers-former-self-driving-lead-pleads-guilty-to-stealing-from-g/",
-      "publishedDateTime": "2020-03-19T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F97bc78b0-6aa9-11ea-bbef-ef6aaf3814e8%26client%3Da1acac3e1b3290917d92%26signature%3Ddfbe6b14bd6b68e0cf808e931d1901198bc44b47&client=amp-blogside-v2&signature=6a3341e3904862e1c842819e0249daf2fe72c112",
-          "width": 600,
-          "height": 350,
-          "title": "Uber's former self-driving lead pleads guilty to stealing from Google",
           "attribution": null
         }
       ],
