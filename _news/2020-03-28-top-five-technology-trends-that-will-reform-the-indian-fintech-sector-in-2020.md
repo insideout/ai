@@ -25,6 +25,21 @@ images:
     height: 213
     title: "Top five technology trends that will reform the Indian fintech sector in 2020"
 
+related:
+  - title: "BoG urges stakeholders in financial sector to intensify education on e-payments"
+    excerpt: "Dr Addison urged financial sector players to improve the cyber security features of those payment platforms by using latest technology such as machine learning and artificial intelligence ... The Governor urged banks to continue working with the existing financial service providers and integrate new ones to develop new products that suited ..."
+    publishedDateTime: 2020-03-28T12:11:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/BoG-urges-stakeholders-in-financial-sector-to-intensify-education-on-e-payments-906958"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 20
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/762/76297628.jpg"
+        width: 600
+        height: 370
+
 secured: "C3dA8biQz+6+2zBz53I3FK+sLtjPsV/rNvlt++islAVdSjIYx2NoqtyosYbar76NaMdD5WYKx3nt/RMt+/cDDSlHkH/yJK1Fb5+x9Gnbtgz2WlqUri3TPvGW5pz1KQlriLjfRtxJHFLiy/oN33Sg1r+s8l4oTkSCYxzKj5SyYFn/livacshu7rPI6Kk9gGSpf8U7AmYxt/TQpmY5ifVKFsxQEWXu+nZVBhCUWlVb7swWnDEyuHw4P9cjP0osuccGl6DiTemRTv/VOoh50KF81AiO/ZOIf7qLSWWp7A7wSvRqWVyfYnaykzmhE9idoXUn;DrJhthKtsa4YWUJWIellWA=="
 ---
 
