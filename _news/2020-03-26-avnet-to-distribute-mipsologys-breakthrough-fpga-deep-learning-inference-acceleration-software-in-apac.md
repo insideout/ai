@@ -23,17 +23,6 @@ images:
     height: 272
     title: "Avnet to Distribute Mipsology’s Breakthrough FPGA Deep Learning Inference Acceleration Software in APAC"
 
-related:
-  - title: "Avnet to Distribute Mipsology's Breakthrough FPGA Deep Learning Inference Acceleration Software in APAC"
-    excerpt: "Zebra Dramatically Reduces Latency and Boosts Performance, Flattening Time-to-Market for AI Solutions in Autonomous Cars ... Zebra eliminates the need for FPGA expertise, making them as easy to use for deep learning inference acceleration as CPU/GPU. Running neural networks defined with TensorFlow, PyTorch, Caffe, and other frameworks on ..."
-    publishedDateTime: 2020-03-25T10:48:00Z
-    webUrl: "https://www.autoblog.com/press-releases/avnet-to-distribute-mipsologys-breakthrough-fpga-deep-learning-inference-acceleration-software-in-apac_22614/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 5
-
 secured: "UWzHEoo95ucdKRiMLgm142zAkYvQSWr+Y2FobJZtnpfOUeV75Ab/HTBHvmRmwECPdvRe0Lvfkk2eXRNC1fMhY6LCQgU2yHkngwHyzun1wiBOSV40mY/zflZp5yeW7mmLipmF4WLURJ3q7XCjEkgO5m0IZuA8s/dSKmNvEI7xg+dZfulyGMj+tmp3hmoAWnhvDqGfVHoUjT4inyZSKrkXcA2AgejitdWjxW3sMS63CU3HXSkaMNymGitRbvXab9FUsf7stLE2/2YABDC8f3LMdO0LEvR6mYBfRIWZW+24DTuY6lvkFzZUS6cbwpWQ3T03;SQbayl7Bl/DIg0ZdD+rsgw=="
 ---
 

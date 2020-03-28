@@ -1,25 +1,29 @@
 ---
 category: news
 title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
-excerpt: "PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that Amazon"
-publishedDateTime: 2020-03-25T04:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-301029298.html"
+excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ..."
+publishedDateTime: 2020-03-25T00:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-2020-03-25"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "UAXaSsG3wS0i0oaY65BNG6Kc+TaGOXjEwBwdOUanYAdtVwjlijMyjZMSx28AM2g6+Me0AzOdEIC+OBc5gsiGfNgVuylS131rVare+kQR8AP60v/knDrZP+H3ETdUl7Oln4DWDvgMPABwV4mBuiFJwnMuRy3mPr59c9qFcKJGrr6nO6aT7HLYE7hjeBCAnxff4uDF/DASeRZaRajYhO3yqCWdzuCnJtGvoHqlGK8YQ9QtGw5zMPk03/aBwALeKIaIef67BNOaewnoH5K5sB62FTlbGHDf4GFCeDqhWcNKyZ5NcP4vN/Oa0ZjlweZ9+zuH;TsCeVLHPH8f9oS9HQUU+BA=="
+secured: "yjkDgJZERsCPo9Ws4uayIQejPPhMtaWxGqNqquzpTCAL8aMhdvWVnkVQCw9UeIkY52F40yxvSQutl1bXZel23zkeGO1lKta5xxjwb74iOrXxiehLid4ulYTpevXYFkkmdhAAsi3iPm+IHC3o4DlVM4FyKzO4umlpZUgZEDW2AlAlm1ygCZLaerMvdYTvvpEHskmjChK6Db3eMBs4yt7V1m9andCoX38ScvRAe2fyEhnt7nH1UVXJ8ZlZdE/ILPeoUmz0/GLmAMn/niyAbb7dlmFzBPk1fYCcpXoOKNMlUuI4BlQm4p2RfrMI6BucZLVF;oFBvhdzxyyhLZeQsahQCuw=="
 ---
 

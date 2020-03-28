@@ -45,19 +45,19 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_13/3286861/200327-microsoft-logo-ew-448p_28e8f3a238f1b48562b85fc79cc6e752.jpg"
         width: 2500
         height: 1667
-  - title: "Microsoft Divests From Israeli Facial-Recognition Startup"
+  - title: "Microsoft divests from Israeli facial-recognition startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically."
-    publishedDateTime: 2020-03-27T21:44:00Z
-    webUrl: "https://www.nytimes.com/aponline/2020/03/27/business/ap-us-microsoft-israel-facial-recognition.html"
+    publishedDateTime: 2020-03-27T21:57:00Z
+    webUrl: "https://www.sfgate.com/business/technology/article/Microsoft-divests-from-Israeli-facial-recognition-15162504.php"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 54
+      name: SFGate
+      domain: sfgate.com
+    quality: 24
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
+      - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
+        width: 500
+        height: 261
 
 secured: "tNaqNjdb5IZ2UXyrnIugwF6I2okRSVzpt9sPTvOznyp1PfYtD9dprgg+cbRW5WE5C+Wu7Dbq3RrTbR+RzhkR3mHBpAD6F0SmCzm/AmCYjDQuWLJtNhVRGaBJJRi6Z4Uv5a3ZMnKwwjUYB+yqpt+OU7LzcYP7wPIXMTChCpfvpTQdS2YTf19dNxP4x2n//frQkfO1gM25T8QLDd2VurTYblY3iJwUaVD7DiQnNX0FtPevCHHmoW5vnSGu/IzZPvtkhVZ69ZaI9oHTW3eQEFAqxsFbLN3+w2GB8VYRVRGsj1r1F22+ZCkSOejghv5v6eyQq7cYebwOrs7tTwggfRmfoffxw5W/Gj7sALP1f+NuuxB+P6M8T+mfNN++1fbUpeMTvXyOQaNV3buSNhan69TvMnswG2Ay8neuIS+E3j3XprzDXgPNB34DDZGKUlMDqlfZWFhZreO9gCzlFYdtKUS6s/ET6WymKyKvZRRWaZ8fpJk=;Ij8lmfsySRYFdQf0SGlWxQ=="
 ---

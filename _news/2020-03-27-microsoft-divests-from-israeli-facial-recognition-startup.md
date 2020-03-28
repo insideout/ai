@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Microsoft Divests From Israeli Facial-Recognition Startup"
+title: "Microsoft divests from Israeli facial-recognition startup"
 excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically."
-publishedDateTime: 2020-03-27T21:44:00Z
-webUrl: "https://www.nytimes.com/aponline/2020/03/27/business/ap-us-microsoft-israel-facial-recognition.html"
+publishedDateTime: 2020-03-27T21:57:00Z
+webUrl: "https://www.sfgate.com/business/technology/article/Microsoft-divests-from-Israeli-facial-recognition-15162504.php"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: SFGate
+  domain: sfgate.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-    width: 1200
-    height: 630
-    title: "Microsoft Divests From Israeli Facial-Recognition Startup"
+  - url: "https://www.sfgate.com/img/pages/article/opengraph_default.png"
+    width: 500
+    height: 261
+    title: "Microsoft divests from Israeli facial-recognition startup"
 
 related:
   - title: "Microsoft sells stake in Israeli facial recognition company"
@@ -59,6 +55,6 @@ related:
         width: 818
         height: 545
 
-secured: "W0dQ4iMvwC3h38iKpQbqwknGod+BztKf7wVfP74wPXdJXmhHySgOt+zQNrRbO+HMCKVUZYB3SI8PaDuMzb0Z2+pLTn3+/8fIP7sabKwinUleNy7JUHRFo8tngaF3T634xWlFVsBxATJ1SBXoLRFJ+XOda0VSVS/ANC656RJawGg+nDotzZXbM/1bZKELtlX/1l4804p2fHZTtlRF3g6Z+4YVZ8wwHijyDGSsr9jd4NfGr4lOiw/a38KQsVlOiwRzMrjZ6u7vo59dnTeJqF7Ljxc8D+a+yiVIwvjCAJQ8U4zZQMA402LE+wxHRDxf+8G7;+q3yKwlJMSe2avzxDTBnZg=="
+secured: "lSkX6U4LZyfSHVEh6t0QLjLsnQbh0gTUC+hqUVKM9HYK4ISL0j+QNvSsYxszZ+fHxnNnCZ0ro8j1RNJoyeS9tOgmta+39kZ07/mZItm4LXquQmiZ6qktBangaOtLmt8lXkkVH8P8o/ZeUPnxVu+OjqY5r2CymVQxZwva5seEvht7CmEWwaU7emzEt0t3s/YWaF9VHn+4nSwIzghNArmRVmjJntriNxU7CGxqyt176ia0ALq/h3DcwDLWuAVkV3x3J1+FA/8FKmPRyrpGY+//bA5EluAciyKfJ8kg566oNLaQdpqKkT6isY+goKO7nDrl;m0lV8JgzY+KsxzSW/rBdfw=="
 ---
 
