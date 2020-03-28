@@ -2,6 +2,35 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
+      "title": "Artificial Intelligence (AI) Market",
+      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-qa-toyota-ai-ventures-seeks-disruptive-start-ups.md",
       "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
       "excerpt": "Toyota AI Ventures, a subsidiary of Toyota Research Institute (TRI), is a Silicon Valley-based venture capital company which invests in early-stage start-ups developing technology in areas including AI, cloud, data, mobility and more. Mobile World Live spoke to Jim Adler, founding MD (pictured, right), about some of the key trends the company ...",
@@ -942,43 +971,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-recruited-to-find-clues-about-covid-19.md",
-      "title": "Artificial intelligence recruited to find clues about COVID-19",
-      "excerpt": "With data scientists and machine language experts mining the literature compilation known as COVID-19 Open Research Dataset ... Allen Institute of AI, Georgetown University’s Center for Security and Emerging Technology, the Chan Zuckerberg Initiative (named for Mark Zuckerberg, Facebook's founder, and his wife Priscilla Chan), and Kaggle ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rollcall.com/2020/03/16/artificial-intelligence-recruited-to-find-clues-about-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Roll Call",
-        "domain": "rollcall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.rollcall.com/wp-content/uploads/2020/03/WASHINGTON_VIRUS_007_03162020.jpg?resize=1200,600",
-          "width": 1200,
-          "height": 600,
-          "title": "Artificial intelligence recruited to find clues about COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

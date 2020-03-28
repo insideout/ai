@@ -2,6 +2,43 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
+      "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
+      "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations.md",
       "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
       "excerpt": "Amazon Personalize is a machine learning service which enables you to personalize your website, app, ads, emails, and more, with custom machine learning models which can be created in Amazon Personalize, with no prior machine learning experience. AWS is pleased to announce that Amazon Personalize now",
@@ -1256,51 +1293,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-us-homeland-security-has-used-facial-recognition-on-over-437-million-people.md",
-      "title": "U.S. Homeland Security has used facial recognition on over 43.7 million people",
-      "excerpt": "This morning in a hearing before House lawmakers on Capitol Hill, Department of Homeland Security (DHS) officials detailed the administration’s use of facial recognition technologies across the ...",
-      "heat": 225,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/",
-      "publishedDateTime": "2020-02-06T14:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all",
-          "width": 2560,
-          "height": 1440,
-          "title": "U.S. Homeland Security has used facial recognition on over 43.7 million people",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

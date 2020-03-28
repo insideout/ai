@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-23-darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf.md",
+      "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
+      "excerpt": "Senior Writer, Growth Quarters — Yessi leads the writing efforts at TNW’s Growth Quarters. Yessi leads the writing efforts at TNW’s Growth Quarters. Then, in September of that same year, the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/",
+      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
+      "publishedDateTime": "2020-03-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/darktrace-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
       "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
       "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
@@ -330,6 +374,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
+      "title": "Artificial intelligence system aimed at preventing drownings",
+      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kansascity.com/news/article241279376.html",
+      "ampWebUrl": "https://amp.kansascity.com/news/article241279376.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article241279376.html",
+      "publishedDateTime": "2020-03-21T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-21-why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19.md",
       "title": "Why AI might be the most effective weapon we have to fight COVID-19",
       "excerpt": "As governments and health organizations scramble to contain the spread of coronavirus, they need all the help they can get, including from artificial intelligence. Though current AI technologies are far from replicating human intelligence, they are proving to be very helpful in tracking the outbreak, diagnosing patients, disinfecting areas ...",
@@ -372,43 +445,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial Intelligence System Aimed at Preventing Drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "publishedDateTime": "2020-03-21T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1206,43 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence.md",
-      "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
-      "excerpt": "The beauty of artificial intelligence, however, lies in the way that organizations use it to prepare themselves. Breaking down to the nuances, it means understanding the customer behaviors and personalizing experiences so that they get exactly what they expect from a product or brand. Be it the world of business or healthcare, artificial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hostreview.com/blog/200320-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Host Review",
-        "domain": "hostreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

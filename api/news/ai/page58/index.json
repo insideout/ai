@@ -2,6 +2,51 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-01-24-london-police-deploy-real-time-facial-recognition-cameras.md",
+      "title": "London police deploy real-time facial recognition cameras",
+      "excerpt": "(Reuters) — British police are to start operational use of live facial recognition cameras in London, despite warnings over privacy from rights groups and concerns expressed by the government’s own surveillance watchdog. “The use of live facial recognition technology will be intelligence-led and deployed to specific locations in London ...",
+      "heat": 729,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/london-police-deploy-real-time-facial-recognition-cameras/amp/",
+      "publishedDateTime": "2020-01-24T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1074319518-e1579876576621.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "London police deploy real-time facial recognition cameras",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-24-heres-what-we-learned-by-teaching-an-ai-to-write-super-bowl-ads.md",
       "title": "Here’s What We Learned by Teaching an AI to Write Super Bowl Ads",
       "excerpt": "Super Bowl ads, the bot’s creators decided to touch base on how it’s going, what we’ve all learned and where this project seems to hint that AI is headed, at least in the realm of creativity. Here’s the conversation between Adweek emerging tech reporter Patrick Kulp and creative and innovation editor David Griner: David Griner ...",
@@ -1227,51 +1272,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-nhs-to-inject-more-robots-into-healthcare-with-uwe-bristol-partnership.md",
-      "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
-      "excerpt": "in developing robotics and other healthcare technology for one of the UK’s leading medical centres, Southmead Hospital. The partnership will explore how artificial intelligence (AI), machine learning, and socially and physically assistive robots could be employed to better support patients. One of the anticipated robotic systems is CHIRON ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe",
-      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
-      "publishedDateTime": "2020-01-23T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1579797035/unnamed.jpg",
-          "width": 1295,
-          "height": 736,
-          "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

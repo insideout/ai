@@ -2,6 +2,34 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-02-10-hello-new-member-here.md",
+      "title": "Hello, new member here",
+      "excerpt": "Hi, I had joined many years ago on another account but just got back on the site so made a new one. I’m on iPad and was wondering how we create a album or change themes, colors on our profile? I can’t seem to find out how. I just have a plain white ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.christianforums.com/threads/hello-new-member-here.8148658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-09T17:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Forums",
+        "domain": "christianforums.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
       "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
       "excerpt": "There has been increased hand-wringing across the AI community in recent months about the limitations of deep learning. Even deep learning's staunchest defenders, Bengio included, are beginning to ...",
@@ -1245,43 +1273,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-center-for-robotics-and-biosystems-at-northwestern-works-on-human-robot-collaboration.md",
-      "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
-      "excerpt": "“The robot can learn how well the user can operate on his or her own and adjust ... not to mention the application itself. “Artificial intelligence is a hot topic,” Lynch acknowledged. “At the highest level, embodied intelligence has to have some physical connection to the world. It’s not just chatbots but AI that receives information ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/center-robotics-biosystems-northwestern-human-robot-collaboration/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/cooperative-mobile-manipulators-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Center for Robotics and Biosystems at Northwestern works on human-robot collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

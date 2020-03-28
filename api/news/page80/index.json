@@ -2,6 +2,50 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-01-16-apple-acquires-xnorai-leaving-wyze-cams-blind-to-people.md",
+      "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
+      "excerpt": "It’s no that often, however, that you hear of such an acquisition causing a different company direct problems. That’s exactly the strange situation behind Apple’s reported purchase of Seattle-based startup Xnor.ai which is apparently the real reason why Wyze is losing a key feature of its smart security cameras. Although perhaps virtually ...",
+      "heat": 147,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/",
+      "ampWebUrl": "https://www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/apple-acquires-xnor-ai-leaving-wyze-cams-blind-to-people-15606956/amp/",
+      "publishedDateTime": "2020-01-15T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/wyze_insert_2.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Apple acquires Xnor.ai leaving Wyze cams blind to people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-review-wt2-plus-earbuds-translate-across-36-languages-and-85-accents.md",
       "title": "Review: WT2 Plus earbuds translate across 36 languages and 85 accents",
       "excerpt": "Humanity has been striving for a real-life Babel fish in the form of translation technology, and the rise of deep learning in recent years has seen machine translation develop in leaps and bounds.",
@@ -1056,43 +1100,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-marscat-robot-is-more-project-than-pet.md",
-      "title": "MarsCat robot is more project than pet",
-      "excerpt": "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
-      "publishedDateTime": "2020-01-15T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

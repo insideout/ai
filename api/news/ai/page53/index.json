@@ -2,6 +2,43 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-01-29-food-delivery-robots-roll-onto-ole-miss-campus.md",
+      "title": "Food delivery robots roll onto Ole Miss campus",
+      "excerpt": "OXFORD, Miss. — Artificial intelligence has arrived at Ole Miss in the form of food delivery robots. Thirty new robots have been roaming campus for a week, dropping off snacks, meals and drinks. It’s been exactly one week since Ole Miss launched 30 Starship delivery robots. They line up outside the student union, are packed with food and ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/",
+      "ampWebUrl": "https://wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "cdnAmpWebUrl": "https://wreg-com.cdn.ampproject.org/c/s/wreg.com/2020/01/29/food-delivery-robots-roll-onto-ole-miss-campus/amp/",
+      "publishedDateTime": "2020-01-29T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WREG",
+        "domain": "wreg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://localtvwreg.files.wordpress.com/2020/01/fooddelivery.jpeg?quality=85&strip=all&w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Food delivery robots roll onto Ole Miss campus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
       "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
       "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
@@ -1249,51 +1286,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-worlds-biggest-ever-self-driving-experiment-to-coincide-with-tokyo-olympics.md",
-      "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
-      "excerpt": "Set to take place in early July, just two weeks before the Tokyo Olympics, the multi-manufacturer group will produce some 80 self-driving vehicles",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/",
-      "ampWebUrl": "https://www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterlyon/2020/01/28/tokyo-olympics-to-coincide-with-biggest-self-driving-demonstration-in-history/amp/",
-      "publishedDateTime": "2020-01-29T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e310a64f133f400076afae6%2F0x0.jpg",
-          "width": 900,
-          "height": 563,
-          "title": "World’s Biggest-Ever Self-Driving Experiment To Coincide With Tokyo Olympics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

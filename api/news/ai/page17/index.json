@@ -2,6 +2,43 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
+      "title": "A competitive fintech environment encourages innovative technology",
+      "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/professional/blog/a-competitive-fintech-environment-encourages-innovative-technology/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-just-in-defense-innovation-unit-to-sponsor-computer-vision-prize-challenge.md",
       "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
       "excerpt": "HONOLULU, Hawaii — The Pentagon’s Defense Innovation Unit is preparing to launch another industry competition to boost computer vision technology that could aid disaster relief efforts, a top official said March 11. DIU was launched in 2015 by then-Secretary of Defense Ash Carter to bridge the gap between the military and the nation’s ...",
@@ -1082,35 +1119,6 @@
         "AWS AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth.md",
-      "title": "Behringer DeepMind 6 37-Key 6-Voice Polyphonic Analog Synth",
-      "excerpt": "This item is sold As-Described and cannot be returned unless it arrives in a condition different from how it was described or photographed. Items must be returned in original, as-shipped condition with all original packaging.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/32842704-behringer-deepmind-6-37-key-6-voice-polyphonic-analog-synth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

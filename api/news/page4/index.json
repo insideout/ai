@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
+      "title": "Cars Will Transform Before AI Drives Them",
+      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "publishedDateTime": "2020-03-25T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Cars Will Transform Before AI Drives Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
       "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
       "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
@@ -1028,35 +1072,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
-      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
-      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
-      "publishedDateTime": "2020-03-24T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

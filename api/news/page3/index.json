@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-26-news-rules-could-finally-clear-the-way-for-self-driving-cars.md",
+      "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
+      "excerpt": "Since an internet search company named Google began testing self-driving vehicles more than a decade ago, the still-in-development technology has faced a niggling issue: The federal vehicle safety rules that govern car design assume that a human sits behind the steering wheel of each vehicle. In fact, they assume each vehicle has a steering wheel.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/",
+      "ampWebUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
+      "publishedDateTime": "2020-03-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e7b7a0fadfa9d0008e095b2/master/pass/Transpo-selfdrivingcar-1158000221.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work.md",
       "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
       "excerpt": "How do you find the solution that is right for you, especially if you're under pressure to right wrongs during difficult times like these? Here are a few key things to consider.",
@@ -1035,50 +1080,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
-      "title": "Cars Will Transform Before AI Drives Them",
-      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
-      "publishedDateTime": "2020-03-25T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Cars Will Transform Before AI Drives Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

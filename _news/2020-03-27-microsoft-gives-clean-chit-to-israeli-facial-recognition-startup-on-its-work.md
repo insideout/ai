@@ -37,6 +37,21 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_13/3286861/200327-microsoft-logo-ew-448p_28e8f3a238f1b48562b85fc79cc6e752.jpg"
         width: 2500
         height: 1667
+  - title: "Microsoft pulls out of facial recognition startup AnyVision"
+    excerpt: "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,"
+    publishedDateTime: 2020-03-28T17:53:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
   - title: "Microsoft Divests From Israeli Facial-Recognition Startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically."
     publishedDateTime: 2020-03-27T21:44:00Z

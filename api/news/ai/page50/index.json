@@ -2,6 +2,50 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-02-03-how-chinese-tech-giants-are-assisting-in-the-battle-against-coronavirus-with-ai.md",
+      "title": "How Chinese tech giants are assisting in the battle against coronavirus with AI",
+      "excerpt": "Chinese tech giants Baidu and Alibaba have opened up their gene sequencing AI tools to help them find a solution. Alibaba said last week it had partnered with The Global Health Drug Discovery Institute from Beijing, to develop an open-sourced data platform to track coronavirus using AI. The company has also offered its tools to other ...",
+      "heat": 203,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/03/alibaba-baidu-google-ai-cornavrius-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-02T22:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FCornavirus.jpg&signature=8530299390c2e6d973c88fd717d125ae",
+          "width": 1200,
+          "height": 600,
+          "title": "How Chinese tech giants are assisting in the battle against coronavirus with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
       "title": "Victoria to use AI to detect heart attacks on emergency calls",
       "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
@@ -1185,50 +1229,6 @@
           "width": 1400,
           "height": 1050,
           "title": "Would you take a drug discovered by artificial intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
-      "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-      "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "publishedDateTime": "2020-01-31T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
           "attribution": null
         }
       ],

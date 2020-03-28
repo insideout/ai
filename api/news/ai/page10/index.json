@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-18-speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast.md",
+      "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
+      "excerpt": "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
       "title": "Is Python storming ahead of Java in fintech?",
       "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
@@ -657,31 +702,31 @@
     {
       "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
       "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
+      "excerpt": "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
       "publishedDateTime": "2020-03-18T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1128,43 +1173,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-why-voice-recognition-is-vital-to-payments-during-the-coronavirus-pandemic.md",
-      "title": "Why voice recognition is vital to payments during the coronavirus pandemic",
-      "excerpt": "And it calls for advanced speech recognition technology that concentrates as much on what is said as it does on the voice inflection of those saying it. For the past three years, London-based Speechmatics has offered its clients — generally companies that deploy call center services technology — with automated speech recognition that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.paymentssource.com/news/why-voice-recognition-is-vital-to-payments-during-the-coronavirus-pandemic",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsSource",
-        "domain": "paymentssource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/653d58d/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fd2%2Faf%2F2fab6d574ee5bb0f9e2ec2fd2b82%2F357401227.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Why voice recognition is vital to payments during the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

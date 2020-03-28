@@ -1,25 +1,25 @@
 ---
 category: news
 title: "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia"
-excerpt: "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ..."
+excerpt: "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for"
 publishedDateTime: 2020-03-18T10:16:00Z
-webUrl: "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast"
+webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg"
-    width: 1200
-    height: 627
-    title: "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia"
-
-secured: "NVw+SfZ9ahaP9McdCOyk4xFFajzAj6HUnwbMGE2+UC3kC9N7y0z9kv7CQ0ET3A6nDX/I6ThC4a8ILhj9NC/tNJlS3gYMQLCyBCg8VH31OZuTbC2dCmRg9q4Mfx2RqmXlp1a9Z6aJKu5y83W5CCyzVhvA2HzyFDBRm3RkrGg2GW9/HJkuQtJthhaD4yqWC5EfG2+6u3/ptq+K44+TeX5KOtAMxs/Eog6lSJBVcxdNdULZgPhC9L1GvO116iklFcFkcdYZKHmruyZggTpYt33XWgE7+kjJGorZSJV2uScQV7/KSJECgK1xoGgV4RGKzT4F;LUBLdZGL66L486BzZKukmQ=="
+secured: "GVEjkGUc8JsROqiAjyHvDDLdU5jkDXQm2kvU/2VvA3FyrvjpjClGI1IK0XF8PPPeZdSF0+ds1w4R9wfDo2R5uGKywePz8MCubtCpE0EX3Th+d7vtNF0qBxWSlyERqSua+W6cRb4Jbb3lEzDHMU7VPl7e3RHaxdMlTgxYnkQJK2t43E6ld+HiedJJEQ7GCnCgbzGY9hmv4h0thZJywQXev2LG5Wgk0dMqdD3+QEH3ng7envimQDpRTpWeBbStB7fK11ZYEuk6PlFIfw/ma1Ux7nB+g+4Qi2h8IKK83s2IB8hlMs0iLGzmAQkPMqDlo0gsJrYKBi6APIuxmqgOMyf53M7V4p9bNYLf8PPQ7nCgB9YUfDQeh2KggVwdkUMINGeScChxzbRaBnxlAe/UmOxBE57xWze2Pv3gWxpwx/qKHPvTMM+4wSRn4hQWrkXU4+hZ/T3V2nMdEAafqM0cQ2FWysusdn2cB7M5JfRQbZfBivg=;6e1mGYOyAxx2bXDg5MExiA=="
 ---
 

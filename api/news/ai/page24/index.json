@@ -2,6 +2,43 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-04-scientists-develop-ultra-precise-mind-controlled-prosthetic-limb.md",
+      "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
+      "excerpt": "(CN) – The next generation of mind-controlled prosthetics are within reach and will give amputees the ability to better operate bionic limbs. All it will take is a learning algorithm and some muscle power. The new technology detailed in a paper published ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/",
+      "ampWebUrl": "https://www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/scientists-develop-ultra-precise-mind-controlled-prosthetic-limb/amp/",
+      "publishedDateTime": "2020-03-04T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.courthousenews.com/wp-content/uploads/2020/03/Prosthetic1.jpg?fit=1000%2C666&ssl=1",
+          "width": 1000,
+          "height": 666,
+          "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-facebook-details-ai-system-that-helped-it-catch-900m-fake-accounts-last-year.md",
       "title": "Facebook details AI system that helped it catch 900M fake accounts last year",
       "excerpt": "The company has an entire unit dedicated to machine learning, the Facebook AI Research group, that is working on a variety projects including an initiative to speed up MRI scans and an effort to ...",
@@ -1121,43 +1158,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-a-dozen-microsoft-apis-for-web-developers.md",
-      "title": "A Dozen Microsoft APIs for Web Developers",
-      "excerpt": "The Microsoft Face API provides a slew of functionality that can be useful. The most basic part of the Face API is that it can detect faces within an image or video. You can use this information to recognize people. For example, you could capture an image ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.htmlgoodies.com/virtual-slideshows/a-dozen-microsoft-apis-for-web-developers.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HTML Goodies",
-        "domain": "htmlgoodies.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.htmlgoodies.com/imagesvr_ce/1994/face.JPG",
-          "width": 600,
-          "height": 288,
-          "title": "A Dozen Microsoft APIs for Web Developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

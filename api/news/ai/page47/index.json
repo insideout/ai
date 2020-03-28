@@ -2,6 +2,51 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-02-06-natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof.md",
+      "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
+      "excerpt": "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-coronavirus-fears-will-leave-empty-seats-at-a-top-ai-conference.md",
       "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
       "excerpt": "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ...",
@@ -1209,51 +1254,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
-      "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
-      "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

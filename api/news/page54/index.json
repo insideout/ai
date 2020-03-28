@@ -2,6 +2,51 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
+      "title": "What do we teach when we teach tech & AI ethics?",
+      "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@cfiesler/what-do-we-teach-when-we-teach-tech-ai-ethics-81059b710e11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T11:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*sJQ2hrt7-pn4boq3QgSXqQ.jpeg",
+          "width": 1200,
+          "height": 478,
+          "title": "What do we teach when we teach tech & AI ethics?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-2019-machine-learning-and-data-science-survey.md",
       "title": "2019 Machine Learning and Data Science Survey",
       "excerpt": "Every year, since 2017, the Kaggle community sets out to conduct an industry-wide survey on the State of Data Science and Machine Learning. This is for the year 2019. The dataset was gathered from a pool of 19,717 usable respondents from 171 countries and territories, cleaned and prepared by the Kaggle community. The young, mostly Indians and ...",
@@ -1042,42 +1087,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-waymo-content-search-can-find-billions-of-objects-encountered-over-20m-miles-in-seconds.md",
-      "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
-      "excerpt": "As of early 2020, Waymo self-driving vehicles have driven 20 million miles on public roads. That makes for vast amounts of recorded sensor data to improve the autonomous system. Waymo today detailed its Content Search tool and database with billions of encountered road objects ... road debris can include everything from plastic bags to tire ...",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5google.com/2020/02/06/waymo-content-search/",
-      "ampWebUrl": "https://9to5google.com/2020/02/06/waymo-content-search/amp/",
-      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/",
-      "publishedDateTime": "2020-02-06T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/03/waymo-expansion-mesa-arizona.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

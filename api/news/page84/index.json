@@ -2,6 +2,51 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2020-01-10-ubtechs-updated-walker-robot-does-yoga-and-pours-drinks.md",
+      "title": "Ubtech's updated Walker robot does 'yoga' and pours drinks",
+      "excerpt": "Walker's updated software is the result of continued AI training on its original hardware -- including the same optical sensors ... If you haven't already, it's about time you start saving up for your robot pal. Follow all the latest news from CES 2020 here!",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/10/ubtech-walker-robot-yoga-pouring-drinks/",
+      "publishedDateTime": "2020-01-10T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-01/10/5e161c85791cad4774d68586/5e18b3342e50cc3257502b58_o_U_v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Ubtech's updated Walker robot does 'yoga' and pours drinks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-10-amazon-aims-to-democratize-deep-learning-with-new-library-autogluon.md",
       "title": "Amazon aims to democratize deep learning with new library AutoGluon",
       "excerpt": "“We developed AutoGluon to truly democratize machine learning, and make the power of deep learning available to all developers,” said Jonas Mueller, AWS applied scientist. According to ...",
@@ -1013,51 +1058,6 @@
           "width": 620,
           "height": 480,
           "title": "New approach using deep learning could speed up brain image microscopy by 16 times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
-      "title": "'Artificial humans' named Neon are stars of CES",
-      "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
-      "publishedDateTime": "2020-01-08T15:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662",
-          "width": 2818,
-          "height": 1594,
-          "title": "'Artificial humans' named Neon are stars of CES",
           "attribution": null
         }
       ],

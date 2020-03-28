@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
+      "title": "Five Ways AI Is Changing The Game Of Content Marketing",
+      "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
+      "publishedDateTime": "2020-03-20T05:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F45.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Five Ways AI Is Changing The Game Of Content Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-self-driving-car-testing-freezes-due-to-covid-19.md",
       "title": "Self-driving car testing freezes due to COVID-19",
       "excerpt": "Waymo will continue to monitor COVID-19 developments until any further service changes are needed. Cruise Automation, the self-driving arm of General Motors Co., also took to Twitter to explain how it would be suspending its own self-driving test operations and closed its San Francisco facilities with the hope of re-opening in three weeks.",
@@ -602,6 +647,36 @@
       ]
     },
     {
+      "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
+      "title": "Domo Announces Support for Amazon SageMaker Autopilot",
+      "excerpt": "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15611470",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470",
+      "publishedDateTime": "2020-03-19T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-developing-applications-for-an-ai-enabled-world.md",
       "title": "Developing Applications for an AI-Enabled World",
       "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting pricing, recognizing images, and improving decision making are ...",
@@ -932,88 +1007,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-coronavirus-health-workers-at-newcross-healthcare-to-be-training-to-perform-oxygen-therapy.md",
-      "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-      "excerpt": "Training is being delivered in partnership with Docebo - a leading artificial intelligence learning platform - to cover virus protection and infection control. It will also train skills to perform Oxygen therapy (ventilation for respiratory infections), blood pressure, temperature and Oxygen saturation, using PPE gear in line with NHS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyecho.co.uk/news/18319277.coronavirus-health-workers-newcross-healthcare-training-perform-oxygen-therapy/",
-      "ampWebUrl": "https://www.dailyecho.co.uk/news/18319277.amp/",
-      "cdnAmpWebUrl": "https://www-dailyecho-co-uk.cdn.ampproject.org/c/s/www.dailyecho.co.uk/news/18319277.amp/",
-      "publishedDateTime": "2020-03-19T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Southern Daily Echo",
-        "domain": "dailyecho.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailyecho.co.uk/resources/images/11155370/?type=responsive-gallery",
-          "width": 650,
-          "height": 433,
-          "title": "Coronavirus: Health workers at Newcross Healthcare to be training to perform oxygen therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research.md",
-      "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages, Alibaba Cloud is also trying to build a virtual community where doctors from China can share their experiences and answer questions from their peers around the world. Alibaba's research arm DAMO Academy also revealed that it would make three applications available as a ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "ampWebUrl": "https://www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research",
-      "publishedDateTime": "2020-03-19T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/LVg6Poe67rd5TpWqhLcfie-1200-80.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Alibaba Cloud offers AI platform to support coronavirus medical research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

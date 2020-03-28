@@ -2,6 +2,50 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-01-22-theres-nowhere-to-hide-anymore-this-ai-can-see-around-corners.md",
+      "title": "There's nowhere to hide anymore: This AI can see around corners",
+      "excerpt": "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/sorry-theres-nowhere-to-hide-this-ai-can-see-around-corners/",
+      "publishedDateTime": "2020-01-21T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/exUfnlVhyXneSn2qZmf2J9UfJ-k=/756x567/2020/01/09/e0e4d486-f8d6-46bd-b260-426ee82d8d3f/rs-show-ces-2020-sld-laser-lights-holdingstill.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "There's nowhere to hide anymore: This AI can see around corners",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust.md",
       "title": "Singapore releases latest AI Framework edition to improve governance and trust",
       "excerpt": "Almost a year to the day since the Singapore government released its first edition of the Model AI Governance Framework, a second edition has been announced at the 2020 World Economic Forum (WEF), aimed at improving consumer trust on the use and governance of artificial intelligence (AI). The updated version [PDF] of the Model AI Governance ...",
@@ -1020,43 +1064,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos.md",
-      "title": "IBM spearheading AI regulation and ethics debate at Davos",
-      "excerpt": "IBM also suggests that companies appoint chief AI ethics officials, carry out assessments to determine how much harm an AI system may pose, and maintain documentation about data when “making determinations or recommendations with potentially significant implications for individuals” so that the decisions can be explained. Spearheading the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesslive.co.za/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "ampWebUrl": "https://www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "cdnAmpWebUrl": "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/world/2020-01-21-ibm-spearheading-ai-regulation-and-ethics-debate-at-davos/",
-      "publishedDateTime": "2020-01-21T05:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesslive.co.za",
-        "domain": "businesslive.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/jDCyDuJDTIlYc8w2p3497rWrABJ42N0xyjTuW-w7wX4jzNQfMRfjVN0NoRucfSfjCoGVTzbEz6NzKPJvz5nUjCCQivQq8oCT=s1000",
-          "width": 1000,
-          "height": 666,
-          "title": "IBM spearheading AI regulation and ethics debate at Davos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

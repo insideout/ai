@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-04-fighting-hand-tremors-first-comes-ai-then-robots.md",
+      "title": "Fighting hand tremors: First comes AI, then robots",
+      "excerpt": "Robots hold promise for a large number of people with neurological movement disorders severely affecting the quality of their lives. Now researchers have tapped artificial intelligence techniques ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141455.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
       "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
       "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
@@ -1164,43 +1201,6 @@
           "width": 1199,
           "height": 675,
           "title": "Is Artificial Intelligence A Myth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-10-robotics-startups-to-watch-in-2020.md",
-      "title": "10 robotics startups to watch in 2020",
-      "excerpt": "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/robotics-startups-to-watch-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2019/06/robust-ai.jpeg",
-          "width": 972,
-          "height": 745,
-          "title": "10 robotics startups to watch in 2020",
           "attribution": null
         }
       ],

@@ -2,6 +2,35 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
+      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
+      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
+      "publishedDateTime": "2020-03-24T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
       "title": "How personalization and machine learning can improve cancer outreach ROI",
       "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
@@ -1019,50 +1048,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80.md",
-      "title": "Google open-sources framework that reduces AI training costs by up to 80%",
-      "excerpt": "Google researchers recently published a paper describing a framework — SEED RL — that scales AI model training to thousands of machines. They say that it could facilitate training at millions of frames per second on a machine while reducing costs by up to 80%, potentially leveling the playing field for startups who couldn’t previously ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
-      "publishedDateTime": "2020-03-23T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources framework that reduces AI training costs by up to 80%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

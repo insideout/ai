@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-23-darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf.md",
+      "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
+      "excerpt": "Senior Writer, Growth Quarters — Yessi leads the writing efforts at TNW’s Growth Quarters. Yessi leads the writing efforts at TNW’s Growth Quarters. Then, in September of that same year, the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/",
+      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
+      "publishedDateTime": "2020-03-23T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/darktrace-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
       "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
       "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
@@ -330,6 +374,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
+      "title": "Artificial intelligence system aimed at preventing drownings",
+      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.kansascity.com/news/article241279376.html",
+      "ampWebUrl": "https://amp.kansascity.com/news/article241279376.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/article241279376.html",
+      "publishedDateTime": "2020-03-21T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-21-why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19.md",
       "title": "Why AI might be the most effective weapon we have to fight COVID-19",
       "excerpt": "As governments and health organizations scramble to contain the spread of coronavirus, they need all the help they can get, including from artificial intelligence. Though current AI technologies are far from replicating human intelligence, they are proving to be very helpful in tracking the outbreak, diagnosing patients, disinfecting areas ...",
@@ -372,43 +445,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial Intelligence System Aimed at Preventing Drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "publishedDateTime": "2020-03-21T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1000,51 +1036,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-five-ways-ai-is-changing-the-game-of-content-marketing.md",
-      "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-      "excerpt": "Can an individual keep up with the advancing of technology? Can a team of individuals stay up to date in today's digital-dominant world without the assistance of technology? Think of all the tasks that need to be performed before any piece of content goes live: keyword research,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/20/five-ways-ai-is-changing-the-game-of-content-marketing/amp/",
-      "publishedDateTime": "2020-03-20T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F45.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Five Ways AI Is Changing The Game Of Content Marketing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

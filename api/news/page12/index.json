@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-18-natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital.md",
       "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
       "excerpt": "/PRNewswire/ -- Convizit, a startup applying unique AI technologies to disrupt the product analytics market, announced today the closing of a $5M seed",
@@ -456,31 +501,31 @@
     {
       "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
       "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
+      "excerpt": "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485",
       "publishedDateTime": "2020-03-18T03:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -927,43 +972,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-why-voice-recognition-is-vital-to-payments-during-the-coronavirus-pandemic.md",
-      "title": "Why voice recognition is vital to payments during the coronavirus pandemic",
-      "excerpt": "And it calls for advanced speech recognition technology that concentrates as much on what is said as it does on the voice inflection of those saying it. For the past three years, London-based Speechmatics has offered its clients — generally companies that deploy call center services technology — with automated speech recognition that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.paymentssource.com/news/why-voice-recognition-is-vital-to-payments-during-the-coronavirus-pandemic",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsSource",
-        "domain": "paymentssource.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/653d58d/2147483647/strip/true/crop/4000x2100+0+284/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2Fd2%2Faf%2F2fab6d574ee5bb0f9e2ec2fd2b82%2F357401227.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Why voice recognition is vital to payments during the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
