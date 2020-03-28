@@ -6,7 +6,7 @@ type: course
 price: Free+
 length: 17 hours
 ratings:
-  count: 17985
+  count: 19788
   average: 4.8
 heat: 0
 
@@ -19,13 +19,20 @@ provider:
       height: 50
   publishers:
     - name: deeplearning.ai
-      domain: 
+      domain: deeplearning.ai
+      images:
+        - url: https://insideout.app/ai/assets/images/organizations/deeplearning.ai-50x50.jpg
+          width: 50
+          height: 50
 
 levels:
   - Intermediate
 
 topics:
   - AI
+  - Google AI
+tags:
+  - TensorFlow
 
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/38/1d2dd0104e11e8a9fde55ba46c309d/CarouselAds_DL_Sequence.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF

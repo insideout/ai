@@ -6,7 +6,7 @@ type: course
 price: Free+
 length: 10 hours
 ratings:
-  count: 1818
+  count: 1992
   average: 4.5
 heat: 0
 
@@ -27,6 +27,7 @@ levels:
 topics:
   - AI
   - Machine Learning
+  - Google AI
 tags:
   - TensorFlow
 

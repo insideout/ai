@@ -6,7 +6,7 @@ type: course
 price: Free+
 length: 9 hours
 ratings:
-  count: 1330
+  count: 2019
   average: 4.6
 heat: 0
 
@@ -19,7 +19,11 @@ provider:
       height: 50
   publishers:
     - name: deeplearning.ai
-      domain: 
+      domain: deeplearning.ai
+      images:
+        - url: https://insideout.app/ai/assets/images/organizations/deeplearning.ai-50x50.jpg
+          width: 50
+          height: 50
 
 levels:
   - Intermediate
