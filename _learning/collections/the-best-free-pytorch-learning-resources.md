@@ -1,6 +1,6 @@
 ---
-title: "Best PyTorch Learning Resources in 2020"
-excerpt: "A handpicked collection of PyTorch learning resources. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab."
+title: "The Best Free PyTorch Learning Resources in 2020"
+excerpt: "A handpicked collection of free PyTorch learning resources. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab."
 type: collection
 heat: 25234
 
