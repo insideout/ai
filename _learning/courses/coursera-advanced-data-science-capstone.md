@@ -6,8 +6,8 @@ type: course
 price: Free+
 length: 10 hours
 ratings:
-  count: 155
-  average: 4.7
+  count: 199
+  average: 4.6
 heat: 0
 
 provider:
@@ -19,7 +19,11 @@ provider:
       height: 50
   publishers:
     - name: IBM
-      domain: 
+      domain: ibm.com
+      images:
+        - url: https://insideout.app/ai/assets/images/organizations/ibm.com-50x50.jpg
+          width: 50
+          height: 50
 
 levels:
   - Advanced

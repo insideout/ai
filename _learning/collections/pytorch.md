@@ -1,10 +1,13 @@
 ---
-title: "PyTorch Learning Resources"
-excerpt: "A collection of learning resources about PyTorch - an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab."
+title: "Best PyTorch Learning Resources in 2020"
+excerpt: "A handpicked collection of PyTorch learning resources. PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing. It is primarily developed by Facebook's AI Research lab."
 type: collection
 heat: 25234
 
-query: item.tags contains 'PyTorch'
+items:
+  - courses/pytorch-deep-learning-with-pytorch-a-60-minute-blitz
+  - courses/coursera-deep-neural-networks-with-pytorch
+  - courses/edx-deep-learning-with-python-and-pytorch
 
 levels:
   - Beginner
