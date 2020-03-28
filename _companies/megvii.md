@@ -41,6 +41,7 @@ topics:
 
 tags:
   - Facial Recognition
+  - Image Recognition
 
 images:
   - url: "https://pbs.twimg.com/profile_images/1239848977958199298/DqKmJSLa_400x400.jpg"
