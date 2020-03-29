@@ -45,6 +45,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21"
         width: 600
         height: 350
+  - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
+    excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
+    publishedDateTime: 2020-03-29T21:32:00Z
+    webUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
+        width: 1024
+        height: 682
   - title: "Microsoft Alters Policy on Facial-Recognition Investments"
     excerpt: "The company is ending its controversial investment in Israeli startup AnyVision as it swears off minority stakes in suppliers of facial-recognition technology."
     publishedDateTime: 2020-03-27T23:52:00Z

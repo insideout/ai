@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/2ALAt6DzWNqs0Ri5QfT_05ngypY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66567547/acastro_180507_1777_microsoft_0003.0.jpg"
         width: 1400
         height: 933
+  - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
+    excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
+    publishedDateTime: 2020-03-29T21:32:00Z
+    webUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
+        width: 1024
+        height: 682
   - title: "Microsoft Alters Policy on Facial-Recognition Investments"
     excerpt: "The company is ending its controversial investment in Israeli startup AnyVision as it swears off minority stakes in suppliers of facial-recognition technology."
     publishedDateTime: 2020-03-27T23:52:00Z

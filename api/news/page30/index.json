@@ -2,6 +2,88 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-03-mlb-swings-from-amazons-aws-to-google-cloud-for-data-and-analytics.md",
+      "title": "MLB Swings From Amazon’s AWS to Google Cloud for Data and Analytics",
+      "excerpt": "Major League Baseball is benching Amazon Web Services, with the league picking Google Cloud as its new data and analytics partner. Under a multiyear pact, Google Cloud becomes MLB’s official cloud",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://variety.com/2020/digital/news/mlb-google-cloud-amazon-aws-statcast-1203522184/",
+      "ampWebUrl": "https://variety.com/2020/digital/news/mlb-google-cloud-amazon-aws-statcast-1203522184/amp/",
+      "cdnAmpWebUrl": "https://variety-com.cdn.ampproject.org/c/s/variety.com/2020/digital/news/mlb-google-cloud-amazon-aws-statcast-1203522184/amp/",
+      "publishedDateTime": "2020-03-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Variety",
+        "domain": "variety.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pmcvariety.files.wordpress.com/2020/03/mlb-2019-world-series.jpg?w=700&h=393&crop=1",
+          "width": 700,
+          "height": 393,
+          "title": "MLB Swings From Amazon’s AWS to Google Cloud for Data and Analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato.md",
+      "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
+      "excerpt": "Computer vision has been a key driver behind the artificial intelligence boom of the past two years. But it has also come with significant controversy. Businesses need to be aware of the potential ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
+      "publishedDateTime": "2020-03-03T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/computer-vision.GettyImages-1132582956.jpg?fit=2112%2C1103&strip=all",
+          "width": 2112,
+          "height": 1103,
+          "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-an-algorithm-could-make-cpus-a-cheap-way-to-train-ai.md",
       "title": "An algorithm could make CPUs a cheap way to train AI",
       "excerpt": "Our results improved by about 50 percent with their help.\" SLIDE is a promising development for those involved in AI. It's unlikely to replace GPU-based training any time soon, because it's far easier to add multiple GPUs to one system than multiple CPUs.",
@@ -954,87 +1036,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology.md",
-      "title": "Pontifical Academy for Life, tech companies, call for ethical use of AI technology",
-      "excerpt": "“Algor-ethics,” according to the text, is the ethical use of artificial intelligence according to the principles of transparency, inclusion, responsibility, impartiality, reliability, security, and privacy. The signing of the “Rome Call for AI Ethics” took place as part of the 2020 assembly of the Pontifical Academy for Life, which was ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.catholicnewsagency.com/news/pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology-77167",
-      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology-77167",
-      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology-77167",
-      "publishedDateTime": "2020-02-28T11:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catholic News Agency",
-        "domain": "catholicnewsagency.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.catholicnewsagency.com/images/St_Peters_Basilica_Credit_Bohumil_Petrik_CNA.jpeg?w=375&h=250",
-          "width": 375,
-          "height": 250,
-          "title": "Pontifical Academy for Life, tech companies, call for ethical use of AI technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50.md",
-      "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
-      "excerpt": "A recent survey of over 10,000 office workers by a U. S. tech firm found respondents were wasting more than 40% of their day on repetitive data work.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/",
-      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
-      "publishedDateTime": "2020-02-28T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5946917a00980007347bb4%2F0x0.jpg",
-          "width": 876,
-          "height": 586,
-          "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

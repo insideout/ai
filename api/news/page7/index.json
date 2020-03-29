@@ -2,6 +2,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-23-coronavirus-spain-to-use-artificial-intelligence-to-automate-testing.md",
+      "title": "Coronavirus: Spain to use artificial intelligence to automate testing",
+      "excerpt": "According to Bloomberg, Spanish authorities now plan to increase daily testing from about 20,000 a day to 80,000, by using four robots to apply artificial intelligence (AI) to testing. Speaking at a conference on Saturday 21 March, Raquel Yotti, head of Madrid’s health institute, said: “A plan to automate tests through robots has already ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing",
+      "ampWebUrl": "https://www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252480445/Coronavirus-Spain-to-use-Artificial-intelligence-to-automate-testing?amp=1",
+      "publishedDateTime": "2020-03-23T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/article/Artificial-intelligence-robot-datacenter-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "Coronavirus: Spain to use artificial intelligence to automate testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
       "title": "Tesla files patent for sourcing self-driving training data from its fleet",
       "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
@@ -993,50 +1031,6 @@
           "width": 1200,
           "height": 608,
           "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-stuart-russell-on-how-to-make-ai-human-compatible.md",
-      "title": "Stuart Russell on how to make AI ‘human-compatible’",
-      "excerpt": "He joined us onstage at TC Sessions: Robotics + AI to discuss the threat he perceives from AI, and his book, which proposes a novel solution. Russell’s thesis, which he develops in “Human Compatible: Artificial Intelligence and the Problem of Control,” is that the field of AI has been developed on the false premise that we can ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "publishedDateTime": "2020-03-20T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/stuart-russell-ai-robotics-2.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Stuart Russell on how to make AI ‘human-compatible’",
           "attribution": null
         }
       ],
