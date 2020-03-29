@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-18-85-of-organizations-are-using-ai-in-deployed-applications.md",
+      "title": "85% of organizations are using AI in deployed applications",
+      "excerpt": "For mature adopters, the need to control for interpretability and transparency of machine learning models was the second-most cited risk factor (~55%), while those still evaluating AI placed fairness, bias, and ethics (~40%) in second place. While the risks of AI can be intimidating, the benefits can be worth the risk. For all adopters ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/85-of-organizations-are-using-ai-in-deployed-applications/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
+      "publishedDateTime": "2020-03-18T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/12/30/1d648c0f-4760-4136-b873-d81d41107963/resize/1200x/0ca267f50dad0a49084f5dcccb3c2b75/istock-1167065891.jpg",
+          "width": 1200,
+          "height": 791,
+          "title": "85% of organizations are using AI in deployed applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-finastra-appoints-gary-e-bischoping-jr-as-chief-financial-officer.md",
       "title": "Finastra Appoints Gary E. Bischoping, Jr. as Chief Financial Officer",
       "excerpt": "/PRNewswire/ -- Finastra has appointed Gary E. Bischoping, Jr. as Chief Financial Officer (CFO), effective March 16, 2020. Based at Finastra's headquarters",
@@ -927,51 +972,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

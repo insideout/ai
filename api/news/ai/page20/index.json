@@ -2,6 +2,89 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-03-11-ibm-is-bringing-project-debater-to-watson.md",
+      "title": "IBM is bringing Project Debater to Watson",
+      "excerpt": "and Watson Discovery. This is the first commercialization of Project Debater since IBM Research introduced the AI capable of maintaining debate with human champions in June 2018. In its first match, which took place for an audience of reporters and investors at offices in San Francisco, Project Debater argued against Israel International Debate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/ibm-is-bringing-project-debater-to-watson/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/ibm-is-bringing-project-debater-to-watson/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/ibm-is-bringing-project-debater-to-watson/amp/",
+      "publishedDateTime": "2020-03-10T21:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/Project-Debater-with-human-professional.jpg?fit=1200%2C800&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM is bringing Project Debater to Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-enhances-watsons-natural-language-understanding-capabilities.md",
+      "title": "IBM enhances Watson’s natural language understanding capabilities",
+      "excerpt": "IBM Corp. said today it has made some big improvements to the natural language processing capabilities of its IBM Watson platform. The new capabilities, which were born out of IBM Research’s Project Debater, will help Watson understand and analyze some of the most challenging aspects of English language with greater clarity than before ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/11/ibm-enhances-watsons-natural-language-understanding-capabilities/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/13623054195_149c8b9839_k.jpg",
+          "width": 2048,
+          "height": 1500,
+          "title": "IBM enhances Watson’s natural language understanding capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ibm-debater-ai-tech-now-is-a-service-any-customer-can-use.md",
       "title": "IBM Debater AI tech now is a service any customer can use",
       "excerpt": "The AI technology can spot trends in mountains of data like tweets, blog posts and podcasts. In 2018, IBM debuted technology called IBM Debater that used artificial intelligence technology to read lots of documents and take on a human in a competitive debate about issues like whether we should subsidize preschools.",
@@ -1097,79 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-canadian-ai-start-up-bluedot-spotted-coronavirus-before-anyone-else-had-a-clue.md",
-      "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
-      "excerpt": "An AI-based infectious disease surveillance system that searches the world around-the-clock for possible pandemics should have your attention. BlueDot Explorer On December 30, 2019, BlueDot, a Toronto-based startup that uses a platform built around artificial intelligence, machine learning and big data to track and predict the outbreak and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue",
-      "ampWebUrl": "https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue?amp",
-      "publishedDateTime": "2020-03-10T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-03/explorer-flights.jpg",
-          "width": 700,
-          "height": 377,
-          "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management.md",
-      "title": "ACI Worldwide debuts new machine learning kit for fraud management",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to ... the new ‘Incremental Learning’ technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, Head of Payments Intelligence ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/pressarticle/81765/aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "ACI Worldwide debuts new machine learning kit for fraud management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

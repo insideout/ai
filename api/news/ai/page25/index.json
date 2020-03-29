@@ -2,6 +2,96 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-03-03-computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato.md",
+      "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
+      "excerpt": "Computer vision has been a key driver behind the artificial intelligence boom of the past two years. But it has also come with significant controversy. Businesses need to be aware of the potential ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
+      "publishedDateTime": "2020-03-03T04:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/computer-vision.GettyImages-1132582956.jpg?fit=2112%2C1103&strip=all",
+          "width": 2112,
+          "height": 1103,
+          "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-an-algorithm-could-make-cpus-a-cheap-way-to-train-ai.md",
+      "title": "An algorithm could make CPUs a cheap way to train AI",
+      "excerpt": "Our results improved by about 50 percent with their help.\" SLIDE is a promising development for those involved in AI. It's unlikely to replace GPU-based training any time soon, because it's far easier to add multiple GPUs to one system than multiple CPUs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/03/rice-university-slide-cpu-gpu-machine-learning/",
+      "publishedDateTime": "2020-03-03T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252Fa5a838d0-5d55-11ea-be9d-03761c0564fd%26client%3Da1acac3e1b3290917d92%26signature%3Dc52e51ab1982fdec5d966cfa6e153907d1ec8eb7&client=amp-blogside-v2&signature=746be58771df3d630e3d62794a606e1497132d5b",
+          "width": 600,
+          "height": 350,
+          "title": "An algorithm could make CPUs a cheap way to train AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-machine-learning-25-million-students-in-the-country-to-train-on-ai-soon.md",
       "title": "Machine Learning! 2.5 million students in the country to train on AI soon",
       "excerpt": "Last week, NITI Aayog’s Atal Innovation Mission (AIM), in collaboration with the National Association of Software and Services Companies ... AI and machine learning touted to form the basis ...",
@@ -1159,95 +1249,6 @@
           "width": 1200,
           "height": 630,
           "title": "Putin's youngest daughter to run artificial intelligence institute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
-      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next.md",
-      "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
-      "excerpt": "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
-      "publishedDateTime": "2020-02-28T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg",
-          "width": 1200,
-          "height": 784,
-          "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
           "attribution": null
         }
       ],

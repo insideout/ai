@@ -309,6 +309,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-robots-could-help-us-combat-future-outbreaks-heres-how-experts-wish-they-could-help-us-now.md",
+      "title": "Robots could help us combat future outbreaks. Here's how experts wish they could help us now",
+      "excerpt": "Experts agree that robots could take over the \"dull, dirty and dangerous\" jobs humans are currently fulfilling.Countries such as China have already deployed robots to assist with certain tasks during the outbreaks,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wmur.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "ampWebUrl": "https://www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "publishedDateTime": "2020-03-26T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/robots-cnn-1585190672.jpg?crop=1.00xw:0.867xh;0,0.133xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": "Robots could help us combat future outbreaks. Here's how experts wish they could help us now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
       "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
       "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
@@ -1264,43 +1301,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
-      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-20-levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft.md",
+      "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
+      "excerpt": "Anthony Levandowski, the former head of Uber’s self-driving unit, has agreed to plead guilty to stealing trade secrets from his former employer Google before joining Uber and kickstarting the ride-sharing company’s self-driving car development. According to a statement from the US Department of Justice, Levandowski submitted documents on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.worldipreview.com/news/levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft-19463",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "World IP Review",
+        "domain": "worldipreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.worldipreview.com/media/image/shutterstock_1394391065_nycstock.jpg",
+          "width": 620,
+          "height": 400,
+          "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-running-these-workloads-you-should-take-a-look-at-the-ibm-z15.md",
       "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
       "excerpt": "Talk to any IT administrator about what they look for in a server platform and performance, openness, and security will top the list. Specifically, run my most demanding applications fast, enable my organization to support the range of workloads that power my modern business,",
@@ -1178,51 +1215,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-the-end-of-starsky-robotics.md",
-      "title": "The End of Starsky Robotics",
-      "excerpt": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016 ... to land many of the vulnerable jobs by the end of January and I’m in the process of selling ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*u_7DPtYho3U38K5MelTEXA.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "The End of Starsky Robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Autos"
       ]

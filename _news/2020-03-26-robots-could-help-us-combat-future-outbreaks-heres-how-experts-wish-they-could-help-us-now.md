@@ -3,17 +3,14 @@ category: news
 title: "Robots could help us combat future outbreaks. Here's how experts wish they could help us now"
 excerpt: "Experts agree that robots could take over the \"dull, dirty and dangerous\" jobs humans are currently fulfilling.Countries such as China have already deployed robots to assist with certain tasks during the outbreaks,"
 publishedDateTime: 2020-03-26T20:52:00Z
-webUrl: "https://www.wyff4.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
-ampWebUrl: "https://www.wyff4.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
-cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
+webUrl: "https://www.wmur.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
+ampWebUrl: "https://www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
-  name: WYFF4
-  domain: wyff4.com
+  name: WMUR9
+  domain: wmur.com
 
 topics:
   - AI in Robotics
@@ -25,6 +22,6 @@ images:
     height: 677
     title: "Robots could help us combat future outbreaks. Here's how experts wish they could help us now"
 
-secured: "HFg8jaqMeR2a9P7XoGFvYqNxC/YADeXplM4birBJ2x4lTol1Zs6bCiPAVHUgkkYH0TjL5hpkGxgMvPohF2NjooGybFYLt3PDGmpqZIkfWDdMlweatRy/n9dL+UverZhzYkmiCjW8XXuJ+q+CgdqRHqEHeFluGxAPWcd8WF85K8cngxURXMf5DBkIE5D0HTNdQAZB4PsnEndJoukp4TfzueYTBHu9ETGjNDJr1yJcsjJrGpAxZPVgsHY5ISzGcwwMeFe6fZ5antsIsDddVR4/hoOygPHMF/OVeazDHowERwpJM8JRkx8PS3f0ePejF4fT;TgFj30nfjo4ixxcyhj5Jeg=="
+secured: "v/NFcw6pVx8JOcT6vMpHEVFDpa6nGjanIZdqrPJBaPTgF+zr12mR/HBV6WrS8viKK90aGcrFUpBTsLvkz9zIKZRI9RJLuRtrnPv/WoE5y88gC8FfGkYe1FXoukOWV+XfyEz89B9cddVS3Sf7Eg91KZwWZdzFVknv8ycGhtZw49DLSOUtnP01Xc+MqqEwRWtB2jJ++AbLFpvVFk25wEgFTsFQ/XV7agIOiL165uY15JPTfNPHDhqk0/RX5lK8iUmvl0Ab/XHiLfQCpOPu8KG3mMlCgwPzCBVpIEqJ1OwD0GfDYUkXEyWeIM1St7jJ7QBm;7tCKqimZdtcYt+vfaK65wQ=="
 ---
 

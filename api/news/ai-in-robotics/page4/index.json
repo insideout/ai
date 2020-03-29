@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-20-boston-dynamics-spot-isnt-quite-the-terrifying-robot-hunter-you-think-it-is.md",
+      "title": "Boston Dynamics’ Spot isn’t quite the terrifying robot hunter you think it is",
+      "excerpt": "Contrary to popular belief, Boston Dynamics’ robots are not powered by artificial intelligence; many of its mechanical commands, while extremely sophisticated by modern robotic standards, must be initiated and guided by human operators. This means that when the bot fails to do what you want it to, it often involves heavy troubleshooting and ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/19/21144648/boston-dynamics-spot-robot-mass-state-police-trial-issues",
+      "publishedDateTime": "2020-02-19T16:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-is-artificial-intelligence-a-myth.md",
       "title": "Is Artificial Intelligence A Myth?",
       "excerpt": "Here is something we all love: tech buzz words and the grand promise of new technologies. You know its right, because me, you and the person pitching the sales deck, we use them all the time. \"The Internet Of Things will connect everything,",
@@ -1223,52 +1260,6 @@
       "topics": [
         "AI",
         "Computer Vision",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
-      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-11T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 511,
-          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
         "AI in Robotics"
       ]
     }

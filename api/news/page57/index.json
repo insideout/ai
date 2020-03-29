@@ -2,6 +2,94 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-05-what-role-will-or-does-artificial-intelligence-play-in-your-life.md",
+      "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
+      "excerpt": "It doesn’t seem too long ago that artificial intelligence (AI) was mostly the stuff of science fiction. Today it seems to be everywhere: in our home appliances, in our cars, in the workplace, even on our wrists. To some extent, our use of AI is still a matter of personal choice. But because AI is becoming increasing ubiquitous, we need to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/",
+      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
+      "publishedDateTime": "2020-02-05T15:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17a49da854780006e83185%2F0x0.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
+      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
+      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
+      "publishedDateTime": "2020-02-05T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
       "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
       "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
@@ -968,87 +1056,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-deep-learning-market-analysis-and-forecast-2026.md",
-      "title": "Deep Learning Market Analysis And Forecast 2026",
-      "excerpt": "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,",
-      "heat": 279,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-and-forecast-2026-2020-02-04",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T18:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Analysis And Forecast 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-artificial-intelligence-finds-drug-that-could-fight-wuhan-coronavirus.md",
-      "title": "Artificial intelligence finds drug that could fight Wuhan coronavirus",
-      "excerpt": "Chemistry matters. Join us to get the news you need. Yes! I want to get the latest chemistry news from C&EN in my inbox every week. ACS values your privacy. By submitting your information, you are gaining access to C&EN and subscribing to our weekly newsletter. We use the information you provide to make your reading experience better, and we ...",
-      "heat": 177,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://cen.acs.org/physical-chemistry/computational-chemistry/Artificial-intelligence-finds-drug-that-could-fight-Wuhan-coronavirus/98/i6",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-04T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C&EN",
-        "domain": "acs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://acs-h.assetsadobe.com/is/image//content/dam/cen/98/6/WEB/09806-scicon1-bar.jpg/?$responsive$&wid=700&qlt=90,0&resMode=sharp2",
-          "width": 700,
-          "height": 456,
-          "title": "Artificial intelligence finds drug that could fight Wuhan coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,80 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
+      "title": "ForwardX debuts computer vision AMR fleet",
+      "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmr.com/article/forwardx_debuts_computer_vision_amr_fleet/news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
+          "width": 300,
+          "height": 400,
+          "title": "ForwardX debuts computer vision AMR fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-deep-learning-market-2020-2024-the-growing-application-of-deep-learning-to-boost-growth-technavio.md",
+      "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
+      "excerpt": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/a94670244f6f4ac5a5bace41724d9414",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-the-top-7-use-cases-for-touch-screen-object-recognition.md",
       "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
       "excerpt": "Use these examples to inspire your own brand campaigns for touchscreen object recognition and interactive displays, tables, and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a special marker chip or ...",
@@ -896,79 +970,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-canadian-ai-start-up-bluedot-spotted-coronavirus-before-anyone-else-had-a-clue.md",
-      "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
-      "excerpt": "An AI-based infectious disease surveillance system that searches the world around-the-clock for possible pandemics should have your attention. BlueDot Explorer On December 30, 2019, BlueDot, a Toronto-based startup that uses a platform built around artificial intelligence, machine learning and big data to track and predict the outbreak and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue",
-      "ampWebUrl": "https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue?amp",
-      "publishedDateTime": "2020-03-10T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-03/explorer-flights.jpg",
-          "width": 700,
-          "height": 377,
-          "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management.md",
-      "title": "ACI Worldwide debuts new machine learning kit for fraud management",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to ... the new ‘Incremental Learning’ technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, Head of Payments Intelligence ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/pressarticle/81765/aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "ACI Worldwide debuts new machine learning kit for fraud management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

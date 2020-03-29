@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
+      "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
+      "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-5-elements-of-a-comprehensive-government-ai-strategy.md",
       "title": "5 Elements of a Comprehensive Government AI Strategy",
       "excerpt": "Strategy architects should identify appropriate performance metrics for the AI, adopt data ethics guardrails, and explicitly define performance standards in terms of accuracy, explainability, transparency and preventing bias. An AI upgrade may require platform, data and technical upgrades. The U.S. Department of Health and Human Services ...",
@@ -1110,51 +1155,6 @@
           "width": 1200,
           "height": 675,
           "title": "'AI everywhere' IoT chips coming from Arm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-intel-made-experimental-chips-that-can-smell.md",
-      "title": "Intel made experimental chips that can smell",
-      "excerpt": "but a team at Intel has been attempting to train AI to something unorthorodox for a computer: smell. Researchers from Intel Labs and Cornell University have announced that Intel’s neuromorphic research chip, dubbed Loihi, is able to “learn and recognize hazardous chemicals,” through algorithms that mimic the brain’s olfactory system.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/intel-made-experimental-chips-that-can-smell-17613449/",
-      "ampWebUrl": "https://www.slashgear.com/intel-made-experimental-chips-that-can-smell-17613449/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/intel-made-experimental-chips-that-can-smell-17613449/amp/",
-      "publishedDateTime": "2020-03-17T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/Intel-Loihi.jpg",
-          "width": 1424,
-          "height": 959,
-          "title": "Intel made experimental chips that can smell",
           "attribution": null
         }
       ],

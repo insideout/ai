@@ -2,6 +2,44 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-13-politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance.md",
+      "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
+      "excerpt": "We zoom in on how employers use controversial AI technology to monitor their employees. And we hear from IBM’s AI ethics chief how her company is trying to live up to the ethics it’s preaching. WORKPLACE SURVEILLANCE: Ever heard of “people analytics”?",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg",
+          "width": 1500,
+          "height": 1500,
+          "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-4-steps-to-improve-customer-experience-with-ai.md",
       "title": "4 Steps To Improve Customer Experience With AI",
       "excerpt": "With the above-mentioned challenges in mind, a multi-step, holistic effort is the best way for financial services companies to ensure their AI and machine learning initiatives deliver a return on ...",
@@ -1167,43 +1205,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
-      "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
-      "excerpt": "BENGALURU, India, March 13, 2020 /PRNewswire/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services report 2020. Infosys emerged as ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/infosys-ranked-a-leader-in-nelsonhall-s-cognitive-and-self-healing-it-infrastructure-management-services-report-2020-1028992553",
-      "publishedDateTime": "2020-03-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

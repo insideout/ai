@@ -2,6 +2,80 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-02-27-ibm-and-microsoft-sign-vatican-pledge-for-ethical-ai.md",
+      "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
+      "excerpt": "Tech giants promise to develop new technology in way that protects the rights of all people The 'Rome Call for AI Ethics' document calls for artificial intelligence to safeguard the rights of all humankind and for new regulations in fields such as facial recognition IBM and Microsoft have signed an “ethical resolution” with the Vatican to ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "ampWebUrl": "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "publishedDateTime": "2020-02-27T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-scientists-make-artificial-and-biological-neurons-communicate-over-the-internet.md",
+      "title": "Scientists make artificial and biological neurons communicate over the internet",
+      "excerpt": "But scientists in the U.K., Switzerland, Germany, and Italy are here to remind you that it really isn’t. In a recent experiment, the researchers fired up a working neural network that let biological and silicon-based artificial brain cells communicate with one another over an internet connection. At present, it’s still early stages for the ...",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp",
+      "publishedDateTime": "2020-02-27T10:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-newlab-and-the-boston-globe-team-up-to-launch-ai-tools-startup-applied-xlabs.md",
       "title": "Newlab and The Boston Globe team up to launch AI tools startup applied XLabs",
       "excerpt": "Applied XLabs is also the first startup to emerge Newlab’s venture studio program. When we first visited Newlab back in 2016, it described itself as a workspace for companies in robotics, AI and other fields. Now it’s created a studio model where it aims to bring together “diverse stakeholders” to create new companies in frontier tech.",
@@ -982,96 +1056,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
-      "title": "Simplifying Conversational AI, One Interaction At A Time",
-      "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
-      "publishedDateTime": "2020-02-26T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56da9e7a00980007345118%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3969%26cropY1%3D326%26cropY2%3D2560",
-          "width": 1200,
-          "height": 676,
-          "title": "Simplifying Conversational AI, One Interaction At A Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships.md",
-      "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
-      "excerpt": "Inspired by this, a team of researchers hailing from the MIT-IBM Watson AI Lab, MIT’s Computer Science and Artificial Intelligence Laboratory, Alphabet’s DeepMind, and Harvard University sought to simplify the problem of visual recognition by introducing a benchmark — CoLlision Events for Video REpresentation and Reasoning (CLEVRER ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
-      "publishedDateTime": "2020-02-26T15:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Google AI"
       ]
     }
   ],

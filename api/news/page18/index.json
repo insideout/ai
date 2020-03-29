@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-14-diu-to-host-another-computer-vision-contest.md",
+      "title": "DIU to Host Another Computer Vision Contest",
+      "excerpt": "The Defense Innovation Unit plans to continue its annual prize challenge for computer vision technologies designed to support disaster relief missions, National Defense Magazine reported Thursday. The xView2 Challenge aims to use artificial intelligence and machine learning for automated assessments of post-disaster damage. Last year's ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.executivegov.com/2020/03/diu-to-host-another-computer-vision-contest/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-14T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300000xogwBEAQ",
+          "width": 272,
+          "height": 270,
+          "title": "DIU to Host Another Computer Vision Contest",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-ibm-watson-gains-the-ability-to-understand-complex-topics.md",
       "title": "IBM Watson Gains The Ability To Understand Complex Topics",
       "excerpt": "“Language is a tool for expressing thought and opinion, as much as it is a tool for information,” said Rob Thomas, General Manager of IBM Data and AI. “This is why we’re harvesting technology from Project Debater and integrating it into Watson ...",
@@ -970,44 +1007,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance.md",
-      "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
-      "excerpt": "We zoom in on how employers use controversial AI technology to monitor their employees. And we hear from IBM’s AI ethics chief how her company is trying to live up to the ethics it’s preaching. WORKPLACE SURVEILLANCE: Ever heard of “people analytics”?",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-ethics-at-ibm-how-ai-could-help-fight-the-coronavirus-workforce-surveillance/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg",
-          "width": 1500,
-          "height": 1500,
-          "title": "POLITICO AI: Decoded: Ethics at IBM — How AI could help fight the coronavirus — Workforce surveillance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

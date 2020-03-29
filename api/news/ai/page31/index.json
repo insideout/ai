@@ -2,6 +2,87 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-02-24-fintech-the-personal-stories-of-the-money-hackers-who-have-changed-finance.md",
+      "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+      "excerpt": "Dan Simon has written a book about the people who created the technology firms that have been changing finance, such as Venmo and Braintree, Credit Karma, Lending Club, Kabbage, Yodlee, Clarity Money and Betterment.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomgroenfeldt/2020/02/24/fintech---the-personal-stories-of-the-money-hackers-who-have-changed-finance/amp/",
+      "publishedDateTime": "2020-02-24T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e53e07ad378190007f42478%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1283%26cropY1%3D228%26cropY2%3D950",
+          "width": 1200,
+          "height": 676,
+          "title": "Fintech — The Personal Stories Of The Money Hackers Who Have Changed Finance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-how-artificial-intelligence-can-leverage-big-data-to-boost-trade.md",
+      "title": "How artificial intelligence can leverage Big Data to boost trade",
+      "excerpt": "Artificial Intelligence isn’t going to replace company CEOs any time soon. But what AI is already doing is pretty impressive: uncovering unique connections and relationships that can help businesses become more efficient at what they do, developing insight into new products and solutions, and creating a more frictionless trading landscape.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://business.financialpost.com/sponsored/business-sponsored/how-artificial-intelligence-can-leverage-big-data-to-boost-trade",
+      "ampWebUrl": "https://business.financialpost.com/sponsored/business-sponsored/how-artificial-intelligence-can-leverage-big-data-to-boost-trade/amp",
+      "cdnAmpWebUrl": "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/sponsored/business-sponsored/how-artificial-intelligence-can-leverage-big-data-to-boost-trade/amp",
+      "publishedDateTime": "2020-02-24T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://financialpostcom.files.wordpress.com/2020/03/hsbc_cmb_image5.jpg",
+          "width": 4830,
+          "height": 3623,
+          "title": "How artificial intelligence can leverage Big Data to boost trade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-britains-top-cop-calls-for-law-on-police-use-of-artificial-intelligence.md",
       "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
       "excerpt": "framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition, which police in London started using in January, London police chief Cressida Dick said that she welcomed the government's 2019 manifesto pledge to create a legal framework for the police use of new technology like AI ...",
@@ -1170,96 +1251,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-hbo-hbo-max-are-heading-to-youtube-tv.md",
-      "title": "HBO, HBO Max Are Heading To YouTube TV",
-      "excerpt": "Google's live TV streaming platform will soon let users sign up for HBO, Cinemax, and HBO Max. WarnerMedia announced a distribution agreement that'll enhance YouTube TV with linear and on-demand content from the premium services.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv",
-      "ampWebUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
-      "publishedDateTime": "2020-02-22T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03tOrEwaESGaiyYPQwFtpM1-1.fit_lim.size_1200x630.v_1582386528.png",
-          "width": 1120,
-          "height": 630,
-          "title": "HBO, HBO Max Are Heading To YouTube TV",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-why-ai-companies-dont-always-scale-like-traditional-software-startups.md",
-      "title": "Why AI companies don’t always scale like traditional software startups",
-      "excerpt": "At a technical level, artificial intelligence seems to be the future of software. AI is showing remarkable progress on a range of difficult computer science problems, and the job of software developers – who now work with data as much as source code – is changing fundamentally in the process. Many AI companies (and investors) are betting ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/22/why-ai-companies-dont-always-scale-like-traditional-software-startups/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-22T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/scaling.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 1067,
-          "title": "Why AI companies don’t always scale like traditional software startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
       ]
     }
   ],

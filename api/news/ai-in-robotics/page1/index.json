@@ -174,6 +174,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-robots-could-help-us-combat-future-outbreaks-heres-how-experts-wish-they-could-help-us-now.md",
+      "title": "Robots could help us combat future outbreaks. Here's how experts wish they could help us now",
+      "excerpt": "Experts agree that robots could take over the \"dull, dirty and dangerous\" jobs humans are currently fulfilling.Countries such as China have already deployed robots to assist with certain tasks during the outbreaks,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wmur.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "ampWebUrl": "https://www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "publishedDateTime": "2020-03-26T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WMUR9",
+        "domain": "wmur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/robots-cnn-1585190672.jpg?crop=1.00xw:0.867xh;0,0.133xh&resize=1200:*",
+          "width": 1200,
+          "height": 677,
+          "title": "Robots could help us combat future outbreaks. Here's how experts wish they could help us now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-coronavirus-robot-doctor-could-help-with-future-outbreak.md",
       "title": "Coronavirus: Robot doctor could help with future outbreak",
       "excerpt": "Artificial intelligence and robotics experts in Edinburgh are working to create what they hope will be the first healthcare robots to hold a conversation with more than one person at a time. It is a project designed to help older people, but it could one day be used to help handle virus outbreaks like the coronavirus pandemic. \"It's not ...",
@@ -1174,52 +1211,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025.md",
-      "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
-      "excerpt": "Market Overview The Global Edge AI Hardware Market is anticipated to witness a CAGR of 20.3% over the forecast period 2020 - 2025. During 2018 it is estimated that about 212 million edge AI hardware was shipped and the figure is expected to reach a billion units by 2020.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

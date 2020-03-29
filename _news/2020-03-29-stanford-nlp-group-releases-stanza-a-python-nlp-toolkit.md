@@ -23,6 +23,6 @@ images:
     height: 822
     title: "Stanford NLP Group Releases Stanza: A Python NLP Toolkit"
 
-secured: "TCn/souE1b1UAgWi65C2E21EJ2Ljb+It3VmKgts/3SBJbfklGazvw2GL8HR2lgwbonQ6zEXM8a1aqQ1+crznf0u0QRb1ovH0DD3ittb8UkNgfBKTrgWAMTcOQhHJaYA2N3FzBu+To+S88ccr+YeLGJ0hQYuBpLi74Z0g+KJfgOs/GL72XJ/ccwBxgFKG+R2reNfgocArbgdpJu7Pd1BI/EdghRzzEPJkP7Hz7s7Tl4Y04MdBAiSoljjwpqt/8W5MA5yWoQfFFYs/d1GZlgjcIIfMQign9ehDqOTkKSsTJHEEvTeHGwnmatxmoPWA8BTJ;c/s0b5jK1BCgzi+FRood8g=="
+secured: "jgrJchPH6zoDkkx0ygJWVlheKmHw0JhtCPYPr/UWXO0OS9RJFZPGz066jg945ENWJ7+/M9u9AhKkdO1rstyW4djUVo9AC7GoOpQQtDWMY395FrHBPTOT2sr9gLLPtyCOJlqHnkY4bT+zMrmx1rJR7iSd83+AKyxLgihjJFqgc49GF+851SpAN/ty6H4T9n+R3IePx3HjwsyeyC5OFVWqJEzgawAEElbnLxxzqHT+4RcXyW8RmAJs0smo9s0nJbjX997hwDSoJLqWD/3VcPYF4NEQwCO9tD6xd9048HsuHAABjGu7McMajP51pYABEU/woYUsMlIPJdcIcNgbFceWiNqgFNtz/pQ9zz1N/hVgOt2cfx4u0RoOdxLSGXvL9QNtHcxYAXzeKrBsp6aQCcUSWBxREs+qMEo/oE+NHswrw6tDmJLKqilSsh6y7s5FZQq3WJM/QVaw4bIRkFkdf31xeC8im0B2L6hAGsht+dZrT5A=;Ezg0I1Eh20vQzh3YIKzUew=="
 ---
 

@@ -2,6 +2,87 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-02-12-robotics-companies-providing-technology-to-fight-coronavirus-in-china.md",
+      "title": "Robotics companies providing technology to fight coronavirus in China",
+      "excerpt": "She added that, as a result of the success of robots in helping against the coronavirus, China is likely to use more artificial intelligence and robotics in medical care. “It is set to be more common in the future,” she said. Coronavirus has spread across China and beyond, having started in Wuhan province, geographically central in the country.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://roboticsandautomationnews.com/2020/02/12/robotics-companies-providing-technology-to-fight-coronavirus-in-china/29921/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/02/ubtech-robot-in-china.png",
+          "width": 1015,
+          "height": 972,
+          "title": "Robotics companies providing technology to fight coronavirus in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-the-future-of-blockchain-fintech-50-2020.md",
+      "title": "The Future Of Blockchain: Fintech 50 2020",
+      "excerpt": "Over the past year, the price of bitcoin has more than doubled, and a number of imaginative new blockchain products have launched, showing the breadth of industries that could be impacted.",
+      "heat": 237,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/12/the-future-of-blockchain-fintech-50-2020/amp/",
+      "publishedDateTime": "2020-02-12T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42d3368b6cf300071e6e36%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future Of Blockchain: Fintech 50 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-uk-vc-firm-focused-on-artificial-intelligence-expands-to-southeast-asia.md",
       "title": "U.K. VC Firm Focused on Artificial Intelligence Expands to Southeast Asia",
       "excerpt": "Skymind Global Ventures, a venture capital firm that invests in artificial intelligence companies, on Wednesday launched an $800 million fund and said it would expand to Southeast Asia region. A significant portion of the $800 million fund will be used to invest in Southeast Asian AI companies, the company said in a statement to the press.",
@@ -1205,94 +1286,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-robot-with-coronavirus-advice-hits-times-square.md",
-      "title": "Robot with coronavirus advice hits Times Square",
-      "excerpt": "Worried about the spread of coronavirus? A five-foot tall (1.5 meter) Promobot might have your answer. The robot with a friendly face rolled into Times Square on Monday to help provide information about the new virus.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/11/robot-with-coronavirus-advice-hits-times-square.html",
-      "publishedDateTime": "2020-02-11T06:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106384789-1581430324237gettyimages-1166054633.jpeg?v=1581430362",
-          "width": 5042,
-          "height": 3456,
-          "title": "Robot with coronavirus advice hits Times Square",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-of-financial-aid-applications.md",
-      "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-      "excerpt": "Otterbot is a free, AI-powered texting service that can help high school seniors apply for financial aid that covers tuition and fees for college and other training. Last year, Washington ranked 48th among U.S. states for the percent of students who completed federal financial aid applications or FAFSA, a standardized form used for awarding ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/",
-      "ampWebUrl": "https://www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-powered-otterbot-chatbot-helps-students-navigate-choppy-waters-financial-aid-applications/amp/",
-      "publishedDateTime": "2020-02-11T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/04/20190330_155633-e1556638491703-630x407.jpg",
-          "width": 630,
-          "height": 407,
-          "title": "AI-powered ‘Otterbot’ chatbot helps students navigate choppy waters of financial aid applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
