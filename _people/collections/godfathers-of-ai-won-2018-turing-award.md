@@ -1,8 +1,8 @@
 ---
-title: "'Godfathers of AI' winning 2018 Turing Award"
+title: "'Godfathers of AI' won 2018 Turing Award"
 excerpt: "The 2018 Turing Award, known as the “Nobel Prize of computing,” has been given to a trio of researchers who laid the foundations for the current boom in artificial intelligence."
 type: collection
-heat: 223142
+heat: 13142
 
 items:
   - yoshua-bengio
