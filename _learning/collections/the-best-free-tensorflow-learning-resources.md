@@ -5,9 +5,19 @@ type: collection
 heat: 24234
 
 items:
-  - collections/coursera-tensorflow-in-practice
-  - collections/coursera-tensorflow-data-and-deployment
-  - collections/coursera-advanced-machine-learning-tensorflow-gcp
+  - courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning
+  - courses/coursera-convolutional-neural-networks-in-tensorflow
+  - courses/coursera-natural-language-processing-in-tensorflow
+  - courses/coursera-sequences-time-series-and-prediction
+  - courses/coursera-browser-based-models-with-tensorflowjs
+  - courses/coursera-device-based-models-with-tensorflow-lite
+  - courses/coursera-data-pipelines-with-tensorflow-data-services
+  - courses/coursera-advanced-deployment-scenarios-with-tensorflow
+  - courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp
+  - courses/coursera-production-machine-learning-systems
+  - courses/coursera-image-understanding-with-tensorflow-on-gcp
+  - courses/pluralsight-sequence-models-for-time-series-and-natural-language-processing
+  - courses/coursera-recommendation-systems-with-tensorflow-on-gcp
   
 levels:
   - Beginner
