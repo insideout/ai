@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
+      "title": "Tesla files patent for sourcing self-driving training data from its fleet",
+      "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/",
+      "ampWebUrl": "https://electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/amp/",
+      "publishedDateTime": "2020-03-23T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Screen-Shot-2020-03-23-at-5.48.09-AM-e1584968198929.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 372,
+          "title": "Tesla files patent for sourcing self-driving training data from its fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks.md",
       "title": "Israel builds survey-reading AI that predicts coronavirus outbreaks",
       "excerpt": "As coronavirus cases in Israel surge past 1,200, researchers in the country are predicting where it will spread next analyzing responses to questionnaires with AI. After members of the public report their condition, algorithms evaluate their answers to connect symptoms to locations. The results are then displayed on a map showing the clusters ...",
@@ -585,6 +630,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study.md",
+      "title": "Novel Artificial Intelligence to predict tumour response to drugs: Study",
+      "excerpt": "Researchers have used artificial intelligence (AI) to predict the sensitivity of tumours to three systemic ... urges them to stay put whichever city they are To determine if patients with NSCLC are responding to systemic therapy, radiologists currently quantify changes in tumour size, and the appearance of new tumor lesions, Dercle noted.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/",
+      "ampWebUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
+      "publishedDateTime": "2020-03-22T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1180,79 +1254,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
-      "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
-      "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
-      "publishedDateTime": "2020-03-20T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=1024",
-          "width": 1024,
-          "height": 662,
-          "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
-      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
-      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

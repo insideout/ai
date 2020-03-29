@@ -2,6 +2,80 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-18-ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next.md",
+      "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
+      "excerpt": "On Feb. 28, representatives from the Pontifical Academy for Life, Microsoft, IBM, FAO (UN Food and Agriculture Organization) and the Italian government signed the \"Rome Call for AI Ethics,\" a document developed to support an ethical approach to artificial intelligence. Founded in 1994, the Pontifical Academy is dedicated to study and inform on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/",
+      "ampWebUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
+      "publishedDateTime": "2020-03-18T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-18-march-doctor-looking-at-xray-on-tablet.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-precision-medicine-pushes-demand-for-hpc-at-the-edge-ai-on-the-fly-delivers.md",
+      "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+      "excerpt": "Parabricks, a company recently acquired by NVIDIA, has changed the paradigm and developed a GPU based solution that executes genomic analysis best practices ... generation of highly intelligent medical devices ready for field deployment. In fact, its AI on the Fly ® platforms and building blocks are being used by OEMs to build and deliver ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidehpc.com/2020/03/precision-medicine-pushes-demand-for-high-performance-computing-at-the-edge-ai-on-the-fly-delivers/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2019/12/vaccine-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
       "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
       "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
@@ -798,43 +872,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
-      "title": "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia",
-      "excerpt": "p> IDC's FinTech Fast 101 was based upon extensive ... Lastly, OneConnect's rapid respond to customers' demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth online ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-oneconnect-joins-idcs-financial-insights-fintech-fast-101-/2020/03/18/9116926.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/4/IDC.jpg",
-          "width": 278,
-          "height": 480,
-          "title": "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-cerence-powers-voice-for-all-new-uconnect-5-global-infotainment-platform-at-fca.md",
       "title": "Cerence Powers Voice for All-New Uconnect 5 Global Infotainment Platform at FCA",
       "excerpt": "Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive in-car experiences Brings its most innovative voice recognition capabilities to FCA model lineup, delivering more engaging and intuitive ...",
@@ -860,6 +897,43 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-oneconnect-joins-idcs-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia.md",
+      "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+      "excerpt": "IDC’s FinTech Fast 101 was based upon extensive ... Lastly, OneConnect’s rapid respond to customers’ demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200318005262/en/OneConnect-Joins-IDC’s-Financial-Insights’-FinTech-Fast",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200318005262/en/780435/23/IDC.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -899,88 +973,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted.md",
-      "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-      "excerpt": "Axon (Nasdaq: AAXN) has appointed three new members to its AI Ethics Board, including Dr. Wael Abd-Almageed, the company announced on Tuesday. The board was established in April 2018 to guide the responsible development and use of AI-powered technologies being developed. \"Our new AI Ethics Board members bring a wealth of knowledge and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govconwire.com/2020/03/axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GovCon Wire",
-        "domain": "govconwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://govconwire-media.s3.amazonaws.com/2020/03/18/2c/ab/57/f7/9d/73/eb/c4/servlet-9.filedownload",
-          "width": 272,
-          "height": 270,
-          "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-natural-language-processing-nlp-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025.md",
-      "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
-      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

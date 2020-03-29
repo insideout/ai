@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-13-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
+      "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+      "excerpt": "swept from China to the rest of the world, emerging technologies such as artificial intelligence (AI), data science, and other technologies were thrust into action to help humans manage the crisis. Here are 10 ways technology is being used to manage and fight COVID-19.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/amp/",
+      "publishedDateTime": "2020-03-12T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6b201b7d6f2600068f59ea%2F0x0.jpg",
+          "width": 1200,
+          "height": 586,
+          "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-the-humanization-of-customer-experience-in-an-era-of-artificial-intelligence.md",
       "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
       "excerpt": "This requires innovative solutions and making artificial intelligence a priority. 70% of companies are already using some form of AI to engage customers. 90% will be using AI within the next 24 months. Risk-averse markets such as healthcare, utilities and insurance are more than 70% of organizations are planning to make AI investments in the ...",
@@ -1169,53 +1215,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-how-to-teach-artificial-intelligence.md",
-      "title": "How To Teach Artificial Intelligence",
-      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-12T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 572,
-          "title": "How To Teach Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
       ]
     }
   ],

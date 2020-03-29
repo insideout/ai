@@ -3,14 +3,14 @@ category: news
 title: "Robots could help us combat future outbreaks. Here's how experts wish they could help us now"
 excerpt: "Experts agree that robots could take over the \"dull, dirty and dangerous\" jobs humans are currently fulfilling.Countries such as China have already deployed robots to assist with certain tasks during the outbreaks,"
 publishedDateTime: 2020-03-26T20:52:00Z
-webUrl: "https://www.wisn.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
-ampWebUrl: "https://www.wisn.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
-cdnAmpWebUrl: "https://www-wisn-com.cdn.ampproject.org/c/s/www.wisn.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
+webUrl: "https://www.ketv.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
+ampWebUrl: "https://www.ketv.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
+cdnAmpWebUrl: "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
 type: article
 
 provider:
-  name: WISN 12 NEWS
-  domain: wisn.com
+  name: KETV Omaha
+  domain: ketv.com
 
 topics:
   - AI in Robotics
@@ -22,6 +22,6 @@ images:
     height: 677
     title: "Robots could help us combat future outbreaks. Here's how experts wish they could help us now"
 
-secured: "iF8hNiqwamUTsH4x1fTu2O0l1zSDGphSUUmByoAL6xjfaHswkk98GY+25aAtaQI2soNbyU64CH6qlq25ranjChi4DuW7QdTgNhvhJWzoz79mt4alOLJw+Akxm0np985nY+P6WYUBo7ZuRmHj3WgOflaOT02wTqU1dcN12G2XwqiUxj1BJJWEFuoI4QW5BTqJIbBLq2xpVwq+5pcE5C4/AWkOeBEr6IsJBS9r6CZFSAbrQ2tV6YKGA+iewn84PxlSXk+lJyPS346XnX2bOXNP+NX1cNj0FWyoH0oWCfrrcIDIOE/dWzk5FvlY39InTR/Q;NE+bk/ce1eL6ImwWg6rUTQ=="
+secured: "Nbbpnv7nMRZpmDD4/ZjesJtPQ4pD1nIlpw0F641Nr5WpKYhRc3EKAxCjoqrI0s0zprQS1mUeP3QEajElRUaY1YFTISkdtPHAZOTohfaITVcewP6dAsXngbCbg1aRPXkJoerHpszAh68dDRTUL8Uh5cYNglZySxdgMzRTsvy7aYGPes6Uhdq+gha8K77vrcYmosgw3loRuY9BHlqo2UULgGtT8QSLG2rxPw9MiGyHvgtuSWs/IWu/qfM+vwpaB3a1+72t3dqCiIzP/LNTmD4OoF0jqlkiq411W9Yqd+eVzviGGX+Mp9HBWA8Ore/tRAlW;H7+YoTdEiEiEgbyLmQH8PQ=="
 ---
 

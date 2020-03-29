@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 600
     title: "Google releases Semantic Reactor for natural language understanding experimentation"
 
-secured: "YwxzltOci2o9PcGtfRl85NWMYTamXKylSgyIvpKSfnJCKLy9rxVvSWylkEOyXbdR+zSEhuET2gUzldH+d5pof27wdHiFkNZvkkhjJHyhMW3YqSHplgfT6x3Cc87v55wUVGgyxv4wmXccoO0U5SUqee0k/RYa5xLkpVtRmC9+jVV8wy9Zt3nTJExVTEC8eP7S59bQgNqGB7jHk6OVY2Wlfq8Fub9FX14XPXNYn8Iw8oNj3kFmaO58m8bvBt5vfNA9VZE9p881c4QxnJ7IumaS5MKv1Khy31aBb8xcJbvMAMjl7NVF5aRjPO9EvQnSOdelf+P1VQSoFufSijGMdw0Lb0b/OP0/LoAyeVd9ivkV1tcFOfR6ClW2+oAmQrG78HEKhQ/7DQ4ZI95tUolEaKFjtsFIBb+T0xsTVKj2GNxf2KNPJCFrF/h//wC+cIumhshOR8SIt/DKVJH76bOGIOwa8J3VfdVsWWYgZTeMfoauUjU=;5twfH2ZxL03r8k2SX0wCBg=="
+secured: "ylZLAmuAfYNjz4xpuPxs998a/rTAJLhWmrqjXSXJHa56ZP3rPXSblhMdv8aerneND8TZ7y6hZI92ELpBU4JuFLJ2NBkwbsi9XfcsWJhP2SLx2c8lL0FPnPLE95na34LLDi0p8i8goi4dIXTgC+4czS1VURf+fUcTs5GsOlOu5aGh2CYVBd4G161/JHdB0CfqUp4wN6FPCm9NvPpqbcqstfX7OzNZZ8MdUpqm/2aK88E9eDPuch7IwkFF1vnFf1U44+5OZchOMJOy/RsvOYBzUbMcydlmzQXC+05tjE7u7VRMLbmHZW0WCl7tDYIABzEc6vhRlKc19dkD5ySqaulPB0pEm/cLf1qQlzIaxBMXHkBnwiz4tZ1dDSEuf449z8lvmAZV5ioiQhjsqtrAXyrzt0k/axVd8JL8S59ybFku+kHChXWg0cCeQXFvUOlGGZWzZtW/1QbBs0SSe7Lvfw81f3Z5QFzPgxIc2DNpAyPkRno=;8S6ZI/9eMZlCA5TjXv4itQ=="
 ---
 
