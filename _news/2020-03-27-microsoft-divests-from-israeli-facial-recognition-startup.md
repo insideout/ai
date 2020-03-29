@@ -58,6 +58,21 @@ related:
       - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
         width: 756
         height: 567
+  - title: "Microsoft divests from Israeli facial recognition firm AnyVision"
+    excerpt: "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ..."
+    publishedDateTime: 2020-03-29T15:39:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828"
+    ampWebUrl: "https://m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470"
+        width: 640
+        height: 428
   - title: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work"
     excerpt: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz's TheMarker business newspaper and NBC News that its technology is used to surveil Palestinians who live in the occupied West Bank."
     publishedDateTime: 2020-03-27T20:43:00Z

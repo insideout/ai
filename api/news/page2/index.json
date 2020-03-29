@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025.md",
       "title": "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025",
       "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence In Fashion Retail Market which has",
@@ -540,14 +586,14 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wmur.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
-      "ampWebUrl": "https://www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "webUrl": "https://www.wlky.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "ampWebUrl": "https://www.wlky.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
       "publishedDateTime": "2020-03-26T13:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
+        "name": "WLKY",
+        "domain": "wlky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1051,51 +1097,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
-      "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-      "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/",
-      "ampWebUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "publishedDateTime": "2020-03-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/IMG_0440-1-e1579703019623.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 483,
-          "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
+      "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
+      "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "publishedDateTime": "2020-03-24T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564943%2Fnvidia-self-driving-car.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 631,
+          "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
       "title": "How 5G is enhancing business productivity",
       "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
@@ -999,43 +1044,6 @@
           "width": 1200,
           "height": 630,
           "title": "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study.md",
-      "title": "Speech Recognition Systems Have Higher Error Rates For Black People, Finds Study",
-      "excerpt": "No, you're not just imagining it. Speech recognition systems developed by the likes of Amazon, Apple, Google, IBM, and Microsoft all have higher error rates when transcribing speech from black people than when doing so for white people. So finds a study published today in the Proceedings of the National Academy of Sciences, which notes that the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study",
-      "ampWebUrl": "https://in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study?amp=1",
-      "publishedDateTime": "2020-03-23T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/s/speech-rec/speech-recognition-systems-have-higher-error-rates-for-black_hgke.620.jpg",
-          "width": 620,
-          "height": 364,
-          "title": "Speech Recognition Systems Have Higher Error Rates For Black People, Finds Study",
           "attribution": null
         }
       ],

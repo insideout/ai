@@ -1,25 +1,25 @@
 ---
 category: news
-title: "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia"
-excerpt: "OneConnect Financial Technology Co., Ltd. ('OneConnect” or the 'Company”) (NYSE: OCFT), a leading technology-as-a-service platform for"
-publishedDateTime: 2020-03-18T10:16:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-joins-idc-s-financial-insights-fintech-fast-101-list-of-leading-fintech-companies-in-asia-1029007485"
+title: "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia"
+excerpt: "p> IDC's FinTech Fast 101 was based upon extensive ... Lastly, OneConnect's rapid respond to customers' demands during the ongoing COVID-19 epidemic using AI, big data and blockchain, sets it apart from the competition. OneConnect has specifically offered five smart solutions, which enable financial institutions to experience a smooth online ..."
+publishedDateTime: 2020-03-18T10:22:00Z
+webUrl: "https://www.tmcnet.com/usubmit/-oneconnect-joins-idcs-financial-insights-fintech-fast-101-/2020/03/18/9116926.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "FIJJrRj62ooETs7l5M7ijpwthDlfCRsO4+EA6G91h5TYunnCmJlySWqKcIstilPEZagFx9UNZTkm76CSA9QDWaxPYtWnREXfFL5gRRa6GJ6ezW4QrnPxU1mgdn1ecWuwBiIHzEy7CjH7ZUvfGQpDnZaWq/LebsQ21mQQW0+/KZ0ywp0EYSq5DdoN3py9fAcbiQ/KmPqGwhflo9WEG6nuZ+81ChhuUhxkwh+Vn5aiAxYQD5C9Ay2htQscvb56/btvsNVHvUE0bgTwvVn3xuljjJdLsUC4dpvAafzNsLLD42Bivjrl7G3/yF8dxoMT2BPZQpX5mLLGpz5yM9mUJJ8dELHR44LTjbqKtGpD8E0UeNu32JvU3zmMwZ5mwUtPurPm/abWjVHbOr2HHmlS/ZAxgJ1gjbgwY/1TGxtnbbSJLI9WgLRDvRbHe6o2RZ+en9pFT1F6aUJG49lBkUSnZkTTQofIQZgmHpaT1+ayK5EgYvg=;BxGdVk7tFOSe7LeSdo4Faw=="
+images:
+  - url: "https://mms.businesswire.com/media/20200318005262/en/780435/4/IDC.jpg"
+    width: 278
+    height: 480
+    title: "OneConnect Joins IDC's Financial Insights' FinTech Fast 101 List of Leading FinTech Companies in Asia"
+
+secured: "L1AXYKBsO0WEtGOIFeW7WFP2oR0T27g3rbcJhVNuJoGIkvkcJb8LHg6RII3c2Xmg4YubI8/AaKwvPvbHmWM55URSzoaQ+00SKiHCt9iblouOZO7+3EKuOB83xzV11aszzzztR84A0k7yik9cn0A+9mG0ioo2s+O7fQ+OWsmFHYj/Y3MrIXvhnqfCYX2bcp8T3irdSLKhxVOKL1cRf62Es73ZNWPciVw7uxiuyfFeGVuN/IE8lBAOQ8LQbJSV5kH0ZAAZ6//sGGxsYxg9Ec65aa723PwJvoah9WeLiZNgNf6QJIkiF2PXm7JbLRsH0k5V;md20RH0f9S7wBTqlwMi0bA=="
 ---
 

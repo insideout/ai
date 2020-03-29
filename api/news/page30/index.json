@@ -2,6 +2,96 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
+      "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
+      "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
+      "publishedDateTime": "2020-03-02T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Hongqi-L4-Car.jpeg?fit=1680%2C987&strip=all",
+          "width": 1680,
+          "height": 987,
+          "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
+      "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
+      "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
+      "publishedDateTime": "2020-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/DSC04717.jpg?w=1024",
+          "width": 1024,
+          "height": 737,
+          "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-first-mwc-then-gdc-now-nvidias-gpu-conference-is-online-only-as-coronavirus-spreads-in-silicon-valley.md",
       "title": "First MWC, then GDC, now Nvidia's GPU conference is online-only as coronavirus spreads in Silicon Valley",
       "excerpt": "The list goes on. We’ve also heard that Google’s TensorFlow Dev Summit, a two-day affair for machine learning developers, that was planned next week for March 11 and 12, in Sunnyvale ...",
@@ -951,95 +1041,6 @@
           "width": 1200,
           "height": 600,
           "title": "ProBeat: Clearview AI’s short slippery slope",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-using-deepchem-with-amazon-sagemaker-for-virtual-screening.md",
-      "title": "Using DeepChem with Amazon SageMaker for virtual screening",
-      "excerpt": "Virtual screening is a computational methodology used in drug or materials discovery by searching a vast amount of molecules libraries to identify the structures that are most likely to show the target characteristics. \nIt is becoming a ground-breaking tool for molecular discovery due to the exponential",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-deepchem-with-amazon-sagemaker-for-virtual-screening/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T10:21:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/20/deepchem-sagemaker-5.gif",
-          "width": 500,
-          "height": 328,
-          "title": "Using DeepChem with Amazon SageMaker for virtual screening",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-putins-youngest-daughter-to-run-artificial-intelligence-institute.md",
-      "title": "Putin's youngest daughter to run artificial intelligence institute",
-      "excerpt": "Katerina Tikhonova, the youngest daughter of Russian President Vladimir Putin, was appointed head of a new artificial intelligence institute at Moscow State University, her fund said on Friday. Tikhonova,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-russia-putin-daughter-idUSKCN20M2RU",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN20M2RU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN20M2RU",
-      "publishedDateTime": "2020-02-28T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Putin's youngest daughter to run artificial intelligence institute",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
+      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
+      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
+      "publishedDateTime": "2020-03-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
+          "width": 801,
+          "height": 401,
+          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
       "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
@@ -396,43 +433,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
-      "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
-      "excerpt": "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theregister.co.uk/2020/03/17/ibm_cloud_tuesday_partial_outage",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
-      "publishedDateTime": "2020-03-17T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/03/01/shutterstock_ibmbuilding.jpg",
-          "width": 650,
-          "height": 434,
-          "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-17-microsoft-to-help-kubota-explore-ai-application-in-agriculture.md",
       "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
       "excerpt": "(RTTNews) - Tech giant Microsoft (MSFT) is set to help Japanese tractor and heavy equipment manufacturer Kubota with digital transformation. Both the companies have entered a multi-year strategic alliance,",
@@ -466,6 +466,43 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
+      "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+      "excerpt": "UK fintech types at Revolut 'quite happy' after a year in production A mystery outage hit IBM Cloud today, partially knocking out services for much of the day stateside. At time of writing, parts of the platform remain down. Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/17/ibm_cloud_service_hit_by_tuesday_outage/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "publishedDateTime": "2020-03-17T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/03/01/shutterstock_ibmbuilding.jpg",
+          "width": 650,
+          "height": 434,
+          "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -918,43 +955,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-javascript-face-detection-with-face-apijs.md",
-      "title": "JavaScript Face Detection with face-api.js",
-      "excerpt": "The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. As explained by face-api.js creator Vincent Mühler, face recognition with deep learning is a detailed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/face-api-js/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/face-api-js/en/headerimage/faceapi-1584401193144.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "JavaScript Face Detection with face-api.js",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

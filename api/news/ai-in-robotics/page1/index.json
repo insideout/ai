@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-29-construction-businesses-beginning-to-value-ai-and-robotics-for-multiple-challenges.md",
+      "title": "Construction Businesses Beginning to Value AI and Robotics for Multiple Challenges",
+      "excerpt": "The construction industry relies on human-powered labor for most projects, start to finish. But businesses are finally starting to take notice of AI and robotics. When you look at a completed building now, you assume that human workers did everything from moving the dirt to installing the plumbing to hanging the lights. But could a building one ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.robotics.org/blog-article.cfm/Construction-Businesses-Beginning-to-Value-AI-and-Robotics-for-Multiple-Challenges/246",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotic Industries Association",
+        "domain": "robotics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.robotics.org/userAssets/ogImage/RIA-SR-MAR2020-T2-1125525958-SM-FBLI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Construction Businesses Beginning to Value AI and Robotics for Multiple Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.md",
       "title": "AI to the aid: How robots can help in the fight against COVID-19",
       "excerpt": "The robot can disinfect 90 per cent of the places on its own. ''Astra requires a bit of human assistance only while disinfecting narrow corners. Typically, it takes just 15 minutes to disinfect a standard size room,'' claims Viswanathan, a graduate in artificial intelligence. Astra can wear many hats. ''The top UV unit of Astra can be ...",
@@ -180,14 +217,14 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wmur.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
-      "ampWebUrl": "https://www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
-      "cdnAmpWebUrl": "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "webUrl": "https://www.wlky.com/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "ampWebUrl": "https://www.wlky.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
+      "cdnAmpWebUrl": "https://www-wlky-com.cdn.ampproject.org/c/s/www.wlky.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291",
       "publishedDateTime": "2020-03-26T13:52:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WMUR9",
-        "domain": "wmur.com",
+        "name": "WLKY",
+        "domain": "wlky.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1164,43 +1201,6 @@
           "width": 1305,
           "height": 835,
           "title": "The Army Will Soon Be Able to Command Robot Tanks With Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-osaro-recognized-as-top-global-ai-startup-by-cb-insights-ai-100-cnbcs-upstart-100.md",
-      "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
-      "excerpt": "\"Each year, CNBC scans the globe looking for the 100 venture-backed start-ups that have the potential to transform industries ... Since 2015, OSARO's wider mission has been to build hardware-agnostic AI software that enables robots to function in a variety of environments and perform a diverse set of tasks. OSARO systems are compatible with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-osaro-recognized-as-top-global-ai-startup-cb-/2020/03/17/9116494.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200317005221/en/780161/4/Osaro-Pick-heroImage_%281%29_%281%29.jpg",
-          "width": 480,
-          "height": 385,
-          "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-29-construction-businesses-beginning-to-value-ai-and-robotics-for-multiple-challenges.md",
+      "title": "Construction Businesses Beginning to Value AI and Robotics for Multiple Challenges",
+      "excerpt": "The construction industry relies on human-powered labor for most projects, start to finish. But businesses are finally starting to take notice of AI and robotics. When you look at a completed building now, you assume that human workers did everything from moving the dirt to installing the plumbing to hanging the lights. But could a building one ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.robotics.org/blog-article.cfm/Construction-Businesses-Beginning-to-Value-AI-and-Robotics-for-Multiple-Challenges/246",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotic Industries Association",
+        "domain": "robotics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.robotics.org/userAssets/ogImage/RIA-SR-MAR2020-T2-1125525958-SM-FBLI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Construction Businesses Beginning to Value AI and Robotics for Multiple Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
       "title": "Can AI Detect Your Emotion Just By How You Walk?",
       "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
@@ -175,7 +212,7 @@
       "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
       "title": "Microsoft pulls its smaller investments in facial recognition tech",
       "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
@@ -605,7 +642,7 @@
       "path": "_news/2020-03-27-microsoft-sells-stake-in-israeli-facial-recognition-company.md",
       "title": "Microsoft sells stake in Israeli facial recognition company",
       "excerpt": "Microsoft's venture capital arm, M12, invested in AnyVision as part of a $74 million funding round in June 2019.",
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-sells-stake-israeli-facial-recognition-company-n1170781",
@@ -1036,52 +1073,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
-      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "publishedDateTime": "2020-03-27T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

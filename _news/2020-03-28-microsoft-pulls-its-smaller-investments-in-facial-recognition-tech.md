@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,17 @@ related:
       - url: "https://images.wsj.net/im-170213/social"
         width: 1280
         height: 640
+  - title: "Microsoft will no longer invest in facial recognition technologies"
+    excerpt: "At a time when many tech companies are pouring money into facial recognition research, Microsoft is selling off its investments into the technology. The company has announced it is divesting its shares in AnyVision, an Israeli facial recognition company alleged to be contributing to mass surveillance in the West Bank. A recent audit found that ..."
+    publishedDateTime: 2020-03-29T15:30:00Z
+    webUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/"
+    ampWebUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
 
 secured: "DwgAVo9uUn+u4PKBWonJ8R0bdr2eHKdBmvI1T+EEtQh3hEbAp6Sz4rM/qE3rbmT5sh8Jems+1fm21EI05P9Gld8yFhJ8ploPkP6hHB+PZI/Ud3y3VDiwxS1/PXm5r5iPhbzPKb0LNx6On8ygQg2QpSgGJC5I5zzSBrUJIKq/eX1N2ndk6KnEUsqaGXFPwqUwwm8TDBJrkT98yDtR1LLWs83/88XvqS3LmBGKyml7nLcWZHTUAGCfew5MZX7wIQYRE2Ped5wm/vwiFe+mgSdxQxQh7dydhsBcgAJiUe7xajkGUcw0lepT6RGJlG/8bxKJ;kw5NJoP7dCLTbHrqXS2tuw=="
 ---

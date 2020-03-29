@@ -60,6 +60,17 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/2ALAt6DzWNqs0Ri5QfT_05ngypY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66567547/acastro_180507_1777_microsoft_0003.0.jpg"
         width: 1400
         height: 933
+  - title: "Microsoft will no longer invest in facial recognition technologies"
+    excerpt: "At a time when many tech companies are pouring money into facial recognition research, Microsoft is selling off its investments into the technology. The company has announced it is divesting its shares in AnyVision, an Israeli facial recognition company alleged to be contributing to mass surveillance in the West Bank. A recent audit found that ..."
+    publishedDateTime: 2020-03-29T15:30:00Z
+    webUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/"
+    ampWebUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
 
 secured: "jWBwM9OXIdieD096PRf0BDYHFlqtRHW4YigOFDHjBULTfkux+u16LmrZ8Nsv8o99ieSHsayqajf3tBJlcrur7Y0CoQLJ6awwfcOZG8pE7ljaHTsUt35/ncXVYkj2pM3hJpS9PBVc4wNZAlb5IPang43RINApM/oGOaMQGi8EpXEIRjiCqSXjzI7zs1F2DOXh90+LjDj3MpcE4GhBLNJhvDEoKjJSuqC5d4YnwXdWE7a2N5uuqdhuzpCAwq5BzI+40Zod7/iSul/emnfwhX020vUa485sHKBvbtR0U1uC1QOApyGV+sv+ER0dMIiSQZu/J5JjNIGqBL2bU+oXSq7Ergc37NRThHJVlsD5DoyYYDZUGmh67oeqZNyRc5Cj313g4aOGGEC7jYwnPJFxCRMEuDQ5vMchSLIuyRyTNz4faMRZJl5owBt7EJVXpVn5E4pn7hZ0CUDLd8mDhjaTFlv2mveTr5CJ7GxrCv7zeOupLEU=;/V88b56MSX7JgF2/ckTd6w=="
 ---

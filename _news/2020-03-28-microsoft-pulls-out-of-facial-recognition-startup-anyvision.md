@@ -45,6 +45,21 @@ related:
       - url: "https://media1.s-nbcnews.com/i/newscms/2020_13/3286861/200327-microsoft-logo-ew-448p_28e8f3a238f1b48562b85fc79cc6e752.jpg"
         width: 2500
         height: 1667
+  - title: "Microsoft divests from Israeli facial recognition firm AnyVision"
+    excerpt: "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ..."
+    publishedDateTime: 2020-03-29T15:39:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828"
+    ampWebUrl: "https://m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
+    type: article
+    provider:
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
+    images:
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470"
+        width: 640
+        height: 428
   - title: "Microsoft Divests From Israeli Facial-Recognition Startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically."
     publishedDateTime: 2020-03-27T21:44:00Z
