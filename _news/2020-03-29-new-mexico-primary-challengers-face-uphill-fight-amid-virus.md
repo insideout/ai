@@ -1,30 +1,30 @@
 ---
 category: news
 title: "New Mexico primary challengers face uphill fight amid virus"
-excerpt: "Across the state, Democratic primary challengers are having to rethink efforts to reach out to voters as they seek to oust incumbent lawmakers in New Mexico."
-publishedDateTime: 2020-03-29T17:27:00Z
-webUrl: "https://www.kob.com/albuquerque-news/new-mexico-primary-challengers-face-uphill-fight-amid-virus/5687102/"
-ampWebUrl: "https://amp.kob.com/articles/new-mexico-primary-challengers-face-uphill-fight-amid-virus-5687102.html"
-cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/new-mexico-primary-challengers-face-uphill-fight-amid-virus-5687102.html"
+excerpt: "For weeks, Carrie Hamblen has knocked on doors, shook hands at festivals, and passed out campaign material in her effort to unseat Sen. Mary Kay Papen - one of the most powerful Democratic incumbents in the New Mexico Senate."
+publishedDateTime: 2020-03-29T18:28:00Z
+webUrl: "https://www.myjournalcourier.com/news/article/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+ampWebUrl: "https://www.myjournalcourier.com/news/amp/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+cdnAmpWebUrl: "https://www-myjournalcourier-com.cdn.ampproject.org/c/s/www.myjournalcourier.com/news/amp/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: KOB 4
-  domain: kob.com
+  name: Journal-Courier
+  domain: myjournalcourier.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.kob.com/kobtvimages/repository/2020-03/Injunction_sought_to_stop_absentee_vote_counting_in_state-syndImport-071204.jpg"
-    width: 800
-    height: 450
+  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+    width: 375
+    height: 211
     title: "New Mexico primary challengers face uphill fight amid virus"
 
-secured: "UDAGszZhMLp9oWZmQNnmOz0YiW9h8965xlvdLp7WhPn84feDNbxt5nlsRe/uyDNMkNcVChpeYU+O4n9xe+C5cZzCc6m/BSKFcRTKSb7r1DwpvSXy3XV2oaqIKSNlgoZQKjVKIPhi+BQJ2/vrgkxTCsz8tQAcna7DywFsEPgQHelf/CXhuXA/5jEHM/gFwnfxFO4Dzn09JmivdmyfMhGr32TzDKh1aW8WjzmbAV3rkOyzIg0w/xNmT8Dn2CV1bIX39mR/L2CTQL6N+ErVR0CqGatE11yosyT9gne32KYzuexcOrEO2zGLTl01R29PYUSR;5PSU5vC3iXDJI1xmdkVo7Q=="
+secured: "Bdh0J2Zjeaa3D9xDjbq4cFZLPvGbEaAq50TlG7xMOhe75lCFKaI/8xx1+e2ksJiAH9KhOmxJuOpfI5qpPS6RWANjyJ/MwdzfMtsqDUpoJuvb5zVAL3IwD1V31wNZxbbaHmDAeI6PEE4kABf9Kg2jWGsMFObm7bAraPx58603ZOR5RVZ31H2F+QHue8kdVmfJkedfWzh4zPvUDy15fF80nOdSfjcspFJsoY2WqfMZflgKWSJWLPaXaJRpAJx4bDlA/oCtgMcJG59Wm6+QO8jWuf6VWqqIJUOJ0hnUhEpewD7WaN4Qo1PprKxUNI//5tOQ;n4shsEqcpQeBP7/VgZmRtw=="
 ---
 

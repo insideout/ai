@@ -38,5 +38,3 @@ images:
     title: "Handwriting"
 
 ---
-
-There's a lot of interest in trying to understand and visualize neural networks. This experiment lets you play with a neural network that can generate strokes based on your handwriting style. Through interactive visualizations, you can see and explore how the neural net works.  By Shan Carter, David Ha, Ian Johnson, and Chris Olah. The model was trained using Tensorflow.
