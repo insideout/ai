@@ -8,7 +8,7 @@ items:
   - courses/coursera-end-to-end-machine-learning-with-tensorflow-on-gcp
   - courses/coursera-production-machine-learning-systems
   - courses/coursera-image-understanding-with-tensorflow-on-gcp
-  - courses/pluralsight-sequence-models-for-time-series-and-natural-language-processing
+  - courses/coursera-sequence-models-for-time-series-and-natural-language-processing
   - courses/coursera-recommendation-systems-with-tensorflow-on-gcp
   
 levels:
