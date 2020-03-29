@@ -29,6 +29,6 @@ images:
     height: 417
     title: "What winemaking has taught me about artificial intelligence"
 
-secured: "wmRggu/u/XeNOCUSbs4b22krAVO+5be2dmnEgHDsrxOs7N33/XX4772gAXz+hTk2gYbF82+A5/EjjaLTFT+s7vJ08gORVEfHWrzqBktank2zzvstgYO+WivzH20PpQdea047Il3bMhX7j7U7cxGuEVpMGSd2Nyy2xRTqp80ODWiyD1CDfOx9SO94uDBzAjkdQ3K+u5VvgDH8N1TVElQdH2wA57463uOKDb2r6KxYPxh4Qz65aFmlkfhtwWM50XhApC0LSMatDP8Z5Bzun4IPSjF3jzqFsyT3XS9PhD06MDg1kTht8xDTmBoAsot3/3Cg;N+B5r992LoTuJ+WENqD0wQ=="
+secured: "N0AlzR9Yq64DS0r1G2t1qJXM9JdTSB8/glCsG0uRyW1vFVAaxYpoBae7UVvKdT0a2lIjPtGkp/v0EgZN/Uzm4risfLsJQPwlm2rNRwbDCY/CwX7qT+sCx53edyw7tx9fud6GrFyelQ0xfTTMeg4Vfb/SwH008Gsk8neusvjLfpvoecWCEQmdAgn36eY3TpRiiT0BXnwmDR81GCpYdXyPGhi4eFd9Mwvw8RJEbIKmo4o/JsBUYqu/+WVmAkNNnldOjYyQU6rioncwvDYPD7VCPZcgwvfrsgxTvBI+CSTanYH5KAupolaT/Z/Kf5oIEb4M;2gPf8TABiYsY2PVUKscq8A=="
 ---
 

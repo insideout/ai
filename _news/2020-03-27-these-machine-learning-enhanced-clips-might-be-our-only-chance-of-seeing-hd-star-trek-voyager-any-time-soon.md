@@ -29,6 +29,6 @@ images:
     height: 450
     title: "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon"
 
-secured: "Uf1xwG86mnGvn5IQ0Eme3SBZZYde0SZYZKU7xNWqpovUcwzgntDOOy8+DRWyKia5LL+dUzVXQGguUP4A9UZTiT82TswiEk7yrk4ZswyCAD1LjXIYHiRLANGYu14cBEUfPdYuST9ojMJUbruTuBvlkhBMp/Xu8bO6VdBhBj3FnRORbJooabnJ1Ac0+IA5Wr71LZWIbl9znL2DwB9U4uMG8fGzBl+e5LxMs2br9b67meditDlDw7EAk/I0p2fDXNelk/up67+H3FPn7F0ULd4Eitx2cK5nGmJfa7o9b9K+rzuzKwF2thd1T9VrHV/X6e5T;8e9jsHaoAsiqzZMhBHm/Aw=="
+secured: "IkiDQ54d/N1908bDILnNYSdAaoMnxdKBH71lcS3Hd8ZY0m77KcH5BUdLl78l9lQyHd8rJtJpi6A0xaSSHiNbJcUv3dkpII/XKmUmIZCKtAXKyXFpD9X2Ji3dHGYnVYtcVGjgbiy3BbYhIZ+dZXdJgNN+Xix7odc7K+9URYXtqeeRtYJM6+OFwSzyKIjpdmS7js0thKisRdPHvo2A2ecsuqwX4kAWn66Yte+8i6W3AxfEyW9yAHYbDu7bit/wHcOo6S4sH+FpEyLFVanBWq/77w576AHd4qMpd73p6imf5NneMrVysRp5af45tK2G4hb1;GOLPB2JCi6f2Uzvhil4CKg=="
 ---
 

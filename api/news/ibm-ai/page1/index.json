@@ -48,6 +48,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-27-7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts.md",
+      "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+      "excerpt": "IBM (NYSE:IBM) is a clear play on data, particularly within the healthcare space. The company is famous for Watson, its Artificial Intelligence technology with a wide range of applications across the medical industry. From detecting cancers to optimizing ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "publishedDateTime": "2020-03-27T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?310746237",
+          "width": 1024,
+          "height": 512,
+          "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-running-these-workloads-you-should-take-a-look-at-the-ibm-z15.md",
       "title": "Running These Workloads? You Should Take A Look At The IBM Z15",
       "excerpt": "Talk to any IT administrator about what they look for in a server platform and performance, openness, and security will top the list. Specifically, run my most demanding applications fast, enable my organization to support the range of workloads that power my modern business,",
@@ -237,14 +274,14 @@
     {
       "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
       "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
-      "excerpt": "UK fintech types at Revolut 'quite happy' after a year in production A mystery outage hit IBM Cloud today, partially knocking out services for much of the day stateside. At time of writing, parts of the platform remain down. Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 ...",
+      "excerpt": "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/17/ibm_cloud_service_hit_by_tuesday_outage/",
+      "webUrl": "https://theregister.co.uk/2020/03/17/ibm_cloud_tuesday_partial_outage",
       "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
       "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
-      "publishedDateTime": "2020-03-17T14:40:00-07:00",
+      "publishedDateTime": "2020-03-17T16:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Register",
@@ -1189,52 +1226,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
-      "title": "IBM highlights new approach to infuse knowledge into NLP models",
-      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "publishedDateTime": "2020-02-12T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM highlights new approach to infuse knowledge into NLP models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],

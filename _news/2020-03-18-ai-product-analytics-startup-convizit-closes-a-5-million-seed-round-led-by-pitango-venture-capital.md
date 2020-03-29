@@ -19,6 +19,6 @@ images:
     height: 315
     title: "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital"
 
-secured: "XADb17gtb+y7Oyb+LYx/3Fa5/xpj6uZ+FKWcSip9K3S3lAMmy3blRd34j1hq068Vgg7TvVvswU8h/47tVlzrK1M97bG1xt0j2ZR7V4kXAZY5g4Cw8jD28dBYh9FBcDlQNmP0V1Ip28lrES+iZp5tYD4gUM4l9HSW/tiZlJPtwEAr7WkPEVhCMKXXVcMkAUV7NvL4iGUpUYHfq5myDBY6NMuRHEyqEnBfmHAufDvfG8XdS4AmleSaF2oS/44Tj/Jht48JMghYs7fxiiNkOVYGjdbzMGTDpvWr5zpbK+C76e1Vh4M4LR40aCdIusRCRkua;4WIJpcboxTW1UpXN+mF3PA=="
+secured: "iO41sDSeXdTk1BuvRSnbr7oaUllx9JBLdg7ef3P7dmS8T2M5bb9/W4ofQQ93U1bJ9OUZPeeRn+jj2u0rPrAaiu/DheBYtrCdckTWikh5FYdDGENn2aPZLnXR0T1EwA1UqhkVUqIhlFzDaonAG0V3dnc3Ufn2KHKSmz7R9WQZe7fP/yIoY/+d1PKb1f2dRGEEKG06YPrl1aBsVAVi7SryPTc+jQ4K9dTAUm4+z+2oyVEqe8e/7/GOQfKZWakLL5ZatHoKjGz8s3QTye3thzwzDnbjwmenBIRIq8dX10Bkd4QmTrQoExGKjwCMciyZ2kud;aV64+jUPJCNSXdQOUf/DcA=="
 ---
 

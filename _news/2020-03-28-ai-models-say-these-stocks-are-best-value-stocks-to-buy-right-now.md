@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stoc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 535
     title: "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now"
 
-secured: "FzkbPHLQVy1StOrizFfSRuhEE2Rx2+YHhnaRtVOCNEPMhW0Lf9ymbOs2ZMyKpjB6IRcRABHW1gXstqZGgSgbyjOVQNczfVyrFrqOSSyHdZpoi8zZuIPmBAB/VSRzjbyHhmcPPsG/5zIrAsC1JMMhRKrNh+ifbYmS+5uptrcvISsylD9jP6rvbuMrC3jiPLu6kYx4MQfPD9nBRqO874efZLF+1O4WzwU9sK3elLKaKFY79xrDwMWcF686bx4QefmYa3+voPbdx6odTQ0AHhH1TfVPj3DEe7RfPye3CLh52bm/GL1n9b877EI8DM5wcm+r;rc9ZEis/H/JGhqKqlW8FLA=="
+secured: "CDdK/QAiSz1l0Pr2zL/nl6Axq68UUjGQ3qJOhVhzOrj5756sUE8J99+4my4H5dEcOx8J4WfiOlyHN7i0L/Hwe9g+lIcyevd1AJDfIDj+p13vbR2cAIFkYWKS6oZvFFY0gFkH04H3clarrSu+OMnTtnsz9/QlitJlDfO9xzLG+vZ90z19vWojab7M/5noRR8PJAEdX/c4QzqwnFMXyNn+SJDAeufR9rhsflzBtrXOIF5uy9w1dH8HTwMFOEcjWtGV8mSykFxHwQ1+0YFMXDG2LDnNmbBOgy9u+/sJ3vNGykL8lyvoQiHfoqGWLZkFhrgCDRgkNrZGB6IKmd1EGgm1m7X1La9MrmUV9Ufj3f6+21GFI98LByAH/VY4DTXMmqNl3r7ID0B4rpi5LPZ7niTPJ5k/NLDjV8vWRdoifLUsl4vhGbnmjmdxYLRqwBmcOCE0PqytyStbFhz6pkI0Z2cKTfeuSvOKHIBP9xgVWzV4vKc=;bRC+NbYLFzG1iRk5RxAVjQ=="
 ---
 

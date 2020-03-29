@@ -93,6 +93,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-27-7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts.md",
+      "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+      "excerpt": "IBM (NYSE:IBM) is a clear play on data, particularly within the healthcare space. The company is famous for Watson, its Artificial Intelligence technology with a wide range of applications across the medical industry. From detecting cancers to optimizing ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "publishedDateTime": "2020-03-27T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?310746237",
+          "width": 1024,
+          "height": 512,
+          "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-why-transparency-is-key-to-promoting-trust-in-artificial-intelligence.md",
       "title": "Why transparency is key to promoting trust in artificial intelligence",
       "excerpt": "As AI gets more and more embedded in our lives and helps make decisions that are increasingly significant to us, we’re rightly concerned about transparency. When big new stories like the Cambridge Analytica scandal or ongoing discussion around inherent biases in facial recognition hit the headlines, we are concerned about bias (intentional ...",
@@ -311,7 +348,7 @@
       "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
       "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
       "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
@@ -1255,50 +1292,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
-      "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
-      "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
-      "publishedDateTime": "2020-03-25T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2015/10/29/f5c9599b-804a-4829-9f04-6a58f753506f/thumbnail/1200x675/f8d4a0c55c206203f8f657a373484a70/australian-passport.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

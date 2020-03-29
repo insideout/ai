@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-how-artificial-intelligence-can-help-fight-coronavirus.md",
+      "title": "How Artificial Intelligence Can Help Fight Coronavirus",
+      "excerpt": "Imagine a typical Tuesday morning. You park your car in the nearby Costco’s parking lot. The lot is full, with vehicles parked nose to nose. You wait in a long line, similar to what you would see at Disney on a typical weekend.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/how-artificial-intelligence-can-help-fight-coronavirus/amp/",
+      "publishedDateTime": "2020-03-19T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1140779754%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Artificial Intelligence Can Help Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-comment-busting-the-myths-of-autonomous-vehicles.md",
       "title": "Comment: Busting the myths of autonomous vehicles",
       "excerpt": "The electric and driverless vehicle offers a vision of the future – but JLR promises it ... taking up less space on the road and allowing traffic to move in a mathematically optimised way. The artificial intelligence behind the vehicles should allow for traffic management; cities with autonomous networks will be able to manage the flow ...",
@@ -1083,51 +1129,6 @@
           "width": 1021,
           "height": 453,
           "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ubers-self-driving-cars-to-cruise-san-francisco-streets-once-again.md",
-      "title": "Uber's self-driving cars to cruise San Francisco streets once again",
-      "excerpt": "Uber's self-driving cars are back on San Francisco's streets in full autonomous mode after a two-year hiatus. The move comes after one of the company's cars was involved in a fatal accident ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "publishedDateTime": "2020-03-10T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/zaSXhbmBw7XTe5v8-kcJNSzHt5Q=/756x567/2016/12/12/5e3fa950-a136-40b2-b361-32d5a2055329/uber-mapping-car-7145.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Uber's self-driving cars to cruise San Francisco streets once again",
           "attribution": null
         }
       ],

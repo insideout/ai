@@ -2,6 +2,80 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-17-ai-machine-learning-could-put-cell-sites-to-sleep-and-slash-energy-costs.md",
+      "title": "AI, machine learning could put cell sites to sleep (and slash energy costs)",
+      "excerpt": "And these new features incorporate tools like artificial intelligence (AI) and machine learning. In a new Ericsson white paper called \"Breaking the Energy Curve,\" the company said that machine learning can be used to make certain network features more autonomous. Two of those features, MIMO Sleep Mode and Cell Sleep Mode, are using machine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.lightreading.com/ai-automation/ai-machine-learning-could-put-cell-sites-to-sleep-(and-slash-energy-costs)/d/d-id/758249",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Light Reading",
+        "domain": "lightreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025.md",
+      "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
+      "excerpt": "Global Artificial Intelligence in the Healthcare Market was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Market is further estimated to grow at a CAGR of 48.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-03-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025.md",
       "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
       "excerpt": "Market Overview The Global Edge AI Hardware Market is anticipated to witness a CAGR of 20.3% over the forecast period 2020 - 2025. During 2018 it is estimated that about 212 million edge AI hardware was shipped and the figure is expected to reach a billion units by 2020.",
@@ -1101,80 +1175,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-hospital-using-chatbot-to-screen-coronavirus-patients.md",
-      "title": "Hospital using chatbot to screen coronavirus patients",
-      "excerpt": "Microsoft's Azure Cognitive Services have the capability to build enterprise-grade bots that let companies maintain control of data, including Q&A bots like the one answering COVID-19 questions in Everett, WA. The service includes open-source SDK and tools to connect a bot across popular channels and devices. Azure Cognitive Services gives the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
-      "publishedDateTime": "2020-03-16T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/12/6a60eb6e-31b5-4bb4-9754-b5d452b01a19/resize/1200x/d038e660e4462c967d719b66355a8b1b/istock-1061564280.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Hospital using chatbot to screen coronavirus patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-botz-the-roboticsartificial-intelligence-etf-is-not-a-bargain-buy-even-after-recent-crash.md",
-      "title": "BOTZ: The Robotics/Artificial Intelligence ETF Is Not A Bargain Buy Even After Recent Crash",
-      "excerpt": "For the Global X Robotics & Artificial Intelligence ETF (BOTZ), its bear market actually started in 2018 when BOTZ stumbled back to earth from its 80+% meteoric rise in the preceding year: Source: WingCapital Investments Prior to the market turmoil, BOTZ had struggled to retrace towards its all-time high, even as the broader technology sector ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4332230-botz-robotics-artificial-intelligence-etf-is-not-bargain-buy-even-after-recent-crash",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
