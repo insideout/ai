@@ -25,6 +25,6 @@ images:
     height: 443
     title: "AI to the aid: How robots can help in the fight against COVID-19"
 
-secured: "xcty0WELJq1nlMyFytNINvHxlB7e5P/Eqf2o6uI4ENv+lUZsB3r8/31ut5jd3cg6jqfmx91YS2zV4iXjNxHpbPs982OlunRN5ohbsFWf+JG74gJ9CxWnmChMQHY4ENPVfE6gTQ3e43JUiH6jyUIttcHrnPLuWj4Lcb+uoqPVmI+P6K9epMC70rDtucVRZ3vJqlw0122hBUsQX/3eS3NGMR1IpFj0TlkyJlMyrjO44L8RayccMrB/TODhe0/LjQBoQHcuUQ6hoAkjN0eqhR3e/LgvkMNf5aiK1lyLYgo+GXdSuIUvaDLMmKQ4sZAYTUFf;WI7FRFjrgNcE4pILTiR9eQ=="
+secured: "6w78scIpmRCvxJgsP7cRai8yu95IYIU+8IH7Fz6yL/qNDp7b7SlImC3flWZ/QGSeEW7AgYlf/UYid/ANjceI/1YiZHiooCAKl8yZwRCPVsiw0EyGc6ZKb90UyzhHWefcYMEyL0xTqKBZQGHF/Ul24WiDhqfiSt/8VPo6j3R3rYMpIQwAkCF9RIpa5lazOpL6ukbpK+RENclr7BokvX93GP/1rpVTh7o1RI27tFiM44L8L3k+2pjRXoYCvOY7Th5Q6CHa5WRrXMxY8ICVk8KM5AlUKlQpY/q+pmmxUqMB1yA4xp7IjZt9j9A679Px3M1o;c2kXNUdcXG6toM7rreZ2qQ=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provokin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "12 Thought-Provoking Quotes About Artificial Intelligence"
 
-secured: "4FMiroDdomLEccuvQNOSOGC7MKP9uyJ+Y4fptsMZtS4VBlDrfrfIVprscJGFMrUecL01HPf5nP0JDJIf5sv/fseaRNeQ2FPpXeJh4eKY+q5D9ItMvhJ5Vno+OShw7ZR0qxYGF4xcrpJHg5u+vcRABJOLW/vOy9TxNkWVePJ6gvM5JXJH7ewKmLBKosNCPpX6PNEl/QkOwk4SAbmQv8AiMiyfp/nf0CJNFtrmLQ1TanFdnNQaFH5ke1P+3XfHmZpEJ2Qdq7aiSo36hlP6aNL4pjyWT2ZYfJ6X1LlykAf+FEDivrFyfIR0GH67uLrlnTge7kqtl/+Nmg0Q/qmhKdM+0kaZBy3u0LKd7wr5xW1hSQdXW5HdopxVEd9blww2C8YD1nxCYxuBRaCRm/i1Jq4YL2a9exVMldXj/01ja5vy4JMqV/SSaNMbHvWserec6Ei3WgFZ1PLYPVMZGvNQYptGgy+U/Gt9JgKUMSfcYms4wNI=;gHmA1biXpMSrkqQwSHC9aQ=="
+secured: "Ap0xV9GhecDu2cYKDeO2AtBQsWWq6sr8X/x4LOKQnM6AuSwnv+PKs1UA79Hm+yw5OEITXtbHAFe7RT08JoD8qKZVevuAloQCtj6aLJ7+bcIkXfhqEYHBIXROUW3OusZagzzmMkxzk4PQVtuZI8ifC2AGib+uT0gB9wFERHSr0gQ8euHWMH3K9Md2MVFR7xNe3M+HhPDI8LDJh4pwio5+O8FbPqDIoc8hltEEx7MiiSpC3c6oMJ70sNQlvt5RYMPXYkE9eJqw8RTCYzqwQl34DefCmqodkM2FxFemjIULMiivfNrCZf8QZ6T5TRNvKt80uWMZiYR+/BEhKr2VNI/39vspwFUTWKC6NER8egXi9/x2/bCeLJvq8sjB61gX24S/r4vvzvpOjEoS9zER4m+wWsD9JyAppdfLY0o3++gOHVhKhp+8449WsfxCJHf6HvX3r4Jc/Z7xU2jBVo9V0NTd2C4+Zgi2Qc5XjkoxvXA/jpc=;/FjEAreeE75HcDOg3ZOVRA=="
 ---
 

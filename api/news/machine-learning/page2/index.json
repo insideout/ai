@@ -2,43 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-03-19-machine-learning-powered-steam-recommendations-now-live.md",
-      "title": "Machine Learning-Powered Steam Recommendations Now Live",
-      "excerpt": "Steam has added a new tool today for recommending games to users. Steam Interactive Recommender uses machine learning to predict which games you'll enjoy based on what other people with similar taste have played. The Interactive Recommender started as a tool within Steam Labs back in July 2019, but has now become a proper feature of the store.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamespot.com/articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
-      "ampWebUrl": "https://www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
-      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
-      "publishedDateTime": "2020-03-18T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GameSpot",
-        "domain": "gamespot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3611299-biggest-games-play-2020-most-anticipated-nologo-3.jpg",
-          "width": 640,
-          "height": 360,
-          "title": "Machine Learning-Powered Steam Recommendations Now Live",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-deep-learning-changes-scientific-research-finds-antibiotic-for-multi-resistant-bacteria.md",
       "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
       "excerpt": "Scientists at MIT and Harvard’s Broad Institute and MIT’s CSAIL built a deep learning network that can acquire a broad representation of molecular structure and thereby discover novel antibiotics.",
@@ -1110,6 +1073,51 @@
           "width": 400,
           "height": 400,
           "title": "Podcast: Applying Deep Learning to Extreme Weather",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-10-questions-about-deep-learning.md",
+      "title": "10 questions about deep learning",
+      "excerpt": "Learn why neural networks are so powerful, how and where they’re used, and how to get started — no programming necessary It seems everywhere you look nowadays, you will find an article that describes a winning strategy using deep learning in a data science problem, or more specifically in the field of artificial intelligence (AI).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532058/10-questions-about-deep-learning.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 questions about deep learning",
           "attribution": null
         }
       ],

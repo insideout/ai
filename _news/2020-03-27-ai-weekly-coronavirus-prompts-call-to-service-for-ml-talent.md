@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-cal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "AI Weekly: Coronavirus prompts call to service for ML talent"
 
-secured: "pLvxFk2LLUdY7HA7XOCqvg6YVqHDdZkjYkHQy5woygOxGFUrWlsID3vy6Fh+9ee/VCmppxQxlPYVLRRkWLu1uu98GsOWWjyivcD1IyPJz2Fd99zWnPin1kJEjzy+YEiHBxhJmUK8wEvyejTg8TWsvcfn3QqiMSZ9Zbh5vrF8olyWa2xaIT4TBnyQbAAAyBi3eSNxZUqwYxkjtGQF+qM1DT6oCInqEQth+K+cqUO8MaJ0spRPFRHVY22qgUPncPeTZyqWs0n9Ize2MZev1HK0luhlVst+mm23L38y7a+vWtogRGdsFG10IYMsu0NiXxMkNVU3Fia1ah9MjwYPX1r/986UV2ZKUa3ixDu93u/hoWGCWKdVdP3CT12ZsHGNBMhjCD6FQHhnYVlZ+KTVGR2qN1smdwUOdWe1Bgg4PPyDnHE5nUuJGaVtyiCJzlR3H88gyqxCeI8pQu55rRxowjcSmQlXvlFYYjr55YsZ4OasqMY=;htKOHnIodBdi3GAB9WEcKA=="
+secured: "0fQmIWfyqsa5kPV5BoTMLCMY7VztUJqkEt+RS/Y087Rp40ZNpXy0JFPwwKZMeHUXXLd6cAqlaS9A9bxNnYXNH1p9uDPt2OjTXu0MfE7kH72iLEobvb1ShujJYCu/NXN1FgaBzpqwJEAQCN+dAiMEf9RvtjIoqj/TNARHytL0uPFMp926/pl97sODh/DR+E2+3daNGwu3im/dBj24IBmoH7ply78RZObQEPtzUavo4hmLZoe+E/nm332GruDcUDDVqeAtBsR5GVVCJRk/GLSqjyD38wKX9Lvc9RGOp7HKfdyD1pKJXovYpu3h0FkCwe+zJeuUqdJS7RYGHlOLo341hvFn/BZrhtnJrHDw2VA2x+MQtyujXYJKVys1xhndMZK7ABd2ldE7z/i22+dE32dQRSBInJCnNAJW6EPsNCiOwZs7m5YQ6a0Q0JVrOIc9VcfXsIhQ/zcePwChPTKsWk5/2Ta/50JxwePJiHXdEduRb1k=;SQIrLPPQqnpMWg/ed0jTXQ=="
 ---
 

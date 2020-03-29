@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy"
 
-secured: "GBUjZf1JAa2jmPNvzwHiXu4YGiNaEf+l8lnPyLqn7qKFPQGXOsl+MSx/gAn3GDnt5epP4PVyyal7HmT/wv39JdUSAvrhuLO+oVrHuILYr855Sfw12nxk0TSYJmyqaqg5EWjM1Jl8Ey5rXllDQXSTqBY96+WAOkgBDTkg2XlAmXhx3DGmRAnW2P2ybXqxuXUPLnYtbWGAC4BNCfuac/ag1FCKZLhkwn7m8lIXdhxUzhamTGbBVx3u+tXMZ/GSzwYMUihO8HcIzQTOAts96iOaRfLivTkqWjVTH3KVbSk3RW8gF2RiRrEuFkdyE74zi/SNoDISa0H/dq+pU+Yo0bzJwE1VOBgLT7m30ZOjXMi5Pchrt4VRVF5MkgOOw1GIxsTlR2uREw7CbZdgj9t3yWw8wIQnQbfBzggWkMN1UjYfKSmMfGudI+hX5uDvHiigqLs/ITzDiEcndPrw9QiJQM3pXGInKQmMcPSeNxRRoitWmXs=;5h5eQqOfA3P+ZW4bSs+Awg=="
+secured: "L/RRgW072wPfhTr5iVboewG8y/qA419Z93qNuJVf+4dH4u2qikiRrOgvPdTQQQbaR6m15B8T+PFSFVPRlMYfpwoz9InBRTtM1z98Jg/0w3vBzWIfSFhGpurSOs9929afCyoI3/yghxOi/4kLdc1GIlU/Aq9cwqPrcj8WNrz8ZSsLxfwVN1c9X9REolP5+QIwxFSDRqR0KZqBoAeHSrWR6akbqKxBXN1m4dIVWjk/j4zQjKqW01g7wvPMta+wksLIZhZ+Ff2AEr4focc781sgOMoxHP7fwCD3PuasxmU6WESOSiP/nIDtlIKU88ve1kt0VxjMcH+hExVBP6RVkSZYXoSwImF1DjtY1sXJ2TQVf8KvZEJ5kNenbsW92aS6i1n4U81kX/rH3ij7JoXTsOEFP8nbWJcX3rpyJKXneEEi1DhvQXpAF/gVU5Pl0USXwdLjsPbHtHXn8x/uj2/3E4VfjnIBaqzeCXlvkjB+3UgPUjU=;9LmyUi+/eYDmZKAus70p8w=="
 ---
 
