@@ -1,22 +1,30 @@
 ---
 category: news
 title: "New Mexico primary challengers face uphill fight amid virus"
-excerpt: "For weeks, Carrie Hamblen has knocked on doors, shook hands at festivals, and passed out campaign material in her effort to unseat Sen. Mary Kay Papen - one of the most powerful Democratic incumbents in the New Mexico Senate."
-publishedDateTime: 2020-03-29T15:53:00Z
-webUrl: "https://www.stamfordadvocate.com/news/article/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+excerpt: "Across the state, Democratic primary challengers are having to rethink efforts to reach out to voters as they seek to oust incumbent lawmakers in New Mexico."
+publishedDateTime: 2020-03-29T17:27:00Z
+webUrl: "https://www.kob.com/albuquerque-news/new-mexico-primary-challengers-face-uphill-fight-amid-virus/5687102/"
+ampWebUrl: "https://amp.kob.com/articles/new-mexico-primary-challengers-face-uphill-fight-amid-virus-5687102.html"
+cdnAmpWebUrl: "https://amp-kob-com.cdn.ampproject.org/c/s/amp.kob.com/articles/new-mexico-primary-challengers-face-uphill-fight-amid-virus-5687102.html"
 type: article
-quality: 4
-heat: 4
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: KOB 4
+  domain: kob.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "tFFPn60PmrUsz8RW0hXWEe9DlyyplNgFJ4/EjIa/ocXFbZ6Ym7+3OyEDjOqiNCSdBc1kiXPQFZCunDz/EyDL/jz9aDG87zVYHvQ7ZlB4xLXoyqCkgSBVCus+m1BlS21C2lvAjJulYKpwrYfl9m7PkDNgdyF40PdNBC3GPSKyF7cU01Nuu61OXTlKYCBp7AhqdPK+Umo8S1Csb9BxPmr/gsbM8TNVV9XKRLp4uF1LIl9qKVh4u7n1gQPtpqT0SyQx643N9NcWzbumykO/LB/WV7QMe4XJctpmKbrVRIEQAjlhzMAnmuDVA6oxpqvBo3Vj;HtIGFpXt+b4r6bxu7krZ3g=="
+images:
+  - url: "https://www.kob.com/kobtvimages/repository/2020-03/Injunction_sought_to_stop_absentee_vote_counting_in_state-syndImport-071204.jpg"
+    width: 800
+    height: 450
+    title: "New Mexico primary challengers face uphill fight amid virus"
+
+secured: "UDAGszZhMLp9oWZmQNnmOz0YiW9h8965xlvdLp7WhPn84feDNbxt5nlsRe/uyDNMkNcVChpeYU+O4n9xe+C5cZzCc6m/BSKFcRTKSb7r1DwpvSXy3XV2oaqIKSNlgoZQKjVKIPhi+BQJ2/vrgkxTCsz8tQAcna7DywFsEPgQHelf/CXhuXA/5jEHM/gFwnfxFO4Dzn09JmivdmyfMhGr32TzDKh1aW8WjzmbAV3rkOyzIg0w/xNmT8Dn2CV1bIX39mR/L2CTQL6N+ErVR0CqGatE11yosyT9gne32KYzuexcOrEO2zGLTl01R29PYUSR;5PSU5vC3iXDJI1xmdkVo7Q=="
 ---
 
