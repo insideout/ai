@@ -1,6 +1,6 @@
 ---
-title: "20 Female Pioneers in Robotics – 2019"
-excerpt: "Featuring 20 outstanding femail researchers and entrepreneurs in the field of robotics."
+title: "Female Pioneers in Robotics – 2020"
+excerpt: "Featuring outstanding female researchers and entrepreneurs in the field of robotics."
 type: collection
 heat: 183142
 
