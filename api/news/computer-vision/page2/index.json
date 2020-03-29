@@ -541,6 +541,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-12-intel-starts-using-facial-recognition-technology-to-id-workers-visitors.md",
+      "title": "Intel starts using facial recognition technology to ID workers, visitors",
+      "excerpt": "This may be the largest implementation of facial recognition in the workplace anywhere in the country. Intel has 20,000 employees in Oregon and roughly 50,000 nationwide. It comes as public ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html",
+      "ampWebUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
+      "publishedDateTime": "2020-03-11T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BAIVJF6SGVCARACVWYB77KNGYA.jpg",
+          "width": 3022,
+          "height": 2014,
+          "title": "Intel starts using facial recognition technology to ID workers, visitors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
       "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
       "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
@@ -1129,51 +1166,6 @@
           "width": 992,
           "height": 558,
           "title": "With painted faces, artists fight facial recognition tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
-      "title": "Application of Computer Vision in Precision Agriculture & Farming",
-      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
-          "width": 1200,
-          "height": 813,
-          "title": "Application of Computer Vision in Precision Agriculture & Farming",
           "attribution": null
         }
       ],

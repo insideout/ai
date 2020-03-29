@@ -8,7 +8,7 @@ ampWebUrl: "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-
 cdnAmpWebUrl: "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599/amp"
 type: article
 quality: 70
-heat: 70
+heat: 71
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 450
     title: "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon"
 
-secured: "tlOhJt6WaZJTxVMAeI0KBDaikCHqynNDyifgwlSR48AzWgZVXhbE6Ke/g1gSaQSU/0+Vo3jXCZoWQjfjCzfyqY8ebAzgk96ndk9yjwSjq2/RoYVg0AKsLSt9WwIiwusdWzifaB2xDIAmO5X299+v03UU1dx4fxDNixW/ZWEoAruUePORYcDFOne0K5ABaDhM+2rbwFaLl343ZVqVaxPwL2nf5JbIvDvqobdI+tdyIHKmw4q0iV47VdZZO5OcpFM8nPvEwxkrPiNmpKP5cuij0c7JTRHlCjMKHvX2BwVw8zXX5ZSL8q4jnK5sOMBG7VrO;Ra6Q1aZUIetZNuhvyrojmw=="
+secured: "Uf1xwG86mnGvn5IQ0Eme3SBZZYde0SZYZKU7xNWqpovUcwzgntDOOy8+DRWyKia5LL+dUzVXQGguUP4A9UZTiT82TswiEk7yrk4ZswyCAD1LjXIYHiRLANGYu14cBEUfPdYuST9ojMJUbruTuBvlkhBMp/Xu8bO6VdBhBj3FnRORbJooabnJ1Ac0+IA5Wr71LZWIbl9znL2DwB9U4uMG8fGzBl+e5LxMs2br9b67meditDlDw7EAk/I0p2fDXNelk/up67+H3FPn7F0ULd4Eitx2cK5nGmJfa7o9b9K+rzuzKwF2thd1T9VrHV/X6e5T;8e9jsHaoAsiqzZMhBHm/Aw=="
 ---
 

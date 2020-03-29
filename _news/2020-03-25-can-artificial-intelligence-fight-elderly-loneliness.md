@@ -3,11 +3,8 @@ category: news
 title: "Can artificial intelligence fight elderly loneliness?"
 excerpt: "Voice technologies using AI are being used to help combat loneliness in countries including Sweden and the UK. Should they be used more widely as coronavirus spreads?"
 publishedDateTime: 2020-03-25T21:05:00Z
-webUrl: "https://www.bbc.com/worklife/article/20200325-can-voice-technologies-using-ai-fight-elderly-loneliness"
+webUrl: "https://www.bbc.com/worklife/article/20200325-can-voice-technologies-using-ai-fight-elderly-loneliness?es_p=11393176"
 type: article
-quality: 69
-heat: 69
-published: false
 
 provider:
   name: BBC
@@ -19,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://ichef.bbci.co.uk/wwfeatures/live/624_351/images/live/p0/87/np/p087np70.jpg"
@@ -27,6 +23,6 @@ images:
     height: 351
     title: "Can artificial intelligence fight elderly loneliness?"
 
-secured: "e3BM9QLgdFtLPHL/xtJasyhzSNNvUYErWLD5Md0G332aP/vkqliKzlWKmJVf0kA/auBn3ZsnyTKNlPSHdVcCKgbVTL9ECN4Ado7ITW2yA5lc2BBK/7HeonQwym8UBojWtJTQ3y20ZN2+tHn7HB1IM1cCeUzAxbP4Fzt5CUid4CWCioDRmihvVsg9EsOeePHn374EJnyAqO0wyRFghLYZIKzwirE/+3Z90euAahINbXvTK7QUC0xc+y1rrBbfaiqZ8l82eQ/xBpwA5l+vJYdVl7Gp00yq08m+LzZW1qiUb+We1xSKsJUSHHCq4CUjQfBNFSJBdOV7gfjQ39yFq4Emii8lyPaA/k9mtd5EHf9t4mAKlSvSPnnAUa1CqkEi2WmX8QcTKXbRCKarAxxG8qasKUSn9+VtmLW/alZFqc68+kDNdKFYAJISPzBhNR1oKl2R7Y46uFZ8Gk0XBHU72+JjlBe/ytq9KqOQUaXxzKsM1d4=;tHrIS3YRw1s7yspOYdFokg=="
+secured: "cW52H29Kr+gZLDElFLi8T7CiXYdii5RJUmjkqffnkp0VE592jmzQVGz3XZcFfLE+4deIcGSJzOvdr+A89ltUyBT/nABye+cngA0X+bNHPc9p4iPuo2XlQyFHNoMvaNQNkXl2x0CsXpD8ISAz2B4KMPFuoAStthLKieJwY4k+ILHgaS3GCENWSLk5KM8uYOtuvMsloKpz0mrnySBhxX+Ee5ZO4AKkAaM157C+4/tHZ1T9mWQ2ikQ7LYBKUJSoKFnt3JJkjoqU2aexsD+xeaj0imQ69pETHGRK06OD9jvI5BfC6grwciNXw16r6AqrI8Nl;GUUbK7K6YReF9I5312jCXw=="
 ---
 
