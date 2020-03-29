@@ -2,6 +2,228 @@
   "page": 68,
   "value": [
     {
+      "path": "_news/2020-01-27-berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups.md",
+      "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups",
+      "excerpt": "Berlin-based Merantix, a venture studio which specifically concentrates on building ‘AI companies’, says it has raised a new €25M fund ($27M). Anchor investors include Trusted Insight, the Robert Wood Johnson Foundation, the W.K. Kellogg Foundation, as well as further family offices from Europe. Co-founder Adrian Locher said in a ...",
+      "heat": 194,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/berlin-venture-studio-merantix-raises-27m-fund-to-concentrate-on-ai-startups/amp/",
+      "publishedDateTime": "2020-01-27T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/Rasmus_Adrian_Davos.jpg?w=605",
+          "width": 605,
+          "height": 340,
+          "title": "Berlin venture studio Merantix raises $27M fund to concentrate on AI startups",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-gravyty-raises-21-million-for-ai-fundraising-platform.md",
+      "title": "Gravyty raises $21 million for AI fundraising platform",
+      "excerpt": "To help bolster their efforts, Adam Martel and Rich Palmer founded Gravyty in 2016, a Newton, Massachusetts-based startup leveraging AI and machine learning to help nonprofits reach their fundraising goals. In a vote of confidence this week in the startup’s efforts, investment firm K1 Investment Management announced a $21 million investment ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/27/gravyty-raises-21-million-for-ai-fundraising-platform/amp/",
+      "publishedDateTime": "2020-01-27T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/stewardship-mac2.png?fit=1200%2C697&strip=all",
+          "width": 1200,
+          "height": 697,
+          "title": "Gravyty raises $21 million for AI fundraising platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020.md",
+      "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
+      "excerpt": "This year, businesses should make compliance a priority with the advent of new regulations and an industry emphasis on privacy.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/27/privacy-business-critical-transparency-and-expert-ai-to-reshape-the-compliance-industry-in-2020/amp/",
+      "publishedDateTime": "2020-01-27T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1063784754/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Privacy, Business-Critical Transparency And Expert AI To Reshape The Compliance Industry In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-ai-pharmas-perfect-medicine.md",
+      "title": "AI: Pharma's Perfect Medicine",
+      "excerpt": "The pharma industry has begun its first steps toward the implementation of large-scale AI solutions, and with an industry as large as pharma, the range of potential applications is immense.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/ai-pharmas-perfect-medicine/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/27/ai-pharmas-perfect-medicine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/27/ai-pharmas-perfect-medicine/amp/",
+      "publishedDateTime": "2020-01-27T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x497/https://specials-images.forbesimg.com/dam/imageserve/499085618/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 497,
+          "title": "AI: Pharma's Perfect Medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-deep-learning-market-size-worth-us-564272-mn-by-2026.md",
+      "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
+      "excerpt": "LOS ANGELES, Jan. 27, 2020 (GLOBE NEWSWIRE) -- The global deep learning market is expected to grow at a CAGR of around 51.1% over the forecast period 2019 to 2026 and reach the market value of over US$ 56,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-worth-us-564272-mn-by-2026-2020-01-27",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Size Worth US$ 56,427.2 Mn By 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-iguazio-raises-24-million-for-ai-development-and-management-tools.md",
       "title": "Iguazio raises $24 million for AI development and management tools",
       "excerpt": "AI adoption levels are higher than they’ve ever been in the enterprise. According to a January survey conducted by Gartner, corporate use of AI grew 270% over the past four years. But developing, deploying, and managing AI applications at scale requires a platform that supports doing so, which is what startup company Iguazio provides.",
@@ -870,221 +1092,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-researchers-in-us-china-use-machine-learning-to-make-better-solar-panels.md",
-      "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
-      "excerpt": "This is a companion discussion topic for the original entry at https://cleantechnica.com/2020/01/25/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://businesscomputingworld.co.uk/t/researchers-in-us-china-use-machine-learning-to-make-better-solar-panels/244767",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BCW",
-        "domain": "businesscomputingworld.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://businesscomputingworld.co.uk/uploads/default/original/1X/f630a15932336b1cfe94ee76167108be74ef73e8.jpeg",
-          "width": 512,
-          "height": 512,
-          "title": "Researchers In US & China Use Machine Learning To Make Better Solar Panels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-groq-launches-the-first-ai-accelerator-card-capable-of-1-petaops.md",
-      "title": "Groq launches the first AI accelerator card capable of 1 PetaOPS",
-      "excerpt": "Why it matters: Groq is the hundredth startup to take a shot at making an AI accelerator card, the second to market, and the first to have a product reach the 1 quadrillion operations per second threshold. That’s quadruple the performance of Nvidia’s most powerful card. The Groq Tensor Streaming Processor (TSP) demands 300W per core ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83719-groq-launches-first-ai-accelerator-card-capable-1.html",
-      "publishedDateTime": "2020-01-25T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/01/2020-01-25-ts3_thumbs-52c.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Groq launches the first AI accelerator card capable of 1 PetaOPS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-sentiment-analysis-and-text-mining-using-azure-cognitive-services.md",
-      "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-      "excerpt": "This post provides 6 sample codes showing how Azure Microsoft Cognitive Services can used to build AI solutions to tackle opportunities like sentiment analysis and text mining.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/sentiment-analysis-and-text-mining-using-azure-cognitive-services-6185a1d0f0b7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-25T04:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*eIuRRxcgZxzCMZvc4HLiiA.png",
-          "width": 1200,
-          "height": 600,
-          "title": "Sentiment analysis and text mining using Azure Cognitive Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-scraping-the-web-is-a-powerful-tool-clearview-ai-abused-it.md",
-      "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
-      "excerpt": "Last weekend, a nightmare scenario for many privacy advocates arrived. The New York Times revealed Clearview AI, a secretive surveillance company, was selling a facial recognition tool to law enforcement powered by “three billion images” culled from the open web. Cops have long had access to similar technology, but what makes Clearview ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/clearview-ai-scraping-web/",
-      "ampWebUrl": "https://www.wired.com/story/clearview-ai-scraping-web/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/clearview-ai-scraping-web/amp",
-      "publishedDateTime": "2020-01-24T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e2a1bb2123c60000827363b/master/pass/ai-scraping-88622242.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "Scraping the Web Is a Powerful Tool. Clearview AI Abused It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-25-mass-production-of-a-self-driving-restaurant-robot-is-coming.md",
-      "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-      "excerpt": "Bear Robotics has received a Series A investment of $32 million and has plans to mass-produce its self-driving restaurant robot called Penny. The robot works as a food runner and can deliver items to a table.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/01/24/mass-production-of-a-self-driving-restaurant-robot-is-coming/amp/",
-      "publishedDateTime": "2020-01-24T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F43189452%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3999%26cropY1%3D0%26cropY2%3D2667",
-          "width": 1200,
-          "height": 800,
-          "title": "Mass Production Of A Self-Driving Restaurant Robot Is Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

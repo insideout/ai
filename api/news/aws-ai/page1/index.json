@@ -47,6 +47,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-analyzing-and-optimizing-amazon-lex-conversations-using-dashbot.md",
       "title": "Analyzing and optimizing Amazon Lex conversations using Dashbot",
       "excerpt": "This post is co-written by Arte Merritt, co-founder and CEO of Dashbot. In their own words, “Dashbot is an analytics platform for chatbots and voice skills that enables enterprises to increase engagement, satisfaction, and conversions through actionable insights and tools.” \nAfter you have deployed a",
@@ -1141,43 +1178,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aws-makes-bee-gains-dangles-r365m-to-sas-smes.md",
-      "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-      "excerpt": "Additionally, says AWS, it will enable more organisations across Sub-Saharan Africa to leverage advanced technologies such as artificial intelligence, machine learning, IOT, mobile services, and more to drive innovation. As SA awaits the launch of the facilities, there is already some excitement in the market. Last year, insurer Old Mutual said ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/nWJadvbenwBqbjO1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/03/Prabashni-Naidoo-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-28-ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now.md",
+      "title": "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now",
+      "excerpt": "After last week’s rally in the S&P 500 (+10.28% for the week), we decided to ask our AI models to find us the best value stocks to buy from the Russell 1000. Given the 24.5% drop in the S&P 500 since late February when the contagion effect from the Coronavirus Epidemic hit US markets,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/",
+      "publishedDateTime": "2020-03-28T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F478782611%2F0x0.jpg",
+          "width": 1200,
+          "height": 535,
+          "title": "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-12-thought-provoking-quotes-about-artificial-intelligence.md",
       "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
       "excerpt": "The hope is that these quotes will help illuminate the scope of the field, the contours of the challenges ahead, and the enormity of the stakes.",
@@ -49,7 +93,7 @@
       "path": "_news/2020-03-28-ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.md",
       "title": "AI to the aid: How robots can help in the fight against COVID-19",
       "excerpt": "The robot can disinfect 90 per cent of the places on its own. ''Astra requires a bit of human assistance only while disinfecting narrow corners. Typically, it takes just 15 minutes to disinfect a standard size room,'' claims Viswanathan, a graduate in artificial intelligence. Astra can wear many hats. ''The top UV unit of Astra can be ...",
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theweek.in/news/sci-tech/2020/03/28/ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.html",
@@ -79,6 +123,51 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft pulls its smaller investments in facial recognition tech",
+      "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "publishedDateTime": "2020-03-28T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21",
+          "width": 600,
+          "height": 350,
+          "title": "Microsoft pulls its smaller investments in facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -337,7 +426,7 @@
       "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
       "title": "Microsoft to divest AnyVision stake, end face recognition investing",
       "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.reuters.com/article/us-microsoft-anyvision-idUSKBN21E3BA",
@@ -366,51 +455,6 @@
           "width": 818,
           "height": 545,
           "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-microsoft-alters-policy-on-facial-recognition-investments.md",
-      "title": "Microsoft Alters Policy on Facial-Recognition Investments",
-      "excerpt": "The company is ending its controversial investment in Israeli startup AnyVision as it swears off minority stakes in suppliers of facial-recognition technology.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890",
-      "publishedDateTime": "2020-03-27T16:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-170213/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Microsoft Alters Policy on Facial-Recognition Investments",
           "attribution": null
         }
       ],
@@ -468,55 +512,10 @@
       ]
     },
     {
-      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
-      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "publishedDateTime": "2020-03-27T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-27-these-machine-learning-enhanced-clips-might-be-our-only-chance-of-seeing-hd-star-trek-voyager-any-time-soon.md",
       "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
       "excerpt": "While there have been attempts both officially and unofficially before—What We Left Behind, the expansive, loving crowdfunded documentary for Deep Space Nine produced by former co-showrunner Ira Steven Behr, for example, managed to produce new HD clips of the show as part of its runtime, and fans had previously turned to machine learning to ...",
-      "heat": 70,
+      "heat": 71,
       "tags": null,
       "type": "article",
       "webUrl": "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599",
@@ -561,7 +560,7 @@
       "path": "_news/2020-03-27-microsoft-sells-stake-in-israeli-facial-recognition-company.md",
       "title": "Microsoft sells stake in Israeli facial recognition company",
       "excerpt": "Microsoft's venture capital arm, M12, invested in AnyVision as part of a $74 million funding round in June 2019.",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-sells-stake-israeli-facial-recognition-company-n1170781",
@@ -768,6 +767,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
+      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "publishedDateTime": "2020-03-27T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1036,51 +1080,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-theres-a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do.md",
-      "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
-      "excerpt": "There was a bit of extra excitement in the San Francisco Bay Area traffic last year when a baby sea lion decided it was time to checkout rush hour activities and so wandered or waddled onto the hectic and perilous Highway 101 (a similar occurrence happened a few years ago in northward Mendocino County).",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
-      "publishedDateTime": "2020-03-27T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fe341b8d42ae9446faa5a1f4a0bce99aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 762,
-          "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

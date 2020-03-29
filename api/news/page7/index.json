@@ -2,6 +2,132 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
+      "title": "How AI Makes Big Data Smarter",
+      "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
+      "publishedDateTime": "2020-03-23T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-54-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Makes Big Data Smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-is-voice-the-next-big-thing-to-transform-consumer-behavior.md",
+      "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+      "excerpt": "Voice is an untapped channel that can provide an opportunity for deeper engagement with our customers — and we can't afford to leave that opportunity on the table.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "publishedDateTime": "2020-03-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F03%2Fa-52.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-brainchip-and-socionext-provide-a-new-low-power-artificial-intelligence-platform-for-ai-edge-applications.md",
+      "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
+      "excerpt": "BrainChip has developed an advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. This innovative, event-based, neural network processor is inspired by the event-based nature of the human brain. The resulting technology is high performance, small, ultra-low power ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200323005183/en/BrainChip-Socionext-Provide-New-Low-Power-Artificial-Intelligence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businesswire.com/images/bwlogo_extreme.png",
+          "width": 600,
+          "height": 300,
+          "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-amazon-and-microsoft-join-white-house-team-to-unleash-high-performance-computing-on-covid-19.md",
       "title": "Amazon and Microsoft join White House team to unleash high-performance computing on COVID-19",
       "excerpt": "(ORNL Photo) Less than a week after the White House’s Office of Science and Technology organized a consortium to focus the power of artificial intelligence on addressing the coronavirus outbreak ... companies technical support and promotional credits for the use of AWS services to advance research on diagnosis, treatment and vaccine studies ...",
@@ -926,116 +1052,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
-      "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
-      "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
-      "publishedDateTime": "2020-03-20T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=1024",
-          "width": 1024,
-          "height": 662,
-          "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
-      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
-      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft.md",
-      "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
-      "excerpt": "Anthony Levandowski, the former head of Uber’s self-driving unit, has agreed to plead guilty to stealing trade secrets from his former employer Google before joining Uber and kickstarting the ride-sharing company’s self-driving car development. According to a statement from the US Department of Justice, Levandowski submitted documents on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.worldipreview.com/news/levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft-19463",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "World IP Review",
-        "domain": "worldipreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.worldipreview.com/media/image/shutterstock_1394391065_nycstock.jpg",
-          "width": 620,
-          "height": 400,
-          "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

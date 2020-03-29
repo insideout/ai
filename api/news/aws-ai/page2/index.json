@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-10-aws-makes-bee-gains-dangles-r365m-to-sas-smes.md",
+      "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
+      "excerpt": "Additionally, says AWS, it will enable more organisations across Sub-Saharan Africa to leverage advanced technologies such as artificial intelligence, machine learning, IOT, mobile services, and more to drive innovation. As SA awaits the launch of the facilities, there is already some excitement in the market. Last year, insurer Old Mutual said ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/nWJadvbenwBqbjO1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/03/Prabashni-Naidoo-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
       "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
       "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
@@ -1223,43 +1260,6 @@
           "width": 1260,
           "height": 630,
           "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-aws-assists-premier-league-analytics.md",
-      "title": "AWS assists Premier League analytics",
-      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
-      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "publishedDateTime": "2020-02-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
-          "width": 590,
-          "height": 350,
-          "title": "AWS assists Premier League analytics",
           "attribution": null
         }
       ],

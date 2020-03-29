@@ -955,6 +955,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-09-training-and-operationalizing-interpretable-machine-learning-models.md",
+      "title": "Training and Operationalizing Interpretable Machine Learning Models",
+      "excerpt": "Francesca will illustrate this workflow using Azure Machine Learning, but it can be also used with any machine learning product of your choice. The model deployment workflow should be based on the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ODSC/training-and-operationalizing-interpretable-machine-learning-models-822866d77a5b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/640/0*NAQ3Wm3Hn7-yQU-b.png",
+          "width": 640,
+          "height": 300,
+          "title": "Training and Operationalizing Interpretable Machine Learning Models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-06-the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace.md",
       "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
       "excerpt": "NEWTOWN, Pa., March 5, 2020 /PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development solutions, today announced that the EPAM",
@@ -1093,51 +1138,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-the-path-to-the-cloud.md",
-      "title": "The path to the cloud",
-      "excerpt": "Let’s start by looking at Azure Machine Learning (AML), not Azure’s classic drag-and-drop Machine Learning Studio, but our more recent API-based service that makes it easier to develop ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/data-science-at-microsoft/the-path-to-the-cloud-1bb4dc3296ed",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*2aTBR2y_tVgMIV9vVH8TAA.jpeg",
-          "width": 1200,
-          "height": 459,
-          "title": "The path to the cloud",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,139 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-25-can-artificial-intelligence-fight-elderly-loneliness.md",
+      "title": "Can artificial intelligence fight elderly loneliness?",
+      "excerpt": "Voice technologies using AI are being used to help combat loneliness in countries including Sweden and the UK. Should they be used more widely as coronavirus spreads?",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/worklife/article/20200325-can-voice-technologies-using-ai-fight-elderly-loneliness?es_p=11393176",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/wwfeatures/live/624_351/images/live/p0/87/np/p087np70.jpg",
+          "width": 624,
+          "height": 351,
+          "title": "Can artificial intelligence fight elderly loneliness?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-helmai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai.md",
+      "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
+      "excerpt": "Helm.ai will put the $13 million in seed funding toward advanced engineering and R&D and hiring more employees, as well as locking in and fulfilling deals with customers. Helm.ai is focused solely ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "publishedDateTime": "2020-03-25T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/helm-ai-interior.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
+      "title": "IBM’s AI generates videos of chairs, golfers, and more",
+      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "publishedDateTime": "2020-03-25T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI generates videos of chairs, golfers, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
       "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
       "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
@@ -1150,133 +1283,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award.md",
-      "title": "dotData Receives APN Machine Learning Competency Partner of the Year Award",
-      "excerpt": "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-2020-03-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "dotData Receives APN Machine Learning Competency Partner of the Year Award",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-sifive-accelerates-chip-design-with-cloud-tools.md",
-      "title": "SiFive Accelerates Chip Design with Cloud Tools",
-      "excerpt": "“By collaborating with Synopsys and leveraging Microsoft Azure, SiFive is improving its portfolio of design tools,” the ... A target market for cloud-based chip design is silicon accelerators used for machine learning inference. Those hardware accelerators are often used with graphics processors to speed up model training and inference.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/2020/03/25/sifive-accelerates-chip-design-with-cloud-tools/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x.jpg",
-          "width": 800,
-          "height": 533,
-          "title": "SiFive Accelerates Chip Design with Cloud Tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-mit-can-now-train-self-driving-cars-in-a-photorealistic-simulator.md",
-      "title": "MIT can now train self-driving cars in a photorealistic simulator",
-      "excerpt": "Simulators have been used for years to train human drivers, pilots and astronauts, and now they're being used to train self-driving cars too – and a new system developed by researchers at MIT could be the most promising yet. The Virtual Image Synthesis and Transformation for Autonomy (VISTA) simulation system means cars don't have to venture ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/",
-      "ampWebUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
-      "publishedDateTime": "2020-03-24T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/4baac11/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F28%2F58%2F5fe4b6c24adb8500a2a8e0daf3fa%2F00-mit-sim.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "MIT can now train self-driving cars in a photorealistic simulator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

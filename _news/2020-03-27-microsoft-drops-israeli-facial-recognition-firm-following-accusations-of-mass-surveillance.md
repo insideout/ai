@@ -41,21 +41,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20200328&t=2&i=1509159992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2Q222"
         width: 818
         height: 545
-  - title: "Microsoft to end investments in facial recognition firms after AnyVision controversy"
-    excerpt: "Microsoft says it will no longer invest in third-party facial recognition companies following a controversy around its funding of Israeli startup AnyVision, which critics and human rights activists say powered a surveillance program in the West Bank following an NBC News report about the company’s relationship with the Israeli government."
-    publishedDateTime: 2020-03-27T22:04:00Z
-    webUrl: "https://www.theverge.com/2020/3/27/21197577/microsoft-facial-recognition-investing-divest-anyvision-controversy"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/3/27/21197577/microsoft-facial-recognition-investing-divest-anyvision-controversy"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/27/21197577/microsoft-facial-recognition-investing-divest-anyvision-controversy"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 82
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/2ALAt6DzWNqs0Ri5QfT_05ngypY=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66567547/acastro_180507_1777_microsoft_0003.0.jpg"
-        width: 1400
-        height: 933
 
 secured: "nTCjtjPdpLflcgc6+C+QuJHztXiONLGe7Nmvp3X1Q+T50hHk2K+rRMMF2lc1rgvXcdsKqSRCtmzepLllMJWsUOSEFVT5V6DnYtR3HIiLDoc1QmHs9RyIwjyBJ+o3+eoNQD6CN/OJL6cXCEFqgEn9KRFFpCfgsRt6fWaKPEIqrcpr/cUWpf85LwoWjSa0p+8I2uMWmu8iBpqLMv4vkJz5bedUq81j2hMHxOd6uZB410QQF6Wl3A5zIdJWCX9pQYmBCGLJQrFKhkiTT7WkLYrrTvX0wNkZnHxbQTqMOUpiDXRqkNuLNqq3/vQUh1F5CpcGggrjMMpGQbC6ESvKVocdA11l/4KCtqq3MElTL8MWE2WtL/Gr745w47dTetcRCmGTOHUh/h9blqwX4YqOhKnmeSnJL8O+lBjLRPovCR7iQZVmSXGr0YWIdQNfJfQzU7bItbOI/2Qz1pqDXc47hRAeSwWzjQqfLNDVjCSmU5cvj6E=;V4RadULRDfcqNFLoJf7s+w=="
 ---

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-27-coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report.md",
+      "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
+      "excerpt": "According to a report by the BBC, Amazon, Microsoft and Palantir will be part of the effort, as well as Faculty AI, a London-based company that specialises in machine learning and artificial intelligence ... Amazon Web Services will provide cloud-computing resources, while Microsoft Azure is said to have built a \"gigantic\" data store to ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "publishedDateTime": "2020-03-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/24/c1e56d77-d792-423d-b2a0-51f41dcd0e59/thumbnail/1200x675/0216fc8a384fce84009b1f6fcd8dc9cd/us-israel-south-korea-and-china-look-at-5e750948daf32b2d76d61991-1-mar-24-2020-17-50-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
       "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
       "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
@@ -1177,6 +1222,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
       "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
       "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
@@ -1217,95 +1299,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-helmai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai.md",
-      "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
-      "excerpt": "Helm.ai will put the $13 million in seed funding toward advanced engineering and R&D and hiring more employees, as well as locking in and fulfilling deals with customers. Helm.ai is focused solely ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
-      "publishedDateTime": "2020-03-25T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/helm-ai-interior.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
-      "title": "IBM’s AI generates videos of chairs, golfers, and more",
-      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
-      "publishedDateTime": "2020-03-25T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s AI generates videos of chairs, golfers, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

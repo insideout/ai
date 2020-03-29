@@ -2,6 +2,231 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
+      "title": "AI At The Edge: Creating Coordinated Autonomy",
+      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "publishedDateTime": "2020-02-18T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
+          "width": 800,
+          "height": 512,
+          "title": "AI At The Edge: Creating Coordinated Autonomy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
+      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "publishedDateTime": "2020-02-18T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
+          "width": 770,
+          "height": 474,
+          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-experiments-with-ai-to-design-its-in-house-computer-chips.md",
+      "title": "Google experiments with AI to design its in-house computer chips",
+      "excerpt": "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
+      "publishedDateTime": "2020-02-18T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/18/488b0d78-cb71-4f26-a228-dabf1c603a54/google-ai-for-chip-design-feb-2020.png",
+          "width": 2388,
+          "height": 1339,
+          "title": "Google experiments with AI to design its in-house computer chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
+      "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+      "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "publishedDateTime": "2020-02-18T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-how-ai-is-impacting-the-workplace.md",
+      "title": "How AI is impacting the workplace",
+      "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
+      "publishedDateTime": "2020-02-18T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "How AI is impacting the workplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms.md",
       "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
       "excerpt": "Law is an avenue in which to test the integration between AI and people. Automation won’t be replacing the lawyer any time soon, but as AI evolves it will be able to increasingly assist the people in the industry,",
@@ -1075,232 +1300,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-why-your-new-work-colleague-could-be-a-robot.md",
-      "title": "Why your new work colleague could be a robot",
-      "excerpt": "A whirring and whizzing noise greets you as you enter the offices of Automata, a start-up robotics company based in London ... Yet now, developments in artificial intelligence, alongside improved vision technology and better devices for gripping, are ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-51442445",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-51442445",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-51442445",
-      "publishedDateTime": "2020-02-17T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2066/production/_110849280_robots.boxes.g.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Why your new work colleague could be a robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector.md",
-      "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
-      "excerpt": "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-arm-ups-its-iot-intelligence-game-with-new-chips.md",
-      "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-      "excerpt": "Patrick Moorhead gives his take on Arm unveiling last week's key parts of their portfolio moving forward—a selection of offerings and IP geared specifically towards machine learning and AI.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "publishedDateTime": "2020-02-17T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4b097ba854780006b19d78%2F0x0.jpg",
-          "width": 975,
-          "height": 658,
-          "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
-      "title": "New artificial evolution research could finally prove Darwin was right",
-      "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "publishedDateTime": "2020-02-17T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/bacteria-796x437.jpg",
-          "width": 796,
-          "height": 437,
-          "title": "New artificial evolution research could finally prove Darwin was right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-what-does-artificial-intelligence-really-mean.md",
-      "title": "What Does “Artificial Intelligence” Really Mean?",
-      "excerpt": "Years ago, Marvin Minsky coined the phrase “suitcase words” to refer to terms that have a multitude of different meanings packed into them. He gave as examples words like consciousness, morality and creativity.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/17/what-does-artificial-intelligence-really-mean/amp/",
-      "publishedDateTime": "2020-02-17T13:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F255005%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": "What Does “Artificial Intelligence” Really Mean?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

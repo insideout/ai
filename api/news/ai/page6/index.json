@@ -2,6 +2,132 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
+      "title": "How AI Makes Big Data Smarter",
+      "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
+      "publishedDateTime": "2020-03-23T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-54-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Makes Big Data Smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-is-voice-the-next-big-thing-to-transform-consumer-behavior.md",
+      "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+      "excerpt": "Voice is an untapped channel that can provide an opportunity for deeper engagement with our customers — and we can't afford to leave that opportunity on the table.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "publishedDateTime": "2020-03-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F03%2Fa-52.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-brainchip-and-socionext-provide-a-new-low-power-artificial-intelligence-platform-for-ai-edge-applications.md",
+      "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
+      "excerpt": "BrainChip has developed an advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. This innovative, event-based, neural network processor is inspired by the event-based nature of the human brain. The resulting technology is high performance, small, ultra-low power ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200323005183/en/BrainChip-Socionext-Provide-New-Low-Power-Artificial-Intelligence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businesswire.com/images/bwlogo_extreme.png",
+          "width": 600,
+          "height": 300,
+          "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-amazon-and-microsoft-join-white-house-team-to-unleash-high-performance-computing-on-covid-19.md",
       "title": "Amazon and Microsoft join White House team to unleash high-performance computing on COVID-19",
       "excerpt": "(ORNL Photo) Less than a week after the White House’s Office of Science and Technology organized a consortium to focus the power of artificial intelligence on addressing the coronavirus outbreak ... companies technical support and promotional credits for the use of AWS services to advance research on diagnosis, treatment and vaccine studies ...",
@@ -1126,131 +1252,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-self-driving-car-testing-freezes-due-to-covid-19.md",
-      "title": "Self-driving car testing freezes due to COVID-19",
-      "excerpt": "Waymo will continue to monitor COVID-19 developments until any further service changes are needed. Cruise Automation, the self-driving arm of General Motors Co., also took to Twitter to explain how it would be suspending its own self-driving test operations and closed its San Francisco facilities with the hope of re-opening in three weeks.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electronics360.globalspec.com/article/14864/self-driving-car-testing-freezes-due-to-covid-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engineering360 News",
-        "domain": "globalspec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electronics360.globalspec.com/images/assets/864/14864/waymo_minivan_4.jpg",
-          "width": 752,
-          "height": 501,
-          "title": "Self-driving car testing freezes due to COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head.md",
-      "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
-      "excerpt": "The answer to the next big food or flavor trend has had less to do with humans and more with the power of big data and artificial intelligence (AI).",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/how-big-data-and-ai-are-turning-the-food-and-beverage-industry-on-its-head/amp/",
-      "publishedDateTime": "2020-03-20T05:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-37.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How Big Data And AI Are Turning The Food And Beverage Industry On Its Head",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ais-effect-on-productivity-now-and-in-the-future.md",
-      "title": "AI's Effect On Productivity Now And In The Future",
-      "excerpt": "Artificial intelligence is one of the hottest topics in the business world, and speculations about its potential effects abound. Professional services giant PwC claims AI could add nearly $16 trillion to the world economy by 2030.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/20/ais-effect-on-productivity-now-and-in-the-future/amp/",
-      "publishedDateTime": "2020-03-20T05:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-36.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "AI's Effect On Productivity Now And In The Future",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
