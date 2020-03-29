@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-26T17:30:00Z
 webUrl: "https://www.prnewswire.com/news-releases/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards-301030407.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -21,21 +21,6 @@ images:
     width: 1800
     height: 942
     title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
-
-related:
-  - title: "Weka Named Winner in 2020 Artificial Intelligence Excellence Awards"
-    excerpt: "The latest episode of the This Week in HPC podcast features Carlo Cavazzoni, a senior staff member at CINECA, one of the leading supercomputing organizations in Europe. Intersect360 Research's Addison Snell spoke to Cavazzoni to discuss both CINECA's work using supercomputing to combat COVID-19 and Cavazzoni's personal experience living near ..."
-    publishedDateTime: 2020-03-26T16:26:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/weka-named-winner-in-2020-artificial-intelligence-excellence-awards/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x-405x228.jpg"
-        width: 405
-        height: 228
 
 secured: "Saluo/7WxKzAuCy80LJf/Nfyh8Noa94CjsyFg6aVt0KbxhRdKW9i/K1NjmpNvxLQ4FP2ek4tSwL5SlRAQliXDW4/yp8SQCQSHZhBBOfCR8wGYuTrDLPZkGVd6uM38ev17Iw1wIJirDj8uu0ZKHrPp48RvU8ycUpNbBL3QI0IzayH4fU6d57O113AkqMW9M2atfNifSh2IhTEeUnBHTEBgnhlCHRVnccc1ZVdNzO0ltEtpp6XVlKoiphR9fzTZgdOt4eie7lBU9MmJ1LJxazSS964Wdi8obKIGqDXI0emzi+TY6y18Rwpo8WivOENi8il1eLiRbcYezhD3Z8QjUrd70EMsxzBtasrTSsAJn/21MaoU+VGfF8OHQxBSXfAGgAGxKHmGprk+yTqe2ak/AHlO0Lt3alK33spqcJH+5tqonbSePKPH7WHBPbcmXNIRDuKuC5WSByVWgpg0BAvU4W8kreFqSxJr1OB58ibffYohI4=;/eXtcRjQFjtpc9GK31kL8A=="
 ---

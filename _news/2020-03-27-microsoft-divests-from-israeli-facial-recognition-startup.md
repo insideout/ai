@@ -95,6 +95,28 @@ related:
       - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
         width: 1350
         height: 750
+  - title: "Microsoft to sell stake in facial recognition start-up AnyVision"
+    excerpt: "Microsoft will sell its stake in AnyVision, an Israeli facial recognition start-up, and said it no longer would make minority investments in companies that sell the controversial technology. The decision marks a policy change for the Redmond, Washington-based software maker, which has aimed to shape how the technology industry approaches facial ..."
+    publishedDateTime: 2020-03-29T09:16:00Z
+    webUrl: "https://www.arnnet.com.au/article/672289/microsoft-sell-stake-facial-recognition-start-up-anyvision/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/biometrics_facial_recognition.jpg"
+        width: 670
+        height: 446
+  - title: "Microsoft takes step away from facial recognition"
+    excerpt: "In a policy change that follows an investment in Israeli startup AnyVision, (NASDAQ:MSFT) has decided to no longer hold minority interests in companies that sell facial-recognition technolog"
+    publishedDateTime: 2020-03-29T09:00:00Z
+    webUrl: "https://seekingalpha.com/news/3556092-microsoft-takes-step-away-from-facial-recognition"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "OnMH2cuGv+6LfQmteAye/q4WOTuWsXHyeU/bj1hkPJY3jcrcngkqUUHHlWgd942WywHQ/qajuGNYupjqnURknY0dNEkw5auPgPu81QNNg7i6SwS830+vCBzE7EoIGsubijr5bw8g1mxhdEtMuvX07pwQpiZJWIvP+26OYw65CsvatagoMTRZgub/XBLkA4LDIGgBA4ASRkYiNhbDA8VBUncU5DINc9Y9GFvJVU8+FmU37kCb3ORQxHtbdZt6d+N0hTrNPUnUJ/T1NlTw4zxRPAPpRm0nv5tUTGLznBa5coyQstNrTl+lPsztPOmytFDw;ap/nOY2XNPR+ylWJy1IQ2g=="
 ---

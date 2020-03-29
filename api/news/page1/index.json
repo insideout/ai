@@ -5,7 +5,7 @@
       "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
       "title": "Can AI Detect Your Emotion Just By How You Walk?",
       "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/",
@@ -42,7 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -604,7 +605,7 @@
       "path": "_news/2020-03-27-microsoft-sells-stake-in-israeli-facial-recognition-company.md",
       "title": "Microsoft sells stake in Israeli facial recognition company",
       "excerpt": "Microsoft's venture capital arm, M12, invested in AnyVision as part of a $74 million funding round in June 2019.",
-      "heat": 139,
+      "heat": 159,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-sells-stake-israeli-facial-recognition-company-n1170781",

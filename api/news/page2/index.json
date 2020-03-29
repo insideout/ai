@@ -184,13 +184,13 @@
     {
       "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
       "title": "What winemaking has taught me about artificial intelligence",
-      "excerpt": "VP and CTO, Mist — Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. You wouldn’t think one has much to do with the other, but as both an AI ...",
-      "heat": 87,
+      "excerpt": "Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and ... Similarly, building an AI-driven wireless network (which is my day job), must account for all the network features that decide whether a mobile device user has a good experience or a poor one. In today’s world of always-connected offices, stores, hotels ...",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
+      "webUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
       "publishedDateTime": "2020-03-27T06:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -222,6 +222,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },

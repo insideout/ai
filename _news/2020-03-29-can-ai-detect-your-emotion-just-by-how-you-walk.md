@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-yo
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e80219108eb080006521acc%2F0x0.jpg"
@@ -28,6 +29,6 @@ images:
     height: 970
     title: "Can AI Detect Your Emotion Just By How You Walk?"
 
-secured: "zZ5Knh+O3pGFEJiNgxQ9FsPvN5LWWBsvYlb/0OgfevPD9AV36vgJ19m36EDdrNARcnj4faXjhwVqqHGgDnQimvrB1KiJzRw4vvpBoEqZxbuDHj6O6PlOmhBRHJJr3qEhYV3qcux5lrhr02rkYDYOYRtUK1S62pjPi1PBeJ3KY2Q+OXkyVWr8K+LSO2hLkEADr72tkcg4hUFXTxcgysW/pze+2uggUV5HwbsQhWf12WXU+HdkYEkcYvwel4eOV9F/CcZgWgwJi0VOV9XfV5BbMXUFWe+59kPYHlm61o1JNHD8i8Te/jth+OFsCRT9+nu8;qncdOnrHHdQ5KLbnGAFQ2g=="
+secured: "FA3qaM2+0z7wmdcmoYxpbjTjdYEwWtW5j2F/na2phoWAFTC3XNWRyD1g60FhUUYkqVfy6+B6f06f5tOY1zQ6KbJUlUBydrzcUnXJJ3QBIsRsz6UEgBhQp4eDTnmFoUjC0bA8FA+0ItvcZMsE64UOBA1eOLo+6yXMINdrfI2K+x4ZBCy3R1HtZk50bdlapoaq1jnt6kW+JcZxWITJCj0dIEvX6RbEP+asowu1EZ3Ce0aRoPlmY5k0pcywRjmZjPasEJ9HruNA+VJddDparHzytZb95bemyJ9PZZF/OjqR6lFmyolf+k6nNbLzbJYpieyU4uQRWqJsypXl/ChiN7qQXxLeQWnOld0stgKSBB2BvtG8hPNwEuutBnqWKk1oA8Z2WNoXtOqpZSJAO8Wl17KLAYXGJjYl/eCqDmcX+9g8CkMV68J93srmVAkP5nFOlIqhyQL4OIU23QA/Z+ygddPruYztc33TXcF/wwxVoqXZ1n4=;fdCNwmxLwmNWssAIZXSvCg=="
 ---
 

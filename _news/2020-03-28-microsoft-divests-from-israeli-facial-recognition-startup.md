@@ -91,6 +91,28 @@ related:
       - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
         width: 1350
         height: 750
+  - title: "Microsoft to sell stake in facial recognition start-up AnyVision"
+    excerpt: "Microsoft will sell its stake in AnyVision, an Israeli facial recognition start-up, and said it no longer would make minority investments in companies that sell the controversial technology. The decision marks a policy change for the Redmond, Washington-based software maker, which has aimed to shape how the technology industry approaches facial ..."
+    publishedDateTime: 2020-03-29T09:16:00Z
+    webUrl: "https://www.arnnet.com.au/article/672289/microsoft-sell-stake-facial-recognition-start-up-anyvision/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/biometrics_facial_recognition.jpg"
+        width: 670
+        height: 446
+  - title: "Microsoft takes step away from facial recognition"
+    excerpt: "In a policy change that follows an investment in Israeli startup AnyVision, (NASDAQ:MSFT) has decided to no longer hold minority interests in companies that sell facial-recognition technolog"
+    publishedDateTime: 2020-03-29T09:00:00Z
+    webUrl: "https://seekingalpha.com/news/3556092-microsoft-takes-step-away-from-facial-recognition"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "gcLnGS6oT1D/DdZkmxvlnwqGHjVLKjkTAATWYrbo21sGUHtW1izXiz5XB6C5S7FDk/oqXfx02HRiXTwNyq92y+B1bx19uI8gY+sAOiJwDgr5yLmLX8XQAKo7fDSWfkI1B22YD6cE3wh9Wm3iHaZlGuYXqDHVejr3q3AJhJhr2nMxiGAnQt8mHcTmMw5udKVdmDEQGf1Z1llFG7cTLa12eWdlwCxaP4/aWg89EzUbDfMifT7IZDdAca+vKtJ+f7C3vkbqwU+9LhD/ZVqVFUhtuAG6DzHw3rj61e5HgbROtjn7UMdyiEUlhxHFY4awqMZpj0Y0AWeE99IZlAnAfNCDSHcvpgsK1X2Iu/vwKklcWTU3yd0TtRqqrfLFzfz0ENANPUZjnUABYdpFne1m2EtFxVvnOkzypUF/9YBQW1QlL+TXiuMaDdUpot4avyOtrw5YzXmbBYL982qbtyJ0k9M1vHO0eUiA8qfvgXwJYTAU01I=;/lB5CoT99lp8sBRIclxrXw=="
 ---
