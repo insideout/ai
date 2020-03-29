@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - Computer Vision
 
 images:
   - url: "https://i1.wp.com/technode.com/wp-content/uploads/2020/03/bigstock-artificial-intelligence-1745972-1.jpg?fit=1707%2C1280&ssl=1"
