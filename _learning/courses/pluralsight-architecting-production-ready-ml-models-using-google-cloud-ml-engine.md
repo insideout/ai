@@ -27,6 +27,7 @@ topics:
 tags:
   - scikit-learn
   - Python
+  - TensorFlow
 
 images:
   - url: https://pluralsight.imgix.net/course-images/google-ml-engine-architecting-production-ready-models-v1.jpg

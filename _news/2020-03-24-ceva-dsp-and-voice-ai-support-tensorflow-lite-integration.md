@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/03/24152552/z.jpg"

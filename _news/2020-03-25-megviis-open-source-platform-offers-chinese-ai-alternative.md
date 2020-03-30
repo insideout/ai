@@ -5,8 +5,8 @@ excerpt: "AI startup Sensetime, speech recognition firm iFlytek, and surveillanc
 publishedDateTime: 2020-03-25T09:26:00Z
 webUrl: "https://technode.com/2020/03/25/megviis-open-source-platform-offers-chinese-ai-alternative/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

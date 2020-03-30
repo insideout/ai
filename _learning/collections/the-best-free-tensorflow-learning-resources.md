@@ -6,6 +6,7 @@ heat: 24234
 
 items:
   - courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning
+  - courses/youtube-hvass-lab-tensorflow-tutorials
   - courses/coursera-convolutional-neural-networks-in-tensorflow
   - courses/coursera-natural-language-processing-in-tensorflow
   - courses/coursera-sequences-time-series-and-prediction
@@ -27,6 +28,9 @@ levels:
 topics:
   - AI
   - Google AI
+  - TensorFlow
+tags:
+  - TensorFlow
 
 images:
   - url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/1200px-TensorFlowLogo.svg.png

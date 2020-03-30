@@ -7,6 +7,9 @@ webUrl: "https://mspoweruser.com/oneplus-8-pro-ai-score-galaxy-s20/"
 ampWebUrl: "https://mspoweruser.com/oneplus-8-pro-ai-score-galaxy-s20/amp/"
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/oneplus-8-pro-ai-score-galaxy-s20/amp/"
 type: article
+quality: 50
+heat: 50
+published: false
 
 provider:
   name: MSPoweruser

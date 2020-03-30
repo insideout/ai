@@ -23,6 +23,6 @@ images:
     height: 450
     title: "Shaking hands with robots during (and after) the COVID-19 crisis"
 
-secured: "RvGJURLDrUD+JEe18ZGZAQ/R+UTdh9M1jJknCS+Bm2PZNG6tt5WZ1jAChKSR0YvLYrxcMV6z7JJ4+Y75511Nh+Anh6GCoPSVoeRhXlQne4wbRif1IxdUidODVOMbjgHDFWno4RcHoJk+SRYZKH4NiWg9QTPaBzdxSWpqUeGeNie3o5hAwDkm5bzq1+EVUlcjcAPDhSCmpcOUjEOhdIWPPchJ3+fSGzTM7C9iT9sRf4rMCWg2U9I0PVsN2UySgZqhqo3Dlp1kzMT/RMLrgYCtqt5yM6TfhBwMQSbA05P20HhnxUdGXztCizId2tQIDk2d;a+EuGS/Is/KRpbQ3k+G04w=="
+secured: "+++8HpeAWdYclJ+f7wMYfg9dEp4N5gQ2kKIhLD01ivRLcVEUnhfIBuXa1nv+qCk4a5mzNv/PbKXm44S15AfBMA5+RZOKYUlOf7m0HMNpwrBrw4LfhDGSEBC8AzOWexZgUeBrdIiHVc0vgKH8ZYhsaTmTlzAMVCPhdNhnC4B9KcQGUz5xdCXvFubxbtjig/sesC7qqO/a1DCdtA1mlI4Xp0wabDWz+7/0QdO1I0u7Z0E28l21iMGBXSda2gCGKjSx0uzBZTfLVrylO+YsC9hHPMu4jgPJ4rwLGAUvGbfpH/niCKSxLvGk/+mm0cDYjJEACLhaWpHnSocGvjdbXdEswB7d/MXL9+yoWkswefT61PpTzisEYL5kVvD68SsJvOeV/OIgRvaOfDaferaA18qiw8SoB+8TwjjTFvG2YXFlCn0oCGC+1U0+sq4EZcQ5nHeK/3Ptyc47xWxnq1wJlmNIpq85VIZzR6t6/Nwuln6ZVVA=;AGDwhxltl87vvWbAVszy9w=="
 ---
 

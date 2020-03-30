@@ -7,8 +7,8 @@ webUrl: "https://www.scmp.com/news/china/science/article/3077326/covid-19-mother
 ampWebUrl: "https://amp.scmp.com/news/china/science/article/3077326/covid-19-mothers-and-babies-wuhan-study-better-start-those"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3077326/covid-19-mothers-and-babies-wuhan-study-better-start-those"
 type: article
-quality: 17
-heat: 17
+quality: 47
+heat: 47
 published: false
 
 provider:

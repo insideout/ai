@@ -20,6 +20,7 @@ topics:
   - AI
   - Google AI
   - Machine Learning
+  - TensorFlow
 
 images:
   - url: https://pbs.twimg.com/profile_banners/254107028/1557510928/1500x500

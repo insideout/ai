@@ -14,6 +14,10 @@ published: false
 provider:
   name: South China Morning Post
   domain: scmp.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing

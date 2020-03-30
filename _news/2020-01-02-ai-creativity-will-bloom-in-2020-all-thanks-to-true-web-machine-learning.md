@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - TensorFlow
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/12/Untitled-design26-796x417.png"

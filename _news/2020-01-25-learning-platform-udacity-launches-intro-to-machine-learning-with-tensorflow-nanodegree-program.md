@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - TensorFlow
 
 related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"

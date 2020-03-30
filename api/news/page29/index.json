@@ -2,43 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-03-05-cisco-and-microsoft-partner-on-cloud-iot-stuff.md",
-      "title": "Cisco and Microsoft partner on cloud IoT stuff",
-      "excerpt": "The thinking is that Microsoft’s Azure IoT platform is great at the datacenter ... global connectivity, advance analytics, and cognitive services for analyzing IoT data.” “This partnership between Cisco and Azure IoT will significantly simplify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502899/cisco-and-microsoft-partner-on-cloud-iot-stuff/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91",
-          "width": 300,
-          "height": 250,
-          "title": "Cisco and Microsoft partner on cloud IoT stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-05-using-a-robotic-arm-on-wheels-to-fight-coronavirus.md",
       "title": "Using a robotic 'arm on wheels' to fight coronavirus",
       "excerpt": "Using a robotic 'arm on wheels' to fight coronavirus Posted Researchers in China have developed a robot which they hope will help doctors who are working with coronavirus patients on the frontlines.",
@@ -939,6 +902,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-03-researchers-develop-slide-algorithm-for-cpu-ai-training-that-outperforms-gpus.md",
+      "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
+      "excerpt": "There's a lot of money to be made by leveraging AI—NVIDIA, for example ... but the researchers claim SLIDE performs better than GPU methods. \"Our tests show that SLIDE is the first smart ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
+      "ampWebUrl": "https://amp.hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/researchers-slide-algorithm-cpu-ai-training-outperforms-gpu",
+      "publishedDateTime": "2020-03-03T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/50927/content/CPU.jpg",
+          "width": 708,
+          "height": 398,
+          "title": "Researchers Develop SLIDE Algorithm For CPU AI Training That Outperforms GPUs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

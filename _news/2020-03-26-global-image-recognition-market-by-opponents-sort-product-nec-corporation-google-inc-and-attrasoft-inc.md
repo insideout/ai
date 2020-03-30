@@ -27,6 +27,17 @@ images:
     height: 630
     title: "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc"
 
+related:
+  - title: "Global Cognitive Computing Market (2020 to 2025) - Utilizing Cognitive Abilities to Reduce Excess Operational Costs Presents Opportunities"
+    excerpt: "The \"Cognitive Computing Market by Component, Deployment Mode, Business Function, Application (IVA and Chatbot and Behavioral Analysis),"
+    publishedDateTime: 2020-03-25T12:33:00Z
+    webUrl: "https://www.globenewswire.com/news-release/2020/03/25/2006220/0/en/Global-Cognitive-Computing-Market-2020-to-2025-Utilizing-Cognitive-Abilities-to-Reduce-Excess-Operational-Costs-Presents-Opportunities.html"
+    type: article
+    provider:
+      name: GlobeNewswire
+      domain: globenewswire.com
+    quality: 0
+
 secured: "4skXpW1wn9PruhRWZHmIL2n9nXKZ8Jo9IT4xNa+SO5vExUNj5AeEVvh6nKtqOV8P9tEFFb00xgnbe1wqy2Q+vuEHd9YrTEL9Px+Istvs+ouD9xTKGEy4mRsD1mxMUSlUAcamWs/YCbQc+SLQ66J8LaUjXeP3ApCz5NhZ4QRG+M14dXNq/LAdGJ09CxmlUOoWPSibSafcpILMF9RLDWqveimvA9+NPJVMzO9RIhnk5D9jNfnjnTmuGo1a6Mi3CfPWVBPTqZum1eMJtQdAWL19WA/hE44iys6MZL+PHZ0vFfl0XpvwDDEs3Y+pqo3oWCcW;ir5N9b4T8JOkwvYKU5T0SQ=="
 ---
 

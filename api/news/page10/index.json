@@ -2,43 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-03-19-playstation-5-vs-xbox-series-x-which-is-better.md",
-      "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
-      "excerpt": "Microsoft has talked up some AI capabilities of the Xbox Series X based on its ability to handle 4-bit and 8-bit integers. It’s not clear if Sony’s RDNA2 GPU has a similar ability. Sony’s claims about the PS5’s more nimble GPU are interesting, but they need to be demonstrated in head-to-head comparisons. Sony has the not-inconsiderable ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.extremetech.com/gaming/307903-playstation-5-vs-xbox-series-x-which-is-better",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ExtremeTech",
-        "domain": "extremetech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.extremetech.com/wp-content/uploads/2020/03/Xbox-Die-Feature.jpg",
-          "width": 1179,
-          "height": 651,
-          "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-19-iot-and-machine-learning-technology.md",
       "title": "IoT and Machine Learning Technology",
       "excerpt": "And if the MCA Connect team were to wager on the next massive breakthrough in computing, they would be putting favorable odds on the development of artificial intelligence and machine learning technologies. Machine Learning Drives the Future of Artificial Intelligence Modern machines harness Artificial Intelligence (AI) to perform functions ...",
@@ -945,6 +908,52 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
+      "title": "Explaining machine learning models to the business",
+      "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "publishedDateTime": "2020-03-19T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-523692007-100648034-large3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Explaining machine learning models to the business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

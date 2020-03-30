@@ -5,6 +5,9 @@ excerpt: "For those of us whose interest and expertise lie in software, Amazon W
 publishedDateTime: 2020-03-26T00:00:00Z
 webUrl: "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/"
 type: article
+quality: 24
+heat: 24
+published: false
 
 provider:
   name: Hackaday

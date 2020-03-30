@@ -5,8 +5,8 @@ excerpt: "TensorFlow remains the dominant AI modeling framework. Most AI (artifi
 publishedDateTime: 2020-03-26T10:03:00Z
 webUrl: "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html"
 type: article
-quality: 84
-heat: 84
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://images.idgesg.net/images/article/2018/01/compet_strategy_win_chess_advantage-100746028-large.3x2.jpg"

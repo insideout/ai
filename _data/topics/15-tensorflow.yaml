@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: tensorflow
+name: TensorFlow
+parent: Google AI
+keywords:
+  - tensorflow
+images:
+  - https://insideout.app/ai/assets/images/topics/tensorflow.jpg
+services:
+  news: https://insideout.app/ai/api/news/tensorflow/
+  learning: https://insideout.app/ai/api/learning/tensorflow/
+  people: https://insideout.app/ai/api/people/tensorflow/
+  projects: https://insideout.app/ai/api/projects/tensorflow/

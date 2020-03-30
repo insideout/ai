@@ -13,6 +13,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://insidehpc.com/wp-content/uploads/2020/03/blobid0_1583527327745.jpg"

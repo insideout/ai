@@ -32,6 +32,7 @@ topics:
   - AI
   - Natural Language Processing
   - Google AI
+  - TensorFlow
 tags:
   - TensorFlow
 

@@ -17,6 +17,9 @@ levels:
 topics:
   - AI
   - Google AI
+  - TensorFlow
+tags: 
+  - TensorFlow
 
 images:
   - url: https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b7/4e4fa0bc6d11e889b30b8a6e5b0715/adv-ml-gcp-2x.png?auto=format%2Ccompress&dpr=2&w=400&h=400&fit=fill&bg=FFF

@@ -7,17 +7,21 @@ webUrl: "https://www.gizmochina.com/2020/03/28/huawei-mindspore-ai-computing-fra
 ampWebUrl: "https://www.gizmochina.com/2020/03/28/huawei-mindspore-ai-computing-framework-goes-open-source/?amp"
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/03/28/huawei-mindspore-ai-computing-framework-goes-open-source/?amp"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Gizmochina
   domain: gizmochina.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://www.gizmochina.com/wp-content/uploads/2020/03/Huawei-MindSpore-Logo.jpg"

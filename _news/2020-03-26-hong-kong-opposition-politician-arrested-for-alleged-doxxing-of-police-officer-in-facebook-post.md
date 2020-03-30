@@ -7,8 +7,8 @@ webUrl: "https://www.scmp.com/news/hong-kong/law-and-crime/article/3077029/hong-
 ampWebUrl: "https://amp.scmp.com/news/hong-kong/law-and-crime/article/3077029/hong-kong-opposition-politician-arrested-alleged"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/law-and-crime/article/3077029/hong-kong-opposition-politician-arrested-alleged"
 type: article
-quality: 32
-heat: 32
+quality: 62
+heat: 62
 published: false
 
 provider:

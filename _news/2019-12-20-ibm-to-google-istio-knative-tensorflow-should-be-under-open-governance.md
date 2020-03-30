@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - TensorFlow
 
 images:
   - url: https://regmedia.co.uk/2019/01/18/shutterstock_779236312.jpg

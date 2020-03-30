@@ -5,8 +5,8 @@ excerpt: "The girl’s recurrent cancer was found in the same part of brain as b
 publishedDateTime: 2020-03-25T14:13:00Z
 webUrl: "https://www.nature.com/articles/d41586-020-00847-2"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:

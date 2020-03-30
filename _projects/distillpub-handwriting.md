@@ -25,6 +25,7 @@ topics:
   - AI
   - Machine Learning
   - Google AI
+  - TensorFlow
 
 tags:
   - TensorFlow

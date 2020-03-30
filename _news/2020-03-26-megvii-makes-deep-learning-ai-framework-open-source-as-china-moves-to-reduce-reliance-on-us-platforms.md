@@ -7,9 +7,9 @@ webUrl: "https://www.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-l
 ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves"
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: South China Morning Post

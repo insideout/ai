@@ -7,8 +7,8 @@ webUrl: "https://www.compsmag.com/best/upcoming-algorithms-books/"
 ampWebUrl: "https://www.compsmag.com/best/upcoming-algorithms-books/amp/"
 cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/best/upcoming-algorithms-books/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://cdn-stack.compsmag.com/wp-content/uploads/2017/09/cover-macbook-pro-macbook-computer-programming-60626-1024x681.jpeg"

@@ -5,6 +5,9 @@ excerpt: "Voice technologies using AI are being used to help combat loneliness i
 publishedDateTime: 2020-03-25T21:05:00Z
 webUrl: "https://www.bbc.com/worklife/article/20200325-can-voice-technologies-using-ai-fight-elderly-loneliness?es_p=11393176"
 type: article
+quality: 67
+heat: 67
+published: false
 
 provider:
   name: BBC

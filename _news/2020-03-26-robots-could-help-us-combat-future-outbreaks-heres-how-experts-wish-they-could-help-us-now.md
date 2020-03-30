@@ -7,6 +7,9 @@ webUrl: "https://www.ketv.com/article/robots-could-help-us-combat-future-outbrea
 ampWebUrl: "https://www.ketv.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
 cdnAmpWebUrl: "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/robots-could-help-us-combat-future-outbreaks-here-s-how-experts-wish-they-could-help-us-now/31930291"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: KETV Omaha

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-e
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/"
 type: article
 quality: 74
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,36 @@ images:
     width: 940
     height: 529
     title: "8 ways to protect your Amazon Echo privacy while working from home"
+
+related:
+  - title: "Amazon Echo: How to protect your privacy while working from home"
+    excerpt: "If you're worried about keeping your information private while working from home, change these Alexa settings now."
+    publishedDateTime: 2020-03-26T13:10:00Z
+    webUrl: "https://www.cnet.com/how-to/amazon-echo-how-to-protect-your-privacy-while-working-from-home/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/amazon-echo-how-to-protect-your-privacy-while-working-from-home/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-echo-how-to-protect-your-privacy-while-working-from-home/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/7jPvaiaAoUDSSF-B5aUV6DFN9Dc=/940x0/2018/10/22/fc5cf5c1-a4f0-4e40-83a5-78dd5f7cec06/fear-alexa-1.jpg"
+        width: 940
+        height: 529
+  - title: "Apple is working on bringing Face ID to Macs for user Authentication, Face Gesture Recognition and more"
+    excerpt: "For the MacBook, however, the integration of Face ID is awkwardly designed having some components at the top of the display but having light pattern recognition module that includes the needed dot projector built into the Touch Bar area in the keyboard. Technically speaking Apple notes that recent advances in computing devices have enabled ..."
+    publishedDateTime: 2020-03-26T13:34:00Z
+    webUrl: "https://www.patentlyapple.com/patently-apple/2020/03/apple-is-working-on-bringing-face-id-to-macs-for-user-authentication-face-gesture-recognition-and-more.html"
+    type: article
+    provider:
+      name: Patently Apple
+      domain: patentlyapple.com
+    quality: 8
+    images:
+      - url: "https://www.patentlyapple.com/.a/6a0120a5580826970c0240a4f5f2d1200d-600wi"
+        width: 600
+        height: 356
 
 secured: "mNWSdRXkhi5ICBXf0rw10+AZnZZashSZpSeYJhfkUrSaodQMKMMBCSIW0uQtznukYE055jOvlgJbnIcQK5B2gQg0Y1LPm3l7G0ndEdvXbEPUgvZATfhlkK9qypn5IFLhwXCYSb87Z99hmyG/GnhYUs+zu+mOVFj0w/1r0ZZ9Lyopxa/gvD3kqPffBjd3Mqyz9Aa/5bLggnnL+lPFJO7D1oubEIfjgILoomkSshoXke1r3iEYX3LzSxsNh/kdbFClwOZI2Su16PVA4+xWgP9X7FMaBigS+UdULpF8QbkHuwvpgh1iWkg0fh3PZnuF27yimbZtGd7bcQHAyzL8J1q9C3lv7YHI3cwRcmrm6LVYYa+H6S714dueQmoIQpGJCbtz0rliJAJc9nyWp/OFmG/lDo6IICWwZJwhwCkSL5Y2AcqzDwE5WX3qm0w9Y38NnuGs8OGVOlpGdUF7WFbqjZcTLVCkbVOlPDIMcHxQ1PaMA4Q=;L+hPw34wwee5c1iQLQW54w=="
 ---

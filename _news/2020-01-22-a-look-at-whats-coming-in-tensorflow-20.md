@@ -20,6 +20,7 @@ provider:
 topics:
   - AI
   - Google AI
+  - TensorFlow
 
 images:
   - url: "https://sdtimes.com/wp-content/uploads/2019/01/0_fJ5u2WE51Oz44dr_.png"

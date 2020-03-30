@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mma.prnewswire.com/media/74483/ceva__inc__logo.jpg?p=facebook"

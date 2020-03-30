@@ -15,6 +15,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://regmedia.co.uk/2020/03/13/oracle_bone.jpg"
