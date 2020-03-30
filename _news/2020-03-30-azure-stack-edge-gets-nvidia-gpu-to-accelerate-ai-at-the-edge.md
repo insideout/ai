@@ -3,7 +3,7 @@ category: news
 title: "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge"
 excerpt: "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge."
 publishedDateTime: 2020-03-30T06:17:00Z
-webUrl: "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/?ss=cloud"
+webUrl: "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/"
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/"
 type: article
@@ -20,7 +20,7 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - AI Hardware
   - AI
 
 images:
@@ -29,6 +29,6 @@ images:
     height: 733
     title: "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge"
 
-secured: "j4qXORv7YWHNV58++zJTjcVSyH2No65LnDhikhwTSjxf/1swH2ivKgc2bDycgH3tclAX5jrC52gUjt5SOIGfjNuuIP+bgcreCV4BzJpqltjg2DbpZZ+QmhB0FmDLH2l9SUm+2BfHLylyyJAnSo2KkmCOQ6xqcJrcIjD0ov3Z7pwXblNLxT2krZetba69k4dDeIE4BytFZDSAnOkDKE4i3CGnKsYVVRygqNCHT1Ry3D0thYPteQOWlsEH4aMrORvAGhBbLdOIBpmwRUt58qJz81v9N7QQ60mWpMljj4uX7EP4ketp2IX0Xp+wN25OvqeR;mBcUHLP6SKw6Z1Q1fAk43w=="
+secured: "q321W9fBoCD+ty1aFnXhfVMEWl5ABUJ5Gl6+y68LNxv1sh2E2EUntHTXG9jxeQuUwcYHhPelpjZ3FWc0QgngrLYS81TxQMkKRaQylB/LfrWoeSyr9mhepazeVHL08o9SA0baTFgiG7D84TXwDAB9jyn+HcT60Pj2Z2IMeusw9QnZbNIQRNZNuJDXpO8eNmpqffBxrEe9jyo29DPajohWsUehbxcMmIy5Bf86GnAiBsO6UT5P/3Co0oFwG3DtmS7DHzFYcPXK26PGFW0T4bGLZD48zuwrFy85vSuaVzBTHskZG12WXYfFWCqfdQFePLTc;JtoI/NFRm7ysiMvj1gpRqA=="
 ---
 

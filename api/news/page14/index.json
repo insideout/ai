@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
+      "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+      "excerpt": "UK fintech types at Revolut 'quite happy' after a year in production A mystery outage hit IBM Cloud today, partially knocking out services for much of the day stateside. At time of writing, parts of the platform remain down. Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/17/ibm_cloud_service_hit_by_tuesday_outage/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "publishedDateTime": "2020-03-17T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/03/01/shutterstock_ibmbuilding.jpg",
+          "width": 650,
+          "height": 434,
+          "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-why-truly-smart-future-tech-needs-radically-new-ai-chips.md",
       "title": "Why Truly Smart Future Tech Needs Radically New AI Chips",
       "excerpt": "By discarding traditional computing architecture and rebuilding specialized AI chips from the ground up, future processors can break through previous limitations. New domain-specific AI chips entail massive efficiency gains over traditional architectures. Unlike standard CPUs and GPUs, such chips dispense with external memory, storing all core ...",
@@ -934,43 +971,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
-      "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-      "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios, U.S. chief technology officer, during a press briefing Monday. “And we’re able to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fedscoop.com/coronavirus-database-natural-language-processing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/2020/03/GettyImages-1204793213.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
