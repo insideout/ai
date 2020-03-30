@@ -8,7 +8,7 @@ ampWebUrl: "https://www.theweek.in/news/sci-tech/2020/03/28/ai-to-the-aid-how-ro
 cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2020/03/28/ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

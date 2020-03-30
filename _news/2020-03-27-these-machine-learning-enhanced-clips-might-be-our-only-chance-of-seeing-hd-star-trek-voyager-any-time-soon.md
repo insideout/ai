@@ -8,7 +8,7 @@ ampWebUrl: "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-
 cdnAmpWebUrl: "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599/amp"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

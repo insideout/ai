@@ -25,6 +25,23 @@ images:
     height: 211
     title: "New Mexico primary challengers face uphill fight amid virus"
 
+related:
+  - title: "New Mexico primary challengers face uphill fight amid virus"
+    excerpt: "That has prevented her from building up name recognition before a June Democratic primary where liberal challengers had hoped to defeat some of the state's moderate Democratic lawmakers they say are blocking early education reform and recreational marijuana proposals. “It has changed the face of the campaign,” said Hamblen, the CEO and ..."
+    publishedDateTime: 2020-03-30T00:00:00Z
+    webUrl: "https://www.ourmidland.com/news/article/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+    ampWebUrl: "https://www.ourmidland.com/news/amp/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+    cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+    type: article
+    provider:
+      name: Our Midland MI
+      domain: ourmidland.com
+    quality: 44
+    images:
+      - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
+        width: 375
+        height: 211
+
 secured: "Bdh0J2Zjeaa3D9xDjbq4cFZLPvGbEaAq50TlG7xMOhe75lCFKaI/8xx1+e2ksJiAH9KhOmxJuOpfI5qpPS6RWANjyJ/MwdzfMtsqDUpoJuvb5zVAL3IwD1V31wNZxbbaHmDAeI6PEE4kABf9Kg2jWGsMFObm7bAraPx58603ZOR5RVZ31H2F+QHue8kdVmfJkedfWzh4zPvUDy15fF80nOdSfjcspFJsoY2WqfMZflgKWSJWLPaXaJRpAJx4bDlA/oCtgMcJG59Wm6+QO8jWuf6VWqqIJUOJ0hnUhEpewD7WaN4Qo1PprKxUNI//5tOQ;n4shsEqcpQeBP7/VgZmRtw=="
 ---
 
