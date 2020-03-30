@@ -86,6 +86,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
+    excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
+    publishedDateTime: 2020-03-30T15:13:00Z
+    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 46
 
 secured: "i97JrZZzQ17QXDIhVb5GSKYOywWKkMbzpLxhF/5o3wn3lSNXVe7GgnS/hXj99f9syeBI6fwgfM4DQRiHx8/OnGIdpaZtazU8c9GNO2ZYjWmyq6i5fc8p8P+G5d3LWA5m95oHa98RDCzl36bVQM1D8AEC7QMvsGIC95J5asZ0RxLFvB+gj8pVlh9KOkEEm+1BkMvCzqZt5JNEUHFpNv17wENNq20IdbFxyOuvJJCKeibHmumEPKJO8HbUqbK2kTnb/jdfMKf2xjW9lWaJiLlmMeQyP+zdME3s8IfUxlPtxlT4LAudEyMfsr4w29Cz5/Tp6PykBC1aM5I4pe0UEHtE53mMb4JjBhOVajxd3w68e7LH/md4I+kMHGJotA2g5fzMCMxbMFYRJ1diwo7ZxzVreBR/1U0iEdNEnvBDcvhVeRGYusYf6og+3Uzaw2O3Xej/fCutSRJ/qefVPz437EVAJ2MOjwDL20wC+D7WNCw2ja4=;UZW6mJjCmg123ZCmydwYVg=="
 ---

@@ -28,6 +28,6 @@ images:
     height: 567
     title: "iPad trackpad support is just the start of iOS 13.4's great features"
 
-secured: "eTegoAGC9oJyi99/DaAJZie4aOehIydy9ooNZEZqwhr+fwu1ZYfnZVyrYPWS+W4n1LLT9weLyC53c1zztcbhCvzQXUZXSOh+LZMvBc9DRIeaPf7o5tu6Aqcim3Cve61l63SO0eSQTDde+bKU2NMjYvttrrQ7oUyyP1QKa4BO4R0dGdbdRpEBqRWRXXo4MQPVTdo8qaj0eYiKn2IfY+/kWei1CG3mSRotKQwolbcd05JQAP3AGIQ0ShR+yJJwlEOvvVmXvzxhqgQhcMLXDZANM6zz8qgs9+dae9g+0nZFxXO0HL+2OygwPrzdIRfm4oyl;pC6E3BTHW6oU4azI/gA5hA=="
+secured: "6K2tIY7VxPQXqXXeE5aI3MH8Gk6kvHaVl4ABnSL1qE/f1i53pPI6vLasqdtLt0bX/2LIeq0PXMgppHDjL992Pef1p28bHAl/WynHnRwQk6k50sJQfHqJFpkDIBhIK8+LD/x/EpvKZC3NH5fGyoU3fhP2RkggLc3PKXpa/EWfA0GHsQ0YruJUcKzSrKpzhhMkF2LQCc7bVeJFwuLTSstlIwb2LSF6Hm3BY5eVGQTEF5pSWJufVBo/x9el7U+5P6tLJU6tPMXwR7zhHjU8UKLffHOIYNvFVMoMtyeP+QvxF/h4efoXY/esWP6q9Oys9WHt;zkfSUnZRikVgnfE3G9aYwQ=="
 ---
 

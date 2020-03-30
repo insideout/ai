@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Next-Generation of AI Processors Featured at Linley Spring Processor Conference"
-excerpt: "The Linley Group is the industry's leading source for independent technology analysis of semiconductors for a broad range of applications including networking, communications, dat"
-publishedDateTime: 2020-03-25T13:28:00Z
-webUrl: "https://www.pressofatlanticcity.com/business/next-generation-of-ai-processors-featured-at-linley-spring-processor/article_ec202ceb-b992-5616-adee-e62583d24d05.html"
+excerpt: "The Linley Group Principal Analyst, Linley Gwennap, will present “The Next Generation of AI Processors.” “The virtual format allows us to deliver ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication."
+publishedDateTime: 2020-03-25T13:07:00Z
+webUrl: "https://www.businesswire.com/news/home/20200325005079/en/Next-Generation-AI-Processors-Featured-Linley-Spring-Processor"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
-  name: The Press of Atlantic City
-  domain: pressofatlanticcity.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
-    width: 1200
-    height: 630
-    title: "Next-Generation of AI Processors Featured at Linley Spring Processor Conference"
-
-secured: "7t6xZ1mvZhGwsDTKuK+r/BZGnfrrwkgw8nPrYHy440Ks7uzEO0/2cYM4O7vqNx2XSPQwdW44qwFWW1IQOrn7DPbnHzRrHPeQJhEK8aVjCz0BU/hEaPH7a2BVDgaPpiTRcvvaS95fKenwv2Uk7+3lLfze1ml3eRtKIOxuWwzG7nzCaZewglPG7l9hug6qilofYK/gKjBn0UWNPegusniPJV+LnGMxpc/VfbGecLmNHEwYpoLy6un2hRBsxmr3CkfYoI4n/8HG/Hs0hydTbJXBaHwmc2ZrmX6OeWkjNpP1xLQb0VPPg9HyVbHmVJUnkjF7;9cRI55Mzowfe5b1IYw4K5g=="
+secured: "N3rmv+VsXZk62I5I5GB6exmwgpZIWmWhzuwSw6JfCndLj+68YygtbwZbbXMmlwKEtCHyYGfkk/UhmzPvHVDpkI9b/5mO8zSsgH4nA8TDYl2oOQtHPX5nAKm1UTX/Hjjf7od2Z3AIN1oOBqd9yMzRjR3SnIFe5BlM+akFosOqh5NmZKN1r2bQyPIWwmd/QsWTGPmW9LOtmi7gOTU0FEclSLW3MgbHufdYiVog3+b34QryB9s0qPrHgkZZiIh/9f43Lo+HBbXqWttxRYa7u8bqp8pNMdnP5TkoHRBsRMAfbF6ulWtsyZ+ceij855VQ9a0GJDjRCZQ5JZv/3EX7Z54if2SYms4vPP5PaWHOIpQ89VmLCBXrXGHR8CaG8bZ3Jf2ieQEdyFUuEaC4IsrrPVCHF5iYDkhM1Ojp7cI+ZmY4qgLBD+588/4EaBEQ5FbSqw8+1JBzIpDYnKnjfkXoMs4nJXjRDtmxW4KAAymOm8gwK5o=;CN7dGyhaROcyVQdfrT9DIA=="
 ---
 

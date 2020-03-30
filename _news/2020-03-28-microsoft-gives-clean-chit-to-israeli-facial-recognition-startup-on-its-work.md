@@ -1,19 +1,19 @@
 ---
 category: news
-title: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work"
-excerpt: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz's TheMarker business newspaper and NBC News that its technology is used to surveil Palestinians who live in the occupied West Bank."
-publishedDateTime: 2020-03-27T20:43:00Z
-webUrl: "https://www.usnews.com/news/technology/articles/2020-03-27/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work"
+title: "Microsoft gives clean chit to Israeli facial recognition startup on its work"
+excerpt: "March 27 (Reuters) - Microsoft Corp said on Friday a probe found that an Israeli facial recognition startup it funded is not enabling a mass surveillance program in the West Bank as reported by some media outlets. AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz’s TheMarker business newspaper and NBC ..."
+publishedDateTime: 2020-03-28T00:04:00Z
+webUrl: "https://www.reuters.com/article/microsoft-anyvision/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work-idUSL4N2BK4O4"
 type: article
 quality: 46
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -131,6 +131,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "FsPXXXF/IaF+BwLYQb3yOWTTnVUz9Z1v/L7NhYuHEc8Lmyk+ROV/r9iaYz/aKttykF8ErJkIRvOtmXXGl95O5Rc8OVJQE5HRrv9Y4Ssa7Cc7H71PVhTOtg5P5CsHquxS3pQo5uGH8MDCwXd35PGumBwcrK6UOmh/dApxvztCK4pLfCTR5+NhK42quDg1QB5aDyTSLKaBaO7CzF5eOxkd5DD8nbJSKo5N98Mo/RBw1F2Uo01HoyaEXWlYK4icuIiR4yfRRmJT3mkQR0wZpZAg/lnQM0LQnAhIKpd4fGwzLrQHCwCn3jUiAJYYIiDZYNgHT36XQo09ih2uEhtLBovr5B8xknUJeAMnyTuWj8CMjpM82Zb4VdimNOfmeHcQo0EEKi0ZhOJzKILebl6Ft1yyavf5Sp1w5Sh7/47lYGYTQ2OLUIqQlL99RK0WaWOIUnT9xSvDhnisB9t6+5mSQP6A2+dJ0vihvq3kPRpFWwkGozE=;1/oXn7pF6rda4Z/bGtUrJA=="
+secured: "ThftC+r2UEzfe/2mw08W3oQuzov8ZgwItCUByw2oEEq9WIxaTAmnlmsD2hnoI3ZE0MFIDlVnI3aRuK556g10vIX7ftM2KUEVHXzHo49/dFyPphjzEq4rRENmUA5oErbJX8KW/R3t6pSfgcLrH+C8lAHFMyV6vVXDeS4tILYRkaTLy2d4iuN/xC820KoMgxnHvzC7mqhkO5TI2uLd8NDE2AKoSZX4jluObg2+doTDkaP592rqfJzjH59CfgW7MeHs1U5E1wSzxjpijK8D61RsTBckpju+/69LAIJBWtA/8CyWD9DifehrgAqhZS3DVlZR;BD93rHtYnQ8XohV1NBcgpw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200326/Robots-and-drones-can
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200326/Robots-and-drones-can-help-curb-the-coronavirus-pandemic.aspx"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 620
     height: 480
     title: "Robots and drones can help curb the coronavirus pandemic"
-
-related:
-  - title: "Robots could be trained to help combat the coronavirus pandemic"
-    excerpt: "The 'dull, dirty and dangerous jobs' could be automated, but we would need to add many new functionalities to machines first, US roboticists argued in a journal editorial."
-    publishedDateTime: 2020-03-25T18:02:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8152265/Robots-trained-help-combat-coronavirus-pandemic.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8152265/amp/Robots-trained-help-combat-coronavirus-pandemic.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8152265/amp/Robots-trained-help-combat-coronavirus-pandemic.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 74
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/03/25/17/26402520-0-image-a-5_1585156284085.jpg"
-        width: 636
-        height: 382
 
 secured: "1GtZju00QpGoooCjO5KEmvup6WYuv+bAckXJCoTXv8psa+hdGbAJMYF/V8iWmyabMGPVd+7nXH3f7hBJ6UMH3J7wistz9gzMr1IwNCWkNepdmNNQcFr4SuYzQz+IXDkRD9rpa5Zu24Uw35EJcSuoWqJI5KEiAnjuGv9vZDMONp5vG/ah4UhDCafAtQZXmx+B8t2qC3xajvzxZ44GKAy+plo4TXBdDXfR64JpzAwqNf9XyDuaJhaNWvfl293mEAWx1Jj5GjybMPprFeWnzgfZhG6BnJHwEH5Y4q/Gljgm3fNnLzfrTS0JLYTLTY3r7hbFj9wzn8SGSJRrFFjjodIrAMnJZmaXcImrmaPpuzAbUyNdxT/5RqIdcxlS6wwKDh8S/+jxXjqDpH+GawCk0p1HmjWPUYeV4Y5DDH8a56nmkFm2TD9uGUBB83xqQII2zqX+ybmko32Gq1o6o/rETALUANUllWUywKVhOX5tS2WKp4c=;2cqps2u7fDg2tlOsoxhTxg=="
 ---

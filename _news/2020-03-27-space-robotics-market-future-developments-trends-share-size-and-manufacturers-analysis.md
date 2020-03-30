@@ -44,6 +44,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automatic Content Recognition (ACR) Market Global Industry Trends, Share, Size and Forecast Report By 2025"
+    excerpt: "Kenneth Research has published a detailed report on Automatic Content Recognition (ACR) Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North America,"
+    publishedDateTime: 2020-03-30T15:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
 
 secured: "r2ql0MptadhGs3kwtW4V/S74CnRugkjmh4RtQFCXy8A6yUobK5XaR/Zn+G1LQeQ+76VhtsFJu1udoObZR+20AAXiu6EadlNTyNr1JeJ2g0UEiw6c/40YdMjR14IK4jw7ngzMICpjCevGI9lX7ghmagBazv0pMXwxI/p3GPIOpeItYkFs5rUnhRJ4Mf2CjpEV/PoZ/E/FVDInpvT/318DkegiaqcA4IIzcMkHUoxZhZSSDi+/aLMs+uWa/2u7iopLVkhMx7nPe+VtPKpnkGCbGwFB8g2H2y+zeQJ/OOhZAFCVEdVauXWys0e+Xw1rlSoaUdJe6d5ZdPSIci1UWrPGZH7H7cJGELRWaOuhL19EN4KtqTiG1Nq/pbn4WEZcS9t7X2NqvSr6PVZAuy6IaRZkFbmAf1jyo6J3T/wcj/FddmAUmyKiN2uRT7T/qe5435HMR8xgMG6rOp+1sM37nh8RwSTkhTDl7wUcD5BLA6DWmJo=;xlkwmzmn4XpJlXRN7NLrDQ=="
 ---

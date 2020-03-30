@@ -73,14 +73,14 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470"
         width: 640
         height: 428
-  - title: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work"
-    excerpt: "Microsoft Gives Clean Chit to Israeli Facial Recognition Startup on Its Work AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz's TheMarker business newspaper and NBC News that its technology is used to surveil Palestinians who live in the occupied West Bank."
-    publishedDateTime: 2020-03-27T20:43:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-03-27/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work"
+  - title: "Microsoft gives clean chit to Israeli facial recognition startup on its work"
+    excerpt: "March 27 (Reuters) - Microsoft Corp said on Friday a probe found that an Israeli facial recognition startup it funded is not enabling a mass surveillance program in the West Bank as reported by some media outlets. AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz’s TheMarker business newspaper and NBC ..."
+    publishedDateTime: 2020-03-28T00:04:00Z
+    webUrl: "https://www.reuters.com/article/microsoft-anyvision/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work-idUSL4N2BK4O4"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 46
   - title: "Microsoft divests from Israeli facial-recognition startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn’t substantiate claims that the startup’s technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers ..."

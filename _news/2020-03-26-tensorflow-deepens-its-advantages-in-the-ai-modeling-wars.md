@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-26T10:03:00Z
 webUrl: "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html"
 type: article
 quality: 101
-heat: 101
+heat: 102
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 800
     title: "TensorFlow deepens its advantages in the AI modeling wars"
 
-secured: "Y90Du6ytkcBcdFkZE5+MpJ+mKemWh3IzWa/34z5wdc/7oMrkamg5GR33RcAFe8B2O6BPkdXGwHbj5S4ekOfvJ+oR+SGZpi2Amy9bdRsrurmvBTQ5cIGX7n6ndPdeUJ6DydhCVWV/dsEXdwBMKKHRNvV66BTWGg5zofaI8MvcHyPHJT3VlgC9eaBA4yM9CQUfgYc7U1XqFPJddjUvd2Oz2VRt6tFWqcZhXKEWhwN2Ni8vWVSbzsS7NzuUn/UESVop2t+Vvm+bGeFPgkTDxgK6EVJL85qM3lL9YW1ZsF/YPJaavQb3AFBPBCGhXVmbmWMK7BzL9kVjIByzVg/UI6TJuArLSN5dMGPg/NCDBtJNWkzW9rSTNXXgt2Zi79rIu9XpjSYyueqpK0BiLf0PVch+0SFx/K4gcPgcqYI6Jafbk3v8593IVkifQWCY8GOBPG5SmQ4pGy3s/nOKU7oPubqu04pyGdblXAv9JTPKRd84V2M=;slMjUXMdZdiPiO52NjIG3g=="
+secured: "s9xGg5zUWPJFdyY+CNdJc2uMZ0aMsS/OX7BcbjGrB+iHcDOXd3ly6vD0BPEDsB2cjfruHhzzPBLHCizHYfYuyYYv6IEuz9mBbEx5pbgM1DM6AEKtW4L8+gcM2wL67tMjGMr2o+HiS72RM/0CoRKMMljVYe9Rm93f2pZE0DwXD8OQkQpahckjRAhIKsylTCHCovxLbNhgzWCOrvdVMQKtvoDKS+LyoLljs3ZYmdFKgX0PwEEVMJPQTRSsghHoPbC5faEs74gZpaVnjWxdr1w0Uv+QtW7npQL+XtJecxAs6sDS7lBF3KGo43uEQkwlO7goJrEcvJAHxTAGdhzQfsWLGi8m8U+23rPoIk+YYtZN8+Q184leAuiH9ZGztMsWZVvk9qUtGq3wBP5dWWPfuA0/nQH7pCvCHjp40rpMRNxJI4GhN6G/wEzilqoMHP7Ftl+PJVjRHL00wFzOaoDbtanwzPAcgA88zB//zp47ud4ml2A=;sfb7twZN9j4c0DOKAxur9Q=="
 ---
 

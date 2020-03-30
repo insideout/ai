@@ -52,6 +52,15 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg"
         width: 400
         height: 300
+  - title: "Microsoft, C3.ai, partners set up AI-focused digital transformation institute"
+    excerpt: "This includes unlimited use of the C3 AI Suite and access to the Microsoft Azure cloud platform, plus access to the Blue Waters supercomputer at the National Centre for Super Computing Applications at UIUC."
+    publishedDateTime: 2020-03-30T08:52:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-c3ai-partners-set-up-ai-focused-digital-transformation-institute--1332439"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
   - title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
     excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ..."
     publishedDateTime: 2020-03-26T10:12:00Z

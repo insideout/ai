@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21E3BA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2019/11/facial-recognition.jpg"
         width: 803
         height: 533
+  - title: "Microsoft to Divest AnyVision Stake, End Face Recognition Investing"
+    excerpt: "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology."
+    publishedDateTime: 2020-03-30T04:51:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-03-27/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "v04Sme76AlqLzJj0AR4QrSPh4d1Aa2S9V0DSG2TBmtioPtVaOXqilugCbi0Cp1OPJJ34XRvSjjYgbc6ntR+T3OGW3iBpKFgfEG0uem0NsUk0921TCnMbNaaESQ4jTuYni402Y0xqVp9txd2IhN9e8SVdXaUKz4bXmrQII0YF0yyQsbL1OKdVBYErAvAq1Xe16HTIoa51BMOjC53ZuRMGWOI4SvEN62D+ADdA0hTzpy0+OP7yUnLA4Q/DHCXGNGcRylvsEnN5zMyNOS7SxMsmyaQ08qLCjMr1U4UjKI7at3lCo5ynLCVafSCjN2dW+gYfA+P2mOLDS2EjQS5PRoOU6qMGQXtRmhEey7qsh2EVjIeucz/iYxE/1YM6Px8qJUIz0rbVD/wE+JCharD+QmuuJJbJzvngxvAVSBHoIF65wcseCJgiPgxzAXxHnrDBUToMDIr2GqEV1b59pw7p6MsWP/+hQWhGouHv/XIMlJSVy+Q=;TqJqh2rVwrrhwHvGJ6hdmQ=="
 ---

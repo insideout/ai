@@ -64,6 +64,15 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg"
         width: 1200
         height: 630
+  - title: "Microsoft, C3.ai, partners set up AI-focused digital transformation institute"
+    excerpt: "This includes unlimited use of the C3 AI Suite and access to the Microsoft Azure cloud platform, plus access to the Blue Waters supercomputer at the National Centre for Super Computing Applications at UIUC."
+    publishedDateTime: 2020-03-30T08:52:00Z
+    webUrl: "https://www.telecompaper.com/news/microsoft-c3ai-partners-set-up-ai-focused-digital-transformation-institute--1332439"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 31
 
 secured: "z493XAHmrVFOD+m4NSt8qflweIujzp0Oa54eANelzS8YH8N2MicnLt35dE0L3U3VVDCvAt36TEHfOY8imjNV0X9Zr293Zdwq6hICUwHtx6AFahV5yNTPIsXxjoy18BZlhNd0rq5XKmJMZYmY852gKnZofpTiwdiy6cJFN222xIwiVFg9Xp9ObAASy46WkZ0GyaSesq0Ow4W5rYTLbV282UnOJc0DMer2e7O8wQfAn0SIZfDd0qld3joZ6ZGQKHF+D+prCrRuw+oA7IYlRGwpK8xEx6lhU9+73oLWpUu65CMDRHBAvMWitVI/l/D9G140;I/VMcGkRQyaz/ePEBmqdPQ=="
 ---

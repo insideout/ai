@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-30-how-artificial-intelligence-is-helping-fight-the-covid-19-pandemic.md",
+      "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+      "excerpt": "Related: We're In This Together: Business Resources, Offers, And More For MENA Entrepreneurs To Get Through The Coronavirus Pandemic As research details emerge, the data pool grows exponentially, beyond the capacity of human intelligence alone to handle. Artificial intelligence (AI) is adept at identifying patterns from big data, and this piece ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348368",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348368",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348368",
+      "publishedDateTime": "2020-03-29T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20180508043336-shutterstock-618326639.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
       "title": "Can AI Detect Your Emotion Just By How You Walk?",
       "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
@@ -950,6 +995,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
+      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+      "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in/article_db430520-912a-5b81-8dd6-2c00c7b1f532.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
       "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
       "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
@@ -1080,80 +1154,6 @@
           "width": 1280,
           "height": 720,
           "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-innovative-artificial-intelligence-startups-aim-to-cure-loss-of-vision.md",
-      "title": "Innovative artificial intelligence startups aim to cure loss of vision",
-      "excerpt": "The current protocol to treating this condition would be approaching an eye doctor and undergoing the eye-drop therapy, which blurs the vision in the functional eye to force the brain to rely on the faulty eye as well. It is also worth noting that unsuccessful treatment of this condition in childhood will result in the continued loss of vision ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/",
-      "ampWebUrl": "https://www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
-      "cdnAmpWebUrl": "https://www-thesouthafrican-com.cdn.ampproject.org/c/s/www.thesouthafrican.com/technology/innovative-artificial-intelligence-startups-aim-cure-loss-ision/amp/",
-      "publishedDateTime": "2020-03-14T17:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "richest",
-        "domain": "thesouthafrican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gcs.thesouthafrican.com/2020/03/cac22bb4-a9dd981c-d8a1-4e3e-b281-581867797063-768x459.jpeg",
-          "width": 768,
-          "height": 459,
-          "title": "Innovative artificial intelligence startups aim to cure loss of vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-cynergisteks-seasoned-privacy-investigators-leverage-artificial-intelligence-for-the-detection-of-snooping-related-to-the-coronavirus.md",
-      "title": "CynergisTek’s Seasoned Privacy Investigators Leverage Artificial Intelligence for the Detection of Snooping Related to the Coronavirus",
-      "excerpt": "About CynergisTek, Inc. CynergisTek is a top-ranked cybersecurity firm dedicated to serving the information assurance needs of the healthcare industry. CynergisTek offers specialized services and solutions to help organizations achieve privacy, security, and compliance goals. Since 2004, the company has served as a partner to hundreds of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200313005364/en/CynergisTek’s-Seasoned-Privacy-Investigators-Leverage-Artificial-Intelligence",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200313005364/en/616701/23/CynergisTek_Logo_Color.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "CynergisTek’s Seasoned Privacy Investigators Leverage Artificial Intelligence for the Detection of Snooping Related to the Coronavirus",
           "attribution": null
         }
       ],

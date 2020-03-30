@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
+    excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
+    publishedDateTime: 2020-03-30T15:13:00Z
+    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 46
 
 secured: "DwgAVo9uUn+u4PKBWonJ8R0bdr2eHKdBmvI1T+EEtQh3hEbAp6Sz4rM/qE3rbmT5sh8Jems+1fm21EI05P9Gld8yFhJ8ploPkP6hHB+PZI/Ud3y3VDiwxS1/PXm5r5iPhbzPKb0LNx6On8ygQg2QpSgGJC5I5zzSBrUJIKq/eX1N2ndk6KnEUsqaGXFPwqUwwm8TDBJrkT98yDtR1LLWs83/88XvqS3LmBGKyml7nLcWZHTUAGCfew5MZX7wIQYRE2Ped5wm/vwiFe+mgSdxQxQh7dydhsBcgAJiUe7xajkGUcw0lepT6RGJlG/8bxKJ;kw5NJoP7dCLTbHrqXS2tuw=="
 ---

@@ -1,15 +1,13 @@
 ---
 category: news
 title: "What winemaking has taught me about artificial intelligence"
-excerpt: "VP and CTO, Mist — Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. You wouldn’t think one has much to do with the other, but as both an AI ..."
+excerpt: "It was a central part of the culture in ancient Rome. Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and the Dartmouth Summer Research Project, and only in recent years has it emerged as a technology poised to impact society on par with the industrial revolution in terms of eliminating whole job segments such as ..."
 publishedDateTime: 2020-03-27T13:37:00Z
-webUrl: "https://thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/"
-ampWebUrl: "https://thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
+webUrl: "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/"
 type: article
-quality: 87
-heat: 87
-published: true
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Next Web
@@ -22,12 +20,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-wine-796x417.png"
-    width: 796
-    height: 417
-    title: "What winemaking has taught me about artificial intelligence"
-
-secured: "6+E5if24580UsLBqb9njdkGR16ARgIXCj83eUINoB3Cn+t2Uavv9qH4OahvwNgZw7sktKqI1L361ufFxyhpmGHykNViy93odLtasAHB3Dy/YztliWr8CLGqZUHvvXuaV9Nk2gnmpQRwP+RITX3kG6ljCIk0Kd3YSFYr5V+ZaVqTkuM1BvtXiOLsa6Xb9pYlyNkRptY/rh4gFs+ttxDxRKy/JmrQcVI1Ub7eukPyP4cBJhEXijUVH2ihP4Hxj04AMwRj7muZUli7LJtKGNeBBF952G6p0Zif7Kmi2zDzBZoppyQGYMFtXsY0VLCw0g+sj;adsnA6UKp8bPrOMrVJUcGw=="
+secured: "J4+Cmechqo5uj7Kw+cmQBfrXpNHm3eqDUaUxiZvNUzOYxqaOUnAU8N1xrtl1f5/ses6mN9Ujn8ACqVAjTCD+PgRFwJjRwigzzl6AqspiabtlAc9H7EwauS9w7vwkdcs7f/ODh1w5Xwrkicrr3u3ZeNh14dl2mmeVHo7lEujKip5b5Vpnt3t492CIR9wQ33EUwdcrJnRdGiUV9aLW0cjnH0Ec3HyaKPdUfhDt9maJYaoxvszVYurU2ghm1gg88ZoBHV3MxqRSof1igtEHQJnXCaDD1JTjidMReLJ+KH9VfNKql0t7Z9+rr35SpLUYKgIh;Gf/bevIR0MehVkOb7cngfQ=="
 ---
 
