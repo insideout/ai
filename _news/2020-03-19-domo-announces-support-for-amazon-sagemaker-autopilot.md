@@ -15,7 +15,8 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
-secured: "RyMewimuS03YEleQ0JgLPiMxe8vPqluWSHaAm8/GcIDAwEs+1wUiiqJXakTma916qvrLJXPqwThIJPnwjkh+sj/QjpWqK4QyYm1MxEsgoHnE4FHi+f8lQZ5wNicebTfgkZOhPhZM/vgE1eXbA20VKlzmeIE3fuW05/NHpYuorLT86uapSZOUAbrU4kVp1L+QQ9kGqxyuYpl3tQ3CApFpOPWT2vndCLLovzBEhkO8mO0Xudxj+ovNGzHsZN8kJmtcn1RPJQaAbzzxd/CbVpVnm1op0ZF98tEbrqeulH9t+WfDjRKVJWFpxS1U1ZkDM5qb;iHcHvpeY0z1QMwR2XZXVFA=="
+secured: "6sakd1YYNSshCb6tJln9RrxpG680g8cpKtQIkZbEeMkocObssGqUmPyyL316MNdSfhw8FrxygNjYbibUslfqdowhYI7qk8UAt4Y5ixwnFSN/0MQIHg0Xo5nioEWYZKJ0g3w5H5SGX4qYCba7LSc/d7eSNoz4F/Wd3aJNONLXP1uIDusYMcyINZ82K2nP0MQwB2TyIb/gFmLVePT9CQJO9PdMtpWEscAi5pVNV7/XKKCIaklEpri1szQAlfraStF2ddbGfOV9RKQEIIv4oMpQ2W40pR3YFAaa6Y8L76JBpKihW45FrsC5fUT1hWYMM5dA;QyjkkLUAM+DbT1O8Xp/OoQ=="
 ---
 

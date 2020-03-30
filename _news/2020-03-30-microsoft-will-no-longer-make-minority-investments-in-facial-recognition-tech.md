@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
 excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
 publishedDateTime: 2020-03-30T19:07:00Z
-webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx?source=eptcnnlnk0000002"
+webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 type: article
@@ -115,6 +115,6 @@ related:
         width: 1280
         height: 720
 
-secured: "MdqTcH8uoo9nDnOyXsG0CPK2MvL5BPOq3W/HWjvj5xI9qlZzVVP4NQ92ZsteRDxo+Poua/vvC+FIF+N6vELA1BfylnrYHzBrklBFCLkT3eepiPC26zLyu4+ESynk7FMJGfb6PDnyihJ+kd8oFOWm+PNPlJzMJxF4h9MaoHdT4sksq207O9m8cBVxe8Qn5u4d7E3nAX0PuLpJLRcND7f24QGNn+BElW982pRqAFv2pjImOKxM1hu4TUWQWJonIySdD5XbWrsDBW8LNuf60WGUlxxgbca5PFfSjhOwPKhUQcxwy4LO5uogfNHGD+VcvJQ0;BEcf5q6cm5ujWfbOuBlTfg=="
+secured: "Bh7q1zww/Ut/ZZOI/jDbp5vrm9cBXxej/SG1RxXBn/aZiaewC8NWyoUY9cyfIfJLAb4yOtsDWMtE73mHumgOh0CGavCHDU0P5VD9eUwclAXMnpaQBJKrgZ+7ffP59cU1xX92Owau8b2LP8PS73uYXngDAnymYvynalXYaeuOJ9KeR2r1Y3p7tKNlxsdQ19ueXbDNAVmbx09dXAbiDx5DIp189jS/VcIm2ZTg5p4YCq3fD6T6tsu9YBelnkTUaCyEX6KuJhCaJ2Z/iMcsWBDOS7pyH3qps39jl8HbeD3r/2mnzC+d/zRQ+AFl2lPDYc0X;msTuxZttb65Ioz5lrcysyA=="
 ---
 
