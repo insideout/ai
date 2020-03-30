@@ -1,29 +1,23 @@
 ---
 category: news
 title: "New Mexico primary challengers face uphill fight amid virus"
-excerpt: "That has prevented her from building up name recognition before a June Democratic primary where liberal challengers had hoped to defeat some of the state's moderate Democratic lawmakers they say are blocking early education reform and recreational marijuana proposals. “It has changed the face of the campaign,” said Hamblen, the CEO and ..."
-publishedDateTime: 2020-03-30T00:00:00Z
-webUrl: "https://www.ourmidland.com/news/article/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
-ampWebUrl: "https://www.ourmidland.com/news/amp/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
-cdnAmpWebUrl: "https://www-ourmidland-com.cdn.ampproject.org/c/s/www.ourmidland.com/news/amp/New-Mexico-primary-challengers-face-uphill-fight-15164739.php"
+excerpt: "That has prevented her from building up name recognition before a June Democratic primary where liberal challengers had hoped to defeat some of the state’s moderate Democratic lawmakers they say are blocking early education reform and recreational marijuana proposals. “It has changed the face of the campaign,” said Hamblen, the CEO and ..."
+publishedDateTime: 2020-03-30T17:46:00Z
+webUrl: "https://durangoherald.com/articles/319825"
+ampWebUrl: "https://durangoherald.com/amp/319825-new-mexico-primary-challengers-face-uphill-fight-amid-virus"
+cdnAmpWebUrl: "https://durangoherald-com.cdn.ampproject.org/c/s/durangoherald.com/amp/319825-new-mexico-primary-challengers-face-uphill-fight-amid-virus"
 type: article
-quality: 44
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Our Midland MI
-  domain: ourmidland.com
+  name: The Durango Herald
+  domain: durangoherald.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
-    width: 375
-    height: 211
-    title: "New Mexico primary challengers face uphill fight amid virus"
 
 related:
   - title: "New Mexico primary challengers face uphill fight amid virus"
@@ -42,6 +36,6 @@ related:
         width: 375
         height: 211
 
-secured: "3/YJ8ewa0xLmmtHXFEfV3RKJ1kZgI01PDmGZoaQuSvLRzcl4N8FB9DNKCCYv1Kxvd9YmZ1MoPdsioHShVTcQgWvhV+cyXeVX3jxBoYx2eYC8flhVPi/CUt1L7z9SGkrc8aMfKedGGagyd7GGCehsIRI245MmSHVywb2ij4cfNLJSHpiP7vqJxDLY9a0Ow2lol3nITTNLg1T8q4ZxS6IsCg5ySaSOUsZi2h7ZpuW8FkyV0pHIsCnkR9diDeg2Zwygi9qTk2yWdKd/61mYbDI4VFu25K11sfBuenDaS+20Mj6S5hs4uwJMmYUYSMJ6PHI7Fov3aGvnqmrtN2JvYhwKE1ouc2691Bo9ZbW6JarW+VlGzEpwUt1Ft+EFhM/v35LPcIfLBwCb9ncmFh64ZX/AY+9mEBzDjUJAq/s9cfPkmg/Ux96rgHMHIH2JY4sAhxHZH2I+MUG5sr6Mmc3igTXuZWUjJZ92/QCONvNvjygJ63g=;9UqL1G9nrKNq0GVtMa6k2g=="
+secured: "16xsJwuXR8TxlewNg3AlzRdvw/gtnOmK8RHQMkFyOPrCBtvTFJNiEeGHdk8srFb3A9COJ2osYTntsORtNp7d4llPNDEHThYrFhohEz38svDm9JdaM2/zvlarxop6OZtpjyaUsxyr9GWTu9cW3nPvfy1ayTyY/q1eCJbQE6Env0OAcJw33T2YyyMUsEYt664UYyaQIESKStCALWJCzXlKvxdklXMRHkLX7gcEVKGR8i+hssHtFdlnLsHY7NSs0ztsENSgKzVfsNkeUTvtG5zxTd06RLjznImS7tgFiPKF9H6JpdeHHE+xBMX7J5U/ZQxh;FDPFga4BCafCC7wy2DEEaA=="
 ---
 

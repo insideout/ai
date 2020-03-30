@@ -4,18 +4,30 @@ title: "New MI5 head promises to focus on China and harness AI"
 excerpt: "Promotion of Glaswegian career officer Ken McCallum announced by Priti Patel"
 publishedDateTime: 2020-03-30T14:02:00Z
 webUrl: "https://www.theguardian.com/uk-news/2020/mar/30/new-mi5-head-ken-mccallum-promises-focus-on-china-harness-ai"
+ampWebUrl: "https://amp.theguardian.com/uk-news/2020/mar/30/new-mi5-head-ken-mccallum-promises-focus-on-china-harness-ai"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/uk-news/2020/mar/30/new-mi5-head-ken-mccallum-promises-focus-on-china-harness-ai"
 type: article
-quality: 17
-heat: 17
+quality: 57
+heat: 57
 published: false
 
 provider:
   name: The Guardian
   domain: theguardian.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-secured: "eEGYodkUf/XhwGNAe8XsiRIpCg16x4HRQpWdxsGGIt6M1T98OGv2+mxhfnObwlnYNtBUoWAQGKS4vz0knVB+rB3DkpX5C562wZI9XOiBfpmXrak/d9KDf6ofGMkjSHsydbC1hDWKiDx2gV2JAQkiR3FXKXC5Hd3ZQnS4OyHGmXyMN1SMqyA7l9RBQs0KyM+wqk5/0Z/STmTi1Fmm+Ydo9kHbFVknBXomZJR62A8IxRtdEV3pkwKi5nM3u7EuafQyxPgdRFfQ5pXENDM7jSjQ9hvg0iWeJ4pxuKx++hz+8D6pR5ML7Qfud1pZusOjlV5waaasdncxCsfi5CUGni+S++AJU0zn30bw/8J66lXgzWznBCRKLSBpOVP3v/dci6eEsLHkrFUAgs+C3KJ3pzmCNY1GqVr3kQLcqgejDBxS1YeZOJXgzD8e6/NYDLLB3zKCdTa0mGIXJdxCFtc1hDuB+bb4+2lEmA9nOjgVun9f4kI=;O/NU7irbHc0xbd+P+Q38AQ=="
+images:
+  - url: "https://i.guim.co.uk/img/media/9e8bdce8a0d9cd5ecbad57001cdc0eaba16d25e1/0_995_2333_1400/master/2333.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bb1c31a674e4c546fd4c1f551d9502c9"
+    width: 600
+    height: 360
+    title: "New MI5 head promises to focus on China and harness AI"
+
+secured: "1WFQZPfTs+fF8uXjj632sBDtCuEXwXbtdvQsrcaHmeysPYVSwzEdWIvFJJ9o63YuMvBJqbVzR1JgalvtFIkcC4B1r7WEZxPmrS7qpKHMwegSCmPKXSZ9AuIFFS+b75AewB6RNkTvKqV6gICqcbmCIHMiynI8+PXQDthsshv+qzJXUqpXjIR9QRDqYEgh+U7/yy5ggf5ALF/r8qFLeLPTjoDnaASf5EDGxq2GfJerE6AfIfdDQcjrx1B3zc94+tBEk8gGRHiAT5pYipsLtTAcS45YBRgCNz18fQjimxlQw+iQChUj1PQw7EDudGZXlpTa;YnxWQCPmRzGjg+8vhm/nkg=="
 ---
 
