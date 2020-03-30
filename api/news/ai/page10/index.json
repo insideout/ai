@@ -2,6 +2,88 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-19-artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
+      "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with CAGR of 37.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-bioxcel-therapeutics-provides-an-update-on-its-ongoing-phase-3-serenity-trials.md",
+      "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+      "excerpt": "A non-invasive therapy that causes rapid symptom relief and de-escalates agitation may be ... About BioXcel Therapeutics, Inc.: BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology. BTI's drug re-innovation approach leverages ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-provides-an-update-its-ongoing-phase-/2020/03/19/9117710.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
+          "width": 252,
+          "height": 335,
+          "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
       "title": "Google Translate now enables you to transcribe speech",
       "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
@@ -1081,72 +1163,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-taking-inventory-of-ai-within-financial-institutions-and-fintech.md",
-      "title": "Taking Inventory of AI within Financial Institutions and Fintech",
-      "excerpt": "This article describes most of the AI activity occurring within financial institutions and fintech suppliers then compares and contrasts the two. It also identifies the challenges associated with deploying AI: “Financial services were one of the first sectors to understand the promise of the Big Data revolution, and the wave of new technology ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/",
-      "ampWebUrl": "https://www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-paymentsjournal-com.cdn.ampproject.org/c/s/www.paymentsjournal.com/taking-inventory-of-ai-within-financial-institutions-and-fintech/amp/",
-      "publishedDateTime": "2020-03-18T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PaymentsJournal",
-        "domain": "paymentsjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.paymentsjournal.com/wp-content/uploads/2020/03/futuristic-artificial-intelligence-face-technology-background_1017-18295.jpg",
-          "width": 470,
-          "height": 328,
-          "title": "Taking Inventory of AI within Financial Institutions and Fintech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ready-for-iso-20022-make-ai-part-of-your-migration-toolkit.md",
-      "title": "Ready for ISO 20022? Make AI part of your migration toolkit",
-      "excerpt": "Looking across key technologies in the payments space, the use of Artificial Intelligence (AI) disciplines undoubtedly sits at the top of an adoption list. Just as we saw the huge impact mobile had on the world of fintech a decade ago, AI (and especially NLP) are having and will continue to have a significant impact in global payments ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/blogposting/18557/ready-for-iso-20022-make-ai-part-of-your-migration-toolkit",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

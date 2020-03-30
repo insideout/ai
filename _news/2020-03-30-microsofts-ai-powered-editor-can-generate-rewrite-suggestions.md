@@ -4,10 +4,12 @@ title: "Microsoft’s AI-powered Editor can generate rewrite suggestions"
 excerpt: "Microsoft’s writing assistant for Microsoft 365 users is coming to Chrome and Edge browser extensions as well as Outlook.com and is getting new AI-powered features like Rewrite Suggestions, which lets you highlight a sentence then right-click for AI-generated revision ideas. AI editor can also now review text for more gender-related ..."
 publishedDateTime: 2020-03-30T15:35:00Z
 webUrl: "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/"
+ampWebUrl: "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 104
+heat: 104
+published: true
 
 provider:
   name: VentureBeat
@@ -19,7 +21,14 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
-secured: "jyKJRmoWN0D8+vovQX9W6M54clCjCouCM4finPKKFny21MgyYE8TveHZ75vHdFnRE7TjcS22H79WWRRUnbB40Zkl248FD1WJSMmMi85vRukDARLuvH0gzOJPjrDsOrKINIne0ZxlYWi76kMDxquaAW4Kj/GSbiMDo7K9nWurlu7lJLB8uLW60Mid1zkYYqrOzycix+nTV+FN9cNeMpZxQBJKUIYeYMxarLFhK7c5xO++fu44RW1KdNtqEEHTu8YYxqg4VjDI9SNbzahT+rhQ3G7NPNx85SLman8tm37EjUn0XalUtpOSHmhuEaj1bIdzoLvvErgqLxMil5B+q5JDxLbw9Sa6pFLAfxP/b89k7xkYxTeViFCAYlMuJ+t70FiKGr3/5H2nRkoIunVtQiYZYUTACKcdSgD6DCAgIlJ8utYYe6mUdRlnMwX6QVjCcYG+KxtkSAh64PfaFZBwndXlFeiAEHSoFBcmVmzmPjBIyLE=;Wj+xenAxZhiEISjniqvNlg=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2018/01/microsoft-e1527266497382.jpg?fit=1200%2C600&strip=all"
+    width: 1200
+    height: 600
+    title: "Microsoft’s AI-powered Editor can generate rewrite suggestions"
+
+secured: "FfdWmF7tahh0Yxs+iWXpDsGq2M5uIC98A9tQVqlM9ar+xSX+7mmEUO27LGO9DHoinfrR1xcTOnjz+hGt9c0surIuTfKbOen6B+fNRImw+Ki+B+SN3O61G464Fq1xzWZusTA6HKSrCz+wz0wLRPR3rUgqV2yDm8Zih1OYAIriDlNL9924AaDYRV9Aj0MzGXrZUyepj6bqhcF8HPog6riMy4HhkiWnlp6m5k8MYJRxxmI80kkOlaBnepN7KAqBChvlGnR5PO3VfRvDjydEgGGQ7LJZjjFW0jts9dLWQwgp4pR816gDl4pyp1mb5foogeA1;7GkWzuPQX2x3Zfkhy7m4Mw=="
 ---
 

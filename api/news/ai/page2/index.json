@@ -2,6 +2,88 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-29-economic-forecasting-in-the-age-of-coronavirus-3-tips.md",
+      "title": "Economic Forecasting In The Age Of Coronavirus — 3 Tips",
+      "excerpt": "The business and economics world is confused and panicked about COVID-19. We are awash in data, but the data, while accumulating fast, is wildly incomplete and too often sensationally misinterpreted.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/richkarlgaard/2020/03/29/economic-forecasting-in-the-age-of-coronavirus---3-tips/",
+      "ampWebUrl": "https://www.forbes.com/sites/richkarlgaard/2020/03/29/economic-forecasting-in-the-age-of-coronavirus---3-tips/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richkarlgaard/2020/03/29/economic-forecasting-in-the-age-of-coronavirus---3-tips/amp/",
+      "publishedDateTime": "2020-03-29T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1133483350%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Economic Forecasting In The Age Of Coronavirus — 3 Tips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-construction-businesses-beginning-to-value-ai-and-robotics-for-multiple-challenges.md",
+      "title": "Construction Businesses Beginning to Value AI and Robotics for Multiple Challenges",
+      "excerpt": "The construction industry relies on human-powered labor for most projects, start to finish. But businesses are finally starting to take notice of AI and robotics. When you look at a completed building now, you assume that human workers did everything from moving the dirt to installing the plumbing to hanging the lights. But could a building one ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.robotics.org/blog-article.cfm/Construction-Businesses-Beginning-to-Value-AI-and-Robotics-for-Multiple-Challenges/246",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotic Industries Association",
+        "domain": "robotics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.robotics.org/userAssets/ogImage/RIA-SR-MAR2020-T2-1125525958-SM-FBLI.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Construction Businesses Beginning to Value AI and Robotics for Multiple Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
       "title": "Can AI Detect Your Emotion Just By How You Walk?",
       "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
@@ -138,7 +220,7 @@
       "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
       "title": "Microsoft pulls its smaller investments in facial recognition tech",
       "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
@@ -1235,95 +1317,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
-      "title": "What winemaking has taught me about artificial intelligence",
-      "excerpt": "It was a central part of the culture in ancient Rome. Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and the Dartmouth Summer Research Project, and only in recent years has it emerged as a technology poised to impact society on par with the industrial revolution in terms of eliminating whole job segments such as ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-03-27T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-wine-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "What winemaking has taught me about artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
-      "title": "Human Compatible: A timely warning on the future of AI",
-      "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "publishedDateTime": "2020-03-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Human Compatible: A timely warning on the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -47,8 +47,8 @@ related:
         height: 350
   - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
     excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
-    publishedDateTime: 2020-03-30T15:13:00Z
-    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    publishedDateTime: 2020-03-30T19:07:00Z
+    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx?source=eptcnnlnk0000002"
     ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
     cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
     type: article
@@ -101,6 +101,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
+    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
+    publishedDateTime: 2020-03-30T18:34:00Z
+    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 38
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
+        width: 1280
+        height: 720
 
 secured: "jWBwM9OXIdieD096PRf0BDYHFlqtRHW4YigOFDHjBULTfkux+u16LmrZ8Nsv8o99ieSHsayqajf3tBJlcrur7Y0CoQLJ6awwfcOZG8pE7ljaHTsUt35/ncXVYkj2pM3hJpS9PBVc4wNZAlb5IPang43RINApM/oGOaMQGi8EpXEIRjiCqSXjzI7zs1F2DOXh90+LjDj3MpcE4GhBLNJhvDEoKjJSuqC5d4YnwXdWE7a2N5uuqdhuzpCAwq5BzI+40Zod7/iSul/emnfwhX020vUa485sHKBvbtR0U1uC1QOApyGV+sv+ER0dMIiSQZu/J5JjNIGqBL2bU+oXSq7Ergc37NRThHJVlsD5DoyYYDZUGmh67oeqZNyRc5Cj313g4aOGGEC7jYwnPJFxCRMEuDQ5vMchSLIuyRyTNz4faMRZJl5owBt7EJVXpVn5E4pn7hZ0CUDLd8mDhjaTFlv2mveTr5CJ7GxrCv7zeOupLEU=;/V88b56MSX7JgF2/ckTd6w=="
 ---

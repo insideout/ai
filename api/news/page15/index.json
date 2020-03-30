@@ -2,6 +2,72 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-17-axon-appoints-chris-harris-to-ai-ethics-board-to-supervise-ai-technologies-jeff-kunins-quoted.md",
+      "title": "Axon Appoints Chris Harris to AI Ethics Board to Supervise AI Technologies; Jeff Kunins Quoted",
+      "excerpt": "Axon has named Chris Harris to its AI Ethics Board to supervise the development and production of the company’s AI technology, Axon announced on Tuesday. \"Our new AI Ethics Board members bring a wealth of knowledge and experience including privacy, social justice, and some of the most directly relevant core science and applied machine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.executivegov.com/2020/03/axon-appoints-chris-harris-to-ai-ethics-board-to-supervise-ai-technologies-jeff-kunins-quoted/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Executive Gov",
+        "domain": "executivegov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300001397deEAA",
+          "width": 272,
+          "height": 270,
+          "title": "Axon Appoints Chris Harris to AI Ethics Board to Supervise AI Technologies; Jeff Kunins Quoted",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-four-ways-ai-can-positively-impact-pharmaceutical-development.md",
+      "title": "Four Ways AI Can Positively Impact Pharmaceutical Development",
+      "excerpt": "This capability can be helpful for more common treatments like medication for depression or new drugs with little or no formal history. Audio Listening and Language Translation AI can help screen the myriad of audio files from call centers, which can help identify adverse events that may be mentioned in unrelated contexts. For example ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/03/16/four-ways-ai-can-positively-impact-pharmaceutical-development/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-multithreaded-cores-handle-machine-learning-chores.md",
       "title": "Multithreaded Cores Handle Machine-Learning Chores",
       "excerpt": "The cores and software support are designed to handle real-time communication between the cores. This is facilitated by the switch that connects everything, including the new vector-processing unit, DSP support, machine-learning support, and cryptographic support. This distribution keeps the RISC cores simple while providing access to the ...",
@@ -897,80 +963,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
-      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "publishedDateTime": "2020-03-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
-          "width": 940,
-          "height": 627,
-          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-deepminds-protein-folding-ai-is-going-after-coronavirus.md",
-      "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
-      "excerpt": "With companies working on COVID-19, that’s no longer the case. Ready, player, go? Here’s how one major AI player in healthtech, DeepMind, is trying to knee-cap COVID-19. The promise of AI for accelerating medical drug discovery is almost a universally supported idea. One caveat: so far, though new drugs have been discovered using AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/",
-      "ampWebUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/03/corona-4901878_1280-COVID-19-virus.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,96 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-20-huaweis-new-mid-range-phones-could-have-same-gpu-as-galaxy-s20-update.md",
+      "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+      "excerpt": "Still, it suggests that the Kirin 820 will offer even better on-device machine learning capabilities. Even if we don’t see a major AI boost, the GPU upgrade suggests that Huawei’s new mid-range phones might be ideal for gaming on a budget. Now, about building out its mobile services and AppGallery.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/",
+      "ampWebUrl": "https://www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/huawei-kirin-820-1094618/amp/",
+      "publishedDateTime": "2020-03-19T23:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Kirin-990-with-Huawei-logo-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": "Huawei’s new mid-range phones could have same GPU as Galaxy S20 (Update)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets.md",
+      "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
+      "excerpt": "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21646I",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21646I",
+      "publishedDateTime": "2020-03-19T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP",
+          "width": 830,
+          "height": 545,
+          "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
       "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
       "excerpt": "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ...",
@@ -936,79 +1026,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
-      "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
-      "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/biology_shutterstock-205625032_800x-405x228.jpg",
-          "width": 405,
-          "height": 228,
-          "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-fairy-tail-rpgs-story-trailer-reveals-gildarts.md",
-      "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-      "excerpt": "The official PlayStation YouTube channel began streaming a story trailer for KOEI Tecmo Games and Gust's Fairy Tail role-playing game on Thursday. The video reveals the new playable character Gildarts. KOEI Tecmo America and Gust also revealed details fo the game's new Eclipse arc. The arc centers on the “Project Eclipse” experiment \"that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anime News Network",
-        "domain": "animenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

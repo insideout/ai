@@ -2,8 +2,8 @@
 category: news
 title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
 excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
-publishedDateTime: 2020-03-30T15:13:00Z
-webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+publishedDateTime: 2020-03-30T19:07:00Z
+webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 type: article
@@ -101,7 +101,20 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
+    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
+    publishedDateTime: 2020-03-30T18:34:00Z
+    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 38
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
+        width: 1280
+        height: 720
 
-secured: "7qP2liSu4mibfVgvNuesdon0yK8o4henpwhu6O5TdXCuCo9yP4gd66vAp9UDhApvUN9vGbR4n2/sNZM7VaPf1iPBhPd+taeWNpUIyA0ZNnYKzkSJHr4QWVD11SIC4whK5Ilh/JnIas2+TxzFYcmxcUGdP73feOwLh9/Xv+xVScXw7ZEb+8x3W48zGduGrJ8EFdFKjv6k5BAQ0GuEhtQKoE7T3B9NrqfmaQ9FNOFa2PYByNZpo8m46XMRamh3mRciI+FtlFR0SxFgw4tIyNBpZYDohKvIYdjwrul12ltt2GxFgV83r71KUcE8e9E9Vdg9sSwxOHqOX8KDgVhW0WNPUU385GFFteA28Fk+f3d6DM7Tp6adpp4YSIS6EDLwS4uVmpCzrXC0IqLX0BuTNk56jnJsudJ1/J2JH4SgdIY1sn9Xp71/+tJyDfR2H4KORPyPJOUlRQgFw9ELf9+yjs9jq9bcSUq+AKwIIM6yTwz+mqs=;uWx7scKdIm0aRq0E7oCxFg=="
+secured: "MdqTcH8uoo9nDnOyXsG0CPK2MvL5BPOq3W/HWjvj5xI9qlZzVVP4NQ92ZsteRDxo+Poua/vvC+FIF+N6vELA1BfylnrYHzBrklBFCLkT3eepiPC26zLyu4+ESynk7FMJGfb6PDnyihJ+kd8oFOWm+PNPlJzMJxF4h9MaoHdT4sksq207O9m8cBVxe8Qn5u4d7E3nAX0PuLpJLRcND7f24QGNn+BElW982pRqAFv2pjImOKxM1hu4TUWQWJonIySdD5XbWrsDBW8LNuf60WGUlxxgbca5PFfSjhOwPKhUQcxwy4LO5uogfNHGD+VcvJQ0;BEcf5q6cm5ujWfbOuBlTfg=="
 ---
 

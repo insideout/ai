@@ -2,6 +2,94 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-20-an-ibm-supercomputer-called-summit-is-taking-on-the-coronavirus.md",
+      "title": "An IBM supercomputer called Summit is taking on the coronavirus",
+      "excerpt": "Technology in the form of jet planes may have helped the coronavirus ... to IBM, which developed the supercomputer, scientists are hoping that Summit’s findings will inform future studies and provide a focused framework for further investigation of the compounds that will reveal if any of them have the characteristics to attack and kill ...",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/nordic-msp/ibm-supercomputer-summit-attacks-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2020/03/Screenshot-2020-03-13-at-10.01.55.png",
+          "width": 978,
+          "height": 612,
+          "title": "An IBM supercomputer called Summit is taking on the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading.md",
+      "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
+      "excerpt": "A new AI-powered system monitors coughing sounds to understand where the coronavirus is spreading. The FluSense device first detects coughing and crowd sizes in real-time. It then analyzes the data to predict the progress of COVID-19 and other respiratory diseases. These insights could guide public health responses to the pandemic, such as the ...",
+      "heat": 194,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
+      "publishedDateTime": "2020-03-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design31-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
       "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
       "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
@@ -1117,87 +1205,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ai-based-recruitment-startup-talview-hires-new-vp-of-sales-to-increase-adoption-of-the-instahiring-category.md",
-      "title": "AI-Based Recruitment Startup Talview Hires New VP of Sales to Increase Adoption of the \"Instahiring\" Category",
-      "excerpt": "/PRNewswire/ -- AI Recruitment startup Talview is excited to announce the addition of Colin Danaher to its executive team as the new VP of Sales. Colin",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ai-based-recruitment-startup-talview-hires-new-vp-of-sales-to-increase-adoption-of-the-instahiring-category-301027039.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1135808/Colin_Danaher.jpg?p=facebook",
-          "width": 800,
-          "height": 419,
-          "title": "AI-Based Recruitment Startup Talview Hires New VP of Sales to Increase Adoption of the \"Instahiring\" Category",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-can-ai-help-with-autism-diagnosis.md",
-      "title": "Can AI Help With Autism Diagnosis?",
-      "excerpt": "An Interview with Cognoa’s CEO Brent Vaughan In the US, one in five children are living with a diagnosable behavioral health disorder; however, only 21% of those children who are diagnosed receive needed treatment.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/19/can-ai-help-with-autism-diagnosis/amp/",
-      "publishedDateTime": "2020-03-19T10:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e73a3c9b113460006856bc0%2F0x0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Can AI Help With Autism Diagnosis?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

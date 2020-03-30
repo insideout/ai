@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -32,8 +32,8 @@ images:
 related:
   - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
     excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
-    publishedDateTime: 2020-03-30T15:13:00Z
-    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    publishedDateTime: 2020-03-30T19:07:00Z
+    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx?source=eptcnnlnk0000002"
     ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
     cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
     type: article
@@ -101,6 +101,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
+    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
+    publishedDateTime: 2020-03-30T18:34:00Z
+    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 38
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
+        width: 1280
+        height: 720
 
 secured: "DwgAVo9uUn+u4PKBWonJ8R0bdr2eHKdBmvI1T+EEtQh3hEbAp6Sz4rM/qE3rbmT5sh8Jems+1fm21EI05P9Gld8yFhJ8ploPkP6hHB+PZI/Ud3y3VDiwxS1/PXm5r5iPhbzPKb0LNx6On8ygQg2QpSgGJC5I5zzSBrUJIKq/eX1N2ndk6KnEUsqaGXFPwqUwwm8TDBJrkT98yDtR1LLWs83/88XvqS3LmBGKyml7nLcWZHTUAGCfew5MZX7wIQYRE2Ped5wm/vwiFe+mgSdxQxQh7dydhsBcgAJiUe7xajkGUcw0lepT6RGJlG/8bxKJ;kw5NJoP7dCLTbHrqXS2tuw=="
 ---
