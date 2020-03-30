@@ -4,14 +4,14 @@
     {
       "path": "_news/2020-03-30-via-raises-200-million-to-optimize-ride-sharing-routes-with-ai.md",
       "title": "Via raises $200 million to optimize ride-sharing routes with AI",
-      "excerpt": "Transportation startup Via today announced that it’s raised $200 million in series E financing ... and Malt. Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction, ostensibly reducing urban congestion and emissions while providing a lower cost mobility service.",
+      "excerpt": "Transportation startup Via today announced that it’s raised ... Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction ...",
       "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/",
       "ampWebUrl": "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/",
-      "publishedDateTime": "2020-03-30T10:47:00-07:00",
+      "publishedDateTime": "2020-03-30T10:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -55,7 +55,7 @@
       "webUrl": "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/",
       "ampWebUrl": "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/",
       "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/",
-      "publishedDateTime": "2020-03-30T10:43:00-07:00",
+      "publishedDateTime": "2020-03-30T10:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Next Web",
@@ -78,6 +78,95 @@
           "width": 796,
           "height": 417,
           "title": "Scientists use AI system to translate brain activity into text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
+      "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+      "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/microsoft-365-ai-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T08:33:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/03/Microsoft-365-AI-Sumit-Chauhan-Mira-Lane_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-office-365-becomes-microsoft-365-adds-features-and-the-power-of-ai.md",
+      "title": "Office 365 becomes Microsoft 365, adds features and the power of AI",
+      "excerpt": "Microsoft is unveiling big changes to its Office 365 product, the company said Monday, starting with a name change: Office 365 is now Microsoft 365, a change meant to signify to consumers that more of Microsoft is coming in the subscription service, such as tech support and the power of AI. The company is using AI to create new tools ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-365-update-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-365-update-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-365-update-2020/?amp",
+      "publishedDateTime": "2020-03-30T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn5.digitaltrends.com/image/digitaltrends/office-app-android-featured-image-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Office 365 becomes Microsoft 365, adds features and the power of AI",
           "attribution": null
         }
       ],
@@ -134,6 +223,95 @@
         "AI in Robotics",
         "AI Hardware",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai.md",
+      "title": "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI",
+      "excerpt": "Shri Santhanam came to the world of AI and analytics first in serving clients as a consultant at Mercer and Oliver Wyman. Next, he co-founded OW Labs an AI and analytics practice. Now he is doing the same at a bigger scale at $5 billion Experian,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/",
+      "publishedDateTime": "2020-03-30T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81fd11ae2ff90006b5bcaf%2F0x0.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-8-technologies-and-how-you-should-be-marketing-with-them-in-2020.md",
+      "title": "8 Technologies and How You Should Be Marketing With Them in 2020",
+      "excerpt": "“That means they’re more likely to use a conversational tone, long-tail keywords and questions.” In late 2019, Google updated its search engine algorithm to adopt BERT, a natural language processing engine. Google’s aim is to move from “keyword-ese” search to one that feels natural. Instead of “best places to shop,” people now ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347865",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347865",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347865",
+      "publishedDateTime": "2020-03-30T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200323182130-GettyImages-1191303754.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "8 Technologies and How You Should Be Marketing With Them in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -255,10 +433,403 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-aarki-named-winner-in-2020-artificial-intelligence-excellence-awards.md",
+      "title": "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards",
+      "excerpt": "Marketing Technology News: Marketing Veteran Connie Glover Named as the New VP of Marketing and Communications by TeamSupport The Artificial Intelligence Excellence Awards recognizes organizations, products and people who bring AI to life and apply it to solve real problems. Some text in the modal.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/",
+      "ampWebUrl": "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/",
+      "cdnAmpWebUrl": "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/",
+      "publishedDateTime": "2020-03-30T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarTech Advisor",
+        "domain": "martechadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.martechadvisor.com/images/uploads/content_images/aarki_named_winner_in_2020_artificial_intelligence_excellence_awards_5e81a3817b80d.jpg",
+          "width": 786,
+          "height": 393,
+          "title": "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision.md",
+      "title": "Microsoft: Here's why we're withdrawing our stake in facial-recognition startup AnyVision",
+      "excerpt": "Microsoft's venture group M12 has divested its minority stake in AnyVision, an Israeli facial-recognition startup, and says it won't make any further minority investments in companies that sell the technology. AnyVision hit headlines last year over an NBC report in October and earlier Haaretz coverage alleging its technology was being used ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/",
+      "publishedDateTime": "2020-03-30T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Here's why we're withdrawing our stake in facial-recognition startup AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
+      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
+      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "publishedDateTime": "2020-03-30T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 482,
+          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data.md",
+      "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+      "excerpt": "The recent success of deep learning is the result of the marriage of big data and GPUs, significantly increasing the breadth and depth of the data used for training computers and reducing the time required for training deep learning algorithms.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "publishedDateTime": "2020-03-30T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ea66a958e13498c8aaf2f2ad7a2d9d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-10-details-about-voice-activated-tech-every-user-should-know.md",
+      "title": "10 Details About Voice-Activated Tech Every User Should Know",
+      "excerpt": "Successful CIOs, CTOs & executives from Forbes Technology Council offer firsthand insights on tech & business. Share to Facebook  Share to Linkedin Between Siri, Alexa and Google Assistant, the world seems to have a lot of voice-activated assistants these days.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/amp/",
+      "publishedDateTime": "2020-03-30T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1177334841%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Details About Voice-Activated Tech Every User Should Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.md",
+      "title": "AI transforms 'The Great British Bakeoff' into a horror show",
+      "excerpt": "Artificial intelligence (AI) can do astonishing things when given specific jobs, but it's terrible at understanding context -- something we've seen before in this series. Thanks to a new experiment inspired by The Great British Bakeoff (GBBO), we can again witness the tragedy of AI stepping outside its lane. Researcher Janelle Shane trained ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
+      "publishedDateTime": "2020-03-30T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F275fd480-71c1-11ea-b24b-34907b95e1ec%26client%3Da1acac3e1b3290917d92%26signature%3De0baf5c98e42526fd12bbdf4ea6db09610a94e60&client=amp-blogside-v2&signature=8ef779eeee62763e517efee42d0b6f6d9d4b1fc6",
+          "width": 600,
+          "height": 350,
+          "title": "AI transforms 'The Great British Bakeoff' into a horror show",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-four-ways-to-use-ai-for-marketing.md",
+      "title": "Four Ways To Use AI For Marketing",
+      "excerpt": "AI can automate many marketing tasks, improve performance and let you get back to work on other important things, like satisfying clients.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
+      "publishedDateTime": "2020-03-30T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F132.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Four Ways To Use AI For Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
+      "title": "Why AI Will Create 'More Human' Executives",
+      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "publishedDateTime": "2020-03-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why AI Will Create 'More Human' Executives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-how-ai-could-help-in-the-fight-against-covid-19.md",
+      "title": "How AI could help in the fight against COVID-19",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) Suki, an AI-based, voice-enabled digital clinical assistant startup that helps doctors create medical notes and do other things like retrieve patient information, has re-engineered its offering with COVID-19-specific templates to speed up the note ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-could-help-in-the-fight-against-covid-19/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/",
+      "publishedDateTime": "2020-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/07a98106-843c-4ae8-9317-bcb4ad8b108a/resize/1200x/3ffeeb1a34461854f298c577f1e350df/cloudai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "How AI could help in the fight against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
       "title": "Extending the power of Azure AI to Microsoft 365 users",
       "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/",
@@ -281,7 +852,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png",
+          "width": 1187,
+          "height": 821,
+          "title": "Extending the power of Azure AI to Microsoft 365 users",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -298,7 +877,7 @@
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/?ss=cloud",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "publishedDateTime": "2020-03-29T23:17:00-07:00",
@@ -369,6 +948,141 @@
           "width": 760,
           "height": 428,
           "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
+      "title": "Distributed training with Azure Machine Learning",
+      "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Distributed training with Azure Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-10-business-functions-that-are-ready-to-use-artificial-intelligence.md",
+      "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
+      "excerpt": "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-03-29T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81761ea1a0ef0007d89a39%2F0x0.jpg%3FcropX1%3D406%26cropX2%3D2635%26cropY1%3D0%26cropY2%3D1254",
+          "width": 1200,
+          "height": 675,
+          "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-star-trek-voyager-gets-an-unofficial-4k-remaster-thanks-to-ai.md",
+      "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
+      "excerpt": "You won't forget that the show was made for tube TVs given the aspect ratio, but the AI is surprisingly effective -- it produces something you probably wouldn't mind watching on an idle afternoon if you're a Star Trek devotee. The effort is time-consuming at about six hours for an episode, and the necessary software is both expensive and tricky ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "publishedDateTime": "2020-03-29T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2917%252C1945%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252F58b51930-7213-11ea-baff-d5511b899659%26client%3Da1acac3e1b3290917d92%26signature%3Dd228aae84390dea235728c38be873d772c46b03a&client=amp-blogside-v2&signature=e5e99794ff3100e08542506b05337f770a1b003d",
+          "width": 600,
+          "height": 350,
+          "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
           "attribution": null
         }
       ],
@@ -588,688 +1302,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
-      "title": "Can AI Detect Your Emotion Just By How You Walk?",
-      "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/amp/",
-      "publishedDateTime": "2020-03-28T21:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e80219108eb080006521acc%2F0x0.jpg",
-          "width": 823,
-          "height": 970,
-          "title": "Can AI Detect Your Emotion Just By How You Walk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now.md",
-      "title": "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now",
-      "excerpt": "After last week’s rally in the S&P 500 (+10.28% for the week), we decided to ask our AI models to find us the best value stocks to buy from the Russell 1000. Given the 24.5% drop in the S&P 500 since late February when the contagion effect from the Coronavirus Epidemic hit US markets,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/",
-      "publishedDateTime": "2020-03-28T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F478782611%2F0x0.jpg",
-          "width": 1200,
-          "height": 535,
-          "title": "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-12-thought-provoking-quotes-about-artificial-intelligence.md",
-      "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
-      "excerpt": "The hope is that these quotes will help illuminate the scope of the field, the contours of the challenges ahead, and the enormity of the stakes.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-03-28T12:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F520714001%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3568%26cropY1%3D746%26cropY2%3D2753",
-          "width": 1199,
-          "height": 675,
-          "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.md",
-      "title": "AI to the aid: How robots can help in the fight against COVID-19",
-      "excerpt": "The robot can disinfect 90 per cent of the places on its own. ''Astra requires a bit of human assistance only while disinfecting narrow corners. Typically, it takes just 15 minutes to disinfect a standard size room,'' claims Viswanathan, a graduate in artificial intelligence. Astra can wear many hats. ''The top UV unit of Astra can be ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theweek.in/news/sci-tech/2020/03/28/ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.html",
-      "ampWebUrl": "https://www.theweek.in/news/sci-tech/2020/03/28/ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.amp.html",
-      "cdnAmpWebUrl": "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/sci-tech/2020/03/28/ai-to-the-aid-how-robots-can-help-in-the-fight-against-covid-19.amp.html",
-      "publishedDateTime": "2020-03-28T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Week",
-        "domain": "theweek.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.theweek.in/content/dam/week/news/sci-tech/images/2020/3/28/astra.jpg",
-          "width": 760,
-          "height": 443,
-          "title": "AI to the aid: How robots can help in the fight against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
-      "title": "Microsoft pulls its smaller investments in facial recognition tech",
-      "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
-      "heat": 139,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
-      "publishedDateTime": "2020-03-28T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21",
-          "width": 600,
-          "height": 350,
-          "title": "Microsoft pulls its smaller investments in facial recognition tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic.md",
-      "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
-      "excerpt": "AI (Artificial Intelligence) has a long history, going back to the 1950s when the computer industry started. It’s interesting to note that much of the innovation came from government programs, not private industry.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/03/28/ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic/amp/",
-      "publishedDateTime": "2020-03-28T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1215339620%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
-      "title": "In artificial intelligence, enterprises still not minding their data",
-      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "publishedDateTime": "2020-03-28T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "In artificial intelligence, enterprises still not minding their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-can-help-find-scientists-find-a-covid-19-vaccine.md",
-      "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
-      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "publishedDateTime": "2020-03-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
-      "title": "iPad trackpad support is just the start of iOS 13.4's great features",
-      "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/how-to/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
-      "publishedDateTime": "2020-03-28T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/XqDWvrZY6CVOCKok-tNg7jlqgi4=/756x567/2019/09/19/58acf163-3d55-4bdb-8353-4fc0dd83527d/memoji-stickers.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "iPad trackpad support is just the start of iOS 13.4's great features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-how-artificial-intelligence-can-aid-eye-testing.md",
-      "title": "How artificial intelligence can aid eye testing",
-      "excerpt": "From diagnostics to drug development, artificial intelligence (AI) today has become a valuable extension of the medical field. A new addition to its long list of uses is a hi-tech screening tool developed by Google and an international team of researchers for detecting diabetic retinopathy a diabetic complication in the eye. A study conducted ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
-      "publishedDateTime": "2020-03-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/science/bxexes/article31192454.ece/ALTERNATES/LANDSCAPE_615/29TH-SCIFUNDUSpng",
-          "width": 615,
-          "height": 384,
-          "title": "How artificial intelligence can aid eye testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-how-artificial-intelligence-is-helping-the-fight-against-coronavirus.md",
-      "title": "How artificial intelligence is helping the fight against coronavirus",
-      "excerpt": "Artificial intelligence is improving the ability of healthcare providers to effectively respond to the coronavirus pandemic – allowing for faster diagnoses and speedy dissemination of trusted information as well as detecting fraudulent insurance claims and accurately evaluating patient data in real time. SoftBank-backed AI company Automation ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
-      "ampWebUrl": "https://amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
-      "cdnAmpWebUrl": "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840",
-      "publishedDateTime": "2020-03-28T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Blogs",
-        "domain": "thenational.ae",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thenational.ae/image/policy:1.997838:1585236541/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9",
-          "width": 1200,
-          "height": 675,
-          "title": "How artificial intelligence is helping the fight against coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
-      "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-      "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-anyvision-idUSKBN21E3BA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "publishedDateTime": "2020-03-27T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200328&t=2&i=1509159992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2Q222",
-          "width": 818,
-          "height": 545,
-          "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-her-future-summit-to-explore-ai-and-the-future-of-work-for-women-leaders.md",
-      "title": "Her Future Summit To Explore AI And The Future Of Work For Women Leaders",
-      "excerpt": "The Her Future Summit serves to teach fundamentals of future technology and the leading social impact applications of Artificial Intelligence, among other technologies.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/",
-      "publishedDateTime": "2020-03-27T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e7ef008eb080006520dab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5926%26cropY1%3D310%26cropY2%3D3643",
-          "width": 1200,
-          "height": 675,
-          "title": "Her Future Summit To Explore AI And The Future Of Work For Women Leaders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-these-machine-learning-enhanced-clips-might-be-our-only-chance-of-seeing-hd-star-trek-voyager-any-time-soon.md",
-      "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
-      "excerpt": "While there have been attempts both officially and unofficially before—What We Left Behind, the expansive, loving crowdfunded documentary for Deep Space Nine produced by former co-showrunner Ira Steven Behr, for example, managed to produce new HD clips of the show as part of its runtime, and fans had previously turned to machine learning to ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599",
-      "ampWebUrl": "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599/amp",
-      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599/amp",
-      "publishedDateTime": "2020-03-27T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/gjlqphtsdysndzlhgc5g.png",
-          "width": 800,
-          "height": 450,
-          "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-microsoft-sells-stake-in-israeli-facial-recognition-company.md",
-      "title": "Microsoft sells stake in Israeli facial recognition company",
-      "excerpt": "Microsoft's venture capital arm, M12, invested in AnyVision as part of a $74 million funding round in June 2019.",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-sells-stake-israeli-facial-recognition-company-n1170781",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1170781",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1170781",
-      "publishedDateTime": "2020-03-27T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_13/3286861/200327-microsoft-logo-ew-448p_28e8f3a238f1b48562b85fc79cc6e752.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Microsoft sells stake in Israeli facial recognition company",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way.md",
-      "title": "AI Can Help Us Fight Infectious Diseases In A More Effective Way",
-      "excerpt": "The COVID-19 pandemic has created a sense of urgency to improve current approaches for prevention and treatment of infectious diseases. Fortunately, currently available AI and data science approaches can help us fight infectious diseases in a more effective way and improve human healthcare.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/amp/",
-      "publishedDateTime": "2020-03-27T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7d6ef3281468000685d08e%2F0x0.jpg",
-          "width": 1200,
-          "height": 1062,
-          "title": "AI Can Help Us Fight Infectious Diseases In A More Effective Way",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

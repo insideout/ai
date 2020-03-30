@@ -4,9 +4,11 @@ title: "Bosch sets company guidelines for use of artificial intelligence in prod
 excerpt: "The company’s AI code of ethics is based on “humans should be the ultimate arbiter of any AI-based decisions, as well as invented for life ethos, which combines a quest for innovation with a sense of social responsibility.” For this, Bosch has signed up to the high-level expert group on artificial intelligence, a body appointed by the ..."
 publishedDateTime: 2020-03-30T14:42:00Z
 webUrl: "https://yourstory.com/2020/03/bosch-company-guidelines-artificial-intelligence-ai"
+ampWebUrl: "https://yourstory.com/2020/03/bosch-company-guidelines-artificial-intelligence-ai/amp"
+cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/bosch-company-guidelines-artificial-intelligence-ai/amp"
 type: article
-quality: 16
-heat: 16
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +19,12 @@ topics:
   - AI Ethics
   - AI
 
-secured: "FIzbqYLMQL9pwHyhnR7A37VOUR1X/lRgJub5/zR5TRAriaSWtqR1Hjb9XqVQ82mpITlhNm4s/Lfqu3pPjfTdQ91F/iZABdb6f8fy/s9zAdwbVaOsqjwlk6NXal7DbQvyqD4bqP9vgcdwxHZmQTMewRu4qAI/nNqF9Nx1g26njey51jua8hsCsWttzIgUTRx8BOTNvTNHzjEOMh5bWKeZ7rCl5BGV7CWGEA9jPJ0kiSAcEGOGWulfanbOunYBlxq7t2oZnimm74c+CD4XifWiEBDO3oQAn4FMrzKQP2hrVD1+TcgISiwv/dtYN7rg7WCPgiZPynFObMjDZck0JKyRsS0BHWGFL5g16tPlsGF/O/KiNYw3H7zbMZxqqdAQekhjuB5/XYEx4nblVuYSFkLc4Iz9Z81M4tne6s7BOXqR5prqh8jJtYomSpe0WVfy7g0uzuHD/t8zD1uUAkT18ajMc5QAiwa4GKUtq7sgmPYLBbw=;VbiuFXvIsvYfnA/jNQbpxw=="
+images:
+  - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Untitleddesign-2020-03-17T154841-1584440355199.png?fm=png&auto=format"
+    width: 800
+    height: 400
+    title: "Bosch sets company guidelines for use of artificial intelligence in products"
+
+secured: "osnXLcf4JtoTY+Xx5Dcg9ebJ86cerhgLRrWaG6h2ulMZ3s1KMCDG05sf9v4G8QH96WDWnpQaBl0Qp3y/TRFEZZ553bstWqgkFWrt7oHi6mk77i8A+V5uFOLeG2JOxyZEVRDK3CgOddfCvR4PfGB6jXWdIl13MhceEdHaYv06g0Z2NNTYZ8SuJT9P1106k/nfMEwKn5mtyWp4IZcUY1mYciHt/fhCi3BgMKUkD1YzW8nXESoD6ytkyWP19UPeA6DKTijaUIu9r8KYeif+mxQsjQudUMqj0d1/WX0fJlDbSNGDGfoKMpP3kpo68t27q8jkyNEEWLHtgAYJtm1s+9f1YSaPiFeKv12zHGhdHGeyyGCVAr9Hs9KGR1bctJeEcUSKKm3ARXUlEVK2hKzEkY31CD1TSNr4PPfdqZO5PquUOSA9ZNPZqMW81i58Jf718uWe5OD7/zERQEa4U9BnRo3tYrZR3EvV98BEJu48u8+AZeM=;/VPGsUhwfeTdlsyl/d2IMA=="
 ---
 

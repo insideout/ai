@@ -2,6 +2,740 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
+      "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+      "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/capturing-and-validating-alphanumeric-identifiers-in-amazon-lex/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T15:40:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/04/alphanumeric-lex-1.gif",
+          "width": 800,
+          "height": 605,
+          "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-waymo-content-search-can-find-billions-of-objects-encountered-over-20m-miles-in-seconds.md",
+      "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
+      "excerpt": "As of early 2020, Waymo self-driving vehicles have driven 20 million miles on public roads. That makes for vast amounts of recorded sensor data to improve the autonomous system. Waymo today detailed its Content Search tool and database with billions of encountered road objects ... road debris can include everything from plastic bags to tire ...",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5google.com/2020/02/06/waymo-content-search/",
+      "ampWebUrl": "https://9to5google.com/2020/02/06/waymo-content-search/amp/",
+      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/02/06/waymo-content-search/amp/",
+      "publishedDateTime": "2020-02-06T14:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Google",
+        "domain": "9to5google.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/03/waymo-expansion-mesa-arizona.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Waymo Content Search can find billions of objects encountered over 20M miles in seconds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-us-homeland-security-has-used-facial-recognition-on-over-437-million-people.md",
+      "title": "U.S. Homeland Security has used facial recognition on over 43.7 million people",
+      "excerpt": "This morning in a hearing before House lawmakers on Capitol Hill, Department of Homeland Security (DHS) officials detailed the administration’s use of facial recognition technologies across the ...",
+      "heat": 225,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/u-s-homeland-security-has-used-facial-recognition-on-over-43-7-million-people/amp/",
+      "publishedDateTime": "2020-02-06T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/OnPaste.20200206-165030.png?fit=2560%2C1440&strip=all",
+          "width": 2560,
+          "height": 1440,
+          "title": "U.S. Homeland Security has used facial recognition on over 43.7 million people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns.md",
+      "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
+      "excerpt": "Several House lawmakers expressed reservations Thursday about increasing use of facial recognition to identify people entering the country, but their views didn’t sway customs officials and other House members who said it promises to make the nation safer.",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/lawmakers-see-benefits-in-facial-recognition-at-borders-despite-concerns-11581026462",
+      "publishedDateTime": "2020-02-06T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-151698/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Lawmakers See Benefits in Facial Recognition at Borders, Despite Concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-nuro-self-driving-car-gets-us-dots-blessing.md",
+      "title": "Nuro self-driving car gets US DOT's blessing",
+      "excerpt": "California-based Nuro has made history. Perhaps not the biggest splash, but in one small step for self-driving cars, Nuro's driverless R2 has received the first approved exemption from the US Department of Transportation. The exemption allows Nuro to operate its latest R2 self-driving car on public roads despite it having no human-driver controls.",
+      "heat": 264,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nuro-r2-self-driving-car-delivery-vehicle/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-r2-self-driving-car-delivery-vehicle/",
+      "publishedDateTime": "2020-02-06T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/8k-lRQK2Dutoix3kDWRdfo1bBIc=/2020/02/06/26455c98-4cd8-44fa-a8b3-880df866df5c/ogi-nuro.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Nuro self-driving car gets US DOT's blessing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine.md",
+      "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
+      "excerpt": "Once that was figured out, doctors quickly brought him back around, and he was fine. But what if, through groundbreaking mixtures of compute, database, and AI technologies, a quick round of analyses on his blood and genome could have revealed his potential for such a reaction before it became a critical issue? What if it were possible to devise ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ai-5g-and-medical-iot-can-help-deliver-the-promise-of-precision-medicine/amp/",
+      "publishedDateTime": "2020-02-06T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-1151630032-e1580953445456.jpg?fit=1829%2C917&strip=all",
+          "width": 1829,
+          "height": 917,
+          "title": "AI, 5G, and medical IoT can help deliver the promise of precision medicine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
+      "title": "New blood-sampling robot performs as well or better than people",
+      "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "publishedDateTime": "2020-02-06T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New blood-sampling robot performs as well or better than people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots.md",
+      "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
+      "excerpt": "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/",
+      "ampWebUrl": "https://www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alanohnsman/2020/02/06/nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots/amp/",
+      "publishedDateTime": "2020-02-06T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3c413ba854780006b0a8ad%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-activists-launch-new-effort-to-kick-facial-recognition-out-of-schools.md",
+      "title": "Activists launch new effort to kick facial recognition out of schools",
+      "excerpt": "A digital and civil rights group is asking for people to sign a petition telling Congress to pass a law that bars the use of facial recognition technology in public schools. Demand Progress launched the petition earlier this week. In it, people have the option to tell Congress to “pass legislation to ban facial recognition technology in ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/layer8/facial-recognition-schools-petition/",
+      "ampWebUrl": "https://www.dailydot.com/layer8/facial-recognition-schools-petition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-schools-petition/?amp",
+      "publishedDateTime": "2020-02-06T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Schools-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Activists launch new effort to kick facial recognition out of schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon.md",
+      "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
+      "excerpt": "The Latest research study released by HTF MI \"Global Cloud Natural Language Processing Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-is-booming-worldwide-xerox-google-baidu-amazon-2020-02-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T12:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Natural Language Processing Market Is Booming Worldwide | Xerox, Google, Baidu, Amazon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-is-the-goldilocks-economy-dead-or-just-sleeping.md",
+      "title": "Is the 'Goldilocks economy' dead or just sleeping?",
+      "excerpt": "To get a handle on what zonked Goldilocks, we have to consider the three bears that together made 2019 so unpleasant ... Economic uncertainty skyrocketed; plans for new investment in long-life capital were shelved, as indicated later by the fact that actual investment fell. Then came more tariffs, this time covering a growing array of Chinese ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonexaminer.com/opinion/is-the-goldilocks-economy-dead-or-just-sleeping",
+      "ampWebUrl": "https://www.washingtonexaminer.com/opinion/is-the-goldilocks-economy-dead-or-just-sleeping?_amp=true",
+      "cdnAmpWebUrl": "https://www-washingtonexaminer-com.cdn.ampproject.org/c/s/www.washingtonexaminer.com/opinion/is-the-goldilocks-economy-dead-or-just-sleeping?_amp=true",
+      "publishedDateTime": "2020-02-06T11:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Examiner",
+        "domain": "washingtonexaminer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-top-homeland-security-democrat-voices-opposition-to-facial-recognition-moratorium.md",
+      "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
+      "excerpt": "on Thursday voiced concern about placing a federal moratorium on facial recognition technology, a pr",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition",
+      "ampWebUrl": "https://thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/481866-top-homeland-security-dem-voices-opposition-to-facial-recognition?amp",
+      "publishedDateTime": "2020-02-06T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/thompsonbennie_010920gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": "Top Homeland Security Democrat voices opposition to facial recognition moratorium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-crowdstrike-aws-expand-world-challenge-official-provider-roles.md",
+      "title": "CrowdStrike, AWS expand World Challenge official provider roles",
+      "excerpt": "In forming an expanded alliance, SRO Motorsports Group will benefit from AWS’ 175 fully featured services for storage, networking, analytics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), with a broad global reach. Along with being official ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/",
+      "ampWebUrl": "https://racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
+      "cdnAmpWebUrl": "https://racer-com.cdn.ampproject.org/c/s/racer.com/2020/02/06/crowdstrike-aws-expand-world-challenge-official-provider-roles/amp/",
+      "publishedDateTime": "2020-02-06T10:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Racer",
+        "domain": "racer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://racerdigital.files.wordpress.com/2020/02/aws-crowdstrike-1.jpeg?w=1000&h=430&crop=1",
+          "width": 1000,
+          "height": 430,
+          "title": "CrowdStrike, AWS expand World Challenge official provider roles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-amazon-researchers-distill-knowledge-from-a-large-ai-model-to-a-simplified-version.md",
+      "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
+      "excerpt": "In AI and machine learning systems, knowledge is typically distilled by training a small model — a student — to mimic a large and cumbersome model — a teacher. The idea is to compress the teacher’s knowledge by using its outputs as labels to optimize the student, but there’s no guarantee knowledge will be transferred to the student ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/amazon-researchers-technique-distills-knowledge-from-a-large-ai-model-to-a-simplified-version-of-it/amp/",
+      "publishedDateTime": "2020-02-06T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon researchers distill knowledge from a large AI model to a simplified version",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-see-how-neural-networks-turned-a-film-from-1896-into-4k-and-added-color.md",
+      "title": "See How Neural Networks Turned a Film From 1896 Into 4K and Added Color",
+      "excerpt": "The film shows a train pulling into the ... www.youtube.com/watch?v=3RYNThid23g Shiryaev used Topaz Labs Gigapixel AI to upscale the original 4K, then used DAIN (Depth-Aware Video Frame Interpolation) to add additional frames to raise the rate to 60 fps. You can see a version that has been colorized by DeOldify Neural Network below.",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://fstoppers.com/science/see-how-neural-networks-turned-film-1896-4k-and-added-color-453086",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fstoppers",
+        "domain": "fstoppers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2020/02/7a9eadc562688cadbf93598dd330a69f.jpg",
+          "width": 1184,
+          "height": 670,
+          "title": "See How Neural Networks Turned a Film From 1896 Into 4K and Added Color",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-ai-could-help-design-better-drugs-that-dont-clash-with-other-medication.md",
+      "title": "AI could help design better drugs that don’t clash with other medication",
+      "excerpt": "The results: When the researchers tested their system on two common drug interaction data sets, it performed better than state-of-the-art results from existing AI systems. The paper is being presented at the proceedings of the Association for the Advancement of Artificial Intelligence later this week. Co-pilot: The new techniques for analyzing ...",
+      "heat": 138,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615153/ai-adverse-drug-interactions-chemistry-health-care/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-06T09:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/gettyimages-76008293.jpg?sw=1200&cx=0&cy=77&cw=3000&ch=1688",
+          "width": 1200,
+          "height": 675,
+          "title": "AI could help design better drugs that don’t clash with other medication",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-who-is-responsible-in-a-crash-with-a-self-driving-car.md",
+      "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
+      "excerpt": "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/",
+      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
+      "publishedDateTime": "2020-02-06T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 459,
+          "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-uber-gets-green-light-to-test-self-driving-cars-in-california-again.md",
+      "title": "Uber gets green light to test self-driving cars in California again",
+      "excerpt": "Uber's self-driving could be allowed roads again in California. According to report Thursday from Reuters, the ride sharing company received a permit on Wednesday from the California Department of Motor Vehicles to test the autonomous vehicles with a backup driver. Uber did not immediately respond to request for comment, but told Reuters it ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/uber-gets-green-light-to-test-self-driving-cars-in-california-again/",
+      "publishedDateTime": "2020-02-06T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/P1TSwyMIOEev0pcnkl0Asmh3kTs=/756x567/2019/08/21/f4944c4f-9607-41a7-ac58-9daaa50231e8/uber-logo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Uber gets green light to test self-driving cars in California again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
       "title": "Facebook launches 3D deep learning library for PyTorch",
       "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
@@ -288,770 +1022,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-robotics-investments-recap-january-2020.md",
-      "title": "Robotics investments recap: January 2020",
-      "excerpt": "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/january-2020-robotics-investments-recap/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2019/01/bg-robotic-omnichannel-fulfillmentflexbot-with-order1200xx3840-2160-0-0.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Robotics investments recap: January 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence.md",
-      "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
-      "excerpt": "Machine learning has made its way to Tinder, with the $1.2 billion dating app now using artificial intelligence (AI) to block people for inappropriate behavior. The at-least-initial anonymity of dating apps demonstrates that trolling behavior isn't reserved for Reddit or other forum-heavy websites. The popular dating app Tinder has made ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
-      "publishedDateTime": "2020-02-06T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/06/f0bddc71-bfa6-4c79-9a42-db243b6fc1ca/resize/1200x/a5dcceb097c9efc8fc93ea0388f42181/tinder-app-gettyimages-1192325872.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-will-advancements-in-tech-make-homo-sapiens-go-extinct.md",
-      "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
-      "excerpt": "Very recently Johns Hopkins Applied Physics Lab developed a mind-controlled robotic arm. It has granted new life and leverage to a man who had lost his arm to cancer in 2005. This has been a huge ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/06/will-advancements-in-tech-make-homo-sapiens-go-extinct/amp/",
-      "publishedDateTime": "2020-02-06T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-42.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-artificial-intelligence-tool-created-to-predict-the-structure-of-the-universe-and-unlock-the-mysteries-of-dark-energy.md",
-      "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
-      "excerpt": "The AI tool could play a role in studying the nature of dark energy and dark matter, which seems to make up a large amount of the universe but remains an enigma, researchers said.",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033",
-      "ampWebUrl": "https://www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/artificial-intelligence-dark-emulator-universe-structure-dark-energy-dark-matter-research-1486033?amp=1",
-      "publishedDateTime": "2020-02-06T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1565487/milky-ways-galactic-centre.jpg",
-          "width": 2500,
-          "height": 1679,
-          "title": "Artificial Intelligence Tool Created to Predict the Structure of the Universe and Unlock the Mysteries of Dark Energy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-is-clearview-ais-facial-recognition-legal-we-need-to-figure-it-out-soon.md",
-      "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-      "excerpt": "“What’s required to properly govern Clearview AI and so much else is a thoroughgoing reexamination of what private and public mean that shifts the key debates in law, ethics, design, and even everyday expectations. In short, it’s long overdue to acknowledge that people can have legitimate privacy interests in publicly shared information.",
-      "heat": 165,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/",
-      "ampWebUrl": "https://www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/clearview-ai-data-scraping-legal/?amp",
-      "publishedDateTime": "2020-02-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/facial-recognition-composite-1200x630-c-ar1.91.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Is Clearview AI’s facial recognition legal? We need to figure it out soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra.md",
-      "title": "Music by numbers? Robot conducts human orchestra",
-      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. “This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/",
-      "ampWebUrl": "https://nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/02/06/music-by-numbers-robot-conducts-human-orchestra/amp/",
-      "publishedDateTime": "2020-02-06T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thenypost.files.wordpress.com/2020/02/robot-homepage.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": "Music by numbers? Robot conducts human orchestra",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025.md",
-      "title": "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025",
-      "excerpt": "The AI Market in Social Media valued at USD 815.33 million in 2019 and is expected to reach USD 3,714.89 million by 2025, recording a CAGR of 28.77%, during the forecast period of 2020-2025. Social media has become one of the primary sources of customer intelligence data.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-social-media-market-briefing-technology-advancement-and-future-scope-till-2025-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-06T01:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Social Media Market Briefing, Technology Advancement and Future Scope Till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof.md",
-      "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
-      "excerpt": "The Global Natural Language Processing Market Report provides a complete analysis of the market. The Report focuses on manufacturers, suppliers, segmentation according to the application, major players,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-global-outlook-2019-2025-apple-dolbey-systems-google-microsof-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Global Outlook 2019-2025: Apple, Dolbey Systems, Google, Microsof",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-coronavirus-fears-will-leave-empty-seats-at-a-top-ai-conference.md",
-      "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
-      "excerpt": "Yang was due to present an award-winning paper describing a way for an AI algorithm to perform image recognition by drawing from different datasets without ever revealing their contents. He decided to cancel his trip due to the global health emergency triggered by the coronavirus in China. Yang estimates that around 800 attendees from mainland ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/",
-      "ampWebUrl": "https://www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/coronavirus-fears-empty-seats-ai-conference/amp",
-      "publishedDateTime": "2020-02-05T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e3b32fd281efd000882f15d/master/pass/Biz-emptyplane-86146996.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Coronavirus Fears Will Leave Empty Seats at a Top AI Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020.md",
-      "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
-      "excerpt": "The Global AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market research provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The market report also calculate the market size,",
-      "heat": 150,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-speaker-market-technology-advancement-and-latest-study-report-2020-2020-02-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T22:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI (ARTIFICIAL INTELLIGENCE) SPEAKER Market Technology Advancement and Latest Study Report 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-intel-drops-work-on-one-of-its-ai-chip-lines-in-favor-of-an-other.md",
-      "title": "Intel drops work on one of its AI-chip lines in favor of an other",
-      "excerpt": "[Get regularly scheduled insights by signing up for Network World newsletters.] Intel acquired Nervana in 2016 and issued its first NNP chip one year later. After the $408 million acquisition by Intel, Nervana co-founder Naveen Rao was placed in charge of the AI platforms group, which is part of Intel's data platforms group. The Nervana chips ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.html",
-      "ampWebUrl": "https://www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3519354/intel-ends-nervana-ai-chip-in-favor-of-habana-labs-product.amp.html",
-      "publishedDateTime": "2020-02-05T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/man_concerned_artificial_intelligence_ai_sign_by_dny59_gettyimages_959737582-100817807-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Intel drops work on one of its AI-chip lines in favor of an other",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-music-by-numbers-robot-conducts-human-orchestra-in-sharjah.md",
-      "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
-      "excerpt": "For Shibuya, a composer from Japan, the role of robots in our everyday lives may well be increasing, but it is up to us to decide how artificial intelligence might add to the human experience, and humans and androids create art together. \"This work is a metaphor of the relations between humans and technology. Sometimes the android will get ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.html",
-      "ampWebUrl": "https://english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
-      "cdnAmpWebUrl": "https://english-manoramaonline-com.cdn.ampproject.org/c/s/english.manoramaonline.com/business/gadgets/2020/02/06/music-by-numbers-robot-conducts-human-orchestra.amp.html",
-      "publishedDateTime": "2020-02-05T20:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manorama Online",
-        "domain": "manoramaonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.manoramaonline.com/content/dam/mm/en/business/gadgets/images/2020/2/6/humanoid-music2.jpg",
-          "width": 845,
-          "height": 440,
-          "title": "Music by numbers? Robot conducts human orchestra in Sharjah",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-clearview-ai-is-looking-to-expand-globally-report-says.md",
-      "title": "Clearview AI is looking to expand globally, report says",
-      "excerpt": "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "publishedDateTime": "2020-02-05T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI is looking to expand globally, report says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites.md",
-      "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-      "excerpt": "Facebook has joined YouTube, Twitter and payment service Venmo in demanding that a facial recognition company stop harvesting user images to identify the people in them, which the startup does as part of its work with police. Facebook said it has demanded New York-based Clearview AI stop accessing or using information from its flagship site and ...",
-      "heat": 287,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/",
-      "ampWebUrl": "https://www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "cdnAmpWebUrl": "https://www-snopes-com.cdn.ampproject.org/c/s/www.snopes.com/ap/2020/02/05/facebook-and-youtube-say-ai-firm-must-stop-scraping-faces-from-sites/amp/",
-      "publishedDateTime": "2020-02-05T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Snopes.com",
-        "domain": "snopes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.snopes.com/tachyon/2020/02/ap_youtube.jpg?resize=800,452",
-          "width": 800,
-          "height": 452,
-          "title": "Facebook and YouTube Say AI Firm Must Stop Scraping Faces from Sites",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-how-ai-can-help-keep-your-customers-onside.md",
-      "title": "How AI Can Help Keep Your Customers Onside",
-      "excerpt": "After years of hype around the potential of artificial intelligence (AI), the augmented workforce is finally a reality for many businesses. But while much of the attention so far has focused on relatively simplistic chatbots helping field basic customer enquiries,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/",
-      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/03/how-ai-can-help-keep-your-customers-onside/amp/",
-      "publishedDateTime": "2020-02-05T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e384e52a854780006b054f3%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "How AI Can Help Keep Your Customers Onside",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-what-role-will-or-does-artificial-intelligence-play-in-your-life.md",
-      "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
-      "excerpt": "It doesn’t seem too long ago that artificial intelligence (AI) was mostly the stuff of science fiction. Today it seems to be everywhere: in our home appliances, in our cars, in the workplace, even on our wrists. To some extent, our use of AI is still a matter of personal choice. But because AI is becoming increasing ubiquitous, we need to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/04/what-role-will-does-artificial-intelligence-play-in-your-life/amp/",
-      "publishedDateTime": "2020-02-05T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e17a49da854780006e83185%2F0x0.jpg",
-          "width": 640,
-          "height": 426,
-          "title": "What Role Will (Or Does) Artificial Intelligence Play In Your Life?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions.md",
-      "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-      "excerpt": "Determining whether an AI system is maintaining fairness in its predictions requires an understanding of models’ short- and long-term effects, which might be informed by disparities in error metrics on a number of static data sets. In some cases, it’s necessary to consider the context in which the AI system operates in addition to the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/05/googles-ml-fairness-gym-lets-researchers-study-the-long-term-effects-of-ais-decisions/amp/",
-      "publishedDateTime": "2020-02-05T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s ML-fairness-gym lets researchers study the long-term effects of AI’s decisions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-waymos-self-driving-car-workers-reportedly-complain-about-finding-leftover-needles-in-the-vehicles-and-a-cut-to-their-benefits.md",
-      "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-      "excerpt": "Drivers of Waymo self-driving cars in Phoenix have reportedly seen their benefits cut since being classified as \"vendors\" instead of \"contractors.\"",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/waymo-self-driving-car-workers-complain-benefits-cut-needles-report-2020-2?amp",
-      "publishedDateTime": "2020-02-05T14:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3b13600ce3d1277b0b323b?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": "Waymo's self-driving car workers reportedly complain about finding leftover needles in the vehicles and a cut to their benefits",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

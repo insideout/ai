@@ -2,6 +2,793 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-02-14-travis-bott-makes-travis-scott-like-music-lyrics-with-ai.md",
+      "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+      "excerpt": "Why we care: The robots are coming for your playlists again, and they’re mimicking your favorite artists in music videos too. Take Travis Bott. Yes, Travis Bott. He’s an AI musician inspired by Travis Scott, the rapper, producer, and songwriter responsible for “Sicko Mode” and more. Travis Bott has a new song⁠⁠ and accompanying ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90464062/meet-travis-bott-the-travis-scott-twin-whose-music-and-lyrics-were-created-with-ai?partner=feedburner",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/p-1-travis-scottand8217s-ai-and8216bot-twin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Travis Bott makes Travis Scott-like music, lyrics with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-show-me-the-money-how-ai-and-tech-can-solve-procurement-spend-challenges.md",
+      "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
+      "excerpt": "Fund innovation. Fund future growth. Increase savings. One of these things is not like the other, but AI can help procurement and supply chain leaders tackle their biggest spend challenges.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/14/ai-in-procurement/amp/",
+      "publishedDateTime": "2020-02-14T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F170550550%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3336%26cropY1%3D175%26cropY2%3D2051",
+          "width": 1200,
+          "height": 675,
+          "title": "Show Me The Money: How AI And Tech Can Solve Procurement Spend Challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-how-ai-can-predict-heart-attacks-and-strokes.md",
+      "title": "How AI Can Predict Heart Attacks and Strokes",
+      "excerpt": "Artificial intelligence is making its way into health care, and one of its first stops is making sense of all of those scans that doctors order. Already, studies have shown that AI-based tools can, in some cases, pick out abnormal growths that could be cancerous tumors better than doctors can, mainly because digesting and synthesizing huge ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://time.com/5784090/ai-heart-attack-stroke/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2020/02/GettyImages-1071551122.jpg",
+          "width": 4288,
+          "height": 2848,
+          "title": "How AI Can Predict Heart Attacks and Strokes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-how-ai-is-stopping-the-next-great-flu-before-it-starts.md",
+      "title": "How AI is stopping the next great flu before it starts",
+      "excerpt": "But in the near future, AI-augmented drug development could help produce vaccines and treatments fast enough to halt the spread of deadly viruses before they mutate into global pandemics. Conventional methods for drug and vaccine development are wildly inefficient. Researchers can spend nearly a decade laboriously vetting candidate molecule ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/14/how-ai-is-helping-halt-the-flu-of-the-future/",
+      "publishedDateTime": "2020-02-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D7500%252C5000%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Ffd29d5e0-4ea1-11ea-b6dd-e3d6fe4cba04%26client%3Da1acac3e1b3290917d92%26signature%3D0964e8ac968f39002df536bc4bf24d3679a31fb6&client=amp-blogside-v2&signature=b353e5af5b3a5277d2ae3d8528aa33207e1df384",
+          "width": 600,
+          "height": 350,
+          "title": "How AI is stopping the next great flu before it starts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
+      "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
+      "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
+      "publishedDateTime": "2020-02-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
+      "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
+      "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
+      "heat": 110,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy",
+      "ampWebUrl": "https://www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-facial-recognition-app-promises-to-solve-crimes-critics-say-its-the-end-of-privacy.amp",
+      "publishedDateTime": "2020-02-14T06:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/08/bc4a043e-532521-microsoft-facial-recognition.jpg",
+          "width": 810,
+          "height": 456,
+          "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-nvidia-shares-surge-on-signs-of-a-machine-learning-boom.md",
+      "title": "Nvidia shares surge on signs of a machine learning boom",
+      "excerpt": "Nvidia stunned analysts with strong quarterly results and joined rivals Intel and Advanced Micro Devices in predicting strong demand for chips used in data centers and A.I.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/14/nvidia-nvda-earnings-q4-2020.html",
+      "publishedDateTime": "2020-02-14T06:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105398954-1534357352806rts1xdsi.jpg?v=1534357453",
+          "width": 3846,
+          "height": 2564,
+          "title": "Nvidia shares surge on signs of a machine learning boom",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-hypodermic-needles-left-in-self-driving-cars-is-an-ominous-harbinger-of-whats-to-come.md",
+      "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
+      "excerpt": "Reckless passengers are leaving hypodermic needles in self-driving cars, it's a problem that's going to get worse.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/12/hypodermic-needles-leftover-in-ai-self-driving-cars-by-despicable-passengers-is-an-ominous-harbinger-of-whats-yet-to-come/amp/",
+      "publishedDateTime": "2020-02-14T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F664664484%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7000%26cropY1%3D166%26cropY2%3D4831",
+          "width": 1200,
+          "height": 800,
+          "title": "Hypodermic Needles Left In Self-Driving Cars Is An Ominous Harbinger Of What’s To Come",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-the-ai-pivot-how-the-push-to-adopt-the-advanced-tech-is-rippling-through-corporate-america.md",
+      "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
+      "excerpt": "IBM is using its AI star Watson to pinpoint salaries and coach employees. Here are 9 robot tools that could one day find their way to your office. The biggest AI opportunities in the workplace ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies",
+      "ampWebUrl": "https://www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/artificial-intelligence-how-the-tech-is-rippling-through-companies?amp",
+      "publishedDateTime": "2020-02-14T05:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5db72f2fdee01921b60cfabb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "THE AI PIVOT: How the push to adopt the advanced tech is rippling through corporate America",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-how-to-avoid-another-ai-winter.md",
+      "title": "How To Avoid Another AI Winter",
+      "excerpt": "over the past few years, many of us remember the AI winter in the 1990s, which resulted from overinflated promises by developers and unnaturally high expectations from end users. Now, industry insiders,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/amp/",
+      "publishedDateTime": "2020-02-14T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1043917898/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Avoid Another AI Winter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-yandex-claims-2-million-self-driving-car-miles-double-in-4-months.md",
+      "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
+      "excerpt": "The Russian tech titan revealed the latest milestone in its Q4 2019 financials earlier today. Yandex’s on-demand transport subsidiary Yandex.Taxi unveiled its self-driving car program back in May, 2017, and shortly after it began piloting the vehicles on Moscow’s roads. In the intervening years, the company has expanded its fleet across ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/yandex-claims-2-million-self-driving-car-miles-double-in-4-months/amp/",
+      "publishedDateTime": "2020-02-14T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Yandex_self-driving_Hyundai_Sonata_6.jpg?fit=1920%2C1280&strip=all",
+          "width": 1920,
+          "height": 1280,
+          "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
+      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
+      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
+      "publishedDateTime": "2020-02-14T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
+          "width": 600,
+          "height": 315,
+          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-ai-helps-diagnose-coronavirus.md",
+      "title": "AI Helps Diagnose Coronavirus",
+      "excerpt": "Medical workers on the front lines of the coronavirus outbreak are under pressure to quickly diagnose people who are infected. Experts say medical-imaging equipment embedded with artificial intelligence is starting to aid them in their work.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-helps-diagnose-coronavirus-11581676202",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-154475/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Helps Diagnose Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-man-arrested-for-brake-checking-waymo-self-driving-van-causing-crash.md",
+      "title": "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash",
+      "excerpt": "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.caranddriver.com/news/a30929221/waymo-self-driving-crash-arrest/",
+      "ampWebUrl": "https://www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/",
+      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/",
+      "publishedDateTime": "2020-02-13T22:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Car and Driver",
+        "domain": "caranddriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/waymo-minivan-4-1532617122.jpg?crop=0.574xw:0.469xh;0.229xw,0.526xh&resize=1200:*",
+          "width": 1200,
+          "height": 599,
+          "title": "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
+      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
+      "publishedDateTime": "2020-02-13T21:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
+          "width": 1200,
+          "height": 1058,
+          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
+      "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
+      "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-from-process-automation-to-autonomous-process.md",
+      "title": "From Process Automation To Autonomous Process",
+      "excerpt": "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/",
+      "publishedDateTime": "2020-02-13T21:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f554a78b3f4000623f36b%2F0x0.jpg",
+          "width": 1200,
+          "height": 742,
+          "title": "From Process Automation To Autonomous Process",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-ex-waymo-driver-accused-of-causing-self-driving-van-to-crash.md",
+      "title": "Ex-Waymo driver accused of causing self-driving van to crash",
+      "excerpt": "PHOENIX — Ex-Waymo driver accused of causing self-driving van to crash Tempe police said Raymond Tang, 31, was booked into jail Wednesday night and is facing felony charges of aggravated assault and criminal damage,",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/ex-waymo-driver-accused-of-causing-self-driving-van-to-crash-2020-02-13",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/0A09C846-4EDF-11EA-833C-A3261B110A22",
+      "publishedDateTime": "2020-02-13T20:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-HD183_waymo_ZH_20190201153208.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "Ex-Waymo driver accused of causing self-driving van to crash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
       "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
       "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
@@ -506,765 +1293,6 @@
         "AI",
         "Facebook AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-ai-in-telecommunication-market-outlook-big-expectations-to-watch-for.md",
-      "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
-      "excerpt": "The Latest research study released by HTF MI \"Global AI in Telecommunication Market\" with 100+ pages of analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-outlook-big-expectations-to-watch-for-2020-02-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Telecommunication Market Outlook: Big Expectations to Watch For",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-senators-introduce-facial-recognition-bill-proposing-moratorium-on-government-use.md",
-      "title": "Senators introduce facial recognition bill proposing moratorium on government use",
-      "excerpt": "Two Democratic senators introduced a bill on Wednesday that would place a moratorium on the use of facial recognition technology by the federal government. Sen. Jeff Merkley (D-Ore.) and Sen. Cory Booker (D-N.J.) introduced the Ethical Use of Facial Recognition Act. Besides placing a moratorium on the federal government’s use of the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/",
-      "ampWebUrl": "https://www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/layer8/facial-recognition-moratorium-bill-merkley-booker/?amp",
-      "publishedDateTime": "2020-02-13T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/02/Facial-Recognition-Bill-Congress-Merkley-Booker-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Senators introduce facial recognition bill proposing moratorium on government use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-intuition-robotics-raises-36m-for-cognitive-agents-for-seniors-smart-vehicles.md",
-      "title": "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles",
-      "excerpt": "Intuition Robotics Ltd., which has been developing cognitive agents to interact with ... as well as socially engaged. The company’s “Q” cognitive artificial intelligence product, which powers EllliQ, is available to third parties, starting with automakers. “This investment will fuel the evolution of agents from utilitarian digital ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/intuition-robotics-series-b-cognitive-agents/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/ElliQ_3-1024x773-1.jpg",
-          "width": 1024,
-          "height": 773,
-          "title": "Intuition Robotics raises $36M for cognitive agents for seniors, smart vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-ai-makes-it-easy-for-hr-to-identify-at-risk-employees.md",
-      "title": "AI makes it easy for HR to identify at-risk employees",
-      "excerpt": "Steve Beauchamp, CEO of Paylocity, sits down with Tonya Hall to learn more about how AI is making it easier for HR staff to identify at-risk employees in order to improve employee engagement.",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ai-makes-it-easy-for-hr-to-identify-at-risk-employees/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/13/4e4cd8eb-2afd-473d-975b-c13946cf39b2/thumbnail/770x578/094ffc6030460ffa872f164fae6023d2/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "AI makes it easy for HR to identify at-risk employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-ai-tool-can-now-update-outdated-wikipedia-content.md",
-      "title": "AI tool can now update outdated Wikipedia content",
-      "excerpt": "Researchers at MIT have developed a system that can automatically update outdated and factually inconsistent data in Wikipedia articles. The automated tool ... structured sentences and relevant Wikipedia sentences, to train the AI system. As a result, it is now able to identify the redundant information then rewrite it without much human ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ai-tool-can-now-update-outdated-wikipedia-content",
-      "publishedDateTime": "2020-02-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/wfYVuuRm4LZTk8h6thKDYN-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "AI tool can now update outdated Wikipedia content",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-inside-the-secret-committees-that-quietly-run-the-grammy-awards.md",
-      "title": "Inside the ‘Secret Committees’ That Quietly Run the Grammy Awards",
-      "excerpt": "While neither Dugan nor any other industry figure has released the names of those artists, sources say her allegations are in line with what they have witnessed in the past. The music industry has long raised ... nominations review committee are artists themselves. There are no label folks in those rooms or anything like that.",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/amp/",
-      "publishedDateTime": "2020-02-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2020/01/6352473xW.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "Inside the ‘Secret Committees’ That Quietly Run the Grammy Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
-      "title": "92% of tech insiders have a strong appetite for AI",
-      "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
-      "publishedDateTime": "2020-02-13T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/12/e489d2ed-5267-48e2-9d94-fdc40d8903b5/resize/1200x/0d790acc1783bdab873249f6ba95689f/ai-guy-holding-tablet.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "92% of tech insiders have a strong appetite for AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
-      "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
-      "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all/",
-      "publishedDateTime": "2020-02-13T05:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/13/824a2dee-ba6c-4be0-a012-abbe00e0f75a/stuart-russell-feb-2020.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-humanlike-ai-gimmick-or-glimpse-of-the-future.md",
-      "title": "Humanlike AI: Gimmick Or Glimpse Of The Future?",
-      "excerpt": "The future is likely to include AI assistants who not only look like us, but also sound like us and interact with us in very human ways.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/humanlike-ai-gimmick-or-glimpse-of-the-future/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/humanlike-ai-gimmick-or-glimpse-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/13/humanlike-ai-gimmick-or-glimpse-of-the-future/amp/",
-      "publishedDateTime": "2020-02-13T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/578183815/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "Humanlike AI: Gimmick Or Glimpse Of The Future?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-the-open-wearables-initiative-expands-founding-team-begins-soliciting-algorithms-and-datasets-for-wearable-and-connected-health-technologies.md",
-      "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
-      "excerpt": "Its goal is to provide the industry with a searchable database of benchmarked algorithms and source code that can be freely used by everyone ... researchers who use our wearable sensors for healthcare applications and encouraging them to register their algorithms and datasets with OWEAR as well,\" said Geoffrey Gill, president of Shimmer ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-02/rhsl-tow021220.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/224124_web.jpg",
-          "width": 1440,
-          "height": 957,
-          "title": "The Open Wearables Initiative expands founding team; begins soliciting algorithms and datasets for wearable and connected health technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
-      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "publishedDateTime": "2020-02-13T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
-          "width": 600,
-          "height": 315,
-          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-itsm-what-is-demanded-for-an-ai-service-desk.md",
-      "title": "ITSM+: What Is Demanded For An AI Service Desk",
-      "excerpt": "Any enterprise can embrace the ITSM+ transformational journey irrespective of their size, level of deployed automation and personnel on staff.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/13/itsm-what-is-demanded-for-an-ai-service-desk/amp/",
-      "publishedDateTime": "2020-02-13T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152157066/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "ITSM+: What Is Demanded For An AI Service Desk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone.md",
-      "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
-      "excerpt": "Israeli robotics startup Intuition Robotics has raised $36 million in a series B round of funding co-led by Sparx Group and OurCrowd, with participation from Samsung Next, Toyota AI Ventures, Bloomberg Beta, iRobot, Sompo Holdings, Union Tech Ventures, Happiness Capital, and Capital Point. Founded in 2015, Intuition Robotics is creating what ...",
-      "heat": 298,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/intuition-robotics-raises-36-million-to-bring-ai-companions-to-everyone/amp/",
-      "publishedDateTime": "2020-02-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/07/still_002.png?fit=1270%2C748&strip=all",
-          "width": 1270,
-          "height": 748,
-          "title": "Intuition Robotics raises $36 million to bring AI companions to everyone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-senate-bill-would-place-a-moratorium-on-feds-using-facial-recognition.md",
-      "title": "Senate bill would place a moratorium on feds using facial recognition",
-      "excerpt": "First, a 13 member commission would try to establish some guidelines on its use. Facial recognition is being used by more agencies than ever, even as its accuracy and impact remain unclear. Several local governments have already taken steps to stop law enforcement from using it in various ways, and a bill introduced by two US senators seeks to ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/13/ethical-use-of-ai-act-facial-recognition/",
-      "publishedDateTime": "2020-02-12T23:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3750%252C2199%252C0%252C87%26quality%3D85%26format%3Djpg%26resize%3D1600%252C938%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252F13cdbc50-4e28-11ea-af76-05ffda135652%26client%3Da1acac3e1b3290917d92%26signature%3D0481885756e5df58466c02a0c4b77093553bc031&client=amp-blogside-v2&signature=f8f6c4395bba8a560c86317e4de100dad55191c3",
-          "width": 600,
-          "height": 350,
-          "title": "Senate bill would place a moratorium on feds using facial recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-esteban-granero-aiming-to-bring-artificial-intelligence-into-football.md",
-      "title": "Esteban Granero aiming to bring artificial intelligence into football",
-      "excerpt": "But it is as a pioneer in artificial intelligence that the 32-year-old hopes to make his most lasting impression on football. For the last five years, at the same time as representing Real Sociedad, Espanyol and Marbella FC as a player, Granero, who previously had a spell in the Premier League with QPR, has been working as the founder and CEO ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.skysports.com/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "ampWebUrl": "https://www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "cdnAmpWebUrl": "https://www-skysports-com.cdn.ampproject.org/c/s/www.skysports.com/amp/football/news/11095/11932406/esteban-granero-aiming-to-bring-artificial-intelligence-into-football",
-      "publishedDateTime": "2020-02-12T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky Sports",
-        "domain": "skysports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e0.365dm.com/20/02/1600x900/skysports-esteban-granero-espanyol_4917382.jpg?20200211164937",
-          "width": 1600,
-          "height": 900,
-          "title": "Esteban Granero aiming to bring artificial intelligence into football",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-xmos-unveils-xcoreai-a-powerful-chip-designed-for-ai-processing-at-the-edge.md",
-      "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
-      "excerpt": "With seed funding from the University of Bristol enterprise fund and the Wyvern seed fund as well as Amadeus Capital Partners, DJF Espirit, and Foundation Capital, the startup set about developing processor technology ... spinning off its Graphcore division focused on server-side AI. The following three years culminated in the release of ...",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/12/xmos-unveils-xcore-ai-a-powerful-chip-designed-for-ai-processing-at-the-edge/amp/",
-      "publishedDateTime": "2020-02-12T20:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/blockchain_database-e1573158651295.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "XMOS unveils Xcore.ai, a powerful chip designed for AI processing at the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai.md",
-      "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-      "excerpt": "As AI permeates the home, work, and public life, it’s increasingly important to be able to understand why and how it makes its decisions. Explainable AI isn’t just a matter of hitting a switch, though; Experts from UC Berkeley, SRI, and Fiddler Labs will discuss how we should go about it on stage at TC Sessions: Robotics+AI on March 3. What ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/fiddler-labs-sri-and-berkeley-experts-open-up-the-black-box-of-machine-learning-at-tc-sessions-roboticsai/amp/",
-      "publishedDateTime": "2020-02-12T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/fiddler_images.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Fiddler Labs, SRI and Berkeley experts open up the black box of machine learning at TC Sessions: Robotics+AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-reviewing-ai-powered-contract-management-software-evisort.md",
-      "title": "Reviewing AI Powered Contract Management Software Evisort",
-      "excerpt": "This flexibility means the company has the potential to work with businesses outside of the legal industry which is new for an AI document review organization. Evisort can deal with contracts across multiple languages better than its competition by using machine learning support translation services. Machine learning allows the software to ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html",
-      "ampWebUrl": "https://www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
-      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/02/review-ai-powered-contract-management-software-evisort.html/amp",
-      "publishedDateTime": "2020-02-12T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techworm.net",
-        "domain": "techworm.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.techworm.net/wp-content/uploads/2020/02/evisort.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Reviewing AI Powered Contract Management Software Evisort",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

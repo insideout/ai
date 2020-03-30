@@ -5,8 +5,8 @@ excerpt: "Over-fitting and imbalanced data are common pitfalls when you build ma
 publishedDateTime: 2020-03-30T05:21:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/machine-learning/concept-manage-ml-pitfalls"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,12 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+
+images:
+  - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
+    width: 400
+    height: 400
+    title: "Manage ML pitfalls with automated machine learning"
 
 secured: "JKenJxPepYxGDx66mHPvcI4vB0IZz6d2HLC5WqubMvhI66bcjW/9qT9XuMxCZFT4PiEuzzTmUQpF+UjDiaig8ZR/zd+cZvC/GnwzRcN4vYkNoRS2bnbp7C5QuWT630Q6GPzVKgjqYMR0etH4SiziDDs2aS8NSl2tkGFh8s/h4ICF8QzdRvhSjKQs/iw7A4YbQKEGY3Pn5H7G2Il4Uks9Sfe9OHA6YCWA3By+0geh5E05kV/amH/Tv0YGrWZUK9QSopKcNldBNAnyg0J63vkwSk7pSFMMprioK5zb+SdML10Z3NFkjM8qOv+DPmEFsdC7;JovVX3uTel/2nW49sPmUJg=="
 ---

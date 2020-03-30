@@ -4,8 +4,10 @@ title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition
 excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
 publishedDateTime: 2020-03-30T15:13:00Z
 webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 type: article
-quality: 46
+quality: 86
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize"
+    width: 1200
+    height: 800
+    title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
 
 related:
   - title: "Microsoft pulls its smaller investments in facial recognition tech"
@@ -94,6 +102,6 @@ related:
       domain: digitaltrends.com
     quality: 69
 
-secured: "ZPi5wJY7i3KmlnpbwxnhENkw9vlX4JEVFRyFd/d4ddelkPmiAlkOC2uJ+QrgffF785egke6M4bHKW2gd2/yHcyM/rawoe//XtY8o3MA84hYQLOgQVxHNHIC337CxEYcbKdZYLc5GHb50QmBE0ysEFvhSBvbbwTuaipgdKSkKm6J40D51RmS5o93BbAuXP4Iq/frHcRdvrarqKncQ3SCBv1S2EN8OkzpVwaylNFM++yeJoIfiLCju2CdqcxOoSbVHSYQzdXziy33wnIg4bPZyDVSL6GttCrvHMDSOEOO/cPYoyToYlLGOYJz/MW4dL36gPhSFJbhPdOQAzNF6Su0QuDbuyUV3PAd2t1NK7y8fysMAg8N3Lf6X/v8zgqdjU6mMd3/8fEcEaEhhXB0szSaOuxXXrfqcRVvx9+uvHoc7TiEdexCgR/kEIpurnXJrRFKfig20L9S7RCWBLhiDPTUSAS04o1qL2oUARfRdgYcbjwk=;s1a2HHVI30UsPkEOGf0zrw=="
+secured: "7qP2liSu4mibfVgvNuesdon0yK8o4henpwhu6O5TdXCuCo9yP4gd66vAp9UDhApvUN9vGbR4n2/sNZM7VaPf1iPBhPd+taeWNpUIyA0ZNnYKzkSJHr4QWVD11SIC4whK5Ilh/JnIas2+TxzFYcmxcUGdP73feOwLh9/Xv+xVScXw7ZEb+8x3W48zGduGrJ8EFdFKjv6k5BAQ0GuEhtQKoE7T3B9NrqfmaQ9FNOFa2PYByNZpo8m46XMRamh3mRciI+FtlFR0SxFgw4tIyNBpZYDohKvIYdjwrul12ltt2GxFgV83r71KUcE8e9E9Vdg9sSwxOHqOX8KDgVhW0WNPUU385GFFteA28Fk+f3d6DM7Tp6adpp4YSIS6EDLwS4uVmpCzrXC0IqLX0BuTNk56jnJsudJ1/J2JH4SgdIY1sn9Xp71/+tJyDfR2H4KORPyPJOUlRQgFw9ELf9+yjs9jq9bcSUq+AKwIIM6yTwz+mqs=;uWx7scKdIm0aRq0E7oCxFg=="
 ---
 

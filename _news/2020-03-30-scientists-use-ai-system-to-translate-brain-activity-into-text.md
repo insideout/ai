@@ -2,7 +2,7 @@
 category: news
 title: "Scientists use AI system to translate brain activity into text"
 excerpt: "A new AI system that converts brain activity into text could transform communication for people who can’t speak or type. The mind-reading machine uses brain implants to track what neurons do when someone speaks. An algorithm then converts the data into a string of numbers, which another system then translates into a sequence of words."
-publishedDateTime: 2020-03-30T17:43:00Z
+publishedDateTime: 2020-03-30T17:39:00Z
 webUrl: "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/"
 ampWebUrl: "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/"
@@ -52,8 +52,12 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/03/30125337/gettyimages-692654376_web.jpg"
+        width: 1200
+        height: 800
 
-secured: "AKLUPSPbC116hrNUPjCbG9JnM5A/B5LJbnB9J4CiLHavOHatyyBMgLZCG1DTQaex7v2M+TbMXKHvGvZO8nG7/3o3hK9yF8pGUx2XlnBes/of1PymVTLQ3sUNZ74ba9YpWb2HnVV2q/L7uV6YCfEr/L3QDjCWXVUReJwQy8RwgQCjWmQbhdZwiYf5EGq7FWayFmkf2GsvUxKfu9SYpDl0L9KA2rZPbLxUSUUBrytoKV1xkDJP74o42ZR3bWWxlYRfPWbQho0eYTTKr8OXQNoNKB4DiZfr7KojESSovKrcUmdCU1hVz8uXnHlZOIpf5EXB;jBiW0ENbG0p5laLfPCfy4w=="
+secured: "lIJm/VggurhCIkMeE2FFJFmAPX/9JaYWq6yT1CcAK0hkkizDG5IPbn4TvsUA7JEumRkv+sawXMOvZg/kgmNTa8op8/bGu4dzcbN0l5ZhbaCJQW7v/dN6FXuFgE0MgTJZW+L8tYfvpgHFOvvTKNZz+nWcqFieVsGpFlvPoFclt7Anl3NLgDP6//VN+LCWxxC6RBnLaWDyq0jGAyXebRhEvYq6rAYCX5OXiad7WYEbSppcEb9OTf+gqNmjLXU5hoZVcTx3C0PJjyqvvKryfkLP15ibAf9gZzBzU3B/e0frvauL7bGE8iSLvVnwJ3yu9bIGyh7fLx1AnVsQQsQoTbCF5kuaMWo3xHteSwYGtX9LY99dIP5I7MvWiWvb1bVa2Jkv22H0E8QfS431pAMHoWeMiA2K3rBsR5h0BGzjx6J6aC0425PXh006E/lhPGcff3uN/ERZJafUnOhZZ32IU4+HQjUF954Y63uGqNtkV60Lof0=;c+IknghmaH6+F5icmJXDtQ=="
 ---
 

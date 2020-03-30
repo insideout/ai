@@ -4,10 +4,12 @@ title: "Office 365 becomes Microsoft 365, adds features and the power of AI"
 excerpt: "Microsoft is unveiling big changes to its Office 365 product, the company said Monday, starting with a name change: Office 365 is now Microsoft 365, a change meant to signify to consumers that more of Microsoft is coming in the subscription service, such as tech support and the power of AI. The company is using AI to create new tools ..."
 publishedDateTime: 2020-03-30T15:30:00Z
 webUrl: "https://www.digitaltrends.com/computing/microsoft-365-update-2020/"
+ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-365-update-2020/?amp"
+cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-365-update-2020/?amp"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: Digital Trends
@@ -20,17 +22,29 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://icdn5.digitaltrends.com/image/digitaltrends/office-app-android-featured-image-1200x630-c-ar1.91.jpg"
+    width: 1200
+    height: 628
+    title: "Office 365 becomes Microsoft 365, adds features and the power of AI"
+
 related:
   - title: "Microsoft 365 subscription offers AI assistance in Word, PowerPoint"
     excerpt: "Microsoft 365 provides access to a collection of extra tools on top of what is currently offered as part of Office 365. The new elements largely aim to provide AI-based assistance to customers, as well as other extra features. For writers, Microsoft Editor will tell users how to improve their text by changing grammar and proposing structural ..."
     publishedDateTime: 2020-03-30T15:59:00Z
     webUrl: "https://appleinsider.com/articles/20/03/30/microsoft-365-subscription-offers-ai-assistance-in-word-powerpoint"
+    ampWebUrl: "https://appleinsider.com/articles/20/03/30/microsoft-365-subscription-offers-ai-assistance-in-word-powerpoint/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/03/30/microsoft-365-subscription-offers-ai-assistance-in-word-powerpoint/amp/"
     type: article
     provider:
       name: AppleInsider
       domain: appleinsider.com
-    quality: 17
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/35148-64183-microsoft-word-editor-l.jpg"
+        width: 660
+        height: 371
 
-secured: "F3MOjdsA5U2LtOMVu5NTBqhahVVGorYzJCM/IQ26zv/HxVczZahL/ni7fkvFPHwDhKXg7vGc8gxp0i4Bs0cXGyEPftKge0Sz9x5TM/6/mswCiCb1C3sLCD2tfai/pkf4/+3gcfVwxcOm3XvT8Ok5IScASvax3MCo+Voo7KcD6hQdk4RZhku+1VOHakGa/KsD9uil+jq9rXFV4Y7Sro+i9+sKYa0E8/VU+xlSA/dALy9OuJsl/D//fIEBSmgoTncSgWWn+simlHDWngy3Rp8EmpSejySo9T92A67wQsbCpb7Ecc3JgySWk1wmGwsK+ketTtzIjZJLoygqtD1NuDO5ocMUsTvnrpqryxOL+B3YRINirv4vTRNmfWsBp22Bv8HP3hF2ZSVjwYkvO+/1/rbt9DNr3uTmyBynWeYYDnywaoUlAHWNTAj75dYfow9wM59ypl1OgL7zxm6u53ZoAj9OZypUQbu7iEzsPtyzPT0vRd8=;oUCbdAKqSVUUc74gYSE0EA=="
+secured: "c0pP96k8lT1xsw6MNAQR3T8aIsWaNTu2AnVxx0R73EbCx3hzVJts/Rrdq4AJyjtDnPtEJHIWqfJv5Jyz+Hj6fWoDNvx4vVJ4lg1awzg+VZvRdrRSgYuZJrZYH7jVDAIETguI0BFnFZXuxxYlabUZHJo3a8cIUwEuMp275rLOqFosXIu9IY6s9qwncLS+6XCshBfODI2J/QpAVPx3INGGHINoV8heRg4BrOCZ9sJ33r4DU+AReK3H2ge0/Ifc5eD8APPdEri5UGSaqPbpSsU8uoIntmr5tBtGYeIlqjYT4RFk2MwV40BBZqYOvOI2tYo6Te+lWs2KC/A16pbAf3AkB4ozbPI9n1pz9V8+WMFgwjoUaoP6LcLNmJapJPjLbAzcH4HC94Ga/vuDa4Mg3I2HcgIIgWxHHMp2x1sF0njJSORm6gJnkKSU0Lqezjk8q4FjK61QAqkptqZqeKNGO/RhMY9LY5QNJy5BJCXlMa0PPMg=;F3yWO5e4szfumadCTTpGsw=="
 ---
 

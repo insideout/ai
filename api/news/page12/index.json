@@ -2,6 +2,675 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-19-test-time-augmentation-for-deep-learning-based-cell-segmentation-on-microscopy-images.md",
+      "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
+      "excerpt": "Recent advancements in deep learning have revolutionized the way microscopy images of cells are processed. Deep learning network architectures have a large number of parameters, thus, in order to reach high accuracy,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-61808-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61808-3/MediaObjects/41598_2020_61808_Fig1_HTML.png",
+          "width": 685,
+          "height": 319,
+          "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
+      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
+      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
+          "width": 685,
+          "height": 502,
+          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
+      "title": "Explaining machine learning models to the business",
+      "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
+      "publishedDateTime": "2020-03-19T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-523692007-100648034-large3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Explaining machine learning models to the business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-artificial-intelligence-will-impact-your-business-in-2020.md",
+      "title": "How Artificial Intelligence Will Impact Your Business in 2020",
+      "excerpt": "Robotics Process Optimizations may be an unfamiliar term to some ... transcending issues that threaten to hold them back and overcoming difficulties in today’s complex business landscape. Artificial intelligence is becoming more widely used every day, and that will only increase moving forward. IDC predicts that by 2025, 75 percent of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://independentretailer.com/2020/03/19/how-artificial-intelligence-will-impact-your-business-in-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent Retailer",
+        "domain": "independentretailer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://independentretailer.com/wp-content/uploads/2020/03/artificial-intelligence-300x188.png",
+          "width": 2154,
+          "height": 1350,
+          "title": "How Artificial Intelligence Will Impact Your Business in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast.md",
+      "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
+      "excerpt": "Artificial Intelligence in Retail Market Global Artificial Intelligence in Retail Market, Application",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-artificial-intelligence-review-of-physician-notes-discerns-types-of-lower-back-pain.md",
+      "title": "Artificial intelligence review of physician notes discerns types of lower back pain",
+      "excerpt": "Researchers from the Icahn School of Medicine at Mount Sinai developed an artificial intelligence model that can scan physicians’ notes and distinguish between acute and chronic lower back pain, according to findings published in the Journal of Medical Internet Research. “Several studies have documented increases in medication prescriptions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.healio.com/rheumatology/spondyloarthropathies/news/online/{3bb9d677-4518-4e92-9f6b-a50515118222}/artificial-intelligence-review-of-physician-notes-discerns-types-of-lower-back-pain",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healio",
+        "domain": "healio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.healio.com/~/media/slack-news/stock-images/rheumatology/b/bigdata_doctor.jpg",
+          "width": 407,
+          "height": 269,
+          "title": "Artificial intelligence review of physician notes discerns types of lower back pain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-global-forecast-for-artificial-intelligence-in-supply-chains-to-2026-researchandmarketscom.md",
+      "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence In Supply Chain (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200319005265/en/Global-Forecast-Artificial-Intelligence-Supply-Chains-2026",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200319005265/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-efforts.md",
+      "title": "Alibaba Cloud offers AI platform to support coronavirus medical efforts",
+      "excerpt": "Offered for free, the video conferencing platform can perform, real-time translation via AI with support for 11 languages including Chinese, Bahasa, French, and Spanish. Alibaba's cloud revenue exceeded 10 billion yuan for the first time in a single quarter, growing 62% to hit 10.72 billion yuan for its third quarter, but the coronavirus ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alibaba-cloud-offers-ai-platform-to-support-coronavirus-medical-research/",
+      "publishedDateTime": "2020-03-19T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/48f250f2-5821-4f99-9b79-2ef061a03d36/thumbnail/1200x675/c19314592f4fa3fdec28c61ae209487c/tencent-meeting.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Alibaba Cloud offers AI platform to support coronavirus medical efforts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-facebook-covid-19-fallout-why-is-the-social-network-taking-down-legitimate-posts.md",
+      "title": "Facebook COVID-19 Fallout: Why Is The Social Network Taking Down Legitimate Posts?",
+      "excerpt": "On Monday, Facebook sent its content moderators home. By Tuesday, it was falsely flagging and removing legitimate content.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/03/18/covid-19-fallout-why-is-facebook-wrongly-removing-legitimate-content/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/03/18/covid-19-fallout-why-is-facebook-wrongly-removing-legitimate-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/03/18/covid-19-fallout-why-is-facebook-wrongly-removing-legitimate-content/amp/",
+      "publishedDateTime": "2020-03-18T23:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1190727828%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Facebook COVID-19 Fallout: Why Is The Social Network Taking Down Legitimate Posts?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-status-swot-analysis-and-forecast-to-2026.md",
+      "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
+      "excerpt": "“Natural Language Processing and Recognition Market” WiseGuyRerports.com Presents \"Global Natural Language Processing and Recognition Market Size, Status",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15587838/natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-st",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15587838",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15587838",
+      "publishedDateTime": "2020-03-18T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1584599499.jpeg",
+          "width": 720,
+          "height": 300,
+          "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
+      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T22:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mandarin",
+        "domain": "themandarin.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
+          "width": 795,
+          "height": 530,
+          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
+      "title": "Transforming surgery with data, AI, and cloud",
+      "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/apac/features/transforming-surgery-with-data-ai-and-cloud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T21:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/03/hero-1600x758.jpg",
+          "width": 1600,
+          "height": 758,
+          "title": "Transforming surgery with data, AI, and cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-due-to-coronavirus-concerns.md",
+      "title": "Self-driving car companies suspend testing due to coronavirus concerns",
+      "excerpt": "Major self-driving car companies have suspended their testing programs due to coronavirus ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the Intel Corp. owned Mobileye that conducts the majority of its testing in Israel. The country was one of the first ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/self-driving-car-companies-suspend-testing-due-coronavirus-concerns/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T19:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/1_Gikb_56-v7jI5Q8oy3wy9w.jpeg",
+          "width": 800,
+          "height": 533,
+          "title": "Self-driving car companies suspend testing due to coronavirus concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-machine-learning-powered-steam-recommendations-now-live.md",
+      "title": "Machine Learning-Powered Steam Recommendations Now Live",
+      "excerpt": "Steam has added a new tool today for recommending games to users. Steam Interactive Recommender uses machine learning to predict which games you'll enjoy based on what other people with similar taste have played. The Interactive Recommender started as a tool within Steam Labs back in July 2019, but has now become a proper feature of the store.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamespot.com/articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/machine-learning-powered-steam-recommendations-now/1100-6474947/",
+      "publishedDateTime": "2020-03-18T17:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gamespot1.cbsistatic.com/uploads/screen_large/1574/15746725/3611299-biggest-games-play-2020-most-anticipated-nologo-3.jpg",
+          "width": 640,
+          "height": 360,
+          "title": "Machine Learning-Powered Steam Recommendations Now Live",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-amazon-elastic-inference-adds-support-for-pytorch-machine-learning-models.md",
+      "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+      "excerpt": "Enhanced PyTorch libraries for EI are available by default in Amazon SageMaker, AWS Deep Learning AMIs, and AWS Deep Learning Containers, allowing developers to deploy PyTorch models in production with minimal code changes. In a blog post, Amazon explained that inference tends to account for around 90% of the compute costs for the average deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/18/amazon-elastic-inference-adds-support-pytorch-machine-learning-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T16:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/aws-logo-reinvent2018-800x537.jpg",
+          "width": 800,
+          "height": 537,
+          "title": "Amazon Elastic Inference adds support for PyTorch machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market.md",
+      "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
+      "excerpt": "The smart camera capabilities including object recognition for people, animals, and vehicles, were introduced with the HomeKit Secure Video in the previous version. The feature is expected to consist of face classification with identification for family members through smart home cameras. Other new features include Night Shift, which makes ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.biometricupdate.com/202003/fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/03/27164821/benjilock-biometric-travel-lock-by-Hampton-Products.jpeg",
+          "width": 2000,
+          "height": 2000,
+          "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
+      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
+      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SecuriMetrics HIIDE",
+        "domain": "findbiometrics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
+          "width": 851,
+          "height": 638,
+          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-ibm-working-on-greater-business-use-of-natural-language-processing.md",
       "title": "IBM Working on Greater Business Use of Natural Language Processing",
       "excerpt": "IBM today at an online event outlined a plan to bring to market new natural language processing (NLP) technology that will help computers better understand human communication and companies better communicate with their customers. The company is working on commercial applications of the NLP technology developed as part of IBM Research's Project ...",
@@ -287,675 +956,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system.md",
-      "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
-      "excerpt": "Point Roberts, WA and Vancouver, BC - March 18, 2020 (Investorideas.com Newswire) Investorideas.com (www.investorideas.com), a global investor news source covering Artificial Intelligence (AI) brings you today's edition of The AI Eye - watching stock news,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-vsblty-provides-corporate-update-and-intel-announces-readiness-of-neuromorphic-research-system-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: VSBLTY Provides Corporate Update and Intel Announces Readiness of Neuromorphic Research System",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-facebooks-own-facial-recognition-app-could-show-employees-connections-to-their-friend-list.md",
-      "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
-      "excerpt": "Facebook built a facial recognition tool that could be used by employees to scan faces of their friends who had certain features activated on the social media giant, according to a new report. Motherboard published screenshots and details about the company’s internal facial recognition tool on Wednesday. The app was created by the company ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition/?amp",
-      "publishedDateTime": "2020-03-18T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/03/zuckerberg-clearview-ai-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
-      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile ID News",
-        "domain": "mobileidworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
-      "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
-      "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002835/0/en/Delphian-Trading-Launches-AI-based-Institutional-Trading-Platform.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-cloud-struggles-suffers-small-outage-in-dallas.md",
-      "title": "IBM Cloud struggles, suffers small outage in Dallas",
-      "excerpt": "In a week filled with small outages, IBM Cloud experienced several issues on March 17. Services at its Dallas data center were degraded, with some fully going down, and others slowing or throwing up error codes. Watson AI, IBM Cloud, DB2, Event Streams, and Classic Network Infrastructure were among the services impacted. IBM spokespeople did ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datacenterdynamics.com/en/news/ibm-cloud-struggles-suffers-small-outage-dallas/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/IBM_Swallows_RedHat.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Cloud struggles, suffers small outage in Dallas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-composing-new-proteins-with-artificial-intelligence.md",
-      "title": "Composing new proteins with artificial intelligence",
-      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. “These networks learn to understand the complex language folded proteins speak at multiple time scales,” said Markus J.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sciencebulletin.org/composing-new-proteins-with-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Bulletin",
-        "domain": "sciencebulletin.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sciencebulletin.org/wp-content/uploads/2020/03/Composing-new-proteins-with-artificial-intelligence.jpg",
-          "width": 1536,
-          "height": 1286,
-          "title": "Composing new proteins with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next.md",
-      "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
-      "excerpt": "On Feb. 28, representatives from the Pontifical Academy for Life, Microsoft, IBM, FAO (UN Food and Agriculture Organization) and the Italian government signed the \"Rome Call for AI Ethics,\" a document developed to support an ethical approach to artificial intelligence. Founded in 1994, the Pontifical Academy is dedicated to study and inform on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/",
-      "ampWebUrl": "https://www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next/amp/",
-      "publishedDateTime": "2020-03-18T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-18-march-doctor-looking-at-xray-on-tablet.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-precision-medicine-pushes-demand-for-hpc-at-the-edge-ai-on-the-fly-delivers.md",
-      "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
-      "excerpt": "Parabricks, a company recently acquired by NVIDIA, has changed the paradigm and developed a GPU based solution that executes genomic analysis best practices ... generation of highly intelligent medical devices ready for field deployment. In fact, its AI on the Fly ® platforms and building blocks are being used by OEMs to build and deliver ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidehpc.com/2020/03/precision-medicine-pushes-demand-for-high-performance-computing-at-the-edge-ai-on-the-fly-delivers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2019/12/vaccine-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
-      "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
-      "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
-      "publishedDateTime": "2020-03-18T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Loihi-close-up-e1584209140290.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-85-of-organizations-are-using-ai-in-deployed-applications.md",
-      "title": "85% of organizations are using AI in deployed applications",
-      "excerpt": "For mature adopters, the need to control for interpretability and transparency of machine learning models was the second-most cited risk factor (~55%), while those still evaluating AI placed fairness, bias, and ethics (~40%) in second place. While the risks of AI can be intimidating, the benefits can be worth the risk. For all adopters ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/85-of-organizations-are-using-ai-in-deployed-applications/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/85-of-organizations-are-using-ai-in-deployed-applications/",
-      "publishedDateTime": "2020-03-18T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/12/30/1d648c0f-4760-4136-b873-d81d41107963/resize/1200x/0ca267f50dad0a49084f5dcccb3c2b75/istock-1167065891.jpg",
-          "width": 1200,
-          "height": 791,
-          "title": "85% of organizations are using AI in deployed applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-finastra-appoints-gary-e-bischoping-jr-as-chief-financial-officer.md",
-      "title": "Finastra Appoints Gary E. Bischoping, Jr. as Chief Financial Officer",
-      "excerpt": "/PRNewswire/ -- Finastra has appointed Gary E. Bischoping, Jr. as Chief Financial Officer (CFO), effective March 16, 2020. Based at Finastra's headquarters",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/finastra-appoints-gary-e-bischoping-jr-as-chief-financial-officer-301026161.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1135264/Finastra_Gary_CFO.jpg?p=facebook",
-          "width": 2941,
-          "height": 1539,
-          "title": "Finastra Appoints Gary E. Bischoping, Jr. as Chief Financial Officer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast.md",
-      "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
-      "excerpt": "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
-      "title": "Is Python storming ahead of Java in fintech?",
-      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is Python storming ahead of Java in fintech?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
-      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
-      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
-      "title": "Specialized processors accelerate endpoint AI workloads",
-      "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded.com/specialized-processors-accelerate-endpoint-ai-workloads/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/03/img20200318091424Top-10-processors-for-AI-acceler_0.jpg?resize=1024,576",
-          "width": 1024,
-          "height": 576,
-          "title": "Specialized processors accelerate endpoint AI workloads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027.md",
-      "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

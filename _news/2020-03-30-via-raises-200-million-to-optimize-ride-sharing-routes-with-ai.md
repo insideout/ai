@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Via raises $200 million to optimize ride-sharing routes with AI"
-excerpt: "Transportation startup Via today announced that it’s raised $200 million in series E financing ... and Malt. Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction, ostensibly reducing urban congestion and emissions while providing a lower cost mobility service."
-publishedDateTime: 2020-03-30T17:47:00Z
+excerpt: "Transportation startup Via today announced that it’s raised ... Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction ..."
+publishedDateTime: 2020-03-30T17:45:00Z
 webUrl: "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/"
 ampWebUrl: "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/"
@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Via raises $200 million to optimize ride-sharing routes with AI"
 
-secured: "jPHF+V5a9SY4IBDwYi1W4VSjHVjxcN0i6eNrnYkH6c0IvvLqyS86rAngzV2AHKkVbEa29ptj2lfG2+DkfQfnkeyLn30bKYEZ4Q/IyhkoZoyqp/JyuaEQ7+bN9UPq33OQVMz4QVozI/I+Ys3fOIKGNO791MK/LGsrdUsTtJ3FnYtFYpuAA1Ct6xO9iywzG81acm19SyH4JMil1+NdbnCUrcjOBC7h74tbxi738wKjHqraQQ2f8DkAqaCL62be7qXN8S37GhWgv2WjQTK6yGIYqhcvdTA4lDFs3tH1JMF0J1NmOg6GAWMHJkbiGKcCtqQn;seM1noC/g4aHzvE/b0onnw=="
+secured: "MJmVPQ7wAy3M7DCg1ZWnNt3c8RjI1Rxi+1Y91CgibhlLPIiiFOYmCOpcbw65xMcqLFcdK7pSYKqWdRolkyCN2jo7Lep9F3u/gEV0Ho+zrDC3hJ12QgQz1TVP1ViiFE8BJa2EQ3m80c/oDbUIRkScl8LFQIKpqa9kLIVjcPc3EGgOrOJYDqx0TUQ1VQLz31EyzwFItDcyi3A6Asbs3WqaMyyrYIp1UnP4LrIIhB1gBLr9qMGSYAdE5/+pHLh9HlN7F22KbNgeUOZZynx5O83ycQWqjXrrg/1qA6SuYnblnXtovApua/1r5ovP2omRQQpMb6AePu9yR+cHjPl6uTintT898KPB5UCSoGm8uHA4QvcmTpYtB0x1BzDgRK1A/kGupKaqyiTgdz+z0ey/SAkhomQpiWOrkwYjIenQmwhZpUnBBTXt0uLgES4JOnWoosuUZsVWE2PyCuicXNmF6QlwPtV3FIz+opMkf3tMeoEua3o=;ELtcp+eL8SC4/CZ7r6mFmA=="
 ---
 

@@ -5,7 +5,7 @@ excerpt: "Today WekaIO announced that The Business Intelligence Group has named 
 publishedDateTime: 2020-03-27T16:22:00Z
 webUrl: "https://insidehpc.com/tag/artificial-intelligence-excellence-awards/"
 type: article
-quality: 17
+quality: 37
 heat: -1
 published: false
 
@@ -16,21 +16,68 @@ provider:
 topics:
   - AI
 
+images:
+  - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
+    width: 325
+    height: 325
+    title: "Artificial Intelligence Excellence Awards"
+
 related:
-  - title: "WekaIO Receives Artificial Intelligence Excellence Award"
-    excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program ... able to deliver paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh Manjrekar, head ..."
-    publishedDateTime: 2020-03-27T16:14:00Z
-    webUrl: "https://insidehpc.com/2020/03/wekaio-receives-artificial-intelligence-excellence-award/"
+  - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "Marketing Technology News: Marketing Veteran Connie Glover Named as the New VP of Marketing and Communications by TeamSupport The Artificial Intelligence Excellence Awards recognizes organizations, products and people who bring AI to life and apply it to solve real problems. Some text in the modal."
+    publishedDateTime: 2020-03-30T13:31:00Z
+    webUrl: "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/"
+    ampWebUrl: "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/"
+    cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
+      name: MarTech Advisor
+      domain: martechadvisor.com
+    quality: 57
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/03/AI-ExcellenceAward-2020.jpg"
-        width: 485
-        height: 479
+      - url: "https://images.martechadvisor.com/images/uploads/content_images/aarki_named_winner_in_2020_artificial_intelligence_excellence_awards_5e81a3817b80d.jpg"
+        width: 786
+        height: 393
+  - title: "Weka Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "The latest episode of the This Week in HPC podcast features Carlo Cavazzoni, a senior staff member at CINECA, one of the leading supercomputing organizations in Europe. Intersect360 Research's Addison Snell spoke to Cavazzoni to discuss both CINECA's work using supercomputing to combat COVID-19 and Cavazzoni's personal experience living near ..."
+    publishedDateTime: 2020-03-26T16:26:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/weka-named-winner-in-2020-artificial-intelligence-excellence-awards/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 39
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x-405x228.jpg"
+        width: 405
+        height: 228
+  - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
+    publishedDateTime: 2020-03-26T17:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards-301030407.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1138061/Aarki_Award.jpg?p=facebook"
+        width: 1800
+        height: 942
+  - title: "Veritone Wins 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "COSTA MESA, Calif.--(BUSINESS WIRE)--Veritone Inc. (NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2020 Artificial Intelligence Excellence Awards program for its applications Veritone IDentify and ..."
+    publishedDateTime: 2020-03-27T12:26:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200327005079/en/Veritone-Wins-2020-Artificial-Intelligence-Excellence-Awards"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20200327005079/en/781909/23/veritone_logo.jpg"
+        width: 1200
+        height: 627
 
-secured: "9uGdxIiZVaxzOAfH8e4lmWDtVAWiw/1MVatswnHxDAiAGnakuI0gpxOt0R2jf1EX6Cm9I0AX9+9HYCgH8+7jdMxQAYkG6X2ZxXWE13t2zmGx9X0oPYIeBabsq+hG08Cur/sgbAL4iV8DUEHIAiAJT8Jo5asdSciIPMbjiX6VPSzpVIcggsNi65x9FkuNH6+MMp16qb7uhjPZSF67j75NVLcZpDyG2+r3zrIDOueBxmxZeu5FYRAK9Pt7r1rGl2WtuqS17PHYYPn9GKt0c3oEFf7GJ+a2bBtNkk8LLHOSoTpVHuklHv80ITeTo21cd1pVRrXWafTddbUm8vwaBvYYI21RQf2f33QHhQgCMfc57EZhpkrFTEf12H/FLe9n1cGH03PwfHKxnkXDTw1TWerqyXU2CK76hnMjnc7PF3dligQy7hZ9ZH4B6Npvk3ML5xzkrVYyQX3ZNM3wc5n6ihTP+vrO4FHImcdyeLjWToySawc=;exG+n5UpCk3LtVK+c5mm8w=="
+secured: "RLbtHg1PD7uYj5J3BaXEMrYpXcwQKlmoHBcwyhMdaqhG6NTcl46mQZvHMcPsnMuAFGHAzfUnT+356RI6YHJewX/un7wQeOZ5N+MPPCNij6TQ1qzo/EwBd9drpkAGdZM7hv5sc+yLD7mpjtBbRXyHB5JyY6GDWo/7NVkuIVRyWSLgZDjW2FFCkCGvId3brMm2mvccWmzSJldXv4ODthoF3ZYW5pmP1X9TdCiTUQYwLN9DYqXdZe/rAsYlIyrHWP2K2xoafHHOPYeW1YRfQP8iIYQGE8XT7h9IKAbCNzTWbhtlZy59+fPlvSUXAvI4ZbtG;w3cZ+lVQF04LZULdJj079w=="
 ---
 

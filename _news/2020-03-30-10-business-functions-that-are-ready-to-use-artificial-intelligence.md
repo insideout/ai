@@ -4,10 +4,12 @@ title: "10 Business Functions That Are Ready To Use Artificial Intelligence"
 excerpt: "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured."
 publishedDateTime: 2020-03-30T04:36:00Z
 webUrl: "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -21,6 +23,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "9/T9Ov0Mv5t2qtJ89b2cVndlnqGG7Zs74TgAvJZYuXilQa+UR/woHGiDXJn4PrbDokqKCyfJuv2TUY/Y1LCPMbpc69szme/lYIRYM3f5pe6kR3OCqirCGvDgDqi/qbfbS/jmF03I+HyhbhHfZ5FkUczohtJobLZUH+v5a/H9/M8FSfZ31ac3ZDqJhy1C5D3uot4zAokYvLmZ4r+6h8Saf7paY4yNunjWyl/pJHh+vDstET0M4vqsgagBeoEsipdxvO5p8UT5qYhu18CSoiHiqywL1r5m0z1WRqJOun7kJrJI01S0yuuaAR7TxMWPV8a3YqbBLgm51fYBjooV9FyEi/mS5BMcvqBNZbseP4QpnX+rg8sYGqr4PMzkWJnIwv6R2ZmTeP4Nwg/3YFe3SQawwR/UF/eEhYhYdzYmqHJZb6ewdZD2vLOg9TDbHFtj2ytbfirVoIL8sjcTaj59jn9LkWPkN0n52FztQE9U6me28vQ=;PFwDckQ9x2LXD9JgtEpcnA=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81761ea1a0ef0007d89a39%2F0x0.jpg%3FcropX1%3D406%26cropX2%3D2635%26cropY1%3D0%26cropY2%3D1254"
+    width: 1200
+    height: 675
+    title: "10 Business Functions That Are Ready To Use Artificial Intelligence"
+
+secured: "Qq8oKQFM+xckQGKlhDUaR0+3Qw7m1Is+IJUy1eyqMAIE2MEblML4Br4ilSPAAMMHwxiPUcO35dmaz2HDyeZ2WxL2pN1z+v91iC8EotZv9WcHamENkuJTK9brVjkUEo/wPaXx9NfSf/8OhhdS0fiSmNY08aXWf08l08XRlKR/+ib4Gqb+Tw/CqN9GOdHwkv81G0+fM0+AhTM57U4Q2734gVBQ/5xoPm4EfsrlR3edontquM+5sfjmo64kl0II5QBwppLhL22vZjoCNmkT1rFwN4nxV28yacs7zxDdOowvVfN3KRZyqcq7wwyeC0QY+/gLrFQazBWLDxw0XwJFgBBBCVKfKSVN3qs6bMD8vr79Q7D6HXZR2fkiC+LMURLYVi73VAfchf8C/tZVKq7Zucqdce2ERPp7CRwFCYAYC0VKaA1+pYp5th0sWesRc6h2d0ElcuCl/dhta6pDiu20t+rt+xZ1WZ4zGnU1h7R72hqaW9w=;RJbOLbXsY8tEO635lWBaSw=="
 ---
 

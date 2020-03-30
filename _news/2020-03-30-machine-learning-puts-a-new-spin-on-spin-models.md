@@ -4,8 +4,10 @@ title: "Machine learning puts a new spin on spin models"
 excerpt: "Researchers from Tokyo Metropolitan University have used machine learning to analyze spin models, which are used in physics to study phase transitions. Previous work showed that an image/handwriting classification model could be applied to distinguish states in the simplest models. The team showed the approach is applicable to more complex ..."
 publishedDateTime: 2020-03-30T11:26:00Z
 webUrl: "https://phys.org/news/2020-03-machine.html"
+ampWebUrl: "https://phys.org/news/2020-03-machine.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-machine.amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 

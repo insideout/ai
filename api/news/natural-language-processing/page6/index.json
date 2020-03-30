@@ -2,6 +2,187 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-15-machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026.md",
+      "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+      "excerpt": "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know.md",
+      "title": "Three Misconceptions About AI And Robotics In Business (And What You Should Know)",
+      "excerpt": "Robots can automate certain tasks and make certain processes more efficient, but at the end of the day, they are machines with hardware that wears down eventually.",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/14/three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know/amp/",
+      "publishedDateTime": "2020-01-14T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F01%2Fa-6-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Three Misconceptions About AI And Robotics In Business (And What You Should Know)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-the-secret-to-building-ai-quantify.md",
+      "title": "The Secret to Building AI? Quantify.",
+      "excerpt": "If you want to build an AI company, you should define the “goal” of your AI and have a quantitative means to progress toward that goal.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/01/14/the-secret-to-building-ai-quantify/amp/",
+      "publishedDateTime": "2020-01-14T07:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1130913708%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7952%26cropY1%3D404%26cropY2%3D4879",
+          "width": 1199,
+          "height": 675,
+          "title": "The Secret to Building AI? Quantify.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-facebook-releases-low-latency-online-speech-recognition-framework.md",
+      "title": "Facebook releases low-latency online speech recognition framework",
+      "excerpt": "Facebook AI Research (FAIR) today said it’s open-sourcing wav2letter@anywhere, a deep learning-based inference framework that achieves fast performance for online automatic speech recognition in ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/13/facebook-releases-low-latency-online-speech-recognition-framework/amp/",
+      "publishedDateTime": "2020-01-13T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/Facebook-sign-F8-e1564693284989.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook releases low-latency online speech recognition framework",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-leading-ai-luminary-has-an-idea-to-ensure-humans-remain-in-control.md",
       "title": "Leading AI Luminary Has An Idea To Ensure Humans Remain In Control",
       "excerpt": "Professor of Computer Science at the University of California, Berkeley and an Adjunct Professor of Neurological Surgery at the University of California, San Francisco, Stuart Russell, has written the most read text book on AI.",

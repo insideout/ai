@@ -5,7 +5,7 @@ excerpt: "Kenneth Research has published a detailed report on Automatic Content 
 publishedDateTime: 2020-03-30T15:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-30"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
@@ -20,6 +20,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Automatic Content Recognition (ACR) Market Global Industry Trends, Share, Size and Forecast Report By 2025"
 
 related:
   - title: "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025"

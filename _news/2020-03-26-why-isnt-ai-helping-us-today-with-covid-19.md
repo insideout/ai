@@ -7,9 +7,9 @@ webUrl: "https://www.zdnet.com/article/why-isnt-ai-helping-us-today-with-covid-1
 ampWebUrl: "https://www.zdnet.com/google-amp/article/why-isnt-ai-helping-us-today-with-covid-19/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-isnt-ai-helping-us-today-with-covid-19/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -22,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "h7g8z2SIcV3sWDYzmiTU+Suw3AN59i5Ck6mnc+c7bBJ5/2XF+IIuEBRktIqaIMTv+hMGwDn0ItKB1IotQ2GzhYlGalxR/aHg2w5E0kynxd/hPrR8/tTP2lJZSKJutSHY/o9TcBu28Gu5Q/xuZm3qlfbfUO3pu9vmqU4Pj06bgCVGq8M5bh6RzW8Y0+VT4BOOjzEuZvZ0ehkx8F7a4Zuko818iuuvmieNPfouX35TJAQRba16eLZlva0fWtqjSS+tOsy2q3aCwsJKEhOLQsNB7qWmpiudDk4mkLKEYKAqmcYn7rFz8gYiLUmpVaAks3KbE/r1ssfAYMhzghACaun1AAKHyMd/Kk3zAqesrswc+ZI9OhWtTmm8lgDuQT4S3Ghf+6fMOlZ2EhfuHJ994s1cJvJDd5IdygN9J7xNpOayCoo75GpCO0PkodDuzp56ekp+003MytksUw7s2y9TyTqDtZN1K5IVv2Eu9uSGFYYTWkk=;O9FEk2j0pnBBSZf0CKABNw=="
+images:
+  - url: "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/26/e077db96-f1a0-4f55-a492-cba56a0fc7a7/thumbnail/1200x675/84fb969be6bdbf2843dca67a6bf8ac6b/20200325-scott-karen-tech.jpg"
+    width: 1200
+    height: 675
+    title: "Why isn't AI helping us today with COVID-19?"
+
+secured: "F0MuN6OzgTPM3Hq06dPCbq0DcE53dqpXvC2V6rbVfUrrIXVDQky7Oy9/jtlnplIcPyk6KDRhG6rOEhoaUA2xDNOW75+NyPc+K/IEikAyiikYkZOtUkRg9nuP5Zsuye5tkhpRZaHAAt2WK9ndx79d8gYYD9GmeQQYDvaMWq21JC62NszZXqGpk6IEkYJ+1uTomDfFcwS9KCqLdU0ndFYFky/uk6Y/1qfrKH3yjW0yePP/om3sykGh3SOThKny+Yj6QTA+KzmeVBaUO+YrRAZ7cr+8oY3GD28ICbtEKD+6SvR4sGd0c/qutdL5oUAaggCz;8zfAvZpAMMcKumekoKyU7w=="
 ---
 

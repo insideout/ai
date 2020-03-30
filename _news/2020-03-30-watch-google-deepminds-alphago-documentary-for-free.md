@@ -5,8 +5,8 @@ excerpt: "In 2016, DeepMind, Google's subsidiary focused on artificial intellige
 publishedDateTime: 2020-03-30T08:16:00Z
 webUrl: "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free/169328396162687"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - Google AI
   - AI
 
-secured: "y3/AO0Ry+HSYs4VDsp0jjJzGQRyTdxDHJQf6G16NzYLjEH2hZXrm7rPCin5e7MK/KOLphsdNnINY/V6AfkFuRwydfq+ncjYG8tm81OebBy0Znnp9zwDIS4A5LKxygyhQTpi9Gdeh3qiRy8Ffzr0v80Y8S+qJvvmp91yB/sfQeE1IIxfCx77r0m7X6P96bskdrqxPNlfsixMbmaaCvKxj+8UD6RCnBuyUAyxIrCHmK7l/ALTB0HR2/FRmiz9UEcrEiB5oHdgPmvYwbileml9J4lSLM9to8obHOz7xXl/j3Nn292h4loKduiC1+BsmxcdaxFCHzPAHSa2PS7CQc6yf+bUnJw90l4YI2G6BnK2mao31kFzop7YZB9ePBFZ3aG/8n3E2IaZ9DkYaHd07SGYS9GUTF9yS7N+oEd4RP2P2MXRwy0UB3dPC51LTjDuRQBn61E/jNRGUr7LFs/bWU2QB5mcmU3BeY+ZgVhY22yQnzvA=;71KOxE9ayCek5NgraDvv9g=="
+images:
+  - url: "https://www.designnews.com/sites/default/files/Design%20News/AlphaGoDocumentary.jpg"
+    width: 1278
+    height: 724
+    title: "Watch Google Deepmind's AlphaGo Documentary for Free"
+
+secured: "0vEXsQ9s+/zFgzrqGGatBszUYMU677jCxNpxC4MSXvPs7oXBGLyxXbOm5Q2vyIlooLpT1g1wDPXW2dQS8VdYDs9/TczWwjXkfI4N/f1q9L4bXBx1YVtS/MfJAA4SzMezLWdLsVldezvnnUJJpy3InDhcdA/VrxIXbK9kZJmGdtg7vYbAyAuo0TMpOWCAAbti0vgiP1Y2LjISEaORkK1bewYDweDmleNzm3RwFai0k+8al0pWiyr0kBS5odcdTAKxav1qCvA8mJXjFsnZ/2yimVrEjLheFJCAYK+F9O31EqvE/urGA3bco/iZp9IoW258RCIt0vGd24eojYny0O0g0UWyEtd2H4vllUGeOJs/5lyaFWV44wiEZbqL9fx+d1evr91wBol2CAb1/FwhdBe1t8vJfSwpLB+B8puBX0X6ekVgdfsT+4kVrvZGdl0hmvFj8FQEGnAF0GL0YfIYR/ETq1eARgyujXyZnsp2yEmUNgk=;7S5QdHJJqKSNZ372BzkcRg=="
 ---
 

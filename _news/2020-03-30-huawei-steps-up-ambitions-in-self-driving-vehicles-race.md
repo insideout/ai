@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Huawei steps up ambitions in self-driving vehicles race"
-excerpt: "Huawei has set an internal goal of becoming the leading Chinese platform provider for self-driving vehicles by 2025, sources told the Nikkei Asian Review. \"Huawei's attitude toward autonomous driving has turned very aggressive. We have been asked by Huawei to prepare a lot of tests [this year] even if the industry is under coronavirus threats ..."
+excerpt: "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ..."
 publishedDateTime: 2020-03-30T09:36:00Z
 webUrl: "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Huawei steps up ambitions in self-driving vehicles race"
 
-secured: "R2JSpoM5I3ynQHZfTZXBfggsrF0sMHNHFjsaEzY8J6DPQ6JOyctvi4EeC7j+9uhavEwVIIIsNN4pNjb6/j8PV5KJYfp4Js5+r2fnNoWOHkDrZs+HNcVZrh+OZZpXwPyFNikLwGkorJIjQG8yvpzSlXuf+5lkj8qUzPBzo/oUG30BKXHoodj747pm41z5ca/1Vd/+LGNCVP9SbVBmFB1x8EakQx+VzLP68YpbORSCc5/8p7UqCFm1wQ0a+O2Av2WNZ9L2yP9LnJdCVBcLAFRLew+UTzDE04Fse+s0O7vcwG5ybkKa9WXO9wjtdqHWsT/rChssZ7tyCyjiOg3NK/LwiStLGm6Niq+p0PcM7wrY+Terv8s7FHb1ECGvjEYJaHuzHR9Nyie/aiUD90yO6SIwQYvR/NGw6lRw3kMMylzzKpLpOwvdWW94fgaDPX38Q9WSKRpa3/lB4ueCOhUqALwu2/DCcGQXC3key7Rm/0vgVrU=;ItqTTGwQDKfu8gQ452A8/Q=="
+secured: "uEET9RB2J3sZBzSKbbhffwWC1jMUdRfpexAvhPesLTDAc+rokqITEi2uk+lu3qZkWpDAei+tUK0bk2vqIt6ZPQ8YPNvIDKVLeejtoRwxUXfW0/9aah9CbZ+0IDh8DAhXxWzxlRWl8N4OZ+pRSJmZ69433mklg6aIHZpFfo71PFLoznNNGpDf9uLlC0vFfiY9gYN2aztOzfCrsMqgp5gl/VMBZVyLGG6cCZgpB+ojBonAi3fPEPzRq/EG0fPP7GAYayLKyjg/KKkcZv1Gtx8Z1l/c98VqB/lDT6AnF3vKi+uJoCDy5xchHGH+3Rzw+Ft6;YaaOfq1tw45wkXxneG8yog=="
 ---
 

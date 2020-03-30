@@ -22,6 +22,6 @@ images:
     height: 627
     title: "iFLYTEK and Hancom Group Launch Accufly.AI to Help Combat the Coronavirus Pandemic"
 
-secured: "WSUAO5fsMzeoawuNsre24F663ynvPD+If/FQa2pKdZey1h0pSLb8cpkcrzMPwTYFcskjK+lUtFvUa+oc6NaDBiOrBTtIniXsBsrRSDpEcBj/PlDqX+LbR1WxKJ0AoPzj2O/urT6ccBPYysYJ9gL5CBanGyMYxwvlBthLBRTNYRA/4xnt2tXwzCPIBwRnVgT9kau950hvI/+Ln/gPG/GqYu8lQTBiO8N/9a4qD4BwFk3mgkYGCbQfe/17Cf6hZAZEKa6kT52arQ8eK5uw87RycV7nPh7tbwMGlkgo31uf25DYvIQShRTQsdD5vm2mhYyA;6cHGnxSowE5Vptn13yBMeA=="
+secured: "jr//No+l9fhLoTDD8n5fgRuOzrO0T+b9R/yXcPGuy6t/IjFmwjyip7GWKFMb25SwHAApAdGUthCHaSKiQe0hwfE4J8QARj7+DFoYySB5TSZ/92b/bzU+8BjtSo2Y/ezhWs51+NfXvIN5LUVcQ33rqulUdkdgomcpQTCWAQI0qhUZK1hzmG3SPE837n7vtDRU1Sj3rXyBwTsfkKB8Fbmx4QfzL1Y6wJLESewiwZ6A9Qeu2KktfGYMtTrZTlfytQrmSBrXO3SPkgYr3pc3OmBBdnXVb8/zQZem8Fgj9SrN2Ejnb0vWLA0TzRMMVtK9gMQvGCpK6sSlEh//HwpXjM8Hl7+XDXOgR6aoya8WqIc5gUFwN/8kFul7rvR6tXOaYuhukSF28Q/GWv+GRnu3oEtklbn1UoQ9cDIi6uhVtCsYh/3rg/ikwA4qLic/S9Xax7wnFeu0QkWW0Hh8oXShbF1uwwExWRSszwjg1ELB40plBj4=;j4YDTcvx4idMzMDQM/ebpA=="
 ---
 

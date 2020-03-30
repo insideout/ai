@@ -31,7 +31,7 @@ images:
 related:
   - title: "Scientists use AI system to translate brain activity into text"
     excerpt: "A new AI system that converts brain activity into text could transform communication for people who can’t speak or type. The mind-reading machine uses brain implants to track what neurons do when someone speaks. An algorithm then converts the data into a string of numbers, which another system then translates into a sequence of words."
-    publishedDateTime: 2020-03-30T17:43:00Z
+    publishedDateTime: 2020-03-30T17:39:00Z
     webUrl: "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/"
     ampWebUrl: "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/"
     cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/"
@@ -52,8 +52,12 @@ related:
     provider:
       name: New Scientist
       domain: newscientist.com
-    quality: 17
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/03/30125337/gettyimages-692654376_web.jpg"
+        width: 1200
+        height: 800
 
-secured: "7ehl55W7iNGOhOEK9djs1kwIoqSj1W4SNZXtml15H+9jAF8NAr6UiqgD/unHE45wo9eqSIwyuMtj7oCQeudLno7cf0Kmxi4WRgFZM5pjNkllvzwwhX2VofmIdLFgNtjuLgo99FzhuzwQ8CIc2ItiL9Np6boVaaS4OkzAwpO5a2BNZSHBkQBVGCLaggUxSNZbtZNjBpPFD9sWyFyd3FbUyGA9qLElY5zYZC3WptfraUfdjF47BV9NJUzB2j0DqJO35RzbRDH3qHQD1jkEDppsbZOXFosu2I4aNsgDDNr3GvgjBIH7NnYWeD22sfCfNyR2;agA5nGDk/eGTLrRwnQ+Ptg=="
+secured: "KnWm1pnuB5nPM9V1czM0g+P+UHH8X2rIaYco25KQUScPQiAQcQfbsK2oGvEwYuswf8KGl2vfYyERSerTs42EbMunSlLc1ZqKXYIIuZ3t4N+oXGU3j0lctFDkgYuYzeKsBoqrKq2NzAH5J2SnBgeRCyE1+FlGztdMSmzaBbGPYvLcN+U+IupZMhdMPGzinS630N1ZXfVZxCeSq/ZUH9ZN+H9Vv/51cbKuhlSfhImtjUSMxXWm3kb2GiofeMpsgfXg6ukqej5NDIUNgs1b6h8RtJfhK4z/o/1sSwbM5g16/R+6hbvVoroVTPU7ZSaLWi+hhQ05b7hYH6zmnYaU/djTDlaKsyHhq2cU72p6YX80lOOgdZp2IFmx2IFslDZWK1sHPCTn/iUXOdDP11pDi6WH+jNzmB70/+xEbWIB4vs3u9Ku3aeqJjWP8houpH9BT94+fhvBNI28g0LVvQKHhg7OZ8Y+JVV2DIrdf/f9OKTFfY8=;u6qnlTB4MeSEPRGajmYCDA=="
 ---
 

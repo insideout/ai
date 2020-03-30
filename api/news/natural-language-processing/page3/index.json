@@ -2,6 +2,172 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-11-how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users.md",
+      "title": "How IBM Watson's new natural language processing capabilities helps business users",
+      "excerpt": "IBM reports that Watson is ready to take on the most challenging aspects of the English language. New natural language processing (NLP) capabilities will be added to the artificial intelligence platform later this year to allow businesses to identify and analyze some of the most challenging aspects of human language. IBM has been developing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
+      "publishedDateTime": "2020-03-10T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/10/d48ad02c-9a8d-41ce-9baf-ec8d046158b5/resize/1200x/11580c597b4bb6158ad17bab6a2a0b59/screen-shot-2020-03-10-at-10-31-22-am.png",
+          "width": 1200,
+          "height": 782,
+          "title": "How IBM Watson's new natural language processing capabilities helps business users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-enhances-watsons-natural-language-understanding-capabilities.md",
+      "title": "IBM enhances Watson’s natural language understanding capabilities",
+      "excerpt": "IBM Corp. said today it has made some big improvements to the natural language processing capabilities of its IBM Watson platform. The new capabilities, which were born out of IBM Research’s Project Debater, will help Watson understand and analyze some of the most challenging aspects of English language with greater clarity than before ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/11/ibm-enhances-watsons-natural-language-understanding-capabilities/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/13623054195_149c8b9839_k.jpg",
+          "width": 2048,
+          "height": 1500,
+          "title": "IBM enhances Watson’s natural language understanding capabilities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation.md",
+      "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
+      "excerpt": "/PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the TransPerfect",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-301020975.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
+      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
+      "publishedDateTime": "2020-03-10T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
+          "width": 1866,
+          "height": 925,
+          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-human-and-computer-estimations-of-predictability-of-words-in-written-language.md",
       "title": "Human and computer estimations of Predictability of words in written language",
       "excerpt": "When we read printed text, we are continuously predicting upcoming words to integrate information and guide future eye movements. Thus, the Predictability of a given word has become one of the most important variables when explaining human behaviour and information processing during reading.",
@@ -1114,186 +1280,6 @@
           "width": 1200,
           "height": 799,
           "title": "What Does “Artificial Intelligence” Really Mean?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
-      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "publishedDateTime": "2020-02-14T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
-          "width": 600,
-          "height": 315,
-          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
-      "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
-      "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-from-process-automation-to-autonomous-process.md",
-      "title": "From Process Automation To Autonomous Process",
-      "excerpt": "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/from-process-automation-to-autonomous-process/amp/",
-      "publishedDateTime": "2020-02-13T21:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f554a78b3f4000623f36b%2F0x0.jpg",
-          "width": 1200,
-          "height": 742,
-          "title": "From Process Automation To Autonomous Process",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-nvidias-earnings-crush-expectations-and-outlook-shines-stock-pops.md",
-      "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
-      "excerpt": "On the earnings call, CEO Jensen Huang attributed the data center's amazing performance to the rapid adoption of AI for an increasing number of applications, calling out natural language processing and internet recommender systems several times. NVIDIA said in its earnings release that it's still in discussions with China's regulatory agency ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/13/nvidias-earnings-crush-expectations-and-outlook-sh.aspx",
-      "publishedDateTime": "2020-02-13T18:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558039%2Fnvda-stock-nvda-earnings-nvidia-stock-earnings-ai-artificial-intelligence.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 795,
-          "title": "NVIDIA's Earnings Crush Expectations and Outlook Shines; Stock Pops",
           "attribution": null
         }
       ],

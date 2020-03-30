@@ -5,8 +5,8 @@ excerpt: "“We don’t know yet if there’s a role for [chest imaging] clinica
 publishedDateTime: 2020-03-30T08:43:00Z
 webUrl: "https://www.statnews.com/2020/03/30/debate-over-artificial-intelligence-to-detect-covid-19-in-lung-scans/"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,12 @@ provider:
 topics:
   - AI
 
-secured: "U2plOimLXBj60mz+NiQzmWQ9V490fokLIn/i+WprvaQ8zyhwJRKG6GAQIPQ/f/l7u+o1HkAcIai3O5V0AYn6RwQ++BAZiDJFKmpQyPgvAM2le9jZDipejIxbl/dhG34Djv0VQ2pmTf2uTh3E62VJEZWGQtlmuVc94gsILRrfRprlAQIVO8L+7b0ROEMhO6cusGRYKLHGmpYLGtqDamKtbO/R8agns4tD0XOr9a1guo9XD0RB31Kzz2gEwc9/0NevAv5mi/1eqcY+BYtEFCqoRmMH3JPEP7gvTg7dIj+xyk5f9sK3dDQU+2XYwsR07c2y1OXWYD2fS9tUZOaDXWI6zhDC4su01nOpUSR8LxcfwK0Iv+OykFGsPo/CF0OWzLVCc7/YZ8Mc1LybiFMcrXHS/NOBOECrs2H/mnCz7S9ybPyJwpc/HTxbBaQmtqvw1+X/sA0i5i1r2Nt6M67Go19D6I9mA6vZfWvrtd1T+vfCs6Y=;rZgVGCMOobwH8eBnE6qibA=="
+images:
+  - url: "https://www.statnews.com/wp-content/uploads/2020/03/GettyImages-1206523709-1024x576.jpg"
+    width: 1024
+    height: 576
+    title: "Debate flares over using AI to detect Covid-19 in lung scans"
+
+secured: "RDjWQ7uJbNipJDJ1Id4JdRZ/L6zYU10J25gmUzJyJJOtK7pTyG9Ukctzno11vwYzy1LcFWVRA1TThuYzingM6XCCPa/WVB1DGs6Tkllk8tVfdLKLe3Unk50nHP9ztgELNMo3pgnAkPy0X6bpMiYDmIs63cISfu6BHrKa/id44Ru8JKkB+DkRv8+cP6szYCAuyFb97oPhjVC60/7DIhX1pKZUJGE7tcjnNaMfipY3gcoCYGvzrQwk7lOnQipTRTGrVT9yKUc1MfEpKijcetrCv5Lf1gr9fi8ndMv6y+qLS7oEs3pK7O9ODBr1r/7PaCjwXv0MIFCOZHdjIn811XYo51c/xx4PJB2nuF/AkyM0L15dhPiHVpwcH6FTJyA25cCFXw+H/4UF9toG+7AoexgOziXUC2eRV2gAkH0CXbNAVaPERnE6IFUacwqveV1hYVqWyEsq4FUCmP0cexPTRECBykfhyQC3xksKXOpkpCN2nXQ=;heNuGHyaLBLoappEsY3b6Q=="
 ---
 

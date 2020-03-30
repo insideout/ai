@@ -45,6 +45,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21"
         width: 600
         height: 350
+  - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
+    excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
+    publishedDateTime: 2020-03-30T15:13:00Z
+    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
   - title: "Microsoft to end investments in facial recognition firms after AnyVision controversy"
     excerpt: "Microsoft says it will no longer invest in third-party facial recognition companies following a controversy around its funding of Israeli startup AnyVision, which critics and human rights activists say powered a surveillance program in the West Bank following an NBC News report about the company’s relationship with the Israeli government."
     publishedDateTime: 2020-03-27T22:04:00Z
@@ -86,15 +101,6 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
-    excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
-    publishedDateTime: 2020-03-30T15:13:00Z
-    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
-    type: article
-    provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 46
 
 secured: "jWBwM9OXIdieD096PRf0BDYHFlqtRHW4YigOFDHjBULTfkux+u16LmrZ8Nsv8o99ieSHsayqajf3tBJlcrur7Y0CoQLJ6awwfcOZG8pE7ljaHTsUt35/ncXVYkj2pM3hJpS9PBVc4wNZAlb5IPang43RINApM/oGOaMQGi8EpXEIRjiCqSXjzI7zs1F2DOXh90+LjDj3MpcE4GhBLNJhvDEoKjJSuqC5d4YnwXdWE7a2N5uuqdhuzpCAwq5BzI+40Zod7/iSul/emnfwhX020vUa485sHKBvbtR0U1uC1QOApyGV+sv+ER0dMIiSQZu/J5JjNIGqBL2bU+oXSq7Ergc37NRThHJVlsD5DoyYYDZUGmh67oeqZNyRc5Cj313g4aOGGEC7jYwnPJFxCRMEuDQ5vMchSLIuyRyTNz4faMRZJl5owBt7EJVXpVn5E4pn7hZ0CUDLd8mDhjaTFlv2mveTr5CJ7GxrCv7zeOupLEU=;/V88b56MSX7JgF2/ckTd6w=="
 ---

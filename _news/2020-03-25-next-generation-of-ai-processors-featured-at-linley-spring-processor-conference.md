@@ -14,6 +14,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "N3rmv+VsXZk62I5I5GB6exmwgpZIWmWhzuwSw6JfCndLj+68YygtbwZbbXMmlwKEtCHyYGfkk/UhmzPvHVDpkI9b/5mO8zSsgH4nA8TDYl2oOQtHPX5nAKm1UTX/Hjjf7od2Z3AIN1oOBqd9yMzRjR3SnIFe5BlM+akFosOqh5NmZKN1r2bQyPIWwmd/QsWTGPmW9LOtmi7gOTU0FEclSLW3MgbHufdYiVog3+b34QryB9s0qPrHgkZZiIh/9f43Lo+HBbXqWttxRYa7u8bqp8pNMdnP5TkoHRBsRMAfbF6ulWtsyZ+ceij855VQ9a0GJDjRCZQ5JZv/3EX7Z54if2SYms4vPP5PaWHOIpQ89VmLCBXrXGHR8CaG8bZ3Jf2ieQEdyFUuEaC4IsrrPVCHF5iYDkhM1Ojp7cI+ZmY4qgLBD+588/4EaBEQ5FbSqw8+1JBzIpDYnKnjfkXoMs4nJXjRDtmxW4KAAymOm8gwK5o=;CN7dGyhaROcyVQdfrT9DIA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200325005079/en/708301/23/Linley_logo_lrg.jpg"
+    width: 1200
+    height: 627
+    title: "Next-Generation of AI Processors Featured at Linley Spring Processor Conference"
+
+secured: "SeR8D6pQ4S0qTWS9UlhQrKl5j60jkuUVF1O7kXtlMzwz6T+r/J7Yy9D05vvF6Fw2pcS7K23RSHNsA7EzLn6EWbOxPv4MMv6cOJx1xyGhvyRyIpDv5JNsLqUKSLNgflR7EZIP7oZawqKLjSRUSFUk5QnWPL4KE6p6MN2YzLILn2I3ci0mucE31Lf7pnb+MZV6/aKuZZyT0uJQwEdPY9tNOMZprN6o2fH6d10lWYlNxH/ptJ/k+bXvRwk6lnpkc80mtvNsPEFLI3IAf5F7lqr4i/xwEcf0WmStbUwChSosp4RHTj3f6MvJav2Jr4Aaze0iPuvmBNNmCzNhkNiofYXWz5j2HgtdrbWjxuHKd/Z14Iwbx1qF5biko4w4iNBNBxAiYmF7Xd2HtaIfKYc0SSy/PF9JnnGLLrPVCLV424dSvH8vTTTZS/3Em1G1cAt6jnNi7xB29Sk8dAvp+iOP0IZRu1t4QmAI77OCK3tJuZSYOk4=;vZlKzhLP4XEg8+83/NUyQQ=="
 ---
 

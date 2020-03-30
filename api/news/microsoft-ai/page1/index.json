@@ -2,10 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
+      "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+      "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/microsoft-365-ai-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T08:33:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/03/Microsoft-365-AI-Sumit-Chauhan-Mira-Lane_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
       "title": "Extending the power of Azure AI to Microsoft 365 users",
       "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
-      "heat": 109,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/",
@@ -28,7 +73,15 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png",
+          "width": 1187,
+          "height": 821,
+          "title": "Extending the power of Azure AI to Microsoft 365 users",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -45,7 +98,7 @@
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/?ss=cloud",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "publishedDateTime": "2020-03-29T23:17:00-07:00",
@@ -81,6 +134,52 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
+      "title": "Distributed training with Azure Machine Learning",
+      "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Distributed training with Azure Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1151,80 +1250,6 @@
           "width": 673,
           "height": 600,
           "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ibms-6-dividend-yield-should-set-a-floor-under-the-stock.md",
-      "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
-      "excerpt": "Last quarter, only two of IBM's core businesses -- cloud & cognitive software and systems -- posted annual revenue growth. Revenue from its other three business units (global technology services, global business services ... Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "publishedDateTime": "2020-03-16T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2014824675",
-          "width": 1024,
-          "height": 512,
-          "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
-      "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-      "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15555518/cognitive-computing-technology-market-by-offering-solutions-services-technology-deployment-type-a",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15555518",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15555518",
-      "publishedDateTime": "2020-03-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1584351519.jpeg",
-          "width": 278,
-          "height": 333,
-          "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
           "attribution": null
         }
       ],

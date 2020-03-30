@@ -5,8 +5,8 @@ excerpt: "With most entry and exit records maintained manually, errors and omiss
 publishedDateTime: 2020-03-30T16:24:00Z
 webUrl: "https://www.biometricupdate.com/202003/alibaba-explains-development-of-facial-biometric-access-control-system-for-people-wearing-masks"
 type: article
-quality: 7
-heat: 7
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "Me1bSRxeghXRiNqJiKApfSdsp0aJylaVYaeM73TMfQ6ECc0H+r0tFakocTYKxsgxdpxxh3sfN5iQotu8gG+8hWSK8EXqiWImkpPv3wIXiOC0YDUyzgx7GrKvgu1aHy2CkiH0Ul/8yyAZFH0U8H12xpKKpoX9EObScooKftDW5BgfLH/dgeT2XNak3H2VA+wwxbImI3WEMXFEj6vXra0fD8W0Iai7LoyHNTvaZU4y4LfVMOSRk1rkU8R5dz2g9HAzNnArhyzPYjmhHlWdrk+Q/cSHxnQvjNvaUBFKMKop9uVdamm7wzYaukVgNyBCPJrW1AnNlA/agmAuiy/dfhwY+ElTyuh5cYmSpT4Mzto/5FAogoxKVHibG268J0oL2BYmVNHt/nV3TXQ826O40c6m9TFMuFovpd0aZAgcr3LEA7qrV63TC9zlefDTMkNXF+Qut0gfpI8u+iJyWEFuiuBk6KbT1vThLpMiogU7ySTwc9I=;+Q+Cuq97zYlFqRtR3qWEIA=="
+images:
+  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/03/30121812/alibaba.jpg"
+    width: 800
+    height: 450
+    title: "Alibaba explains development of facial biometric access control system for people wearing masks"
+
+secured: "IUWI7jQMKgfL5UUeNJsvBehOSOh5ngSeWYLlmCdV2w11ik659xWGvZde9y12oCCEEWf/kC1R2ZAnN2fNAHfFouQRi99YKaKJwjArbcyro+49eQRCeBeLiJOHtuO5LpQtjWd5IWsdTZ4CEpIGrAYGtnjScOphCoY6+9VjRgfU82Mb5dPuXKF1FvT3xdiDDGlxGO9QpLtaO3ljegrhQPBcj1uL0aYfefC/V0YiwTP5szQJH+4Ov2E7RaN0jf0/BCbXfhuN0qZ6vy/mWMeGErgSIh0PNMTcdNfoJQmO7CqHLc0NNxPYLaPLKbTqi3ovmnxf;MUsjoI0T+OIBqvDfg3cRdw=="
 ---
 

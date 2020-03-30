@@ -4,10 +4,12 @@ title: "Four Ways To Use AI For Marketing"
 excerpt: "AI can automate many marketing tasks, improve performance and let you get back to work on other important things, like satisfying clients."
 publishedDateTime: 2020-03-30T11:46:00Z
 webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/"
+ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "UdNNDuFEKFttWTKLt4qxgTBle/K6OQ/Fhcp4mMjzlPcxQG+ihHgseAGsJQW8KZU+UhxzZGsCzhuKTJ9XrOZaslPfqBaU+YpjQJfJyEgKpvCvwG97dhrxD797pxQ9ZlT/hv8Etj1Gz6lXOGzu9YTimJMPU2KH5xJXd/x9EVKw75X8qMpj8exPhK604fPvj2cnsyah7y6RFbUiZdkGV0fj7HDL9eX0zQoLu2Hv+jcqLzjOQ6w+Reiq6j1LMrt2jg23IvkDEXGiVX6aMeRT+tT3VzTFTcDN4ssbGTko71oakwQQ09W7T4eb9IYB14/B7+9jnTjS6RAjwsl0GwTh9+UIoKt6i6O8ko7vczq18fascOgBkoEHxwtoYlBzHS7/+NxaMJKmK2q/UVE7Eri8Vb6VNUXxBSulHnS+H3exYRo1jEFHfbAliJRDpT0KWV7RWPTGtp0dV9jwEAD6N0vrLqO5HnMA6PkKTtooRdbOoTBSBW4=;gV5l3G2pE7oTzmyrfkdrvw=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F132.jpg"
+    width: 640
+    height: 640
+    title: "Four Ways To Use AI For Marketing"
+
+secured: "WA+RSRBUcpqaKHXfn9r1ifvLwsWKof8dm/943cu6pOmpATMmFnWcQaP2WNjkN2DVDDaENBjwalxWSNLTt8yo2kY9eaYoReRBZtzWokIJ6z4wyiliaahjW+7n4z0eZCnMtGR487OuX7GY/kg1X9T5C3qCKw3tD73kC+3CKajw3eYF7bg35Nmczv6rxtg9jVDfAAapTO5kOY87SuP2f9M9UMxDGBFpsYuXYkf80FyePdHaG8pG3VuvL3lr2bUtRqDCea88P5ly3teyUKRHzdhSgE5KieMcBkTwFfWiolNVI34OaAV+Unllxtb81xbZ8WJlGvLLK/2GUr/or1hV3s+hyRf1/qy/NY4cmLlnsGQLqpWzy0YnUTzy1SeBw+67Hb01aU86sIkCkbNmq/9EyhcpUn/zkH7UOzZyKssVZw2T/CEmhrVnWdmbyL6NFIwEZg+Y6/oJWAPduR/K3qrF6bbKHsckD9UWl5h4Fty0UXN3ADA=;XNmyHpWF++EVp5nXpgU7mQ=="
 ---
 

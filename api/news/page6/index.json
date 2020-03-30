@@ -2,6 +2,727 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-25-sifive-accelerates-chip-design-with-cloud-tools.md",
+      "title": "SiFive Accelerates Chip Design with Cloud Tools",
+      "excerpt": "“By collaborating with Synopsys and leveraging Microsoft Azure, SiFive is improving its portfolio of design tools,” the ... A target market for cloud-based chip design is silicon accelerators used for machine learning inference. Those hardware accelerators are often used with graphics processors to speed up model training and inference.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/2020/03/25/sifive-accelerates-chip-design-with-cloud-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "SiFive Accelerates Chip Design with Cloud Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-mit-can-now-train-self-driving-cars-in-a-photorealistic-simulator.md",
+      "title": "MIT can now train self-driving cars in a photorealistic simulator",
+      "excerpt": "Simulators have been used for years to train human drivers, pilots and astronauts, and now they're being used to train self-driving cars too – and a new system developed by researchers at MIT could be the most promising yet. The Virtual Image Synthesis and Transformation for Autonomy (VISTA) simulation system means cars don't have to venture ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/",
+      "ampWebUrl": "https://newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/mit-self-driving-cars-photorealistic-simulator/?amp=true",
+      "publishedDateTime": "2020-03-24T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/4baac11/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F28%2F58%2F5fe4b6c24adb8500a2a8e0daf3fa%2F00-mit-sim.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MIT can now train self-driving cars in a photorealistic simulator",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-global-and-china-hd-map-industry-report-2019-2020.md",
+      "title": "Global and China HD Map Industry Report, 2019-2020",
+      "excerpt": "HD map industry study: the HD map market is burgeoning with the roll-out of L3 autonomous vehicles. The automakers (except Volvo, Ford and NIO that claimed a leap over L3) have set foot in L3 autonomous vehicle successively,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global and China HD Map Industry Report, 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live.md",
+      "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
+      "excerpt": "At the core of these activities is to have a holistic, evolving view of the customer over time. Data analytics and AI are at the core of future solutions. This means moving from communication to conversation by capturing both implicit and explicit data, and creating a “living” customer profile that changes as the customer goals and ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/amp/",
+      "publishedDateTime": "2020-03-24T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4.16-Yodlee-webinar.png?fit=1489%2C782&strip=all",
+          "width": 1489,
+          "height": 782,
+          "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ibm-invests-in-ai-hardware.md",
+      "title": "IBM Invests In AI Hardware",
+      "excerpt": "While the IBM hardware business today is limited to POWER and Mainframe chips and systems, the technology giant is quietly building its expertise and capabilities in AI hardware. Where this could end up is anybody’s guess,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "publishedDateTime": "2020-03-24T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a793610380d0006fc0469%2F0x0.jpg",
+          "width": 745,
+          "height": 489,
+          "title": "IBM Invests In AI Hardware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
+      "title": "Building a trash sorter with AWS DeepLens",
+      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
+          "width": 1200,
+          "height": 545,
+          "title": "Building a trash sorter with AWS DeepLens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
+      "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
+      "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
+      "publishedDateTime": "2020-03-24T11:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564943%2Fnvidia-self-driving-car.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 631,
+          "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
+      "title": "How 5G is enhancing business productivity",
+      "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/paid-content/article/how-5g-is-enhancing-business-productivity/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
+      "publishedDateTime": "2020-03-24T11:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/24/b89d0c18-f127-4489-a85e-3b812da03063/native-1333x750-3.jpg",
+          "width": 1333,
+          "height": 750,
+          "title": "How 5G is enhancing business productivity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ai-events-and-conferences-moving-online.md",
+      "title": "AI Events And Conferences Moving Online",
+      "excerpt": "It simply is not life-as-usual for event and training organizers who need to satisfy the still-strong hunger for information, connection, education, marketing, and networking that customers, technology providers,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
+      "publishedDateTime": "2020-03-24T10:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a48ae10380d0006fbfb0a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Events And Conferences Moving Online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-researchers-propose-paradigm-that-trains-ai-agents-through-evolution.md",
+      "title": "Researchers propose paradigm that trains AI agents through evolution",
+      "excerpt": "A paper published by researchers at Carnegie Mellon University, San Francisco research firm OpenAI, Facebook AI Research, and the University of California, Berkeley, and Shanghai Jiao Tong University describes a paradigm that scales up multi-agent reinforcement learning, where AI models learn by having agents interact within an environment such ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
+      "publishedDateTime": "2020-03-24T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1585070939495.jpg?fit=1200%2C602&strip=all",
+          "width": 1200,
+          "height": 602,
+          "title": "Researchers propose paradigm that trains AI agents through evolution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-artificial-intelligence-in-healthcare-why-transparency-matters.md",
+      "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
+      "excerpt": "The growing presence of artificial intelligence during the care delivery process continues to show potential ... algorithms and machine learning to accurately detect cancer and heart disease; and robot-assisted therapy for recovering stroke patients. “We’re getting to a point where machines can start telling us things we don’t know ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon",
+      "ampWebUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
+      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
+      "publishedDateTime": "2020-03-24T10:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HealthTech",
+        "domain": "healthtechmagazine.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202003/20200324_HT_Web_HIMSS-AI-panel_0.jpg?itok=NPF-w-tz",
+          "width": 1440,
+          "height": 500,
+          "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-researchers-use-ai-to-find-link-between-nature-and-happiness.md",
+      "title": "Researchers use AI to find link between nature and happiness",
+      "excerpt": "A cross-disciplinary group of researchers used AI as part of an analysis of photos posted online that recognizes an association between happiness, life satisfaction, and nature. Researchers from universities in Australia and Singapore say the analysis demonstrates the biophilia hypothesis that humans are naturally attracted to nature and people ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
+      "publishedDateTime": "2020-03-24T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/emma-simpson-mNGaaLeWEp0-unsplash.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Researchers use AI to find link between nature and happiness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic.md",
+      "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
+      "excerpt": "The decision to place the UK on a police-enforced lockdown couldn’t have come sooner, new AI analysis of traffic footage has revealed. Until last night, Brits had been merely been advised to avoid “non-essential” travel. Not many of them were listening, according to research by Vivacity Labs, a startup that makes camera-based traffic sensors.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
+      "publishedDateTime": "2020-03-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design36-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
+      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
+      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
+      "publishedDateTime": "2020-03-24T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
+      "title": "How personalization and machine learning can improve cancer outreach ROI",
+      "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
+          "width": 900,
+          "height": 300,
+          "title": "How personalization and machine learning can improve cancer outreach ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
+      "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+      "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs",
+      "ampWebUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "publishedDateTime": "2020-03-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CambodiaBombingGetty1970.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-personal-voice-assistants-struggle-with-black-voices-new-study-shows.md",
+      "title": "Personal voice assistants struggle with black voices, new study shows",
+      "excerpt": "Microsoft had the smallest disparity; Apple had the biggest.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/3/24/21192333/speech-recognition-amazon-microsoft-google-ibm-apple-siri-alexa-cortana-voice-assistant",
+      "publishedDateTime": "2020-03-24T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/kmesD6t87OypOMz5HA-_6k6_41Q=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66547041/dseifert_191123_3810_0011.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Personal voice assistants struggle with black voices, new study shows",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-fritz-brings-on-device-ai-to-android-and-ios.md",
       "title": "Fritz brings on-device AI to Android and iOS",
       "excerpt": "Fritz AI, a startup providing an AI and machine learning development platform for Android and iOS, today announced that it has raised $5 million. CEO Dan Abdinoor says that the capital will accelerate Fritz’s expansion as it launches its product out of early access, which he asserts addresses the challenges of mobile AI for businesses with ...",
@@ -316,18 +1037,18 @@
     {
       "path": "_news/2020-03-24-shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging-blockchain-and-ai-to-transform-retail.md",
       "title": "Shopper Marketing Hall of Fame Inductee Joins Leadership Team of Rising FinTech Company Leveraging Blockchain and AI to Transform Retail",
-      "excerpt": "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a \"Top Ten Mover and Shaker in Retail,\" Karen Sales has joined the leadership team at SKUx as Senior Vice...",
+      "excerpt": "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a “Top Ten Mover and Shaker in Retail,” Karen Sales has joined the leadership team...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15650351/shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005543/0/en/Shopper-Marketing-Hall-of-Fame-Inductee-Joins-Leadership-Team-of-Rising-FinTech-Company-Leveraging-Blockchain-and-AI-to-Transform-Retail.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-24T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -339,737 +1060,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers.md",
-      "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
-      "excerpt": "SAN JOSE, Calif., March 24, 2020 /PRNewswire/ -- GTC DIGITAL -- Super Micro Computer, Inc. SMCI, a global leader in enterprise computing, storage, networking...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
-      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
-      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15649371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371",
-      "publishedDateTime": "2020-03-24T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-machine-learning-the-real-buzzword-of-2020.md",
-      "title": "Machine Learning: The Real Buzzword Of 2020",
-      "excerpt": "Machine learning is a game-changer for many industries.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/24/machine-learning-the-real-buzzword-of-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/24/machine-learning-the-real-buzzword-of-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/24/machine-learning-the-real-buzzword-of-2020/amp/",
-      "publishedDateTime": "2020-03-24T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-42-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Machine Learning: The Real Buzzword Of 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024.md",
-      "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
-      "excerpt": "Mar 24, 2020 (The Expresswire) -- Global “Artificial Intelligence (AI) ChipsMarket“ Report 2020report recorddetailed estimation to improvement a complete...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-miso-robotics-deploys-ai-screening-devices-to-detect-signs-of-fever-at-restaurants.md",
-      "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
-      "excerpt": "Miso Robotics, a startup developing robots that can perform basic cooking tasks in commercial kitchens ... can boost productivity by working with humans as opposed to wholly replacing them. Miso AI, Miso’s eponymous cloud-based platform, orchestrates the prep of over a dozen food items, including chicken tenders, chicken wings, tater ...",
-      "heat": 123,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/",
-      "publishedDateTime": "2020-03-24T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-natural-language-processing-nlp-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
-      "title": "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study.md",
-      "title": "Speech Recognition Systems Have Higher Error Rates For Black People, Finds Study",
-      "excerpt": "No, you're not just imagining it. Speech recognition systems developed by the likes of Amazon, Apple, Google, IBM, and Microsoft all have higher error rates when transcribing speech from black people than when doing so for white people. So finds a study published today in the Proceedings of the National Academy of Sciences, which notes that the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study",
-      "ampWebUrl": "https://in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12479/speech-recognition-systems-have-higher-error-rates-for-black-people-finds-study?amp=1",
-      "publishedDateTime": "2020-03-23T23:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/s/speech-rec/speech-recognition-systems-have-higher-error-rates-for-black_hgke.620.jpg",
-          "width": 620,
-          "height": 364,
-          "title": "Speech Recognition Systems Have Higher Error Rates For Black People, Finds Study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-sony-launches-ai-based-music-production-service-flow-machines.md",
-      "title": "Sony launches AI-based music production service, Flow Machines",
-      "excerpt": "Today, Sony Computer Science Laboratories (Sony CSL) launched an AI-assisted music production service, FlowMachines. At its core lies Flow Machines Profession (FM Pro), which integrates human creativity and an AI-based recommendation system that proposes melodies, chords, and bass allowing creators to tailor their content according to their taste.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/sony-launches-ai-based-music-production-service-flow-machines",
-      "ampWebUrl": "https://www.neowin.net/amp/sony-launches-ai-based-music-production-service-flow-machines/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/sony-launches-ai-based-music-production-service-flow-machines/",
-      "publishedDateTime": "2020-03-23T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1585027261_flowmachines_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Sony launches AI-based music production service, Flow Machines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
-      "title": "Speech recognition systems have higher error rates for black people, study finds",
-      "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias/",
-      "ampWebUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "publishedDateTime": "2020-03-23T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech recognition systems have higher error rates for black people, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world.md",
-      "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
-      "excerpt": "In a recent study, researchers hailing from MIT’s Computer Science and Artificial Intelligence Laboratory and the Toyota Research Institute ... uses a real-world data set to synthesize viewpoints from trajectories a car could take. While driverless car companies including Waymo, Uber, Cruise, Aurora, and others use simulation environments ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
-      "publishedDateTime": "2020-03-23T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-monitoring-is-critical-to-successful-ai.md",
-      "title": "Monitoring is critical to successful AI",
-      "excerpt": "Amit Paka is co-founder and chief product officer at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. Krishna Gade is co-founder and CEO at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. As the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
-      "publishedDateTime": "2020-03-23T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/adeolu-eletu-unRkg2jH1j0-unsplash.jpg?w=640",
-          "width": 640,
-          "height": 424,
-          "title": "Monitoring is critical to successful AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-apple-musics-ai-generated-upbeat-playlist-helps-you-cope-with-reality.md",
-      "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
-      "excerpt": "The playlist is rolling out this week. Apple is trying something new to keep people's spirits up during the coronavirus pandemic. In Apple Music, it's introducing a new algorithmic playlist called the Get Up! Mix that the company says is full of \"happy-making, smile-finding, sing-alonging music.\" With the help of human editors, it will update ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
-      "publishedDateTime": "2020-03-23T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F07a201d0-6d3a-11ea-bf47-e4e4f9df29c0%26client%3Da1acac3e1b3290917d92%26signature%3D7a66d47a4dc4e944e3620250179345469011b0fd&client=amp-blogside-v2&signature=fcc19d346f99286c069caa46ba5faf0cf0a34dac",
-          "width": 600,
-          "height": 350,
-          "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-there-is-a-racial-divide-in-speech-recognition-systems-researchers-say.md",
-      "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
-      "excerpt": "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
-      "publishedDateTime": "2020-03-23T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80.md",
-      "title": "Google open-sources framework that reduces AI training costs by up to 80%",
-      "excerpt": "Google researchers recently published a paper describing a framework — SEED RL — that scales AI model training to thousands of machines. They say that it could facilitate training at millions of frames per second on a machine while reducing costs by up to 80%, potentially leveling the playing field for startups who couldn’t previously ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
-      "publishedDateTime": "2020-03-23T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources framework that reduces AI training costs by up to 80%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-fda-allows-alivecors-ai-ecg-to-detect-coronavirus-drug-induced-heart-problems.md",
-      "title": "FDA allows AliveCor’s AI ECG to detect coronavirus drug-induced heart problems",
-      "excerpt": "Although options such as hydroxychloroquine and azithromycin have been separately used for years to treat malaria and various bacterial infections, they may collectively prolong a patient’s “QT interval” — the time from the start of each heartbeat ... On the other hand, its automated AI-driven monitoring solution doesn’t yet look ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-detect-coronavirus-drug-induced-heart-problems/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-detect-coronavirus-drug-induced-heart-problems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/fda-allows-alivecors-ai-ecg-to-detect-coronavirus-drug-induced-heart-problems/amp/",
-      "publishedDateTime": "2020-03-23T11:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/kardia-e1584987900555.jpg?fit=1860%2C925&strip=all",
-          "width": 1860,
-          "height": 925,
-          "title": "FDA allows AliveCor’s AI ECG to detect coronavirus drug-induced heart problems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
-      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
-      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "publishedDateTime": "2020-03-23T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
-      "title": "What Machine Learning Trends You Should Watch In 2020",
-      "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
-      "publishedDateTime": "2020-03-23T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1137284435%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "What Machine Learning Trends You Should Watch In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

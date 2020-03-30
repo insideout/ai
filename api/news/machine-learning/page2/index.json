@@ -2,6 +2,80 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-test-time-augmentation-for-deep-learning-based-cell-segmentation-on-microscopy-images.md",
+      "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
+      "excerpt": "Recent advancements in deep learning have revolutionized the way microscopy images of cells are processed. Deep learning network architectures have a large number of parameters, thus, in order to reach high accuracy,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-61808-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61808-3/MediaObjects/41598_2020_61808_Fig1_HTML.png",
+          "width": 685,
+          "height": 319,
+          "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
+      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
+      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
+          "width": 685,
+          "height": 502,
+          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
       "title": "Explaining machine learning models to the business",
       "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
@@ -1061,80 +1135,6 @@
           "width": 1766,
           "height": 1207,
           "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
-      "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
-      "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/",
-      "ampWebUrl": "https://www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/automated-intent-classification-using-deep-learning-google-sheets/353910/amp/",
-      "publishedDateTime": "2020-03-13T05:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/03/automated-intent-classification-using-deep-learning-in-google-sheets-part-3-5e69f33f94684.png",
-          "width": 1600,
-          "height": 840,
-          "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-unity-technologies-acquires-artomatix.md",
-      "title": "Unity Technologies acquires Artomatix",
-      "excerpt": "award-winning software company that uses AI and neural networks to streamline 3D artistic workflows in the entertainment industry has been acquired by Unity Technologies. Used by 3D artists worldwide across gaming, entertainment, industrial, and design industries, Artomatix’s flagship product, ArtEngine, uses artificial intelligence to help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techcentral.ie/unity-technologies-acquires-artomatix/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mozilla",
-        "domain": "techcentral.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.techcentral.ie/wp-content/uploads/2014/01/Mergers_Size.jpg",
-          "width": 620,
-          "height": 350,
-          "title": "Unity Technologies acquires Artomatix",
           "attribution": null
         }
       ],

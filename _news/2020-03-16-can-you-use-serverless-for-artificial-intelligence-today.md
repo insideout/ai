@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
+images:
+  - url: "https://miro.medium.com/max/1200/1*1C3siq0SEr_vPuESChNTTw.png"
+    width: 1200
+    height: 795
+    title: "Can you use Serverless for Artificial Intelligence today?"
+
 secured: "LbvOIWW/dlnota7fOZtcGDRglleV4m9aRyNITesG9BmAf+hXwvl6NS8hzGSsCYo1jNNIGWq9uTNKeZTINzt+svyRJ8yTDB5mqfrERcPNxhrZxVfonOWIxUQ4yEg0Xcf/NY5i3t7irXaFznKxqychl+fxUwGpHw0M89QWCZsvsKLndr1c971f/IeJ/njk7PzFDITX9sh96nVSQBbuWGhcmB3xl8R1Ws5Rn6fOYJLGLl7Rut5Rfd5SA7aAonztuUrYlp1fkWww/i4QXZaOeYPl4qHxaRi46Odxlku1AmDPpb91YBet/rXf8EcjKvTaxPOj;4y9P6xAmghie1Kl5GioarQ=="
 ---
 

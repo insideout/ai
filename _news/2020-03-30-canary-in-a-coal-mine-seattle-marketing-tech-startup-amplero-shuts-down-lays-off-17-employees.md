@@ -4,9 +4,11 @@ title: "‘Canary in a coal mine’: Seattle marketing tech startup Amplero shut
 excerpt: "Layoffs are already hitting tech companies hard amid the COVID-19 outbreak and uncertain future. Leafly, an online cannabis brand based in Seattle, let 91 employees go last week, while AI writing startup Textio laid off 30 people. Co-working startup The Riveter and clothing rental service Armoire temporarily furloughed employees ..."
 publishedDateTime: 2020-03-30T02:46:00Z
 webUrl: "https://www.geekwire.com/2020/canary-coal-mine-seattle-marketing-tech-startup-amplero-shuts-lays-off-17-employees/"
+ampWebUrl: "https://www.geekwire.com/2020/canary-coal-mine-seattle-marketing-tech-startup-amplero-shuts-lays-off-17-employees/amp/"
+cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/canary-coal-mine-seattle-marketing-tech-startup-amplero-shuts-lays-off-17-employees/amp/"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:

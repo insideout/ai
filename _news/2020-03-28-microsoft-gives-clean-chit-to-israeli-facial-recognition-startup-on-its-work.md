@@ -4,8 +4,10 @@ title: "Microsoft gives clean chit to Israeli facial recognition startup on its 
 excerpt: "March 27 (Reuters) - Microsoft Corp said on Friday a probe found that an Israeli facial recognition startup it funded is not enabling a mass surveillance program in the West Bank as reported by some media outlets. AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz’s TheMarker business newspaper and NBC ..."
 publishedDateTime: 2020-03-28T00:04:00Z
 webUrl: "https://www.reuters.com/article/microsoft-anyvision/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work-idUSL4N2BK4O4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL4N2BK4O4"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BK4O4"
 type: article
-quality: 46
+quality: 86
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png"
+    width: 1200
+    height: 630
+    title: "Microsoft gives clean chit to Israeli facial recognition startup on its work"
 
 related:
   - title: "Microsoft sells stake in Israeli facial recognition company"

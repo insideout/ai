@@ -2,6 +2,716 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-27-cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage.md",
+      "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
+      "excerpt": "SaaS is helping manufacturers and trucking companies save money and boost efficiencies by making the supply chain easier to manage and more transparent. Until recently, company executives have chalked up the cost and headaches of managing the supply chain as an unavoidable cost of doing business. Walmart started to change this trend several ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
+      "publishedDateTime": "2020-03-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/10/14d74bfd-5f87-4518-82bc-b0ace8aa23cf/thumbnail/1200x675/3286603a2fa4dfecf28b20f2988dfc29/20200110-ibm-jason-teena.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent.md",
+      "title": "AI Weekly: Coronavirus prompts call to service for ML talent",
+      "excerpt": "launched the C3.ai Digital Transformation Institute and issued a call for AI techniques to mitigate pandemic fallout, with up to $5.8 million in prizes. Last weekend, we saw supercomputer companies and major cloud providers like AWS, Microsoft’s Azure, and Google Cloud Platform join a consortium to ensure coronavirus researchers don’t ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/",
+      "publishedDateTime": "2020-03-27T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "AI Weekly: Coronavirus prompts call to service for ML talent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy.md",
+      "title": "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy",
+      "excerpt": "Huiying Medical, a medical devices company based in Huizhou, China, claims to have developed an AI imaging solution that uses CT chest scans to detect the presence of COVID-19. The company asserts that it might be useful in regions of the world without access to reverse transcription-polymerase chain reaction (RT-PCR), the standard testing ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/",
+      "publishedDateTime": "2020-03-27T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025.md",
+      "title": "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025",
+      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence In Fashion Retail Market which has",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-24?mod=mw_quote_news&tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-theres-a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do.md",
+      "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
+      "excerpt": "There was a bit of extra excitement in the San Francisco Bay Area traffic last year when a baby sea lion decided it was time to checkout rush hour activities and so wandered or waddled onto the hectic and perilous Highway 101 (a similar occurrence happened a few years ago in northward Mendocino County).",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
+      "publishedDateTime": "2020-03-27T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fe341b8d42ae9446faa5a1f4a0bce99aa%2F0x0.jpg",
+          "width": 1200,
+          "height": 762,
+          "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
+      "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+      "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
+      "publishedDateTime": "2020-03-27T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg",
+          "width": 980,
+          "height": 980,
+          "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
+      "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
+      "excerpt": "Internet service providers have taken steps to ensure that internet demand doesn’t overwhelm capacity. Beyond capital improvements, some — including Verizon, AT&T, Vodafone, Cox, and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
+      "publishedDateTime": "2020-03-27T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-473061628-e1585083199228.jpg?fit=1244%2C600&strip=all",
+          "width": 1244,
+          "height": 600,
+          "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
+      "title": "What winemaking has taught me about artificial intelligence",
+      "excerpt": "It was a central part of the culture in ancient Rome. Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and the Dartmouth Summer Research Project, and only in recent years has it emerged as a technology poised to impact society on par with the industrial revolution in terms of eliminating whole job segments such as ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-03-27T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-wine-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "What winemaking has taught me about artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
+      "title": "Human Compatible: A timely warning on the future of AI",
+      "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
+      "publishedDateTime": "2020-03-27T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Human Compatible: A timely warning on the future of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report.md",
+      "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
+      "excerpt": "According to a report by the BBC, Amazon, Microsoft and Palantir will be part of the effort, as well as Faculty AI, a London-based company that specialises in machine learning and artificial intelligence ... Amazon Web Services will provide cloud-computing resources, while Microsoft Azure is said to have built a \"gigantic\" data store to ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "publishedDateTime": "2020-03-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/24/c1e56d77-d792-423d-b2a0-51f41dcd0e59/thumbnail/1200x675/0216fc8a384fce84009b1f6fcd8dc9cd/us-israel-south-korea-and-china-look-at-5e750948daf32b2d76d61991-1-mar-24-2020-17-50-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
+      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
+      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/sg/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "publishedDateTime": "2020-03-27T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts.md",
+      "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+      "excerpt": "IBM (NYSE:IBM) is a clear play on data, particularly within the healthcare space. The company is famous for Watson, its Artificial Intelligence technology with a wide range of applications across the medical industry. From detecting cancers to optimizing ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "publishedDateTime": "2020-03-27T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?310746237",
+          "width": 1024,
+          "height": 512,
+          "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-why-transparency-is-key-to-promoting-trust-in-artificial-intelligence.md",
+      "title": "Why transparency is key to promoting trust in artificial intelligence",
+      "excerpt": "As AI gets more and more embedded in our lives and helps make decisions that are increasingly significant to us, we’re rightly concerned about transparency. When big new stories like the Cambridge Analytica scandal or ongoing discussion around inherent biases in facial recognition hit the headlines, we are concerned about bias (intentional ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "publishedDateTime": "2020-03-27T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1585240726/itpro/2020/03/shutterstock_AI_understanding_unlock.jpg",
+          "width": 9000,
+          "height": 5063,
+          "title": "Why transparency is key to promoting trust in artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech.md",
+      "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+      "excerpt": "Self-driving truck startup TuSimple is partnering with automotive supplier ZF to develop and produce autonomous vehicle technology, such as sensors, on a commercial scale. The partnership, slated to begin in April, will cover China, Europe and North America. The two companies will co-develop sensors needed in autonomous vehicle technology such ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "publishedDateTime": "2020-03-26T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
+      "title": "Will this crisis help set autonomous AI on the right course?",
+      "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
+      "publishedDateTime": "2020-03-26T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": "Will this crisis help set autonomous AI on the right course?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-new-ai-powered-blood-test-could-reveal-lung-cancer-without-a-ct-scan.md",
       "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
       "excerpt": "A blood test that uses machine learning to hunt for cancer DNA could reveal lung cancer in patients who otherwise would never have been tested. The system is accurate in roughly two-thirds of patients, but that may be enough to save an additional 1,200 lives per year, according to the scientists who developed it. Visit BGR’s homepage for more ...",
@@ -351,276 +1061,23 @@
       ]
     },
     {
-      "path": "_news/2020-03-26-textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants.md",
-      "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
-      "excerpt": "For companies like Nvidia, for example, its use of Textio has led to a higher number of women job applicants. Textio uses natural language processing to color-highlight and interrupt bias communication in workplace text like job applications, LinkedIn job candidate outreach, or emails on Outlook or Gmail. Accommodation language- and ageism ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
-      "publishedDateTime": "2020-03-26T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/textio-2-1.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams.md",
-      "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
-      "excerpt": "Now to add to that we’re starting to see a new theme: apps to help agents track how they work and to work better. Today comes the latest startup in that category, a Dutch company called Kaizo, which uses AI and gamification to provide feedback on agents’ work, tips on what to do differently, and tools to set and work to goals — all of ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/amp/",
-      "publishedDateTime": "2020-03-26T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/personal-agents-training-space.png?w=680",
-          "width": 680,
-          "height": 502,
-          "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
-      "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
-      "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
-      "publishedDateTime": "2020-03-26T08:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design39-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-amds-processors-to-power-microsoft-azure-virtual-machines.md",
-      "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
-      "excerpt": "AMD recently announced that its second generation EPYC processors and Radeon Instinct MI25 GPUs have been adopted by Microsoft’s MSFT Azure division to power its NVv4 virtual machines (VMs). AMD’s hardware will enable Azure to provide customers with a cloud based virtual desktop capable of handling memory and graphics intensive as well as high-performance computing workloads.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
-      "publishedDateTime": "2020-03-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1371717012",
-          "width": 1024,
-          "height": 512,
-          "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-ibm-launches-data-based-tools-to-help-track-coronavirus-cases.md",
-      "title": "IBM Launches Data-Based Tools to Help Track Coronavirus Cases",
-      "excerpt": "The new offerings include an online dashboard, run on IBM’s public cloud, which analyses data from WHO and several national, state and local governments leveraging IBM Watson. Data will also be ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ibm-launches-data-based-tools-to-help-track-coronavirus-cases-2020-03-26",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-launches-data-based-tools-to-help-track-coronavirus-cases-2020-03-26?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-launches-data-based-tools-to-help-track-coronavirus-cases-2020-03-26?amp",
-      "publishedDateTime": "2020-03-26T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1661594816",
-          "width": 1024,
-          "height": 512,
-          "title": "IBM Launches Data-Based Tools to Help Track Coronavirus Cases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
-      "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-      "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/",
-      "ampWebUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
-      "publishedDateTime": "2020-03-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/IMG_0440-1-e1579703019623.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 483,
-          "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
-      "title": "What an all-digital AI research conference looks like",
-      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
+      "path": "_news/2020-03-26-why-isnt-ai-helping-us-today-with-covid-19.md",
+      "title": "Why isn't AI helping us today with COVID-19?",
+      "excerpt": "Skip waiting days or weeks for an appointment, then being asked questions with looking and poking. Just go online, get the questions from an AI, and then get a physical appointment if warranted. That's the goal of medical automatic diagnosis (MAD). But like all ML/AI apps, models needs training. Since we're dealing with humans, we can't just ...",
       "heat": 87,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "publishedDateTime": "2020-03-26T06:19:00-07:00",
+      "webUrl": "https://www.zdnet.com/article/why-isnt-ai-helping-us-today-with-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/why-isnt-ai-helping-us-today-with-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/why-isnt-ai-helping-us-today-with-covid-19/",
+      "publishedDateTime": "2020-03-26T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -632,10 +1089,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/26/e077db96-f1a0-4f55-a492-cba56a0fc7a7/thumbnail/1200x675/84fb969be6bdbf2843dca67a6bf8ac6b/20200325-scott-karen-tech.jpg",
           "width": 1200,
-          "height": 595,
-          "title": "What an all-digital AI research conference looks like",
+          "height": 675,
+          "title": "Why isn't AI helping us today with COVID-19?",
           "attribution": null
         }
       ],
@@ -644,430 +1101,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
-      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
-      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "publishedDateTime": "2020-03-26T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tusimple-zf-partner-to-develop-and-produce-autonomous-truck-technologies.md",
-      "title": "TuSimple, ZF partner to develop and produce autonomous truck technologies",
-      "excerpt": "The companies will accelerate self-driving tech developed for big rigs with true driverless tests start in 2021.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/tusimple-zf-autonomous-truck-technology-partnership/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tusimple-zf-autonomous-truck-technology-partnership/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tusimple-zf-autonomous-truck-technology-partnership/",
-      "publishedDateTime": "2020-03-26T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/4pHgn_zavWjuSyUQlY-w2dLTIJE=/2020/03/26/c78205ca-e6b7-438e-a579-08892973d5ae/p1133202-scaled-ogi.jpg",
-          "width": 2560,
-          "height": 1344,
-          "title": "TuSimple, ZF partner to develop and produce autonomous truck technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-how-ai-can-help-pinpoint-opportunity-zones-true-opportunities.md",
-      "title": "How AI Can Help Pinpoint Opportunity Zones' True Opportunities",
-      "excerpt": "Alternative sources like street views, cellular data and social media, rather than out-of-date information from U.S. Census data, offer clearer views of potential opportunities within Opportunity Zones.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jeffsteele/2020/03/26/how-ai-can-help-pinpoint-opportunity-zones-true-opportunities/",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffsteele/2020/03/26/how-ai-can-help-pinpoint-opportunity-zones-true-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffsteele/2020/03/26/how-ai-can-help-pinpoint-opportunity-zones-true-opportunities/amp/",
-      "publishedDateTime": "2020-03-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7bdf5fd8e1ae0007b7814e%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3612%26cropY1%3D356%26cropY2%3D2049",
-          "width": 1200,
-          "height": 563,
-          "title": "How AI Can Help Pinpoint Opportunity Zones' True Opportunities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-news-rules-could-finally-clear-the-way-for-self-driving-cars.md",
-      "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
-      "excerpt": "Since an internet search company named Google began testing self-driving vehicles more than a decade ago, the still-in-development technology has faced a niggling issue: The federal vehicle safety rules that govern car design assume that a human sits behind the steering wheel of each vehicle. In fact, they assume each vehicle has a steering wheel.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/",
-      "ampWebUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
-      "publishedDateTime": "2020-03-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e7b7a0fadfa9d0008e095b2/master/pass/Transpo-selfdrivingcar-1158000221.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work.md",
-      "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
-      "excerpt": "How do you find the solution that is right for you, especially if you're under pressure to right wrongs during difficult times like these? Here are a few key things to consider.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
-      "publishedDateTime": "2020-03-26T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F03%2F113.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-virtual-patient-care-using-ai.md",
-      "title": "Virtual Patient Care Using AI",
-      "excerpt": "Healthcare systems need to start focusing on using AI in the patient care life cycle, incorporating conversational AI into their core strategy in order to scale successfully and make an impact.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "publishedDateTime": "2020-03-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-35.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Virtual Patient Care Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.md",
-      "title": "TensorFlow deepens its advantages in the AI modeling wars",
-      "excerpt": "TensorFlow remains the dominant AI modeling framework. Most AI (artificial intelligence) developers continue to use it as their primary open source tool or alongside PyTorch, in which they develop most of their ML (machine learning), deep learning, and NLP (natural language processing) models. In the most recent O’Reilly survey on AI ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/compet_strategy_win_chess_advantage-100746028-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "TensorFlow deepens its advantages in the AI modeling wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-megvii-makes-deep-learning-ai-framework-open-source-as-china-moves-to-reduce-reliance-on-us-platforms.md",
-      "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
-      "excerpt": "Chinese artificial intelligence (AI) start-up Megvii Technology announced on Wednesday that it would make its deep learning framework open-source, as China steps up the development of home-grown AI and makes the technologies more accessible. Initially developed in 2014, MegEngine is part of Megvii’s proprietary AI platform, Brain++ ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "publishedDateTime": "2020-03-25T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/26/7d1776f4-6e7d-11ea-b0ed-5e14cf8eb9e1_image_hires_090437.jpg?itok=gFifpPde&v=1585184684",
-          "width": 1200,
-          "height": 630,
-          "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-coronavirus-robot-doctor-could-help-with-future-outbreak.md",
-      "title": "Coronavirus: Robot doctor could help with future outbreak",
-      "excerpt": "Artificial intelligence and robotics experts in Edinburgh are working to create what they hope will be the first healthcare robots to hold a conversation with more than one person at a time. It is a project designed to help older people, but it could one day be used to help handle virus outbreaks like the coronavirus pandemic. \"It's not ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.co.uk/news/uk-scotland-52042891",
-      "ampWebUrl": "https://www.bbc.co.uk/news/amp/uk-scotland-52042891",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/uk-scotland-52042891",
-      "publishedDateTime": "2020-03-25T17:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/E4AE/production/_111424585_icub.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Coronavirus: Robot doctor could help with future outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-ai-revolutionizing-the-museum-experience-at-the-smithsonian.md",
-      "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
-      "excerpt": "(Disclosure: I’m a host of the AI Today podcast). SoftBank Robotics Pepper robot(Photo by Joan Cros/NurPhoto via Getty Images ... interactions that people seem to have with Pepper is when they first approach the bot, they typically start off standing further away because they aren't exactly sure how to interact. However, since Pepper is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
-      "publishedDateTime": "2020-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1127839788%2F0x0.jpg",
-          "width": 1200,
-          "height": 1803,
-          "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

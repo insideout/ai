@@ -48,6 +48,97 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data.md",
+      "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+      "excerpt": "The recent success of deep learning is the result of the marriage of big data and GPUs, significantly increasing the breadth and depth of the data used for training computers and reducing the time required for training deep learning algorithms.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "publishedDateTime": "2020-03-30T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ea66a958e13498c8aaf2f2ad7a2d9d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
+      "title": "Distributed training with Azure Machine Learning",
+      "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Distributed training with Azure Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
       "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
       "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
@@ -1073,18 +1164,18 @@
     {
       "path": "_news/2020-03-19-north-american-deep-learning-chipset-market-by-type-technology-end-user-and-country-forecast-to-2025.md",
       "title": "North American Deep Learning Chipset Market by Type, Technology, End-user and Country - Forecast to 2025",
-      "excerpt": "Research and Markets also offers Custom Research services providing focused, comprehensive and tailored research.",
+      "excerpt": "The \"North America Deep Learning Chipset Market, by Type, by Technology, by End User, by Country, Industry Analysis",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/19/2003377/0/en/North-American-Deep-Learning-Chipset-Market-by-Type-Technology-End-user-and-Country-Forecast-to-2025.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15605457/north-american-deep-learning-chipset-market-by-type-technology-end-user-and-country-forecast-to-20",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-19T05:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1177,80 +1268,6 @@
           "width": 796,
           "height": 417,
           "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-test-time-augmentation-for-deep-learning-based-cell-segmentation-on-microscopy-images.md",
-      "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-      "excerpt": "Recent advancements in deep learning have revolutionized the way microscopy images of cells are processed. Deep learning network architectures have a large number of parameters, thus, in order to reach high accuracy,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61808-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61808-3/MediaObjects/41598_2020_61808_Fig1_HTML.png",
-          "width": 685,
-          "height": 319,
-          "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
-      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
-      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
-          "width": 685,
-          "height": 502,
-          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
           "attribution": null
         }
       ],

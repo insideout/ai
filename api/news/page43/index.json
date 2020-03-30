@@ -2,6 +2,771 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
+      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "publishedDateTime": "2020-02-19T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo.md",
+      "title": "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO",
+      "excerpt": "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crn.com/news/security/endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/025a-0ebd3d78ff5f-cb22610bd78b-1000/86796455.jpeg",
+          "width": 399,
+          "height": 399,
+          "title": "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
+      "title": "EU puts up AI and data strategies with an ethical twist",
+      "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
+      "ampWebUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
+      "publishedDateTime": "2020-02-19T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": "EU puts up AI and data strategies with an ethical twist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-what-explainable-ai-really-means-and-what-it-means-for-your-business-vb-live.md",
+      "title": "What explainable AI really means and what it means for your business (VB Live)",
+      "excerpt": "White-box AI is getting heaps of attention, in part because it brings business value to customers and companies alike. Learn why businesses are moving away from black box systems to more explainable AI — and what it really means to be explainable — when you catch up on this VB Live event. Access free on demand right here. White box and ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/what-explainable-ai-really-means-what-it-means-for-your-business-vb-live/amp/",
+      "publishedDateTime": "2020-02-19T09:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-1163568487.jpg?fit=2098%2C1132&strip=all",
+          "width": 2098,
+          "height": 1132,
+          "title": "What explainable AI really means and what it means for your business (VB Live)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-pentagon-to-adopt-detailed-principles-for-using-ai.md",
+      "title": "Pentagon to Adopt Detailed Principles for Using AI",
+      "excerpt": "However, he said, \"Taking AI ethics seriously could increase the chances that some skeptics in the broader AI community are willing to work with DoD while also potentially improving the reliability and effectiveness of military uses of algorithms.\"",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/pentagon-adopt-detailed-principles-using-ai/163191/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/02/19/NGdrone20200219/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Pentagon to Adopt Detailed Principles for Using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-levels-and-limits-of-ai.md",
+      "title": "Levels And Limits Of AI",
+      "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
+      "publishedDateTime": "2020-02-19T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141218835%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6400%26cropY1%3D663%26cropY2%3D4263",
+          "width": 1200,
+          "height": 675,
+          "title": "Levels And Limits Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
+      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
+      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "publishedDateTime": "2020-02-19T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room.md",
+      "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+      "excerpt": "Scientists are excited about the potential for artificial intelligence, improved connectivity, and other technological advancements to make robotic",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/E98B2CC0-5278-11EA-B5C7-52AF3B60D99D",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/E98B2CC0-5278-11EA-B5C7-52AF3B60D99D",
+      "publishedDateTime": "2020-02-19T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA008_0220_b_ZH_20200210151151.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla.md",
+      "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+      "excerpt": "Two McAfee researchers managed to trick a 2016 Tesla into a dangerous burst of acceleration by changing a speed limit reading from 35 m.p.h to 85 m.p.h.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "publishedDateTime": "2020-02-19T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
+      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
+      "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
+      "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.euractiv.com/section/digital/news/high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EURACTIV",
+        "domain": "euractiv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/02/w_55884866-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-your-future-face-scanning-phone-could-check-for-live-skin.md",
+      "title": "Your future face-scanning phone could check for live skin",
+      "excerpt": "Sound creepy? It may actually make your Face ID-type sensor more secure and accurate. The company behind this expects to see the tech in phones by 2021. Fooling a face-scanning phone camera may be a lot more challenging in 2021.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/your-future-face-scanning-phone-could-check-for-live-skin/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
+      "publishedDateTime": "2020-02-19T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/D8Y4cgycDzhP4a5QPsbrC1_5WOI=/756x567/2020/02/18/14de88f1-b752-4f08-9a48-6cb05ac87b9e/trinamix-camera.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Your future face-scanning phone could check for live skin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here.md",
+      "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
+      "excerpt": "Behind that broad description, the new strategy's objectives are specific: establish rules on data and AI that are quintessentially European – regulation that \"puts people first\" and fosters \"trustworthy technology\". In a white paper on artificial intelligence released as part of the new strategy announcement, the European organisation ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
+      "publishedDateTime": "2020-02-19T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/12/406da351-9402-440d-9f74-da3fa7b763f3/thumbnail/1200x675/cafc827b01356f8c2c0d097d94577582/13-samsung-galaxy-s20-ultra-zoom-1-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-malaysian-firm-offers-ai-based-profiling-of-chinese-visitors-for-virus.md",
+      "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
+      "excerpt": "Malaysia’s MYEG Services Bhd ( MYEG.KL) said on Wednesday it had developed a coronavirus risk-profiling system for visitors from China and was offering the artificial intelligence-based service to the governments of Malaysia and the Philippines.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-china-health-malaysia-profiling-idUSKBN20D1WJ",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20D1WJ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20D1WJ",
+      "publishedDateTime": "2020-02-19T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200219&t=2&i=1492406894&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1I18X",
+          "width": 817,
+          "height": 545,
+          "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-ai-is-top-game-changing-technology-in-healthcare-industry.md",
+      "title": "AI Is Top Game-Changing Technology In Healthcare Industry",
+      "excerpt": "Of the many ingredients that go into quality healthcare, comprehensive patient data is close to the top of the list. No one knows this more than Mayur Saxena, CEO and founder of Droice Labs. Saxena created his startup while he was pursuing his doctorate degree at Columbia University,",
+      "heat": 204,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/",
+      "publishedDateTime": "2020-02-19T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ad9ef133f400076c28a0%2F0x0.jpg",
+          "width": 500,
+          "height": 500,
+          "title": "AI Is Top Game-Changing Technology In Healthcare Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations.md",
+      "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
+      "excerpt": "“Our continued investment in expanding AI capabilities across Dynamics 365 helps … organization[s] accelerate ... Customer Insights now plays nicely with Azure Synapse Analytics, allowing managers to run customer data through analytical processing pipelines and machine learning models. This in conjunction with prebuilt APIs that enable ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/microsofts-new-dynamics-365-services-apply-ai-to-finance-and-project-operations/amp/",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s new Dynamics 365 services apply AI to finance and project operations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-this-smartphone-sensor-can-detect-live-skin-to-halt-facial-login-spoofing.md",
+      "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+      "excerpt": "Apple’s Face ID is the gold standard in facial recognition tech, but it’s not one hundred percent foolproof. Highly detailed 3D printed masks can trick it. Less sophisticated 2D sensors, still found in many smartphones, can be tricked with a photo. The next generation of facial recognition technology is on the horizon, however, thanks to 3D ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/trinamix-live-skin-module-facial-login-spoofing/?amp",
+      "publishedDateTime": "2020-02-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/trinamix-live-skin-demo-8-of-7-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "This smartphone sensor can detect live skin to halt facial login spoofing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-eu-introduces-ai-strategy-to-build-ecosystem-of-trust.md",
+      "title": "EU introduces AI strategy to build ‘ecosystem of trust’",
+      "excerpt": "In a series of announcements, EC leaders expressed a mix of optimism that AI could help tackle challenges such as climate change, mobility, and health care, along with determination not to let private tech companies dominate the data needed for development of these algorithms. “We want citizens to trust the new technology,” said Ursula von ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/amp/",
+      "publishedDateTime": "2020-02-19T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/P042638-849713-e1582116360900.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "EU introduces AI strategy to build ‘ecosystem of trust’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-5-top-ranked-tech-stocks-to-gain-from-advanced-ml-capabilities.md",
       "title": "5 Top-Ranked Tech Stocks to Gain From Advanced ML Capabilities",
       "excerpt": "Machine learning (ML) requires no introduction in this data-driven automation era. ML, an inextricable application of artificial intelligence (AI) arena, enables systems to utilize existing data to predict outcomes and identify trends,",
@@ -294,746 +1059,6 @@
         "AI",
         "AI in Healthcare",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-bitcoins-guardian-angel-inside-coinbase-billionaire-brian-armstrongs-plan-to-make-crypto-safe-for-all.md",
-      "title": "Bitcoin’s Guardian Angel: Inside Coinbase Billionaire Brian Armstrong’s Plan To Make Crypto Safe For All",
-      "excerpt": "For now, Coinbase looks like a casino, but founder Brian Armstrong sees it as just the beginning of a financial liberation of the planet.",
-      "heat": 170,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/amp/",
-      "publishedDateTime": "2020-02-19T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c6e636895e00006839144%2F0x0.jpg%3FcropX1%3D627%26cropX2%3D2881%26cropY1%3D461%26cropY2%3D1730",
-          "width": 1200,
-          "height": 676,
-          "title": "Bitcoin’s Guardian Angel: Inside Coinbase Billionaire Brian Armstrong’s Plan To Make Crypto Safe For All",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters.md",
-      "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
-      "excerpt": "Can we get AI talent to come to our shores, not just for education, but for work? Can we get AI talent to work in national security in a way that's consistent with their principles? Can we get a federal government ... the first thing we need to say, I think there's a lot of hype in Silicon Valley around AI and cyber on defense.",
-      "heat": 133,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbsnews.com/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/transcript-tech-expert-ben-buchanan-talks-with-michael-morell-on-intelligence-matters/",
-      "publishedDateTime": "2020-02-19T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/19/638f33e3-728d-4dc0-a92f-16a59234d241/thumbnail/1200x630/ec4e33af4cbd2e79aee757eb4fe5d69f/screen-shot-2020-02-18-at-7-49-39-pm.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Transcript: Tech expert Ben Buchanan talks with Michael Morell on \"Intelligence Matters\"",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025.md",
-      "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
-      "excerpt": "The Global Artificial Intelligence in Retail Market was valued at USD 1.80 billion in 2019 and is expected to reach USD 10.90 billion by 2025, at a CAGR of 35% over the forecast period 2020 - 2025. AI will drive faster business decisions in marketing,",
-      "heat": 168,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-retail-market-2020-challenges-and-development-opportunities-till-2025-2020-02-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T01:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence in Retail Market 2020 Challenges and Development Opportunities till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-01.md",
-      "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
-      "excerpt": "Shares of iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) traded down 0.1% during trading on Monday . The company traded as low as $28.74 and last traded at $28.80, 26,336 shares changed hands during mid-day trading. A decline of 33% from the average session volume of 39,142 shares. The stock had previously closed at $28.84.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/02/19/ishares-robotics-and-artificial-intelligence-etf-nysearcairbo-stock-price-down-0-1.html/amp",
-      "publishedDateTime": "2020-02-19T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO) Stock Price Down 0.1%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai.md",
-      "title": "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI",
-      "excerpt": "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "publishedDateTime": "2020-02-18T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
-      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
-      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T23:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-the-truck-stops-here.md",
-      "title": "The Truck Stops Here",
-      "excerpt": "While employment in traditional retailing has significantly declined in the past five years ... fee), making it so that you can just hand off a return product at your porch, a parking lot or on your morning train, and they will package and process it for you — easy.” Honeywell’s Smith said the future of last-mile delivery will likely ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://wwd.com/business-news/business-features/retail-logistics-report-1203491914/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T21:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Women's Wear Daily",
-        "domain": "wwd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
-      "title": "Artificial intelligence raises question of who’s an inventor",
-      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
-      "publishedDateTime": "2020-02-18T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence raises question of who’s an inventor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
-      "title": "This phone uses AI to block you taking naked selfies",
-      "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-phone-uses-ai-to-block-you-taking-naked-selfies/",
-      "publishedDateTime": "2020-02-18T19:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/QiliQ1lVT-fjyYxebjYV2stM8r8=/756x567/2020/02/19/8ff3f60d-9d84-46e2-a6b1-ef42e5874c1c/screen-shot-2020-02-19-at-2-22-28-pm.png",
-          "width": 756,
-          "height": 567,
-          "title": "This phone uses AI to block you taking naked selfies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-nasa-missed-these-11-dangerous-asteroids-but-an-ai-caught-them.md",
-      "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
-      "excerpt": "To see just how many possibly dangerous asteroids we’ve been missing, researchers from the Netherlands built an AI network to analyze the data and see what it could find. AMAZON'S TOP DEALS: These Amazon deals are up to 50% off, today only! As the researchers explain in a new paper published in Astronomy & Astrophysics, the computer brain was ...",
-      "heat": 167,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/",
-      "ampWebUrl": "https://bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/02/18/ai-asteroids-detection-threatening-earth/amp/",
-      "publishedDateTime": "2020-02-18T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2016/12/asteroid.png",
-          "width": 1560,
-          "height": 1205,
-          "title": "NASA missed these 11 dangerous asteroids, but an AI caught them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
-      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
-      "publishedDateTime": "2020-02-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
-          "width": 3000,
-          "height": 2111,
-          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
-      "title": "Document Understanding AI — Google Cloud Explained",
-      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
-          "width": 688,
-          "height": 273,
-          "title": "Document Understanding AI — Google Cloud Explained",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
-      "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
-      "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/humanly/",
-      "ampWebUrl": "https://www.geekwire.com/2020/humanly/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/humanly/amp/",
-      "publishedDateTime": "2020-02-18T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/humanly-630x619.jpg",
-          "width": 630,
-          "height": 619,
-          "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-google-updates-its-collection-feature-to-add-ai-capabilities.md",
-      "title": "Google Updates Its Collection Feature To Add AI Capabilities",
-      "excerpt": "Google has started the year with a range of updates to its most popular services. This time, it’s the recent AI upgrade to Google’s Collections feature.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
-      "publishedDateTime": "2020-02-18T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198299608%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D4662%26cropY1%3D0%26cropY2%3D2401",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Updates Its Collection Feature To Add AI Capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
-      "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
-      "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts/",
-      "ampWebUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
-      "publishedDateTime": "2020-02-18T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F02%252F18%252F93%252F671446455065416791c366d047a0f8eb.c1d5a.jpg%252F1200x630.jpg?signature=AIlDxMdA7Eso7mMc3YYiavO5Md4=",
-          "width": 1200,
-          "height": 630,
-          "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-how-ai-therapists-and-machine-learning-could-be-the-answer-to-affordable-mental-health-care.md",
-      "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
-      "excerpt": "People reveal more personal and intimate details to human-like apps and bots that can ‘sense’ emotions and concerns.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/story/how-ai-therapists-could-shrink-the-cost-of-mental-health-2020-02-18",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/9588DA02-525D-11EA-B5C7-52AF3B60D99D",
-      "publishedDateTime": "2020-02-18T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s.marketwatch.com/public/resources/images/MW-HZ996_0220_b_ZH_20200210144803.jpg",
-          "width": 890,
-          "height": 501,
-          "title": "How AI ‘therapists’ and machine learning could be the answer to affordable mental health care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Ethics",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-cloud-computing-robotics-bonds-etf-industry-leaders-talk-2020s-top-themes.md",
-      "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
-      "excerpt": "Inflows into exchange-traded funds are picking up steam in 2020, driven by investor interest in cloud computing, robotics and a host of other themes, industry leaders say.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/02/18/cloud-computing-robotics-bonds-etf-leaders-talk-2020-themes.html",
-      "publishedDateTime": "2020-02-18T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104933877-RTX46XGD-nvidia.jpg?v=1574694026",
-          "width": 2000,
-          "height": 1333,
-          "title": "Cloud computing, robotics, bonds: ETF industry leaders talk 2020's top themes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-tubemogul-execs-launch-arize-ai-for-ai-troublehsooting.md",
-      "title": "TubeMogul execs launch Arize AI for AI troublehsooting",
-      "excerpt": "A new startup called Arize AI is building what it calls a real-time analytics platform for artificial intelligence and machine learning. The company is led by CEO Jason Lopatecki, who has also served as chief strategy officer and chief innovation officer at TubeMogul, the video ad company acquired by Adobe. TubeMogul’s co-founder and former ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/18/tubemogul-execs-launch-arize-ai-for-ai-troublehsooting/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/18/tubemogul-execs-launch-arize-ai-for-ai-troublehsooting/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/18/tubemogul-execs-launch-arize-ai-for-ai-troublehsooting/amp/",
-      "publishedDateTime": "2020-02-18T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/DSC_0597.jpg?w=1000",
-          "width": 1000,
-          "height": 665,
-          "title": "TubeMogul execs launch Arize AI for AI troublehsooting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

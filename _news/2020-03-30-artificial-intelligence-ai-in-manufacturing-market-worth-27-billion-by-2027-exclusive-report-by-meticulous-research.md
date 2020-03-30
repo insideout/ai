@@ -4,8 +4,10 @@ title: "Artificial Intelligence (AI) in Manufacturing Market Worth $27 Billion b
 excerpt: "According to a new market research report titled, \"Artificial Intelligence in Manufacturing Market by Component, Technology"
 publishedDateTime: 2020-03-30T11:18:00Z
 webUrl: "https://www.benzinga.com/pressreleases/20/03/g15692719/artificial-intelligence-ai-in-manufacturing-market-worth-27-billion-by-2027-exclusive-report-by-me"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15692719"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15692719"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
@@ -39,7 +41,11 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "VqtwHXgh/obN701uVAikDPJjVCyHOJG0hVW4+dXtb6fGep/BUApJMCCmHTbHcm/lepVUVVpZEOZY7A6BogvDYaxjypD2+kW71Pha6YmjHDAGL3BCSbVx9AOXr5lwu72ZPKTif/nKlVp0WpfbXcnBo/BZ4Rk6cg1mASVgI6XbQfQbXsiVFftSx8B4WaRe7ThYg973b3rQrlAxV6xsJCpsTJuodixAcpAvLhl5fXngI74pVwg/X817jHnhYIjsqZyGlR39wmOgkk1Tm7k4Nhjm1ENq52bq4zkds1D7FK9eE2vTOce6Jv7Uq0Lp1HGimcbN;2M8Cb/G/Zqlc3YC7iqupyg=="
 ---

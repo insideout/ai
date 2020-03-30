@@ -2,6 +2,792 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-07-intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graphics-processing.md",
+      "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
+      "excerpt": "Some laptops with Tiger Lake processors are also expected to use Intel's upcoming discrete GPU, called the DGX1. Intel teased its discrete graphics processor last year at Computex, and at CES here it showed off a working demo of the GPU running Destiny 2 ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph",
+      "ampWebUrl": "https://www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/372882/intels-tiger-lake-laptop-cpu-brings-thunderbolt-4-ai-graph?amp=1",
+      "publishedDateTime": "2020-01-06T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/016yXQZCZtDGZxmUfpB8pav-3.fit_lpad.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel's Tiger Lake Laptop CPU Brings Thunderbolt 4, AI Graphics Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-07-waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads.md",
+      "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
+      "excerpt": "The updated metric puts Waymo far ahead of rivals like Yandex and Baidu, whose cars had driven ... In late 2017, the cofounder of Cruise, GM’s self-driving unit, told investors it was on the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/waymos-autonomous-cars-have-driven-20-million-miles-on-public-roads/amp/",
+      "publishedDateTime": "2020-01-06T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/waymo-ipace-e1572290208222.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Waymo’s autonomous cars have driven 20 million miles on public roads",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-07-samsung-envisions-even-more-personal-consumer-tech-at-ces-2020-including-a-cute-rolling-robot.md",
+      "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
+      "excerpt": "The \"Age of Experience\" includes companion robots, AI-powered homes and smart cities ... more enjoyable and more meaningful.\" \"2020 will start a new era in tech,\" he said during his presentation.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-co-ceo-hs-kim-envisions-more-personalized-consumer-tech-at-ces-2020/",
+      "publishedDateTime": "2020-01-06T19:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/QUF4DnSN92F_axDWPufG1xnxWjA=/756x567/2020/01/07/1e7e478d-657b-4055-a2a1-23cf37958d73/hs-kim-ces-2020-keynote-main-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Samsung envisions even more personal consumer tech at CES 2020 -- including a cute, rolling robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-07-ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu.md",
+      "title": "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU",
+      "excerpt": "AI accelerators, and discrete-level integrated graphics based on the new Intel Xe graphics architecture,\" the company said. The first Tiger Lake systems are expected to ship later this year. Intel also offered a preview of the first Xe-based discrete GPU ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ces-2020-intel-previews-tiger-lake-mobile-processors-and-discrete-gpu/",
+      "publishedDateTime": "2020-01-06T19:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/07/97b8676c-9886-4528-b8e9-30514da51ca5/intel-tiger-lake-4.jpg",
+          "width": 627,
+          "height": 432,
+          "title": "CES 2020: Intel previews Tiger Lake mobile processors and discrete GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-trump-administration-to-begin-collecting-dna-from-detained-immigrants.md",
+      "title": "Trump administration to begin collecting DNA from detained immigrants",
+      "excerpt": "The assessment also says that CPB will not collect DNA from people older than 79 or from people who have a physical or cognitive disability ... the Department of Health and Human Services said it was using DNA testing to reunite separated families.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/1/6/21052229/ice-cbp-immigration-dna-collection-detainees-trump-administration",
+      "publishedDateTime": "2020-01-06T14:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PPB59OZ1ir42Az3bKi98Gf66LO0=/0x0:3888x2592/1400x933/filters:focal(1633x985:2255x1607):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66036718/1142459922.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Trump administration to begin collecting DNA from detained immigrants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems.md",
+      "title": "DeepMind researchers introduce hybrid solution to robot control problems",
+      "excerpt": "They’re often difficult to tackle, because it’s not always obvious which algorithms or control policies might best fit. That’s why researchers at Google parent company Alphabet’s DeepMind recently proposed a technique — continuous-discrete hybrid learning — that optimizes for discrete and continuous actions simultaneously ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/deepmind-researchers-introduce-hybrid-solution-to-robot-control-problems/amp/",
+      "publishedDateTime": "2020-01-06T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepmind_robotics-e1578341793570.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind researchers introduce hybrid solution to robot control problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-facebook-ai-text-based-generation-of-interactive-worlds.md",
+      "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
+      "excerpt": "In an attempt to make the relationship between such game elements more natural, researchers from Facebook AI Research, French computer science research lab Loria, and University College London recently proposed a new machine learning method for ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*wjzxkhVEKIvah_Ye22bz_g.png",
+          "width": 1200,
+          "height": 703,
+          "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise.md",
+      "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
+      "excerpt": "AI is the key to enabling an intelligent enterprise, but companies must overcome two major hurdles to make AI a reality within their organization. Companies around the world are transforming into “intelligent enterprises” – organizations that leverage disruptive technologies to boost productivity,",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/",
+      "ampWebUrl": "https://www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samsungsds/2020/01/06/bringing-ai-to-the-masses-the-key-to-enable-an-intelligent-enterprise/amp/",
+      "publishedDateTime": "2020-01-06T11:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e2c98ab5be6000762cf62%2F0x0.jpg",
+          "width": 1181,
+          "height": 663,
+          "title": "Bringing AI To The Masses: The Key To Enable An Intelligent Enterprise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia.md",
+      "title": "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA",
+      "excerpt": "An extensive analysis of the Global Artificial Intelligence (AI) Chips market strategy of the leading companies in the precision of import/export consumption, supply and demand figures, cost, price, revenue and gross margins.",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-is-thriving-worldwidegoogle-intel-nvidia-2020-01-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T11:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chips Market Is Thriving Worldwide|Google, Intel, NVIDIA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-robots-artificial-intelligence-highlight-ces-expo.md",
+      "title": "Robots, artificial intelligence highlight CES expo",
+      "excerpt": "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": "Robots, artificial intelligence highlight CES expo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter.md",
+      "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+      "excerpt": "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "ampWebUrl": "https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "publishedDateTime": "2020-01-06T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-microsoft-research-proposes-face-swapping-ai-and-face-forgery-detector.md",
+      "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
+      "excerpt": "In a pair of academic papers published by teams at Microsoft Research and Peking University ... In June 2019, a report revealed that a spy used an AI-generated profile picture to fool contacts in LinkedIn. And just last December, Facebook discovered hundreds of accounts with profile photos of fake faces synthesized using AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
+      "publishedDateTime": "2020-01-06T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/3b33aff6-35d5-414f-bb88-adb09af8b7a6-e1578332008715.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020.md",
+      "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
+      "excerpt": "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020/amp/",
+      "publishedDateTime": "2020-01-06T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/VB_FeatureImage_1200x600.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us.md",
+      "title": "Tech trade ban: Exporting AI is going to get harder, says US",
+      "excerpt": "The US government is making it harder for US companies to export artificial-intelligence software that helps organizations automate object recognition from geospatial imagery. The export ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/tech-trade-ban-exporting-ai-is-going-to-get-harder-says-us/",
+      "publishedDateTime": "2020-01-06T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/31/c45c0834-cacf-4fb3-8544-50f658eeb76b/thumbnail/1200x675/e0c52fee5b4d38162a8ffa35af46d4d8/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Tech trade ban: Exporting AI is going to get harder, says US",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-machine-translation-market-research-and-technology-developments-2020-to-2024.md",
+      "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
+      "excerpt": "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-artificial-intelligence-application-with-android-using-microsoft-cognitive-services.md",
+      "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
+      "excerpt": "I am going to show you a small tutorial for creating an AI (Artificial Intelligence) application with Android using the API of Microsoft cognitive services. The API of Microsoft cognitive services allows you to recognize computer text, faces, describe ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@jorgearturorangel99/artificial-intelligence-application-with-android-using-microsoft-cognitive-services-f03b51f5015d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-05T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/540/1*AiEug6LtZTfx2UJ8fgKSjw.jpeg",
+          "width": 540,
+          "height": 960,
+          "title": "Artificial Intelligence application with Android using Microsoft cognitive services.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown.md",
+      "title": "A reality check on Artificial Intelligence: Are healthcare claims overblown?",
+      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medcitynews.com/2020/01/a-reality-check-on-artificial-intelligence-are-healthcare-claims-overblown/?_hsenc=p2ANqtz-_ucienVNAlV7PYrc8Pz1SdpbQZM1e6fOgT2csx5o75U-OoWGIFoIWftsKvfLkMBOeR_vMULzw5v9Q-IemMihui_cvgvQ&_hsmi=81510974&rf=1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-05T22:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2019/11/GettyImages-1137784739.jpg",
+          "width": 703,
+          "height": 497,
+          "title": "A reality check on Artificial Intelligence: Are healthcare claims overblown?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-deep-learning-vs-machine-learning-understand-the-differences.md",
+      "title": "Deep learning vs. machine learning: Understand the differences",
+      "excerpt": "Without doing that you risk creating neural networks that only memorize their inputs instead of learning to be generalized predictors. A deep neural network for a real problem might have upwards of 10 hidden layers. Its topology might be simple ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.html?page=2",
+      "ampWebUrl": "https://www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
+      "cdnAmpWebUrl": "https://www-javaworld-com.cdn.ampproject.org/c/s/www.javaworld.com/article/3512638/deep-learning-vs-machine-learning-understand-the-differences.amp.html",
+      "publishedDateTime": "2020-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JavaWorld",
+        "domain": "javaworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/succession_brain-sharing_intellectual-knowledge_sharing-100746954-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Deep learning vs. machine learning: Understand the differences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-05-digital-dream-labs-will-revive-shuttered-startup-ankis-vector-robot.md",
       "title": "Digital Dream Labs will revive shuttered startup Anki’s Vector robot",
       "excerpt": "Anki, the San Francisco startup behind AI-imbued robotics toys like Overdrive and Cozmo as well as Vector, shut down in April 2019 immediately after laying off its workforce of just over 200 people.",
@@ -288,783 +1074,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-seismic-horizons-detection-using-computer-vision.md",
-      "title": "Seismic horizons detection using computer vision",
-      "excerpt": "The complexity of seismic data interpretation and analysis is mainly connected with the fact that for each task requires an individual approach, since each dataset is unique. Manual processing requires significant labor costs, and the result often contains ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/seismic-data-analysis-using-ai/seismic-data-analysis-using-ai-3ce18a18fbb?source=---------2------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T11:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/0*qrI00-KHLcVXzTbq",
-          "width": 800,
-          "height": 581,
-          "title": "Seismic horizons detection using computer vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-why-baidu-is-a-better-ai-stock-than-google.md",
-      "title": "Why Baidu Is a Better AI Stock Than Google",
-      "excerpt": "It assigned Baidu to the development of self-driving cars, Alibaba to smart cities, Tencent to digital healthcare, and iFlyTek to voice recognition. Baidu also launched a state-backed engineering laboratory for deep learning technologies like computer vision, machine hearing, biometric identification, and human-computer interactions.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
-      "publishedDateTime": "2020-01-03T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552239%2Fgettyimages-664246660.jpg&w=700&op=resize",
-          "width": 700,
-          "height": 525,
-          "title": "Why Baidu Is a Better AI Stock Than Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m.md",
-      "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
-      "excerpt": "The company has acquired AI Factory, a computer vision startup that Snap had worked with to create Snapchat’s new Cameos animated selfie-based video feature, for a price believed to be in the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/03/snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m/amp/",
-      "publishedDateTime": "2020-01-03T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/12/Snapchat-Cameos.png?w=1024",
-          "width": 1024,
-          "height": 553,
-          "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-ambarella-aws-bring-ml-solutions-to-edge-applications.md",
-      "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
-      "excerpt": "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip).",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
-      "publishedDateTime": "2020-01-03T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-googles-deepmind-ai-outperforms-doctors-in-identifying-breast-cancer-from-x-ray-images.md",
-      "title": "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images",
-      "excerpt": "Researchers from Imperial College London and Google Health this week published new research that shows DeepMind's medical AI system can outperform doctors on identifying breast cancer from X-ray ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/google-deepmind-outperforms-doctors-identifying-breast-cancer-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-03T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-how-maria-brodskaya-uses-virtual-reality-for-art-therapy.md",
-      "title": "How Maria Brodskaya Uses Virtual Reality For Art Therapy",
-      "excerpt": "Artist, educator, and entrepreneur Maria Brodskaya merges classical performance, neuroscience, holistic body practices into one-of-a-kind virtual reality art aimed to heal the viewer.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/stephanrabimov/2020/01/03/how-maria-brodskaya-uses-virtual-reality-for-art-therapy/",
-      "ampWebUrl": "https://www.forbes.com/sites/stephanrabimov/2020/01/03/how-maria-brodskaya-uses-virtual-reality-for-art-therapy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephanrabimov/2020/01/03/how-maria-brodskaya-uses-virtual-reality-for-art-therapy/amp/",
-      "publishedDateTime": "2020-01-03T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x401/https://specials-images.forbesimg.com/imageserve/5e0eddb94e291700061a5f4e/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 401,
-          "title": "How Maria Brodskaya Uses Virtual Reality For Art Therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-03-artificial-intelligence-has-come-to-medicine-are-patients-being-put-at-risk.md",
-      "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
-      "excerpt": "Health products powered by artificial intelligence are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare",
-      "ampWebUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
-      "publishedDateTime": "2020-01-03T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f53d1bd/2147483647/strip/true/crop/1683x1099+136+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F4f%2F1536dd600c9278807471271271c0%2Fla-1529344662-nf9nsa98qz-snap-image",
-          "width": 320,
-          "height": 209,
-          "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1.md",
-      "title": "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)",
-      "excerpt": "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@kyleake/aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1-61a4b636d618",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T15:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*S2hZHdsehsaJRwp6QiWypg.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-deepminds-ai-is-mostly-better-than-specialists-at-breast-cancer-diagnosis.md",
-      "title": "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis",
-      "excerpt": "Google’s DeepMind team has just published “International evaluation of an AI system for breast cancer screening” in the journal Nature, revealing their recent progress on artificial intelligence for medical diagnosis.",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/",
-      "publishedDateTime": "2020-01-02T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "DeepMind’s AI Is Mostly Better Than Specialists at Breast Cancer Diagnosis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-3-things-that-sent-baidu-stock-soaring-to-start-2020.md",
-      "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
-      "excerpt": "Baidu's Apollo self-driving car program is gearing up. Image source: Baidu. Word emerged on Tuesday that Baidu had been granted a license to test its Apollo driverless cars in Beijing, one of the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/02/3-things-sent-baidu-stock-soaring-to-start-2020.aspx",
-      "publishedDateTime": "2020-01-02T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552284%2Fbaidu-self-driving-car-fleet.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "3 Things That Sent Baidu Stock Soaring to Start 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-will-deepminds-breast-cancer-diagnosis-ai-replace-specialists.md",
-      "title": "Will DeepMind’s Breast Cancer Diagnosis AI Replace Specialists?",
-      "excerpt": "Google’s DeepMind team has just published a paper “International evaluation of an AI system for breast cancer screening” showing that their research on artificial intelligence applied to ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielshapiro1/2020/01/02/deepminds-ai-diagnoses-breast-cancer-using-medical-images/amp/",
-      "publishedDateTime": "2020-01-02T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0e41a50bf81b00072e5ca7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Will DeepMind’s Breast Cancer Diagnosis AI Replace Specialists?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation.md",
-      "title": "New eBay platform using AI to enable image search and internal innovation",
-      "excerpt": "In a blog post, eBay's Sanjeev Katariya, vice president and chief architect of the eBay AI and platforms, and Ashok Ramani, director of product management, computer vision, natural and language ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-ebay-platform-using-ai-to-enable-image-search-and-internal-innovation/",
-      "publishedDateTime": "2020-01-02T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "New eBay platform using AI to enable image search and internal innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries.md",
-      "title": "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries",
-      "excerpt": "If you’re in the market for a new fridge, no need to fret — Samsung’s got you covered. This morning, ahead of the 2020 Consumer Electronics Show (CES), the tech giant debuted the latest ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/samsungs-new-family-hub-refrigerator-uses-computer-vision-to-keep-tabs-on-groceries/amp/",
-      "publishedDateTime": "2020-01-02T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7b62d4fb-42bc-4991-808d-8d1fd96c6b29-e1577983599901.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Samsung’s new Family Hub refrigerator uses computer vision to keep tabs on groceries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-2010-2019-the-rise-of-deep-learning.md",
-      "title": "2010 – 2019: The rise of deep learning",
-      "excerpt": "In the next decade, all technology will be considered “AI technology.” And we can thank deep learning for that. Deep learning is a friendly facet of machine learning that lets AI sort through ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/02/2010-2019-the-rise-of-deep-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thenextweb.com",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/deeplearning_notdead-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "2010 – 2019: The rise of deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-ai-and-robotics-execs-look-back-at-tech-trends-of-2019.md",
-      "title": "AI and robotics execs look back at tech trends of 2019",
-      "excerpt": "Some aspects of robotics and artificial intelligence are advancing rapidly; others, not so much. What should AI and robotics developers recall as they prepare for a new year? Sudhir Jha, senior vice president and head of Brighterion Inc., Max Versace ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ctovision.com/ai-and-robotics-execs-look-back-at-tech-trends-of-2019/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ctovision.com/wp-content/uploads/quantum-computing.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AI and robotics execs look back at tech trends of 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.md",
-      "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
-      "excerpt": "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "publishedDateTime": "2020-01-02T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587",
-          "width": 5121,
-          "height": 3416,
-          "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-artificial-neural-networks-for-blockchain-a-primer.md",
-      "title": "Artificial Neural Networks For Blockchain: A Primer",
-      "excerpt": "Artificial intelligence -- and especially neural networks -- poses a solution to these problems by using them in a new, energy-saving protocol called proof of artificial intelligence (PoAI).",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/",
-      "publishedDateTime": "2020-01-02T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-7.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Neural Networks For Blockchain: A Primer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-googles-deepmind-created-an-ai-for-spotting-breast-cancer-that-can-outperform-human-radiologists.md",
-      "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
-      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-02T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -5,8 +5,8 @@ excerpt: "The satellite would then task drones to locate the people on the trail
 publishedDateTime: 2020-03-27T11:11:00Z
 webUrl: "https://www.politico.com/news/2020/03/27/how-increasing-autonomy-in-space-can-save-lives-150301"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -17,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "lF7DWf5ALgSqhEH4nhabvMNCuPOrXZ7KUYn/0ijARSB+cjeEilnMcLB8oVQ0Jkoo1AD6yytj3DjNPhftsKO840TdBOZGzD3SdK8f2hi8gXqj4CopioW7b0LJSNiMxpxgi7ClBEkYmH6SSZh13cGkYgRVCUtG67Z0P7tTpbBuJIemb0AUtYhqAcblKxKf/dsVsVpBUeM+CIbG/wqyUTDsJzDRwg+IDG3/YPqjr0oq57t0fIvHNuFXb2ZworrstSSNWTWyVHQdw7kMNJb9OuQjmHfRr7WpvZpIGqYTh7lq16WliXojcTxgDvTAGhNhEWo5dpysS/jlF4VTSA5x30Naeps5hHWC7WtHN4HeUfpKqDyBBt3cMiYGwAJwojg2AXyiwPLpb/s5Uj+EHTMNKrwC/aHUEm/JpIMfBMTOf2qr+RDTLpEeVrSIQBJhPQOeib22Y3DPoo/k3C+inauyhqj41TH3xFT3dWLDon3ctu3Bpb4=;oxCxLIDHeVdhWngZGRVkTw=="
+images:
+  - url: "https://static.politico.com/0e/0c/78d3e1ef42fa9813172adfed3668/19425-satellite-gty-773.jpg"
+    width: 3500
+    height: 2333
+    title: "How autonomous systems in space can save lives"
+
+secured: "XKDo5X/xLeAilcaWvvuD22YQ2TxmiYJct4gHFq2uj5bgGIFFAqcXOFKpVf1RdxOG3qqTqigpeLChg4awcnw28PlEKMqwExDTFV5v1fLf5IqZl8aIUi5P/LpXfI/zB5+iBo93yRr+C5WFP+8WLRfqcNat6Sxgoujj+CGzWvBHQ1sVl6b+lcWWWJfimiZO+03vvAQLo64AWJ+u0UpkXIzfaCEp4DFicxQKQpi3bmIrT4mNm+6SnjsYOeg0PM095XONsDbU8LU0UKhj3TXA3B+whZvY0voEzHOj38r/Y+ez1gkN65bxaZG8hQib4998leA5esqAB2lDZ9wBjmbhOueGxfpo2vPjTJSFBU0SG2TtwneEcoXadL191LrKmTssRPkQ1yAU/j2lj5TuNEBqz+fS27oVF5/lh8Ih8gn4FWkoNRs9sdKDADa9b0+3eU3xbrZ3jjmsyEVZTqlxQEsri3Ug5HTzGn97BAmFCc+tNboL6zU=;U/sVUJn6TAb72iBk1m5kDQ=="
 ---
 

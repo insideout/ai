@@ -18,6 +18,12 @@ topics:
   - Google AI
   - TensorFlow
 
+images:
+  - url: "https://i1.wp.com/techstory.in/wp-content/uploads/2020/01/Udacity.jpg?fit=768%2C403&#038;ssl=1"
+    width: 768
+    height: 403
+    title: "Learning Platform Udacity launches Intro to Machine Learning with TensorFlow Nanodegree program"
+
 related:
   - title: "Udacity launches new Intro to Machine Learning with TensorFlow Nanodegree program"
     excerpt: "The new program offers practitioner level skills in new-generation Machine Learning through hands-on projects. Silicon-valley based global lifelong learning platform Udacity recently announced the ..."
@@ -44,6 +50,6 @@ related:
       domain: dqindia.com
     quality: 16
 
-secured: "iFALmoo0ZAdtPpfF/5lcrRPytx7nBr6j8nMV1btLXbW9kDVbY0y2kP5UkqX6TXkU6CgHrq9M1Y8WR+F+MiqCnEma9mbiOluXMgxYa49OUG7TqfP5dnS0IF9JjYz3GAMMUOyTDMHl57f16AZ7pImoiLUUbTWsYtxzqPXU0Z85GtZecfdCu0bgB9yerIxEdH6X1MI1GSqauwCzv0rgSRz9LukpP5H7Hs2yVxNyZEDnGdrxMO9+oHxAHlcIBmvmfCWsHAs5gvWhHi+KZ/S+25CIxxFiSHFrOFpmoYT3KsnPO/7vO6wPJHAqMA99hM1gFylJD0wmqXUHfLdVS5gLjm3TQmkn4sF6EVpujR6lu9G8ISWLZwkGxDwhwHjAItwQyjupZFufGWDwlrIHF4LZ2wKJ8tNYkHBGRxgfQfBVIBI0MX7D0pi3eRb9+OsfaJD2BL6U5zu8SW8yVXoyNQf5IH96AeM8NJlsBobOw2Tcvvk5IGU=;e4SEhOqtxdy4bbCzhH46ow=="
+secured: "ov033WbeneWMfTzcrH9C7/rIpAPc+i/+0w5lhkVCIWSQDzmpXr8PskPTaMkWCMTno2pNQgj0jXdgYd6c7NzicuHfWWRvLaj0jl3XkAVR6TT3ei7/YGouSClzfwOj2pR8BHOZs99Qdrs4ZrEOtypEPYF8/lSnRakOOMWszXRzKAMjNgf+iivA4Svebdk/LDOvkmhtMtpLF0HCYLcoDz1xtfnvMEtJGcXB+z1aFqsSsIelb0Ngp99LfYdC6tANIPpVyrnmCgQbdrA3IW8CJ6MfSwVty6cy+XeHUK6R6k5qwuRSqsi0tU2jxotHdvf0NXjc;nkzfPMXjmTdHxSKEJQ9Gwg=="
 ---
 

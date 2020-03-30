@@ -27,6 +27,10 @@ related:
       name: Investor ideas
       domain: investorideas.com
     quality: 0
+    images:
+      - url: "https://www.investorideas.com/news/2020/technology/images/033020-2.jpg"
+        width: 780
+        height: 517
 
 secured: "YpTngbiiu/7cNKJb4grZ3r+KgIxLZHfVe5rv9u07v7goofJgu+GPv9Ie+VZu79Vg2lpZc/7iHPiuUi9m8OS/W+51KHeok7yTrAjJS7S0vLiKvnIyD/henx/BhV/yjLRHIALizsnFLdDMJ8sqemgRco+s1xo8c7dqQ7Y0p2OU+AjJLcBf/Aqybx247ISubFToJBs70qJKYX0Vb2P8jgxgbouZi+eQj08/IzZgwpz4oigVQ6YJ41MhmJBL2fYs4b56EO8rj7oAZRAMAeW2nyI+XyTM46SOr30ZAJG0vJxS12UQVkBUNC7A2YY9EHKAS0Yq;SCBexlL9UpXI4CXg91fpRQ=="
 ---

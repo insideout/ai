@@ -4,10 +4,12 @@ title: "How AI could help in the fight against COVID-19"
 excerpt: "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) Suki, an AI-based, voice-enabled digital clinical assistant startup that helps doctors create medical notes and do other things like retrieve patient information, has re-engineered its offering with COVID-19-specific templates to speed up the note ..."
 publishedDateTime: 2020-03-30T10:00:00Z
 webUrl: "https://www.techrepublic.com/article/how-ai-could-help-in-the-fight-against-covid-19/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: TechRepublic
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+
+images:
+  - url: "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/07a98106-843c-4ae8-9317-bcb4ad8b108a/resize/1200x/3ffeeb1a34461854f298c577f1e350df/cloudai.jpg"
+    width: 1200
+    height: 900
+    title: "How AI could help in the fight against COVID-19"
 
 related:
   - title: "AI to the aid: How robots can help in the fight against COVID-19"
@@ -37,7 +45,22 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2020/3/28/astra.jpg"
         width: 760
         height: 443
+  - title: "How artificial intelligence is helping the fight against coronavirus"
+    excerpt: "Artificial intelligence is improving the ability of healthcare providers to effectively respond to the coronavirus pandemic – allowing for faster diagnoses and speedy dissemination of trusted information as well as detecting fraudulent insurance claims and accurately evaluating patient data in real time. SoftBank-backed AI company Automation ..."
+    publishedDateTime: 2020-03-28T09:36:00Z
+    webUrl: "https://www.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840"
+    ampWebUrl: "https://amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840"
+    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840"
+    type: article
+    provider:
+      name: The National Blogs
+      domain: thenational.ae
+    quality: 74
+    images:
+      - url: "https://www.thenational.ae/image/policy:1.997838:1585236541/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
+        width: 1200
+        height: 675
 
-secured: "GhiOhfV84Dj74Fjzc96yCyY8NwFzPtcMyytfw17RKCWNnNjf/2tEkXkylgimkGNeV058pddHt2k6t2kPcYwg3kJZ1ppL9Sw57au9yntC5W1DVTUGc/JG9UJJmMsQ6Jb8Fe69ivmrSkYuq7pCFTl85DEUr2aAhoIWUOj7+uO3uSfWaWc6lnnku5Qkp1sXfi1qOllyblYTymHO+M5VASPy66MV8b7SxWIVV2VgtdGjjUvlypn6SzbkxzZSYf7Ra7jDBY3YdHdmwpAuBQ6Pw4Ec5n0EyKPdK7FoPuzXLOf5u6Foo1Y2AN12FhBq6klah7E5Lzf3xx4+4a58H8tdP+jc6biGKL5xzMYeK7+YrqYN5AI7mTvEuH4oIrV4dcKnqmKxtsmbHY/F9JjnYgupXzefLZ5ul38MaQ1A7uXGXGmoerzjUrUTcCPyDU3NsEYO7UBphjqJixAB0rnMt/RWkNl4LUrVe1+L61ZkTIh5NAla3Tg=;G+tR4UYKaHNY8MJlo27ITA=="
+secured: "Fg8fKvpvVTsSbWT9c5cqISE05p3Lo24z9lOxGGFQF4bNArUo3vcgBG15SuaewJI1F2jhOwER8x5PafvKuYT/CuioMgjRPbwwiIUmlIbEQr4cEMtUl4ig5whlr2BKOmzxplWiDa2sQN/8wBfoNtTntaM8xHGHoN+tydOqHtuc1g7LXvLYNPWcgpTup0eybVCx+LvEtEbnTp/VOVliqt6j1o7Dxz6ayfPjj3pwBRlGOeNdCIpdt24VGMb9/yU4tLMqihRDmyYlhPeHEYy4L/cmnxxeVQAFnF/t/YsYnj+hBLxJ5U7y1s/rGufjSJqSp1f0+zYr9gJm0IieABIN7TE+lxnEWW07k+JUW13lNDbqZil5NG8GvLA4Ne/UL3qP7LjdrnKWXwi753dAdvqh34K2myMjlWk6L/SnTuJNRO4EE5An3GdZ86B+tkxzOQ86XDNbskikFr84EeRrrJuAVU0N8Bff4Me0qJhp7aSIJt3q9SI=;bXXtIzyGi0nKXkZVGyvnoQ=="
 ---
 

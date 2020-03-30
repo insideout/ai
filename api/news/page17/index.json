@@ -2,6 +2,683 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
+      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "publishedDateTime": "2020-03-16T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
+          "width": 730,
+          "height": 395,
+          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-yunqi-partners-and-others-inject-rmb-200-million-in-b-series-funding-round-for-robot-company-keenon.md",
+      "title": "Yunqi Partners and Others Inject RMB 200 million in B series Funding Round for Robot Company Keenon",
+      "excerpt": "BEIJING, March 16, 2020 /PRNewswire/ -- Robot startup Keenon recently completed a new round of financing. Source Code Capital, Walden International and Shanghai S&T were the investors in this round of funding,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/PR Newswire/4830f57775d28d2998428f099aece276",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T22:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Yunqi Partners and Others Inject RMB 200 million in B series Funding Round for Robot Company Keenon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-how-can-machine-learning-be-applied-to-game-development.md",
+      "title": "How can machine learning be applied to game development?",
+      "excerpt": "To that end, Hoffman-John's team has been working on machine learning to help address some common pain points and bottlenecks developers have. The team is composed primarily of game developers with a number of engineers in the mix to help apply some of Google's existing technology to game prototypes. Hoffman-John says they look at the work with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamesindustry.biz/articles/2020-03-16-how-can-machine-learning-be-applied-to-game-development",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Games Industry",
+        "domain": "gamesindustry.biz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.eurogamer.net/2020/articles/2020-03-16-19-40/ErinHoffmanJohn644.jpg",
+          "width": 885,
+          "height": 708,
+          "title": "How can machine learning be applied to game development?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars.md",
+      "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
+      "excerpt": "Suppose you interact with an AI system, such as a robot, and in so doing your behavior changes based on that interaction. This makes sense in that we already today interact with the likes of Alexa and Siri,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/16/human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-03-16T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6d588faa5428000759e27c%2F0x0.jpg%3FcropX1%3D331%26cropX2%3D4974%26cropY1%3D0%26cropY2%3D3482",
+          "width": 1200,
+          "height": 900,
+          "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-top-5-researches-on-visual-speech-recognition.md",
+      "title": "Top 5 Researches On Visual Speech Recognition",
+      "excerpt": "Visual speech recognition (also known as lipreading) is considered to be one of the most futuristic applications of AI. So far, there haven’t been major breakthroughs, and the domain is slowly catching up to audio-based speech recognition. Visual speech recognition provides machines with the ability to understand languages in noisy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/top-research-papers-visual-speech-recognition-lip-reading/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/liopa_header_video_bg-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Top 5 Researches On Visual Speech Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-can-deep-learning-predict-coma-outcome.md",
+      "title": "Can Deep Learning Predict Coma Outcome?",
+      "excerpt": "This research is part of a growing body of literature and applications of AI into the healthcare system. For example, deep learning systems are currently used within medicine to classify certain types of injuries and interpreting X-ray images. Several other studies have noted the importance of using EEG data to complement clinical evaluation in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
+      "publishedDateTime": "2020-03-16T20:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_500494666_31de6d7102654c25898e235271aed01a-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Can Deep Learning Predict Coma Outcome?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-cleantech-startup-bluephin-technologies-is-on-a-mission-to-battle-the-global-problem-of-water-pollution.md",
+      "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+      "excerpt": "Using robotics and artificial intelligence, BluePhin has been developed to have human-like senses such ... BluePhin can also share valuable data on water or air quality to researchers and provide insights (i.e. on pH levels) to stakeholders. The startup is already at work on developing its robot’s capabilities to include liquid waste ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/347691",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347691",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347691",
+      "publishedDateTime": "2020-03-16T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200317055958-BluePhinfounderandCEOSimranChowdhrynjnk.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Cleantech Startup BluePhin Technologies Is On A Mission To Battle The Global Problem Of Water Pollution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ai2-and-microsoft-join-the-white-houses-push-to-enlist-ai-for-the-war-on-coronavirus.md",
+      "title": "AI2 and Microsoft join the White House’s push to enlist AI for the war on coronavirus",
+      "excerpt": "See all special coverage. The logo for the COVID-19 Open Research Dataset, or CORD-19, is a stylized coronavirus. (CORD-19 Graphic) A consortium of tech leaders — including Seattle’s Allen Institute for Artificial Intelligence, Microsoft and Facebook CEO Mark Zuckerberg’s charity — today unveiled an AI-enabled database that’s meant to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/ai2-microsoft-team-tech-leaders-use-ai-war-coronavirus/",
+      "ampWebUrl": "https://www.geekwire.com/2020/ai2-microsoft-team-tech-leaders-use-ai-war-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai2-microsoft-team-tech-leaders-use-ai-war-coronavirus/amp/",
+      "publishedDateTime": "2020-03-16T20:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/200316-cord19-630x533.png",
+          "width": 630,
+          "height": 533,
+          "title": "AI2 and Microsoft join the White House’s push to enlist AI for the war on coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-intels-neuromorphic-chip-learns-to-smell-10-hazardous-chemicals.md",
+      "title": "Intel’s neuromorphic chip learns to ‘smell’ 10 hazardous chemicals",
+      "excerpt": "Of all the senses, scent is a particularly difficult one to teach AI, but that doesn't stop researchers from trying. Most recently, researchers from Intel and Cornell University trained a neuromorphic chip to learn and recognize the scents of 10 hazardous chemicals. In the future, the tech might enable \"electronic noses\" and robots to detect ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/03/16/intel-ai-neuromorphic-chip-smells-chemicals/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/03/16/intel-ai-neuromorphic-chip-smells-chemicals/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/16/intel-ai-neuromorphic-chip-smells-chemicals/",
+      "publishedDateTime": "2020-03-16T20:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F2c664480-6791-11ea-af3c-b6c4b0f16b80%26client%3Da1acac3e1b3290917d92%26signature%3D12bc94009d8afcec2a1b0b460e70ad0b4ab8a4f5&client=amp-blogside-v2&signature=53d5ce9b92d1a080e558496d65a8be6d4fc0e73b",
+          "width": 600,
+          "height": 350,
+          "title": "Intel’s neuromorphic chip learns to ‘smell’ 10 hazardous chemicals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-get-ready-for-ai-as-a-service.md",
+      "title": "Get Ready For AI As A Service",
+      "excerpt": "Artificial intelligence is not for the faint-hearted, as it requires investments, expertise, and lots of hand-holding. That’s why most enterprises will turn to as-a-Service offerings, leaving back-end processing,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-03-16T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177213691%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Get Ready For AI As A Service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
+      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
+      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
+      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
+      "publishedDateTime": "2020-03-16T18:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
+          "width": 512,
+          "height": 512,
+          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-society-50-japans-lofty-plans-face-hurdles.md",
+      "title": "Society 5.0: Japan’s lofty plans face hurdles",
+      "excerpt": "Carbon emissions are cut by driverless vehicles choosing the shortest route home. Robots take care of the elderly, using body sensors to flag up if additional human help is needed. Artificial intelligence (AI) will sift your online history and health records to build you the perfect itinerary for a city break, for example, tailored just so to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.raconteur.net/business-innovation/society-5-0-infrastructure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raconteur",
+        "domain": "raconteur.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.raconteur.net/wp-content/uploads/2020/03/EdImage_p3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Society 5.0: Japan’s lofty plans face hurdles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
+      "title": "IBM commercialises AI communication",
+      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": "IBM commercialises AI communication",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Now AI will understand language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy.md",
+      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
+      "excerpt": "/PRNewswire/ -- Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy-301025103.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134498/Insilico_Medicine_partnership.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
+      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
+      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "publishedDateTime": "2020-03-16T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
+      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+      "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in/article_db430520-912a-5b81-8dd6-2c00c7b1f532.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-artificial-intelligence-recruited-to-find-clues-about-covid-19.md",
       "title": "Artificial intelligence recruited to find clues about COVID-19",
       "excerpt": "With data scientists and machine language experts mining the literature compilation known as COVID-19 Open Research Dataset ... Allen Institute of AI, Georgetown University’s Center for Security and Emerging Technology, the Chan Zuckerberg Initiative (named for Mark Zuckerberg, Facebook's founder, and his wife Priscilla Chan), and Kaggle ...",
@@ -303,615 +980,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
-      "title": "Roboy the robot is fully compliant, soft, and huggable",
-      "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/videos/roboy-the-robot-is-fully-compliant-soft-and-huggable/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/16/e7e28fc1-a205-412e-9fe0-76fc29086f0a/thumbnail/770x578/6562c9429e0a748d1b522ac17b0a91a6/20200224-kaufmann-dan.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Roboy the robot is fully compliant, soft, and huggable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-hospital-using-chatbot-to-screen-coronavirus-patients.md",
-      "title": "Hospital using chatbot to screen coronavirus patients",
-      "excerpt": "Microsoft's Azure Cognitive Services have the capability to build enterprise-grade bots that let companies maintain control of data, including Q&A bots like the one answering COVID-19 questions in Everett, WA. The service includes open-source SDK and tools to connect a bot across popular channels and devices. Azure Cognitive Services gives the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/hospital-systems-new-covid-19-screening-tool-uses-microsofts-health-bot-and-azure/",
-      "publishedDateTime": "2020-03-16T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/03/12/6a60eb6e-31b5-4bb4-9754-b5d452b01a19/resize/1200x/d038e660e4462c967d719b66355a8b1b/istock-1061564280.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Hospital using chatbot to screen coronavirus patients",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-botz-the-roboticsartificial-intelligence-etf-is-not-a-bargain-buy-even-after-recent-crash.md",
-      "title": "BOTZ: The Robotics/Artificial Intelligence ETF Is Not A Bargain Buy Even After Recent Crash",
-      "excerpt": "For the Global X Robotics & Artificial Intelligence ETF (BOTZ), its bear market actually started in 2018 when BOTZ stumbled back to earth from its 80+% meteoric rise in the preceding year: Source: WingCapital Investments Prior to the market turmoil, BOTZ had struggled to retrace towards its all-time high, even as the broader technology sector ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://seekingalpha.com/article/4332230-botz-robotics-artificial-intelligence-etf-is-not-bargain-buy-even-after-recent-crash",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans.md",
-      "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-      "excerpt": "Then they used a Microsoft Azure Kinect depth camera to compile a data set to train an AI model to classify a hand holding an object into one of those categories, specifically by showing an example image of a hand grasp to the subject and recording the subject performing similar poses from 20-60 seconds. During the recording, the person could ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/16/nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans/amp/",
-      "publishedDateTime": "2020-03-16T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/29f61469-3b62-42ab-adb3-8f819670e565.png?w=673&resize=673%2C600&strip=all",
-          "width": 673,
-          "height": 600,
-          "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ibms-6-dividend-yield-should-set-a-floor-under-the-stock.md",
-      "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
-      "excerpt": "Last quarter, only two of IBM's core businesses -- cloud & cognitive software and systems -- posted annual revenue growth. Revenue from its other three business units (global technology services, global business services ... Teresa Kersten, an employee of LinkedIn, a Microsoft subsidiary, is a member of The Motley Fool's board of directors.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibms-6-dividend-yield-should-set-a-floor-under-the-stock-2020-03-16?amp",
-      "publishedDateTime": "2020-03-16T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?2014824675",
-          "width": 1024,
-          "height": 512,
-          "title": "IBM's 6% Dividend Yield Should Set a Floor Under the Stock",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-amazon-athena-query-federation-sdk-allows-you-to-customize-amazon-athena-with-your-own-data-sources-and-code.md",
-      "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
-      "excerpt": "To enable this Preview feature you need to create an Athena workgroup named AmazonAthenaPreviewFunctionality and run any queries attempting to federate to this connector, use a UDF, or SageMaker inference from that workgroup. We've written integrations with more than 20 databases, storage formats, and live APIs in order to refine this interface ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/awslabs/aws-athena-query-federation",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://github.com/awslabs/aws-athena-query-federation/raw/master/docs/img/athena_federation_flow.png?raw=true",
-          "width": 608,
-          "height": 552,
-          "title": "The Amazon Athena Query Federation SDK allows you to customize Amazon Athena with your own data sources and code.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-the-smart-money-is-on-the-sensors.md",
-      "title": "The Smart Money Is on the Sensors",
-      "excerpt": "With a tracking module connected to the OBD II port and the integration of RFID readers, telematics use cases can be extended to identifying individual drivers and passengers through ID tag swipe. RFID technology allows businesses to, for example, keep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rfidjournal.com/articles/view?18461/2",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RFID Journal",
-        "domain": "rfidjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-11-details-on-googles-coronavirus-response-partnership-with-us-government.md",
-      "title": "11 details on Google's coronavirus response, partnership with U.S. government",
-      "excerpt": "The website is expected to launch March 16 and be continually updated as the situation changes. 2. DeepMind is also releasing predictions to help scientists better understand the coronavirus protein structure to accelerate treatment discovery. 3. Google Search and Maps will display information about temporary closures when users search a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/11-details-on-google-s-coronavirus-response-partnership-with-u-s-government.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "11 details on Google's coronavirus response, partnership with U.S. government",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-san-diego-police-da-ban-use-of-facial-recognition-app-but-not-before-it-was-tested.md",
-      "title": "San Diego police, DA ban use of facial recognition app — but not before it was tested",
-      "excerpt": "SAN DIEGO — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.policeone.com/police-products/police-technology/police-software/facial-recognition/articles/san-diego-police-da-ban-use-of-facial-recognition-app-but-not-before-it-was-tested-rsOdyj81pbqfpu7K/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PoliceOne",
-        "domain": "policeone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
-      "title": "A look at the TensorFlow ecosystem in 2020",
-      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
-          "width": 550,
-          "height": 214,
-          "title": "A look at the TensorFlow ecosystem in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "on Amazon's SageMaker platform, and via ClosedLoop's HIPAA compliant hosted platform. The CV19 Index is available for use through any of these methods at no cost ClosedLoop has created a forum at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15556274/closedloop-ai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerab",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15556274",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15556274",
-      "publishedDateTime": "2020-03-16T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ibm-tackles-human-language-through-ai.md",
-      "title": "IBM Tackles Human Language Through AI",
-      "excerpt": "Rob Thomas, GM of IBM Data and AI was quoted saying, “A language is a tool for expressing thought and opinion as much as it is a tool for information.” This has been the motto of IBM with its recent announcement of bringing Project Debater and integrating it into Watson. Marketing Technology News: Xandr AT&T Partners with AMC Networks ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.martechadvisor.com/news/machine-learning-ai/ibm-tackles-human-language-through-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarTech Advisor",
-        "domain": "martechadvisor.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.martechadvisor.com/images/uploads/content_images/shutterstock_677646538_5e6f53ac61cd9.jpg",
-          "width": 786,
-          "height": 393,
-          "title": "IBM Tackles Human Language Through AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fortinet-introduces-self-learning-artificial-intelligence-appliance-for-sub-second-threat-detection.md",
-      "title": "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection",
-      "excerpt": "FortiAI’s Virtual Security Analyst embeds one of the industry’s most mature cybersecurity artificial intelligence – developed by Fortinet’s FortiGuard Labs – directly into an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/",
-      "ampWebUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "publishedDateTime": "2020-03-16T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-big-tech-swallows-most-of-the-hot-ai-startups.md",
-      "title": "Big Tech Swallows Most of the Hot AI Startups",
-      "excerpt": "An acquisition spree by Apple, Amazon, Facebook, Google and Microsoft eliminated potential rivals and concentrated brain power in this critical field.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
-      "publishedDateTime": "2020-03-16T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
-      "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-      "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15555518/cognitive-computing-technology-market-by-offering-solutions-services-technology-deployment-type-a",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15555518",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15555518",
-      "publishedDateTime": "2020-03-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1584351519.jpeg",
-          "width": 278,
-          "height": 333,
-          "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-can-you-use-serverless-for-artificial-intelligence-today.md",
-      "title": "Can you use Serverless for Artificial Intelligence today?",
-      "excerpt": "At Radix we use multiple serverless services: AWS Lambda for computational ... tasks that are neither real-time nor involving artificial intelligence. But when does it make sense to use them ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/radix-ai-blog/artificial-intelligence-on-aws-lambda-9ef45ffe1309?source=post_recirc---------1------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-ai-for-speech-recognition-market.md",
-      "title": "AI for Speech Recognition Market",
-      "excerpt": "This report provides in-depth study of \"Global AI for Speech Recognition Market 2020\" using SWOT analysis i.e. Strength, Weakness, Opportunities, and Threat to the organization. The AI for Speech Recognition Market report also provides an in-depth survey of key players in the market organization. The most important key factors driving the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968062/ai-for-speech-recognition-market-will-be-massively-influenced",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

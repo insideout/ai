@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-21-microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.md",
+      "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+      "excerpt": "Microsoft Threat Protection literally consists of four existing services including Microsoft Defender Advanced Threat Protection (ATP), its Windows antivirus — which these days Mac and Linux too — Office ATP, Azure ATP, and its cloud app security suite. But while Microsoft Threat Protection is a combination of those existing services ...",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.html",
+      "ampWebUrl": "https://www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3528708/microsoft-threat-protection-an-israeli-built-ai-bundle-of-redmonds-security-services.amp.html",
+      "publishedDateTime": "2020-02-20T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2019/12/09/06/2019-11-16t023310z_1_lynxmpefaf02a_rtroptp_4_microsoft-results-100820758-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Threat Protection: an Israeli-built AI bundle of Redmond's security services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot.md",
+      "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
+      "excerpt": "/PRNewswire/ -- CyberMDX, a leading provider of medical cyber security solution, delivering asset visibility and threat prevention for medical devices",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/cybermdx-announces-integration-with-microsoft-azure-security-center-for-iot-301008578.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "CyberMDX Announces Integration With Microsoft Azure Security Center for IoT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-the-zacks-analyst-blog-highlights-microsoft-applied-materials-sap-se-lam-research-and-tencent.md",
+      "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
+      "excerpt": "Chicago, IL – February 20, 2020 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
+      "publishedDateTime": "2020-02-20T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
       "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
       "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
@@ -1172,141 +1285,6 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-microsoft-azure-cloud-migration-3-success-stories.md",
-      "title": "Microsoft Azure cloud migration: 3 success stories",
-      "excerpt": "“Also, Azure has made it easier for us to continue our work using AI, machine learning, and other data-driven strategies to serve our customers better,” Thadani says. The data migration effort presented some technical challenges, due to the table sizes and data type compatibility between legacy warehouse platforms and SQL Server, Thadani say",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3518812/microsoft-azure-cloud-migration-3-success-stories.amp.html",
-      "publishedDateTime": "2020-02-03T03:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/cloudmigrationpath-100743295-large.jpg",
-          "width": 1200,
-          "height": 771,
-          "title": "Microsoft Azure cloud migration: 3 success stories",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-a-look-back-at-ten-years-of-microsoft-azure.md",
-      "title": "A Look Back At Ten Years Of Microsoft Azure",
-      "excerpt": "Microsoft Azure became generally available ... The innovations around Azure Cognitive Services, ML Services, deep integration of AI in the data platform, Azure IoT Edge and Azure Stack are aligned ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/03/a-look-back-at-ten-years-of-microsoft-azure/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/02/03/a-look-back-at-ten-years-of-microsoft-azure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/02/03/a-look-back-at-ten-years-of-microsoft-azure/amp/",
-      "publishedDateTime": "2020-02-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e37f997a854780006b04c96%2F0x0.jpg",
-          "width": 710,
-          "height": 475,
-          "title": "A Look Back At Ten Years Of Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
-      "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
-      "excerpt": "AI, machine learning and analytics are the upsell opportunities for Google Cloud Platform ... (See: Salesforce plays multi-cloud game with Microsoft Azure, Google Cloud as AWS contract likely up for renewal) Alibaba has scaled rapidly with a bevy of enterprise partners. What remains to be seen is whether Alibaba can expand beyond China.",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-top-cloud-providers-of-2020-aws-microsoft-azure-google-cloud-hybrid-saas/",
-      "publishedDateTime": "2020-01-31T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/ceb60455-dec4-4a4b-9359-2712746d6986/gartner-cloud-spend-2020.png",
-          "width": 823,
-          "height": 557,
-          "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

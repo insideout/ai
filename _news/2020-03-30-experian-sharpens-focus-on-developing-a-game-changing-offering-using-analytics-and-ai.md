@@ -4,10 +4,12 @@ title: "Experian Sharpens Focus On Developing A Game-Changing Offering Using Ana
 excerpt: "Shri Santhanam came to the world of AI and analytics first in serving clients as a consultant at Mercer and Oliver Wyman. Next, he co-founded OW Labs an AI and analytics practice. Now he is doing the same at a bigger scale at $5 billion Experian,"
 publishedDateTime: 2020-03-30T14:43:00Z
 webUrl: "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/"
+ampWebUrl: "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/"
 type: article
-quality: 40
-heat: 40
-published: false
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: Forbes
@@ -20,6 +22,12 @@ provider:
 topics:
   - AI
 
-secured: "kuPMrz2m3DXkf+FwPYbfVHxqNS7epFz5wctqxRd7na6A7QH5MkpTXiMOauBrLGjLpQKlcvdFcdshdb65EyM3idwSFjnbM0TRSMW1hvgA1IVSz/nEa+3dXx53YBXSJjllYghEh68lb/4wnZLO8n3tSXPv8SZ3d7f2liiMS+iNKZomZA4LcaH56e4vlI5z9bpxL2kMd5kBbJbjXo0EjaOEGltSOtzV5BNdSXn4Wy1kpJUB705ebWYoaolIkjUoNb22UmVBTUDj9NhRBzOgiRnCw6afuuG/ku5XD5EF9NxrGyz5h5zokSnWbvYxClNKk/OcSSVqgF3ydDsEHh6pnwlb2sLJfJKGCczBXd7R7FNrXTWudyVIdOf7oM1oO9KNCSihoU30UMMUmSapv1oLUUAQc+S1OC1Nsqo1Xg/75YGkUifj3wNhXddjfXJm1SfgB5mnBnFm3Oy0W4HTNBVvdc+GRCr/b9htf62ES+AuhZKpFeU=;6EYCp3Dpc2+l4BGaszAq3w=="
+images:
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81fd11ae2ff90006b5bcaf%2F0x0.jpg"
+    width: 1200
+    height: 686
+    title: "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI"
+
+secured: "Ty2RdqGqtRD3L1Sw6Mn6OXgGDZApJ+kDRXmm8uBI4oFuMxu4M+fjVm9bh9iOEZFyZLZhnJ2fY868xQi7iiqabpuolq/4AmuERf09DOkZ3/oqmF1wlpVDA+xAQSh8HT0SYzTPLBdLvFfSI/yUJ4NMeF6rtLRUpicKsjnWOkTXaOTxihs8JWZvwyiLMqgM5QvW0lC4dDrCCivork8whTmyF1azAF5RlfG3CA9MfEruEU5jWJJBfXcoCmSb6hBEmZwi7cEYm6oMUCtU+VRkjNf7DcKfDtDIaQKNVUl/GK2Se6mSVA7cDNCuycA9OqmPQIUn;CVA+64cyGdsnMKCfPnujvw=="
 ---
 

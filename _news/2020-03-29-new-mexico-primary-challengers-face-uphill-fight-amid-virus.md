@@ -30,13 +30,11 @@ related:
     excerpt: "That has prevented her from building up name recognition before a June Democratic primary where liberal challengers had hoped to defeat some of the state’s moderate Democratic lawmakers they say are blocking early education reform and recreational marijuana proposals. “It has changed the face of the campaign,” said Hamblen, the CEO and ..."
     publishedDateTime: 2020-03-30T17:46:00Z
     webUrl: "https://durangoherald.com/articles/319825"
-    ampWebUrl: "https://durangoherald.com/amp/319825-new-mexico-primary-challengers-face-uphill-fight-amid-virus"
-    cdnAmpWebUrl: "https://durangoherald-com.cdn.ampproject.org/c/s/durangoherald.com/amp/319825-new-mexico-primary-challengers-face-uphill-fight-amid-virus"
     type: article
     provider:
       name: The Durango Herald
       domain: durangoherald.com
-    quality: 24
+    quality: 4
 
 secured: "Bdh0J2Zjeaa3D9xDjbq4cFZLPvGbEaAq50TlG7xMOhe75lCFKaI/8xx1+e2ksJiAH9KhOmxJuOpfI5qpPS6RWANjyJ/MwdzfMtsqDUpoJuvb5zVAL3IwD1V31wNZxbbaHmDAeI6PEE4kABf9Kg2jWGsMFObm7bAraPx58603ZOR5RVZ31H2F+QHue8kdVmfJkedfWzh4zPvUDy15fF80nOdSfjcspFJsoY2WqfMZflgKWSJWLPaXaJRpAJx4bDlA/oCtgMcJG59Wm6+QO8jWuf6VWqqIJUOJ0hnUhEpewD7WaN4Qo1PprKxUNI//5tOQ;n4shsEqcpQeBP7/VgZmRtw=="
 ---

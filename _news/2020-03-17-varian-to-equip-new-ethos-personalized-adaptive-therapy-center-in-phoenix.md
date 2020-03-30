@@ -14,6 +14,12 @@ topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix"
+
 secured: "KzQagcAwGSR1YZyYKW4Lic/jDJciqYdpx3Ny8Wi3iRqYCePFvSLbmNfzQPXIm+jLjLSLGeekHy5f+uHBiDUZ/7Hk1LP8e45e45va/dLJvIIYRqjW3FBVecCfGUequV9n2hIQFZ8TPmPwlOIT2ejVVMArkgfv7C/9bahewqocEGg/zwCo8uwS23cD7+M54xp98mlzZwH4xhZzT4J9PTsZtYjSCCEC+/rbJS7tgiUfRE0JccSrpTO4QDaLHEjMDibW5vWyaemmjzU+M/hBG/yRbTCjQ38JX5jWL8FGFPolEgCyGMjalF8HQPoPvOcFbssX;Et9tZ4tkCMMJBSridQXNrw=="
 ---
 

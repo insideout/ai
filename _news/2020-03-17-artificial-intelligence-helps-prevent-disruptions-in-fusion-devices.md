@@ -14,6 +14,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "sYpRgacoGea+Xav6R25cd4myYZ4JbZgNysLg6lg3r5qDCiiM+YjanVCNnPjPqrPxtlhW1W+4S+VAcsGGb2TWqwUQPKiFQaNzhHBQ0FCXurVggaCXWQeXdy2uDC+OOPx9eNSmsi5umAVZrEj3/eUyO0NznUX40P31zHQ07IfQEB/l6PQOws8HqP4ARuLCNIUm58pRc3n/4Hf1647vYJzGdrYjIiHSCH5XmFdhVxOWmd9KtgSo9yDAuhcB65qa4AudA+5fNuK3NQJz91+tctoHHl0q0M+ea++cKXtuj6LZrE8dlFS3Dc8C9se35QDEEBQJiRIOgIc0tUvGSrj1yiLXXovuDE/2FtI7EHOaYSzYEAMgylRseu/qwiAR9ico4GWbfTqgA0iwSr5HuSm0z0GAQoWx2JJNv0+aFAoFB8OM8++pO4WHeQpS7s+D1VUEM7WpnBNh5cNFMzbxRQr5xUV3j//u5Y+BEw1bd8P3ZpKb7As=;kSJlIvVABKAwC5vq9o4xDA=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg"
+    width: 1440
+    height: 523
+    title: "Artificial intelligence helps prevent disruptions in fusion devices"
+
+secured: "0mARaNHHfrYFec9SmbeKiWh4HU3oyNtMoSV7WdukIXQhBFq4QHV869ObS4kLDbRm2sD18Ubuz18REiFpw2tuH293/sXIN7ibWSZwT42mJcsRffFTa6Wz1yAtyFBE7Q2X7Dik42Da71kktGljaFqnkHyOcL1qcks57DdHtQAVlX57nKyx3lfuce7aT2VFBAoRqi9CCc0u5SQf76NZBpPr6CLcG9Re750ii5A0bTQX6z6U+hyqQ8ZbDxSt85bmbNGz65ZdrgNAEbIo7hlhUQMuN9j+MSeu57k1jqdCdkA6i8OJHzoofYg+9/e2ZoaQ6EXRIJpxqAF21FOnz8cfh53vyxoVOInu1R9mtUG4h9p61bYKC2LFEAnaYwJ/cv6pl7IVMvWAVe4ITzrQKxsNHQyHpHT+qxiNcL56TBZi/fp30L87YV4ZYBee1rJ4dCa40rXdKl3kA7u9bmNlt14oc7jdy6M3RM8mrsJBqgGu660WRsU=;fAm/koNyPNd4FfLSk+Dgww=="
 ---
 

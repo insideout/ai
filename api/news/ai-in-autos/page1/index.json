@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
+      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
+      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "publishedDateTime": "2020-03-30T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 482,
+          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-theres-a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do.md",
       "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
       "excerpt": "There was a bit of extra excitement in the San Francisco Bay Area traffic last year when a baby sea lion decided it was time to checkout rush hour activities and so wandered or waddled onto the hectic and perilous Highway 101 (a similar occurrence happened a few years ago in northward Mendocino County).",
@@ -1227,51 +1272,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-the-women-defining-the-21st-century-ai-movement-part-2-of-2.md",
-      "title": "The Women Defining The 21st Century AI Movement: Part 2 Of 2",
-      "excerpt": "In this two-part series I will highlight several of the dozens of women that I believe will lead the 21st century in the field of Artificial Intelligence. Part one was focused on Women in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/markminevich/2020/03/19/the-women-defining-the-21st-century-ai-movement-part-2-of-2/",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/03/19/the-women-defining-the-21st-century-ai-movement-part-2-of-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/03/19/the-women-defining-the-21st-century-ai-movement-part-2-of-2/amp/",
-      "publishedDateTime": "2020-03-19T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e729f78aa542800075a53e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 663,
-          "title": "The Women Defining The 21st Century AI Movement: Part 2 Of 2",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

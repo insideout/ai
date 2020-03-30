@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://miro.medium.com/max/1200/0*CmkQe29XGO19x9qt.png"

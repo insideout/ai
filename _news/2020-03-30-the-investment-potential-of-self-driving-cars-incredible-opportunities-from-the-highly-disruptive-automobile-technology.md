@@ -17,6 +17,12 @@ topics:
   - AI in Autos
   - AI
 
+images:
+  - url: "https://www.investorideas.com/news/2020/technology/images/033020-2.jpg"
+    width: 780
+    height: 517
+    title: "The Investment Potential of Self-Driving Cars: Incredible Opportunities from the Highly Disruptive Automobile Technology"
+
 related:
   - title: "Fintech-Driven Scoring Uncovers How COVID-19 Impacts Your Investments"
     excerpt: "Israeli fintech company Innovesta has announced the launch of its COVID-19 Resilience Innodex ... investors find themselves scrambling to protect their holdings and form new investment strategies in treacherous market conditions. Based on Innovesta’s AI and natural language processing technology, CRI is a comprehensive score based on a ..."
@@ -28,6 +34,6 @@ related:
       domain: fa-mag.com
     quality: 4
 
-secured: "618EZibAWRawOT6py44tg9Fm64Fiwwtk5NuI4FSWtJVa2tOklg7GmndVdZzPQJ0R4puRIonuQBk89daxMUgNWwYheW8EYclw5Ah1gwEiH/5IOzrtUwznfRdhSf8HL1Ry/GZn+CJn+FAt9dc0zL5+Fcdqk+TnUa29H1Xj35GZxNDbM3lJIDgwB0PBUv7RMmbyMhXxB2hEG2T56ymvPo7SMlE7xclthAn34XnAvJxYJSCKrc9w5NjfSWycWqduWat/vjhw9I3Xca6Z6m18/X0OeOwiqBlhLZbIM57tiMKQ1cIdg0aq7FN7ELU/T4gSVauTCeu0wX/heAx6XznK9qhwYjOUWQNS8kIP+VqTENFAacJX9XwenvlIUIF/6J2da/57SkHb8XRLCinD/r4j+2WWeTIbD5raDJU9E1gEvpCIH8Iwz4cY588jM4pSFe6iutSCtN+BCtE3i9nZmBMXfCDE3TbcNo6FvLyeBtVC5Dsx/68=;c378h0/XXCLrfmCKagwFSQ=="
+secured: "VVsK7+FjOt83uaGgAXVkaiKvpBRQUcHpr1xhULX3C65YgmRKHv2zpYVllZp50dKbLVi40kb9fNySsQqRe8kB7WNa++SjVl0P0bPPVFB7c7n+o7ggaBs++u+pFql3cHeBiqGernu/1qoIJe9AbK+NlXipYosMSBBtBLeNj7xNGR092X23zwDU2tjJzSvcwAADrp9uvyw7Mmj+xEgpnIxXf6u0wZw65MAurnuX79LQqIRXBheG4u2vFZUgDyWpEC8n4f99ViM+3T8f1wVLABDdSj+MsLhAZjJIkoAvKsntJ0J4RfGc8P2R+I8a9s5i/KqGZADXbcSE62gXI2OYhapwenfG4H1I/PlYbyWYFkMI1g4FBNqiH7DAEwzwVs+J3HuKzpsWy7rBf+n5JGzb7uXNnFmZztTeb2ILeATvrjfl4nn8xPY5w7CQlvTlGfUjS6/ovse5JEnIt1uh+Sihr6WpZMyodC2RxrcPwBFbgL98+HY=;PS6M9A1uzYX6h1bUHD3bKg=="
 ---
 

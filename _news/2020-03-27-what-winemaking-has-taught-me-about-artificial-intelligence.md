@@ -4,10 +4,12 @@ title: "What winemaking has taught me about artificial intelligence"
 excerpt: "It was a central part of the culture in ancient Rome. Artificial intelligence (AI) traces its history to the 1950s with Alan Turing and the Dartmouth Summer Research Project, and only in recent years has it emerged as a technology poised to impact society on par with the industrial revolution in terms of eliminating whole job segments such as ..."
 publishedDateTime: 2020-03-27T13:37:00Z
 webUrl: "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/"
+ampWebUrl: "https://thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/what-winemaking-has-taught-me-about-artificial-intelligence/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: The Next Web
@@ -19,6 +21,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-wine-796x417.png"
+    width: 796
+    height: 417
+    title: "What winemaking has taught me about artificial intelligence"
 
 secured: "J4+Cmechqo5uj7Kw+cmQBfrXpNHm3eqDUaUxiZvNUzOYxqaOUnAU8N1xrtl1f5/ses6mN9Ujn8ACqVAjTCD+PgRFwJjRwigzzl6AqspiabtlAc9H7EwauS9w7vwkdcs7f/ODh1w5Xwrkicrr3u3ZeNh14dl2mmeVHo7lEujKip5b5Vpnt3t492CIR9wQ33EUwdcrJnRdGiUV9aLW0cjnH0Ec3HyaKPdUfhDt9maJYaoxvszVYurU2ghm1gg88ZoBHV3MxqRSof1igtEHQJnXCaDD1JTjidMReLJ+KH9VfNKql0t7Z9+rr35SpLUYKgIh;Gf/bevIR0MehVkOb7cngfQ=="
 ---
