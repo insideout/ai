@@ -29,21 +29,21 @@ images:
     title: "Niantic squares up against Apple and Facebook with acquisition of AR startup 6D.ai"
 
 related:
-  - title: "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai"
-    excerpt: "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on."
-    publishedDateTime: 2020-03-31T13:02:00Z
-    webUrl: "https://www.cnet.com/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/"
+  - title: "Niantic acquires 6D.ai, which is mapping the world in 3D"
+    excerpt: "Niantic has acquired 6D.ai, an augmented reality company that is building a 3D map of the world using only smartphone cameras. CEO John Hanke said in a blog post that the dynamic, 3D map of the world could enable new kinds of planet-scale AR experiences. “This means we’re even closer to an AR platform that will unlock the ability for any ..."
+    publishedDateTime: 2020-03-31T14:00:00Z
+    webUrl: "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/"
+    ampWebUrl: "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://cnet2.cbsistatic.com/img/wOD2pqt5YiE48j8erpa0ii9An9w=/756x567/2019/07/25/48f277d2-b011-4181-9cec-22c857bd0a68/screenshot-2019-07-25-at-12-12-02.png"
-        width: 756
-        height: 567
+      - url: "https://venturebeat.com/wp-content/uploads/2019/08/6d.jpg?fit=1200%2C515&strip=all"
+        width: 1200
+        height: 515
 
 secured: "r+/NOmiQloRQ6miIt5Nt7QDyH8uasB+Ui3hvMixZwBAN30dq2aefyXKZiA9cjRSWBSCw5QR9H/5zK+z3K9yPKdgXf+ntlVEoFhMMg4UNm5L0VmAij74myzWSox6u1sHWCmh5KFNs33tQuM8zgFoEO0k3hqMlrjxlvEg1ISkeu7SdpyLVYBhsJ+uLwuWD0lI0xjX1eOE9fBqp9KdTanzFGyyhd6MBruywmiaM0bzIE1UV2xCMxy+RThWP1aYTww4LAHdha/479takHeZXgBkjCGNlacpXTz6s4TPWSUKobRVMpmvIzOyIfZPdStCG49QSbzLpwZtUp3zLLEa4RarzoeZ621BVIyGf+1abvzZ8O/nw7ALkY6yYQToS8hBeJ4y4t3oQ0pZZNyd7ZGO5UZ+ohLS3lBfhyL1WIs8USJ4B1QhFKbuDLJ/W0PfzNBskycgXmPwFNij+0qGqKoAlGXjviNp3BuWCcL4Sjg7Hrdsi82w=;OHELciwr0saKWY1ml09BWw=="
 ---

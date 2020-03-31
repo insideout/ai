@@ -2,8 +2,8 @@
 category: news
 title: "Pokémon maker Niantic takes big leap in 3D-mapping tech by buying 6D.ai startup"
 excerpt: "The game introduced many people to the concept of augmented reality. Now Niantic is buying 6D.ai, a small company with a vaunted technology for mapping the digital world to the real world for AR developers. Niantic has been working on its own 3D-mapping technology, but the addition of 6D.ai’s technology and people could push its efforts far ..."
-publishedDateTime: 2020-03-31T12:58:00Z
-webUrl: "https://www.fastcompany.com/90484334/pokemon-maker-niantic-takes-big-leap-in-3d-mapping-tech-by-buying-6d-ai-startup?partner=feedburner"
+publishedDateTime: 2020-03-31T15:43:00Z
+webUrl: "https://www.fastcompany.com/90484334/pokemon-maker-niantic-takes-big-leap-in-3d-mapping-tech-by-buying-6d-ai-startup"
 type: article
 quality: 33
 heat: 33
@@ -22,6 +22,6 @@ images:
     height: 720
     title: "Pokémon maker Niantic takes big leap in 3D-mapping tech by buying 6D.ai startup"
 
-secured: "9tDPXxH8k2B7wGuxHE6d5dUuIvloXru54BFhAGRCADyDxfOTG9gcx4Do510K/Sq0z/7KnI89LgNv8yjP0tzyL1e98GTBo+UTNE+CTurliPAQp0YGUBaZYGBC1MuhPi2p6v+gfUzhTnB1yV7BmHzCBRaHIM7/mqYCBlmE/OCqGVa6SnBnIFw0Hq1pXoZPQflIEnu6l78mGmzKJJD4Pl1vW5Wz4tngSQdpuxAk5SXP1DVO+vhnn1NArDnyh0nwU0jAUX2WYE/ao7/BNuq9tNUv/r2/y4rwrFvmbPC+WcdbpOnkPorK3gJGlhFuGkWiLj5M;B9KwmLzrcbToOwEsw+z65A=="
+secured: "jst4S8wEJQdNzpQmTRQ7NyRi+gJHnSfrHUNrifwLeT3+9v62Y/YN9aNIXbs2MGVkm7wMDk1tU02jphDxDRb+YvFbcMt343/gwXTP6MXcHYfRUTwEv4z4BFW+t6pGnF85c4Rv3WwDi6owwbfRayXhB2sZJQCAuBNwEiWznaz1XSKgJiJOTDVPi9Oo2gmP4VjFOEEdLqt5XbNiV6eZXCxPZI7jGRxJW27Qp90WzjOihBEGg3YSpYVfGQU+ns5uB0JoTePC3W7g/UnUyP2rvPGXnnpbQNolyz+nJW39+GvLe3XO/PdCsDGkLrxtU17ke9Fu;xyfeAvJBssFTn4l1j9NjBw=="
 ---
 

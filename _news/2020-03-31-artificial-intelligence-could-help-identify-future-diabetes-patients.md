@@ -27,18 +27,16 @@ images:
 
 related:
   - title: "Artificial intelligence could help predict future diabetes cases"
-    excerpt: "WASHINGTON--A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 ..."
-    publishedDateTime: 2020-03-31T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-03/tes-aic032620.php"
+    excerpt: "A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 nationwide annual ..."
+    publishedDateTime: 2020-03-31T16:12:00Z
+    webUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
   - title: "Artificial Intelligence tool can predict which COVID-19 patients will develop respiratory disease, say scientists"
     excerpt: "Scientists have developed an artificial intelligence (AI) tool that may accurately predict which patients newly infected with the virus that causes COVID-19 would go on to develop severe respiratory disease. The study, published in the journal Computers, Materials & Continua, also revealed the best indicators of future severity, and found that ..."
     publishedDateTime: 2020-03-31T09:40:00Z
@@ -51,6 +49,6 @@ related:
       domain: financialexpress.com
     quality: 16
 
-secured: "dS5SC1czAZXO5GAcTNejznPWLy2tMOitla8RL2JcguntQCL07OyL3Ta08OIpYHrX8fxAg8vTjHFfgHHutW8iub7MhXEfe5DAkPtGhf3P6Z6q4W6LvCqGNJD1lqOgH5HOiRwhuLOl3lPJW/oK9wZs+8fx8iVtRtymOxMjL9F2TLMC2FJ9DP91lZh7c2eyuvlqPsQtVtemG1L1JhSK6wkuNX+xAuPdNcsc8HDOUbQtQ4UZxLUuj8gAhRBES/PG5ffLb6llzPJAMVFu/dNW5E8/HIZ2e39BeDDJQM4VJqOXLzcDAEbRJwbzKmGQC9kdaWro;xIe92/TH61HFNJJO4xZhwA=="
+secured: "m5TiSuoWNLHMQGm4Wdt078C3GGpHz5E47Lm2lC78h8A8vh94GVzIK/0bhw3UR3erX4qRz/RWU9lFnJl9+mvg+3/rg1vH/wdoIv57fzZFkK009bhrPTncQPvIXBCMwvbI75UtScTQyL+y4TMO7VHtBZlGSLhyx94Pt7HzRY7bK9qo3bWFpOSH0mQ/Qhzxg1BKv0PBEa47OpZsg9O3MG5TSHaee35N4erZVAvGKyH8xIWESmg3Ky83n/co4vc1OBT22RmLEoi0dEpmUDgLo+NAh4dusA8MJHcNgtmiHt5hmAwuZl7jxtYWshTyZ11Y/TyqskiXqPv+N2jVnMoD4oJHMLdW8KL8dberkRR+WxSJ629WXzjCWMETG/H0jYS8ulnZ0T9rBDIhQX/SH5/swfvVnK0GZDH0EtlSo2R5g7G7/B4A+vyp/NdsmLAI/mIgZVAgwRpXjRYy8PvSmK3XBUlXslVUE8e2/wA4B2rArXNf/G8=;t5NnWHObFR5fU4dqDPQXtg=="
 ---
 

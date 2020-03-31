@@ -25,6 +25,6 @@ images:
     height: 1024
     title: "Lenovo Teams With Microsoft Azure At The Edge"
 
-secured: "3FSI/MQxCal4v2zY1U07TKCceJxrx1odFTF39kImqVLyG+PTckCXwRLcVkc+dfFEhSWgAettF6I3nUdNnBcpmxIm684xwbuLNeDiDX5lGh5lIPbou3fWzuD/XbZvYLQszZ7GSkg9RNoi+t3acn2/b8UePt066+WmPPsfVKbwTVK30XlpkWnmWyNxu2ZRCJiZQajsBf8J6sGPr+wceTY8SBHKaLc+2wPHHOuOzGpkJ7MonFX+WJUXPBc6dQTjajnNNJ7Xeb8hMhs5Wpfb6jXpVbDQonQyF0aMR2RUz/QnR0l6izBX4rpK+UUX+Va3GW9Y;33Yc1Kw2/9uLfqM+njbNEQ=="
+secured: "Xj1+gvuxUYwSm4Krk2fvvQzTmzWgMKKaFhqkMr56DG9yoCxcydhWPxR+6si3x65H862TnvwjYL4yNpkr1Dv+1N0euxdOTOvE8/g/zqV3ZznQxQZBOvruM7gJUJX+dMS2WExDnyeq8y+ERSyn5PGn1FTQGY87nbTPXsG/oFxYgfpjNdtN9mEoKfs/9iSUexMaKaUjb1WLBK1sXl/yHa13Uu8m58F8QiPCeZ1PW/EBXROXPw24wEoy/BhyIYOYavgNOA9m30rUa781/WS47GRRv51sbQvQWNZov0Fk0+8WEEW/yEM1cRGq8ueVhYY2A4nUpja9JchsHPgdo8036RbA2MNaqLFbezGIevsAyESEe0q99BNcv3v8QAbZvjcD/6sKJsx5Hth2BbNmpHku/2lpmMFIeAZN11TsEUxxsxfnDNYRYy6LrRUywy91TdKrw1uaez3010/yBPSMh1xD8uXASzH2/18WNHoqEe494we40nQ=;KrLp9OIeB6xIGbso3bcgOA=="
 ---
 

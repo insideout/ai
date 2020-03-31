@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Varian Brings Machine Learning to Proton Treatment Planning with Eclipse v16"
-excerpt: "PALO ALTO, Calif., March 31, 2020 /PRNewswire/ --HighlightsRapidPlan PT is the first clinical application of machine learning in proton treatment"
+excerpt: "Highlights RapidPlan PT is the first clinical application of machine learning in proton treatment planning RT Peer Review is designed"
 publishedDateTime: 2020-03-31T12:15:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/varian-brings-machine-learning-to-proton-treatment-planning-with-eclipse-v16-1029048758"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/varian-brings-machine-learning-to-proton-treatment-planning-with-eclipse-v16-1029048758"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/varian-brings-machine-learning-to-proton-treatment-planning-with-eclipse-v16-1029048758"
+webUrl: "https://www.prnewswire.com/news-releases/varian-brings-machine-learning-to-proton-treatment-planning-with-eclipse-v16-301032290.html"
 type: article
-quality: 66
-heat: 66
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "5eMrA6RSiaznDxY/TIIRXNzQP/NCP3lT1LrNHtdeopv3bN5myQmJBRf+uk35VZPki/rQ5zavS5jCW8lptB5Lw9zU2Q2km3bMzuLezujyjMnSuFs4GpnjvSCl0loPmykNOd5Qq0fCKawY1vvw2RI1n+frIZCuKorOg7GD0DUGlGUhUjmG5GFAUSakHUxVHVH98NHLOs+bV0XeiEdfYt7QGdavMfCdw0BqBUy3Q1GXTX5PhpKSQdnDPPIo1IsFo2rBAA759PGjEOBwNd8wvVh4dJnUElr8Fl+4tAHlSvQyycUQjRf9lKVjIG+JwrvRJop0;DH5vPBPhla0B+luBwWLmmQ=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Varian Brings Machine Learning to Proton Treatment Planning with Eclipse v16"
+
+secured: "gwCjXCN2gCmduMswQ/u9bKf9NdqqTpeT+R/L0J6Pr4lLx8XXoNb80FvLbzirGmpBESgvNmhF+grIcK/Rmz21Dv5BsW/e1BK1gpdCRax7wcSRPvC/xUGMQAKj+4jpbRseVPnX4K9ulxbJLYIPs/wRclQwOBBT5UEu+5fGrrdD0N0wjPZi5yJfHhrGOvaJqSJzwe5wpRyrSIJxN/6kNIEqJnWqJAnU77R82WtF1JOoKDnhT9SPVpfhvAMMhQxNzWgyrbuJl+H0IGkI3jLDB50PFNlpiHPEfSXqy1xNmrk4UttBpeNBpSHE8JLYYyy8gx0B;q9bXJi0UuffSYL0nF3RO6w=="
 ---
 

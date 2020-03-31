@@ -35,18 +35,16 @@ related:
         width: 636
         height: 382
   - title: "Artificial intelligence could help predict future diabetes cases"
-    excerpt: "WASHINGTON--A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 ..."
-    publishedDateTime: 2020-03-31T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-03/tes-aic032620.php"
+    excerpt: "A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 nationwide annual ..."
+    publishedDateTime: 2020-03-31T16:12:00Z
+    webUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
 secured: "BR5EJB4VYrKcB8+OI3KRJ2klRyciDMWHmx4eV6/LlGYrtcDWpjV5dYrKK8TJgOZzCvCcBY4julqAMsBqxjtncjlnfJopMRa+Nwj3TuYKHGHWQpfM3ueRkvcLdytb5TmitPpBxABh8AElozO0YaFxEPub8EjhqfKG3IboeFBf8889buUeFOxr41VG2SM+sEElZ21NaHRhDxgnSBVRxmLi+SCvXhOIcVpxQ4f8gIJXjJwYmgVAgip+//OwqjDoJYhB99fll8QnbUfXKFYxcUFeJ09HYxu8fqOPbcMgDbTDm9o8lWh95Lo25yexjIDK6Oc9F0l75YbNhZLq3cniBOg8rSC11ZjErZepZEMq/3u1C8JkXKJ4ugnCU48SwFIugKXPTq8Vd9PDScgL17AmK6ToJGYIQEThlDzQeXUsgTs/jJ8fSvhc0eLHdLCwxvj8tZsz7IucasWx8n3lfYbGl/jqKWffKMsH6w3T0Cz+KTIZAtY=;0DGEuKWTNfn7gUmjLiXWjA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 600
     title: "AI lifecycle management startup Cnvrg.io launches free community tier"
 
-secured: "SF0Ob1Q2JYUBawjou+w2nxH6JS5+8ejkdDd9oKGr695YEp6cfY8lTfKnvyLx/98Ya9L7PZ6h/CZIfhIPiALmtfhIzZd2YZ4lYWGVJlz3m2vuonHmTiXdXfXZyCHeGIlRf7nhuVetO2QqUt4kerklRgFQV60ZTOE71RbAw1tJ0sRtik6nXo0ansMAOQ9pHn8Ig0pi+tMbSbHmNdfHx3s0MFkwXs3t0Qcc7R1VzgMFsLhE0Ec/16aHC+3Az6hXTjbx7gdqpEE81RvLVvAuv8G4BjISnkp9HecM/QhM0U3by4Ic8j8td6GCY0JvMZsVc0j6TDuUxLzbRgsA3uOBVLpheccLk3HrRVndBlCKS1K71j+wekUtdPN2Qtk0T+zbdyQUu3feJex1RDTRoa8bxawV3Q5rimtGZhoobP9kf1BCOONL7Af71R2GV7+LlMnXY0Tw/ZuSmlFG8Z1OaESAshQl5qLDPj8VDVn5rRyQHO2Xq8Y=;RNYuNVY66lmdB4KY9W61Zg=="
+secured: "clMcCaOZ1bSC3ZKiTU4maNzLrGeAih2siw/yOY1sBLpZvNt2fQ6V4XVKAJNqj5nflwXUZE56N1n17HZbnG3FApYRfGgldWYrDYremzp3NRjYECHI0Ull7h0i7KXRGaFJXW9QNvWpRPWE0rJqFEwdw2qMh8vuSgfR+dfwWYU1b6DY+798vs1VPwU+uYNsonWBTqTx0lIBsl+cH4uKDdhGtqUqKGl1X4fCzpSrCAZDzt2TKOHgRwnGrgkFSUvvlt6bCc53QQnKcAXyXpnitHegxKxQy3z1v52U6fhK0YKate96wBItVnbhJXHjzWa+trvIOB7OBZ9s7n2dU0JbH6V+6UZnsYMg1sakqhFy9RWCYsrAC+OaQq92y9HaD2yfk5dXdy+0FTD2bdr9bic/wrWMYuhvrVdC1KX+vAEYFdL6a/9wv9qm9KkrGOtdBUPpn3SwEr8uMw/6u9Cawk0lSwO7soJpZTWrnmu+M9yi7WJHOhs=;wU/z3elCwshdRa0n8meWrA=="
 ---
 

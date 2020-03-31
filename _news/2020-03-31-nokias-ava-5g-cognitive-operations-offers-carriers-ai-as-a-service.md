@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
       - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
         width: 600
         height: 600
+  - title: "Nokia launches AI-based operations to help telcos enter the 5G era"
+    excerpt: "Even though Nokia AVA 5G Cognitive Operations is underpinned by Microsoft Azure cloud technology, other public and private cloud options are possible. At launch, Nokia noted that a large part of the Nokia AVA cognitive services platform is already commercially available and it is expected to be completely available in the second quarter of 2020."
+    publishedDateTime: 2020-03-31T16:59:00Z
+    webUrl: "https://www.computerweekly.com/news/252480922/Nokia-launches-AI-based-operations-to-help-telcos-enter-the-5G-era"
+    ampWebUrl: "https://www.computerweekly.com/news/252480922/Nokia-launches-AI-based-operations-to-help-telcos-enter-the-5G-era?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252480922/Nokia-launches-AI-based-operations-to-help-telcos-enter-the-5G-era?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 39
 
 secured: "MN6CdiMgDyjxcz4uAeza3S5tkMo9a++oKG4RHfYbLGCQutVTnuVx6d7prXa2GEts1F0jiDmox6TjuD48kSOnbcTv0JubGgJ98Qs07DwYTgaBg8J9uxrl18uQ4ImGbBAAy1Qmd3TeWtvnarIRPFsjW5/brC+oHGrW740Jfj6mQ+FzkaR7SuZkY9swl+49lzz1rcTJxAOdmgcHI11BctUM0IMGZ+E3t2yLFORPx/w4gVl0kRRYsIH9ogDNwcXKl4QsmxtxnOQ3qRby8J+kNCtXFtCq2G3H8WlxsjdxsYk11q+xJxAiTikGwhphZoOr9gAMC9fLhNfxKEYIOIXwo8vh1MNotIuvksyLVQ1KCoVHF7qbJjlTG4W2zlHaTh+CjxXx+ZO3L90PiR0fuOP1zSzEfJdea8cmV9H+96slaNYFg5iUwsCsem4u6K4RDJOzplUVtjgf3+cG6UfqcHGi9sOKs/8Cs26x1mXcWMDC+7Y5kI0=;10wkmBnFlJ3XA9fQ1o7GpA=="
 ---

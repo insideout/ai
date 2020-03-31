@@ -22,6 +22,6 @@ images:
     height: 434
     title: "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage"
 
-secured: "8KRD+xwmlWm9pL/Z0TLC/6CTL/+KF59+pc3059eg2ib3dRyFPIZWLm8AVcED+d5Da/BNpCkc2nce3/6ZM33lH8PyNkronOZKtdwPV9zsmV9Wj/hhaPG3RLUx5he+yxbhoBc2t0CKtg+mPedAWQCmNB6H7k/b1p7p6vnYhX0QYIZkasc1CtOLI7SaPyv1bSRkxh8niH8sL8L9gsvLsynJkhNyAv9JNKnjV6pc5t4Tak1CZtOhgleAIMagXS1gZReoRKiH8x7H0V+nLZVCv0TaC9aao1H2jjyoz2n7laNudHjlYK8F+Et0fQho87FK5+/Z;FGLVFVwkwbnEzHbyZKLcww=="
+secured: "Kwzm/kt0lid2l+4LrVKVxGjmXQgMFDzVMd/ZT/tH81RKgUHU1vp6UMHsm3ys20kVPwmZ66ZwoTNlERC6xGKyiqNddGFoTtDWa2XnQclVXfMWypr0nqizFpQRxopZ8p+5NT0d155yfm7BXJJKkiXnYa0JHOU4lp5S7Dfe04rICi6YpSrfeOJxk8qNWZn2OvsLc/BteY57UNt980QP50KSiFloeXgxvkbJSOnicMtgWps7+H9o+vqhpI7mFGS2tWe4XUOd3emsXFsaEodhBLQ1rSQtY1LuPG1gY+I7HXQ5rWaM9mO5Pq+qjpyqyZneDiYnC2yZgS26lsRIWDxFI/p+UGWV7DK1TWs4BVsSlW+riD3LfYxZrJ6nw3NzSD1ZsWvLZ8eaMaiwt48Zsl4AXnEiI4oVFIVfsJitUn3slMJimKPfppIf0gjunc5rfs1NgCbewJRLC73p/MmHbDosCYAyL83uKGoee0IjfH8QUFp6k0M=;eXqgqgSLiJtv49cm9K528Q=="
 ---
 

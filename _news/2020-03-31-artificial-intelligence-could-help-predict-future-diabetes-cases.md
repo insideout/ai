@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Artificial intelligence could help predict future diabetes cases"
-excerpt: "WASHINGTON--A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 ..."
-publishedDateTime: 2020-03-31T13:06:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-03/tes-aic032620.php"
+excerpt: "A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 nationwide annual ..."
+publishedDateTime: 2020-03-31T16:12:00Z
+webUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-future-diabetes-cases.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-    width: 900
-    height: 300
-    title: "Artificial intelligence could help predict future diabetes cases"
 
 related:
   - title: "Artificial intelligence 'could help identify future diabetes patients'"
@@ -51,6 +47,6 @@ related:
       domain: financialexpress.com
     quality: 16
 
-secured: "GOTz4VYkKcha2FcE97baeu8mr+01QTs49wwRFPKFLCvLImgb7Boq5LaoiK6hYqg0h2DdNnql2JVRXS7mRDG5cvqRNruamD9FDebUiwUaROGsp5T+zr9gDDLXmeCMt62I3+C9QlnZ6bpganNH/he09dD+DDSxckK+n91t+1LSpssNeEFd/GpoaUpw8yTkP65XaXzfpMV+ybHxb4eJfgBwCAuGL7XI2Gd3XST/Ex+qXapNhCYmGWsoIZ4A6rdcYGAdW8ToOV6tvPMa3IW6yDCK9ykh07FSBzTR+HcuZsSrYU/wTP1mu3vKUUx2kC5j1/KU;nDwsMoXs/D2uOiFAHl+dkA=="
+secured: "7WpK+iAKLj2O9UQZQ84TfEUmeSaUE4cJB+vKsr5GAHVEHXMAxQczGseUD+dQCk8yKlp/KvHvo1jDe42/WWZLzKMz4Jd7lqTq4LlSvC1YnbxUydUzIVVDaAx5zynP083/jDgDEqkKisLKyaQLCWnUyG1NVHgQLynp3HEGGtUW0cK+rIr2rLjUHZ9E45zMj0mojZfrXU7ntLZSwNaV52z7Intoy3jFBN4vIyiD4d0xina7QP4MLBVhTP3sFNk/S+6xTTdGUiBrJ9PwsayTihYOuT60Ay97+fbXCENwbiyxC5Dm3gHBkJmp7ANboD5PIeuVSqTnAQUQ6xDqBt/Cav4ZxKjhXT5advAyQy77JS3dDLzXQBLqCqwPwffS2ruDFZbjPi8tNvnhi9+7iSU+8RHhsTsIkMoU0bk8aE90O6zkwkd7rwjRMq+cOFh8SKJIema75fBLPgOsvLOVA2rJceK3LoQvlX2nd8ezdC0yuADDprg=;FUxF/Im7vnJBKr7/UWRU/g=="
 ---
 
