@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-m
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,7 +44,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/03/46063446162_55f2137f91_k.jpg?w=1024"
         width: 1024
         height: 682
+  - title: "Niantic buys a 3D mapping startup to enable 'planet-scale' AR"
+    excerpt: "6D.ai could lead to advanced 'Pokémon Go' and 'Harry Potter' experiences. As much as Niantic might be focused on making its location-based games more playable at home, it's also thinking about its future. The developer has bought 3D mapping startup 6D.ai to help it develop \"planet-scale\" augmented reality. The relative newcomer's work on 3D ..."
+    publishedDateTime: 2020-03-31T19:09:00Z
+    webUrl: "https://www.engadget.com/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html"
+    ampWebUrl: "https://www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 72
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3036%252C2024%252C0%252C437%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252Fd04640c0-737e-11ea-9dff-176976237dce%26client%3Da1acac3e1b3290917d92%26signature%3D05f6e5bee53c87fa7782f5bd30e54e16214bca60&client=amp-blogside-v2&signature=1130282829e8ab78a03f3096b28b109465fbdf37"
+        width: 600
+        height: 350
 
-secured: "DgN3cDsQ30ZwpDwNMFiqnx2h19o1ABb24wb3bzuXtWurTZArUNNjiwcT/E+Jvvm2hfLucggHYdI9v3UspHydGnhtuq7MT6xhLG9gakm4QR4eXCQAw+l+BhdEwpdYSMYIMpFPPtVgWauohBAUqs3jHy2rApgRnc/SXvD+6bCzE4tItsuqwB0OFBbeXZBL91k31BGlslGArJnAJkdK9CEmC/hAE1XLEW3tU8MZyFvSEO2z9pzcmWIXiWvj0Zqeo8CYR9kOwHe1OQDZOyXktIwLs+FOer0IPU/zGZ4A5IpL5cZNuzT3fkTuI92/iDTdms8G;8wc+V+kfcCnyJnykQCW0wQ=="
+secured: "2djjr0yDPxspJl0j8hSybcGpxyrlOgNLU+26ZGdnmKdrqBZTDf/jj49aRSrh/VYR6HQaZ6SVr6M/gKF38StT27fLJ0TLcjYNV7Wg943W702Ve23n+dZXkgz8YIGwjvF+TPNUXDpYH3CTyYPeqaYrv2nBj3994Y2Eu+uWTCQG2r0mppNOg+It8R0jwaOJVrQyi6Y3G2765d6LblJXMLQ5CVIrHGHLfCt2+AHcTRzLiYYCU8QTIzvY3XpW3rk+ALg17fF/23PkZEBefkkT45LLnvtdjG0GUtCaYQ5ElmHsLrQDVy56dCqX6QuU98U5QYfrgtyREdZwAKJDmEl2pG9Sp8BifGahYUIn8SGIrE3vQRTFbWNA5kByRce6LzDL2K+ljFo4OvYVsCXQgzLeopEwl3/RKKqSb4VokHfHVgxN5ThUFWrfb5CpWWun8gzom6HqHc+HRhcVfSa9ScTRQvAV8iSeqRoA2mQVf7MjmVf7x2o=;TlufXBOzas5/9RT6k680kA=="
 ---
 

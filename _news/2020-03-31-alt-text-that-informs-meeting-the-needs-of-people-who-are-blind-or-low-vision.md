@@ -27,6 +27,6 @@ images:
     height: 788
     title: "Alt text that informs: Meeting the needs of people who are blind or low vision"
 
-secured: "sEEu5Bc45d9Tk8f8r9D5hWH7vzd3yH4XyY6REOncU3AF+bcNKgOARlQajoVYZI048329Yf1yxjwKC5iWC4lF7YcfAQTDmrQnyxG2BQMG+MXHcicPhgMv2iHnSH91FUG2fRxUsrathXhwUlvWRAVcKcHQxzJ6beoeEz/tR6KnL5IDROA8znouqBjfWEHZYDWnDkpI4e7337g8Tiy6cmGFzGkHz2vccJ6mjnuHSYEWPI+v7h8m5ZmiXWp8FlTUs0POZXf4j/Z/ze6nVpu7VK+u/n022qcgS2LULCw0OgqJCkZ/1/s8LfX0s0IImoflftvE;FwMZq51peAVPq3LsgdTiCg=="
+secured: "ac9imN95eAgxov0kuGVIpjqzWjEI9qhYwFJM9zSLncd1ve7sisXgg6MQDyA+iSTFvXcD+K5jvCEADxJ305mar03D8B4roWnJTPYMlM8RMfio7vp1xsRKCyCOlemaCUCO50p+Q5i/z6o+pgiHLl22zRT+emgJZ2fQX+EgGS6CqXs/ygDRva8Xia8p05Whs2QZ2+2AsV3xIzNSNkeRAAS0P0lj4y3uAuuK79koljUpDMmP5+/tD8WS6JdZVMcMyrtlTFazJ/ClzR4+0kriwegcy1K3aK6VI5nlSn22bXyhsEHxR1FpflbaZvwoZggyNPhq8x0qXYRZb7f6oId7aeL0NpgB4cTsSU3qMNs4Rqw+eutbsfRX+WI8bMzu7830ujgXIU9Yf3ZE+plPPFlE/fJpwn/DrWPOJcBmfJbeVrG5xB7kDU3RpSYYbbnzFdtKWoCz5xRPdxQNrcnbrlgyg/nga5pJmuCiJ8N9J+abP1Nm/DM=;TNKyF8GFD5EX2+oIWpeNyQ=="
 ---
 

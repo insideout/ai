@@ -1,25 +1,23 @@
 ---
 category: news
-title: "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute"
-excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary collaboration ..."
-publishedDateTime: 2020-03-26T15:05:00Z
-webUrl: "https://www.hpcwire.com/off-the-wire/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
+title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
+excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ..."
+publishedDateTime: 2020-03-26T10:12:00Z
+webUrl: "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
 type: article
 
 provider:
-  name: HPCwire
-  domain: hpcwire.com
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/global-economy-tech_shutterstock-1456634993_700x-405x228.jpg"
-    width: 405
-    height: 228
-    title: "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute"
-
-secured: "pOzWChIsepW0BNmnGtf9GzUi/kBJGPiCedKGV5eudcqcYVeoLb2m9Pclv3czA3UxSylkGPL33fYDOCAORTsLrnmDotsa+dNdHxsLWWKGAqP/rfe6j6k64oFSAgPBStLIPuL/XPtU7SMw7lzgRxyQ0ej6JPHYclqMHcJqQBwid/U0p0wqCcz7aFLPiXdF7XkAJxSGzDzE/YeUdnCOsB3d8S3dvPT1ETBDlLW0dSv1Xy6wf0lzsQh1Z2Ikkf6OuuKWUUZzmo9UuPFSQkDKlLnjgaFti3AE27mJDANe1ZI4lduXvtRYtM3XoN5AVg2zqwBt;mzrJyME/A4LUAHj4pD0Kgw=="
+secured: "cxxvWyOY4w2uHuD+BjrJCq4E+pF0HA290YfZqA+6ndI9tyNocoQ00owyQlZ2kHZzVqeXaQ9cByvohsH8lheZpi8hPawLfqrrHDvOetrsbP6blQFAztfhk3hxnztqYr4y0Udx9nnbCo8GcJFEv/DbBYEBBeMCO91x7C1yQlLmHK+YiBBw8VFdvk3zLTv+fdUNNbx0iU0V1vcFWC6WREa08/SStbIplHr//E359OChZxKXrJ3NTvpFDCVjL8+0UBksQ9u8zrZld+QuI07qEf+tWMqsNV3/uQKS0h6VMC1QAcli8lTOOOxN2FRJckvUgS40;KPcww4Ftzu3lVBo9Gftnfg=="
 ---
 

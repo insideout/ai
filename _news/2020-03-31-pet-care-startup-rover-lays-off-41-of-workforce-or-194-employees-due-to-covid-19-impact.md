@@ -28,6 +28,6 @@ images:
     height: 420
     title: "Pet care startup Rover lays off 41% of workforce, or 194 employees, due to COVID-19 impact"
 
-secured: "NeEYpy9K/YEla/dVuYt3P9Zu+twUcRss2Tr2auCRljv8vjWKOPDmz7FngbJQqs78U2Ap3Y/cNCMVbi6I4Yg7FWqaMlF+Ir8+hwEEKIKmL41ko0Kiocb3XQ/YMkw+ZmAZNVWc3TvoyIRL/16hMi7eo033nTMI9Zv9ppBGGr+FQcdCbW7V+FyxZhLZfCu9AkV+3AlgCZWb2jM/ozqMOQYcDfHIiR7HXLwCItEaWgQBwRsWEjYzc7NHB++IB8iJQszTdTUBQWybwnzNppJJuOs7w9uVX67g32Nnf6uaXsVtFEXSpgfHzUund6L3XPwlcv9w;Z2nG6wWOZqPvp7r0s9m7oQ=="
+secured: "3Zk/pbRRTySlUysCiyQJVx9VmjoOpgzTEXMwQL2oofghiaFc0mkaSFQ0xjc56bZzrfDSZSf67dyaamREAlHWbvWRCIBjbqbLY14e+q97TjbPB3SXwojmacU44qCWrfnxDMt1pDR9UdFLPqGBxUKsYvUM8UUnSq6H2/ZbmJagKms+xzpo0quYMA2H8u02GNx0A1AaqCaI+RRbmzn9lGo6W9xP6PTqc4Ga5bIAdNXvMERagysnU4Mg5xYKOdsoI4P+seWFaWRXRta9BcLk653820Z2WDyU4pR8wmNfjsPeQvvocoM3vf9fGjifZ+bxSn/f99yipsVJH1BQXuBaTJJCe4d9UoNFAHzJFQZAHgkf3ATPg8x28EEu69VM1h8/sp94CdEgUg/uroa0lLJsWJqFH39RTb+TixFv++aXi9WemI5LTsVF3j6EXiDDGYqMGZFOIPlkMPvNsq7pOmG0AeDZRLIVn6Qsh1EQ+zvzTVRJjhw=;Tt/KSjRvcMuAjVkjmPhuPg=="
 ---
 

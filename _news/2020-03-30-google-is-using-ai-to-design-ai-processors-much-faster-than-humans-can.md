@@ -3,9 +3,9 @@ category: news
 title: "Google is using AI to design AI processors much faster than humans can"
 excerpt: "More than ever, researchers are pouring a ton of time, money, and effort into AI designs. At Google, AI algorithms are even being used to design AI chips. This is not a complete design of silicon that Google is dealing with, but a subset of chip design known as placement optimization. This is a time-consuming task for humans. As explained by ..."
 publishedDateTime: 2020-03-30T18:35:00Z
-webUrl: "https://www.pcgamer.com/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/"
-ampWebUrl: "https://www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/"
+webUrl: "https://www.pcgamer.com/au/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/"
+ampWebUrl: "https://www.pcgamer.com/au/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/"
 type: article
 quality: 59
 heat: 59
@@ -25,6 +25,6 @@ images:
     height: 576
     title: "Google is using AI to design AI processors much faster than humans can"
 
-secured: "EoRES9EAalLLvPExjsK0Hv6OrEU+/Cqp61ng31bYhrhZaQsggr1/XztGyM4ZZBgzOUijUteh3mRGSPGZYz6cH2BzFVeo8Dmqc8FOCYKT6Ety0tIkQF8BKzS3MBZxWzJGkIP+NOi/FhcM7jjZ997ItZpK9p5tePkNQn1/x/iKjvEpMxUxGwWO7jgmBd8lbLHph3G8hkH/6GWyZvTOMwnHNxHuMsdxzsfyfJbzMvHJpD4OOxTelaY/NMUH7MoTqC0cpllE6NaZYfnErifPCluB7QNq8p/Cml6mKJ+BlQKYCDxQIfdyfOK8br7iyyJePCHa;7RZdIGTmNHRHbSlKIT0mUQ=="
+secured: "MVgZRLQFmpygOxvNRgc8YRtQ8ZkxpigaPMaF0qJH6NaOiLRFAHSDBA2Lr9qc296fcJ0RqzF1y5ODOgzUr4yYr+FP4m2AL7SuRhYlv3oOTH9BqSxH9FXqJ7iICGWuejIH474+2YHB10EIZ1EpS6c6Op4N+6rCMqjcVezrewZER5eoPb5iMY+p5OUa/fRT8GduWjVYexG01D8ru0yQJc1W3/kiOlhvqmoBC/6JBzN0l+2ej1WddD9ljEvlmwpvtDK5VuSClc3JYJ3lyczwz5G2yoRluYFq3U0n3YCYYLzjem7ehJRSlggwUbgxg4o9xxAO;1TmgdQ1rmCX5aBKn37cC9g=="
 ---
 

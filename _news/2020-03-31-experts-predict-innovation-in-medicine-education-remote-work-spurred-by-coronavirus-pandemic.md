@@ -50,6 +50,21 @@ related:
       - url: "https://amp.kelownanow.com/files/files/images/kidcovid.jpg"
         width: 720
         height: 492
+  - title: "Experts predict medicine, education and work innovation to come out of COVID-19 pandemic"
+    excerpt: "Artificial intelligence, for instance, will be used increasingly to triage patients ... Olivia Chiu, a speech-language pathologist from the Toronto area, has started using video to see her clients during the pandemic. Chiu said video therapy is as effective as in-person visits — as long her clients have a proper internet connection."
+    publishedDateTime: 2020-03-31T18:38:00Z
+    webUrl: "https://www.thestar.com/news/canada/2020/03/31/experts-predict-medicine-education-and-work-innovation-to-come-out-of-covid-19-pandemic.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/canada/2020/03/31/experts-predict-medicine-education-and-work-innovation-to-come-out-of-covid-19-pandemic.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/canada/2020/03/31/experts-predict-medicine-education-and-work-innovation-to-come-out-of-covid-19-pandemic.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 35
+    images:
+      - url: "https://images.thestar.com/NYs9zp3aLZRDT187rbvyXG8SDFY=/1200x887/smart/filters:cb(1585679707982)/https://www.thestar.com/content/dam/thestar/news/canada/2020/03/31/experts-predict-medicine-education-and-work-innovation-to-come-out-of-covid-19-pandemic/work_from_home.jpg"
+        width: 1200
+        height: 887
 
 secured: "a9iyBJPgJmeJaEoyUqndwsQc+v5vphAhsp8jtjnzTQoBosWe2uF3knl5qFo0DTiQljz2Lkbm3S6DUuwrGZl0bhUN+HDFovsdQ384XhITwY8evupJkmqJHUGYlgXQj/QHlsDLrsZ5SjCZNHi8RsBs2gXHCMzdM1YEHEQ/C59WPTSNIMwUWdzcvrRzPxps1MCNwFw6c21+S3a+mdxU2IogI3er4+Lis2XwsxuUxb6rhUCxHJHET4Sm84AabMEphCIxVZzvmiwkaI2OiLJxCGe2zHRa759NqsfeGW59F7eb9u5XFGJ0fM2wnMISxMwjM90tGPDVKNLu9BJOyJChWF0Vu3RCV8y36eg+7YjBPxP6d5egvCQ124D9eQf8uBeFNb5lcbhFzVqWcXsMfzQu+K846WBJk5TKFYAFRTh1E7/A+GeZzsftmoYIdYkTo2q98Bb17hXT8jTde6mlir+/mtfR/f47EtuXR24+JZ4zukQ+XJ4=;iJNW/ov6AtKltTuNu04RNw=="
 ---
