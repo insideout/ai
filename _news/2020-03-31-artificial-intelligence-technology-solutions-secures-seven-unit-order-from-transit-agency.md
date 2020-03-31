@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Secures Seven-Unit Order From Transit Agency"
-excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned"
-publishedDateTime: 2020-03-31T13:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-secures-seven-unit-order-from-transit-agency-1029049077"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-secures-seven-unit-order-from-transit-agency-1029049077"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-secures-seven-unit-order-from-transit-agency-1029049077"
+excerpt: "RENO, Nev.--(BUSINESS WIRE)--Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITXD) (OTCPK:AITX) is pleased to announce that Robotic Assistance Devices (RAD), its wholly owned subsidiary, has received a seven-unit order comprised of Scots and Rosas from a Public Transit Agency in Texas to be deployed at a variety of locations in ..."
+publishedDateTime: 2020-03-31T14:48:00Z
+webUrl: "https://www.businesswire.com/news/home/20200331005257/en/Artificial-Intelligence-Technology-Solutions-Secures-Seven-Unit-Order"
 type: article
-quality: 58
-heat: 58
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI
 
-secured: "BFEC33DUjQ6EIVdtLI26/3amPhF1OFo1cg6Im1aPeFVQ+3vNOWInciHu5S1gZt0ufnKTNLlY1O4JnnyBMplnMqN3Pb2IPD7l4ATA5EbXOkBUFtu0OWBgO6vNJZKUYK03KRAA61T8MwrtwpLIJF1847NNCOLdl57gCgnRwAlF7lq+nN7e9BTu2ilc3OLtyFM5Xr3W+ScfoyDXQLebqjBmMPjQ+Ibdo1aijCYG9MlZQjdkPs7FtSewDLT85pX2aO4WBQfsd7NF34KWnURvNmnk5YZfXl65GZtvhqhHgmKpg3tp3+7W1W88OSRDJSuMXdYE;E6cHMhwn5NDWBIN/SjBT8Q=="
+images:
+  - url: "https://mms.businesswire.com/media/20200331005257/en/782413/23/RAD_Logo_New_Portrait.jpg"
+    width: 1200
+    height: 627
+    title: "Artificial Intelligence Technology Solutions Secures Seven-Unit Order From Transit Agency"
+
+secured: "nRii+rn0362wWA3rjeuISYv1TBiXYwz53Odc5fYjdr2NYXauHssB+EVr0ngR8FNnHdHJD6jZiY5ZQfqLcSxwe4r9xLiK+EmEGtFj9EAsy5yho45qP/5B6/jzbmcKdwsY7Qj5dzasAJwiKTS6O9v7tiqAkJGHXa9/pIcG1fSByFqcl9BpfLasY7WvCYsnmnoXYRHJXL84sfjsNSaUB7XvXRsAsq6Mkxhfbo2OqpBq9e5mHchcZ78nrrAE10q1JAggwCq0JD0PMXOpIJ5DiV0kqvwoggkX4mQA3HeQTmzevqHNTfAbFOVeqrxZR5ys168n;asgCe+jeFQEqxc6Nxk4MuA=="
 ---
 

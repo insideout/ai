@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Huawei steps up ambitions in self-driving vehicles race"
-excerpt: "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ..."
+excerpt: "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ..."
 publishedDateTime: 2020-03-30T09:36:00Z
-webUrl: "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2"
+webUrl: "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race"
 type: article
 quality: 24
 heat: 24
@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Huawei steps up ambitions in self-driving vehicles race"
 
-secured: "am+Lbs/OoBvSTM6ZRMRoNVyC6PSK7JNK3/a0IyTUjTFYPIM0AuYBrocqQv+UTRHvVCAC8blSL15yWfjZaCVBQW8ljZh4+YqjRExtTKUwtK9+dHOkVH0msK2xyJHwpq+G2SIPoQ4q1o5ru8tHYp/UKrQxnJuLmbTl1MY8anJed/LkvNEIfkAwvAWo2330t2RGDmA7gr2KABhldhs1YgZ2xieVXuM1ez1HQzXOZ37LnUSHFGUGJj7t87qeNhB+cdKyUoCzXLT8HaZI+Hc0x/GZusjPco2fEwDgRBDTcVsPX6LqJlmapSWp3bDQO3C9L64W4cKRKfZ8kwQoisnLXys3a1IynJ7jYUTaWYSXTTCDu0yEqAKCYemMLa2vUzT4yutsrv9Sz0C68/rDCrFqor+Fa5z6Y2Q921tVzhHH+T3BB0GSSwA5LEY3GgGZ2XVKLaKcKH7k6qNqh0oHQx3bnSh1/Tl/7piPehRPzhCY/b41zL4=;Ln44cGULIeyJTcyXAktZTg=="
+secured: "1R6untUD+cYGrPXqCCo2DAcuDz/dVsr4k1W323Mb91T/UbKQHa2m78UjJHIb1fcAvQw6xSR2xLMLi6Rd2iUhvU2bIuAsMy2H5tGyWbv7nUxSfA1bhBgi2WBs0uOUsKknrjhsM2Ed8SNHcURQHtE/CGiAA8nZJpUspsiST7QKwIydb8JaC0hi2/2Zmaxak/DZngiT4yXuz7qi+a9AZQlWroAxb3BedVwipp7yA2xitO/Jp0DE8YY6oo6Zs3m0IRwatbIAEmdJu/753XgY1l2zZlW9eJsXv8hXKEX0SqwIAiGVYG2JknvtetJZ/W48i99B;QSfC9s8mq7AH80+L16VTFA=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "How artificial intelligence will reshape the contact centre in 2020"
-excerpt: "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will allow organisations ..."
-publishedDateTime: 2020-03-31T05:10:00Z
-webUrl: "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html"
+excerpt: "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI ... it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important."
+publishedDateTime: 2020-03-31T04:59:00Z
+webUrl: "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html"
 type: article
 quality: 39
 heat: 39
@@ -18,11 +18,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg"
-    width: 350
-    height: 420
+  - url: "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg"
+    width: 375
+    height: 450
     title: "How artificial intelligence will reshape the contact centre in 2020"
 
-secured: "cgNBhuMBpWpIBnVOMAUpvrGz4DVfuPSg5qc8d7Oe9MqPHFiMZFd60/8K9vozuILNkb9SBRtk2GiuklasoU+DsOD1pahen38gpk+M5HpbDh8fQkOVplRjbvCuHS/FnUm4fICvZf3tX6Wjc2S/C+QhpLa8jFau3jpjN3Cg9yMm6cieqJ5hhNO4/chzfhy052yDF8KRexlwobPVlsUwa/GF9Rb23YDg7wg/WFJi7GPCLbMKb3aYIShebmTfbKSQXfbJzeJyu3SFr3fBx7TK6hxdigmYTCZGGjDjvNpvAlGMQd5+9UDlB75BtjeE1GTTvWDvA8iCM+zkkvT5ohUsSM9QP0ILQfM6gAoU5vOlMdKJ5d2H1bdEW2ieFMKgq42K6kKIV6E+HFCIk3A2jeEkRSYYDsRuPM+KgNyXusoi62RY/CBmY1z+/JblOhFMSMViOdHXpIzWSrgVut+Xuh4PQoCE9SmUZY/gIBQd/SC0rd9TOAo=;/T7NLNDaKt4W10OYOkV3Rw=="
+secured: "nVTlGemV/lhJS3CdqK2npOyncz6F/qiV9y2W2fXWcl06Ly3qBuxHAKwswOpqhIt4yru6l1d8wEZXHOB1plLyW/yqAvC7MFu1oxrC5XZnFoi0mnTtESxS60RwHYsRzQY2VoRzF7ME8RorVjgaaOhp3rwWmZskRy5Iq4r8wYJ2wu6sD6p0ho+8bKjySgwoYugdzENmt+p8DEoKHsW70XxESghbYh57zTpdbS3dzdV8TmB/KmiHVX9yErxnR0DDDtR/FA4Y0oOm6gflf+3b6cmCFT4lxQ8PPKm/3t5qBxj0Guss8Y747lQlzFqdf8ZRhSCe;Bnd1CN0tlXzBUareCLqq0Q=="
 ---
 

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage"
-excerpt: "UK fintech types at Revolut 'quite happy' after a year in production A mystery outage hit IBM Cloud today, partially knocking out services for much of the day stateside. At time of writing, parts of the platform remain down. Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 ..."
-publishedDateTime: 2020-03-17T21:40:00Z
-webUrl: "https://www.theregister.co.uk/2020/03/17/ibm_cloud_service_hit_by_tuesday_outage/"
+excerpt: "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ..."
+publishedDateTime: 2020-03-17T23:50:00Z
+webUrl: "https://theregister.co.uk/2020/03/17/ibm_cloud_tuesday_partial_outage"
 ampWebUrl: "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/"
 cdnAmpWebUrl: "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/"
 type: article
@@ -22,6 +22,6 @@ images:
     height: 434
     title: "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage"
 
-secured: "pDb0PfbbPbeslB82JR8bwqzNHWw8jMJ5UDoAZm2eRvpKfJoGGugyRVe/v7XXD861n6XeLnn/Yx5eSSgWUJF4sw7RwfgKiGxUnpkERZtVHSh4brWrw3ARVATo7+dx3QDeytVzp6bR1tLxCjb/jMdv22JGJhMsGv3Rp8Ez9rC9hOQKEobQDC74WJmWvtiyGeJtS62atcs1UXjwgVxhXZmlxm8uq18BSMiaNgjUgGX3c/3+1DXwq/TtyLPuF8FQaGLqeWOkR6c4p801TwOBBuUMMCwPWpKVGi6XScPoJ5VR59593gqtAZRSwBdD07kld5omD1U+kSW7xsYdD+B3g/zlPS3M8gAIthlU4wZr+TIAvxGXrOJumGyowNevBLh81nzlv7UMDmMpKcDBBLL3Yo/GGWTHBHGkP0+4ZdBzbB0t8fxrJGp40qG2q15Z+bZDy2fBQgbUheHV2IKuLNBpolcpx4HYszPsP38RYEooxnL9fi8=;bEocNIZxzNB1GKG/7fmLQQ=="
+secured: "8KRD+xwmlWm9pL/Z0TLC/6CTL/+KF59+pc3059eg2ib3dRyFPIZWLm8AVcED+d5Da/BNpCkc2nce3/6ZM33lH8PyNkronOZKtdwPV9zsmV9Wj/hhaPG3RLUx5he+yxbhoBc2t0CKtg+mPedAWQCmNB6H7k/b1p7p6vnYhX0QYIZkasc1CtOLI7SaPyv1bSRkxh8niH8sL8L9gsvLsynJkhNyAv9JNKnjV6pc5t4Tak1CZtOhgleAIMagXS1gZReoRKiH8x7H0V+nLZVCv0TaC9aao1H2jjyoz2n7laNudHjlYK8F+Et0fQho87FK5+/Z;FGLVFVwkwbnEzHbyZKLcww=="
 ---
 

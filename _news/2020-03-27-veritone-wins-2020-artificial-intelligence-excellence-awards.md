@@ -38,6 +38,19 @@ related:
       - url: "https://images.martechadvisor.com/images/uploads/content_images/aarki_named_winner_in_2020_artificial_intelligence_excellence_awards_5e81a3817b80d.jpg"
         width: 786
         height: 393
+  - title: "Welltok Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "Welltok, a consumer health activation company, is proudly announcing it won an Artificial Intelligence Excellence Award for its"
+    publishedDateTime: 2020-03-31T15:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/welltok-named-winner-in-2020-artificial-intelligence-excellence-awards-301032393.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/217089/welltok_inc_logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
   - title: "Artificial Intelligence Excellence Awards"
     excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program. “the WekaFS file system can deliver 80 GB/sec of bandwidth to a single GPU server, scale to Exabytes in a single ..."
     publishedDateTime: 2020-03-27T16:22:00Z

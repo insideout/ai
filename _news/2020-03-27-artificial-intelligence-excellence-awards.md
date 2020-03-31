@@ -38,6 +38,19 @@ related:
       - url: "https://images.martechadvisor.com/images/uploads/content_images/aarki_named_winner_in_2020_artificial_intelligence_excellence_awards_5e81a3817b80d.jpg"
         width: 786
         height: 393
+  - title: "Welltok Named Winner in 2020 Artificial Intelligence Excellence Awards"
+    excerpt: "Welltok, a consumer health activation company, is proudly announcing it won an Artificial Intelligence Excellence Award for its"
+    publishedDateTime: 2020-03-31T15:04:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/welltok-named-winner-in-2020-artificial-intelligence-excellence-awards-301032393.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/217089/welltok_inc_logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
   - title: "Veritone Wins 2020 Artificial Intelligence Excellence Awards"
     excerpt: "COSTA MESA, Calif.--(BUSINESS WIRE)--Veritone Inc. (NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2020 Artificial Intelligence Excellence Awards program for its applications Veritone IDentify and ..."
     publishedDateTime: 2020-03-27T12:26:00Z

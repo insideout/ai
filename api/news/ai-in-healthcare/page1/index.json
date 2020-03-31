@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-31-artificial-intelligence-could-help-identify-future-diabetes-patients.md",
+      "title": "Artificial intelligence 'could help identify future diabetes patients'",
+      "excerpt": "Scientists have developed a new technology that uses artificial intelligence to predict whether a patient will develop diabetes. It uses machine learning algorithms to assess a person's risk.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8171941/Artificial-intelligence-help-identify-future-diabetes-patients.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8171941/amp/Artificial-intelligence-help-identify-future-diabetes-patients.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8171941/amp/Artificial-intelligence-help-identify-future-diabetes-patients.html",
+      "publishedDateTime": "2020-03-31T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/03/31/14/wire-26632158-1585659887-555_636x382.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Artificial intelligence 'could help identify future diabetes patients'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them.md",
       "title": "The Challenges Of Applying AI To Healthcare And How To Address Them",
       "excerpt": "Though the AI health market is rapidly growing, implementing technology for medical purposes still entails a range of challenges.",
@@ -1143,43 +1180,6 @@
         "AI in Robotics",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy.md",
-      "title": "Of epidemics, artificial intelligence and responsive public policy",
-      "excerpt": "Black Twitter is breaking the internet with memes, perhaps providing palliative therapy to an otherwise depressing national development ... its deadly tracks – are largely also shaped by viral videos of machines and robots that use artificial intelligence. These machines and robots are disinfecting cities, buildings, public transport ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Maverick",
-        "domain": "dailymaverick.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailymaverick.co.za/wp-content/uploads/busani-ngcaweni-1.jpg",
-          "width": 334,
-          "height": 480,
-          "title": "Of epidemics, artificial intelligence and responsive public policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

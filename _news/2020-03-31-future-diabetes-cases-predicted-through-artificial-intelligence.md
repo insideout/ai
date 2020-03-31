@@ -8,7 +8,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/future-diabetes-cases-predicted-th
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/future-diabetes-cases-predicted-through-artificial-intelligence-194086-1.htm"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,21 +25,6 @@ images:
     height: 1000
     title: "Future Diabetes Cases Predicted Through Artificial Intelligence"
 
-related:
-  - title: "Artificial intelligence could help predict future diabetes cases"
-    excerpt: "WASHINGTON--A type of artificial intelligence called machine learning can help predict which patients ... of future diabetes patients better than using existing risk scores,\" Nomura said. \"In addition, the rate of visits to healthcare providers might be improved to prevent future onset of diabetes.\" Nomura and colleagues analyzed 509,153 ..."
-    publishedDateTime: 2020-03-31T13:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-03/tes-aic032620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
-
-secured: "Lv5kyFQAUBV5m9r/BLYi2sbbYsA8X6E8vsHKN2wEMgFMQHs5dQhiyJPH/uaPgUQ4BlFlBKTlOAgWgXjwwFsGQZd9kZxKkLhwKk01Cmy3ON+k68HlCV7E4+uxM7SHfuWoXFe1K10IMZ6A5nuznheOgQsPYexoXUA2Cfg3lMAhG7HG6KS/2XM2Hg4tNQ63nhlHdW0TpvvyZOMNRWpyzxWubiKATmwxkqWCY0oDwsXpux9I219NB1+LxXpJI3LbDAlRBMbFdbXYgjdLETzhfYyZFAn80cZmB+Y9n4+scqlwks3KGrMGTxieS+C0a1vWq9q5;7G/KqoMPsMmNPc4BSLrISA=="
+secured: "SAdAqWiRRVOshb/XiKUNoboDgxG+RG4ux0qOBPK28PLuYsmiJAg05qk4MOlAl47D9HYe99yM7u533SpzdE0Ekf69rWRxRicBAgXoZILYrW6nJm51GzFbK9tbqA1xaOnpm6vdM4ONUVp28OQQZ2y4NZ8ZTaL89z9zj1I/hOOvIV770yjdOT2tIvNHmokYbpd4WqyD5oKDOc5ynkwPFz4rkTsM36z+if/bqzzazDQzqWqUO7He3j+eM+RvmTr1aVDP8V7R5tywpNx7wC7QBJ7FtinzMTtDXnl5VndL/M8IiUYn3x90lrQNGwXCxdaAYTWzAZKrHYhVkhf5A4YO2jjE1Cb22wPCwub/KWPpDhw9/1O5eUI5ZMsWCSBllEpNd7x1F6mCE0r/iyG0TTXzC9CAh88A/e/A8STaRG9Ek8Qd1SVYGsvCrHuu4XTILi+rNuD/X7+EsKojOne4RbCSR4tHjuZEI2M9/+WdAi4XP+6rkkM=;HFL8desIDbnnYD6N/0zciQ=="
 ---
 

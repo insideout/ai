@@ -14,6 +14,10 @@ published: false
 provider:
   name: South China Morning Post
   domain: scmp.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -36,6 +40,6 @@ related:
       domain: abc7news.com
     quality: 0
 
-secured: "NTodsuCi8lGMbUoFrEv8W36hRHMEFDIxZW5R3cgXDGnsJ6lFkuXbmeDix5QoqlRi6j9OO+3bXLnPhWFTfmJymtfVAhpTuO7UY51395nzcB9aoxvoVjdf/3NBAAVR8zkVYhkiFMahrTrfhjYi0HBOTbiToyOrGxajvJ9AJa9efXaBlKkwmK8CPwAVwIKVuA37dW19HE8PXV76UwHtAGaH27MXQUogasF0D0sqNuSNWv5biQ0zdNaJXt2Bn+MpgUaWRVlA9XDWY01AqlM70pU4u3JDsNZW0EE+jGRpM+pZa0fVuyWnxyi552WrNeu/0b94;HoLR6h1F8JQF2VkQTUR1Ig=="
+secured: "pHBp3Dc+cSLoSQsYT58FT/8LObScRi3rIUSXyBCO4OPEAY9FN+SLysFIfdW2a7ge2A1HadVHf05XauxZ59/TO5HL2h4MyHkSlWpixkWBwSAOeTzWdquNeZXqKoLzhsASzPYUNtB+sEY7i1OdbyFJqe/sVojaHz9c8NyNoBiv1LpjAvR8eN0H4OmKHtw0bQM1a5l53GDMB3rPoy/5lSjp8ay0S5wn8/xmP2kR9DPSnwafEUod1ciqWIj5xT5lDo4CZKO+jPYjaEfwAOnbd2/3AV25vyos7DZfcEyo8Xkwv+4M8+KjRrZxzBqrCBlOEB3Rte2bj8BiX+0bavQQcJQAHBCNEEa9sGVg09UGGJyM8SdmNz2sfT6fFgbF9u+/jW310yWgG2h9na8gBzqJV4cQC0QAgvCsjbFgh+l5nDUjQ9cAHrRUTYcYJwtBfa/f2KccujmzXhHcIlgedWUbFXjKpMrn1zaxqOReS/9dNQ4nipI=;/mOsSh9SChDndCBfx3NIsg=="
 ---
 

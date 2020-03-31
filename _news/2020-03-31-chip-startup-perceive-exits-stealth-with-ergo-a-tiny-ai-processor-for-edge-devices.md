@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Chip startup Perceive exits stealth with Ergo, a tiny AI processor for edge devices"
 
-secured: "3URg0950IiG8fuuUaKOkuUNkRH5ckniwxMU36ftjFxGFMBqLy4KELZSXEQjUQaIroLNWp/2byBpdLZzvjW19eOIBwHRIMyYQBvNc0yYseZrfqI6yhQT71J2hsoHCX1JtGOnaNsGqMfynnMzDdLtvvyyvi4HMVdA+QcYkdudlziZkYoHpbtvIs/gdKVog10oMAxfg5rDgecOENbIAdh0XKNjbC3RHgPNiH1WrL+hPLmcrj+eWbrHTGN/sCjUjS7kFMTPR25VMgcHrjPpwE1X/Nbs/tJBmm0Qt7AwNC6yc3GUIWV7YKpa6umgl3dFlGwg/;Zl+Q44QFb9m81XPxS9Dnbg=="
+secured: "gSsIpYkKEfr/TC/Syjs2VCXgJG/2SpK6Vp6G6xipvXjMJx6C1Pf2NOLaAoykSHOTQePSGqPJizRVCOd+79NVwtBhwsa+Tt6hgVk40vqzA5ZiY378D1ESSMolhG/8tjcsh6HvQewadsaT+Rv6dIqOctD8M/F4B0l4N+sq2LYek2pdvAlNUN/g43be819xxMObfXLPW1xPXQFdvBbdmBbaAK6n27PHghEj7H/FSOoxBkKELlkRWq8a0qYYKd4D5YtRu0k7iFleGT4Mhc5hGg3H0C5iC4+qF9IQ1bcfuFSSFmJkhPBCWSkPrBBVmomUtNNLcM+4RI7aBdx1/6bYUaEDUgArFsv/dwGm9mFVJ5sEYMjsZeGrx+IpDlbuWZAxpx6o8sOVb2CjjMMwbdxkNr2kQ/mdLiV+UiFdPWcdoVLZRC5dDPGhtfc+ePIoBWhnNO8/zd1HbJPqGVL21dSvTAtheU9823BngnSQWGk6WTvLp70=;mSz9/POpW0JP95bEvdDzTQ=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 800
     title: "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years"
 
-secured: "8fG8shhSJDfYdFbpDjJZi62iKK4/rdcEnldPP2ITO3SWcR2RaAmxAc20b8eChaaWQQ7oMlpSA6jIQm+dCxDltT2L1TaX+ZBzbTkakKwgpr5wv6PQmpf5E2hlVvCjgws7fxDBf1p+Tbm2vpssHydzjBmQVaLm1Srdip51OnbNmufQucBGoySQY1k22S+WnsKUqURsClf5ESc88l2UYcbfo0K/9KyLlPHjP7Kw6vImtwpobtjVs3MoJLC5TgvEc2V4zRsD/alOpe0ZPAInoZq13rLGSP67Ewzb5bGpHPokriM4N+Ec2C3IE3Wu93uI2ag/;EZJR3pN8ZNCdmSAclumWvA=="
+secured: "U+bR1eydn/9iMKRC3xU1Cbnvoaj2oWC7VCKT21l2r6ZhmKKGPP2n5XAr5/9LwI/3iQeDCBO+zWMnMQe5Qv2f/8A3ysfYqD6fnw2eSyIhPYxlByia5UuTsdOuZxBzJLZ3cJOIvPUphtdy+PIZIQtDdjm/RS10zBhT7uQHfTSm/JZKTvdUj/X/2wbqHs2U8XP/DXI3AUrrR06uddAGBY7jwAavdqqpfQqH8HDgtup6T/fEyNj9Q4A674rStXrPWYJ7mypATYpDhqByNu/taC86nDgQvTna8FMpbY9Qo1RXG7GiMldGWMoS8w90lgdsebKGN0DWagFZwlxUN2Wb+4YLnK+Z///XyjL70G9z57QBwqji1FVtjajEx3QUEfW23PGbi8rsO1J3DGcJypbaHfbi2aLBYNOkwt0BGlAKJ67HWddhyXVG17nctcCUgBbscnUcQ3pmEDcWS3xiiETe22O4hQt0ufWu0BfOHn3X0tNX43I=;Isvfu2Cnugx6ajcDcJFb5A=="
 ---
 

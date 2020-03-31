@@ -356,7 +356,7 @@
       "path": "_news/2020-03-27-deep-learning-what-you-need-to-know.md",
       "title": "Deep Learning: What You Need To Know",
       "excerpt": "During the past decade, deep learning has seen groundbreaking developments in the field of AI (A. But what is this technology? And why is it so important? Well, let’s first get a definition of deep learning.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/27/deep-learning-what-you-need-to-know/",
@@ -394,7 +394,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

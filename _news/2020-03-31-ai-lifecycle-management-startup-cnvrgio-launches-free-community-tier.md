@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvr
 ampWebUrl: "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?fit=1000%2C600&strip=all"
@@ -28,6 +30,6 @@ images:
     height: 600
     title: "AI lifecycle management startup Cnvrg.io launches free community tier"
 
-secured: "kBFBo2g5p5PY1/b9VaJQAPmXJe7x/u9hHFAz6iYuk8FxvyqEF4Bm1qKmLcMgn1f9js6A2WcBCsqDO1Iqsl4VWsjU9kaainbJoI2vKLpQJWtVCEn+TzrA2CnWOupfbwaFnuIMFjNCNdsTxac6PLSb9TGMVbSDiU5H29FRTTEL7PTLBsl9NO5VwbjP3jvwKgeYdqg2DxZgpK038SU2b01BePlqoQ0D0JjPv6ZZN3Nni/H5IMNoJCIFtsWfRLvpnQa5XMj7QBZLUMGkULIKCAoogbGb5E5MPJav+o+u4LywwRX27VQa8JUOnmuO8vopwLzS;hhuchnLXfBxwt6Ak3d/pHw=="
+secured: "SF0Ob1Q2JYUBawjou+w2nxH6JS5+8ejkdDd9oKGr695YEp6cfY8lTfKnvyLx/98Ya9L7PZ6h/CZIfhIPiALmtfhIzZd2YZ4lYWGVJlz3m2vuonHmTiXdXfXZyCHeGIlRf7nhuVetO2QqUt4kerklRgFQV60ZTOE71RbAw1tJ0sRtik6nXo0ansMAOQ9pHn8Ig0pi+tMbSbHmNdfHx3s0MFkwXs3t0Qcc7R1VzgMFsLhE0Ec/16aHC+3Az6hXTjbx7gdqpEE81RvLVvAuv8G4BjISnkp9HecM/QhM0U3by4Ic8j8td6GCY0JvMZsVc0j6TDuUxLzbRgsA3uOBVLpheccLk3HrRVndBlCKS1K71j+wekUtdPN2Qtk0T+zbdyQUu3feJex1RDTRoa8bxawV3Q5rimtGZhoobP9kf1BCOONL7Af71R2GV7+LlMnXY0Tw/ZuSmlFG8Z1OaESAshQl5qLDPj8VDVn5rRyQHO2Xq8Y=;RNYuNVY66lmdB4KY9W61Zg=="
 ---
 

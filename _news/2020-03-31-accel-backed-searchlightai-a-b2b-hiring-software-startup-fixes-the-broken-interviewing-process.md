@@ -28,6 +28,6 @@ images:
     height: 800
     title: "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process"
 
-secured: "gETAqLcMLJst2JTVOsn0KSKivkSx0/L1YWhM94ftLvDg2YtaUfLkzBZI2ob9mDwy+14ioe5Xswid5RJSy00e7A1kZ4ey8hhPIqHUWLdEGXHrygxvMaAU6xX7KhNTFGtHQN54m3pvh1mhTQIMYvcWAHXZYapaXj40jWQyvvPCeR8T8M7pAEdzDQXM2VyqTaQy1F9Kupo+y5SBeDfIjRblwAqiGIDi3YwHOH456Uctrb7PdTQdVga+cqXP2b8UZRatVe+gG8F9LdCj6p8xwjF6lc4xt3/GqmRAv7jET4mGvW/TjBPneJUjORXv9ZqmXRUs;7D6fClx0oFyoptHugEG4kA=="
+secured: "7zfYmCXOZPSguM1/Ld6CxuDAXjnbkHavwrohNLaqDcpbJBApUdxhvXmnHcifMOYc97CU7RbSrQ7x+AVpJ/gcl/m87p28/6Eo4UuiebkitsPHsr9WyJFDwhO+FNxT5TMIS6nLNSIw/wjwvZ9BnGwhTz8cxEyDVvIe6a99FOfdL6Y+FZNm/R2u+cLxPXI33qBOIzsUIZHTkOcfh0ERvt95TUidbV/4IYCZK3Vu0QiXNPLnux4KXJIxkDkwC0FWlLiXlyQYkPwapYK/yXbhAir1gUOE/dsfy/+IW4zCwPiLqy28DDOrWyDOV/xLAlNv1lc8/NDlcCS8sV4/ayves/t2eKyXhxqcsQg2TzDK72zk49UUsCVQ4tZsUuSILtWOxk4ERY7BKQ+CfxhMqY4nnG+4G6C7w5c50L7UxqocFioBmdzi0uQFc17+IqcPpT0ForYDHcNNLMZEz892hFtkFb5rVOYGdQ/5TGmJC1/EJWH7iFU=;yQrVxMjuIPs6tMhTQ4/Q7A=="
 ---
 

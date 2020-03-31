@@ -23,6 +23,6 @@ images:
     height: 270
     title: "Ping An beats off Big Tech to claim top NLP ranking"
 
-secured: "YDc8GEpQKLIhneZ/qUd/gqpI8Zg3W/W5JUcJ9xh9fyWO86AhHE9PEKDPGGrHyFx5N7p65LtdOXIUH8Td3loea9jl7swaoevdDBbqSrRtSdBccvlB5tos5AuwZRxfr5eK3FpoKCECZvx8ThY//6Q4Wl7sNDzNG3txcOwCaAiuDd2cclqsc6HXzTPOCDuItm728rmizkpF7S7qi2+xzfPyxdWnps0YKWrDvmuedjJSb/CupS7z39k2KUfY+N+jIiKvC/z1gSYV+legQRehppq549heGew1Pz/BhPsuXzJJ+fVqf9WD1kXrnSRGEU+oYk55;TVApp/Y6WNQw/IyMvvwZNg=="
+secured: "OBePILeoXiWh8dW1eUMvOIRZcdppB99aIAmaYuntgJrq6vzIADHzFq2DT9Rd0RwyJJS/6B3O1bwZiXjFvrffzI7xtHqnDYuKuZjSxzgc6VwFpES3p8smmxNMGqKS13PVVk51szzEKtIdY6XZAkbhf05+aQntzgoG3Rat1sSiasf0wyOc2WJj9kOUQ0u9ArUa2iEcPUhTnPsN2snNfodOdfsJ3iogOnQV5xvoff4aKjcKDt27154vzWAwy/NGydgpAJk4CpVdnw9XeO9+GxTYVU7TGBMm5UAI8lgjuN/el3ibWtv3nMoeYT1iJG4lozWMUNNDbqlHR0O/AVnHJp/o6kdcTN4Y+rOGo3nRTTCuefeQYHtpUTw/+2GJFjEWl8P+T3g93qyONs8cFI8uus3q1nuRiKpIZ3UOfxAbiJYProrpPSmOvked78xlMJBK+KczsNU1FShZFzHrmJMe2QJSirkLKqA18+0WNb7xx/ynLuE=;sEKC/2t9jEZjOjSPmnCCRg=="
 ---
 
