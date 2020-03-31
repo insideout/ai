@@ -1,18 +1,14 @@
 ---
 category: news
 title: "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers"
-excerpt: "Cadence Design Systems, Inc. CDNS, +9.11% today announced that software for Cadence [®] Tensilica [®] HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow ..."
-publishedDateTime: 2020-03-11T10:45:00Z
-webUrl: "https://www.marketwatch.com/press-release/cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers-2020-03-11?dist=bigcharts&tesla=y"
+excerpt: "SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that software for Cadence ® Tensilica ® HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow Lite for Microcontrollers, part of the TensorFlow end-to-end open-source platform for machine learning (ML ..."
+publishedDateTime: 2020-03-11T15:19:00Z
+webUrl: "https://www.businesswire.com/news/home/20200311005239/en/Cadence-Tensilica-HiFi-IP-Accelerates-AI-Deployment"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - TensorFlow
@@ -20,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://mms.businesswire.com/media/20200311005239/en/778960/23/bigstock-Voice-Recording-Or-Speech-Reco-321922831.jpg"
     width: 1200
-    height: 630
+    height: 627
     title: "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers"
 
-secured: "gefjjCNsKjI7lWmyS0MUD7lSF5xjDCFO/mX5y1hwFiXgcVDdQ0j+62q3SanvW16Ln1inYgqiRXPGba7Qm94KaGB1tQJit9zjVAQD+6puGVtEiWzu/SBKu5M6x7F1+oag1VHF0MJqAr3p9XV9Ku5CGXrgB6h0M43uguc1NZAs7Ja36Hta1MMTCJgSSbRpEYg+584wkYX185dI1LXas7s8fn4s4zmfGOmaM67WNVFfNkTYyhr39js/3l23xxACu4EDo3HkbpQEEcmVIcPAxS4AtKwI5IH1kyf+sgTQKUGNH1S8tlZJyAV9TsDF2WoewB+x;WeN0Hl8nQ6oF6nn/J6Izzw=="
+secured: "TVkkV4yH+scdYwGFbOQ5UqRvqEkIyyKZzqPSril7RNw5rsxovby7h1YU9t1FOgB5YNr7j+B7EfNRRqSbyfOo3vgIKhp25p6pbHIna1U8wXi2rMqBDLBtO570fMZ2vSy29cRzd8SOj8hr1bWcgv8FEP5r4zsLQ6aH665yJlyUE658IJvq1xquBRHGasA8Xt4wQzlPthPdUyZcO5tLia3Gbx3uV0zUjPf99OQsE2P8VHgVi+8BxnyQq7BCFoCtG202QqmGe6CHZ5SFntsKW4CfsU4LMKEpSMoF3Jw+gK8Cx6agd/NpaF/fdk0i/42P+TGR;z2J9alAMnRaXkD1W/X7aUw=="
 ---
 

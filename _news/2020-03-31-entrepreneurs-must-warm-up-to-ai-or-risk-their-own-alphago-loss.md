@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’"
-excerpt: "Head of Artificial Intelligence, Cognizant — A leader in AI and applying it to drive digital transformation across industries. A leader in AI and applying it to drive digital transformation across industries. bretgreenstein The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration ..."
+excerpt: "The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration is Evolutionary AI, which, as well as driving AlphaGo to victory over world Go champion Lee Sedol, is now available for commercial solutions. Following his defeat, Sedol announced his retirement, concluding that the AI ..."
 publishedDateTime: 2020-03-31T09:04:00Z
-webUrl: "https://thenextweb.com/growth-quarters/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/"
-ampWebUrl: "https://thenextweb.com/growth-quarters/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/"
-cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/"
+webUrl: "https://thenextweb.com/neural/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/"
+ampWebUrl: "https://thenextweb.com/neural/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/"
+cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 417
     title: "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’"
 
-secured: "bfHvzcGQCGfzdy7PduRXCHscE88xA5RornyNM0IZOXtIs1CwerE2BhIqnIJT/aFt9MBZRViCuOBTiWStQ0Dfbt14ejthvbK+FzKz9oShc/YzU43vMjkCD+09dxG8LYgzSfNInv9fV8eofJg1hhtTdSy1K23RXjD3+gQHR16phbZiFYsaKPW2h2x/fOdXWAg1KwdXRuTnPPucdIsx1ng5v5gL5X8kNnY0E0pLg2Lk7Z5SHHdUbOjhvSpvu1Kwg+9KPdkj1mZU6mELx4MY6T1ztDdgiARyqm4SRBIPhgdgp6wiqZATjQqrl7D3Dzn4SX5lYExviUG56+Qsq5bqGU1MDDrD3WIjoESX8vSDHUwhbsdMuTXWPqIkaIezi72CxLUAXDOgeTGyTZtIFXu8kTVFLHA8O3lw68NfUmOyU0MkXA/SavgmIsYJ6wzgOxWDT8MoLN4Ccxgzx/CKOjvxhjkESUhgY/4LmGj1BLwhHCpnptc=;2dr5qe0TFeb3BKmtUAEgPg=="
+secured: "620c9Ye2MEGGlq8RGfnI/e4b5djaBbBTUOnD/5c0/JB1wIMhqrGxAn8N//Ki1KA2X8HdEWDyUDI4+cQ07aH0CY3eJDirjHlkAQO6GYQasZ6sgMlWKaYSB3Ug//1SIwmsv/wHwM8AE3+aJzfhj7JGBD1VwyYxbNZTZTl9ig7lbvW/dTaDtlrpHPW3ZMJXGzU3tTUp9xs3I1qb0l9VIBWq31wwsJ/V2dH1aSN97EDp1M4spHx8Q+ZeVTCc8SzafmiBhEW9zK7VOK2rI/5mKdlgbzN46k25gMGfw44sIo8puvabz1Llj0Elsp48K9LtmB5Q;rWEyv9D/NeAPbT39PeMVEQ=="
 ---
 

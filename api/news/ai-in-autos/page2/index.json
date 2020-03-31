@@ -297,23 +297,31 @@
     {
       "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
       "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions—the sudden release of energy stored in the ...",
+      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions -- the sudden release of energy stored in the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.html",
-      "ampWebUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
-      "publishedDateTime": "2020-03-17T12:53:00-07:00",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/dppl-aih031720.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T12:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg",
+          "width": 1440,
+          "height": 523,
+          "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

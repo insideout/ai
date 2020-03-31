@@ -8,7 +8,7 @@ ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelli
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,23 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial intelligence ‘could help identify future diabetes patients’"
+    excerpt: "Scientists have developed a new technology that uses artificial intelligence to predict whether a patient will develop diabetes. The preliminary research, which is yet to be published, applies a method known as machine learning to assess the risk of a ..."
+    publishedDateTime: 2020-03-31T13:37:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/artificial-intelligence-could-help-identify-future-diabetes-patients-39091090.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/artificial-intelligence-could-help-identify-future-diabetes-patients-39091090.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/artificial-intelligence-could-help-identify-future-diabetes-patients-39091090.html"
+    type: article
+    provider:
+      name: Belfast Telegraph Digital
+      domain: belfasttelegraph.co.uk
+    quality: 57
+    images:
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/0e99a/39091089.ece/AUTOCROP/w1240h700/bpanews_34bd3a56-732c-484a-ba37-f472056f7b93_1"
+        width: 1240
+        height: 700
 
 secured: "BR5EJB4VYrKcB8+OI3KRJ2klRyciDMWHmx4eV6/LlGYrtcDWpjV5dYrKK8TJgOZzCvCcBY4julqAMsBqxjtncjlnfJopMRa+Nwj3TuYKHGHWQpfM3ueRkvcLdytb5TmitPpBxABh8AElozO0YaFxEPub8EjhqfKG3IboeFBf8889buUeFOxr41VG2SM+sEElZ21NaHRhDxgnSBVRxmLi+SCvXhOIcVpxQ4f8gIJXjJwYmgVAgip+//OwqjDoJYhB99fll8QnbUfXKFYxcUFeJ09HYxu8fqOPbcMgDbTDm9o8lWh95Lo25yexjIDK6Oc9F0l75YbNhZLq3cniBOg8rSC11ZjErZepZEMq/3u1C8JkXKJ4ugnCU48SwFIugKXPTq8Vd9PDScgL17AmK6ToJGYIQEThlDzQeXUsgTs/jJ8fSvhc0eLHdLCwxvj8tZsz7IucasWx8n3lfYbGl/jqKWffKMsH6w3T0Cz+KTIZAtY=;0DGEuKWTNfn7gUmjLiXWjA=="
 ---

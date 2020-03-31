@@ -1,30 +1,28 @@
 ---
 category: news
 title: "7 Big Data Stocks Fighting Coronavirus On and Off the Charts"
-excerpt: "IBM (NYSE:IBM) is a clear play on data, particularly within the healthcare space. The company is famous for Watson, its Artificial Intelligence technology with a wide range of applications across the medical industry. From detecting cancers to optimizing ..."
-publishedDateTime: 2020-03-27T11:34:00Z
-webUrl: "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27"
-ampWebUrl: "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp"
+excerpt: "Stock Market News, Stock Advice & Trading Tips With the rout in the stock market, investors are looking for things that will"
+publishedDateTime: 2020-03-27T14:34:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-1029040387"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-1029040387"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-1029040387"
 type: article
-quality: 74
-heat: 75
-published: true
+quality: 54
+heat: 54
+published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?310746237"
-    width: 1024
-    height: 512
-    title: "7 Big Data Stocks Fighting Coronavirus On and Off the Charts"
-
-secured: "+ePC0UbOJwPG2h3rLZyJPw4nBVsCmMk4bV7aSJH4h0NnJElajLAN81J5nPs1/u1SiR28SW2xhQBQ6xbDR26BFab4E8tiaiDttEvgLiNr+ZZphgxkfd17JcWnND35MCaedXQI7sJDKXwFpFIu3+CxUTqtH6vlj9qQ0bH5TlN0fG3WB8Nb0jye04lbsQ9tYMrSrUd3uqUEed2zB1gUBRJRsQleNeejLtPYdM+aZ9cF8Z9dYa1XMPFwCW+DuNTou6r1N/bVh/4H0Qoi7Cv1+x/hGGriJfibxr73qj/USrzWhbhQsVKBAx1NqY9E8rcsqGSD;H555qtwnb7uSt/LNaTtXUQ=="
+secured: "KpLWNzdemWFmjXmbntL32oJaRSQv/y1szF3wX+c9QeQkO45vhDIKDiLnw75TDC356PU/iOttNT9SmjSCpeX8fAB2vHyq85LKq7GpBYSb7EIse8TbHwzpWrGtaV8sI4y7+dfZFV9aZwAFn+2sceCAC+470EKTShSWQlPpygQutjdNrZGv2h11rX+AFaNbwh4/61/bRNko2QDv85hosRiJmNACpuRn2SpqOJ9tO/6tR0Rf68RzRBhrUrppmxx9Nr100vNjsyj8tIdlq7CqF/W4n5nO70mIIVaQ9cdkoAgvaPcOfAR7gxO9gQIO9D6sr9SmUYbbdIlaxTUBCbRmCxvOWMI8p3i2xs2oRYAZq5kv/b6MK8PnN0vbffvWCLk0+StlTra2aw7jElk43K7ibUyxh/btBHiVEDFiqi4hhI6D8sIcb4dKYPD1WBwuYEcJbbo3xN2mOq8MRUsAL+m7CCDH5l6gxmaOd96twC07fhIdJ/M=;18vWSYGAhqtQbKqQhS2kug=="
 ---
 

@@ -2,43 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-03-27-7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts.md",
-      "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
-      "excerpt": "IBM (NYSE:IBM) is a clear play on data, particularly within the healthcare space. The company is famous for Watson, its Artificial Intelligence technology with a wide range of applications across the medical industry. From detecting cancers to optimizing ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
-      "publishedDateTime": "2020-03-27T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?310746237",
-          "width": 1024,
-          "height": 512,
-          "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
       "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
       "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI ...",
@@ -1224,6 +1187,43 @@
       "topics": [
         "AI",
         "AWS AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ibm-watson-how-ai-is-transforming-the-supply-chain.md",
+      "title": "IBM Watson: how AI is transforming the supply chain",
+      "excerpt": "New technology such as AI, Big Data and machine learning is making life easier for industry executives as an ever-increasing number of companies begin to digitise their offerings. In order to stay ahead in a dynamic and continuously evolving industry, businesses must trial technology to increase efficiency. The technology giants, IBM Watson ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain",
+      "ampWebUrl": "https://www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp",
+      "cdnAmpWebUrl": "https://www-supplychaindigital-com.cdn.ampproject.org/c/s/www.supplychaindigital.com/technology/ibm-watson-how-ai-transforming-supply-chain?amp",
+      "publishedDateTime": "2020-02-25T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Digital",
+        "domain": "supplychaindigital.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://www.supplychaindigital.com/sites/default/files/styles/og_image/public/topic/image/GettyImages-1097225424_0.jpg?itok=C9V8WymX",
+          "width": 1200,
+          "height": 627,
+          "title": "IBM Watson: how AI is transforming the supply chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "IBM AI"
       ]
     }

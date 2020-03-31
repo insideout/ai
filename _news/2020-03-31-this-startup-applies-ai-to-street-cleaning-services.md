@@ -5,8 +5,8 @@ excerpt: "AD. Remove this ad space by subscribing. Support independent journalis
 publishedDateTime: 2020-03-31T09:49:00Z
 webUrl: "https://www.techinasia.com/ai-city-cleaning-zero-carbon"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 secured: "TtATbpA0DjkhJP1bHI5iq3z23ZnZJoB1tfMruZIbrw1fmoeDncLbtD1Pmaf9nt6Y5DJ8gMrHXQ876RO2W0YGilsghbPAT1UmrsMDUWBQmQpBOX5fx2EavaNeZC66LGxkTyJWg7jVaqMipXUF6Gr8LQc50ZmawHLyvg2GsAsUOcCI6RAfepsRjrYmqKKLYH4a4FUT/pUFiIOkswK8xVAB6vQ87J5GCmyARceXVafhOct8YQ9V7M+81NA2dLWj/B2f08HKjcaqzCysO4WTyPOHB+wJ60UVkz091uLQdmVMgCdLX/sQkvoCF8PY8K/vxBV5/qykOHApGRPQTz+2c4uBOd72eDnMx0dyMSbdBYxOUyofqNB+T28dG2SmH/c7SnHtq2PDtraX2WSUZzuWckA6QCpQG+HSj8YcENNQcK+wAsj6Meu/TfZmnC03KQNAGfW5O8rKzMU8Miq0HonsO0wlJRvTppkEUZpJJJLaQrNAgEc=;fglyAaA0sWGJo81bcEDOww=="
 ---
