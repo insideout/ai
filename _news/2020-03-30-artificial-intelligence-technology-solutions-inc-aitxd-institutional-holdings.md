@@ -44,19 +44,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 59
-  - title: "New AI Solutions from Dell Technologies"
-    excerpt: "The systems are certified NVIDIA NGC-Ready to help data scientists, developers and researchers quickly deploy AI frameworks with containers and get a head start with pre-trained models or model training scripts. In addition, the Data Science Workstation portfolio is optimized for NVIDIA Data Science Software powered by RAPIDS™, including GPU ..."
-    publishedDateTime: 2020-03-26T14:32:00Z
-    webUrl: "https://insidehpc.com/2020/03/new-ai-solutions-from-dell-technologies/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/03/0-1.jpg"
-        width: 420
-        height: 420
 
 secured: "d/jni3QHOckD2/YoyQkivSwHtUpcOfuPXXAscXRB+RiSs5rouI0clMq02mytzh5EHynUXA3gfMfGpEOBKvpeh/A0tdstghiBK2bxu4WsDL46gEP8IY1xzrF4o2Io6UKlkHAnImtqawmV/Xwn9khBHZYnpr3Gpa1uv9dDVzTDAEAO8z1GDbw2jKVW2GvKy2XVjVMvyDpBE/VGUuQaQkxT1V+wKGAWeh9MhrXTjbdYuFh0Uc6VIC4TPvOfDuIM84zgpvdPVaRLI3wWuMNLae2/EEUP0yXgWGeBTV+VanRSfmnSB+vacyczqAscL163Jdb9;fTR5Y553OWxjUPVcAnLvFQ=="
 ---

@@ -5,8 +5,8 @@ excerpt: "When testing the accuracy of Microsoft speech recognition or training 
 publishedDateTime: 2020-03-31T05:24:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/how-to-custom-speech-test-and-train"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
@@ -27,6 +28,6 @@ images:
     height: 400
     title: "Prepare data for Custom Speech"
 
-secured: "PIjUbpr2fLg/H0y/dkDYQVYDjFgQj+boHh+DA2Y2PSQJn0t3sC6JcbXcDBX3U7kk2+dCkyO/xcAJLg8+7W89v0+Zdas3ACSHSe0Dl21ThVzV6ip4GwXEcl/NcZsV4u9p4z/b0Osn2I058nzwIEDg8MTIHbR2C0DD44gqTWtik3eI10QSpCB5aAPKuKyFvOhBkdl3bcAz/z4zz98eH24BO1nBvrq4WlMSPfsRZh4QMAkis6wPDFsCvqxSC1MxMGuujid+Vl0/KmfPcRAaOjkVJOcfNTJE13Rh9PHCKiFyaLkkA3z3lN6blrL7h9It75b4;wPKsmooM+kivrOhN+uqfSw=="
+secured: "GousO2QEUj04A61wjBKSsO3Vd1YBkHrUEUS4wuMX0YXwaCpatHFj7cfOmaXgFQijAWGiFcBPaDXp9y1+g+08znQy+knu7PfIQcnMu3Q7cTIdTsjHAcdsTgzYs37x+oHDp9maBCz67np2XSfpkrX/2JNYreK4zlUiEiud91Ov6VJ4rQ/ohVo0La4O/AuCGaSZ2v5X+fAOjr0EGjv1SNfvh9esteFC9iDxDmvjWfkFlgOfHO462Vq45NeTTrKdeFAtw3SF43KS+HIVHxHChZrYSppqp3DCWWDT3NWDscJrimQY3v0jdjfjER2FZYx7Wf7QCeTOmvj8jNjzo9r9d2NdUtM/Y6EzBO2BA6PaUXsUrjUmDTTDOW0uTuH6EWiXvJKt81VMnOiM8AEFRCSpvQZKPe6vx2PELC8MbDB7g2eop0z+FJT5q7AvgFVPJ05rCkV0QvXQGAy4lloQ8fliPTwQFLVsDEqaUKCh8DxVE+PV4Ss=;TwFIBLlq9utvzrOmNvU8lA=="
 ---
 

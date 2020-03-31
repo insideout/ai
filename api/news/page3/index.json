@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-27-these-machine-learning-enhanced-clips-might-be-our-only-chance-of-seeing-hd-star-trek-voyager-any-time-soon.md",
+      "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
+      "excerpt": "While there have been attempts both officially and unofficially before—What We Left Behind, the expansive, loving crowdfunded documentary for Deep Space Nine produced by former co-showrunner Ira Steven Behr, for example, managed to produce new HD clips of the show as part of its runtime, and fans had previously turned to machine learning to ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599",
+      "ampWebUrl": "https://io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/these-machine-learning-enhanced-clips-might-be-our-only-1842528599/amp",
+      "publishedDateTime": "2020-03-27T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/gjlqphtsdysndzlhgc5g.png",
+          "width": 800,
+          "height": 450,
+          "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-microsoft-sells-stake-in-israeli-facial-recognition-company.md",
       "title": "Microsoft sells stake in Israeli facial recognition company",
       "excerpt": "Microsoft's venture capital arm, M12, invested in AnyVision as part of a $74 million funding round in June 2019.",
@@ -1013,42 +1058,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-new-ai-powered-blood-test-could-reveal-lung-cancer-without-a-ct-scan.md",
-      "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
-      "excerpt": "A blood test that uses machine learning to hunt for cancer DNA could reveal lung cancer in patients who otherwise would never have been tested. The system is accurate in roughly two-thirds of patients, but that may be enough to save an additional 1,200 lives per year, according to the scientists who developed it. Visit BGR’s homepage for more ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/",
-      "ampWebUrl": "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-03-26T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2019/05/3138283a-e1558460934306.jpg?quality=98&#038;strip=all",
-          "width": 2000,
-          "height": 1082,
-          "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {

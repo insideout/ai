@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-30T14:20:00Z
 webUrl: "https://www.nasdaq.com/market-activity/stocks/aitxd/dividend-history"
 type: article
 quality: 62
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -44,19 +44,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 58
-  - title: "New AI Solutions from Dell Technologies"
-    excerpt: "The systems are certified NVIDIA NGC-Ready to help data scientists, developers and researchers quickly deploy AI frameworks with containers and get a head start with pre-trained models or model training scripts. In addition, the Data Science Workstation portfolio is optimized for NVIDIA Data Science Software powered by RAPIDS™, including GPU ..."
-    publishedDateTime: 2020-03-26T14:32:00Z
-    webUrl: "https://insidehpc.com/2020/03/new-ai-solutions-from-dell-technologies/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 37
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/03/0-1.jpg"
-        width: 420
-        height: 420
 
 secured: "JC0o3JK76Nk56Fm91BfBN7MlrYRrBhQiBBztwDRJNcTmiCDmVyErCyjrgAS4xPcwADNy7/P00k7HBZIbW8DJjBRGniIF1eaqU0rjB7K6EeZS5BbCmDyt6s6irulcjgffbm4CpvORrXgecEYHu21xTlm2zJZDisdLrygFZT5RMhNBzxirCy+EIEknkv5kv46+rudFXg1Tf8kpyQSdnTHd8Nt2oazVVx7yETLP1d6G0MBBbj9HhyJOMZRy2arKG5QK+dl1yqguy33evJjOQwBbWJ4p1a9/9ofFTnThPqTGGE6/F5UNrwb/3DAqpufDxZzh;fpDxoU6UadsRhJ+G7FDvmw=="
 ---

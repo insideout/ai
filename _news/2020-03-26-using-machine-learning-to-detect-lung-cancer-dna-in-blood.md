@@ -35,19 +35,6 @@ related:
       - url: "https://boygeniusreport.files.wordpress.com/2019/05/3138283a-e1558460934306.jpg?quality=98&#038;strip=all"
         width: 2000
         height: 1082
-  - title: "Study: AI May Help Predict Responses to Systemic Therapies in Non-Small Cell Lung Cancer"
-    excerpt: "can predict tumor sensitivity to 3 systematic cancer therapies by using artificial intelligence (AI). Currently, radiologists can determine whether patients with NSCLC are responding to systemic therapy by quantifying changes in tumor size and the appearance of new tumor lesions. However, this type of evaluation can be limited, especially in ..."
-    publishedDateTime: 2020-03-26T13:20:00Z
-    webUrl: "https://www.pharmacytimes.com/news/study-ai-may-help-predict-responses-to-systemic-therapies-in-non-small-cell-lung-cancer"
-    type: article
-    provider:
-      name: Pharmacy Times
-      domain: pharmacytimes.com
-    quality: 30
-    images:
-      - url: "https://pharmacytimes.s3.amazonaws.com/vivid/feature/Screen_Shot_2019-07-17_at_1.44.40_PM.png"
-        width: 623
-        height: 260
 
 secured: "xswtx6zsxa4P+cDDAJexFMc6/WYtwM7diDTETOUVOuDrKxvwzefgUb3WPeObTCOk05k0ir8xiroGcW6mNyvDw5HnHww14focgrowMp6yt5YYQM3MqIOwqYUYJ0D40MvqGv5/x3gThvMbWOSP4gvC71E6QPdGIA4bQWJCPPwiIKmxnHlR2LRtE5TIMHB5J7N9RcWBpOynyv15HmEjuHPK/RHORIgjuLXf055TORxvaHKUvOoGncVPRUwqP7k49F5R6mCvtWmXU2QdURwDCaKJVa+5oPxedGnxqaedIapwCJqQGGor8r6GVSYDUbgSyoV1lL4utqIqnY4IfrB+RZzDWd4SS431mm5FGib71WgTlgycZYpBdOagEodzLLwRDzNYsZgHsPyg2Ak4l7nnicmbYVBeNFx0oTAqL4yfLLN3su6I9ABti/RYSD5OzpqI/T3jsHBTmb5HU5fRgvpN35d8iI4RyTqY5Y/Nk7UCoM0WIuQ=;5J92uW8kzzW8nLDB5MkvDg=="
 ---

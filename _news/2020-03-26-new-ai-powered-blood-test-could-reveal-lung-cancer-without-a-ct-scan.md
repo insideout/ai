@@ -8,8 +8,8 @@ ampWebUrl: "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-lea
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: BGR
@@ -36,19 +36,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
-  - title: "Study: AI May Help Predict Responses to Systemic Therapies in Non-Small Cell Lung Cancer"
-    excerpt: "can predict tumor sensitivity to 3 systematic cancer therapies by using artificial intelligence (AI). Currently, radiologists can determine whether patients with NSCLC are responding to systemic therapy by quantifying changes in tumor size and the appearance of new tumor lesions. However, this type of evaluation can be limited, especially in ..."
-    publishedDateTime: 2020-03-26T13:20:00Z
-    webUrl: "https://www.pharmacytimes.com/news/study-ai-may-help-predict-responses-to-systemic-therapies-in-non-small-cell-lung-cancer"
-    type: article
-    provider:
-      name: Pharmacy Times
-      domain: pharmacytimes.com
-    quality: 30
-    images:
-      - url: "https://pharmacytimes.s3.amazonaws.com/vivid/feature/Screen_Shot_2019-07-17_at_1.44.40_PM.png"
-        width: 623
-        height: 260
 
 secured: "xl7e0Byf7XDAvW21m+gFDmEG6HApmML5tIx5CDcG72WCU0VxUoEvoRnJ/aexAOFlWnyO3rFqv+mdOLSURU6H7D6JVwHGldphLpH8jUFqtCtE1EH8EBmNfVR+PeXEekK1xKVwBomTeR+9jLQamFzG9qcP9wIcdFDellKe6RHXDj9zLMCU1hYb8gq6MOPsrfpcTkrLozBNM0NJMyhLnf1WU/NLYu3cvhsMZL6W880qWomKlyBOI3foGhEk+ts0+DrvA4OPqq7lMFbfIv74+03Fx+bEh7pycCnSQt62B1k3qqX0fQRGpzAbHF9/iFq4PpeB1MakEAUsz6sDnxDLpPb3i0YkHam4ttHpWiGq9IpsufoW7uBnwY6QgQv8Tr+tdwNNNc/PjwonPNIidBhW603STGVCDw5ubtON2y8wHL6Wu0TsufCo6Ay3pqMgrDCQ4O7w417sohtzJISf/oBX1Mmvd1PYAFjRKbkRM3MOMfwerbo=;oLx5+I9z5o0mDpW1K3o6qw=="
 ---

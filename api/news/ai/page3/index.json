@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-27-huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy.md",
+      "title": "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy",
+      "excerpt": "Huiying Medical, a medical devices company based in Huizhou, China, claims to have developed an AI imaging solution that uses CT chest scans to detect the presence of COVID-19. The company asserts that it might be useful in regions of the world without access to reverse transcription-polymerase chain reaction (RT-PCR), the standard testing ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/",
+      "publishedDateTime": "2020-03-27T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
       "title": "Google releases Semantic Reactor for natural language understanding experimentation",
       "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
@@ -578,42 +622,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-26-new-ai-powered-blood-test-could-reveal-lung-cancer-without-a-ct-scan.md",
-      "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
-      "excerpt": "A blood test that uses machine learning to hunt for cancer DNA could reveal lung cancer in patients who otherwise would never have been tested. The system is accurate in roughly two-thirds of patients, but that may be enough to save an additional 1,200 lives per year, according to the scientists who developed it. Visit BGR’s homepage for more ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/",
-      "ampWebUrl": "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-03-26T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://boygeniusreport.files.wordpress.com/2019/05/3138283a-e1558460934306.jpg?quality=98&#038;strip=all",
-          "width": 2000,
-          "height": 1082,
-          "title": "New AI-powered blood test could reveal lung cancer without a CT scan",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
       "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
       "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
@@ -885,7 +893,7 @@
       "path": "_news/2020-03-26-8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home.md",
       "title": "8 ways to protect your Amazon Echo privacy while working from home",
       "excerpt": "With states on lockdown and companies asking employees to work at home due to the novel coronavirus, there have been concerns around the internet that Alexa may be listening to confidential conversations.",
-      "heat": 94,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/how-to/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
