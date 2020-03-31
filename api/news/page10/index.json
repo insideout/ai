@@ -2,6 +2,204 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-20-an-ibm-supercomputer-called-summit-is-taking-on-the-coronavirus.md",
+      "title": "An IBM supercomputer called Summit is taking on the coronavirus",
+      "excerpt": "Technology in the form of jet planes may have helped the coronavirus ... to IBM, which developed the supercomputer, scientists are hoping that Summit’s findings will inform future studies and provide a focused framework for further investigation of the compounds that will reveal if any of them have the characteristics to attack and kill ...",
+      "heat": 152,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/nordic-msp/ibm-supercomputer-summit-attacks-coronavirus/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2020/03/Screenshot-2020-03-13-at-10.01.55.png",
+          "width": 978,
+          "height": 612,
+          "title": "An IBM supercomputer called Summit is taking on the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading.md",
+      "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
+      "excerpt": "A new AI-powered system monitors coughing sounds to understand where the coronavirus is spreading. The FluSense device first detects coughing and crowd sizes in real-time. It then analyzes the data to predict the progress of COVID-19 and other respiratory diseases. These insights could guide public health responses to the pandemic, such as the ...",
+      "heat": 194,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
+      "publishedDateTime": "2020-03-20T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design31-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic.md",
+      "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
+      "excerpt": "Waymo has extended the partial suspension of its autonomous vehicle service pilots to include fully driverless vehicle testing, the company confirmed on Friday. While Alphabet-owned Waymo had already stopped operation of the autonomous driving vehicles in its fleet that have safety drivers on board, in the interest of minimizing the potential ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/waymo-suspends-all-self-driving-services-in-light-of-coronavirus-pandemic/amp/",
+      "publishedDateTime": "2020-03-20T08:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1142125645.jpg?w=1024",
+          "width": 1024,
+          "height": 662,
+          "title": "Waymo suspends all self-driving services in light of coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
+      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
+      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-ex-uber-self-driving-head-anthony-levandowski-to-take-plea-deal-over-google-secrets.md",
+      "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
+      "excerpt": "SAN FRANCISCO — Engineer Anthony Levandowski, known for advancing self-driving car technology over the past decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies. Federal prosecutors agreed to recommend a prison term of no more than 30 months as part of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autoblog.com/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
+      "ampWebUrl": "https://www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
+      "publishedDateTime": "2020-03-20T06:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3000x1688+0+23/resize/800x450!/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-03/3ce655b0-6080-11ea-b7ba-5a1d52e002d7",
+          "width": 800,
+          "height": 450,
+          "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-levandowski-agrees-plea-deal-over-google-self-driving-car-secrets-theft.md",
       "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
       "excerpt": "Anthony Levandowski, the former head of Uber’s self-driving unit, has agreed to plead guilty to stealing trade secrets from his former employer Google before joining Uber and kickstarting the ride-sharing company’s self-driving car development. According to a statement from the US Department of Justice, Levandowski submitted documents on ...",
@@ -799,214 +997,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-starsky-robotics-co-founder-on-self-driving-truck-shutdown.md",
-      "title": "Starsky Robotics co-founder on self-driving truck shutdown",
-      "excerpt": "The autonomous trucking startup was founded in 2015 and raised about ... re instead seeing exponential increases in the cost to improve AI systems — supervised ML seems to follow an S-Curve.” Seltz-Axmacher said a $20 million Series B fell apart in November 2019. Starsky Robotics then furloughed most of its employees and began working ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/starsky-robotics-co-founder-on-self-driving-truck-shutdown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/03/starsky-robotics-scaled-e1584644960580.jpeg",
-          "width": 1000,
-          "height": 892,
-          "title": "Starsky Robotics co-founder on self-driving truck shutdown",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-ibms-starnet-brings-explainable-ai-to-image-classification.md",
-      "title": "IBM’s StarNet brings explainable AI to image classification",
-      "excerpt": "By extension, it could cut down on deployment time for AI projects involving classifiers, which surveys show ranges between 8 and 90 days. StarNet consists of a few-shot classifier module attached to an extractor, both of which are trained in a meta-learning fashion where episodes are randomly sampled from classes. Each episode comprises ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/ibm-starnet-explainable-image-classification/amp/",
-      "publishedDateTime": "2020-03-19T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s StarNet brings explainable AI to image classification",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
-      "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
-      "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-insights-how-ai-is-changing-jobs.md",
-      "title": "Insights: How AI is Changing Jobs",
-      "excerpt": "FORTUNE On-Demand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fortune.com/videos/insights/insights%3A-how-ai-is-changing-jobs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video.fortune.com/static/images/on-demand-share.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Insights: How AI is Changing Jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19.md",
-      "title": "Can AI Help Us Build a More Resilient Economy in the Face of COVID-19?",
-      "excerpt": "This will start with the most mundane and repetitive tasks ... It’s conceivable this trend could progress further with the help of intelligent machines. In this distant future, AI and robots could automate many of the crucial operations that are necessary for a society to function without too much human supervision. AI can not only help ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/",
-      "ampWebUrl": "https://www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/can-ai-help-us-build-a-more-resilient-economy-in-the-face-of-covid-19/amp/",
-      "publishedDateTime": "2020-03-19T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-19-march-fearless-girl-statue.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": "Can AI Help Us Build a More Resilient Economy in the Face of COVID-19?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

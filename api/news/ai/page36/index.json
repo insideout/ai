@@ -2,6 +2,224 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-02-20-finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability.md",
+      "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+      "excerpt": "Espoo has already conducted AI trials that initially required overcoming technical hurdles but ultimately improved city services. Over the long-term, the city is crafting a model that places ethics at the center of its AI plans by ensuring citizens can understand how these systems work and participate in debates about their implementation.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/20/finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/image001.png?w=1200&#038;strip=all",
+          "width": 875,
+          "height": 397,
+          "title": "Finnish city Espoo pioneers civic AI with education and explainability",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-she-broke-the-glass-ceiling-to-establish-her-coliving-start-up.md",
+      "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
+      "excerpt": "Prior to this, the trio had founded Augbrain which uses artificial intelligence (AI) in education. However, the product was too complicated for ... Zolostays has raised $37 million in total till date. Choudhry revealed that the start-up is in advanced talks with new investors to raise up to $100 million for Series C round through a mix of ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346594",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346594",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346594",
+      "publishedDateTime": "2020-02-20T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200220095801-Snehaedited.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "She Broke the Glass Ceiling To Establish Her Coliving Start-up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec.md",
+      "title": "JPEG committee is banking on AI to build its next image codec",
+      "excerpt": "Joint Photographic Experts Group (JPEG), a committee that maintains various JPEG image-related standards, has started exploring a way to involve AI to build a new compression standard.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/20/jpeg-committee-is-banking-on-ai-to-build-its-next-image-codec/amp/",
+      "publishedDateTime": "2020-02-20T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/MIT-Model.jpg",
+          "width": 739,
+          "height": 390,
+          "title": "JPEG committee is banking on AI to build its next image codec",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-vcs-warn-pumping-millions-into-an-ai-startup-you-mean-pumping-millions-into-azure-aws-or-google-cloud.md",
+      "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
+      "excerpt": "“Anecdotally, we have seen a surprisingly consistent pattern in the financial data of AI companies, with gross margins often in the 50-60 per cent range – well below the 60-80 per cent [and above] benchmark for comparable SaaS businesses,” said Martin Casado and Matt Bornstein, venture-capitalists at Silicon Valley's venerable Andreessen ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/02/20/starting_an_ai_biz/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/20/starting_an_ai_biz/",
+      "publishedDateTime": "2020-02-20T01:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/09/26/shutterstock_118942015.jpg",
+          "width": 648,
+          "height": 448,
+          "title": "VCs warn: Pumping millions into an AI startup? You mean, pumping millions into Azure, AWS or Google Cloud...",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots.md",
+      "title": "Only a better understanding of AI can help end our fear of robots",
+      "excerpt": "AI is upending companies, industries, and humanity. There has been an ongoing polarising discussion among experts in both the academic and industrial circles when it comes to artificial intelligence (AI), and the impact of its adoption on our continued existence. One side envisions multiple benefits over its widespread adoption; while the other ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/",
+      "ampWebUrl": "https://qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1805292/only-a-better-understanding-of-ai-can-help-end-our-fear-of-robots/amp/",
+      "publishedDateTime": "2020-02-20T01:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/RTX265HX-e1582179189744.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 789,
+          "title": "Only a better understanding of AI can help end our fear of robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-gartners-2020-magic-quadrant-for-data-science-and-machine-learning-platforms-has-many-surprises.md",
       "title": "Gartner’s 2020 Magic Quadrant For Data Science And Machine Learning Platforms Has Many Surprises",
       "excerpt": "Enterprise decision-makers look up to Gartner for its recommendations on enterprise software stack. The magic quadrant report is one of the most credible, genuine, and authoritative research from Gartner.",
@@ -1061,221 +1279,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
-      "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
-      "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euractiv.com/section/digital/news/high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EURACTIV",
-        "domain": "euractiv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.euractiv.com/wp-content/uploads/sites/2/2020/02/w_55884866-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-your-future-face-scanning-phone-could-check-for-live-skin.md",
-      "title": "Your future face-scanning phone could check for live skin",
-      "excerpt": "Sound creepy? It may actually make your Face ID-type sensor more secure and accurate. The company behind this expects to see the tech in phones by 2021. Fooling a face-scanning phone camera may be a lot more challenging in 2021.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/your-future-face-scanning-phone-could-check-for-live-skin/",
-      "publishedDateTime": "2020-02-19T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/D8Y4cgycDzhP4a5QPsbrC1_5WOI=/756x567/2020/02/18/14de88f1-b752-4f08-9a48-6cb05ac87b9e/trinamix-camera.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Your future face-scanning phone could check for live skin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here.md",
-      "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
-      "excerpt": "Behind that broad description, the new strategy's objectives are specific: establish rules on data and AI that are quintessentially European – regulation that \"puts people first\" and fosters \"trustworthy technology\". In a white paper on artificial intelligence released as part of the new strategy announcement, the European organisation ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/europe-unveils-its-big-ai-strategy-others-are-abusing-ai-that-mustnt-happen-here/",
-      "publishedDateTime": "2020-02-19T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/12/406da351-9402-440d-9f74-da3fa7b763f3/thumbnail/1200x675/cafc827b01356f8c2c0d097d94577582/13-samsung-galaxy-s20-ultra-zoom-1-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Europe unveils its big AI strategy: Others are abusing AI. That mustn't happen here",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-malaysian-firm-offers-ai-based-profiling-of-chinese-visitors-for-virus.md",
-      "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
-      "excerpt": "Malaysia’s MYEG Services Bhd ( MYEG.KL) said on Wednesday it had developed a coronavirus risk-profiling system for visitors from China and was offering the artificial intelligence-based service to the governments of Malaysia and the Philippines.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-china-health-malaysia-profiling-idUSKBN20D1WJ",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20D1WJ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20D1WJ",
-      "publishedDateTime": "2020-02-19T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200219&t=2&i=1492406894&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1I18X",
-          "width": 817,
-          "height": 545,
-          "title": "Malaysian firm offers AI-based profiling of Chinese visitors for virus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-ai-is-top-game-changing-technology-in-healthcare-industry.md",
-      "title": "AI Is Top Game-Changing Technology In Healthcare Industry",
-      "excerpt": "Of the many ingredients that go into quality healthcare, comprehensive patient data is close to the top of the list. No one knows this more than Mayur Saxena, CEO and founder of Droice Labs. Saxena created his startup while he was pursuing his doctorate degree at Columbia University,",
-      "heat": 204,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/02/19/ai-is-top-game-changing-technology-in-healthcare-industry/amp/",
-      "publishedDateTime": "2020-02-19T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42ad9ef133f400076c28a0%2F0x0.jpg",
-          "width": 500,
-          "height": 500,
-          "title": "AI Is Top Game-Changing Technology In Healthcare Industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

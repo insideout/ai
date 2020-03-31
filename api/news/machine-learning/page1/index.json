@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
+      "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-03-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr.md",
       "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
       "excerpt": "Portland, March 30, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global deep learning chip market was pegged at $2.81 billion in 2018 and is estimated to reach $29.",
@@ -142,7 +187,7 @@
       "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
       "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
       "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
@@ -1223,51 +1268,6 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
-      "title": "Hybrid AI systems are quietly solving the problems of deep learning",
-      "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/03/19/hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Hybrid AI systems are quietly solving the problems of deep learning",
           "attribution": null
         }
       ],

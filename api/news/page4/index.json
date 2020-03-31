@@ -2,6 +2,222 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-27-coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report.md",
+      "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
+      "excerpt": "According to a report by the BBC, Amazon, Microsoft and Palantir will be part of the effort, as well as Faculty AI, a London-based company that specialises in machine learning and artificial intelligence ... Amazon Web Services will provide cloud-computing resources, while Microsoft Azure is said to have built a \"gigantic\" data store to ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
+      "publishedDateTime": "2020-03-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/24/c1e56d77-d792-423d-b2a0-51f41dcd0e59/thumbnail/1200x675/0216fc8a384fce84009b1f6fcd8dc9cd/us-israel-south-korea-and-china-look-at-5e750948daf32b2d76d61991-1-mar-24-2020-17-50-00-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts.md",
+      "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+      "excerpt": "IBM (NYSE:IBM) is a clear play on data, particularly within the healthcare space. The company is famous for Watson, its Artificial Intelligence technology with a wide range of applications across the medical industry. From detecting cancers to optimizing ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp",
+      "publishedDateTime": "2020-03-27T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?310746237",
+          "width": 1024,
+          "height": 512,
+          "title": "7 Big Data Stocks Fighting Coronavirus On and Off the Charts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
+      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
+      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "ampWebUrl": "https://www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
+      "publishedDateTime": "2020-03-27T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-why-transparency-is-key-to-promoting-trust-in-artificial-intelligence.md",
+      "title": "Why transparency is key to promoting trust in artificial intelligence",
+      "excerpt": "As AI gets more and more embedded in our lives and helps make decisions that are increasingly significant to us, we’re rightly concerned about transparency. When big new stories like the Cambridge Analytica scandal or ongoing discussion around inherent biases in facial recognition hit the headlines, we are concerned about bias (intentional ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "publishedDateTime": "2020-03-27T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1585240726/itpro/2020/03/shutterstock_AI_understanding_unlock.jpg",
+          "width": 9000,
+          "height": 5063,
+          "title": "Why transparency is key to promoting trust in artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech.md",
+      "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+      "excerpt": "Self-driving truck startup TuSimple is partnering with automotive supplier ZF to develop and produce autonomous vehicle technology, such as sensors, on a commercial scale. The partnership, slated to begin in April, will cover China, Europe and North America. The two companies will co-develop sensors needed in autonomous vehicle technology such ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "publishedDateTime": "2020-03-26T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
       "title": "Will this crisis help set autonomous AI on the right course?",
       "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
@@ -577,35 +793,27 @@
     {
       "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
       "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
-      "excerpt": "The \"Cognitive Computing Market by Component, Deployment Mode, Business Function, Application (IVA and Chatbot and Behavioral Analysis),",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions. Services segment to grow at a higher CAGR during the forecast period The ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/insights-on-the-worldwide-cognitive-computing-market-to-2025---featuring-google-microsoft-ibm-sas-among-others---researchandmarketscom-2020-03-26",
+      "webUrl": "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-26T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 627,
           "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
           "attribution": null
         }
@@ -868,222 +1076,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-news-rules-could-finally-clear-the-way-for-self-driving-cars.md",
-      "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
-      "excerpt": "Since an internet search company named Google began testing self-driving vehicles more than a decade ago, the still-in-development technology has faced a niggling issue: The federal vehicle safety rules that govern car design assume that a human sits behind the steering wheel of each vehicle. In fact, they assume each vehicle has a steering wheel.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/",
-      "ampWebUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
-      "publishedDateTime": "2020-03-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e7b7a0fadfa9d0008e095b2/master/pass/Transpo-selfdrivingcar-1158000221.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work.md",
-      "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
-      "excerpt": "How do you find the solution that is right for you, especially if you're under pressure to right wrongs during difficult times like these? Here are a few key things to consider.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
-      "publishedDateTime": "2020-03-26T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F03%2F113.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-virtual-patient-care-using-ai.md",
-      "title": "Virtual Patient Care Using AI",
-      "excerpt": "Healthcare systems need to start focusing on using AI in the patient care life cycle, incorporating conversational AI into their core strategy in order to scale successfully and make an impact.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "publishedDateTime": "2020-03-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-35.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Virtual Patient Care Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.md",
-      "title": "TensorFlow deepens its advantages in the AI modeling wars",
-      "excerpt": "TensorFlow remains the dominant AI modeling framework. Most AI (artificial intelligence) developers continue to use it as their primary open source tool or alongside PyTorch, in which they develop most of their ML (machine learning), deep learning, and NLP (natural language processing) models. In the most recent O’Reilly survey on AI ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/compet_strategy_win_chess_advantage-100746028-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "TensorFlow deepens its advantages in the AI modeling wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-megvii-makes-deep-learning-ai-framework-open-source-as-china-moves-to-reduce-reliance-on-us-platforms.md",
-      "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
-      "excerpt": "Chinese artificial intelligence (AI) start-up Megvii Technology announced on Wednesday that it would make its deep learning framework open-source, as China steps up the development of home-grown AI and makes the technologies more accessible. Initially developed in 2014, MegEngine is part of Megvii’s proprietary AI platform, Brain++ ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
-      "publishedDateTime": "2020-03-25T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/26/7d1776f4-6e7d-11ea-b0ed-5e14cf8eb9e1_image_hires_090437.jpg?itok=gFifpPde&v=1585184684",
-          "width": 1200,
-          "height": 630,
-          "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

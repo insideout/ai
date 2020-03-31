@@ -8,7 +8,7 @@ ampWebUrl: "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-
 cdnAmpWebUrl: "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -25,19 +25,6 @@ images:
     title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
 
 related:
-  - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
-    excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
-    publishedDateTime: 2020-03-26T17:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards-301030407.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 37
-    images:
-      - url: "https://mma.prnewswire.com/media/1138061/Aarki_Award.jpg?p=facebook"
-        width: 1800
-        height: 942
   - title: "Artificial Intelligence Excellence Awards"
     excerpt: "Today WekaIO announced that The Business Intelligence Group has named Weka a winner in its Artificial Intelligence Excellence Awards program. “the WekaFS file system can deliver 80 GB/sec of bandwidth to a single GPU server, scale to Exabytes in a single ..."
     publishedDateTime: 2020-03-27T16:22:00Z

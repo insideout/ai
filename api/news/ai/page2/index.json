@@ -2,10 +2,233 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.md",
+      "title": "AI transforms 'The Great British Bakeoff' into a horror show",
+      "excerpt": "Artificial intelligence (AI) can do astonishing things when given specific jobs, but it's terrible at understanding context -- something we've seen before in this series. Thanks to a new experiment inspired by The Great British Bakeoff (GBBO), we can again witness the tragedy of AI stepping outside its lane. Researcher Janelle Shane trained ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
+      "publishedDateTime": "2020-03-30T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F275fd480-71c1-11ea-b24b-34907b95e1ec%26client%3Da1acac3e1b3290917d92%26signature%3De0baf5c98e42526fd12bbdf4ea6db09610a94e60&client=amp-blogside-v2&signature=8ef779eeee62763e517efee42d0b6f6d9d4b1fc6",
+          "width": 600,
+          "height": 350,
+          "title": "AI transforms 'The Great British Bakeoff' into a horror show",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-four-ways-to-use-ai-for-marketing.md",
+      "title": "Four Ways To Use AI For Marketing",
+      "excerpt": "AI can automate many marketing tasks, improve performance and let you get back to work on other important things, like satisfying clients.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
+      "publishedDateTime": "2020-03-30T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F132.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Four Ways To Use AI For Marketing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
+      "title": "Why AI Will Create 'More Human' Executives",
+      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "publishedDateTime": "2020-03-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why AI Will Create 'More Human' Executives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-how-ai-could-help-in-the-fight-against-covid-19.md",
+      "title": "How AI could help in the fight against COVID-19",
+      "excerpt": "SEE: Coronavirus: Critical IT policies and tools every business needs (TechRepublic Premium) Suki, an AI-based, voice-enabled digital clinical assistant startup that helps doctors create medical notes and do other things like retrieve patient information, has re-engineered its offering with COVID-19-specific templates to speed up the note ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-could-help-in-the-fight-against-covid-19/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/",
+      "publishedDateTime": "2020-03-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/07a98106-843c-4ae8-9317-bcb4ad8b108a/resize/1200x/3ffeeb1a34461854f298c577f1e350df/cloudai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "How AI could help in the fight against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
+      "title": "Extending the power of Azure AI to Microsoft 365 users",
+      "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T01:30:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png",
+          "width": 1187,
+          "height": 821,
+          "title": "Extending the power of Azure AI to Microsoft 365 users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
       "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
       "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
-      "heat": 104,
+      "heat": 121,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
@@ -43,7 +266,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -274,7 +498,7 @@
       "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
       "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
       "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
@@ -1086,230 +1310,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-deep-learning-what-you-need-to-know.md",
-      "title": "Deep Learning: What You Need To Know",
-      "excerpt": "During the past decade, deep learning has seen groundbreaking developments in the field of AI (A. But what is this technology? And why is it so important? Well, let’s first get a definition of deep learning.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/27/deep-learning-what-you-need-to-know/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/03/27/deep-learning-what-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/03/27/deep-learning-what-you-need-to-know/amp/",
-      "publishedDateTime": "2020-03-27T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912604%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3840%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 675,
-          "title": "Deep Learning: What You Need To Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-heres-how-walmart-is-using-artificial-intelligence-to-keep-prices-low.md",
-      "title": "Here's How Walmart Is Using Artificial Intelligence to Keep Prices Low",
-      "excerpt": "That's a problem it will use Pactum's artificial intelligence-based product to address. \"Inefficient contracting has been estimated to cause firms to lose between 17% to 40% of the value on a given deal, depending on circumstances, according to research by KPMG,\" Pactum CEO Martin Rand said in a press release. In theory, this technology will ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/27/heres-how-walmart-is-using-artificial-intelligence.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/27/heres-how-walmart-is-using-artificial-intelligence.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/27/heres-how-walmart-is-using-artificial-intelligence.aspx",
-      "publishedDateTime": "2020-03-27T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565542%2Fwal-mart-workers.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Here's How Walmart Is Using Artificial Intelligence to Keep Prices Low",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-microsofts-ai-determines-whether-statements-about-video-clips-are-true.md",
-      "title": "Microsoft’s AI determines whether statements about video clips are true",
-      "excerpt": "In a paper published on the preprint server Arxiv.org, researchers affiliated with Carnegie Mellon, the University of California, Santa Barbara, and Microsoft’s Dynamics 365 AI Research describe a challenge — video-and-language inference — that tasks AI with inferring whether a statement is entailed or contradicted by a given video clip.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/microsofts-ai-infers-statement-truth-video-clips/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/microsofts-ai-infers-statement-truth-video-clips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/microsofts-ai-infers-statement-truth-video-clips/amp/",
-      "publishedDateTime": "2020-03-27T11:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s AI determines whether statements about video clips are true",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
-      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "publishedDateTime": "2020-03-27T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden.md",
-      "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-      "excerpt": "A University of California, Berkeley robotics lab is developing AI systems for polyculture gardening as part of AlphaGarden ... and we’re basically trying to monitor the state of the garden every single day so that we can see how it evolves, and then start to understand what the effect of actions are,” Goldberg said. AlphaGarden also ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "publishedDateTime": "2020-03-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/alphagarden.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

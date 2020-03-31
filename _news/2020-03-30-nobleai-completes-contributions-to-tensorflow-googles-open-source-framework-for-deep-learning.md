@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-30T00:32:00Z
 webUrl: "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/"
 type: article
 quality: 75
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 304
     height: 430
     title: "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning"
-
-related:
-  - title: "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework"
-    excerpt: "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to"
-    publishedDateTime: 2020-03-26T18:52:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework-301030567.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 50
-    images:
-      - url: "https://mma.prnewswire.com/media/1138197/Noble_AI_Logo.jpg?p=facebook"
-        width: 1721
-        height: 903
 
 secured: "k+YzWsFLC5uj+w/F3k1pMQ4VYs53zmwjRf7stJcMZwByzifD0xXz/BMzTaSbmC1jNf1paOBxx2mHfa7U5SHHH6xsNLzXI9ioxhzvPQsG0ltgi35AYBQoLjuhjBln9ZyMrE5RKByfVJrJj/sbd5FQrd71IfnLggUcQbOmUPZf4bRy8UyKeIj8tDmpS8mqqSiUCyxCdio22DL/xNkwagZ/xDF1FGaYmEVCXKO/7/NchFNTNQoqqe+Dg90Iuv+TY0tw1Vd7SN+Y+jNu+bYfofhfGZl/i1Ay0lLvBco1ulyL3Gh6qWzdN+7mu6Lm1U+4pmiWAJIr+kQ5jY5n14G15MEIo3mDMU09P3tJWQlSbuulSswOboJHNPN118efMHFEiNLuvoEp94b+uYWTz2nwZRny8xObQfk9rthHQade7N1JDRUAI5Cr6RfOjSuwlJ+7qfRDfaMTvQ+5w0Y89musSmQd1+fGvfr0xZVshJ+a0RQN4Rw=;CclYDnESXN2unopYJOqrEQ=="
 ---

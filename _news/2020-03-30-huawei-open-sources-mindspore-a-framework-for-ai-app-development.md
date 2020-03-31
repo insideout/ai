@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-fram
 ampWebUrl: "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/"
 type: article
-quality: 93
-heat: 104
+quality: 95
+heat: 106
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI in Robotics
   - AI Hardware
   - Google AI
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/03/4430f3df-d46f-46c6-9767-ec2c36d7d8ef-e1585576947747.png?fit=1200%2C600&strip=all"
@@ -48,6 +49,6 @@ related:
         width: 650
         height: 488
 
-secured: "IxlKDrY02mW1inW5CO1uBBCtx1eVZ93+2dac/aoJVMHx2V0H10xBe9rw7WPTYRpIuRpSn5hWEExvcNlQPPP2FmDvW3Cgwl4QhwK4od84hOhbaMbMjgEWOZFbRmDH7g90B3i1GPMzDKEBzStMjYOQv9OO3NhmHSovTNhYUNf3Eq68XO5EaPNxkP6w/yvN60THsyrzHdQxpwURRs31sE210nvZzKfmSCy0lophqIMKM3FqyGlb9kDdkdwDGg97FTzmIm1cfMD5MDAedlHz/19NOJaVQOZZ7b+7LtQ1ZNL7nuoUVoLj4SlSgjVpEuVZecBhoGY3VTJzrdNllGAzRAXptLjv9Kvpf2Gp/V+W922eYZqrkkXbyoBw1HTOEnKQ6wguHLOCXPhjVB8WAkqZSBE3Wtt1SC/NsUWq7EsAykl0aC7/xI5jLzsB0BV/q9bh48joafeEaMgAJqe4W3HsSBVE0kQYsJiSjhew3PXIQTrPxrk=;FsnKJ3JB6Uq/mO1/GHl+2Q=="
+secured: "jXbyu5ZVSSe0jTWoFVNKPqyOvYaS2/qQv1Aj7S3VoaDW2/5lNPCv9PXj23GqTJeKkbgmw7O6aNa1rhJbkcHwFzTmWMCFd48rCPchMzLQv3eYz4UB/wI+cggs6SrTTIvbtwdCsydar49ct6J94H398s7fgHf3R2hNNYy2+MMIJyx0fUeZT3zwMXEi0S4NRlhxjhYkrFF28KoGtl66wUp5s/3cev/NFJr7+DebRk//ETcb7UWAq2aTO93BeQEuPggIq4jetR/1FsNqyeDQ5zr6/ykV9RT6ujgIX6zPXN7StcNm8ZCXSLJ8Kkh1CHW1bMqycStPpcsnA6SzdclHy5b1hnicd/zDYrHkcYBnelVuNhGmyk3l8ci5XkisvL4isGj8wt/SDq7Ivt8uSMu5n0bLaHusSuzWaWf4F8qSNEA4SiNVdiJuNAICqQZLM55vfBNVXGzd2oz8h2tvTdW1cjiLlc0DLqLr1zWxhsK4OQPlMnw=;Is3WYSMRXf9/zScP2voe3Q=="
 ---
 

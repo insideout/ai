@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-g
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 121
+heat: 121
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg"
@@ -29,6 +30,6 @@ images:
     height: 733
     title: "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge"
 
-secured: "XyA7vFcUQfVUg+RLpqWhXiS+vBKu2y0rLaR1cGWYdWMQtU2+8g9ADM3QiCavOsRA3LyTInb1MYZD4cmvVZBtVAtsDGneOCfn19XklXjD7gI5fjBIpOR4UEtcD49KrFzszy6ys6zeSMuvohct/gp7Bx0xzPFE8BC9qw/ufsHngGWDdZbgFHS3NH/9BYG+S7clHNO8jjcisRO5o7MPvyLVVMhOmvomu1bUWAaFPEyQKqMFkumMofPzWShobfQK3smRdeAoaXfob9oLVvONXtXvaxpmhOMz8tUz1mjYYHTaO5WNXeZmBQk/G7+6hHE1jDh5;V98LfHCh17AKDJcd3sSiIA=="
+secured: "DiRoc9zCR1kihvmVsFmtQ9DHEJempVEKM53S4Txd+XOCYEn97783p8gxCPXQQfiwetFdsSYMO3F0ZZPqIZ1575AElnvQAy8b+7BTF7JI4ioH0xKbmV64d+OiFPWNN4VH9VJ9BkFkExoMcMhtpWdlX/qdurXT3W/hrEb7JBsayqeNxgB14zhJC0jr+Ymw1HGdGkadSmoeZEuExyAI7zFU/Fp1QC5698eB85x0Iz9476QxhXDnsqip48XL27qldqEBoWdmZ1D8rl9mzJJi5h+lPa5iM90hA7MhSlUMJUTPHQ/8FGXZUzciP0SxWD/cPov6PYEIpLqUfEzE9CJ4uVIa6WrdnwNjydKiet9O9E/ZSbypJIVXzk5OLdlf1k8vKj4UgoD/T+dW+WsJQSVkls2QCGbHYBPlOn+VhYzMoWILHWPGhJCnQlnZ7lLuL+W905RLpqhdo3zmDpYaNfqVd+PBDKOdfF4tibzAHQ6gzBJP164=;pdmfchitIeMr/PMm36FdpQ=="
 ---
 
