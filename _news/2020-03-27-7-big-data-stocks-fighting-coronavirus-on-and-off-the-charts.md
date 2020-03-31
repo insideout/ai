@@ -25,6 +25,6 @@ images:
     height: 512
     title: "7 Big Data Stocks Fighting Coronavirus On and Off the Charts"
 
-secured: "+4eTuh/BTAtBz2kSWxKCwbOpQHS5jOzilKJ0l/i4o6kur58vg+7lyjU+PAUf1aF2kBT3/vTDFW1F4WnQY70Iz1Ht7BlvABhRFLsQGodYoIRIeiS2fGT3d9WOnLUWN+q2sxTFqowpZ68UTKsAGJlza9XRp5KHjzrCs7OLnbmaVtqfcsjvuxNJyjDWfqQfMYHqNePoAvAE5fovqvOxTDUqGut8UQm3S5c2iAR0tl/TIM1XO+KgEs1qnUZmYSziw7R7Gg/VruUt/Bfzj7keBuYA8XdHep7edmpJvpkVUjiLsZmIdYK9A1DZa+ZEElxjBNI2;EVOLnP1UxAZwOAI3dQTk6A=="
+secured: "Cn2gDvna3ybKgSJyyp4BEzD4+5k1ghbGJ5yVY7KzbW3PLx5a0XP8P4XRGFXDdCe31ySMuH2d3DCcHJbpr5IYplni2A68PzjZ9DZ/GP9KdaWTo8fhb2ANsFFxAJ64sAsabfH0Jf7YA0gs+2ph1+3tPajE/zbO7JBImvBCWV5l06nt6IKrRT/Ceo3y4KzwDOckIqaP/Ma+S81+66m0QDF5THsale3ql2sf/C5SX9XT5kLOjNYITSISGu6krhhNujFuQKWNRlMx7bnK+JiYV2bUrcuVwBjubuX1yBQVtSMpG2Rd5n2iE0lX+MIMu+6YTV/J;5exu7sWVyRZEnaGrlvHqvQ=="
 ---
 

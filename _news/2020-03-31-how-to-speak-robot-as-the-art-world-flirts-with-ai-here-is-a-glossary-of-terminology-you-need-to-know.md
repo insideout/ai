@@ -25,6 +25,6 @@ images:
     height: 2776
     title: "How to Speak Robot: As the Art World Flirts With A.I., Here Is a Glossary of Terminology You Need to Know"
 
-secured: "c4XAxOv7B7o6dDwhyuUshZIHqMi7PLxB+62yeD199OVzvqpd1uvK1/H3v6aTjk1UUW5PriOSBIgrNPCcenIaIqendDQzY3ZsGUVZqIvSY29MTIeHlAdrQIHMRiSRWRMLQZHdTwxC0DSCeRnJbMj9eXjI3u9EaaGdb0xqR1umbpVeniZjBm1XGtsrQsfFAJW8/ak/gyivnLomFnayfBBsMkdciPQhC7iFWgCDFy5oAenZqT/b+4MQp+r1spBHC3kBW140mcJrqXgCY1tqjtmzz+nUTKsZ3AZQ1f8vtpks+q7+zVVUvPUD+mkZnnRP2VdW;SnBsXHiwFrq1fKC3ZxqnQg=="
+secured: "36wcBfuMBA6fAqT/jLAF2EXaFCZqT3TKCTax61cCvnur9mdo375dkvfodGd2IUQCCAHWVCGSeUttBw0NJ1PsegbMXls79Va4YgzKiIuxdHqboVr4+nFLPmMylWgtM+NBYdELJrLfyH5+Jrobxa/WZ9tnKI8gVUegFaggU8E2xQNYMPJOEanF+IS1/gRQqcRP4j1q2uXApRnFHtrrvVPhSt9NWLTex5iRoD0DgJAb0XBkHfAF6DKVsQibRbkve4B25DDDoL3UrTNTVNlrViPcUlJBqRH2oBrqNwUsQKsyAS2E1o8WFDH6lHny+QduiSmP4wmzd0ZjC3/rAgUYGeIgAMcsL0vftqZ9BXDFWvBbMdPSXGcIwOnJeBOL/+mT2vKVgS+w08my8tUCIJO4o4akGVdNblxDHKLQ47g6T5g+teGtbtFV6eqla2WOoISXjTslqbLsbkMobxIGK1vycHKqCn73gksvU/9b7grd9Xb16dM=;Yjyqb8E5sDoHz/2Q743IbQ=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 1197
     title: "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service"
 
-secured: "lITT1SvMfdx//qljvGhpOCESwCXaw/nLSgEcy0W8f8YyPd9IPgMkXXzJTmrdDFDRG7u+J8JjKc0D8dCLH+4r80SLhiWzulDZUOHYbjVqOVtbGTd32HOcEAdtzu9rAm+yrm6jaHwW7H88KWrNM/05mg8yfAzLEH90H3y3Wgetai9BVV8i+ud9mo/ZefQljAF39zXfDNP0LOWxX5RGvIA71Ivqb9uIMudXQOciC8Kcj0x+dXSsFUvMCFhH6VYr7WLzlnEBf/iIt5H/pue7FT/qS1cxyFV3cClUU/j5znwg88aTKNrH4yxUYGI+hhcATf5M;bRPlQn8AHvi8/SOkbWJFPQ=="
+secured: "MN6CdiMgDyjxcz4uAeza3S5tkMo9a++oKG4RHfYbLGCQutVTnuVx6d7prXa2GEts1F0jiDmox6TjuD48kSOnbcTv0JubGgJ98Qs07DwYTgaBg8J9uxrl18uQ4ImGbBAAy1Qmd3TeWtvnarIRPFsjW5/brC+oHGrW740Jfj6mQ+FzkaR7SuZkY9swl+49lzz1rcTJxAOdmgcHI11BctUM0IMGZ+E3t2yLFORPx/w4gVl0kRRYsIH9ogDNwcXKl4QsmxtxnOQ3qRby8J+kNCtXFtCq2G3H8WlxsjdxsYk11q+xJxAiTikGwhphZoOr9gAMC9fLhNfxKEYIOIXwo8vh1MNotIuvksyLVQ1KCoVHF7qbJjlTG4W2zlHaTh+CjxXx+ZO3L90PiR0fuOP1zSzEfJdea8cmV9H+96slaNYFg5iUwsCsem4u6K4RDJOzplUVtjgf3+cG6UfqcHGi9sOKs/8Cs26x1mXcWMDC+7Y5kI0=;10wkmBnFlJ3XA9fQ1o7GpA=="
 ---
 

@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com"
-excerpt: "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions. Services segment to grow at a higher CAGR during the forecast period The ..."
+excerpt: "The \"Cognitive Computing Market by Component, Deployment Mode, Business Function, Application (IVA and Chatbot and Behavioral Analysis),"
 publishedDateTime: 2020-03-26T14:45:00Z
-webUrl: "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--"
+webUrl: "https://www.marketwatch.com/press-release/insights-on-the-worldwide-cognitive-computing-market-to-2025---featuring-google-microsoft-ibm-sas-among-others---researchandmarketscom-2020-03-26"
 type: article
-quality: 5
-heat: 5
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     title: "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com"
 
-secured: "rVryXeZ1gGOEnLW+gKhsDMlQrnvahWRVblcsJkMPFlnWgcruCCHZYxHobSoNpof3ytUsRumm+agj39BsJO0uZrLO2SkkVJPJpFJmEHBXE/3DB6s3LsdYNzX0qrtv1ns8+yiUMpDCC3KmbWt1/RdHwGqhSoKD08v5LSjn3h5FU7n0gPixosdSQQzXFBdhh++PXOIMg1nPr6re+omGcosRIW2xkaAcOYb5nH1Lg9zCsxMzfu/s+1r/ELrRyGG93IzrQcTGtk3oGcvI9hplrXAAUUjvpvyT04sfy+TehAfpZPMW2K3UN5FbeGwTbvxdoWFoZoiK6PIHQB6vJxfD/D5DTFWHkRlX1uKpCm2tdTjQHnC53YPEyoKvhCDGhu+lSh1phk0JO3QTfYiwOvK7q3G3h9Y0QbpzwvUPu1SJqActCS6lLZPEFeEA4trk4z0O13VzMXmQICowKGrJ4BCI58+gcdsDVuq+HxM+ti2TiDlPN3c=;UBX9vUToWEN6vog/ARYzbw=="
+secured: "TXEIi3nU6yEho16lkcjJnfR5oeH3k181KT7/mXLt16ulO6N6SCtx3kCpY5SlRKcjmuydhla1oMxn7dBynr4hSpbfGPMu5SvpJXt/o+q8I3GxpiQaiuTvN6EC2/TBxZ7Holl8KZfyZPLqT9yR0p2/WsuxG56m5sSRqvzvsf11CEOBnobuEUR1z4rEV1LOZF5oKCWzavJHMMz/Cv6xjlxcasA3xlCahsIHy/wg0OCS4PX5JJM9bgGQYRxZkotxeKKc445XlJJ60qEcJJY/8Jzfzq5xFvjTKdBl0v+YzpPAEPPz8qHAGhJ5AAEg413YHcKO;ELTqL8Y4jOxBJYdquCrXvw=="
 ---
 

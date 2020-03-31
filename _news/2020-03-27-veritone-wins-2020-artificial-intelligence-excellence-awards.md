@@ -38,19 +38,6 @@ related:
       - url: "https://images.martechadvisor.com/images/uploads/content_images/aarki_named_winner_in_2020_artificial_intelligence_excellence_awards_5e81a3817b80d.jpg"
         width: 786
         height: 393
-  - title: "Weka Named Winner in 2020 Artificial Intelligence Excellence Awards"
-    excerpt: "The latest episode of the This Week in HPC podcast features Carlo Cavazzoni, a senior staff member at CINECA, one of the leading supercomputing organizations in Europe. Intersect360 Research's Addison Snell spoke to Cavazzoni to discuss both CINECA's work using supercomputing to combat COVID-19 and Cavazzoni's personal experience living near ..."
-    publishedDateTime: 2020-03-26T16:26:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/weka-named-winner-in-2020-artificial-intelligence-excellence-awards/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 39
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/03/cloud-silicon_shutterstock_622863563_800x-405x228.jpg"
-        width: 405
-        height: 228
   - title: "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards"
     excerpt: "The Business Intelligence Group today announced that Aarki was named a winner in its Artificial Intelligence Excellence Awards program."
     publishedDateTime: 2020-03-26T17:30:00Z

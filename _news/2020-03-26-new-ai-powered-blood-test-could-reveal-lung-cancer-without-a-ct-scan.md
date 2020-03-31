@@ -8,7 +8,7 @@ ampWebUrl: "https://bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-lea
 cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/03/26/cancer-blood-test-research-ai-machine-learning/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 2000
     height: 1082
     title: "New AI-powered blood test could reveal lung cancer without a CT scan"
-
-related:
-  - title: "Using machine learning to detect lung cancer DNA in blood"
-    excerpt: "A large team of researchers affiliated with multiple institutions across the U.S. has found that it might be possible to use machine learning to detect early-stage lung cancer in human patients. In their paper published in the journal Nature, the group describes their work, which involved testing machine learning systems and their ability to ..."
-    publishedDateTime: 2020-03-26T15:11:00Z
-    webUrl: "https://medicalxpress.com/news/2020-03-machine-lung-cancer-dna-blood.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-03-machine-lung-cancer-dna-blood.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-machine-lung-cancer-dna-blood.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
 
 secured: "xl7e0Byf7XDAvW21m+gFDmEG6HApmML5tIx5CDcG72WCU0VxUoEvoRnJ/aexAOFlWnyO3rFqv+mdOLSURU6H7D6JVwHGldphLpH8jUFqtCtE1EH8EBmNfVR+PeXEekK1xKVwBomTeR+9jLQamFzG9qcP9wIcdFDellKe6RHXDj9zLMCU1hYb8gq6MOPsrfpcTkrLozBNM0NJMyhLnf1WU/NLYu3cvhsMZL6W880qWomKlyBOI3foGhEk+ts0+DrvA4OPqq7lMFbfIv74+03Fx+bEh7pycCnSQt62B1k3qqX0fQRGpzAbHF9/iFq4PpeB1MakEAUsz6sDnxDLpPb3i0YkHam4ttHpWiGq9IpsufoW7uBnwY6QgQv8Tr+tdwNNNc/PjwonPNIidBhW603STGVCDw5ubtON2y8wHL6Wu0TsufCo6Ay3pqMgrDCQ4O7w417sohtzJISf/oBX1Mmvd1PYAFjRKbkRM3MOMfwerbo=;oLx5+I9z5o0mDpW1K3o6qw=="
 ---

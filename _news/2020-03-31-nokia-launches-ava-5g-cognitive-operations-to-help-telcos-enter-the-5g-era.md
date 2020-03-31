@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era"
-excerpt: "Press Release Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G eraNokia AVA 5G Cognitive Operations to help communication"
-publishedDateTime: 2020-03-31T07:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-1029047410"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Nokia-launches-AVA-5G-Cognitive-Operations-to-help-telcos-enter-the-5G-era-1029047410"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Nokia-launches-AVA-5G-Cognitive-Operations-to-help-telcos-enter-the-5G-era-1029047410"
+excerpt: "Nokia communication service providers (CSPs) transform their network, service and business operations through extreme automation enabled by AI and machine learning AI insights utilized to inform network slice creation and help CSPs comply with committed service level agreements (SLAs) for massively scaled 5G networks and enterprise services Service degradations can be predicted and prevented up to seven days in advance and solved up to 50 percent faster through AI Espoo,"
+publishedDateTime: 2020-03-31T07:07:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-8689756"
 type: article
-quality: 52
-heat: 62
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg"
+    width: 600
+    height: 315
+    title: "Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era"
 
 related:
   - title: "Nokia Oyj: Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era"
@@ -34,6 +34,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "vxdCBAMEVSGrsH5kZ77Umuu3sXhMOqWTCW1Sgku5ljNVzRmy1mSISyx6giAgEx7+aKIcdh99ANxDum1QZ5dSCSP6P175qolseeYdMyghvIM1LYkNoYhCqCjIMlb+JS4DrBdhL5ZMgn3I7V4WoIRhz+2+hDFfPW80Wp/KYcySIumOfCNaTgKMfGUCzs/ihTgQ3gxKfWsIlKok/aWX0AOHPgZuZAOAcQAes+Dw2bC8Q//STZiNVvK5G2B6Z4ggeo/Vww1qcvnAgIftveGRoaPXH29666AgQdWvLA+zMMjBBO+E4sC4PZHgzlD3xjN7E/S1;AdnWB778Bg2pLyr/3bhlHA=="
+secured: "IX2Rak3zeeMu0aez7jk5PqoXBZLMumB70Y8A7yihablbj6dFn697Qte5sIqN9JPhAZKzUaaOv9YP46MBEyLX1FAgf1D7NW98rfK1HHISM1rdovZJUfveOG6JONxJSomIW/FE7XmI98pNk+q/CMt3fFqxmbJe7mq8HdHL2SZ2wIebFrorNBNPIm/Q62tSH4KTKIqaxwj3Z+BGDJW0BUqiTr+ej51YMLECLB8VKI+Xm2SQlpa/1/PLb5n0BW9ecBKJRm/HpX3xGnO280gprFCywPW03OIYTh0L0rEGc2pUzgLdjOowstl2MdFj0h7Sej7t;EnS1KImi6uCMLIcaFAfyeg=="
 ---
 

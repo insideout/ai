@@ -34,7 +34,7 @@ related:
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 31
+    quality: 33
 
 secured: "CnVeFeErwjywEQ+b+UStee5xnwr5T8xqX7yy/xleRqHsXC41AkFiJTP+Yx1owQfz3J4E3VRLR7dSggG3e185pmXN9MfvV/3GLBmOIU4CfKUNTX0I6XKtZVJQIEkrOS4klhHs0Xk5RtkEeqsvecc2bzqpBuPntfpDTzI+WkacW70okgHjyOhJxrG/tJj8nOGu9fZPD92gpCHmf4UUDqLbc4HrvxdPaXA4hltk6bhh1wbCvjJJPj+qAp7GUMlwwIc/b2jp8jFTQQ4OHzP28uUwkalBap1A+5wNWx5p9THP6OYJ1q1JLiYv2aUL8okm4JzX;o7pG5iO1Z17nelfzFH783g=="
 ---

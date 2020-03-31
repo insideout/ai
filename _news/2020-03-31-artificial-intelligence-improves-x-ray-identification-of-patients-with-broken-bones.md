@@ -7,7 +7,7 @@ webUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-x-ray-id
 ampWebUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence-x-ray-identification-patients.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-x-ray-identification-patients.amp"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence improves X-ray identification of patients with broken bones"
