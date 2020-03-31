@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Detective"
-excerpt: "Amazon Detective helps security teams conduct faster and more effective investigations. Once enabled with a few clicks in the AWS Management Console, Amazon Detective automatically begins distilling and organizing data from AWS CloudTrail,"
-publishedDateTime: 2020-03-31T18:11:00Z
-webUrl: "https://apnews.com/Business Wire/32219d62e179470b939b9fe47c259d92"
+excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 70 Availability Zones ..."
+publishedDateTime: 2020-03-31T18:07:00Z
+webUrl: "https://www.businesswire.com/news/home/20200331005748/en/AWS-Announces-General-Availability-Amazon-Detective"
 type: article
 quality: 54
 heat: 54
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200331005748/en/782600/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
     title: "AWS Announces General Availability of Amazon Detective"
 
-secured: "y9xf7T58YVSnVYRu8Ot+D3J2g7ReJbNOac3jD5n3I++UUju5ZrnjZb7k1ES1x748eMIIV1Cj310LPsmm0Ax1ilsHsoGqyr1bl9KXb6Z5wFL5hPrScoeHiOv24hvaa5YyoOHc8UUWzK9itJnJaS70+/5zc6spQYoMOB8RMwkmvrM0kMCPsMckuvKOpAIRi7fq4w1sBWJHuF1UZ4N7VrWyOHN/9AgqUiYUfKp7rXpzTvOpRwEubKlMBYdiaWGEvZxL43SymTx9xgLUyKjb8OaePhVRNeqy3hjbkyrX64KU1KK8d2z2w4kvqpXvgbdWjJWW;dNEMCKFKNeSgsiUp8nJ3pg=="
+secured: "vmh4tQLn7nOEoS6QeN8J3l4pwxT5X4pr8aiENuG2/YIqciVz8l6Yp//3D9kGPP+dSFuGRLdIGslszjxU2r3s7ZmxekL2ndNZq16fgVILt3KUHJmTD18rsM60CRtbfX+3S5CGK9C7dOTQIBtQdBdnLTBfDKEi5rJkqugAsmhglE+1YyuKIJYzntufhFxWfPByvJ5S1TqSOZ31TOxo6GzTet7vaAZr2Zcr7GoKNBkrTYLdut3xbcSl6ARLCJ+wXLm+M1yeyCVzhp/CYvMN2cNSa9C/lydJOOo+12gZtnenP3535mZqvgHrZrILJSmsJLzF;3uAZOSm/KqZBZocgb+HHzQ=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 418
     title: "Microsoft expands AI features in Office, but are they any good? Mixed, according to our Vulture"
 
-secured: "pfftwuBn0jG5bhojhY0Q2eFTmXA/LTlpTtXlGErRq7MwGbe+jcZXihePelJz6bbOGiJtHN6PsOsvF37s5aJxLBlfO8QgaW5UfC3ivARGfYTbXwaS6kmoAKkFSF+A/ST6LVNfnMGZWvd0MmPIe6pSv/NTJ4t7TgzrPjyt2ENA2P92uKw91+vlQYmmZtAe8CbNw0Nl7so7O2SnNtsZnEmHbQJ8NkVDji2A70xFmEgDaBlP7yo36/b045szCE1oYQn5rT1h88USPCp2kPjUGR12+C38u6+VpC9eo+7oOKQe5Bmp2/Okqm8u6m+zu/QViSk2;Fgx9Jq6x9BW+NeRuYwrCPA=="
+secured: "8zyi35zxIT2Oxkqx9LRMLV1zk82Y3yxA85LcKQwwrgpBCL1urPNvGoThbyLycoPXgV1/0//o70DbQccWvZ8SqGRNXoU7HTmisfBfSXwIylePWEZkEzpXYqS7tchTiT3RNyBUuPEP6W5bQoXPxt0tgNLEmtMV6R9C2J4fiVe/0AKYDrVN/foFFuMfkqayehX2WLqAVOCsoBinYhckPd+NAFFSOeIcqVvUxM5zsdzU8H72lhhbBFEbN+iuW6AK19ZFolWpuQlBxMNMWVj5HvDc4Vqdu7D4XR+HYWMfmFYVipPKzEZOR/keoQm9a2EJpEDVn5E2XKkFa7+Vsk8b6uPw7q43vYldd8wqqDCcxXnImZoQ5Y7x23ozIFZj5+EOjfrEQQCQeXjo637JxLWWogAkq0jbzVj+Q857SAy/KcjKWjkdBSX60HaOo5RrFYK1jr4z/yaEPXp7jLs5P59wWQkEMH5K5RKsp9AJwsBXyfm4eAQ=;d0FF42dgxLUpzGfoHXfrRA=="
 ---
 

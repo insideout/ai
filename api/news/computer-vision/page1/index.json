@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-03-31-washington-state-oks-facial-recognition-law-seen-as-national-model.md",
+      "title": "Washington State OKs Facial Recognition Law Seen as National Model",
+      "excerpt": "Washington state adopted a Microsoft Corp.-backed law enshrining the most detailed regulations of facial recognition in the U.S.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
+      "publishedDateTime": "2020-03-31T13:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-171101/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Washington State OKs Facial Recognition Law Seen as National Model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-the-three-main-test-automation-factors.md",
       "title": "The Three Main Test Automation Factors",
       "excerpt": "When creating a test automation culture, you need to look at the three main test automation factors: product, people and process.",
@@ -1178,43 +1223,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-processors-best-suited-for-embedded-vision-applications.md",
-      "title": "Processors best suited for embedded vision applications",
-      "excerpt": "Plus, there’s only so much real estate inside your device. Manufacturers have had to make processors smaller and smaller so you can bring embedded vision along for the ride. Computer vision technology typically uses a central processing unit (CPU) and a graphics processing unit (GPU). Manufacturers have realized that there is a need for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/processors-best-suited-for-embedded-vision-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cfemedia1.wpengine.com/wp-content/uploads/2019/07/ctlx_icon_MachineVision_Slider_01-3.jpg",
-          "width": 485,
-          "height": 260,
-          "title": "Processors best suited for embedded vision applications",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

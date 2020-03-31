@@ -2,6 +2,124 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-02-16-linking-sense-of-touch-to-facial-movement-inches-robots-toward-feeling-pain.md",
+      "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
+      "excerpt": "Such touchy-feely robots are still far off, but advances in robotic touch-sensing are bringing that possibility closer to reality. Sensors embedded in soft, artificial skin that can detect both a gentle touch and a painful thump have been hooked up to a robot that can then signal emotions, Minoru Asada reported February 15 at the annual meeting ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence",
+      "ampWebUrl": "https://www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-sciencenews-org.cdn.ampproject.org/c/s/www.sciencenews.org/article/robots-feel-pain-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-16T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencenews.org/wp-content/uploads/2020/02/021420_ls_robot_feat.jpg",
+          "width": 1030,
+          "height": 580,
+          "title": "Linking sense of touch to facial movement inches robots toward ‘feeling’ pain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-16-with-the-development-of-generalized-ai-whats-the-meaning-of-a-person.md",
+      "title": "With the development of generalized AI, what’s the meaning of a person?",
+      "excerpt": "Centered in a future world where virtual worlds and generalized AI have become commonplace, it’s a fantastic example of speculative fiction that forces us to confront all kinds of fundamental questions. If you’ve missed the earlier parts in this book club series, be sure to check out: This is a much more sprawling story than the earlier ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/16/with-the-development-of-generalized-ai-whats-the-meaning-of-a-person/amp/",
+      "publishedDateTime": "2020-02-16T12:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1130889793.jpg?w=1024",
+          "width": 1024,
+          "height": 654,
+          "title": "With the development of generalized AI, what’s the meaning of a person?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-16-researchers-describe-a-brainy-approach-to-leverage-noise-for-better-neural-networks.md",
+      "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+      "excerpt": "Those who design deep neural networks for artificial intelligence often find inspiration in the human brain. One of the brain’s more important characteristics is that it is a “noisy” system: not every neuron contains perfect information that gets carried across a synapse with perfect clarity. Sometimes partial or conflicting information ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.noozhawk.com/article/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "ampWebUrl": "https://www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "cdnAmpWebUrl": "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "publishedDateTime": "2020-02-16T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Noozhawk",
+        "domain": "noozhawk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.noozhawk.com/images/made/images/uploads/021520-seaurchins-630_426_320_s.jpg",
+          "width": 426,
+          "height": 320,
+          "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-16-built-robotics-to-unveil-autonomous-construction-equipment-at-trade-show.md",
       "title": "Built Robotics to unveil autonomous construction equipment at trade show",
       "excerpt": "The company’s technology transforms existing construction equipment — including excavators, bulldozers, and skid steers — into fully autonomous robots. Built said its artificial intelligence guidance systems can be installed on existing equipment from any manufacturer, while still maintaining complete manual operation capabilities.",
@@ -1148,132 +1266,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-man-arrested-for-brake-checking-waymo-self-driving-van-causing-crash.md",
-      "title": "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash",
-      "excerpt": "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.caranddriver.com/news/a30929221/waymo-self-driving-crash-arrest/",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/",
-      "publishedDateTime": "2020-02-13T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/waymo-minivan-4-1532617122.jpg?crop=0.574xw:0.469xh;0.229xw,0.526xh&resize=1200:*",
-          "width": 1200,
-          "height": 599,
-          "title": "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
-      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
-      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
-      "publishedDateTime": "2020-02-13T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
-          "width": 1200,
-          "height": 1058,
-          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
-      "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
-      "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T21:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
