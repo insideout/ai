@@ -2,43 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
-      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
-      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
-      "publishedDateTime": "2020-03-09T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
       "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
@@ -972,6 +935,43 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week.md",
+      "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
+      "excerpt": "One intriguing suggestion from developer Cyclopic is using it as a cargo robot. The machine would use its wheels to drive around a factory or warehouse floor before transforming into drone mode for a quick flight, up to a high shelf or over an obstacle.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.imeche.org/news/news-article/nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-06T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Institution of Mechanical Engineers",
+        "domain": "imeche.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
+          "width": 400,
+          "height": 300,
+          "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

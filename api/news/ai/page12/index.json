@@ -2,51 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
-      "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-      "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "publishedDateTime": "2020-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e6fb419fce7bf009dc0fe79/lede/1584379361591-facebook-app-logo.jpeg?crop=1xw:0.8432xh;0xw,0xh",
-          "width": 2000,
-          "height": 1123,
-          "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-axon-announces-new-svp-of-artificial-intelligence.md",
       "title": "Axon Announces New SVP of Artificial Intelligence",
       "excerpt": "/PRNewswire/ -- Axon (Nasdaq: AAXN), the global leader in connected public safety technologies, today announced the addition of Yasser Ibrahim as Axon's SVP",
@@ -1158,6 +1113,35 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
+      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions—the sudden release of energy stored in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
+      "publishedDateTime": "2020-03-17T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

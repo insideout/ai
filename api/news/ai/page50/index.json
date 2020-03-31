@@ -2,42 +2,6 @@
   "page": 50,
   "value": [
     {
-      "path": "_news/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
-      "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-      "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
-      "heat": 156,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
-      "publishedDateTime": "2020-02-05T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/pills_1.jpg?sw=600&cx=1&cy=54&cw=1079&ch=607",
-          "width": 600,
-          "height": 337,
-          "title": "An algorithm that can spot cause and effect could supercharge medical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-05-youtuber-uses-neural-networks-to-upscale-1896-short-film-to-4k-60-fps.md",
       "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
       "excerpt": "Today, many companies use something called neural ... experiment of turning the famous Lumière Brothers' 1896 short clip \"Arrival of a Train at La Ciotat\" into a 4K, 60 fps video that looks ...",
@@ -1292,6 +1256,50 @@
         "AI",
         "Facebook AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-tropical-breezes-pristine-beaches-and-a-domain-name-to-die-for.md",
+      "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
+      "excerpt": "Start-ups want unusual internet addresses to help stand out. One winner: The island of Anguilla, whose “.ai” domain is a favorite of A.I. start-ups. The luxury resorts along serene white-sand beaches have long propped up the economy of Anguilla,",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/02/04/business/custom-urls.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/02/04/business/custom-urls.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/04/business/custom-urls.amp.html",
+      "publishedDateTime": "2020-02-04T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/02/04/business/00dotx1/00dotx1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,51 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2020-03-18-quickstart-create-ml-services-cluster-in-azure-hdinsight-using-resource-manager-template.md",
-      "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
-      "excerpt": "In this quickstart, you use an Azure Resource Manager template to create an ML Services cluster in Azure HDInsight. Microsoft Machine Learning Server is available as a deployment option when you create HDInsight clusters in Azure. The cluster type that provides this option is called ML Services. This capability provides data scientists ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/hdinsight/r-server/quickstart-resource-manager-template",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-why-voice-recognition-is-vital-to-payments-during-the-coronavirus-pandemic.md",
       "title": "Why voice recognition is vital to payments during the coronavirus pandemic",
       "excerpt": "And it calls for advanced speech recognition technology that concentrates as much on what is said as it does on the voice inflection of those saying it. For the past three years, London-based Speechmatics has offered its clients — generally companies that deploy call center services technology — with automated speech recognition that ...",
@@ -380,6 +335,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
+      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
+      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions—the sudden release of energy stored in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-artificial-intelligence-disruptions-fusion-devices.amp",
+      "publishedDateTime": "2020-03-17T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-multithreaded-cores-handle-machine-learning-chores.md",
       "title": "Multithreaded Cores Handle Machine-Learning Chores",
       "excerpt": "The cores and software support are designed to handle real-time communication between the cores. This is facilitated by the switch that connects everything, including the new vector-processing unit, DSP support, machine-learning support, and cryptographic support. This distribution keeps the RISC cores simple while providing access to the ...",
@@ -495,43 +479,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-helps-prevent-disruptions-in-fusion-devices.md",
-      "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-      "excerpt": "An international team of scientists led by a graduate student at the U.S. Department of Energy's (DOE) Princeton Plasma Physics Laboratory (PPPL) has demonstrated the use of Artificial Intelligence (AI), the same computing concept that will empower self-driving cars, to predict and avoid disruptions -- the sudden release of energy stored in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/dppl-aih031720.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/227200_web.jpg",
-          "width": 1440,
-          "height": 523,
-          "title": "Artificial intelligence helps prevent disruptions in fusion devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -979,6 +926,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate.md",
+      "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
+      "excerpt": "Google has launched its new near real-time transcription feature as part of Google Translate, which is available for eight languages. Google showed off the AI-powered feature this January and will now roll it out on Android with support transcribed translations between any of a set of eight languages, including English, French, German ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-try-out-this-ai-transcribe-feature-now-rolling-out-to-google-translate/",
+      "publishedDateTime": "2020-03-17T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/02/27/1db68635-40a5-437e-8b6f-ff1d3034921f/thumbnail/1200x675/474204615b3a621b6922fba361f73db8/google-cloud-updates-aipowered-speech-to-5c73e58360b2b5899fb224ab-1-feb-27-2019-17-31-20-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

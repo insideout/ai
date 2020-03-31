@@ -2,51 +2,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_news/2020-01-30-alphabet-earnings-might-google-make-a-fourth-quarter-comeback.md",
-      "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
-      "excerpt": "Key Takeaways:Third-party analyst consensus sees quarterly adjusted earnings of $12.55 per share on revenue of $46.93 billion.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/",
-      "ampWebUrl": "https://www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jjkinahan/2020/01/30/alphabet-earnings-might-google-make-a-fourth-quarter-comeback/amp/",
-      "publishedDateTime": "2020-01-30T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e32fbe9a854780006aff826%2F0x0.jpg",
-          "width": 507,
-          "height": 290,
-          "title": "Alphabet Earnings: Might Google Make A Fourth Quarter Comeback?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
       "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
       "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
@@ -1063,6 +1018,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-report-after-acquisition-apple-nixed-xnorais-work-on-pentagons-project-maven.md",
+      "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
+      "excerpt": "The Information reports that Seattle-based Xnor.ai played a role in the Pentagon’s controversial Project Maven, but that Apple ended Xnor.ai’s involvement in the project after acquiring the startup. Love space and science? Sign up for our GeekWire Space & Science email newsletter for top headlines from Alan Boyle, GeekWire’s aerospace ...",
+      "heat": 222,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/",
+      "ampWebUrl": "https://www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/report-acquisition-apple-nixed-xnor-ais-involvement-pentagons-project-maven/amp/",
+      "publishedDateTime": "2020-01-29T15:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/02/team_picture-630x362.png",
+          "width": 630,
+          "height": 362,
+          "title": "Report: After acquisition, Apple nixed Xnor.ai’s work on Pentagon’s Project Maven",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

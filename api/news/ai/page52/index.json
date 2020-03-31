@@ -2,51 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
-      "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
-      "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
-      "heat": 219,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/",
-      "ampWebUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
-      "publishedDateTime": "2020-02-03T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600",
-          "width": 1600,
-          "height": 803,
-          "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-02-03-artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis.md",
       "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
       "excerpt": "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application.",
@@ -1247,6 +1202,42 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-bbc-develops-technology-that-could-let-people-feel-the-weather.md",
+      "title": "BBC develops technology that could let people 'feel' the weather",
+      "excerpt": "Technology has been developed that could allow people to 'feel the weather ... could be delivered through existing devices, such as remote controls and phones, as well as new ones.",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/news/article-7953833/BBC-develops-technology-let-people-feel-weather.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-7953833/amp/BBC-develops-technology-let-people-feel-weather.html",
+      "publishedDateTime": "2020-01-31T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/01/31/22/24149812-0-image-a-27_1580509388294.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "BBC develops technology that could let people 'feel' the weather",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

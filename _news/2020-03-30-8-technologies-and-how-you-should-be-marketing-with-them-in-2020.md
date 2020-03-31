@@ -1,34 +1,28 @@
 ---
 category: news
 title: "8 Technologies and How You Should Be Marketing With Them in 2020"
-excerpt: "“That means they’re more likely to use a conversational tone, long-tail keywords and questions.” In late 2019, Google updated its search engine algorithm to adopt BERT, a natural language processing engine. Google’s aim is to move from “keyword-ese” search to one that feels natural. Instead of “best places to shop,” people now ..."
-publishedDateTime: 2020-03-30T14:30:00Z
-webUrl: "https://www.entrepreneur.com/article/347865"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/347865"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347865"
+excerpt: "Marketing is the primary challenge of every business. A brilliant idea will fail if it is not marketed correctly. Online marketing tactics such as search engine optimization, social media marketing and online sales funnels have created low-cost alternatives to effectively market a brand using advantages in technology."
+publishedDateTime: 2020-03-30T19:42:00Z
+webUrl: "https://www.stamfordadvocate.com/business/article/8-Technologies-and-How-You-Should-Be-Marketing-15166130.php"
 type: article
-quality: 74
-heat: 74
-published: true
+quality: 24
+heat: 24
+published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/20200323182130-GettyImages-1191303754.jpeg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://s.hdnux.com/photos/01/11/31/15/19239770/27/rawImage.jpg"
+    width: 2000
+    height: 1333
     title: "8 Technologies and How You Should Be Marketing With Them in 2020"
 
-secured: "HmIjlX4cqNYqh+CNpecXVUl8sl4UrGfL2UQIQfmT+foQbKg5CAIQ2HOB+yvFzmW4Ac6grudtI/+8pbNtpBSXmFppAUwNU6mBfOixcMq/CfXzrkpIe0LQSnmkkYCJOm49AHoa4pZPqYGjzaRBa4B5yBqCQdn9pwUYa3FWCpLIJJ5D6fBAp6iajb+gjKIl9+jcGFhcizGJQRhi+F08x4XXGDjTq3SLCVTSl7Ojn+bPSmofVrk2imhwHc4hcpW54hQqKX+zHFjynB2xffJCHyeY7RNUnUNZlSJUDgCUBPO9fOig06J6MGJAVnVucKN35+/f;cthnmxhFUFWhDoEQo4MrTg=="
+secured: "qXHsRJ8T/gMAF+8z6X4sgH78KpD57OOsCj0X4oaM/YxtCww35lHo+paF6vUpVB4D+DtA4A0LBDCJNWgUGfAztvZ4WPUSEd15wLcTwtpGPKr+CjHp245C941TTLqtxiCqLC+91Kuygcg/mSoTlQNqjKi8UXRY4SQ2Dn6fwL3Az704xaKqt9SSwQe57dzBSB4TB+sPSy4dxRgRfgg2dDDykIolqO6aU+uoVvzTRuvzLPE16EEgEOt7G42Fc4hGkpnzjoI+HC2Ojb/PDJ4XZfSe40pRelfL5orCrTbBZyi+livtpER/erzDJuZFWCTyA/Pq;kbaueo90pofy6nyttEnnww=="
 ---
 

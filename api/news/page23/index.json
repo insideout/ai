@@ -2,35 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-03-12-memory-systems-for-ai-part-4.md",
-      "title": "Memory Systems for AI: Part 4",
-      "excerpt": "In this blog post, we’ll be taking a closer look at a Roofline model that illustrates how AI applications perform on Google’s tensor processing unit (TPU), NVIDIA’s K80 GPU and Intel’s Haswell CPU. The graph above is featured in a paper published by Google a couple of years ago detailing the first-generation Tensor Processing Unit (TPU).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.design-reuse.com/industryexpertblogs/47679/memory-systems-for-ai-part-4.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-12-agtech-startups-use-machine-learning-to-analyze-farm-data.md",
       "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
       "excerpt": "Startups focused on agriculture and aquaculture technology are turning to cloud-based machine-learning services to process and analyze data so they can give customers better predictions on fertilizer needs,",
@@ -933,6 +904,51 @@
           "width": 3022,
           "height": 2014,
           "title": "Intel starts using facial recognition technology to ID workers, visitors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-video-analytics-isr-and-intelligent-video-surveillance-americas-market-to-experience-significant-growth-during-the-forecast-period-in-2020.md",
+      "title": "Video Analytics, ISR And Intelligent Video Surveillance Americas Market To Experience Significant Growth During The Forecast Period In 2020",
+      "excerpt": "Mar 12, 2020 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-to-experience-significant-growth-during-the-forecast-period-in-2020-2020-03-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Video Analytics, ISR And Intelligent Video Surveillance Americas Market To Experience Significant Growth During The Forecast Period In 2020",
           "attribution": null
         }
       ],

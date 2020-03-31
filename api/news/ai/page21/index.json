@@ -2,52 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-03-11-ibm-built-language-processing-ai-technology-that-was-a-hit-after-debating-against-humans-now-its-ready-for-businesses-needing-to-plow-through-data.md",
-      "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
-      "excerpt": "IBM's AI head said the company is commercializing its famous \"Debater\" technology, which became a hit for debating with humans.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/ibm-debater-watson-ai-technology-available-to-businesses-2020-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5ab2631798e6e51f008b45a7?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-03-11-new-york-times-best-selling-book-the-lean-startup-expands-series-with-newest-addition-lean-ai.md",
       "title": "New York Times Best-Selling Book, The Lean Startup, Expands Series with Newest Addition, Lean AI",
       "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--The next book in the Lean Startup series by Eric Ries, and the first book from Lomit Patel, Lean AI will launch in bookstores across the country on March 17th. Published by O’Reilly Media, Lean AI dives into the power of artificial intelligence and automation to adapt, customize, and personalize cross-channel ...",
@@ -1185,6 +1139,51 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies.md",
+      "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
+      "excerpt": "While speaking on a panel recently, Landing AI founder and Google Brain cofounder Andrew Ng described a moment when he read the OECD’s AI ethics principles to an engineer, and the engineer told him the words give no instruction on how he should change how he does his job. That’s why, Ng said, any code of conduct should be designed by and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/amp/",
+      "publishedDateTime": "2020-03-10T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

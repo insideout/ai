@@ -2,51 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-03-13-prime-minister-boris-johnson-calls-for-tech-to-support-coronavirus-battle.md",
-      "title": "Prime Minister Boris Johnson calls for tech to support coronavirus battle",
-      "excerpt": "The digital summit at 10 Downing Street was attended by 30 companies from across the digital and science sectors, including Google’s AI-focused DeepMind, Amazon, Microsoft, Apple, as well as the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/business/business-operations/354999/prime-minister-boris-johnson-calls-for-tech-to-support",
-      "ampWebUrl": "https://www.itpro.co.uk/business/business-operations/354999/prime-minister-boris-johnson-calls-for-tech-to-support?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business/business-operations/354999/prime-minister-boris-johnson-calls-for-tech-to-support?amp",
-      "publishedDateTime": "2020-03-13T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1582885277/itpro/Multiple-facemasks.jpg",
-          "width": 3000,
-          "height": 2000,
-          "title": "Prime Minister Boris Johnson calls for tech to support coronavirus battle",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-13-automated-intent-classification-using-deep-learning-in-google-sheets.md",
       "title": "Automated Intent Classification Using Deep Learning in Google Sheets",
       "excerpt": "Let’s move to build our intent classification service that we will call to populate keyword intents. In my previous deep learning articles, I’ve covered Ludwig, Uber’s AI toolbox. I like it a lot because it allows you to build state-of-the-art deep learning models without writing a single line of code. It is also very convenient to run in ...",
@@ -1166,6 +1121,43 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "/PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-875582027.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
+          "width": 1198,
+          "height": 628,
+          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

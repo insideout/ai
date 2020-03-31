@@ -2,43 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-03-13-4-steps-to-improve-customer-experience-with-ai.md",
-      "title": "4 Steps To Improve Customer Experience With AI",
-      "excerpt": "With the above-mentioned challenges in mind, a multi-step, holistic effort is the best way for financial services companies to ensure their AI and machine learning initiatives deliver a return on ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/13/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T11:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-13-hades-startup-uses-ai-to-explore-fix-the-sewer-underworld.md",
       "title": "Hades Startup Uses AI To Explore, Fix The Sewer Underworld",
       "excerpt": "Hades is a company that uses artificial intelligence to identify cracks, defects and blocks in sewers. Hades also is a god in Greek mythology that looks after the underworld. “Like him, we see ourselves as the ones looking after the underground,",
@@ -1011,6 +974,43 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-ibm-to-integrate-ai-debating-technology-into-its-qa-computer-system-watson.md",
+      "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
+      "excerpt": "IBM plans to integrate several key components, such as natural language processing (NLP), from the AI system into its question-answering computer system Watson from March this year. The move is aimed at “enabling businesses to capture, analyse, and understand more from human language and … transform how they use intellectual capital that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
+      "publishedDateTime": "2020-03-13T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/13/6386b39e-6446-11ea-8e9f-2d196083a37c_image_hires_085224.JPG?itok=5_XCVEqw&v=1584060750",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

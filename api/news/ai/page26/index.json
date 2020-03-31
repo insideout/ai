@@ -2,35 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-03-04-how-ibm-makes-money.md",
-      "title": "How IBM Makes Money",
-      "excerpt": "Major competitors include Alphabet Inc. (GOOGL), Cisco Systems Inc. (CSCO), Microsoft Corp. (MSFT ... IBM sells IT services, cloud and cognitive offerings, and enterprise systems and software.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.investopedia.com/how-ibm-makes-money-4798528",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
       "title": "Prosthetic offers real-time mind control of robotic hand",
       "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ... Michigan) One of the biggest hurdles in mind-controlled prosthetics is tapping into a strong and stable nerve signal to feed the bionic limb.",
@@ -1140,6 +1111,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
+      "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+      "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@caiomsouza/how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-af60b92b8068",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*9ry80VYyy-_OEsrsqdR5Kw.png",
+          "width": 1024,
+          "height": 531,
+          "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

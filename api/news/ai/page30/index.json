@@ -2,51 +2,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2020-02-26-ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds.md",
-      "title": "eBay now uses computer vision to remove product photo backgrounds",
-      "excerpt": "eBay is introducing a new computer vision-powered feature to help sellers’ listings stand out. Image Clean-up, as the tool is called, automatically removes the background from a photo so that only the item being sold appears in the image. It’s fair to assume that most people aren’t experts in Photoshop, nor do they have professional ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/amp/",
-      "publishedDateTime": "2020-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?fit=1545%2C765&strip=all",
-          "width": 1545,
-          "height": 765,
-          "title": "eBay now uses computer vision to remove product photo backgrounds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-02-26-artificial-intelligence-uncovers-outrageous-employee-expense-reports.md",
       "title": "Artificial intelligence uncovers outrageous employee expense reports",
       "excerpt": "SEE: Cheat sheet: Artificial intelligence (free PDF) (TechRepublic) \"Nothing shocks me. It's just how much is going through—that's what surprises me—how far people can take it,\" said Anant Kale, CEO of AppZen. Companies spend an average of $4,134 on a so-called high-risk expense report, which includes out-of-policy items or merchants ...",
@@ -1265,6 +1220,52 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-an-ai-to-make-practical-decisions-and-to-play-flappy-bird.md",
+      "title": "An AI to make practical decisions and to play Flappy Bird",
+      "excerpt": "The game of Go was famously solved by DeepMind's AlphaZero through a cutting-edge reinforcement learning approach. While Flappy Bird is nowhere near as complex as Go, it's a good starting place for any AI project in reinforcement learning. (Other companies, including IBM, have explored Flappy Bird as a testbed for AI.) The journalist didn't ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "publishedDateTime": "2020-02-25T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/25/de47ff6a-924b-4b1f-80d3-8478d306daf6/dp3q8848.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "An AI to make practical decisions and to play Flappy Bird",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
       ]
     }
   ],

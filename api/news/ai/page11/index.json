@@ -2,43 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-03-18-fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market.md",
-      "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
-      "excerpt": "The smart camera capabilities including object recognition for people, animals, and vehicles, were introduced with the HomeKit Secure Video in the previous version. The feature is expected to consist of face classification with identification for family members through smart home cameras. Other new features include Night Shift, which makes ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202003/fingerprint-locks-and-smart-home-facial-recognition-launched-to-growing-consumer-biometrics-market",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/03/27164821/benjilock-biometric-travel-lock-by-Hampton-Products.jpeg",
-          "width": 2000,
-          "height": 2000,
-          "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
       "title": "Three Experts Appointed to Axon’s AI Ethics Board",
       "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
@@ -1132,6 +1095,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
+      "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
+      "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/k7ekmv/facebook-facial-recognition-app",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
+      "publishedDateTime": "2020-03-18T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e6fb419fce7bf009dc0fe79/lede/1584379361591-facebook-app-logo.jpeg?crop=1xw:0.8432xh;0xw,0xh",
+          "width": 2000,
+          "height": 1123,
+          "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

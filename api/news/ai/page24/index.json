@@ -2,51 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-03-09-training-and-operationalizing-interpretable-machine-learning-models.md",
-      "title": "Training and Operationalizing Interpretable Machine Learning Models",
-      "excerpt": "Francesca will illustrate this workflow using Azure Machine Learning, but it can be also used with any machine learning product of your choice. The model deployment workflow should be based on the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@ODSC/training-and-operationalizing-interpretable-machine-learning-models-822866d77a5b",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/640/0*NAQ3Wm3Hn7-yQU-b.png",
-          "width": 640,
-          "height": 300,
-          "title": "Training and Operationalizing Interpretable Machine Learning Models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-09-patriot-one-secures-contract-for-correctional-service-canada-from-innovative-solutions-canada.md",
       "title": "Patriot One Secures Contract for Correctional Service Canada from Innovative Solutions Canada",
       "excerpt": "The contract from Innovative Solution Canada (ISC), was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the ...",
@@ -1133,6 +1088,51 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-application-of-computer-vision-in-precision-agriculture-farming.md",
+      "title": "Application of Computer Vision in Precision Agriculture & Farming",
+      "excerpt": "But now AI in agriculture is boosting this sector using the power computer vision technology, to train the machines for better productivity in agro and farming. Actually, high-labor cost and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vsinghbisen/application-of-computer-vision-in-precision-agriculture-farming-79b0600d5a5d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T01:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ocyh2KDUta4JcMB-FHMFbg.jpeg",
+          "width": 1200,
+          "height": 813,
+          "title": "Application of Computer Vision in Precision Agriculture & Farming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

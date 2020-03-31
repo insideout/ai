@@ -2,51 +2,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_news/2020-01-27-this-entrepreneur-is-helping-smbs-embrace-technology.md",
-      "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
-      "excerpt": "“We are an expert Azure managed services partner, driving the cloud transformation for over ... analysis services, artificial intelligence, bots and machine learning,” Richard said. Founded in 2012, G7CR Technologies counts brands such as Alibaba.com, Amazon, Digicert, Microsoft and Softlayer as its global technology partners.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/345546",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345546",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345546",
-      "publishedDateTime": "2020-01-27T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200127105642-DrChristopherRichardedit.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "This Entrepreneur Is Helping SMBs Embrace Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
       "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
       "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
@@ -1293,6 +1248,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance.md",
+      "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
+      "excerpt": "As one of the earliest cellular pioneers, Japanese carrier NTT Docomo today weighed in with predictions on what 6G will look like in 2030, and they’re intriguing: 6G will bring AI everywhere, and transform 5G’s “best effort” performance standards into guarantees of hyper-fast speeds. Docomo has an expansive view of AI’s role in the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/24/docomo-says-6g-will-bring-ai-everywhere-deliver-extreme-performance/amp/",
+      "publishedDateTime": "2020-01-24T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/docomo6gh.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Docomo says 6G will bring AI everywhere, deliver ‘extreme’ performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

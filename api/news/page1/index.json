@@ -626,51 +626,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-30-8-technologies-and-how-you-should-be-marketing-with-them-in-2020.md",
-      "title": "8 Technologies and How You Should Be Marketing With Them in 2020",
-      "excerpt": "“That means they’re more likely to use a conversational tone, long-tail keywords and questions.” In late 2019, Google updated its search engine algorithm to adopt BERT, a natural language processing engine. Google’s aim is to move from “keyword-ese” search to one that feels natural. Instead of “best places to shop,” people now ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/347865",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/347865",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/347865",
-      "publishedDateTime": "2020-03-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200323182130-GettyImages-1191303754.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "8 Technologies and How You Should Be Marketing With Them in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-aitxd-artificial-intelligence-technology-solutions-inc.md",
       "title": "AITXD Artificial Intelligence Technology Solutions Inc",
       "excerpt": "Dividend History information is presently unavailable for this company. This could indicate that the company has never provided a dividend or that a dividend is pending.",
@@ -1090,6 +1045,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
+      "title": "Why AI Will Create 'More Human' Executives",
+      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "publishedDateTime": "2020-03-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why AI Will Create 'More Human' Executives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],
