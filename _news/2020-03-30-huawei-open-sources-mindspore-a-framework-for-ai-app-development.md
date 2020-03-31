@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/"
 type: article
 quality: 93
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -48,6 +48,6 @@ related:
         width: 650
         height: 488
 
-secured: "RTrOSlWcZgWIhIhmvjyAmQt3Ls9i0k+VD/s32kdzaddv3oXllBOI2gjBfOY13YR6nGVeus05jPkLi/X4JUr+e5P0nxm/oruW/zmQY/KeZj2+7DoC18lvi6A2HSi4NL+gWmgA2JstybvKVNOZhGVol61tdJaFZzWoFucrKSpY1/1HqG3cQnBflUIlkr4hBxXcSnCs4nIoGd0lwNzi8PJi80bFBrtMbBKm1k1VMfOZysPflBMDkkMgJyZofx5r3ujXyEqWvD+SIeLSIbbpOil++tD/z3LG9eYyyP4KbBKDSvxfXjvZdENlR8gkK20R8s/r0+/AzMfLwe8XbXcm+zDIg4WbSMGWZJcYyDd975om6swodybw5vAtEknLrKHKdPDvY2fIvjjpB4EXz5oqYAs1enrzRY+JudIfbygU23tSfEe3Nfvgx54sjhPCRxV1NLV4gueUm1vE2DVD0DNxfFqaCUOKl8U9+sujWc8QD2hwZig=;+O2W8gnUqUQnVcYWndQ+3Q=="
+secured: "x+Md9ukWbIMiVMhfWUdPz19PC2wlJElIJCZtCCHTXMXq0bEkPupHmGYhpBKyX8AVjnnsY3nQyzAvJ0jAENT0kflGKfI43mbp5ICxBnxVl5HZddykp639Osv4DNPAkd95kah1O8d6ctun6EpXVXqaY49WHWTgp+NijWnpaak9wGFduRHsilKQmAqvKzoD2WTOI1KbpCnNWYTGCOOIGZs4ku/BRG0QE3rYF3DWxhKt5wxKOsiOFIammYgkld+at0w4abowUx6bW8kQgcwKebrHgb125iz3W+Ll/JJwIsWXeu5+7Ps6LCFofhhlaAoBLz1c1jXnEAudKCFxfknvwimx9jCOFJxXLjKjEjOuK7OLrZ4dDH5jbXLSoD1Z/XaHnucwVpa062etGLjN0XOwGM2XO6yzkeBupTa/ZGWik+pqP0utkbPLZy5AyDWfdzoC9rjWh0yXQzF1/XCAxIFupRtRl3tJ7E/Bjfstap9N82pFIEY=;S1sqJ5oq7l+58fKqxA++Ug=="
 ---
 

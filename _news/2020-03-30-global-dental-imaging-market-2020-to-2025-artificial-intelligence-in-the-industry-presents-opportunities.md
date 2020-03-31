@@ -22,6 +22,6 @@ images:
     height: 419
     title: "Global Dental Imaging Market (2020 to 2025) - Artificial Intelligence in the Industry Presents Opportunities"
 
-secured: "LnFPtJIVu1LmP/o6NdieSqPw7iF6D6sg0nkW+vhsYuxWgLyl8mFl24n3TVWuJPipONSkelIPSy+XgqEaGF3qlvTOfj8S5qWnPYu7S8OyPJZ8vUGyOht+BRvJN+rUp1Azhb+/HTmlPFn94AHa8P78tBT8WpSSO3/oqJsDkreYuMUl08EHpDJ47fEY6IfUbGRYkwveWq16ZeDxQuyiZ/5LhkCwzZDn3XDyhwhP3S59Yt+MZTW7P6pnrxSUcfm/AjL3lSgbQL9/jxGpaO6IdUBUUuJQ5pNTeT+EP20td+l6hbzWefmC2KCPbP+u13FrpnvL;w6da3oCg4fgSKPEGeQjlow=="
+secured: "rzXSWpFlUEt7vGESQARHFSZnOMha5j5eFgTlms7qzD+X6Q4lHqKPcZpYhs4KLD6xzG7WvEKGLFME/sasOx6/0TkK00RijN6xGw+ENCfZIBMGTbVIKsEBXoLoa3DBRvSc4Dk+XZr4GIUDeFExfBjInbAGZ+nSy5R0cGwi1BIgAXHS1gN/PHBczWTsvrH4/u3fIxZzmiNovejBI5DotFD27pNUQMNwvcl9zI6IZNHkwSM70QW2rgY6BgO42cmf7KsJl71d8djxRMqJd9COongj7RFmX2bHa9g0IK0XhVGQV1gHKposhGJAUBoC5oLR4t81rFJ34BjX0uXq+xHjO3BqH7O6zG7jsXwTVijgH2uhYe7WclYOPwYcme5tWD1tgKH+VjxbOnnSQGjFvNLFPVFLTTIzWaT3PR2I14GLfZ5zKVyZl6nqG7gRM4OylcjaXVbdsRBr/dQwcgptuzZ4pNqh4K/zCXTsEm8MjLbWs4EGBTM=;4I60AHZ+sm9ZFhSd+PI+fA=="
 ---
 

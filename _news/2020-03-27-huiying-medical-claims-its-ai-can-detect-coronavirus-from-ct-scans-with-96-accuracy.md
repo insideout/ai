@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

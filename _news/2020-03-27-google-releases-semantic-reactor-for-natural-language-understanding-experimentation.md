@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:

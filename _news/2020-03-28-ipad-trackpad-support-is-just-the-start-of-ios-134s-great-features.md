@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

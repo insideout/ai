@@ -99,6 +99,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
+    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
+    publishedDateTime: 2020-03-30T22:25:00Z
+    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
+    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 53
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
+        width: 1000
+        height: 667
   - title: "Microsoft sells stake in Israeli face recognition firm"
     excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks, and use-cases. AnyVision currently develops technology for security and surveillance ..."
     publishedDateTime: 2020-03-28T08:29:00Z

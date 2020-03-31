@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Microsoft sells stake in Israeli face recognition firm"
-excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks, and use-cases. AnyVision currently develops technology for security and surveillance ..."
-publishedDateTime: 2020-03-28T08:29:00Z
-webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
+title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
+excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
+publishedDateTime: 2020-03-30T22:25:00Z
+webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
+ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
 type: article
-quality: 39
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: GizChina
+  domain: gizchina.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
-    width: 1350
-    height: 750
-    title: "Microsoft sells stake in Israeli face recognition firm"
+  - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
+    width: 1000
+    height: 667
+    title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
 
 related:
   - title: "Microsoft sells stake in Israeli facial recognition company"
@@ -97,21 +99,6 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
-  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
-    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
-    publishedDateTime: 2020-03-30T22:25:00Z
-    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
-    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 53
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
-        width: 1000
-        height: 667
   - title: "Microsoft divests from Israeli facial-recognition startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn’t substantiate claims that the startup’s technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers ..."
     publishedDateTime: 2020-03-28T21:42:00Z
@@ -127,6 +114,19 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/05/2018-10-24T101456Z_1489333581_RC1318930250_RTRMADP_3_CHINA-SECURITY-1024x683.jpg"
         width: 1024
         height: 683
+  - title: "Microsoft sells stake in Israeli face recognition firm"
+    excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks, and use-cases. AnyVision currently develops technology for security and surveillance ..."
+    publishedDateTime: 2020-03-28T08:29:00Z
+    webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
+    images:
+      - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
+        width: 1350
+        height: 750
   - title: "Microsoft to sell stake in facial recognition start-up AnyVision"
     excerpt: "Microsoft will sell its stake in AnyVision, an Israeli facial recognition start-up, and said it no longer would make minority investments in companies that sell the controversial technology. The decision marks a policy change for the Redmond, Washington-based software maker, which has aimed to shape how the technology industry approaches facial ..."
     publishedDateTime: 2020-03-29T09:16:00Z
@@ -150,6 +150,6 @@ related:
       domain: seekingalpha.com
     quality: 19
 
-secured: "yAsRIf2p0wER3rBnj0ccMz7vgImUDRw/Om4dEZSTq/KVed0ne8wUlJLtl7AezIWR+NZqYVpVJCsXMaaNtob81hkOaKCSiZ7s9XzDjflrwGthfXRlyML2XdcxZIaofI0iKXlFIWTSf4sTHtsDIZVVzCLKyHdpphk7eOFvaq/73WtH4V8A5fGClf7Rl0YBynpvdOWAaLLyYLs9DpScGjaXvRyADMgYDGl4HEq8M/ymP4slI5VRwDrwhPSnjLel+qXEBzrYXxzWMhNZq+ra4YOFDhBar6qcfbuCX4icwzHEMBCK0Goc1ZksSjqI3xLHwrBysVyyIXX2qpVKkLpqjGRheOSV4VaCx81aalYb5KXtRIgXpdD+V2eXoALEauBa65GCgIqvXe5DbcwgSpLV2IzHE08JSlMh+gm/SOry7SRKaCJAu8swXC7jBNwxWP8Ej5oU1GzBSDgFDEaJY3BIlVHklWk6sP/DPKUtkkAxqUxBZyI=;C/ef1hJBiQqQYj/r5sHnKQ=="
+secured: "//4oEF0tHLtOPIRK2DAccKj8xNA7wVTjeTzDKnITA0nVdDiNFSF4GLWgs7Upkilocuafbwz3Gw+Kj5P7oEJNeUawjP+h3PxBNZu2PKwld/gilaUuTO2HjfZbEl36vsWi0Uy/+3hGFYmHV/Jjowxg/cmkSiennHmZQa+9oVMu6ZABAnUIKmggBQuH432FKVaqSlaA3v7fVLxbnMzGuLDuJZV5qDGa6CfdUzzGN0jUTbCKkh/yxqmnbd28Kftz5I4cRdC3TWGMGL6rGornY1GudR8toJLwV/T5+pieAVJf0kjphCLLiRgxGIwUmFnlHweI;iwKFsfZQE2biCnXrKI0O4Q=="
 ---
 

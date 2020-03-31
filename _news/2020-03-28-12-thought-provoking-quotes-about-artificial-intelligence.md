@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provokin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

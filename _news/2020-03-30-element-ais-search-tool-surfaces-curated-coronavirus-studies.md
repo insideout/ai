@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 768
     title: "Element AI’s search tool surfaces curated coronavirus studies"
 
-secured: "AoJAET9AzkY2pG3PKnEKlR0C2ncVcoXZFUsjlNxl4ozMjS1t6iKXHON9p1Z7kOLLy+XN1JnLuvaKmvWYLs7FWpwl3/ckw7n4m49isj8WITHQHByyOFSZDh6CFNFwhhdSXfr+KV3khkHGWqdZ9z2e+qbKpVWFZ8e46QNEqXK5xfPzr5FfKtDfeGnQdv4Zq3pMLwLDFXfQBzLQjcUnG9jpYdKa6cqdeQTTq/mYcxujW/vbu+iIDgpKEY78J55Crzu0GvTEmVhLr1QtzeSo6XNjZLjbS8S47BAkfoWivABbz2sN0SsqfZsJXQEgVBZC2/NB;qWivrclPddtT1ewFie/auQ=="
+secured: "/c2w74FVlmuEERiclZ3AibUvgdRod9QKF5hUdqeqpphBEQdqoRQigWiUYjQkjnl0F7belkMTZWUf078pEFtVDlfO1sCqD6mEXjKIkdsPQH0+JmqCVQPP+O076/RESKumezojCCOoJXbH3lal0P+RlAIyw8Bnq6bPBPZ7kmmDl4ZO/aeU+mVXxZoHpgLmqyDrfpwHbxNV73xuBzp0BVgYUFgpw85GvbctrkQhC4h773aEvZfwklVjEVJYdhHX+Dom9bZH9DALxBwM9S9XSjErPqmFEDuJMZJ0dJv2Q5/VOuq/EAtWojrjKQtFPTvqOvdWkXv9hv9JR6ZmfrodRN8DS+S3FFNn7fNydSupVDcHk6JKZtOqejyDUZJJU0U9hZwjiAb/xiaW7qyByHretEUPZ4/xwVfx4FfJo6zPHAFFVrYpsdmVHNuUmgsejEQP8YlHwZEMgiu00jMQCWKaTmrvvXoeIVT5ehxXIYJ9Bi5uVEg=;ZQRhd9olzQ+1ucfwcacGLA=="
 ---
 

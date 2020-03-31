@@ -5,7 +5,7 @@
       "path": "_news/2020-03-30-element-ais-search-tool-surfaces-curated-coronavirus-studies.md",
       "title": "Element AI’s search tool surfaces curated coronavirus studies",
       "excerpt": "Each signal informs the system’s predictions such that it learns how various resources are relevant (or not) to a search query. Natural language processing enables them to understand a piece of research in the context of a data set, while natural language search — a specialized application of AI that creates a “word mesh” from free ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/",
@@ -318,7 +318,7 @@
       "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
       "title": "Huawei open-sources MindSpore, a framework for AI app development",
       "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/",
@@ -1013,7 +1013,7 @@
       "heat": 104,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/?ss=cloud",
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "publishedDateTime": "2020-03-29T23:17:00-07:00",
@@ -1047,7 +1047,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI"
       ]
     },

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavir
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-big-data-stocks-fighting-coronavirus-on-and-off-the-charts-2020-03-27?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 512
     title: "7 Big Data Stocks Fighting Coronavirus On and Off the Charts"
 
-secured: "01MDFT7Owk6/EyGbL4GY4PlRM9gzrLVez86YVeby4IRvKSBVShWipXJILmpPFFSOKOp8bJMJ9yb8ECf83Sp1uHx3SRVY4lRGAL7hhCRd0TBJ7xQ+eOniDYWj77oTpwMbfNtDEYrKt3AUP1K17D4IiGhpyom9AqlGw72p0tEsUJN6k1RTTmnKZmP72JDWh0K+lqs0pLR7t9FJCucMj4KXsI4Bp2ldrSmvX3Y3ol5ejoEMWf9dnXtZjbVhglj/C0W2Ai0yuqPnlkW6LVKObe/pae9ylowBT73cY0EHXlY0U2dTw78K2vhMjah9+xZE6dlF;JGjXv85xAsl6c5cuadLZmA=="
+secured: "GMn/QMb4E5qCKDKw7xs/icE5LHbi6zMze9vSmRe+72fN07LdSLXY6bEzM+J+7FhySBQ4PRNc8uO4SDbYWNWuWjKT+K4tMWzovjo02qvjhoLVc9ZcqIA2/gddkUmzAWIRnky72dperlLBFxEXvFIahawgyXWIwyp0Qe8z05YVS3on/AmfT1aTdnRV+CR+fgg2VO0UiK+8ojxDam7iFzATKZVZp93/w3XBE93ir+oNqaf7SEU34YN53SXEOq9fsLn1JsNmI9hiBpcz1U165BCeOnaxntOAraK0/XkddH9raVpYX0ywZamkMOsIZ3reNAVl;afUgTQ1Fd6bZCbsh/rEXFA=="
 ---
 

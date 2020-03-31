@@ -8,7 +8,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1170781"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1170781"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -84,6 +84,21 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
+    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
+    publishedDateTime: 2020-03-30T22:25:00Z
+    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
+    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 53
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
+        width: 1000
+        height: 667
   - title: "Microsoft divests from Israeli facial-recognition startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn’t substantiate claims that the startup’s technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers ..."
     publishedDateTime: 2020-03-28T21:42:00Z
