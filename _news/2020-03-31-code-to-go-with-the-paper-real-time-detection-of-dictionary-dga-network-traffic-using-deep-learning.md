@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Code to go with the paper \"Real-Time Detection of Dictionary DGA Network Traffic using Deep Learning\""
 
-secured: "lbRhw3ESaV+x+sHAQIWdWXD712jyhXto9wGyAqyekSBeNv7dNWBXvJR3oCvST/5B4/8zWolUgQzPgpFt/exWrneLCxqSUZCERdfrHPQPufLfyfVT7NbOy5d+7iz3dxGAhOY+bhDs4HYJ5ITfMFP7K1n0n9kLQqUOykYnt9tS8xkQx0gRoH9OVwSjLqXELf8vQ55W1SGUKLGd43LKhWxzgsnjZrpqexP9r+4+hHc2MtLbiF7Cj/4qvpnMbDYbyEuc7e+r6VwPr5fXlJtEUtLXk22zgCodKpblxos4jY+CC0xdCLSrhVzY1T8BumXw8EEu;C9vrTmgENbVLwKtnUtzu8g=="
+secured: "nt1jRZR6RM1XmWv3X1elaXLaGGLshtdOFnBmw9nmlsDFJW0ayyrVvwmKxYzJUnCYDBJN9sBoTM72JzLpGXnp1yXpAztZ+34g5h49Plyuq20HDL/iRlaKi4apnATqqIoPfbbbahSPJ1cbzaCUhzM8mcUblIRBLDIKT9GYqHC8emPKhwqtaM3WoKY4SE7uW3R7NLR04eb8iW4dM4gpfOdHeuTNEhIFWInxXUNDxj+3fkLYIpHfh22HKC+DySeOVbO6I3maE3T/3CRElAKTgjgq/GtISv45ZWX5nQb+Vfr4lDlPTllACgW64RBSe5zJLNmE21WiQt9vXP98fsXuoa5cbyHFbIAaB+Wq4Z2uAnBot+iAR5/wGp7tte1a9BfGUltRgYMHxWxAfXWBb0DKbRiHlU0OUZ1f/+0rvyvVyOw4m/knyIGDtdCr5OCexQXaJfycnv67CIuAAGqJu+6ldpRFj6TYm18nye9pS79PiPuwowI=;cEp4oAfkSLayoN4e+h4g2w=="
 ---
 

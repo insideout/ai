@@ -61,15 +61,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 31
-  - title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
-    excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ..."
-    publishedDateTime: 2020-03-26T10:12:00Z
-    webUrl: "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 27
 
 secured: "VjIpQCvMLItSqGcIHNsMPeEd2k0UIqrUsnUtXqz1KtC5f2dGMdaByXRsmPyGvLdZP+RneFDPSVavT/S3YItbnMPTP1DkISa690S1vqhBXBh3/ZvN9AYkcn9fQNUfXTF30zhofoIJogerm8wIEqFHb6db8N2mtgDCNb2DD847JXcocmgPjA2V60TH1y4P6Au1mpnJNG1Eetr+/A7lHQlcftNE1Z72o+4YpxEY7/oHTEgsNmV8q0FNBoGeolEoO+SI9xQN6GJBxw/3AAQz6d8Ff4OrQHidYDtrRgwboixBmTTeduoRAxpoe5UDAZbVk8F/;8cXACfsRIKunuLzUbyeR2g=="
 ---

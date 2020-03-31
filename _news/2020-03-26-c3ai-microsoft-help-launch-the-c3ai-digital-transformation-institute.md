@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 31
-  - title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
-    excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ..."
-    publishedDateTime: 2020-03-26T10:12:00Z
-    webUrl: "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 27
 
 secured: "iy2eA7Jmjuqyimjp717b5R4pk9s15zzTlkoknfjIMgubIe1rTEBUJyq7WwhjlMOtlI8gdY6lvpalQxkeMYeOU2gviZz0nmlW8JxZMhLhVb36yripskTEgt2VMN9IHBP7d1XIa0UMxw6FddeRNHuYrGERIgV1DkW5tkv47HSifr03BMGxJAroUbAio/g67B9GVMGjFPZnOUtnNiu/+/hGDwc71fljB2BFzJT6Xu396CgRhzJpUrZY7VvI0twome+N2IZVTZdtNhCnqRYAple/ST1wR5pWFXDYBBrjRCOuUys0w+4pxPSfcrBgV6dA8rcJki3taZ3WGY12Sp+H2VnI8v7CefbvjQQCJxO5grNAtEK9QYErOXhJOm4+ga4yjc5s7rMRZlMtG1RSS3eDSANFsU36WTDftZeJJ8WLukZ0fdVo2OGa6drcyz0tEQexxGPofc517epmwc2hCwKYE/wZ64OrkGwNKRxWbzqA+kFYgO8=;U5e0DUNLgHVfeTs23XYjfw=="
 ---

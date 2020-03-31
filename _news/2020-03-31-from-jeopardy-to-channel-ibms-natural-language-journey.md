@@ -24,6 +24,6 @@ images:
     height: 352
     title: "From Jeopardy! to channel: IBM’s natural language journey"
 
-secured: "7rT4G1K3vZPKGItb/DdrJOlTFEZ51XS+ztb5ZvDu9E/plFoHzo0wJOvUaU8HYsTLERX+Fy3QhV4C1mnckJRUjRxw7EPc9VVm57XhArbqLB0Ve8DQ4YEZ/ZNeYbIhjTKMs3w4el0qz5NAb+hAkjbsZTGtnhLb39mkv3pHys+1vrGDOoqfnFOHTj5wRZgfWRjvxe/vsyvc03ci9xV7Dltese+HRc04H8mJFs5JYGCsBiNTwt5ZfjFZW/ZTBAlOLarDR1mDmA+lFCm48Jtq6RnmtRAyBBvfp9N8HTAtpJeMfT/JWJ+e9v/l1ElsuNfNQSbr;o5TbkU+D+b+79CJYJGAHuw=="
+secured: "l7dFye5M2AHsJ5FvYSEuyXliD7sMLy0U0dTUFT6Duq2zsIVui6jHSEcKVNgzcRjJYCRXRkiDlVZBCpT/W4cFbujSprXwDmgDeIoY40qi/lEWOS8mLG+P3+AmvEk5XCr+XIz9C7GJDR6OzGYXGfSMYYzbVuL29m9WAtfbI47NK/5maOmkkQSbrHvRfheBr8WRSKEo/VeNMBLFwpPF1q4qJveZplVrbZxarVcTlrU+6BgYTg1OtD6Ds1VJw+o2f8UB8joaT1R+dPydhI8lFxdkvU3sVRQz5ryzM0T4/ekHsnJvuLSivwfTT8ZpQvRLoaGil0NqZ9QB0v6IwEarWCcTL8UwPs7knxicjLq3e5/dEkdXAOTxvjzuVwPsZ3nSIsVpAihiF6TwrvIGJR0q2cnSeUEIMFEiVSlo88UFuLVZ8tme/ZmRpWeOZNoL6hIiegoXvl6Y1rRzmiKiMyXYOwoy8/LPWIfWyPpnbceIiElEG8s=;Pf5B96sVfF040G4Wtf3iNw=="
 ---
 
