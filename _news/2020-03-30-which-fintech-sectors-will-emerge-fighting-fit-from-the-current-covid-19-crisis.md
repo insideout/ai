@@ -23,6 +23,6 @@ images:
     height: 324
     title: "Which Fintech sectors will emerge fighting fit from the current Covid-19 crisis?"
 
-secured: "7bPtYaQGkV7FAgY53u3IO63EURDyxojAwxt6vG3MEPsbbSkQXARS3fMD8n9wOgY3qcf5FmNEktWK7qxAkmzORyJyXuBvn7utx2j1+uB9pclO85GDu91g/cL6kooWE8lJrEhZ8ryKOkc/HHF5x6vPnNJBg1E2PvvkMrNecSXRRiBTxCOnuLjQO8oGGFzgpvoGzgkajW9kA+Oyb4ZZMTkC/5HMAr6lMRpzseVV++hqkeamGd1oGK9zKhVKY6hX3fhrzztiuDkiBje9l+7MFufRdH/LpMno3Oixdur0ww8JoBqq3cN/1D5rwccqic2eGK5K;QmBWa16BeIVD1xk/1buEBg=="
+secured: "gMVqhpbmOX7b1WN0ku+UnFJPlTXhmLScodwKtExildFEzjTaLP6kfrIbCVUVf9l2ZnMRNpHiw2ittJTiWcFy72kCb2MNyR+Ul0z+WK1IvRnyxFMXsDCvdcSkR3+l0yTp7ws316ycYGBYeDfpZlsmbj9hIkLSbaxd1+u+Pvbzw9tWNBMpkbWOiCqzRMgeClQzUMGuzj/sFHzdfPM2UVydE5hh8whmWlzf97Vhwj72PlfQ/3U+/2JyemWs8aIEqqse+V7LMHkw0qs+9XpWaVvvUbgFL3Sdzpv/BPR434q3OOk8efwPOrO0YSa3FphNDUAZdaY8KdrKUqGMNBf7z5BEQwfgPm/RQlzJk1QQoo0tl8KInENzi/c3KDsQCM/IHdO2AQ7KwSEQyyGtc/OoDiA6cWyTWRywbFEk/IeSH6H3FK/m/DJuqSjJ3nUMZ99elXwpX/NSNaeZXG3AitrcTbvCqxCHbfODAtWQPoeJEIvgBqs=;XquftUI0kQzeHHZTh3D/Ow=="
 ---
 

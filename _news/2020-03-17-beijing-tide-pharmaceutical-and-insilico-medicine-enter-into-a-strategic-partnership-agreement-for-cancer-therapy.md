@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy"
-excerpt: "/PRNewswire/ -- Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial"
-publishedDateTime: 2020-03-17T01:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy-301025103.html"
+excerpt: "BEIJING and HONG KONG, March 16, 2020 /PRNewswire/ -- Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence co"
+publishedDateTime: 2020-03-17T04:13:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic/article_f1f14c38-3185-59c4-98d5-ea651d7859ab.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1134498/Insilico_Medicine_partnership.jpg?p=facebook"
-    width: 1920
-    height: 1005
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/75/9752459f-59a6-563c-9b63-499429e40144/5e716f6361d59.image.jpg?resize=400%2C225"
+    width: 400
+    height: 225
     title: "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy"
 
-secured: "P6FwT345KUMOfqV6wqb8x2+ZSD1H6zH1zVNOdvntR+wxYdp17IKKTVcQybrWlb3aQSalVxNSdANQVpToUJsiVZ+O2QmUqBRNpQsK1GB2clKLGM9vsfS6Xu6QgOwUJdeL+xJ90wT16348SnC+wbIkIC4RChuMJ+74lY4I+4aD4hiYmVO1G2sKRiqDhBKvlmXPxISN9K0vSl68VVLglyW/FZA5o3R2HTdDBT5FwV0Y8n0K5qxi1dZ9fqYRNYkQacWJ6S/kJxPIyrgzb1mpssqknSsNwACgeYP0rD7i8gfLXzZPetoCEoGZkK1oNQulrl0qicTc//lLtamIAglRRakHk6SDdJpLQVUk/Pgo4YCqFeI4/3b3d05aC/1aCTmDUqrWkCx9s//QCPmwXKkhBQx9iglIsAXxZkz82/C0aPGGF2C7SuWVtfilojtYGizv5cO4FsOgSTfeza6qFeSU9keN3MsI6TBTg/B8uTZwkPrCefs=;Pn6btK+UWbRN5rPfcIa/lQ=="
+secured: "uOZOJ30aHbp+Glq+v/dvbmrcG0mhC9kQ2tlWte2UiSSZFF36Jr1PFaN954N8sTteNwMM4nZopY7IbsQl3kwDZkdpwl86zfjf6OZGvIvIRdVlYM925isA/6k4bdj9Kwu1w/X4APcdr/JjEh5/LriT6V3NNQcRB5cXTxh8T/R2+UZ8+yo0CMYFKGsadfwRPL5z27+wS08MH1+pV6nYcpNOM7oa00UPMUaxCTnVphgdnHl7pRR5sGvrzzsKQPTItDLtAF5pHKa0LVEpZuI8p1plbDA2L7dcvnKU7yat19P0YKiylAtropbcwMzajKUi8JPA;LhzM4R8MuRZA3BMNjaPRCQ=="
 ---
 
