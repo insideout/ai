@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Washington State signs facial recognition curbs into law; critics want ban"
-excerpt: "SAN FRANCISCO — Washington Governor Jay Inslee on Tuesday signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos ..."
-publishedDateTime: 2020-03-31T21:25:00Z
-webUrl: "https://lfpress.com/pmn/business-pmn/washington-state-signs-facial-recognition-curbs-into-law-critics-want-ban/wcm/559c2fc2-1624-4522-8263-6a65115f3251"
-ampWebUrl: "https://lfpress.com/pmn/business-pmn/washington-state-signs-facial-recognition-curbs-into-law-critics-want-ban/wcm/559c2fc2-1624-4522-8263-6a65115f3251/amp"
-cdnAmpWebUrl: "https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/washington-state-signs-facial-recognition-curbs-into-law-critics-want-ban/wcm/559c2fc2-1624-4522-8263-6a65115f3251/amp"
+excerpt: "SAN FRANCISCO: Washington Governor Jay Inslee on Tuesday (Mar 31) signed the first U.S. state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. Facial recognition software can identify individuals in photos and videos ..."
+publishedDateTime: 2020-03-31T23:56:00Z
+webUrl: "https://www.channelnewsasia.com/news/world/united-states-facial-recognition-washington-law-12596356"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: London Free Press
-  domain: lfpress.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11534464/16x9/991/557/9ce4e6e60449848d51d612104e32c3b3/au/backers-of-legislation-in-san-francisco-to-ban-use-of-facial-recognition-technology-by-police-or-other-government-agencies-argued-that-using-software-and-cameras-to-positively-identify-people-is-not-r-1557884483407-2.jpg"
+    width: 991
+    height: 557
+    title: "Washington State signs facial recognition curbs into law; critics want ban"
 
 related:
   - title: "Washington State OKs Facial Recognition Law Seen as National Model"
@@ -49,6 +53,6 @@ related:
         width: 1200
         height: 630
 
-secured: "B5H7DCPKGmb5NBl7ETy73HxoimzAUk6oRfaVZsTz57QPgexRG0JIx/9Jb8QRq/exezzOI5i8WQ5+4bp5f3kpNDi4XR9SOyA9Kkmsk0YDxCJEjKTqU2eh9ew8nMocOtvE6XmDaXyaqN3whA0AQZfMufMykjCFlUKoOJ65AvOxyUqpuUvYz6afU0XTiLMo+UAyt3RphVgGJpX+3eqNIsWNbbWAsJwdjAjG5qjmmar252YCpnBxKcYdL7+d0yy72K62Ah6pTjDwOgTT6w+G9OFEeZH6iXFO3rzqVBUIrWudHhoJAUk1dLUduVJO4ZsRWzlb;XAv13dGnHe8DJ1U9e1dM0w=="
+secured: "6Akr9b/qNlNwxEApLxrflxlwMiWHeUpQ7701cVgghwOanwN63hjipDfBJo78XJwg5BsofPR8ElemTrn5CRPo1YXJTelSRmT6bTKvI0Hh2E9c6NDRrLslK9tdr3w7fcWaGbhppfOG5imYL+prUDHeq5kEnZ4gdble5CgLp0AgxRyIiLzCN2pnrhALE/gYFqW8uyMor2I/H7/9WSTWDIakPQOqY4B8Dy6wzo6vhYf4XOlc+MBjtIvQBFZWr6D9LNpKRt5lsQnS0xTl2hK9onmUNTl3zMIfaYEuXzYNCpFwXBJFLDT/IBlO2JRHEUj0qiMo;3eSoyZqyUmkcn2ifD4Vq3Q=="
 ---
 

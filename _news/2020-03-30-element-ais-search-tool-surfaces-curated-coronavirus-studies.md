@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

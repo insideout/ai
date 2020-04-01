@@ -21,20 +21,20 @@ topics:
 
 related:
   - title: "COVID-19 silver lining: experts predict innovation in medicine, education, remote work"
-    excerpt: "Artificial intelligence, for instance, will be used increasingly to triage patients ... Olivia Chiu, a speech-language pathologist from the Toronto area, has started using video to see her clients during the pandemic. Chiu said video therapy is as effective as in-person visits -- as long her clients have a proper internet connection."
-    publishedDateTime: 2020-03-31T08:58:00Z
-    webUrl: "https://www.ctvnews.ca/health/coronavirus/covid-19-silver-lining-experts-predict-innovation-in-medicine-education-remote-work-1.4875400?cache=yesclipId104062%3FclipId%3D89680%3FclipId%3D89531%3FclipId%3D68596"
-    ampWebUrl: "https://beta.ctvnews.ca/national/2020/3/31/1_4875400.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/2020/3/31/1_4875400.html"
+    excerpt: "Artificial intelligence, for instance, will be used increasingly to triage patients ... Olivia Chiu, a speech-language pathologist from the Toronto area, has started using video to see her clients during the pandemic. Chiu said video therapy is as effective as in-person visits — as long her clients have a proper internet connection."
+    publishedDateTime: 2020-03-31T08:00:00Z
+    webUrl: "https://www.660citynews.com/2020/03/31/covid-19-silver-lining-experts-predict-innovation-in-medicine-education-remote-work/"
+    ampWebUrl: "https://www.660citynews.com/2020/03/31/covid-19-silver-lining-experts-predict-innovation-in-medicine-education-remote-work/amp/"
+    cdnAmpWebUrl: "https://www-660citynews-com.cdn.ampproject.org/c/s/www.660citynews.com/2020/03/31/covid-19-silver-lining-experts-predict-innovation-in-medicine-education-remote-work/amp/"
     type: article
     provider:
-      name: CTV News
-      domain: ctvnews.ca
+      name: 660citynews
+      domain: 660citynews.com
     quality: 36
     images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2020/3/31/1_4875402.jpg?cache_timestamp=1585644053357"
-        width: 1024
-        height: 700
+      - url: "https://www.660citynews.com/wp-content/blogs.dir/sites/8/2020/03/JOHV10756070-300x215.jpg"
+        width: 300
+        height: 215
   - title: "COVID-19's silver lining: Experts predict innovation in medicine, education, remote work"
     excerpt: "Artificial intelligence, for instance, will be used increasingly to triage patients ... Olivia Chiu, a speech-language pathologist from the Toronto area, has started using video to see her clients during the pandemic. Chiu said video therapy is as effective as in-person visits — as long her clients have a proper internet connection."
     publishedDateTime: 2020-03-31T12:49:00Z

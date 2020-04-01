@@ -15,8 +15,7 @@ provider:
 topics:
   - AWS AI
   - AI
-  - Machine Learning
 
-secured: "dpS+QrYer8wpixXqIK4cHrYL+Wfd5Ac6I/CjQTfmRBssuWO0iLBt7sJpNXGg1Uo15c/0cWnuGYu7GHp7eFaYB4IYAiNi2JmNBAW8gkTt/YnGqDqkT7BPeHa8VW0SYzAjIRs8vx/i2VXBiDJ8k2D0Uwuiqx/t5OS/AU1iqyOj6jkgj5AOxMZJ/lGPJQ+N71+uuFWdo14QxLMgodeC4E/f5SM71hQP6bm3UzOqLXXn5ORdz505X1dk+S5sOD8uJ40UjQLr3q1VyZRXxfFEAw7RoW6LAkeapyJUDM7lr0UD5DMBN8XxDfgKOJ8WPbbWKDT1;5jJfaJWxUvYcf0vHSpbsdw=="
+secured: "uMgvsUj5j3Yt5T5okFp8CetoSpCRspZpOzfuOnYgdRfpNHHrwiWp02zagte4Re6ZunPtbrx3LLHhdPDj46697hTljR1HdC7qrAI0Ep2P0w3S6szS8A4RnkluTy3sb9BDOsF1tQTotj3Nxbtsm2trob/vbjWyu96OhSFV3PLRlruQQap29oER3fNJsb2XhvqLQdDAc0UtOGtCS0mvyegwkBS2heu5WnNclvz81f89ui/mYxY7j7wKiO9rNWDu0SmiJRhKwvyL+bNPZkqBk6N13m2Pq6Mf42b3iSajsxyy7kuy+oKhix+HERHg+yC66uRP;y8zGIDrh96cZIMlPYRzuig=="
 ---
 

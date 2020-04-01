@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/"
 type: article
 quality: 95
-heat: 106
+heat: 105
 published: true
 
 provider:

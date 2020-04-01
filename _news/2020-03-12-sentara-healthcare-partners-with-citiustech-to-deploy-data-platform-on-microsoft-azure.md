@@ -3,23 +3,23 @@ category: news
 title: "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure"
 excerpt: "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ..."
 publishedDateTime: 2020-03-12T16:35:00Z
-webUrl: "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform"
+webUrl: "https://www.valdostadailytimes.com/news/business/sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on/article_7762990a-010b-52c4-850d-3fa7a192a78b.html"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     title: "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure"
 
-secured: "COm8xBR61vj5qz8Cszi+edbrF3HW5m7Xnw8IsS92IOQSaDs6QM1k9vGpIgq5Jl/0+IaPBML7+OVwATfRu9+bVMUmGE5EnKJeT5fdh8zPU/cM6NQhsfhcR4SEf3ZVESS8VnjeBg1aC/I39yhMRwR6ONIHDVlCvNBaL3Tz24CUUEJkr9dSqogNK7LywthC+WbumQvsN/Kn2bT8S98G/YwYYWNGLdJZmZ4xuW8F0g2j3pBjmPgY/QkR4Nwfnl2yx1kZtfq5EFiHOXJ6v0TJhqZ4Cj0mGyZwa6vsk8tUBeCd9v6Fr7JKnBBMmUsPzz2FqDHyHtqaYTwmU4wirdbBcI3a0LtGfLVx9C35Z6aPCqy4rBi1uph9FdRG33F44N85mnbSp0zn+IHm+X2UCFd0LJt16vZMLr1FnlTpnCEngMPcX9DcuTRiRoK1WaT1Gidh+p7yN85xLxd9g7VzBpoXGnHL0U6X3P+5EWx2f2WcMOP5T0c=;aKuwrkZS61RPqNzapWCsOA=="
+secured: "UcdJdMDG4x7JX7stjXNih3a5Cl6b7Vg5JzFpSzsbExAGnNA8cJ+eOj/8j28QwGHAQ1b+Y/b1tBRw8HYgW2K7G9NVIP/XLQSIgyPWVDfK2dUMqsnY6TEJqrDIatcdirl4oerPLEQRPTWneA7CIMGSo4JU2EGWnipkw1o9h+rXUjTMKy9/8TlBnJH3kCOVioOyhnmIBa5mp0k/aTvFSs3+gnD4XPVYiLs7TjWAdo3l4g/xzbsz6kIkyERK9rVSfZHrOgZ0uhICXEc9KqMuYW9zzRWi9td+zb6sahWK3rd/HWk+abCYPCHPI1jerMzDiqOi;iCgj6NOuPCRey6VQ9pRn0A=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stoc
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

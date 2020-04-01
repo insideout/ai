@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant"
 
-secured: "sQr5NfUbmDoneCu1KEakfULogLqW/gcI35wTqnuB5KVSQlRs0Cz0zj+xoKwGDwteUTCL9K56Iyg14bjm9Gwo+tI5ksUaLiQP4NIzlM1pRaH4n7b6Mxqc0ie/RxDqxSmdJ8HJz3aBKwMWP/AMrIpiU7ZsFQAArfLjD/rsPQvI20NjyLCelgO3OQpC47nW5pyf4hTKEA5KKCZ9q/k2ud9VE5Uf1zgHcCminMVWaKm3pitePEXtbM22tgqcGMTbNR6sPy+uU6G0EBt6VoLNGQpNKs9tHcmM8SBHxL4xKyznfl+ccW9xgFWJLzHQI3YZwdZfoMKbAEd0ct8mFqc2h8DK5+EOq1paq4QpSI4J5OlkW2wsfQMGk06zLK1JYxfEps/B3LigHBD4Wkl7i4hIMCCngvPpK9eHiyz0pMs84cLbH0k2ltvv1guDYxLJHj+HuH228E/ScYW6AqUr69mAexfShuu0/0mcCsGfqQqm5ynLx9c=;JBzMB98XAmJKIzuQJKgUVQ=="
+secured: "Q7vzONQo30hPjwvwAA1gRwJfROss6g3XxLGde8SpauHTZtxQbP/5xKPZEo0jV8DHNcfaIkqveMWPoYpYSsgwyhkp5xMV2IR2llfzrSBIW/ufxR5L2XjLzmse1Ihd60rFkYpu3KXStSDaXmD8fXDO9Cc+dflDBYZdxiBsiaCzKk00mcc97nlnZxYP62w3ZnK4LcgOcOmkTFxHT+4G/1vUi5ZNNUgJVgHshSCanOQsi+zcOAgwF98mzhgYEje2EKDofehPpZXcTGM0CgSbZnVVh83khTMuBvGqJULBQNV9lTvMicTv3whTO05awopVOWPFmfOptG8fWs2Y5/TWxMdN+kHl1CajETeVaSc9uT5BOv9Ohf41vNQ/hWS+4hR6wjOYebK0GlDCB9YtDietREQh66Zt6zK1Q9nWM+vbxn6lF1sthUFIeN/x0BVSIY+N8/TgBb24WtL7GD1zj8NVtVnx5DaImGmmmFN1K1KJWI4RrK4=;NY+dgftW8ZiJV1Q4aAjzDQ=="
 ---
 

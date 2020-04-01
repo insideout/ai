@@ -44,16 +44,18 @@ related:
         width: 1280
         height: 640
   - title: "Washington State signs facial recognition curbs into law; critics want ban"
-    excerpt: "SAN FRANCISCO — Washington Governor Jay Inslee on Tuesday signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos ..."
-    publishedDateTime: 2020-03-31T21:25:00Z
-    webUrl: "https://lfpress.com/pmn/business-pmn/washington-state-signs-facial-recognition-curbs-into-law-critics-want-ban/wcm/559c2fc2-1624-4522-8263-6a65115f3251"
-    ampWebUrl: "https://lfpress.com/pmn/business-pmn/washington-state-signs-facial-recognition-curbs-into-law-critics-want-ban/wcm/559c2fc2-1624-4522-8263-6a65115f3251/amp"
-    cdnAmpWebUrl: "https://lfpress-com.cdn.ampproject.org/c/s/lfpress.com/pmn/business-pmn/washington-state-signs-facial-recognition-curbs-into-law-critics-want-ban/wcm/559c2fc2-1624-4522-8263-6a65115f3251/amp"
+    excerpt: "SAN FRANCISCO: Washington Governor Jay Inslee on Tuesday (Mar 31) signed the first U.S. state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. Facial recognition software can identify individuals in photos and videos ..."
+    publishedDateTime: 2020-03-31T23:56:00Z
+    webUrl: "https://www.channelnewsasia.com/news/world/united-states-facial-recognition-washington-law-12596356"
     type: article
     provider:
-      name: London Free Press
-      domain: lfpress.com
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 37
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11534464/16x9/991/557/9ce4e6e60449848d51d612104e32c3b3/au/backers-of-legislation-in-san-francisco-to-ban-use-of-facial-recognition-technology-by-police-or-other-government-agencies-argued-that-using-software-and-cameras-to-positively-identify-people-is-not-r-1557884483407-2.jpg"
+        width: 991
+        height: 557
 
 secured: "Rldi85BjeI7X4tjKG6SMGVQCwKf+W/81JzDF0z+ew2Yxh9JUVJz9+0NvaHLtj8kFgjx1ha66mNrt39wPq2aSLwKztskG3FZGj+MGu0IcZRX5YokHrHQNPtIvIjIxh9A0bN5Lok5HiXr4pCN3Oq1W0nY7uSY2A1mqKUPOk7ad056poknOfTxrQBiub4wmLWcx+QuuzLx9D71r2PaqvlymI1CeL3RUwpv7bKqgQVtcKsAXEw1l3AB2eqs5zF40LH/DpwG3lQhgJ0fDvuCezzctiX7K5s027z2My+BGBPny0mm23O5RoFJBNoAosWEc0Ayt;fLI2nPDy71zl3OH8dG4HrA=="
 ---

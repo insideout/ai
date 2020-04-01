@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 674
     title: "Niantic Acquires Spatial Mapping Startup 6D.ai"
 
-secured: "gyZGARvfn9DO1dyjMZWYmQ6A4FJuJ/YfKeab7pwG8wOi9Kq9R1XNk89Fk4ASYJsHtTuU2Zw8/KsW/yFeyUPxFc1q3CbCKklrrEgTlcl6JrCCeU/F9ZwftI+uQIskRyU+xlFaTd4bcG/ozw0FajYMg4dp70QTKL7EiZ8fE+dVZuKjYen0sLr9uI6Vqf7E+e9es10UMx+snvI8ewWM2vIEuf11EIBIxfJnQv2Tcw0finK3pYETsKWt++1JtcsJpOowsAuXPlelgeVepwFmHBfBKMPCSJ0evkjeUQq4jzeVt3bnqFgfUMxgNuBshBBsQ7d40YI7QyHzTDgtXNrc4BQtK9PihjGdqkvx89rBZdSBJJl85sQuR/nkPBxqwYM5oBTkTbMFKHtzCCTfdJcdKHT9OkM0IERLn2hiMuZ+1yX7GgAcqfvgkhC9KmUlV2PsodGhkEZDLCfvmVWnCcheVW1lf6Ko3O+ClyISkNU0+w130ZA=;OzHKkAry12kB04Onm9UGMA=="
+secured: "S/Kyk12J4z5KspaCtZWy5ZZii1BiDY5hlgUhy+XUBRJX4hDOl4wNqZPaI/SPak62fLuxcRPd8LA52GXmzjhkgOY26xEfVN3RtMpOQpkPJn4LyGNczZ/xmoiIKz7FaXRRzzaVfHb8QZIIL6RRbQhosJmSmq3120W+YKeISOXc046Zr42fmxhT7ddjmSKC68mc8YagQx9FQ/GCISONJHBcUMuLgpvRQ7w2oHM14Cn4k9lr91iFYr/Qa9tPIOsCHXsPfwV/r8JLnMXfYRjZSa3K8biHqT5sCiGvQtxMNTBr5VFEb31IX49eIvW1z57ooBP4vos+yYhomh6EWJnXW3X5mP14Dhd1Ur7Oksw7wCirRhgooH8UEBUFuNa0l+sJDKWd9T6JIQhsKd68ukxP22tZxmbZruGyCW9vaB0Ppn3OP8X4W5op5I+ocy0ZkmdSwKD1ao1qJEZzhhe/DqMW9SxJ5iXOLw234YaSI0AZ8jecP3Q=;y/K0kv0cQp3rAo74312sRg=="
 ---
 

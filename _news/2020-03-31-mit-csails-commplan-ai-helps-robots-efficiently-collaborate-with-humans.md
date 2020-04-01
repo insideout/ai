@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/amp/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans"
 
-secured: "l0IuscVzai2BwTGBiGY7HEEdyl7934+VST2BRDmjnxAfEvSlvCimcD8/oX1X4jrfMTm85wFz1wo/AECrJuLKjJ5GuHZ3WwwfoH8HHxkM+s5zL9n9jbJMQtnIUT1KhlmorPKdnLWIjLDQLupliWJpQ4iBEGebVn8DTuzPeoDhinH9G+q5UA1CwEcex3ZfL+TNoAL5Nr8+yw+HRfvjY7evGlycyQeQ1QY8injBr0oIwaGpr59hhNuo1GkbHO8pjcRhE4FVPyYCMJRkjCVzXQXhcDOGekcl7iAgqnq3EbnZ3NrNNzt7VS6CZuP6YpdX9iDn8oqZODkIzbHbXIuN3hbm/W1wemPLl112Jo++BoPls9VgSn2yTLRS5XjmYPzsLZOa2e590eCQz0Jdg6V/6sFJQk8xFlWA4qCR8l681jMD6olx6UBNKU6KuX7iZllNWfIDea74nfaUjl/Cne/6HsRop1MP+mQdBCUdc0/ef0bHq40=;IDPi3Kk5WXCNWXRc7iF7Pg=="
+secured: "Bm3kx5xycFpTiQTDpKdN4v0ENYubfWvxm+bBsyMAnY8Oecp8cVsZyKbjLgFm5ifeWox12jefK3zcoMzYnnFpor3oZuDQgynauAcwLQMXvaFahrDmUpfrSUCRAUoDZBbR5pGH0h/bLxeKyL1ZuABbjUr08/ejY/3ZFdvizqUaJcUkliI5ySC8JOsJkV+EogLflHkpWm/GuGgRTEUGtEn1hdZFrjfifdPtVW8Mux1FsvL/ZDXAi1Ev3m8smnHCzWHece4KW6OevjNZSCSNqqfe1GOg0zuRUGVGpZtPeDaSogyjxAu65kCXI9T3XaodoW1oiMA2TG9aSDUASQen2PoBUBNYIVQ+MqMf3tNgesQmex7s4RrfIeYtSe48I7oGIhaodWE8Fp4Z3B3TwFHGCWwBksoBLlnXLqnK1Xp/HFh49Q0IspyEis+gH0sGdJRY3LtCNBIGnHgUPVt8Nwna6N/ngfMy/hSFa3naZXixDsrD5iw=;ssrHz+GHWgvrKkrFLjt7cA=="
 ---
 
