@@ -3,7 +3,7 @@ category: news
 title: "Improved facial recognition tech won’t cause privacy problems: industry insiders"
 excerpt: "A Beijing subway station tests a facial recognition system on July 25. Photo: IC Chinese companies have developed facial recognition technology that can identify people even when they are wearing a mask. Industry insiders said the technology can increase the efficiency of identifying people who are not wearing masks and there are minimal risks ..."
 publishedDateTime: 2020-04-01T05:10:00Z
-webUrl: "https://www.globaltimes.cn/content/1184386.shtml"
+webUrl: "https://www.globaltimes.cn/content/1184394.shtml"
 type: article
 quality: 34
 heat: 34
@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Improved facial recognition tech won’t cause privacy problems: industry insiders"
 
-secured: "1Lxd9IQSjVIRtSXf5tvvNPnYgIyifHmpw52mfGpphRHbw7ahyWhUXWdBoYDphUxG8u/SNuVuKfIyOxfAzPEy/4pZ5O9wUWzx6nRWRPQyJt/Mlk0z5Q5IxmfxCos9D2cU5BQ0P2R4MszYSysw00gzbn/ZKsXVwR+r67m1f7AhHzUVHNGAuN8S4oTuAqS314ozFWNpGatriK+W4gj9OVRVE5xv/ejZW3Of0Tkn99LpuoLNybqMS19IF3H7hB4cFojXP7/tdHcBHe3mA52YF8XK/+7ZU0gCoBzeN8GZFAGcBf9MxdVx3Z4in6wuQ4xktL8/;uZ5bJ1h/iO8Mzmy79GuaTA=="
+secured: "jvStMPBPM68yQJ7bIwGprYtHdQK5lN3E5W1t6tqZ+nX3rmIt/tyJPl74hARjrkrE/Ppl3cQ06IPPQgrimLQIfAZwy97enh8tPo16zZJFGH8xeKMKA9vPnwqYbFI6K1c+eNdAfxrCcLBFKGkQsvbLpvGMRM7NZt5uTPvQ2McN61+fjE0RjaacDPPT9HhTDxWClLueXHV1eCmV/76Kv+aTShi/GalqwH4fmbTre0pvQmykCnxZrq5uv47yJuCdJh1jh7dZbDN+51kMYRh5rDnVJUSmeJgQ3LFPE/x9BTz1rafQswgJSVG15p0+iuu7byeK;EIziQ6XnorE44ThBL2xSVQ=="
 ---
 

@@ -24,6 +24,6 @@ images:
     height: 533
     title: "AI may help predict type 2 diabetes"
 
-secured: "T0qLU5PFRJc6TsSq0H6L4OEB8lGAXim7Eo5XvaIFXQ2fOhiZlrDOJXFiuWb87aQ0PnNGfA/RtJLEiZ5zsJk4Uov/yoSeJNR3HzgDteLc+rYPUdVxBXM82q+o7/ip8xbPDTBhW96P+Ryy7wwM6l3a1FuqJPkoUdAi3Wk5j+LIsu8vpnIEDmq61bS/uYH6fgw7KP3FxViBvu18MrmTaiuKj4dgzoNo4E9a4Ag6dERDZtrCRMwT0q6fGT/Qy2ckMfztxbHjzOKC3gvZYVubvhP/RkOzDthTCPZqtoILLYuvpeuMjXxb97QYVkGxt6lqpD0l;E4DvoO+2zIUbcWfTT65L9Q=="
+secured: "IoxxWDH2EPcvlBIpOSfU9kDyJp+i9shMK/JJBxX+t9gKWHlOnx/6h86K/oAQghuny6VeApiSe3joCwfn+zo6St1/HVuncyKwe4PG7UkGipDcbQ5+vTuvkqyFA5o3ED+yaqVeP5wNEWx2fLu/GYCyeGMA7WBpNYbn3MDm1lcTYXQzxTuzJEXgXZ2boxm0aHYcAnaf1n082FWOvn2WGNhMIRZU2LKqvqlg8xvUJDybfLS4PlJE9qTTs9JRSMhalSXzxgQEt/Efp8T1qVZkmHDoJ402C/8Q/eOwxqI/kTRyorVmxXS4s9nFh4U/zTqr82XmO7UMiOr/+sG9GuC8w3f7tk3CH4TDwctjqFlswFdPv55oTAznbg1abLTs5G1CJcvrPAQixfXqZ+ixS3tGFMoHBKOpP7a11jnzaPifQMKjNIbrQ98nmsTiPp1fxnSDjtH+O5bPhyipGtNCdoyxZGuoXwCO64aj0//lEDlagkDiS2k=;YA2h/rFkb+I0JG/aiKkl5A=="
 ---
 
