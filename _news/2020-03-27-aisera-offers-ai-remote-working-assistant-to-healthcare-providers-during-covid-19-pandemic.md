@@ -23,21 +23,6 @@ images:
     height: 594
     title: "Aisera offers AI remote working assistant to healthcare providers during COVID-19 pandemic"
 
-related:
-  - title: "How This Bangalore-Based MedTech Startup Is Using Computer Vision To Provide Ayurvedic Healthcare Solutions"
-    excerpt: "It is a framework for remote assessment, and also provides AI-driven recommendations and doorstep delivery of herbal supplements. With a unique, patented technology on computer vision for selfie health analysis, the platform assesses one’s constitution. It also determines the user by probing into multiple dimensions of health with a series of ..."
-    publishedDateTime: 2020-03-27T08:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-this-bangalore-based-medtech-startup-is-using-computer-vision-to-provide-ayurvedic-healthcare-solutions/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 21
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/FindMyHealth-Team-1024x683.jpg"
-        width: 1024
-        height: 683
-
 secured: "hedi9KZwWFUU03tfpUYK7myJEeAxEpFn/p7OJpYtORA9ZUiGRfEek69EKbgFxcgdAHRakmYMxkOUxAzdnxEvidpgp2MRM0Ritm9j7pjv28gYBafD1MFNktY98ZIgRlb4uOp/1cdqwA2SB5KghTxu8AqcvTN03vP94+KNBmkLpGUVO7IFM9fGun5cFpX99SIz3PMa+Tgv9RL6syWjRWS4wANx7zUxdFCQxNVAiH2UtDBnaopvlnITvflczmJT63sjygz9a3cVPhQuZhjt2NaVUQSrgxkWbyM/lKNbe65TfgtcIB+so7k2A4VxUKWag5Rc;uSOPNn7ozVdb2GZuB88r5Q=="
 ---
 

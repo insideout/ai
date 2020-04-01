@@ -2,6 +2,175 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-23-israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks.md",
+      "title": "Israel builds survey-reading AI that predicts coronavirus outbreaks",
+      "excerpt": "As coronavirus cases in Israel surge past 1,200, researchers in the country are predicting where it will spread next analyzing responses to questionnaires with AI. After members of the public report their condition, algorithms evaluate their answers to connect symptoms to locations. The results are then displayed on a map showing the clusters ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/23/israel-builds-survey-reading-ai-that-predicts-coronavirus-outbreaks/amp/",
+      "publishedDateTime": "2020-03-23T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design33-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Israel builds survey-reading AI that predicts coronavirus outbreaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
+      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "publishedDateTime": "2020-03-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-global-artificial-intelligence-ai-market-investments-vs-potential.md",
+      "title": "Global Artificial Intelligence (AI) Market: Investments vs Potential",
+      "excerpt": "NEW YORK, March 23, 2020 /PRNewswire/ --Report Scope:The scope of this report is broad and covers the global markets for artificial intelligence,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
+      "publishedDateTime": "2020-03-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
+      "title": "How AI Makes Big Data Smarter",
+      "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
+      "publishedDateTime": "2020-03-23T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-54-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Makes Big Data Smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-is-voice-the-next-big-thing-to-transform-consumer-behavior.md",
       "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
       "excerpt": "Voice is an untapped channel that can provide an opportunity for deeper engagement with our customers — and we can't afford to leave that opportunity on the table.",
@@ -576,32 +745,32 @@
     },
     {
       "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial intelligence system aimed at preventing drownings",
+      "title": "Artificial Intelligence System Aimed at Preventing Drownings",
       "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.fresnobee.com/news/article241279376.html",
-      "ampWebUrl": "https://amp.fresnobee.com/news/article241279376.html",
-      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article241279376.html",
-      "publishedDateTime": "2020-03-21T00:01:00-07:00",
+      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
+      "publishedDateTime": "2020-03-21T00:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Fresno Bee",
-        "domain": "fresnobee.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/93d94453-6bcb-4a27-98dd-5e0b68fdcb9e/d82fe866-1854-428e-9491-292915860c78/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Artificial intelligence system aimed at preventing drownings",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -876,175 +1045,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation.md",
-      "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
-      "excerpt": "A new AI system has revealed that we’re finally getting better at wildlife conservation. Researchers came to this conclusion after using machine learning to analyze more than 4,000 studies on species reintroduction across four decades. The system evaluated the outcomes of conservation programs by assessing the study abstracts with sentiment ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
-      "publishedDateTime": "2020-03-20T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design32-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
-      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
-          "width": 600,
-          "height": 401,
-          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-an-ibm-supercomputer-called-summit-is-taking-on-the-coronavirus.md",
-      "title": "An IBM supercomputer called Summit is taking on the coronavirus",
-      "excerpt": "Technology in the form of jet planes may have helped the coronavirus ... to IBM, which developed the supercomputer, scientists are hoping that Summit’s findings will inform future studies and provide a focused framework for further investigation of the compounds that will reveal if any of them have the characteristics to attack and kill ...",
-      "heat": 152,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ibm.com/blogs/nordic-msp/ibm-supercomputer-summit-attacks-coronavirus/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/nordic-msp/wp-content/uploads/2020/03/Screenshot-2020-03-13-at-10.01.55.png",
-          "width": 978,
-          "height": 612,
-          "title": "An IBM supercomputer called Summit is taking on the coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading.md",
-      "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
-      "excerpt": "A new AI-powered system monitors coughing sounds to understand where the coronavirus is spreading. The FluSense device first detects coughing and crowd sizes in real-time. It then analyzes the data to predict the progress of COVID-19 and other respiratory diseases. These insights could guide public health responses to the pandemic, such as the ...",
-      "heat": 194,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/this-ai-system-listens-to-coughs-to-learn-where-the-coronavirus-is-spreading/amp/",
-      "publishedDateTime": "2020-03-20T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design31-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI system listens to coughs to learn where the coronavirus is spreading",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

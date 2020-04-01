@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-autodesk-optimizes-visual-similarity-search-model-in-fusion-360-with-amazon-sagemaker-debugger.md",
+      "title": "Autodesk optimizes visual similarity search model in Fusion 360 with Amazon SageMaker Debugger",
+      "excerpt": "This post is co-written by Alexander Carlson, a machine learning engineer at Autodesk. \nAutodesk started its digital transformation journey years ago by moving workloads from private data centers to AWS services. The benefits of digital transformation are clear with generative design, which is a new",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/autodesk-optimizes-visual-similarity-search-model-in-fusion-360-with-amazon-sagemaker-debugger/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T17:03:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/autodesk-2.gif",
+          "width": 800,
+          "height": 463,
+          "title": "Autodesk optimizes visual similarity search model in Fusion 360 with Amazon SageMaker Debugger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
       "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
       "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
@@ -803,6 +848,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-18-domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud.md",
+      "title": "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud",
+      "excerpt": "Domopalooza LIVE & On-Demand – March 18, 2020 – Today Domo (NASDAQ:DOMO) announced it is making it even easier to get BI leverage at cloud scale in record time through new augmented capabilities in the Domo Business Cloud.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15583687/domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15583687",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15583687",
+      "publishedDateTime": "2020-03-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
       "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
       "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
@@ -1123,97 +1197,6 @@
           "width": 1200,
           "height": 600,
           "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
-      "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-      "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/",
-      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "publishedDateTime": "2020-03-13T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/legislature-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-a-complete-guide-to-the-machine-learning-tools-on-aws.md",
-      "title": "A Complete Guide to the Machine Learning Tools on AWS",
-      "excerpt": "Amazon Rekognition is a computer vision solution from AWS that helps developers to build applications that can recognize objects from images and videos. In addition to automatic object recognition ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/practicalmachinelearning/a-complete-guide-to-the-machine-learning-tools-on-aws-76dbf4e5aca3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/538/1*pCS2liznZQR4cm9WvU1oXw.png",
-          "width": 538,
-          "height": 340,
-          "title": "A Complete Guide to the Machine Learning Tools on AWS",
           "attribution": null
         }
       ],

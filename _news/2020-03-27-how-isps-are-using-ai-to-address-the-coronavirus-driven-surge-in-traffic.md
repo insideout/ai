@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 1244
     height: 600
     title: "How ISPs are using AI to address the coronavirus-driven surge in traffic"
-
-related:
-  - title: "Ransomware against the machine: how adversaries are learning to disrupt industrial production by targeting IT and OT"
-    excerpt: "This has caused insufficient or late supply of end products or services, representing long-term financial losses in the form of missed business opportunities ... Ransomware may result in similar outcomes when it reaches IT-based assets in OT networks, for example human-machine interfaces (HMIs), supervisory control and data acquisition ..."
-    publishedDateTime: 2020-03-27T08:54:00Z
-    webUrl: "https://continuitycentral.com/index.php/news/technology/5008-ransomware-against-the-machine-how-adversaries-are-learning-to-disrupt-industrial-production-by-targeting-it-and-ot"
-    type: article
-    provider:
-      name: continuitycentral.com
-      domain: continuitycentral.com
-    quality: 16
-    images:
-      - url: "https://continuitycentral.com/images/banners/fortressjuly2019-650.jpg"
-        width: 270
-        height: 670
 
 secured: "5M87Bgv4FK/AeVZiOPS22TGBApnFzvcVagO6FLYBo9KbD3WJ9SdMsl1U9qJ8W9hRXe9hN4fEeVsRljFXvN3yKWyJR9iaf2hQkp/38HPRu9wDs0ZaleLUygHKwV3oTTLg9AkjiXyqEMzh2ri0AtZNjF/oZxDz5wsWuSBWcOm/nCupk/YIH9lhz6OtDH2nWOkZfxShdGFNNVboyocuZ8G1/qHCCtgVcYRLPt0yZZqrI3jtJWY2R6lMyHIGZckisp/blWcfZve/PtuhLf6mdoxtjvN+0SbMWMpnZkJ70KjJSmin2U9ZxvAN+TI+ZOzGJQLdMYc9d7VOZR+6fAOHShQzM2ZFMgy2vdpTDkophqeZTaGz1zGtxyNjVQB4xRPc7UvNvrzTTXouBKOckyAoaHJRLP00ltopg6+5EiJeIfAnx7q/+RPCm+HsBiYq8YuKYDhiEmrACZ8WT002iN4I6ZboaDowqILOFqgqN21PdPb4Kbs=;cCEbmcy0+3fytANm5hjuUQ=="
 ---

@@ -2,6 +2,160 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-24-researchers-use-ai-to-find-link-between-nature-and-happiness.md",
+      "title": "Researchers use AI to find link between nature and happiness",
+      "excerpt": "A cross-disciplinary group of researchers used AI as part of an analysis of photos posted online that recognizes an association between happiness, life satisfaction, and nature. Researchers from universities in Australia and Singapore say the analysis demonstrates the biophilia hypothesis that humans are naturally attracted to nature and people ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
+      "publishedDateTime": "2020-03-24T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/emma-simpson-mNGaaLeWEp0-unsplash.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Researchers use AI to find link between nature and happiness",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic.md",
+      "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
+      "excerpt": "The decision to place the UK on a police-enforced lockdown couldn’t have come sooner, new AI analysis of traffic footage has revealed. Until last night, Brits had been merely been advised to avoid “non-essential” travel. Not many of them were listening, according to research by Vivacity Labs, a startup that makes camera-based traffic sensors.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/ai-snitches-on-naughty-brits-who-wont-stay-home-during-coronavirus-pandemic/amp/",
+      "publishedDateTime": "2020-03-24T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design36-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI snitches on naughty Brits who won’t stay home during coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
+      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
+      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
+      "publishedDateTime": "2020-03-24T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
+      "title": "How personalization and machine learning can improve cancer outreach ROI",
+      "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
+          "width": 900,
+          "height": 300,
+          "title": "How personalization and machine learning can improve cancer outreach ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
       "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
       "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
@@ -405,18 +559,18 @@
     {
       "path": "_news/2020-03-24-shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging-blockchain-and-ai-to-transform-retail.md",
       "title": "Shopper Marketing Hall of Fame Inductee Joins Leadership Team of Rising FinTech Company Leveraging Blockchain and AI to Transform Retail",
-      "excerpt": "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a “Top Ten Mover and Shaker in Retail,” Karen Sales has joined the leadership team...",
+      "excerpt": "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a \"Top Ten Mover and Shaker in Retail,\" Karen Sales has joined the leadership team at SKUx as Senior Vice...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005543/0/en/Shopper-Marketing-Hall-of-Fame-Inductee-Joins-Leadership-Team-of-Rising-FinTech-Company-Leveraging-Blockchain-and-AI-to-Transform-Retail.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15650351/shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15650351",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15650351",
       "publishedDateTime": "2020-03-24T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -478,6 +632,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
+      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15649371",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371",
+      "publishedDateTime": "2020-03-24T05:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-machine-learning-the-real-buzzword-of-2020.md",
       "title": "Machine Learning: The Real Buzzword Of 2020",
       "excerpt": "Machine learning is a game-changer for many industries.",
@@ -519,35 +702,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
-      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
-      "excerpt": "Dublin, March 24, 2020 (GLOBE NEWSWIRE) -- The \"Global and China HD Map Industry Report, 2019-2020\" report has been added to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005473/0/en/Global-Chinese-HD-Map-Markets-Insight-2019-2020-Industry-Leaders-are-Amap-Baidu-Map-NavInfo-and-eMapgo.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1106,185 +1260,6 @@
           "width": 1860,
           "height": 925,
           "title": "FDA allows AliveCor’s AI ECG to detect coronavirus drug-induced heart problems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
-      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
-      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "publishedDateTime": "2020-03-23T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
-      "title": "What Machine Learning Trends You Should Watch In 2020",
-      "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
-      "publishedDateTime": "2020-03-23T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1137284435%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "What Machine Learning Trends You Should Watch In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-look-inside-the-hospital-in-china-where-coronavirus-patients-were-treated-by-robots.md",
-      "title": "Look inside the hospital in China where coronavirus patients were treated by robots",
-      "excerpt": "Beijing-based robotics company CloudMinds sent robots to Chinese hospitals to help with the treatment of patients with coronavirus to limit the spread of the infection. Here's a look inside.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/03/23/video-hospital-in-china-where-covid-19-patients-treated-by-robots.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/23/video-hospital-in-china-where-covid-19-patients-treated-by-robots.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/23/video-hospital-in-china-where-covid-19-patients-treated-by-robots.html",
-      "publishedDateTime": "2020-03-23T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106452541-1584647567468employeevolunteerssettinguprobot.jpeg?v=1584647740",
-          "width": 1441,
-          "height": 811,
-          "title": "Look inside the hospital in China where coronavirus patients were treated by robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-how-this-startup-is-using-ai-to-detect-coronavirus.md",
-      "title": "How This Startup Is Using AI To Detect Coronavirus",
-      "excerpt": "Athena Security uses thermal imaging and computer vision for gun detection-- and now is using the same technology to spot fevers in hopes of mitigating the spread of the coronavirus.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/geekgirlrising/2020/03/20/texas-based-ai-company-gears-up-to-fight-coronavirus-with-fever-detection-system/",
-      "ampWebUrl": "https://www.forbes.com/sites/geekgirlrising/2020/03/20/texas-based-ai-company-gears-up-to-fight-coronavirus-with-fever-detection-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geekgirlrising/2020/03/20/texas-based-ai-company-gears-up-to-fight-coronavirus-with-fever-detection-system/amp/",
-      "publishedDateTime": "2020-03-23T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1207242751%2F0x0.jpg",
-          "width": 1200,
-          "height": 758,
-          "title": "How This Startup Is Using AI To Detect Coronavirus",
           "attribution": null
         }
       ],

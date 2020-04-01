@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud"
-excerpt: "Ubiquitous machine learning and turbo-charged data management tools empower technical and non-technical users to get more data leverage more quickly"
-publishedDateTime: 2020-03-18T18:33:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/18/2002920/0/en/Domo-Shines-a-Light-on-Dark-Data-with-New-Augmented-Capabilities-in-the-Business-Cloud.html"
+excerpt: "Domopalooza LIVE & On-Demand – March 18, 2020 – Today Domo (NASDAQ:DOMO) announced it is making it even easier to get BI leverage at cloud scale in record time through new augmented capabilities in the Domo Business Cloud."
+publishedDateTime: 2020-03-18T18:30:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/03/g15583687/domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15583687"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15583687"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
 
-secured: "B0Vl4Pka4xXV0viZ9oXG8G4QurpM8KjpGN1yJDwzWo4rqe6T08vuh8J31UaQrrfrPSbGBN4x70O4rJSWfuK8ccdmvaSDyoufjyIL7FzqZUgLQd0Cyjg6+ut3rXF1GayA0AX1A2xJiQHvkr2lbMn8vJcDNC+nCQuJmPvEOWYaTmeHR2EmWk0mMNt3d5Kcx0J/3k1DYteib28JdF+gfE82nI+szpUdKqIO/HmMrjEMAXBBEPc9CzThxDlRHKd2ivvW7O5wCQLSm3Q1rLHzOlPnMpp9VvqVyvrXEIltwNgbY3Tjiv/YV93FwkSEi/9wPZ+pc+jiZ4913t+tPjtohL73OF92Lrtm7LXClm2MedXgZPBfHvEtZsdctWHSVoJU3JvvoecluOO+bclvtYa4GBrJj0SY0cOM6Y/NnA19rkoiwpa+sdNPXZ+v8rfCO08L/v/bM6V8VxuRjwblWXMVymRPT5MS4GYRL3XW54tqtCtW0BY=;AETDcCtZR8PJgvu97zUWlw=="
+secured: "rW4s/sOAUhF3D+F/TkBuswB93CMhwDyYyjNYe9xYGAKXkDU/vJWzhC3xt48bCWWGqJuQok2Nr+q0kvX/j5R4/piwp0CZtMU9Z/A1qpn2Ucrs/rbkYd4qU8MLwpkgLmOaa61olvQ92+dxtgD06zKNthjrYClLk4aVct384Ubr/TVItWlnvpQzu+qAxA0HYsdjOq+P0OYkTlHndNA11JI8tc5bOsT3/NV/MRxNzvTv6m5PICLJgubixhBfbKErPpEwe6nnAv/uhF5UZqdQNc3xmb3L90Xjrblj2HaVVqkGT6Z6NxYZw25FbgLeaUsXVbIq;+ue1JdD6UqmozIZWxVK2Jg=="
 ---
 

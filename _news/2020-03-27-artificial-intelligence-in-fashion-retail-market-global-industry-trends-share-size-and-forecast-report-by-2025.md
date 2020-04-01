@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-27T15:24:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-24?mod=mw_quote_news&tesla=y"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Space Robotics Market- Future Developments, Trends, Share, Size and Manufacturers Analysis"
-    excerpt: "Space Robotics Industry 2020 Market Research Report A new report added by DeepResearchReports com to its research database Artificial Intelligence in Medicine Market is segmented by Regions Countries All the key market aspects that influence the Space Robotics market currently"
-    publishedDateTime: 2020-03-27T12:20:00Z
-    webUrl: "https://www.openpr.com/news/1987968/space-robotics-market-future-developments-trends-share"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 24
 
 secured: "qr97KdUfblHXkkZOPc5xqPJOoeXbJ5UelzxuIwUTMevVj9Rr0sxtKwoOaPjSo0OE120OfeyJ0oNm+Wo3SsiVxbk5CqvoHJG5o74if6kYUN8QIu+fO+ggNFZyMi1H8+fFg4AmP24VD0+elOtOlJaptJVifAXgy0J7idky9kaZHpm2NKpRPDpvC8LnwFfv3f++yIRWNZ81ValsOvnU+9S8l6ntn+PGZG4VXsil5hpFyG6ztwLrRQrnuTKt3OuuMaVvoFvxOhKgKr8J/eQ8QmN1R2diNp87gJmLdIR6GhOYAZkO3GdiN5tEKx0ZZzoZLTJ8;++2sqwgC7DLh9oloXIa/wQ=="
 ---

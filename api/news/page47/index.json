@@ -2,6 +2,184 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
+      "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+      "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
+      "publishedDateTime": "2020-02-18T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-how-ai-is-impacting-the-workplace.md",
+      "title": "How AI is impacting the workplace",
+      "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
+      "publishedDateTime": "2020-02-18T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "How AI is impacting the workplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms.md",
+      "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
+      "excerpt": "Law is an avenue in which to test the integration between AI and people. Automation won’t be replacing the lawyer any time soon, but as AI evolves it will be able to increasingly assist the people in the industry,",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/02/18/artificial-intelligence-ai-and-the-law-helping-lawyers-while-avoiding-biased-algorithms/amp/",
+      "publishedDateTime": "2020-02-18T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c0c7b99d449000735353c%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "Artificial Intelligence (AI) And The Law: Helping Lawyers While Avoiding Biased Algorithms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98.md",
+      "title": "AI delivers a battery boost to electric vehicles, slashing testing times 98%",
+      "excerpt": "On Tuesday, battery testing for EVs surged forward, thanks to the work of a Stanford-led research team––which used AI to cut testing times by nearly 15fold. Led by Stanford professors Stefano Ermon and William Chueh, the research team, from Stanford, MIT, and the Toyota Research Institute, wanted to come up with the best way to charge an EV ...",
+      "heat": 134,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-delivers-a-battery-boost-to-electric-vehicles-slashing-testing-times-98/",
+      "publishedDateTime": "2020-02-18T08:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/03/3a08ce38-c418-4ba6-af19-f251dbb8ff9c/resize/1200x/ad6c8926eb2468f73ce7ba686767bbc2/electric-vehicle.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI delivers a battery boost to electric vehicles, slashing testing times 98%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-ai-vs-humans-microsofts-eric-horvitz-sees-the-future-as-ai-human-partnership.md",
       "title": "AI vs. humans? Microsoft’s Eric Horvitz sees the future as AI-human partnership",
       "excerpt": "machine card games to the “Terminator” movie series. But according to Eric Horvitz, the director of Microsoft Research Labs, the hottest trends in AI have more to do with creating synergies between the humans and the machines. Mastering human-AI collaboration is something “we don’t hear enough about in the open press,” Horvitz said ...",
@@ -898,185 +1076,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-vote-for-the-pacific-northwests-best-innovation-at-the-geekwire-awards.md",
-      "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-      "excerpt": "(GeekWire Photo / Kevin Lisota) The Pacific Northwest’s status as an innovation hub is well-documented: It is at the center of the cloud computing revolution, a hotspot for artificial intelligence, and it will play a role in the future of driverless cars, mobile technology, video games and much more. But the innovation in the region goes well ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/",
-      "ampWebUrl": "https://www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vote-pacific-northwests-best-innovation-geekwire-awards/amp/",
-      "publishedDateTime": "2020-02-17T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/08/textiosnyder-630x420.jpg",
-          "width": 630,
-          "height": 420,
-          "title": "Vote for the Pacific Northwest’s best innovation at the GeekWire Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-eu-wants-big-tech-to-deploy-ai-tech-on-its-own-terms.md",
-      "title": "EU wants Big Tech to deploy AI tech on its own terms",
-      "excerpt": "The general perception is that Europe is far behind the US and China in terms of AI development. However, according to the McKinsey Global Institute, the EU's gap in digital tech can be overcome by funding startup development, digital transformation of non-tech companies, and encouraging investors to bring in more capital. As for talent ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84049-eu-wants-big-tech-deploy-ai-tech-own.html",
-      "publishedDateTime": "2020-02-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/09/2019-09-11-ts3_thumbs-cdd.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "EU wants Big Tech to deploy AI tech on its own terms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-why-your-new-work-colleague-could-be-a-robot.md",
-      "title": "Why your new work colleague could be a robot",
-      "excerpt": "A whirring and whizzing noise greets you as you enter the offices of Automata, a start-up robotics company based in London ... Yet now, developments in artificial intelligence, alongside improved vision technology and better devices for gripping, are ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-51442445",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-51442445",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-51442445",
-      "publishedDateTime": "2020-02-17T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2066/production/_110849280_robots.boxes.g.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Why your new work colleague could be a robot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector.md",
-      "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
-      "excerpt": "The term fintech is a portmanteau of ‘financial technology’ and denotes an industry that has exploded in popularity over the past five years. When examining Google Trends, we see that prior to 2015,",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deltec-bank-bahamas-explains-role-of-fintech-in-the-banking-and-finance-sector-2020-02-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-17T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deltec Bank, Bahamas Explains Role of FinTech in the Banking and Finance Sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],
