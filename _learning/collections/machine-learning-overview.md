@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning Overview"
-excerpt: "A collection of handpicked resources to help you get started with machine learning"
+excerpt: "A collection of short articles and videos to help you get started with machine learning"
 type: collection
 heat: 32234
 
