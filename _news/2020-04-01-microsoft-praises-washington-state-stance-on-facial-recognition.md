@@ -52,6 +52,19 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Washington Governor Signs Facial Recognition Law Curbing Use"
+    excerpt: "Washington Gov. Jay Inslee has signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos based on a database of known ..."
+    publishedDateTime: 2020-04-01T15:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/04/01/563016.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
+        width: 1740
+        height: 978
   - title: "Washington State signs facial recognition curbs into law"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
     publishedDateTime: 2020-04-01T02:47:00Z
@@ -79,6 +92,6 @@ related:
         width: 991
         height: 557
 
-secured: "/i4um7yaR7syyk7DEz/tjFjt3EzyQkll0L5MCjm7Y4xBFfyPY16h4qLbsAVEgWj/Om08ykoxs5n9ZGr+2mb9sqpQsGa3CibLjZd1EqhRGY9mxQQx4y7oyB7B7UwSpegvtg4INXleAqqAIvIXPLIoxWtoZaO551B00V6qu2JrgdSdsdfLhcbnTXsONmmCZO/b3xzfgt76j38RFUzuO6GWmNZqyOyGKvfG1can4pbwyO9OA0FUUk7NtqVswFHwYyXz+kVRv0ABxdMSKm4bI0fmX6YwGE3Bwjq9v54iw5IBpI5MAVtX2G87iDQGsHarhUg9;b1c113ICyCL3ZZqnt1mSRA=="
+secured: "94jFoLnTxWpmlZKe/vWWbJEKttiLvQvvVT3K+s3rLiANfJYgI4LQ2z9EUVOD3EcJao01dlp6b301DWWj06cPCwcQTBLMMFIWcwBS302EDuL/BeXu4TYq/qM/GoS235G1ZE2QS4Iht4MS22qLG0WH73NaojbkiBlMngEGg8awsdkwVO9lBR5w5jmRXA+wYvv2I1s+YAl0ZZ7Rg/gZiFItvML+Z4JH+ActD56V0FWwD+IG86LFglJAl7HVk17fl9CQ/H3qFb/UX2QFJ7YlVIcWo6xtIA+Q6xNEQuRxwHvMJdNt9/1oMXmhW9VryCrrKGqcxbBXESiIxp264CYR4Rwl2pCLwpUqvhfuCoItV1QSkfv/mQGOiqkOffc5ix66I5viQPE9bGbNdJFeiGF8wP0x4uUuFFKFZbNi1UPxE6Lb8FbeN2ouaSG2KKcS7wY1OABzasIfvZFWyKHipPFUdt41ICUgpjGRXtWrItC2iNVE2ik=;06ll3rvIjZO1CihhjMFOIw=="
 ---
 

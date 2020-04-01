@@ -65,6 +65,19 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
         width: 1066
         height: 600
+  - title: "Washington Governor Signs Facial Recognition Law Curbing Use"
+    excerpt: "Washington Gov. Jay Inslee has signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos based on a database of known ..."
+    publishedDateTime: 2020-04-01T15:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/04/01/563016.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
+        width: 1740
+        height: 978
   - title: "Washington State signs facial recognition curbs into law"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
     publishedDateTime: 2020-04-01T02:47:00Z

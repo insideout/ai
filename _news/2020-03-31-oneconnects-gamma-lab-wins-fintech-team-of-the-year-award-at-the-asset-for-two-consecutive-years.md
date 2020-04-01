@@ -23,6 +23,6 @@ images:
     height: 627
     title: "OneConnect's Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years"
 
-secured: "pS5HerPwO94j/ECH7L2c2e36pBxEffuuwAeZslRMAfrJd4505vJh8mcuv+ZWBpUNqm7Y2rt+iIYGawODkg9GRP0ePNq8kvICo1Lzvr0/6MVBIE7z6E7r7cfUCoS7x+p9rqu+qpmd2BZSO2SXutPkV3A7mp5i5s3WwD1DkV2cb5uDqhr4C3riVREJOOuvA1A+IjVmvTl7EZfWxHCBPC1PUNmb3Wr6LYCWfkG3yRoaFQCwYf46gsbz9y/nm+rdcRv5cNOvJ0phjJvQdMdzZ07C6SdtXq9mxOC740/zfTAlS47SpqL2TVzQtEA9fa6HmrtD;ZzbXK8YnN8jqPaarMqAL7g=="
+secured: "kxhR5Gmzs6c9v/ZESDIPHU6oprzgn3bDof71E58rD7fFq/tbi5qokeefrLA/svaOwte2S9xtXVZzN675QdCoufev48Sm+UYsaFObJ5d80QMtvvFscui65eiRjZH/dEYyPfORfnh23ojgkhPLRY7GKza+nVawmt0flao8PsROBdIrwb8mqykRZ7Oq/Gp6mLZWAy88aGOvq0KgPEwf1N2ptRG6lw0hvNU42gBt/2ft+k5JUM96V+QxtGL+IOVUVGn++Jp4e6XpnngrRiEuPDrk1xyFOfMZYJTqTmbUgJChUfknE8ISNm5o9ZlUK/pZCUEm7GhQ197BE//ueliLYkt2mdY4zBLb5OemRtJtdKj87yQCu3Mib+v3YD3hK34SMIXidS2VN1wcCjieBQvEapXclpt9nxWLqrOG1akWMe0Q/HzMn4AGxxpTQevpz4QqTcWbbEnLzZS+d2qrPe2bl8eEfrmBEpZ2Of3eeppOPN+a0SI=;y/o1Y8gSp7ARK4Oi9TSfmg=="
 ---
 

@@ -24,6 +24,19 @@ images:
     title: "GBT Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
 
 related:
+  - title: "AI Stock News: GBT (OTCPINK: GTCH) Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
+    excerpt: "With this new structural method, we aim to create new capabilities for IC designers, enabling vast amount of circuits on one chip. Simply put, we believe this platform could be ... and Artificial Intelligence (AI) enabled mobile technology platforms. GBT has a portfolio of Intellectual Property that, when commercialized, will include smart ..."
+    publishedDateTime: 2020-04-01T13:15:00Z
+    webUrl: "https://www.investorideas.com/CO/GOPH/news/2020/04011Patent-3DChip-MemoryApplication.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 29
+    images:
+      - url: "https://www.investorideas.com/CO/GOPH/img/GBT-Technologies.jpg"
+        width: 649
+        height: 328
   - title: "Hamiltonian-reservoir Replica Exchange and Machine Learning Potentials for Computational Organic Chemistry"
     excerpt: "Find more information on the Altmetric Attention Score and how the score is calculated. This work combines a machine learning potential energy function with a modular enhanced sampling scheme to obtain statistically converged thermodynamical properties of flexible medium size organic molecules at high ab initio level. We offer a modular ..."
     publishedDateTime: 2020-04-01T08:40:00Z

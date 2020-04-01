@@ -8,7 +8,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN21E3BA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Microsoft to divest AnyVision stake, end face recognition investing"
 
 related:
-  - title: "Microsoft drops Israeli facial recognition firm following accusations of mass surveillance"
-    excerpt: "In November last year, we reported on a controversy around AnyVision, an Israeli facial recognition company with ties to the government which was accused of peddling a mass surveillance solution that tracks Palestinians working in Israel around the West Bank. Microsoft, who has always advocated for the ethical use of AI technology, had taken a ..."
-    publishedDateTime: 2020-03-27T23:00:00Z
-    webUrl: "https://mspoweruser.com/microsoft-drops-israeli-facial-recognition-firm-following-accusations-of-mass-surveillance/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-drops-israeli-facial-recognition-firm-following-accusations-of-mass-surveillance/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-drops-israeli-facial-recognition-firm-following-accusations-of-mass-surveillance/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 49
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/11/facial-recognition.jpg"
-        width: 803
-        height: 533
   - title: "Microsoft to Divest AnyVision Stake, End Face Recognition Investing"
     excerpt: "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology."
     publishedDateTime: 2020-03-30T04:51:00Z

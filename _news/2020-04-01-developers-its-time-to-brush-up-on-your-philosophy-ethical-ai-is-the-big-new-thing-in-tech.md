@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech"
 
-secured: "RcTYVkImxJqesUK2qj1WIbqfEl4M49mx7P5h8XnYypPN0YZMNpe3T0tjW2BW6frbXggRwZfzNEriznRkkiuv5XNIU5iBLXa4L7ETGvOIIvvIkVeLDAVWFzpZKg0Qr2WPxC/0G+lxf+LEnT2nyiqlSSRwDLLDv4S1x0Dumx5C8m2zKmRjHcO3DiL3BCVdPuvbEK33JmEqnvR8G7SX687CRGirGU25nNeEeu1Bf6QGb7uVB+CdmW17PhqR91JQVXNVfgRvNw00Qf5oNorfZz8LDc//W86GGI6w3CfCQBxxxLD5xtZZJcIapKNkRK+pD+cS;sMCVzQstvGipnmjvBrrYEg=="
+secured: "mvrymDkZTFF9ISox29hUPeTu7cpUV14X5Sn1u0UOdX9nlQAP1YuUUoucjfx02Hg4DAOoWKKba708eQLiWVj8xTMPhpDYvoB0V5nYyZiCTADdf3/H2YXz6Jp7b+ttz5ObYkFSxWZ/PsZ+1dFKuHK+q+groEKEhguaGkWFvjP57sn1FtAj42N3IjYZOjGSMJWPBnE0VHDHtK+Jsp0Qdge/G6jkXLMwl2cF8pPq2NGkQJhpKfXVf/XlJrFB1wYYJALF3qVBIp9z8gDkVry+WbVQA1+ec/PLzLYFDSHsYaWS4MtAEwbxbTNYoInlBflKpfjYfr5eAQVrmnnw5lrhzIhxASwU/8cjspe0SzZ+Ove16CRBdp8maFRgmJ8Ttw3fjW2/L193UPZV8a4tyG0B/GKDlJ7JfwwoXS5ndY1mW0r4o30ZEBwfx4f205r76TrlZ4/RQtcEMHaBNprcXGooRK6p8m0XeZ0wwPJpOfRu32REe6k=;0Wc0BwKQMAxd6L09+GGjoQ=="
 ---
 
