@@ -1,19 +1,23 @@
 ---
 category: news
 title: "How AI helped Domino’s improve pizza delivery"
-excerpt: "Sharing a container environment and Nvidia GPU server has enabled Domino’s data scientists to create more complex and accurate models to improve store and delivery operations By Zeus Kerravala InfoWorld | When the words artificial intelligence (AI) and machine learning (ML) are used, people often think of advanced industries such as space ..."
-publishedDateTime: 2020-03-31T10:08:00Z
-webUrl: "https://www.itworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.html"
-ampWebUrl: "https://www.itworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html"
-cdnAmpWebUrl: "https://www-itworld-com.cdn.ampproject.org/c/s/www.itworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html"
+excerpt: "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ..."
+publishedDateTime: 2020-03-31T10:02:00Z
+webUrl: "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.html"
+ampWebUrl: "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html"
+cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
-  name: ITworld
-  domain: itworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
@@ -25,6 +29,6 @@ images:
     height: 1100
     title: "How AI helped Domino’s improve pizza delivery"
 
-secured: "i+0D6ql5JizfNzKFsRmJOG4SaGfasmPiixDNQVnBb5YApE1tFvbkDTh2butXoEj77KVVk/CImvF5sjRf09KnJ7uIZtGcsRRsesQJvswZuq1ulKWBc6235FhA8d3sKjFy09XcvnuMjY2Vp/fxsF/G3iALNxlGnYiRp/WJNrDZ5y9QZ8ocIh9Dm8YMk4Nj4cGjN8LZrKbhhhs+Jwy+IDXtthqRwufP3xerJj+fmHPRwJPNWV8c35zIKnq5NtjFrvqA8qDJzVhNEctZSUEDlSbcn390ZXM1Ami1v2aLp8Mxlva6UlF/vBWByEm+2U9k+bZG;4/mJzbn8/d6UJsH5khULpQ=="
+secured: "MDxAPFnaaCxhAOHKGNKuHGhlXixFtAYU3Yg0a73Z4R5bEfjUEO8lHk7104dOaNGYWJHxMEGdy3L6niMhlbSAhG1T59dWnevKgNh65VklA/fFlO17YskA7aa78pLhPM068oNnUnCFN8x54hm1wiuJR59Mo00O+rjWITvDa4EUUAVqHNnEGdpUs8SKMDqdof8o9DjT3Vft4EuMVuRq5NregyJz1fW6PfvAFpkMk+hT0H+qfxpld+EQv2cDqsWLZh24o7j9iPooH80qkcaNwTNJlhAHTHxOlZ8D/sXNQZ29zehHWhw7yOA1i4MG4obMi+YK;YpeSwxAj4o6FZaXdSHuY/w=="
 ---
 

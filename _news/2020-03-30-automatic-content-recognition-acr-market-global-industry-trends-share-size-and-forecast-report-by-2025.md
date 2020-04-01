@@ -28,28 +28,15 @@ images:
     title: "Automatic Content Recognition (ACR) Market Global Industry Trends, Share, Size and Forecast Report By 2025"
 
 related:
-  - title: "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025"
-    excerpt: "Kenneth Research has published a detailed report on Artificial Intelligence In Fashion Retail Market which has"
-    publishedDateTime: 2020-03-27T15:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-24?mod=mw_quote_news&tesla=y"
+  - title: "Natural Language Processing Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024"
+    excerpt: "Global “Natural Language Processing Market“ Report 2020report recorddetailed estimation to improvement a complete information of the global Natural Language Processing market today and its industrial outlook based completely on current and purpose marketplace."
+    publishedDateTime: 2020-03-30T07:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024-2020-03-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2023"
-    excerpt: "In enterprise computing, deep learning is evolving into one of the most advanced technologies. Deep learning is a subset"
-    publishedDateTime: 2020-03-27T15:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2023-2020-03-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

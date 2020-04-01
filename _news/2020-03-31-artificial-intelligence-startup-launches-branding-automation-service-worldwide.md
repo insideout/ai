@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence Startup Launches Branding Automation Service Worldwide"
-excerpt: "NEW YORK--(BUSINESS WIRE)--ZeBrand announces the launch of its web-based platform, zebranding.com, designed to automate brand identity creation for startups and small businesses worldwide through their proprietary artificial intelligence-based algorithm. The company solves a crucial pain point for businesses by offering a new way for startups ..."
+excerpt: "NEW YORK--(BUSINESS WIRE)--ZeBrand announces the launch of its web-based platform, zebranding.com, designed to automate brand identity creation for startups and small businesses worldwide through their proprietary artificial intelligence-based algorithm."
 publishedDateTime: 2020-03-31T04:03:00Z
-webUrl: "https://www.businesswire.com/news/home/20200330005389/en/Artificial-Intelligence-Startup-Launches-Branding-Automation-Service"
+webUrl: "https://www.businesswire.com/news/home/20200330005389/en/Artificial-Intelligence-Startup-Launches-Branding-Automation-Service/"
 type: article
 quality: 33
 heat: 33
@@ -35,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 32
 
-secured: "gkRc/FZszfWQzRFj5dYKF+Qzr6iuHSjao8UEd8rRJNy3xQG8yAvRVubzPpOLhOXjCI/8pQ5R27x3xY/EqfytO2iORltQixjXgM7MQycSX9cJXZPzIOgUQCeQS68Prp3HrnkkgSv/EjHxAr9vFBc/dMSddYE82ffDU8mhxI1DwVR1+ReuQmhEDGNyO3COYUMpbYg9rilCw/DvJ+yUY4CLIXHm+ByTJBVh/GLbSm5xYgyjikhmqHQWQ0IQDytRLvYCMxdoPUdBgM+s5NhxeuT69OaJKQhWGPeW9XmxPtBeIiSgmX1B2Asd2Fj43aCGktYM0MUsmsxhETlSSE4nseB2H0uMT3E7GNLBhXAcfcE0HDKyl20W1duwvJhJZ8i/mBj2eAPMW6inzoSxc4OFOksKQ1ERxafeDwB7gNC+I9P053UMnfDr7EZ80tOj8wA615sVJ48R9YdYbQlIQsCgNWFN3R1a4q3tIckAA6wOoHdG9/4=;qv4xyR03bXh1QXgi4+Q3QA=="
+secured: "jWzNWvKDfDwcBuWrhr0qmROuXU+bjPA2T5rbkXOqiVOPOz/gb6o3NgsY5MAyHB9/YgRhzT04N3vmFUvexwV4qJcWjl6NNexMePHX2H2P2VYXSJTYqHeqNb+DICyLyfP9Ua9itWo34AFKhkDQMYn8tOM+YkDHfjyQXl88PfDeRjpxLnahhHwMeeZ+XUTnUtj86nHyJYbeQIe7BdNzWIC+SG2KCboiH8klx9st1SsqlzzTKgVIsxEX/9byqaX6dtiaTx5N2uLAvomNe27n6dSxkbSv5oRipdlRkNiWzlvmQRMqZe1AWM9UQnSWNdrsARMR;dnHt92cVRMMWFTtzoToIXg=="
 ---
 

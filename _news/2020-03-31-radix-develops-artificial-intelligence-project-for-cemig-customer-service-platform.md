@@ -5,8 +5,8 @@ excerpt: "HOUSTON, March 31, 2020 (GLOBE NEWSWIRE) -- Radix is developing a comp
 publishedDateTime: 2020-03-31T14:36:00Z
 webUrl: "https://www.marketwatch.com/press-release/radix-develops-artificial-intelligence-project-for-cemig-customer-service-platform-2020-03-31"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
