@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Deep Learning &amp; Neural Networks with Keras"
+title: "Introduction to Deep Learning & Neural Networks with Keras"
 excerpt: "Learn Introduction to Deep Learning & Neural Networks with Keras from IBM. Looking to start a career in Deep Learning? Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people ..."
 webUrl: https://www.coursera.org/learn/introduction-to-deep-learning-with-keras
 type: course
