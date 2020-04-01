@@ -3,23 +3,23 @@ category: news
 title: "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure"
 excerpt: "CitiusTech H-Scale, combined with Azure, helps customers achieve scale in healthcare data management.” CitiusTech has further enabled Sentara to leverage aggregated information and generate actionable insights by deploying artificial intelligence and machine learning models at an enterprise scale. This is expected to save approximately $3 ..."
 publishedDateTime: 2020-03-12T16:35:00Z
-webUrl: "https://www.valdostadailytimes.com/news/business/sentara-healthcare-partners-with-citiustech-to-deploy-data-platform-on/article_7762990a-010b-52c4-850d-3fa7a192a78b.html"
+webUrl: "https://www.businesswire.com/news/home/20200312005559/en/Sentara-Healthcare-Partners-CitiusTech-Deploy-Data-Platform"
 type: article
 
 provider:
-  name: The Valdosta Daily Times
-  domain: valdostadailytimes.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
-    width: 640
-    height: 336
+  - url: "https://mms.businesswire.com/media/20200312005559/en/779461/23/citiustech_logo.jpg"
+    width: 1200
+    height: 627
     title: "Sentara Healthcare Partners With CitiusTech to Deploy Data Platform on Microsoft Azure"
 
-secured: "UcdJdMDG4x7JX7stjXNih3a5Cl6b7Vg5JzFpSzsbExAGnNA8cJ+eOj/8j28QwGHAQ1b+Y/b1tBRw8HYgW2K7G9NVIP/XLQSIgyPWVDfK2dUMqsnY6TEJqrDIatcdirl4oerPLEQRPTWneA7CIMGSo4JU2EGWnipkw1o9h+rXUjTMKy9/8TlBnJH3kCOVioOyhnmIBa5mp0k/aTvFSs3+gnD4XPVYiLs7TjWAdo3l4g/xzbsz6kIkyERK9rVSfZHrOgZ0uhICXEc9KqMuYW9zzRWi9td+zb6sahWK3rd/HWk+abCYPCHPI1jerMzDiqOi;iCgj6NOuPCRey6VQ9pRn0A=="
+secured: "qDPdWCK4tpjf0wvYC/uGfhzW4m2IhCm0m8cpT6IP7Jper7WII3IfKXAObCkTepnZoJ3eLDW6BFhNkJLcfB8NtHecKPJN4fCfkckXJstpbgd7T0DvpZ6w37KbY2pgsaBQkqI9JSFQKHjNKbUyt/PVw0A98cB0fdN1/bvFHInjeiSV3hCRKQS3CAR6bqbsBP5PEal/sPKCCCsF+8I6cCtkvtqLeHdFsfv279ffqGe1pDct1LSv9hTiwepSgnb77upKetPfV49TrDuzGkdXFp8CjlJepOBW/sLOGZElk01b3TuvYW0hn7r+SHoq0jKie4Cg;8HElGyROqqaBySX+3ZOx1Q=="
 ---
 

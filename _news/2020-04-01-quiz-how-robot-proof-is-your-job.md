@@ -23,6 +23,6 @@ images:
     height: 467
     title: "Quiz: How Robot-proof Is Your Job?"
 
-secured: "UIjlTMYMzmQ7kA32eqvmMnQQi0SdlCSieCLRBxEVkIIK0IL4n0mbKDnbWWaAFuHmKLYWkCzqXDtvmhgE0aAVyVcS+SCLx7a91lS5i5IZrbJ/mic5juDu2i3bcKk96xduXIXisQAsI7TJNnG0EAVAfftnA3Tr5sXNeUcy2dF1esWezx9yPFpTkYRwgcIM97HMHQxTwiERL7G9T7xx/czpvlZ06Bte3BpCWVh+kc/hO2lXPI+3mKVsX/1IcS2sqDhrKBTnwt39vhrnoesnzTyPnj6YG8xhXpBga4YVSXpl0f/S5xZQYyquK+pF7BLWM55e;7G7/od8+GccywbFmRRvDHw=="
+secured: "d9dMPPocnpi+SxY20qjfalG41m6u5kRBSBjpByO38y7UW7PxGHNzdKDJr+jzG+PywwRfYF0lJHZVLX0O2lsU5q4wwRM1YJpXT5lX/rObI0bL8IfK+B2SFii0PZ7Lqs+eqgbTu1p1BdeM/4L2y+7xBZ09zaowZDe6Ooo5cLaA5dFgwxJgRcj3fnCiIJz1JbFcZJ3ml5beT/bsipL4u1+FwkHIBw32lTjwPe1PuZhrTNCjt3TP8yPBBqNL1uWl+HgB82dD91jH43f+I73tI2xzDgj/jEbYzolByofYyNaR9feHrIBSZf+T8f0MCo6ggJO/TQffBJEYgXl/iUM3cY32l1HkHrXPh+5yk601cpzEAE2rDu34//Ic/VFom4d+DNxH6zWLWd+2GeuHdElZykmwJlHfxWSfZFZmu5SnF1OubraKQnulxcAVDCctkQ2g6IOgRY/yDc5Zl8ffu8Pxgz2TdREEIjjE/v2MtX7xjfOkxuM=;8twxUNn6IChMWbQa1B6Vqg=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 576
     title: "‘Human experts will make the call’: Stanford launches an accelerated test of AI to help care for Covid-19 patients"
 
-secured: "vi+mnCt56Aa0Hup74jrzzifEhb9Lcp03XZv8MpLn2624gA+cAERi/eY5Smb102w00enWF/1wzLJqXJzkYfj8gYTnbZKwcm2MXqNgXPTBXCbvMYX/kMQXwON+5P813egTr+/bbkOXAXBj42KU2ameRZFmgPhoqg+CQMC4Egk78g3q7aWKq3u87t7DC5+V5r7rFBlgGs5TrpZN03XJfhyJvy//gcJDkldzdSV747j/+Vz2E3M7o5fiLla6xlJzl0B3/nfqdT4UEC+BnKC8G15kvNT7KpH0N64Iz4GK/cxp8dKfETFNH8uLh0RAywfV85rX;5xATvDJSeghdViZ0sGC0yw=="
+secured: "wl07B2VojCJq3izXQ7vjV2liYGwber00gFyZESMbycYDIiWH5YOGg+/Fa/KvPd8rv6kSpex42Pduh2BxVnVTDMPOvfTu3Cf8JXVs56uftmFvcKV+jQWCwk5WX3GI2TH6JbXo2W6PAU6yupc+qsQm1hL6IdpZJu7DCxzoCZNgVFB4S4xVHOyMZ926r5iciXIF0r8GWD8DyTBgJRExj2r6fGPvW9MqQxb8J7V5HcCWMA3w8+FVxjky/wx33BPe7HhkZVB3WkQ9RiqMw5UZ3HTAKdcDOMptzehsBh2E8lqwG1VHDW+bNKl5lhWujKE/uJ93ny8l1rvPqu1LuuVe01WvZJI1uBY6D/lhEUGXANl660QaLhgn5tYAyGzlkv/8oZ9YVtgF6MjKfvgojozYxKZyvRlMPwulhdkPZ29soh/X+iVsq3E1oNcI090PlDm+ss9H5IMiLWhd/2n9X1qIlGFhX8bfejBaaDE0eXrNVc/lNFg=;xW7G7RGYRiRP8O0P2Lc69w=="
 ---
 

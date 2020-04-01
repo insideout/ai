@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-01T09:32:00Z
 webUrl: "https://analyticsindiamag.com/how-deeptechvision-ai-startup-is-enabling-hearing-impaired-people-to-communicate-freely/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     height: 726
     title: "How DeepTechVision.AI Startup Is Enabling Hearing Impaired People To Communicate Freely"
 
-secured: "zgthDb3PO4QHn4dwcZA0xZMkx4cqYEQPh0D3G0xPVVKw8FQv8WCHqlEJK9ubBncjtqxEIo5Y2kgh5nzKrGvmTQqX3yfZZ+DiOu8XvH1i5Sf1zVzVsINQDK1V4tdXGYs8XGVzRAs6y/MsSLD1oCwwi8hr9DnOf6d8E7vLUTj4XjHSYPVdgG8r8LgBOBgdo8X3Sif0tJQOxY4CJq2oyHExQtmED7j6Pcf1WcYWNi3WTQWtd8TnjGpph++rkiShHzj88ECJTOJAdXmRiRljZG69trCDGyzJdZTH3LkhhHtLslBqnGpAt/QdZhO+B1tT1Hjg;aTYTYnjbbuoEFmU5DEjFtA=="
+related:
+  - title: "How DeepVisionTech.AI Is Enabling Deaf Patients To Communicate Freely"
+    excerpt: "Also Read Startup of the Week: Delhi AI startup Nube Technologies consolidates business data through machine ... 2) Generative Adversarial Networks (GANs) for speech/text to sign language translation and synthetic voice creation. 3) Natural Language Processing (NLP) to form sentences post interpretation of sign language signs."
+    publishedDateTime: 2020-04-01T11:10:00Z
+    webUrl: "https://analyticsindiamag.com/deepvisiontech-ai-startup/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/DeepTechVision-LetsTalkSign.jpg"
+        width: 854
+        height: 726
+
+secured: "njlEukRkg1HJNZVDeF7L7SX9blN0S0Y2JYC/8kopqHGITpbkg2+Sk+WH1d4J0uxkXUlGPakkrkAn3vgf1Cy1tQjgxjALNpdn75e+KXHaiHLmAuri38l/5cjawlaTtKdROxxHrhj9TcKX/XbrJX+lWOhe4Oc5rfS9hy3o1eiSTmLg7acE21CcM6Dtri6IcS7ByLwZQ6rgu1HWCxRVkwvwDgxZq06yuTX/Ph+oe0l3FJc0uRdJwi0C7dqZSdIEe8mzEC4DjIHR5bNt/q2Z+dmEEKRL62ZwJwo2QDMx+1B3gxOFXHOwV3akiL3nGsb2+prO+c5r1u56IPU2uJTu8NWlYO+XuEr4WJC+HrrHRyFXVKe4UvnuRpXcTVZev4crNsL1OaC1qQ4J1DNRpOKAEMWrPwqKNKHmYz9A78lIBJRFR8PR8qeBMnCpSdlSZYY5DBSH8KheeHq0wTwiAUBtEydFd2Qn75TjrLozq9vbHAvneyU=;1n/zLAC1c7eclvmP2ln+sg=="
 ---
 

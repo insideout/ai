@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning"
 
-secured: "YG1iOFpttF2JquzUfjogQNbQ++CuSToQOT7DPzHU+OHJzJmpN9jiIgDGIfgtckBeHT+O9vDa+FuGJ06gOLKgE5Si3PH6Vc5koT0lHtuVC/f5M3nM4hAJSrLsw5f8eibc1QvdF8BdNezoqtn8JPdeKE7JPH7Owk7KQupyGSFttSUL5qCKUCu/NoAVKk+AEdfGw5ORDV/99BhVMvQFAMFsZWNspjakr/+eur68HwRir1kSf5/eps3L/qSUHErDjS7xnGEBygUyHwwRr7azkcOXgCLN17MvImH2Emz8tIwbPLo+/KawKGPiNPcC91EV/9nD;3pM4ZC2AC+15d2PdfqdijQ=="
+secured: "hdMwtonxEahe4CBfFKQssHC4O4miNCnwIai3YbHiibHI4Sz3+ze8Mohc261D59FkZKTezQarWkHQlwlwHWxvVdxCnwRq0lAU74V/QmCPMM+k8sxtSeayaQZ7MJu/9LJMkaAOFR0KxVYh2lszEbP7RCa5Eq89AVgLRRftz98GasjPr4VtQZS+yKNRrJaXVPK+t1VV9LFsALf4Z9kGUmBmEB+k6nEv/G/86MDS5jd/YsvBYR2n2iIg0daYEMpP+ri4ZPh9egynciGHWVRD0hX7ZycLRU7YT56X5Swe83oKUvdsk0TLn51Ox9/QxuGd4u+O;ml7fYswslHj/RsKxtAD0MA=="
 ---
 
