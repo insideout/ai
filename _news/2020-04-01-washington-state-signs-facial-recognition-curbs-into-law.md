@@ -52,6 +52,19 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Microsoft Praises Washington State Stance on Facial Recognition"
+    excerpt: "Microsoft has been asking governments to regulate facial recognition for the past two years. One U.S. state is finally listening. “Washington Governor Jay Inslee has signed landmark facial recognition legislation that the state legislature passed on March 12,” Microsoft president Brad Smith writes in one of the software giant’s corporate ..."
+    publishedDateTime: 2020-04-01T12:06:00Z
+    webUrl: "https://www.thurrott.com/microsoft/233956/microsoft-praises-washington-state-stance-on-facial-recognition"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 54
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
+        width: 1066
+        height: 600
   - title: "Washington State signs facial recognition curbs into law; critics want ban"
     excerpt: "SAN FRANCISCO: Washington Governor Jay Inslee on Tuesday (Mar 31) signed the first U.S. state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. Facial recognition software can identify individuals in photos and videos ..."
     publishedDateTime: 2020-03-31T23:56:00Z

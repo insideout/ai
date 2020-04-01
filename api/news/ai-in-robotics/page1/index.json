@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
+      "title": "AI vs your career? What artificial intelligence will really do to the future of work",
+      "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "publishedDateTime": "2020-04-01T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/04/657acd78-13b6-4989-8ecf-673fb8d38d60/thumbnail/1200x675/ab7a6c328b2d02457d5800ac6d49ad7f/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI vs your career? What artificial intelligence will really do to the future of work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans.md",
       "title": "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans",
       "excerpt": "In a new study, researchers at MIT’s Computer Science and Artificial Intelligence Lab propose a framework called CommPlan, which gives robots that work alongside humans principles for “good etiquette” and leave it to the robots to make decisions that let them finish tasks efficiently. They claim it’s a superior approach to handcrafted ...",
@@ -1179,51 +1224,6 @@
           "width": 2154,
           "height": 1350,
           "title": "How Artificial Intelligence Will Impact Your Business in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools.md",
-      "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
-      "excerpt": "These are the companies that are working on hardware, robotics, AI, machine learning or tools for developers ... Morphle: Designed to replace outdated analog microscopes, Morphle’s system uses robotic automation to improve imaging. The startup processes higher-resolution images than far pricier systems and with a much smaller failure rate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
-      "publishedDateTime": "2020-03-17T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/agnoris.png?w=680",
-          "width": 680,
-          "height": 412,
-          "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
           "attribution": null
         }
       ],

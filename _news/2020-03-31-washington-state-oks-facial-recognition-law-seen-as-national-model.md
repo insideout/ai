@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/washington-state-oks-facial-recogni
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -43,6 +43,19 @@ related:
       - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
         width: 1200
         height: 630
+  - title: "Microsoft Praises Washington State Stance on Facial Recognition"
+    excerpt: "Microsoft has been asking governments to regulate facial recognition for the past two years. One U.S. state is finally listening. “Washington Governor Jay Inslee has signed landmark facial recognition legislation that the state legislature passed on March 12,” Microsoft president Brad Smith writes in one of the software giant’s corporate ..."
+    publishedDateTime: 2020-04-01T12:06:00Z
+    webUrl: "https://www.thurrott.com/microsoft/233956/microsoft-praises-washington-state-stance-on-facial-recognition"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 54
+    images:
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
+        width: 1066
+        height: 600
   - title: "Washington State signs facial recognition curbs into law"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
     publishedDateTime: 2020-04-01T02:47:00Z

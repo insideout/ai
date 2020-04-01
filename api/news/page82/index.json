@@ -2,6 +2,347 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-01-17-sensetimes-ai-generates-realistic-deepfake-videos.md",
+      "title": "SenseTime’s AI generates realistic deepfake videos",
+      "excerpt": "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/",
+      "publishedDateTime": "2020-01-17T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepfake_sensetime-e1579279865680.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SenseTime’s AI generates realistic deepfake videos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
+      "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+      "excerpt": "German supplier Bosch is notably moving full speed ahead with its quest to make driverless cars a reality. Kay Stepper, Bosch’s senior vice president of automated driving, sat down with Digital Trends to talk about the state of autonomous driving in 2020, and what’s next for the artificial intelligence technology that powers the prototypes ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/bosch-state-of-self-driving-cars-2020/?amp",
+      "publishedDateTime": "2020-01-17T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/bosch-daimler-autonomous-s-class-1-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-patent-dominance-top-5-companies-leading-the-charge.md",
+      "title": "Patent Dominance: Top 5 Companies Leading the Charge",
+      "excerpt": "P atents are considered one of the best representations of a company’s inventive activity. Patenting an innovation is a crucial step to secure and convert research and development (R&D) efforts into potential economic gains.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17",
+      "ampWebUrl": "https://www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/patent-dominance%3A-top-5-companies-leading-the-charge-2020-01-17?amp",
+      "publishedDateTime": "2020-01-17T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-07/ibm2.jpg",
+          "width": 1000,
+          "height": 665,
+          "title": "Patent Dominance: Top 5 Companies Leading the Charge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
+      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "publishedDateTime": "2020-01-17T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently.md",
+      "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
+      "excerpt": "In London, the National Health Service’s 111 helpline receives up to 32,000 urgent calls every week. Here's how AI is helping the organisation deliver urgent medical health accurately and quickly.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/",
+      "ampWebUrl": "https://www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nicholasfearn/2020/01/17/how-nhs-111-london-is-using-ai-to-ensure-patients-get-the-care-they-need-urgently/amp/",
+      "publishedDateTime": "2020-01-17T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1187779623%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How NHS 111 London Is Using AI To Ensure Patients Get The Care They Need Urgently",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-ab-inbev-taps-machine-learning-to-root-out-corruption.md",
+      "title": "AB InBev Taps Machine Learning to Root Out Corruption",
+      "excerpt": "The company that stands out for taking a data-driven approach to preventing bribery and corruption isn’t part of the tech sector. In fact, its product predates the wheel.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ab-inbev-taps-machine-learning-to-root-out-corruption-11579257001",
+      "publishedDateTime": "2020-01-17T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-144949/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AB InBev Taps Machine Learning to Root Out Corruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority.md",
+      "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
+      "excerpt": "According to Wong, there is already a pervasive adoption of artificial intelligence across industries such as manufacturing, healthcare, retail, and the public sector. Early success in those industries is likely to further influence the examination of new applications of the technology to enhance competitiveness in today’s digital age.",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techwireasia.com/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "ampWebUrl": "https://techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
+      "publishedDateTime": "2020-01-17T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/01/shutterstock_165333119.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-apples-low-power-ai-acquisition-will-bolster-its-surging-ar-play.md",
+      "title": "Apple's low-power AI acquisition will bolster its surging AR play",
+      "excerpt": "Apple acquired Xnor.ai, and the startup's low-power, edge-based AI tools will allow Apple to add AI features to power-constrained devices.",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/apple-artificial-intelligence-startup-xnorai-augmented-reality-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ab12aa51225bc29008b4c30?width=1200&format=jpeg",
+          "width": 900,
+          "height": 450,
+          "title": "Apple's low-power AI acquisition will bolster its surging AR play",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-spaces.md",
       "title": "EU mulls 5-year ban on facial recognition tech in public spaces",
       "excerpt": "(Reuters) — The European Union is considering banning facial recognition technology in public areas for up to five years to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU’s executive — set out in an 18-page white paper — comes amid a global debate about the systems driven by ...",
@@ -728,330 +1069,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-how-nigeria-can-earn-forex-from-robotics-ai-expert-politics-nairaland.md",
-      "title": "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland",
-      "excerpt": "Training Nigeria’s youth in robotics and artificial intelligence (AI) will eventually give Nigeria forex earnings. This is because companies in the Western world have a demand for affordable robotics and AI products and Nigeria is in a good position to provide such. This is the position of Dr Olusola Ayoola, a robotics and AI expert ...",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nairaland.com/5635671/how-nigeria-earn-forex-robotics",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T15:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nairaland",
-        "domain": "nairaland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://331746-1018445-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/01/Ayoola-Olusola-1.jpg",
-          "width": 350,
-          "height": 419,
-          "title": "How Nigeria Can Earn Forex From Robotics, AI ― Expert - Politics - Nairaland",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-ai-and-robots-could-be-the-future-of-agriculture-strictly-robots.md",
-      "title": "AI and robots could be the future of agriculture — Strictly Robots",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/farmwise-ai-robots-farming/",
-      "ampWebUrl": "https://mashable.com/video/farmwise-ai-robots-farming.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp",
-      "publishedDateTime": "2020-01-16T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=",
-          "width": 1200,
-          "height": 630,
-          "title": "AI and robots could be the future of agriculture — Strictly Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-nrf-2020-for-retailers-voice-recognition-is-a-major-untapped-opportunity.md",
-      "title": "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity",
-      "excerpt": "Still, most retailers have struggled to harness voice recognition. That needs to change, Gauthier argued. People are increasingly demanding the ability to communicate digitally without using their hands, and retail brands that get in front of the trend will benefit greatly. “We learn to talk before we learn to type,” Gauthier said.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp",
-      "publishedDateTime": "2020-01-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202001/voice%20shopping%20hero.jpg?itok=0JeW9_e_",
-          "width": 1440,
-          "height": 500,
-          "title": "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai.md",
-      "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
-      "excerpt": "AI and privacy needn’t be mutually exclusive. After a decade in the labs, homomorphic encryption (HE) is emerging as a top way to help protect data privacy in machine learning (ML) and cloud computing. It’s a timely breakthrough: Data from ML is doubling yearly. At the same time, concern about related data privacy and security is growing ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
-      "publishedDateTime": "2020-01-16T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all",
-          "width": 1906,
-          "height": 953,
-          "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas.md",
-      "title": "EU mulls five-year ban on facial recognition tech in public areas",
-      "excerpt": "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters.",
-      "heat": 429,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "publishedDateTime": "2020-01-16T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "EU mulls five-year ban on facial recognition tech in public areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-cornerstone-acquires-clustree-for-its-ai-powered-skills-engine.md",
-      "title": "Cornerstone acquires Clustree for its AI-powered skills engine",
-      "excerpt": "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ...",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "publishedDateTime": "2020-01-16T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-wefs-global-risk-report-warns-of-dark-side-of-iot-ai-quantum-computing.md",
-      "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
-      "excerpt": "World Economic Forum report once again lists cyberattacks as one of the top threats facing the world in 2020 - alongside climate change, extreme weather and natural disasters.",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/the-dark-side-of-iot-ai-and-quantum-computing-hacking-data-breaches-and-existential-threat/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/16/5ea6ba0a-4030-49b7-a3f9-dbf447ba670f/thumbnail/770x578/a5b4b36b32be1fcd06abadda16803865/the-dark-side-of-iot-ai-and-quantum-comp-5e20988d4435920001905e9d-1-jan-16-2020-17-10-41-poster.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "WEF's Global Risk Report warns of dark side of IoT, AI, quantum computing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.md",
-      "title": "EU mulls 5-year ban on facial recognition tech in public areas",
-      "excerpt": "BRUSSELS, Jan 16 (Reuters) - The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters. The plan by the EU's executive - set out in an 18-page white paper - comes amid a global debate about the systems ...",
-      "heat": 419,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/16/reuters-america-eu-mulls-5-year-ban-on-facial-recognition-tech-in-public-areas.html",
-      "publishedDateTime": "2020-01-16T12:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif?v=1524171804",
-          "width": 1200,
-          "height": 630,
-          "title": "EU mulls 5-year ban on facial recognition tech in public areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

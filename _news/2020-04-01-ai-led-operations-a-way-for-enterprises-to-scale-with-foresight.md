@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operat
 ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-49.jpg"
@@ -28,6 +29,6 @@ images:
     height: 640
     title: "AI-Led Operations: A Way For Enterprises To Scale With Foresight"
 
-secured: "9Rk0feh0UYK7Go9KkwyO0HP68gyR6LDnC4dfrONhXpDqdqTLRN6GyqTJ4TrA37UV4oAojS5UufwyVBuKM8KHXTppwZ1S8GFixMskS+ieglWBgXKwZkvRttdA4/IM40Ey4xfMiIOooeAqf3Y/WSZ3GvaiShG5QkSVeDsJ+wolxiDm208OKd4dSiQn5NlpT6d2DsVgObJscz+sjH6ve4WC+vsq4+RQZXLzTkiypF7inrzEahdq48lm4XmpvOYuWCJGzcyKNhrzuK7C/vu+4Dsvyy7jcB81Olu9tFzn/edliBUV4iCcP+LvoUV+kQTiVvkG;5408vgWKsNJGQZiKbfoRTg=="
+secured: "0R47GAzlchApiaaHyG+gDFujZdlS/18KCgPaxXUpVa1jiTPYdllFJu0VOFgsG7Yo+N7z8tBdMIQvkZmKUBJRkm6CNN9n3UT4xocfMGFGGm8sHx/ldF2jiCZ2FEQCWOS8LustsotjlKCOXx1NqMN9FgD2u9g5zRcIJXtLB26dTi9Th5LebJmSxmy7VoOQJisjMfPossupPVg17jYFeM0RSMRFkipdNaTVg51EeBeni9+EotXdDDBTl8qno/pdSiE5J+kFW1RjA9qq3RW3KZWEmTir4dsXQYkqObK/uAd3Sf+6aoAx0cIvxAqQNnbbF0F40Bf4mtepLN4UBkiF1fil2DTjbMCD95+3z8sloV+A+lJROgtLZkzbuAq/74vgGR5NwpaQiPD9MLWmdNJgFuDN9Dltm8SpGulDjZIN/HPcw/PZuItDGRn93M8+aI01cO0RHv79Hyo2kjj52u1hDOOII3C9X3i+WZCG5NQiAInsAgQ=;1AdYH05a8HzwdRiVBP+nhg=="
 ---
 

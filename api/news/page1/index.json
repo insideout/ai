@@ -2,6 +2,364 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-ai-for-business-whats-going-wrong-and-how-to-get-it-right.md",
+      "title": "AI for business: What's going wrong, and how to get it right",
+      "excerpt": "Despite years of hype (and plenty of worries) about the all-conquering power of Artificial Intelligence (AI), there still remains a significant gap between the promise of AI and its reality for business. Tech firms have pitched AI's capabilities for years, but for most organisations, the benefits of AI remain elusive. It's hard to gauge the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/",
+      "publishedDateTime": "2020-04-01T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/11/29d9c9c7-9b3e-4238-850d-13abf03f6a22/1-gartner-orgas-want-to-deploy-more-ai.png",
+          "width": 1200,
+          "height": 626,
+          "title": "AI for business: What's going wrong, and how to get it right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai.md",
+      "title": "CIO Jury: 83% of tech leaders have no policy for ethically using AI",
+      "excerpt": "Read More When asked, \"Does your company have a policy for ethically using AI or machine learning?\" 10 out of 12 tech leaders said no, while just two said yes. That means only 17% of tech leaders in TechRepublic's informal poll have an ethics policy in place for AI and ML. Exactly 12 months ago, TechRepublic asked the same question to its CIO ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai/",
+      "publishedDateTime": "2020-04-01T06:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/04/1f124c5b-e8c9-4e32-bd55-0b43c2ebaad2/thumbnail/1200x675/e2dadb62383d012b4fc239d2dd0ac8e1/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "CIO Jury: 83% of tech leaders have no policy for ethically using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech.md",
+      "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
+      "excerpt": "What's more: algorithmic bias is only one side of the problem: the 'ethics of AI' picture is indeed a multifaceted one. To mitigate the unwelcome consequences of AI systems, governments around the world have been working on drafts, guidelines and frameworks designed to inform developers and help them come up with algorithms that are respectful ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
+      "publishedDateTime": "2020-04-01T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
+      "title": "AI vs your career? What artificial intelligence will really do to the future of work",
+      "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "publishedDateTime": "2020-04-01T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/04/657acd78-13b6-4989-8ecf-673fb8d38d60/thumbnail/1200x675/ab7a6c328b2d02457d5800ac6d49ad7f/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI vs your career? What artificial intelligence will really do to the future of work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
+      "title": "AI and ML move into financial services",
+      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
+      "publishedDateTime": "2020-04-01T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and ML move into financial services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets.md",
+      "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
+      "excerpt": "There is no shortage of big data sets in the healthcare world, encompassing everything from chest X-rays to drug research. Startups and established companies alike are both using artificial intelligence (AI) and machine learning to analyze these data sets and use the results to guide business strategy and treatment plans. Special Feature ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
+      "publishedDateTime": "2020-04-01T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/12/dd98591c-0dd3-4ca8-b9b9-a86a1a885ead/thumbnail/1200x675/eb84aa5cfc1c259d5633e76710557363/ibm-tests-the-use-of-artificial-intellig-5e69776e710b2800019c9e04-1-mar-12-2020-2-28-12-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting.md",
+      "title": "How artificial intelligence and machine learning are used in hiring and recruiting",
+      "excerpt": "The hiring process has come a long way from the days of paper resumés and cold calls via landline. Online job sites are now staples in talent acquisition, but artificial intelligence (AI) and machine learning are elevating the recruiting and hiring landscape. Special Feature: Managing AI and ML in the Enterprise This ebook, based on the ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
+      "publishedDateTime": "2020-04-01T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/13/4e4cd8eb-2afd-473d-975b-c13946cf39b2/thumbnail/1200x675/dad81bd63119e6cc97708778a9d27876/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How artificial intelligence and machine learning are used in hiring and recruiting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
+      "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+      "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "publishedDateTime": "2020-04-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/4a082aa2-73ef-11ea-ab8f-988daf8efd6f_image_hires_215024.JPG?itok=j8en0PIv&v=1585749033",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-actioning-individual-customer-context-with-artificial-intelligence.md",
       "title": "Actioning Individual Customer Context With Artificial Intelligence",
       "excerpt": "The current capabilities of ML and AI allow not only the complete context of the customer to be gathered instantly, but also to serve the experience most likely to drive customers lower down the funnel.",
@@ -49,7 +407,7 @@
       "path": "_news/2020-04-01-ai-led-operations-a-way-for-enterprises-to-scale-with-foresight.md",
       "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
       "excerpt": "Things move quickly in business today. And organizations are increasingly using data to move their businesses forward. IT systems are generating a growing variety, velocity and volume of data. This both creates challenges and opens up new opportunities.",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/",
@@ -86,7 +444,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -540,7 +899,7 @@
       "path": "_news/2020-03-31-washington-state-oks-facial-recognition-law-seen-as-national-model.md",
       "title": "Washington State OKs Facial Recognition Law Seen as National Model",
       "excerpt": "Washington state adopted a Microsoft Corp.-backed law enshrining the most detailed regulations of facial recognition in the U.S.",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
@@ -749,347 +1108,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
-      "title": "ModelOps Is The Key To Enterprise AI",
-      "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
-      "publishedDateTime": "2020-03-31T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e836f72a547180006512144%2F0x0.jpg",
-          "width": 1200,
-          "height": 692,
-          "title": "ModelOps Is The Key To Enterprise AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts.md",
-      "title": "Claims that AI detects coronavirus in X-rays aren’t convincing medical experts",
-      "excerpt": "This makes it hard to breathe as there’s little space remaining for fresh air to enter. These effects have led a host of tech firms to release AI systems that can detect signs of the infection in the lungs. Their rationale is straightforward: AI, and in particular deep learning, has had some of its biggest successes in classifying features in ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/amp/",
-      "publishedDateTime": "2020-03-31T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design44-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Claims that AI detects coronavirus in X-rays aren’t convincing medical experts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-lenovo-teams-with-microsoft-azure-at-the-edge.md",
-      "title": "Lenovo Teams With Microsoft Azure At The Edge",
-      "excerpt": "At the Transform 2019 event, Lenovo introduced the ThinkSystem ES350, an edge server about the size of a notebook powered by Intel’s Xeon-D chip and Nvidia Tesla T4 GPU accelerators and aimed at workloads like machine learning inference ... The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/",
-      "ampWebUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
-      "publishedDateTime": "2020-03-31T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": "Lenovo Teams With Microsoft Azure At The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-microsoft-launches-edge-zones-for-azure.md",
-      "title": "Microsoft launches Edge Zones for Azure",
-      "excerpt": "As far as the details of the various Edge Zone versions go, the focus of Edge Zones is mostly on IoT and AI workloads, while Microsoft notes that Edge Zones with Carriers is more about low-latency online gaming, remote meetings and events, as well as smart infrastructure. Private Edge Zones, which combine private carrier networks with Azure ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
-      "publishedDateTime": "2020-03-31T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Microsoft launches Edge Zones for Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-deepminds-agent57-beats-humans-at-57-classic-atari-games.md",
-      "title": "DeepMind’s Agent57 beats humans at 57 classic Atari games",
-      "excerpt": "In a preprint paper published this week by DeepMind, Google parent company Alphabet’s U.K.-based research division, a team of scientists describe Agent57, which they say is the first system that outperforms humans on all 57 Atari games in the Arcade Learning Environment data set. Assuming the claim holds water, Agent57 could lay the ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/amp/",
-      "publishedDateTime": "2020-03-31T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind’s Agent57 beats humans at 57 classic Atari games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-artificial-intelligence-could-help-identify-future-diabetes-patients.md",
-      "title": "Artificial intelligence 'could help identify future diabetes patients'",
-      "excerpt": "Scientists have developed a new technology that uses artificial intelligence to predict whether a patient will develop diabetes. It uses machine learning algorithms to assess a person's risk.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8171941/Artificial-intelligence-help-identify-future-diabetes-patients.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8171941/amp/Artificial-intelligence-help-identify-future-diabetes-patients.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8171941/amp/Artificial-intelligence-help-identify-future-diabetes-patients.html",
-      "publishedDateTime": "2020-03-31T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/03/31/14/wire-26632158-1585659887-555_636x382.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Artificial intelligence 'could help identify future diabetes patients'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-niantic-acquires-6dai-which-is-mapping-the-world-in-3d.md",
-      "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
-      "excerpt": "Niantic has acquired 6D.ai, an augmented reality company that is building a 3D map of the world using only smartphone cameras. CEO John Hanke said in a blog post that the dynamic, 3D map of the world could enable new kinds of planet-scale AR experiences. “This means we’re even closer to an AR platform that will unlock the ability for any ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/",
-      "publishedDateTime": "2020-03-31T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/6d.jpg?fit=1200%2C515&strip=all",
-          "width": 1200,
-          "height": 515,
-          "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process.md",
-      "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
-      "excerpt": "As global economic grows each year, firms work tirelessly to recruit the best talent available on the market. Kerry and Anna Wang understood the canonical problem in acquiring talent and built Searchlight.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
-      "publishedDateTime": "2020-03-31T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7fdebce3d3600007fb3de0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

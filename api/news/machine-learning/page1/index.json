@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting.md",
+      "title": "How artificial intelligence and machine learning are used in hiring and recruiting",
+      "excerpt": "The hiring process has come a long way from the days of paper resumés and cold calls via landline. Online job sites are now staples in talent acquisition, but artificial intelligence (AI) and machine learning are elevating the recruiting and hiring landscape. Special Feature: Managing AI and ML in the Enterprise This ebook, based on the ...",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
+      "publishedDateTime": "2020-04-01T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/13/4e4cd8eb-2afd-473d-975b-c13946cf39b2/thumbnail/1200x675/dad81bd63119e6cc97708778a9d27876/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How artificial intelligence and machine learning are used in hiring and recruiting",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
       "title": "ModelOps Is The Key To Enterprise AI",
       "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
@@ -1243,43 +1288,6 @@
           "width": 645,
           "height": 315,
           "title": "Synergy Emergence in Deep Reinforcement Motor Learning (image)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
-      "title": "Synergy emergence in deep reinforcement motor learning",
-      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
-          "width": 645,
-          "height": 315,
-          "title": "Synergy emergence in deep reinforcement motor learning",
           "attribution": null
         }
       ],

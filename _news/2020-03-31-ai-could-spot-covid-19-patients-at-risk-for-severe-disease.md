@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI could spot COVID-19 patients at risk for severe disease"
-excerpt: "Developed by U.S. and Chinese researchers, the artificial intelligence, or AI, program has been tested at two hospitals in China with 53 patients who were diagnosed in January with COVID-19. The new tool is considered experimental and is now in testing. The aim is to help doctors make the best use of limited resources, by identifying early on ..."
+excerpt: "An international team has designed a computer program that predicts with up to 80 percent accuracy which COVID-19 patients will develop serious respiratory disease."
 publishedDateTime: 2020-03-31T16:40:00Z
-webUrl: "https://www.upi.com/Health_News/2020/03/31/AI-could-spot-COVID-19-patients-at-risk-for-severe-disease/3091585672019/?sl=1"
+webUrl: "https://www.upi.com/Health_News/2020/03/31/AI-could-spot-COVID-19-patients-at-risk-for-severe-disease/3091585672019/"
 ampWebUrl: "https://www.upi.com/amp/Health_News/2020/03/31/AI-could-spot-COVID-19-patients-at-risk-for-severe-disease/3091585672019/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/03/31/AI-could-spot-COVID-19-patients-at-risk-for-severe-disease/3091585672019/"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 533
     title: "AI could spot COVID-19 patients at risk for severe disease"
 
-secured: "3r5ZzfV1xjrCw57vCtFPqiZfh/i6GTCdvDRc4pyRLP9wt7k5efpEaX6UTXDH/TXCFOWH+OL5zdf8IgL9zYPkJd4loJHDBIQRflfnYgg7ZgiW2/dod8/GQBj27KwlRbqMzkdft+aQZuomsi7kyFG/sFX+v8ZqAdsrEl8f4rUDk3VqwHU/b4wCpRm9nAS4n70ONrduSTx+/MiuPckXMcybArzIGaE0+p7oqKjOzDjbuDF2lLalbwhWza3a4Q/Xg2tV4ClXDZVJkFHF4Yt26Zougjiftrl6QSFcGdOK3HN4l8CJy+zPmYdB6Gef2jmO47jz;5Be5HnBakOFyk7glqW5vgA=="
+secured: "uNyhyjft2VQiN30g1VHlBndTcn7LDhSVkKp6egHSqL2ZPt5NVijvFZ9Q2IOjZ7PYN9D3BGJXz2ztxX7tG8riw2+dtKx0jp4OL1AHvY95t9xKeIq2VmhMff5R8E6zscGIKig0lxh90p//gKMntsZE5aWPluZY+SAUlbqhesindDcCqN3ejO4JgmXxdt/dOY4arAiAk5yP/tUUa1Qw6GsrUOs2x5JHFuE5lSLMHLPNHVva7ezSITEzim3WiNE636Ua4UBcwHuWfDCL+pcAdarBq2Aus2UQehuJ/1Xt/81P2NxeV51w7mL8lHOX7vAawI76;SGAxCcMrzyXmPJ31zW3QPA=="
 ---
 

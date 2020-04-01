@@ -1,28 +1,28 @@
 ---
 category: news
 title: "OneConnect's Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years"
-excerpt: "OneConnect Financial Technology Co., Ltd. ('OneConnect' or the 'Company') (NYSE: OCFT)', a leading technology-as-a-service platform serving"
+excerpt: "For two consecutive years, Gamma Lab won the FinTech Team of the Year award, demonstrating OneConnect's industry leading position in both AI technology R&D and deployment. Gamma Lab not only has the leading AI technology, but also deploys the technology in financial scenarios. Its remote agent service uses robots rather than humans to reach ..."
 publishedDateTime: 2020-03-31T09:05:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-s-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years-1029047850"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/oneconnect-s-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years-1029047850"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-s-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years-1029047850"
+webUrl: "https://www.businesswire.com/news/home/20200331005315/en/OneConnects-Gamma-Lab-Wins-FinTech-Team-Year"
 type: article
-quality: 41
-heat: 41
+quality: 11
+heat: 11
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "4aavkI5ZHS5k4mmZQ+hPv69Ix2EzzcgxnV0kUz0t4ZtBkwH176A7C6BOA3UlVYUgeO7uhCPeRBjlyvjXODZN3VRAltISMKqCmISmfROhOSinplCrGJOvVS8cXv8vqB5fpWSEydnMu3vbC2mZRloccWs1Ji8Pp1xdlHboPbDaUsMiy2+Y6/NYpbpkaxzSMW49I5jvS6Kxzs1JMmDiSqAblR2Wp2EczdEGSFi++ULSA7mzfghCdy8WaYKwgXV+mZNshWjn5gtWz0OuYj8WNChE2Ay1KyWEJRMEk4NRl35KQ5mdQ1MOlZ5BuHeaZhzBgBMJEeSbv2QJ96TS6Lr/qghIsHE2jFcHOvqwfEkEQ8p242J+WUJRGfwpL1bPwNB43tDzaYwDws3mNhWrgG11CqwpqcKxDcswWiPDQv8j32wvA9yGsBdPaJFOX0bPiPnId4jQsS+iR0iX+//gphlXk+v2Uz+ZCtDLCtT7TVA17r/E3Y0=;aJdirr0GBM5gPJLbkgXdOQ=="
+images:
+  - url: "https://mms.businesswire.com/media/20200331005315/en/782479/23/project.jpg"
+    width: 1200
+    height: 627
+    title: "OneConnect's Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years"
+
+secured: "pS5HerPwO94j/ECH7L2c2e36pBxEffuuwAeZslRMAfrJd4505vJh8mcuv+ZWBpUNqm7Y2rt+iIYGawODkg9GRP0ePNq8kvICo1Lzvr0/6MVBIE7z6E7r7cfUCoS7x+p9rqu+qpmd2BZSO2SXutPkV3A7mp5i5s3WwD1DkV2cb5uDqhr4C3riVREJOOuvA1A+IjVmvTl7EZfWxHCBPC1PUNmb3Wr6LYCWfkG3yRoaFQCwYf46gsbz9y/nm+rdcRv5cNOvJ0phjJvQdMdzZ07C6SdtXq9mxOC740/zfTAlS47SpqL2TVzQtEA9fa6HmrtD;ZzbXK8YnN8jqPaarMqAL7g=="
 ---
 
