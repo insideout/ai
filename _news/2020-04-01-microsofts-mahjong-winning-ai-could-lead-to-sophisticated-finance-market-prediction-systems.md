@@ -28,6 +28,6 @@ images:
     height: 573
     title: "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems"
 
-secured: "Gb6rRpRwwWgZ2CTEt//4m9uJV/U9/Nw5zFwlPMeg+ugoGjINAxVyBCVsZsKeFsm9pQOhgn0GAUGZzpcKilWHM/UiPUoXdHjr48hjw7G4ldAkok3/WG9DEB4dcCb23rbu4oAjPbVBwXthB+mz1uO3jE463chtzg+5Tqj8w/DS5Qx53IcmuVJMoSa8tny7Mb1Ngejg3/dudwUDzKVmJjTFA0Mydtf/KFeP/QbnoR7ypagkshPWC7/fyUYYoc6U6ju9Fz8xc7WwWZQkdke8/HfqL90TYCckf/ISly0MATaEPVOffeqPY7ABRNkZjw4Xxb4T;doqoetx7cosESG7Yw1IY4w=="
+secured: "C2by8l3sHseJm89Cm9Uz35PXDxJ1Ih9MfNXFO4HHLPuVwPj2R7aVLeOY0NNHXDgOZW3Li9ZoGTAOxzipn2htIlX9XbF7hdOD6s1nIyJ6N3Sln6M595S8sFDDwOrsYeeKy52+p2vU05bVI7Q0cs/FpiQdpPfVwy44UBx1M7n+11WJycVbUu+UNm4rRdt6yEany+6iNjb/F6otwMrMWszLXn/fVC2cJnspSWuhzDqriDIZblDmGw/ZnJmeEMSm9ylq5t0g/B5O92i1VjZf4R7WQcIjOHzLXiJLdnsii6JtiA0gMDjCmrvmCqLnRsMlHtb09+e3q/cEUPKBXCnMhGObNTLpUacyNp22B64/mHCEVUrjw9WatjDAvZtc/QHVo453jXiTPMUa6fLhnk5gSdpxu9TGH8A5tZJB4SmWgijI/MPFLAqREyaq43m64V1E9iwnGKOtDii+C6OnHUbxHbyoOsvv+fd5XcL02WKtKJ9JGM0=;yrL5OqmpjqOF6L3mT/jJpA=="
 ---
 

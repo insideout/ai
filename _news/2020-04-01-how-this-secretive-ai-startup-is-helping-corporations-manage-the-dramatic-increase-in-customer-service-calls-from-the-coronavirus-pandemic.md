@@ -26,6 +26,6 @@ images:
     height: 600
     title: "How this secretive AI startup is helping corporations manage the dramatic increase in customer service calls from the coronavirus pandemic"
 
-secured: "yMU8u4o+PALmQTLAQEFSiIWAglB6Eqq7lm+0vJx4/q/Pf2CXr+YHmMazciAReG8pnlf1HkdzNmUyvXFyo9hSNAPYhICuYLus1iYAxZfz4kXa0LS9O2zemZt7VaWjF5Co2d+40ZKf6vDyYvO5O/gLVq6UmcWlFAZR15R0ZFVsuAJHI/5QyWBWWg3md/a4ZPNU01jqd4jyNTg4ObjZPTMqwBBu9mG8IzDNPObHc1eNkF6ePNZwo+dBhCxJPFYjBH5GjQOuLBQHz5U4UhcgucX9Of6hQorJQigJa00+OOq0w+KR9L5pxK2hxJ0E9Wqyjv4r;z+vwVS9bPzq3uK+KsgBoSQ=="
+secured: "aR8mBWXv2JV+KEEr6PG1NeOvvZeCgMLjhjF8+a308HrES/bJp48Qem5HRqS3+DdZcDlXz7k131Bqt/fiLMbyFTiNhYhg5jNXzRVqvmukrGrNWFfYhoQuvqNOgHkcD6p+tR5KFTNXXvSrmfyjM9FnBuQo/qGrmrmoikHIn9/9BmYMbzfyqNjq5WC2TaEecDWlWdRzUfo403l3S9lCYGdcT5OKkvm7VYx4vkR5les/QHMUZDJuWLXmgi5f95vrdD4Tu77lozUfH6eOyFSQU1hHbZzzZC+7rUDL0jfhG8W6/cut6tSV21tnYGf9e37fV8TEHHkXrBWwtuyXBmNoD06djNpm28KB/j8wFKDZjbh6BGwRxzK6Ywq+vtC4dtDXcK/EpKzjNGBI7TQNz+JMT23A+iQPB0IL3lnZU2kqY3XZA/aC+GMtvpJ46IHr64eqE5n7951pRRr1AjfW3CSQAWjqNKHPfJsF6rs25+LkP1TAH80=;w3yEp0eWgu0DLMVq2id7JQ=="
 ---
 

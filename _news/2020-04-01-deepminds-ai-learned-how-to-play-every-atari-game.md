@@ -29,6 +29,6 @@ images:
     height: 567
     title: "DeepMind's AI learned how to play every Atari game"
 
-secured: "9jkHfgrBYE5z1FL+ncPC1iOXqiIuOaJSPrKlcRiwFLelUoRZ/UsGQgEPEtGArNzL/H+mHOUpfBy+xplB2bX0x/0jgIIkSxpbds8qdCbuz0Oo/Vd4drMEq+3jHtNl+HjB7VdFi1KwMOf47XhPbNypQzCig/CH8ll14s0NLR/VE/Nq/jw9CiaSQH/TKCFA0LooTaZGKrQ8sasA2TBk4qFyystLHrwHWuEBe7P1tSItUZ2f5S9gB2MjUJghtsDqr66va3p/3RMgYhRKUBAcOIOWzjYuF23MiAAVDdLa93AJe6czfc0aDXY9GBWdi78e/591;fRXMBK2JlvZQ+NRTd9DgFQ=="
+secured: "8xr8AqBXMqd8NtMcMox/OIoVGx9D5PCoA5p+LZR+pZeJIh1NLQr78qlodc+acn6JxxoCcmFaYw9k68/6ajuGziAadLm3qh/X9RwnX62id/Lvikpy3dmk3/+itVwFnRLqw/4Ki6WqL2UgNqazzJtuzhzt2M5bVWuQnsokl0A4KCITSM5tUWURZqURbDtWE/uCW5ves5XIeIPeHI0nO+eke6ubLEMIn8GvmBKMflvW61AVvfwKNRE/yltj2aq/akaWpYvYCX88vftTn6dNvc/vDftNRjkrbhNIw9yeSIV6vSOs26iNBDiEcmCExIEN8XHGw8BM4vzLNxZTA/d+QnNSmzKOdcp+0+0Uoa/wEL/JeDDTWlnlWEOgQBibB2r5aBsUavLRR3cC3EDqdjNwaaWTCRZfYHaK++3fHblb5Xi9m6f9AT1kVFsznEQHyDF6vddLulLI0enG5xD2gJVeC6Mr2kTZ70qM8lMRmTW/pOSyRS4=;eU+YDc0nwWSUcIRU1H8UCQ=="
 ---
 

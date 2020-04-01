@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-31-mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans.md",
+      "title": "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans",
+      "excerpt": "In a new study, researchers at MIT’s Computer Science and Artificial Intelligence Lab propose a framework called CommPlan, which gives robots that work alongside humans principles for “good etiquette” and leave it to the robots to make decisions that let them finish tasks efficiently. They claim it’s a superior approach to handcrafted ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/amp/",
+      "publishedDateTime": "2020-03-31T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/43102ff2-761d-4f3c-896f-4c50c6349e2e-e1585335348192.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-groundbreaking-ai-brain-implant-translates-thoughts-into-spoken-words.md",
       "title": "Groundbreaking A.I. brain implant translates thoughts into spoken words",
       "excerpt": "“The algorithms for natural-language processing, including machine translation, have advanced quite a bit since I conceived the idea for this decoder in 2016,” Makin continued. “We’re investigating some of these now. [In order to] achieve high-quality decoding over a broader swath of English, we need to collect more data from a single ...",
@@ -1262,50 +1307,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-take-your-ai-project-from-concept-to-concrete-roi.md",
-      "title": "Take your AI project from concept to concrete ROI",
-      "excerpt": "Why do so many AI projects fail before they deliver actual ROI? Learn how to go from abstract business problem to concrete AI solution. Get business analysts and data scientists working together from start to finish. Get started with this free eBook to develop AI projects with real business impact. Download now! You’ll learn:",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
-      "publishedDateTime": "2020-03-30T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/woman-at-computer-through-glass.jpg?fit=6720%2C4480&strip=all",
-          "width": 6720,
-          "height": 4480,
-          "title": "Take your AI project from concept to concrete ROI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

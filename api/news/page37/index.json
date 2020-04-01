@@ -2,6 +2,139 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-02-27-researchers-propose-ai-that-improves-the-quality-of-any-video.md",
+      "title": "Researchers propose AI that improves the quality of any video",
+      "excerpt": "Increasingly, researchers are using AI to transform historical footage — like the Apollo 16 moon landing and 1895 Lumière Brothers film “Arrival of a Train at La Ciotat station” — into high-resolution, high-framerate videos that look as though they’ve been shot with modern equipment. It’s a boon for preservationists, and as an ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/",
+      "publishedDateTime": "2020-02-27T08:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/IMG_20190521_085108-e1582820427554.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers propose AI that improves the quality of any video",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-einride-shows-how-ai-will-create-new-kinds-of-jobs.md",
+      "title": "Einride shows how AI will create new kinds of jobs",
+      "excerpt": "Artificial intelligence (AI) will either destroy jobs or create new jobs — depending on which report you read. In truth, it’s probably a little of both — AI will undoubtedly replace human workers in some spheres, but it will also create new roles, many of which we can’t yet imagine. A recent report from PA Consulting, titled “People ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/einride-shows-how-ai-will-create-new-kinds-of-jobs/amp/",
+      "publishedDateTime": "2020-02-27T08:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/0.png?fit=1193%2C660&strip=all",
+          "width": 1193,
+          "height": 660,
+          "title": "Einride shows how AI will create new kinds of jobs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing.md",
+      "title": "Is Gmail Biased or Are Some Presidential Campaigns Just Better at Marketing?",
+      "excerpt": "Since 2015, Google has claimed that 99.9 percent of spam is blocked, and last year the company integrated its in-house machine learning framework, TensorFlow, to help filter 100 million additional spam emails every day. The company has also added new filters which automatically sort emails into \"primary,\" \"promotions,\" \"social,\" \"forums,\" and ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "publishedDateTime": "2020-02-27T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e56e74ebe0f7a009c5ac478/lede/1582753897422-GettyImages-914593224.jpeg?crop=1xw%3A0.846xh%3B0xw%2C0.1377xh&resize=2000%3A*",
+          "width": 2000,
+          "height": 1123,
+          "title": "Is Gmail Biased or Are Some Presidential Campaigns Just Better at Marketing?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-google-is-buying-its-way-into-cloud-computing-contention.md",
       "title": "Google is Buying Its Way Into Cloud Computing Contention",
       "excerpt": "As it stands, Amazon's (NASDAQ:AMZN) cloud unit Amazon Web Services (AWS) is the industry leader, but Microsoft (NASDAQ ... The selling point for using Google Cloud is that businesses get access to its artificial intelligence and data analysis expertise, and don't have to worry about sharing data with a rival. To stand out from its competitors ...",
@@ -922,132 +1055,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-repair-robot-swims-through-oil-pipelines-and-welds-cracks-without-exploding.md",
-      "title": "Repair robot swims through oil pipelines and welds cracks — without exploding",
-      "excerpt": "Before this project even really got going, we knew that the technology worked and that this is something we could do. Everything else — the robotics, the artificial intelligence — all followed on from there.” The robot consists of five or six joined segments, each of which carries out tasks like navigation, control, communications ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
-      "publishedDateTime": "2020-02-26T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-struggling-with-fake-ai-heres-how-to-become-a-real-ai-company.md",
-      "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
-      "excerpt": "AI companies appear, increasingly, to combine elements of both software and services with gross margins, scaling ... Companies such as Netflix, Uber, Google, Facebook, Apple, Microsoft, Amazon and a suite of growing companies that have tasted the flavour of data, are further accelerating their growth and increasingly drawing huge margins.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
-      "publishedDateTime": "2020-02-26T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56d35e7a00980007345051%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1680%26cropY1%3D0%26cropY2%3D945",
-          "width": 1200,
-          "height": 675,
-          "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-integrating-ai-and-hr-where-do-you-start.md",
-      "title": "Integrating AI And HR — Where Do You Start?",
-      "excerpt": "Artificial Intelligence has the potential to profoundly improve an organization’s bottom line, and HR leaders groups are exceptionally positioned to profit from it.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/26/integrating-ai-and-hr---where-do-you-start/amp/",
-      "publishedDateTime": "2020-02-26T13:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56cfbcd378190007f45ea2%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D371%26cropY2%3D2621",
-          "width": 1199,
-          "height": 675,
-          "title": "Integrating AI And HR — Where Do You Start?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

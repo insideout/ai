@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years.md",
+      "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+      "excerpt": "Advance Market Analytics recently introduced Global Artificial Intelligence for Edge Devices Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-detailed-analysis-and-growth-prospects-for-next-5-years-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence for Edge Devices Market Detailed analysis and growth prospects for Next 5 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths.md",
+      "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
+      "excerpt": "Driverless truck startup Starsky Robotics is shutting down ... In a blunt post-mortem of what went wrong, founder and CEO Stefan Seltz-Axmacher blamed results-hungry investors, unexpected difficulties with getting the AI right, and the fact that safety just isn’t sexy for Starsky’s problems – and the problems that he predicts will ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/",
+      "ampWebUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
+      "publishedDateTime": "2020-03-19T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/starsky-robotics-autonomous-truck.jpg",
+          "width": 1080,
+          "height": 680,
+          "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-the-end-of-starsky-robotics.md",
       "title": "The End of Starsky Robotics",
       "excerpt": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016 ... to land many of the vulnerable jobs by the end of January and I’m in the process of selling ...",
@@ -1063,88 +1155,6 @@
           "width": 1024,
           "height": 587,
           "title": "AI is Failing Women. That Needs to Change.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-baidu-is-bringing-ai-to-the-fight-against-coronavirus.md",
-      "title": "How Baidu is bringing AI to the fight against coronavirus",
-      "excerpt": "Apollo, Baidu’s autonomous vehicle platform, partnered with a local self-driving startup called Neolix to deliver supplies and food to the Beijing Haidian Hospital. With daily deliveries, this initiative is helping feed over 100 frontline staff members as they work to treat their growing patient base. Baidu Apollo has also made its low-speed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/",
-      "ampWebUrl": "https://www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615342/how-baidu-is-bringing-ai-to-the-fight-against-coronavirus/amp/",
-      "publishedDateTime": "2020-03-11T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/picture1_4.png?sw=600&cx=0&cy=0&cw=780&ch=439",
-          "width": 600,
-          "height": 337,
-          "title": "How Baidu is bringing AI to the fight against coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-toyotas-self-driving-car-mapping-system-could-be-a-game-changer.md",
-      "title": "Toyota's self-driving car mapping system could be a game changer",
-      "excerpt": "Before anyone believes self-driving cars will be able to storm streets around the world, automakers and companies with interests in automated vehicles need to complete a major task: mapping the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/toyota-self-driving-car-mapping-system-satellite/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/toyota-self-driving-car-mapping-system-satellite/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toyota-self-driving-car-mapping-system-satellite/",
-      "publishedDateTime": "2020-03-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/HDT-32iZkdvCsv70p9wp0jzxpFo=/2020/03/11/08c6bafa-528c-4a61-8910-015efd1c372e/ogi-map.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Toyota's self-driving car mapping system could be a game changer",
           "attribution": null
         }
       ],

@@ -5,8 +5,8 @@ excerpt: "The value of the machine learning market in North America is expected 
 publishedDateTime: 2020-04-01T16:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-is-expected-to-reach-usd-807-bn-by-2023-2020-04-01"
 type: article
-quality: 65
-heat: 65
+quality: 67
+heat: 67
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

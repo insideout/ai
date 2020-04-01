@@ -5,7 +5,7 @@
       "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
       "title": "AI and ML move into financial services",
       "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
