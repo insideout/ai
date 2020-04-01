@@ -27,7 +27,7 @@ related:
   - title: "Artificial Intelligence Startup Launches Branding Automation Service Worldwide"
     excerpt: "NEW YORK--(BUSINESS WIRE)--ZeBrand announces the launch of its web-based platform, zebranding.com, designed to automate brand identity creation for startups and small businesses worldwide through their proprietary artificial intelligence-based algorithm. The company solves a crucial pain point for businesses by offering a new way for startups ..."
     publishedDateTime: 2020-03-31T04:03:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200330005389/en/Artificial-Intelligence-Startup-Launches-Branding-Automation-Service/"
+    webUrl: "https://www.businesswire.com/news/home/20200330005389/en/Artificial-Intelligence-Startup-Launches-Branding-Automation-Service"
     type: article
     provider:
       name: Business Wire

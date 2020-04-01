@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage.md",
+      "title": "Algorithmic Justice League protests bias voice AI and media coverage",
+      "excerpt": "“We cannot let the promise of AI overshadow real and present harms,” Benjamin said in the piece ... In statements following the release of the study, Google and IBM Watson pledged commitments to progress.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
+      "publishedDateTime": "2020-03-31T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/voicing-erasure.jpg?fit=1280%2C661&strip=all",
+          "width": 1280,
+          "height": 661,
+          "title": "Algorithmic Justice League protests bias voice AI and media coverage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-nvidia-a-clear-winner-in-otherwise-brutal-quarter-for-chip-makers.md",
+      "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
+      "excerpt": "Last week, Needham upgraded the stock to buy, forecasting higher demand for chips used in medical applications, as well as in artificial intelligence applications. Why China’s AI champions must find alternatives to US hardware – and quick Nvidia is up about 14 per cent thus far this year, putting it in the top 10 gainers on the S&P 500.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
+      "publishedDateTime": "2020-03-31T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/df04e758-73bd-11ea-ab8f-988daf8efd6f_image_hires_101133.JPG?itok=fw4QshuF&v=1585707099",
+          "width": 1200,
+          "height": 630,
+          "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-pet-care-startup-rover-lays-off-41-of-workforce-due-to-covid-19-impact.md",
       "title": "Pet care startup Rover lays off 41% of workforce due to COVID-19 impact",
       "excerpt": "Layoffs are hitting tech companies hard amid the novel coronavirus outbreak. Leafly, an online cannabis brand based in Seattle, let 91 employees go last week, while AI writing startup Textio laid off 30 people. AI marketing startup Amplero let go of 17 people and will shut down this week. Co-working startup The Riveter and clothing rental ...",
@@ -184,7 +274,7 @@
       "path": "_news/2020-03-31-washington-state-oks-facial-recognition-law-seen-as-national-model.md",
       "title": "Washington State OKs Facial Recognition Law Seen as National Model",
       "excerpt": "Washington state adopted a Microsoft Corp.-backed law enshrining the most detailed regulations of facial recognition in the U.S.",
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
@@ -653,7 +743,7 @@
       "path": "_news/2020-03-31-niantic-acquires-6dai-which-is-mapping-the-world-in-3d.md",
       "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
       "excerpt": "Niantic has acquired 6D.ai, an augmented reality company that is building a 3D map of the world using only smartphone cameras. CEO John Hanke said in a blog post that the dynamic, 3D map of the world could enable new kinds of planet-scale AR experiences. “This means we’re even closer to an AR platform that will unlock the ability for any ...",
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/",
@@ -989,94 +1079,6 @@
           "width": 756,
           "height": 567,
           "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
-      "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-      "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "publishedDateTime": "2020-03-31T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/thumbnail/1200x675/c021471ff96cdf363eebc4f21f68ea4f/facerecognitionistock-1180902227.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models.md",
-      "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
-      "excerpt": "ModelOp, a startup developing AI software and development services for enterprises, today announced that it has raised $6 million. It plans to use the capital to support demand for its products in a market that IDC anticipates will be worth $8 billion by 2022. The term ModelOps refers to the process of cycling analytical models from data ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models/amp/",
-      "publishedDateTime": "2020-03-31T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/adc2e353-9882-4a40-a740-3c90bb34db5c-e1585076656887.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
           "attribution": null
         }
       ],

@@ -43,6 +43,19 @@ related:
       - url: "https://images.wsj.net/im-171101/social"
         width: 1280
         height: 640
+  - title: "Washington State signs facial recognition curbs into law"
+    excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
+    publishedDateTime: 2020-04-01T02:47:00Z
+    webUrl: "https://www.itnews.com.au/news/washington-state-signs-facial-recognition-curbs-into-law-545886"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200401012643_facial_recognition.jpg"
+        width: 1275
+        height: 823
   - title: "Washington State signs facial recognition curbs into law; critics want ban"
     excerpt: "SAN FRANCISCO: Washington Governor Jay Inslee on Tuesday (Mar 31) signed the first U.S. state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. Facial recognition software can identify individuals in photos and videos ..."
     publishedDateTime: 2020-03-31T23:56:00Z

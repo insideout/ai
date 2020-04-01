@@ -59,6 +59,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3036%252C2024%252C0%252C437%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252Fd04640c0-737e-11ea-9dff-176976237dce%26client%3Da1acac3e1b3290917d92%26signature%3D05f6e5bee53c87fa7782f5bd30e54e16214bca60&client=amp-blogside-v2&signature=1130282829e8ab78a03f3096b28b109465fbdf37"
         width: 600
         height: 350
+  - title: "Pokemon GO developer acquires 3D mapping startup for 'planet-scale' AR"
+    excerpt: "Pokemon GO developer Niantic has just acquired 3D mapping startup 6D.ai, where the acquisition will see them building out \"planet-scale\" augmented reality, or AR. 6D.ai will infuse into Niantic and use its 3D environment reconstruction and persistent AR objects that will advance AR-based games and apps in a big way. Niantic burst onto the scene ..."
+    publishedDateTime: 2020-04-01T02:51:00Z
+    webUrl: "https://www.tweaktown.com/news/71570/pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/71570/pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/71570/pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://images.tweaktown.com/news/7/1/71570_07_pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar.jpg"
+        width: 620
+        height: 286
   - title: "Niantic acquires augmented reality startup as it looks to build powerful rival to Apple’s ARKit"
     excerpt: "Niantic, the studio behind Pokémon GO, announced today that it has acquired augmented reality startup 6D.ai. As TechCrunch reports, this San Francisco-based startup had focused on creating technology that would allow smartphones to quickly detect 3D layouts. It’s easy to see how Niantic can use the 6D.ai technology in its suite of mobile ..."
     publishedDateTime: 2020-04-01T01:34:00Z

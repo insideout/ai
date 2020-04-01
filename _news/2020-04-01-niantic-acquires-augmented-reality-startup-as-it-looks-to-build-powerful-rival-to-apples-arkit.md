@@ -70,7 +70,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3036%252C2024%252C0%252C437%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252Fd04640c0-737e-11ea-9dff-176976237dce%26client%3Da1acac3e1b3290917d92%26signature%3D05f6e5bee53c87fa7782f5bd30e54e16214bca60&client=amp-blogside-v2&signature=1130282829e8ab78a03f3096b28b109465fbdf37"
         width: 600
         height: 350
+  - title: "Pokemon GO developer acquires 3D mapping startup for 'planet-scale' AR"
+    excerpt: "Pokemon GO developer Niantic has just acquired 3D mapping startup 6D.ai, where the acquisition will see them building out \"planet-scale\" augmented reality, or AR. 6D.ai will infuse into Niantic and use its 3D environment reconstruction and persistent AR objects that will advance AR-based games and apps in a big way. Niantic burst onto the scene ..."
+    publishedDateTime: 2020-04-01T02:51:00Z
+    webUrl: "https://www.tweaktown.com/news/71570/pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/71570/pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/71570/pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 42
+    images:
+      - url: "https://images.tweaktown.com/news/7/1/71570_07_pokemon-go-developer-acquires-3d-mapping-startup-for-planet-scale-ar.jpg"
+        width: 620
+        height: 286
 
-secured: "HZgg55sB0k6rRGJHBXIjI4K03bzysMc/95lr+2b7Q8nMWK2TxilpYS/Kg52q3QX0h+kzo0wnhICvo5GiMTgY4v29qJJPSpf4LACDNCWKi1KFPW8hiFJ6a1qlzYeoBp28SCjCHENENxJqi6v9KWPAF7FPbJYF1M4uoowbDP7UQ6uAluVeWFcumCXAQMrQSQmxzSQ6xlTNYuOXf1nr+rwSOxVOTIU6B3XHRypIKAYEvNItqtKsiGbfV9JtCGVijWupU94wcuDDFd5SZ//9auRTVI7UIg/sznzRl/0SvvhU2IjViTUf0tXVTKlyDMAffFPW;D6PR2dEBz7hbEIxVF0aIgg=="
+secured: "qHVa/2IRdV75uwfSuQnuNdmUZGeDHC2iaKqsnLFg+VZbuqCkIswjjl6i1oNaPCCDfVfClwdrvTWFWZmrpCaeUM1OVlqlOwZt237KBNOyktMTKRD7Ws68Z6OlFWLp/2HX2PJAIlwE6J0ImipRUVBFn6ve/karRdjUyt2SdiF5iHzA17e/SNd414E4O+eR+FVs42nQdqvDC7eJxQNqg+lC79v7k4/Cy7j4t3XACPeXeuZNecNm2inGgRApP2/SNCOir5/n3tQ2jO2H2eBS2063+LBEdyf2JsjzXEo/yqrOVhzCpWebC6t7b0Y44zqxY6WAF93k95j2lvOSYGjzj/nB4kstLFQ3Of/loRFZEJ23MYv2qCZSBjHpoA/yac8/AZvVZW6lap/H6mrfp3Wrn6zYpOKaaPCDkcOeEK2cS0+JzctQzuWSHMFDGCkGLVa/53ge86ZaL3CHQBb5I+fMO++0mAHdHhz8Hv4fb5+TTSbpS2M=;zpRUiRP/rn+n5JP/HRoP5g=="
 ---
 

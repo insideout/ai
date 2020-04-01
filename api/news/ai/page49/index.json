@@ -2,6 +2,78 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-02-07-exclusive-reuters-uses-ai-to-prototype-first-ever-automated-video-reports.md",
+      "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+      "excerpt": "Developed in collaboration with London-based AI startup Synthesia, the new system harnesses AI in order to synthesize pre-recorded footage of a news presenter into entirely new reports.",
+      "heat": 185,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/07/reuters-uses-ai-to-prototype-first-ever-automated-video-reports/amp/",
+      "publishedDateTime": "2020-02-07T05:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3d307e8b6cf300071e2376%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1760%26cropY1%3D0%26cropY2%3D990",
+          "width": 1200,
+          "height": 675,
+          "title": "Exclusive: Reuters Uses AI To Prototype First Ever Automated Video Reports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears.md",
+      "title": "First Peoples sing with one voice: this anthem is not ours and at last the NRL hears",
+      "excerpt": "These ... lyrics have changed before, and for a song that has only been our official anthem since 1974, perhaps this might be the right time to update it. Despite Durham and Edwards’ conciliatory efforts, some will say the First Peoples of this continent have much more pressing concerns than a song. This is true, but those concerns do not ...",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "ampWebUrl": "https://amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "cdnAmpWebUrl": "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/national/first-peoples-sing-with-one-voice-this-anthem-is-not-ours-and-at-last-the-nrl-hears-20200207-p53yu7.html",
+      "publishedDateTime": "2020-02-07T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sydney Morning Herald",
+        "domain": "smh.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-the-rise-of-the-ai-agency-in-2020.md",
       "title": "The Rise Of The AI Agency In 2020",
       "excerpt": "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations.",
@@ -1179,97 +1251,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
-      "title": "Facebook launches 3D deep learning library for PyTorch",
-      "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "publishedDateTime": "2020-02-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all",
-          "width": 2472,
-          "height": 1314,
-          "title": "Facebook launches 3D deep learning library for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai.md",
-      "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-      "excerpt": "The white paper encapsulates change underway at the IEEE in line with AI ethics principles released in spring 2019 after years of work, according to IEEE Global Initiative on Ethics of Autonomous & Intelligent Systems John Havens. It also follows last fall’s declaration by IEEE leadership to recognize “the global scale of the human-made and ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/ieee-calls-for-standards-to-combat-climate-change-and-protect-kids-in-the-age-of-ai/amp/",
-      "publishedDateTime": "2020-02-06T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_751715872.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "IEEE calls for standards to combat climate change and protect kids in the age of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

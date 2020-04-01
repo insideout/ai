@@ -2,6 +2,88 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-03-08-how-does-carticaai-change-the-world-of-artificial-intelligence.md",
+      "title": "How does Cartica.AI change the world of Artificial Intelligence?",
+      "excerpt": "So if traffic signs are partly covered, dirty or bended, trucks have a odd load, pedestrians are particularly small or tall or they wear different clothing, that is a problem for traditional neural networks. As a solution more cases have to been taught as an attempt to cover mostly all possible edge cases. Traditional deep learning requires ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/how-does-carticaai-change-world-artificial-dr-karl-thomas-neumann",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHbGmNc02j0JQ/article-cover_image-shrink_600_2000/0?e=1590624000&v=beta&t=0IFQyP9TYpTYIIzH8YNV3ZBzBQbHIq_vhRDZUatx9ug",
+          "width": 485,
+          "height": 390,
+          "title": "How does Cartica.AI change the world of Artificial Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app.md",
+      "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
+      "excerpt": "London-based Fintech firm Finastra has revealed that its customers will be able to Active.Ai‘s conversational artificial intelligence (AI)-based retail banking app, which was integrated with the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
+      "publishedDateTime": "2020-03-08T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
+          "width": 300,
+          "height": 225,
+          "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-facial-recognition-technology-is-getting-out-of-control.md",
       "title": "Facial recognition technology is getting out of control",
       "excerpt": "Facial recognition is a more pressing concern than aerial surveillance. Thanks to technology like that developed by Clearview, anyone who has uploaded photos of themselves to social media is ...",
@@ -905,88 +987,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers.md",
-      "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-      "excerpt": "Driven in large part by rapid progress in neural networking, deep learning, and all things AI, GPUs have become a critical part of some data center workloads ... The answer, as AMD is revealing today, is their new dedicated GPU architecture for data center compute: CDNA. The Compute counterpart to the gaming-focused RDNA, CDNA is AMD’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.anandtech.com/show/15593/amd-unveils-cdna-gpu-architecture-a-dedicated-gpu-architecture-for-data-centers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/15593/CDNA_Master_678x452.jpg",
-          "width": 678,
-          "height": 381,
-          "title": "AMD Unveils CDNA GPU Architecture: A Dedicated GPU Architecture for Data Centers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-microsoft-azure-cisco-team-up-to-simplify-iot-deployments.md",
-      "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
-      "excerpt": "Once that data is in the hub, teams can use services like Azure Stream Analytics or Azure Machine Learning to build IoT applications. Microsoft said in its blog post that this should \"kickstart ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-azure-cisco-team-up-to-simplify-iot-deployments/",
-      "publishedDateTime": "2020-03-05T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/14/b263e8aa-1b65-4c1b-885e-3ad5770ebf6c/thumbnail/1200x675/495b3b7e0a7e4d872cf6b4d8845edc71/netflixistock-992007460.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Azure, Cisco team up to simplify IoT deployments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

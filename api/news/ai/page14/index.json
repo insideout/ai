@@ -2,6 +2,80 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
+      "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+      "excerpt": "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theregister.co.uk/2020/03/17/ibm_cloud_tuesday_partial_outage",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "publishedDateTime": "2020-03-17T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/03/01/shutterstock_ibmbuilding.jpg",
+          "width": 650,
+          "height": 434,
+          "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-microsoft-to-help-kubota-explore-ai-application-in-agriculture.md",
+      "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
+      "excerpt": "(RTTNews) - Tech giant Microsoft (MSFT) is set to help Japanese tractor and heavy equipment manufacturer Kubota with digital transformation. Both the companies have entered a multi-year strategic alliance,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17?amp",
+      "publishedDateTime": "2020-03-17T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1260061287",
+          "width": 1024,
+          "height": 512,
+          "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-why-truly-smart-future-tech-needs-radically-new-ai-chips.md",
       "title": "Why Truly Smart Future Tech Needs Radically New AI Chips",
       "excerpt": "By discarding traditional computing architecture and rebuilding specialized AI chips from the ground up, future processors can break through previous limitations. New domain-specific AI chips entail massive efficiency gains over traditional architectures. Unlike standard CPUs and GPUs, such chips dispense with external memory, storing all core ...",
@@ -1082,80 +1156,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
-      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "publishedDateTime": "2020-03-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
-          "width": 940,
-          "height": 627,
-          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-deepminds-protein-folding-ai-is-going-after-coronavirus.md",
-      "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
-      "excerpt": "With companies working on COVID-19, that’s no longer the case. Ready, player, go? Here’s how one major AI player in healthtech, DeepMind, is trying to knee-cap COVID-19. The promise of AI for accelerating medical drug discovery is almost a universally supported idea. One caveat: so far, though new drugs have been discovered using AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/",
-      "ampWebUrl": "https://singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/17/how-deepminds-ai-is-working-to-decode-coronavirus/amp/",
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2020/03/corona-4901878_1280-COVID-19-virus.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": "DeepMind’s Protein Folding AI Is Going After Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }
