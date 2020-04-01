@@ -7,9 +7,6 @@ webUrl: "https://www.techradar.com/news/smarter-ai-amplifies-the-voice-of-alaska
 ampWebUrl: "https://www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
 type: article
-quality: 85
-heat: 85
-published: true
 
 provider:
   name: TechRadar
@@ -29,6 +26,6 @@ images:
     height: 545
     title: "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning"
 
-secured: "+nEDRy0woTaIvh/KeJztdVLnXOygdK3v2La1D+RqdGy+hxIUqRWJd1RFf7YafHYbV4r2X0gCjdPrDi3qEO/p6iVRAknvju9ZdkO6hXXAGbluq/yVi/Oxs7G/mnXql/ZuzC4u04nor0T0rN2Bfm+syd4UWmomVxZgaWnJqdfua9W3YYZAD+mgO6dHT5wV2vOdk42qFAYPKSXf+Eou11SiZFmYXMavBgFVmZryC92dEU1S/IT3os/qeCHtFHZUQa/SuK2uKy1/KDotNWbtSrSZjsta5a6vKKTIzYvjtNR2YuNavzT6A1xnIdz5ugwwe8Rf;C8P/nxIEzit4ZvuFA6K4Fg=="
+secured: "JLwzJxtFfaoM93naU/VbskyuWxPLi9PzpAVmAbPaNkLmMtq210bYwdzKhrwSUL3TP+hK7AwdOgSbGwzv7R/sfQGhAEq8XamhMiSwrkIRnepzhfjLRvvGuJSwtse/EGZwTGEBHT7pXzf2FQ1WwWcAjc3jRpiMQ7kaaP7m3LV34b2d1FkjR/A6qCUaNZpe8Z//BumAAsVlrA4mAGJV9T6ysVGaTFEeRlk3vmTSCaYwvFHzMuyuYA80/V2kEbKik1xOlbil+SWHfUcZ1eI63RMglpNGGTCbeuw1jKdqEGl+Mgs1W9kIrxDlrGBXHRyB3mVh;47FritiIxzV0pUwzIs3nGw=="
 ---
 

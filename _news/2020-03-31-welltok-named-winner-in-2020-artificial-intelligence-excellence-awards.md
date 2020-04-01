@@ -52,19 +52,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2018/07/CIRC.jpg"
         width: 325
         height: 325
-  - title: "Veritone Wins 2020 Artificial Intelligence Excellence Awards"
-    excerpt: "COSTA MESA, Calif.--(BUSINESS WIRE)--Veritone Inc. (NASDAQ: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that Business Intelligence Group has named Veritone as a winner in the 2020 Artificial Intelligence Excellence Awards program for its applications Veritone IDentify and ..."
-    publishedDateTime: 2020-03-27T12:26:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200327005079/en/Veritone-Wins-2020-Artificial-Intelligence-Excellence-Awards"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20200327005079/en/781909/23/veritone_logo.jpg"
-        width: 1200
-        height: 627
 
 secured: "HSmKqc+6Kt29LLnRVRRx8qUHF3mGSreymU6INluZaaBVR39jFilFtxGVp/0mukBvna4/voVRyqvYc2VN8L1dQ5mBUGboYAaAWNOdJskYZtlh8OaWdgKFB2pMBbEhgXx/EJBy1k7R2hotqZ/XgJrG20qcMuLvaemeIOzKXbFfINPM7FHiI28qI50tATHM+g/HsdcldGyIKS2BSmIADdQbd5fVKx9W4vFDQiMCY0m0ung4aIXiM1c9whxPvl/sX4JeoS7Wwj6+Ej7COX5WDauf9zf8y2DFMR7awEPvbW9cwPehoXijJYgd6ovedQrlYH+rKt5vLTIgkWKMRkfQ0xAg/XUFVUP+MYQZbQGRORhZqxlun2hkEf31Q03S/G3q1w7WBmzgshYM7E+EwSEKMfHk7EWkuMkyzN3sty4keiPdWKmKup7nK2USySFNx6zgNnAqOuU/aUggnPccB5dmr0RsR44LhRg8K9nEIePfs06ULjA=;GKMo9ltN75++rF1N7+NvAg=="
 ---

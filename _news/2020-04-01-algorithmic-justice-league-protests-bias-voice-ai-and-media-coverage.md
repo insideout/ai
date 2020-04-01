@@ -29,6 +29,6 @@ images:
     height: 661
     title: "Algorithmic Justice League protests bias voice AI and media coverage"
 
-secured: "PY5gmpBBleT6pORvDkNq7JENBAnMweG00kN6Xf/2BrvM5GwP+/JXxqtfPEVKy+BHgzPtHq1gFbZxqpTrlbSYS4LpLCf4OUpwhBSkhdKn48eRSiB9KdRhMBl4/OAalw862s3AKEaT5+9ONB+p8qlnGAiXld8QX0DbPRTJHE+UZcJ1rB1/vtnOmL5A8nwiiK+KD8Hrd4ybvRBYH0aczPKRSSst9SGFXtwRe/F3MWyaSfij9Xzd0chkgQTTyqC/kaG/Pb7RtoULBBnP1jNLgXGtl2CtGPJn+9hBre2R6VyVtsH+IbKMs9R56w9j/VIwkTkZ;wtJyaqOoDVZfCq8sQr8CxQ=="
+secured: "ogHpQJ3H7yJXGGcWnpv2zvle+CHaDQ0BqNCZQC+xaFFysTi16C2jecRGEvt+BqFKMjycPgTJZhiXoks7UEeQK1RXAYGUcRJ/0VzJ+GJtNxesE9SARBSHZsa4/R6J+xoPWKfEuEFX7IEaRwi0yCpmsr2Bta/uV10SHJyVwpMviWB05wi2V4zKbVP/OIevb9zeQMmAVE2MXdsVOboIApO+xvgMrTzAv3JRJBqj6go34a/y0dJxsoiAPOd31SK9/UzZz2VPtduwR8WKXSwqTpg58rzDA7xQU5SIZQl2mQfIz/Rwm59q+ocxhvv/uFmvrPl19CovIAYlxuscI5K0faiuOHBtcABiOYp0jsR0LvNjASGehezc0boJ34ywOutqeiboBikIrRs2w6dDJV77JR/KxUk8V9+GFCMG65W89qNs4E0zFC/OlQ/DpXGTB5MVWmdEDrXrBGxT1TYzoiQk//iM+0LleAciMLjil5JSv/eE01s=;fgb5tU64HeeDnSmaEpHHBw=="
 ---
 
