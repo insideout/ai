@@ -59,6 +59,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3036%252C2024%252C0%252C437%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252Fd04640c0-737e-11ea-9dff-176976237dce%26client%3Da1acac3e1b3290917d92%26signature%3D05f6e5bee53c87fa7782f5bd30e54e16214bca60&client=amp-blogside-v2&signature=1130282829e8ab78a03f3096b28b109465fbdf37"
         width: 600
         height: 350
+  - title: "Niantic acquires augmented reality startup as it looks to build powerful rival to Apple’s ARKit"
+    excerpt: "Niantic, the studio behind Pokémon GO, announced today that it has acquired augmented reality startup 6D.ai. As TechCrunch reports, this San Francisco-based startup had focused on creating technology that would allow smartphones to quickly detect 3D layouts. It’s easy to see how Niantic can use the 6D.ai technology in its suite of mobile ..."
+    publishedDateTime: 2020-04-01T01:34:00Z
+    webUrl: "https://9to5mac.com/2020/03/31/niantic-ar-acquisition/"
+    ampWebUrl: "https://9to5mac.com/2020/03/31/niantic-ar-acquisition/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/03/31/niantic-ar-acquisition/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 30
+    images:
+      - url: "https://9to5mac.com/wp-content/uploads/sites/6/2018/01/pokemon-go.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 500
 
 secured: "r+/NOmiQloRQ6miIt5Nt7QDyH8uasB+Ui3hvMixZwBAN30dq2aefyXKZiA9cjRSWBSCw5QR9H/5zK+z3K9yPKdgXf+ntlVEoFhMMg4UNm5L0VmAij74myzWSox6u1sHWCmh5KFNs33tQuM8zgFoEO0k3hqMlrjxlvEg1ISkeu7SdpyLVYBhsJ+uLwuWD0lI0xjX1eOE9fBqp9KdTanzFGyyhd6MBruywmiaM0bzIE1UV2xCMxy+RThWP1aYTww4LAHdha/479takHeZXgBkjCGNlacpXTz6s4TPWSUKobRVMpmvIzOyIfZPdStCG49QSbzLpwZtUp3zLLEa4RarzoeZ621BVIyGf+1abvzZ8O/nw7ALkY6yYQToS8hBeJ4y4t3oQ0pZZNyd7ZGO5UZ+ohLS3lBfhyL1WIs8USJ4B1QhFKbuDLJ/W0PfzNBskycgXmPwFNij+0qGqKoAlGXjviNp3BuWCcL4Sjg7Hrdsi82w=;OHELciwr0saKWY1ml09BWw=="
 ---

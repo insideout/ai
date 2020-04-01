@@ -2,6 +2,95 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-02-18-chinas-facial-recognition-giant-says-it-can-crack-masked-faces-during-the-coronavirus.md",
+      "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
+      "excerpt": "China’s SenseTime, the world’s most valuable AI startup, said earlier this month (link in Chinese) that it was rolling out a facial-recognition products that incorporates thermal imaging cameras to help spot people with elevated temperatures at building entrances and airport checkpoints, and send pop-up alerts to users of the software.",
+      "heat": 276,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/",
+      "ampWebUrl": "https://qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1803737/chinas-facial-recognition-tech-can-crack-masked-faces-amid-coronavirus/amp/",
+      "publishedDateTime": "2020-02-18T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/1581746326404096.png?w=1400&strip=all&quality=75",
+          "width": 875,
+          "height": 492,
+          "title": "China’s facial-recognition giant says it can crack masked faces during the coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-african-crowdsolving-startup-zindi-scales-10000-data-scientists.md",
+      "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
+      "excerpt": "Cape Town based startup Zindi has registered 10,000 data-scientists on its platform that uses AI and machine learning to crowdsolve complex problems in Africa. Founded in 2018, the early-stage venture allows companies, NGOs or government institutions to host online competitions around data-oriented challenges. Zindi opens the contests to the ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
+      "publishedDateTime": "2020-02-17T23:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-protect-yourself-from-coronavirus-with-a-mask-that-looks-like-your-face.md",
       "title": "Protect yourself from coronavirus with a mask that looks like your face",
       "excerpt": "It's hard to stand out in a crowd when everyone's wearing the same bone-white N95 protective facial mask. That could change if one San Francisco designer follows through on her idea to custom-print the respirator masks with images of wearers' faces.",
@@ -1174,86 +1263,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-artificial-intelligence-training-for-technical-students-in-odisha-soon.md",
-      "title": "Artificial Intelligence training for technical students in Odisha soon",
-      "excerpt": "BHUBANESWAR: Technical students in Odisha will soon have the opportunity to get training on Artificial Intelligence (AI) to develop smart machines. Skill Development and Technical Education Minister Premananda Nayak said a Centre of Excellence has been set up by Tech Mahindra and Biju Patnaik University of Technology (BPUT) at the College of ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.html",
-      "ampWebUrl": "https://www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/odisha/2020/feb/17/artificial-intelligence-training-for-technical-students-in-odisha-soon-2104479.amp",
-      "publishedDateTime": "2020-02-16T19:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/2/17/w600X390/AFSDFGH.jpg",
-          "width": 600,
-          "height": 390,
-          "title": "Artificial Intelligence training for technical students in Odisha soon",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention.md",
-      "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-      "excerpt": "In an effort to help paramedics respond more effectively to potential suicides in Australia, researchers from Monash University and Turning Point, a national addiction treatment centre, are using artificial intelligence (AI) to streamline how relevant ambulance data is filtered and categorised. The AI project, which received a AU$1.2 million ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-researchers-develop-ai-aimed-at-improving-suicide-prevention/",
-      "publishedDateTime": "2020-02-16T16:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/17/b6213abd-fa0f-464c-9980-616c43d989c6/thumbnail/1200x675/71d46fb343b28e5a5692484319d19257/idf-collage.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Monash University researchers develop AI aimed at improving suicide prevention",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

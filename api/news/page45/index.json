@@ -2,6 +2,87 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-02-19-europe-plans-to-strictly-regulate-high-risk-ai-technology.md",
+      "title": "Europe plans to strictly regulate high-risk AI technology",
+      "excerpt": "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science | AAAS",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_",
+          "width": 1280,
+          "height": 720,
+          "title": "Europe plans to strictly regulate high-risk AI technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
+      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
+      "publishedDateTime": "2020-02-19T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo.md",
       "title": "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO",
       "excerpt": "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ...",
@@ -977,88 +1058,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
-      "title": "Artificial Intelligence and Machine Learning in the Operating Room",
-      "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/",
-      "ampWebUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
-      "publishedDateTime": "2020-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial Intelligence and Machine Learning in the Operating Room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-bitcoins-guardian-angel-inside-coinbase-billionaire-brian-armstrongs-plan-to-make-crypto-safe-for-all.md",
-      "title": "Bitcoin’s Guardian Angel: Inside Coinbase Billionaire Brian Armstrong’s Plan To Make Crypto Safe For All",
-      "excerpt": "For now, Coinbase looks like a casino, but founder Brian Armstrong sees it as just the beginning of a financial liberation of the planet.",
-      "heat": 170,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/",
-      "ampWebUrl": "https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeldelcastillo/2020/02/19/coinbase-billionaire-brian-armstrongs-plan-to-make-bitcoin-ethereum-xrp-safe-for-all/amp/",
-      "publishedDateTime": "2020-02-19T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c6e636895e00006839144%2F0x0.jpg%3FcropX1%3D627%26cropX2%3D2881%26cropY1%3D461%26cropY2%3D1730",
-          "width": 1200,
-          "height": 676,
-          "title": "Bitcoin’s Guardian Angel: Inside Coinbase Billionaire Brian Armstrong’s Plan To Make Crypto Safe For All",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,80 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
+      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
+          "width": 1200,
+          "height": 803,
+          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
+      "title": "A competitive fintech environment encourages innovative technology",
+      "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/professional/blog/a-competitive-fintech-environment-encourages-innovative-technology/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-just-in-defense-innovation-unit-to-sponsor-computer-vision-prize-challenge.md",
       "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
       "excerpt": "HONOLULU, Hawaii — The Pentagon’s Defense Innovation Unit is preparing to launch another industry competition to boost computer vision technology that could aid disaster relief efforts, a top official said March 11. DIU was launched in 2015 by then-Secretary of Defense Ash Carter to bridge the gap between the military and the nation’s ...",
@@ -849,80 +923,6 @@
           "width": 750,
           "height": 500,
           "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-immunoprecise-announces-the-launch-of-polytope-mab-therapy-to-tackle-coronavirus-pandemic.md",
-      "title": "ImmunoPrecise Announces the Launch of PolyTope mAb Therapy™ to Tackle Coronavirus Pandemic",
-      "excerpt": "/PRNewswire/ - IMMUNOPRECISE ANTIBODIES LTD. (the \"Company\" or \"IPA\") (TSX VENTURE: IPA) (OTC QB: IPATF), following its announcement to develop",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/immunoprecise-announces-the-launch-of-polytope-mab-therapy-to-tackle-coronavirus-pandemic-301022138.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1123245/ImmunoLogo_1.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
-          "title": "ImmunoPrecise Announces the Launch of PolyTope mAb Therapy™ to Tackle Coronavirus Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-is-failing-women-that-needs-to-change.md",
-      "title": "AI is Failing Women. That Needs to Change.",
-      "excerpt": "From robots and voice recognition to smart fridges and driverless cars – artificial intelligence is becoming widespread – but will these advancements meet the requirements of both men and women? Without diversity, the answer is no, writes Shawn Tan, CEO of AI ecosystem builder Skymind Global Ventures. Women and men don’t hold the same ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbronline.com/opinion/ai-is-failing-women",
-      "ampWebUrl": "https://www.cbronline.com/opinion/ai-is-failing-women/amp/",
-      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/ai-is-failing-women/amp/",
-      "publishedDateTime": "2020-03-12T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Business Review",
-        "domain": "cbronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cbronline.com/wp-content/uploads/2020/03/miguel-bruna-TzVN0xQhWaQ-unsplash-1024x587.jpg",
-          "width": 1024,
-          "height": 587,
-          "title": "AI is Failing Women. That Needs to Change.",
           "attribution": null
         }
       ],

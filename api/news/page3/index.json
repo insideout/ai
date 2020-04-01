@@ -2,6 +2,87 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-30-aarki-named-winner-in-2020-artificial-intelligence-excellence-awards.md",
+      "title": "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards",
+      "excerpt": "Marketing Technology News: Marketing Veteran Connie Glover Named as the New VP of Marketing and Communications by TeamSupport The Artificial Intelligence Excellence Awards recognizes organizations, products and people who bring AI to life and apply it to solve real problems. Some text in the modal.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/",
+      "ampWebUrl": "https://www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/",
+      "cdnAmpWebUrl": "https://www-martechadvisor-com.cdn.ampproject.org/c/s/www.martechadvisor.com/news/machine-learning-ai/aarki-named-winner-in-2020-artificial-intelligence-excellence-awards/",
+      "publishedDateTime": "2020-03-30T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarTech Advisor",
+        "domain": "martechadvisor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.martechadvisor.com/images/uploads/content_images/aarki_named_winner_in_2020_artificial_intelligence_excellence_awards_5e81a3817b80d.jpg",
+          "width": 786,
+          "height": 393,
+          "title": "Aarki Named Winner in 2020 Artificial Intelligence Excellence Awards",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision.md",
+      "title": "Microsoft: Here's why we're withdrawing our stake in facial-recognition startup AnyVision",
+      "excerpt": "Microsoft's venture group M12 has divested its minority stake in AnyVision, an Israeli facial-recognition startup, and says it won't make any further minority investments in companies that sell the technology. AnyVision hit headlines last year over an NBC report in October and earlier Haaretz coverage alleging its technology was being used ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/",
+      "publishedDateTime": "2020-03-30T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Here's why we're withdrawing our stake in facial-recognition startup AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
       "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
       "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
@@ -1016,96 +1097,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
-      "title": "In artificial intelligence, enterprises still not minding their data",
-      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "publishedDateTime": "2020-03-28T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "In artificial intelligence, enterprises still not minding their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-can-help-find-scientists-find-a-covid-19-vaccine.md",
-      "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
-      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "publishedDateTime": "2020-03-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

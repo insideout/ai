@@ -2,6 +2,96 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
+      "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
+      "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-29T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg",
+          "width": 1000,
+          "height": 733,
+          "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software.md",
+      "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
+      "excerpt": "The video was remastered to 4K from a DVD source using Gigapixel AI from Topaz Labs, and the episode above had ... with Richard claiming that it took him around six hours to process the work from start to finish. As stated before, five episodes have ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software",
+      "ampWebUrl": "https://www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
+      "publishedDateTime": "2020-03-29T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1585544391_kch5d8x_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
       "title": "Distributed training with Azure Machine Learning",
       "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
@@ -1222,95 +1312,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage.md",
-      "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-      "excerpt": "SaaS is helping manufacturers and trucking companies save money and boost efficiencies by making the supply chain easier to manage and more transparent. Until recently, company executives have chalked up the cost and headaches of managing the supply chain as an unavoidable cost of doing business. Walmart started to change this trend several ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "publishedDateTime": "2020-03-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/10/14d74bfd-5f87-4518-82bc-b0ace8aa23cf/thumbnail/1200x675/3286603a2fa4dfecf28b20f2988dfc29/20200110-ibm-jason-teena.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent.md",
-      "title": "AI Weekly: Coronavirus prompts call to service for ML talent",
-      "excerpt": "launched the C3.ai Digital Transformation Institute and issued a call for AI techniques to mitigate pandemic fallout, with up to $5.8 million in prizes. Last weekend, we saw supercomputer companies and major cloud providers like AWS, Microsoft’s Azure, and Google Cloud Platform join a consortium to ensure coronavirus researchers don’t ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/",
-      "publishedDateTime": "2020-03-27T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Weekly: Coronavirus prompts call to service for ML talent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

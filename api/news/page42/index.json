@@ -2,6 +2,97 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-02-22-trillion-dollar-foes-does-amazon-web-services-reign-supreme-in-the-cloud-business.md",
+      "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
+      "excerpt": "AWS is dominant within Amazon as well ... If Microsoft is the victor, it would be poised to expand its global presence through the pairing of cloud services with artificial intelligence or machine learning. This could increase revenue and potentially expand its market share, perhaps even putting the company ahead of Amazon on revenue.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/22/trillion-dollar-foes-does-amazon-web-services-reig.aspx",
+      "publishedDateTime": "2020-02-22T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F558881%2Fcloud-computing-computer-key-getty-6-2-17.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": "Trillion-Dollar Foes: Does Amazon Web Services Reign Supreme in the Cloud Business?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-22-machine-learning-chips-market-overview-technology-details-2020.md",
+      "title": "Machine Learning Chips Market Overview, Technology Details 2020",
+      "excerpt": "Latest Trends Report On Global Machine Learning Chips Market 2020 with Upcoming Industry Trends, Size, Share, Top Companies Profiles, Growth Report and Forecast By 2026. Machine Learning Chips Market is a valuable source of insightful data for business strategists.",
+      "heat": 144,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-chips-market-overview-technology-details-2020-2020-02-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Chips Market Overview, Technology Details 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-take-advantage-of-tensorflow-object-detection-api-part-1.md",
       "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
       "excerpt": "Description-The following is the step by step Tutorial for taking advantage of the Tensorflow Object Detection API-Part 1 (setting up models repository environment) series. Note: I have followed these steps on Ubuntu 16.04 and Ubuntu 18.04 systems. but before proceeding for actual process our system must have some required libraries as follows ...",
@@ -997,87 +1088,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
-      "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-      "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
-      "heat": 130,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
-      "publishedDateTime": "2020-02-20T21:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg",
-          "width": 1200,
-          "height": 577,
-          "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-artificial-intelligence-could-fight-a-future-coronavirus.md",
-      "title": "Artificial Intelligence Could Fight a Future Coronavirus",
-      "excerpt": "Disease outbreaks like the coronavirus often unfold too quickly for scientists to find a cure. But in the future, artificial intelligence could help researchers do a better job. While it’s probably too late for the fledgling technology to play a major role in the current epidemic,",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-02-21/artificial-intelligence-gears-up-to-fight-a-future-coronavirus",
-      "publishedDateTime": "2020-02-20T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
+      "title": "In artificial intelligence, enterprises still not minding their data",
+      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "publishedDateTime": "2020-03-28T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "In artificial intelligence, enterprises still not minding their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-can-help-find-scientists-find-a-covid-19-vaccine.md",
+      "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
+      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "publishedDateTime": "2020-03-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Can Help Find Scientists Find a Covid-19 Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
       "title": "iPad trackpad support is just the start of iOS 13.4's great features",
       "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
@@ -884,7 +974,7 @@
       "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
       "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
       "excerpt": "Internet service providers have taken steps to ensure that internet demand doesn’t overwhelm capacity. Beyond capital improvements, some — including Verizon, AT&T, Vodafone, Cox, and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast ...",
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/",
@@ -1012,96 +1102,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report.md",
-      "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
-      "excerpt": "According to a report by the BBC, Amazon, Microsoft and Palantir will be part of the effort, as well as Faculty AI, a London-based company that specialises in machine learning and artificial intelligence ... Amazon Web Services will provide cloud-computing resources, while Microsoft Azure is said to have built a \"gigantic\" data store to ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/coronavirus-amazon-microsoft-and-palantir-to-aid-nhs-data-analysis-says-report/",
-      "publishedDateTime": "2020-03-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/24/c1e56d77-d792-423d-b2a0-51f41dcd0e59/thumbnail/1200x675/0216fc8a384fce84009b1f6fcd8dc9cd/us-israel-south-korea-and-china-look-at-5e750948daf32b2d76d61991-1-mar-24-2020-17-50-00-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Coronavirus: Amazon, Microsoft and Palantir to aid NHS data analysis, says report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
-      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "ampWebUrl": "https://www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "publishedDateTime": "2020-03-27T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

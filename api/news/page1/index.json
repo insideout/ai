@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-pet-care-startup-rover-lays-off-41-of-workforce-due-to-covid-19-impact.md",
+      "title": "Pet care startup Rover lays off 41% of workforce due to COVID-19 impact",
+      "excerpt": "Layoffs are hitting tech companies hard amid the novel coronavirus outbreak. Leafly, an online cannabis brand based in Seattle, let 91 employees go last week, while AI writing startup Textio laid off 30 people. AI marketing startup Amplero let go of 17 people and will shut down this week. Co-working startup The Riveter and clothing rental ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/",
+      "ampWebUrl": "https://www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/amp/",
+      "publishedDateTime": "2020-03-31T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/rover11-630x420.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": "Pet care startup Rover lays off 41% of workforce due to COVID-19 impact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-autodesk-optimizes-visual-similarity-search-model-in-fusion-360-with-amazon-sagemaker-debugger.md",
+      "title": "Autodesk optimizes visual similarity search model in Fusion 360 with Amazon SageMaker Debugger",
+      "excerpt": "This post is co-written by Alexander Carlson, a machine learning engineer at Autodesk. \nAutodesk started its digital transformation journey years ago by moving workloads from private data centers to AWS services. The benefits of digital transformation are clear with generative design, which is a new",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/autodesk-optimizes-visual-similarity-search-model-in-fusion-360-with-amazon-sagemaker-debugger/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T17:03:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/autodesk-2.gif",
+          "width": 800,
+          "height": 463,
+          "title": "Autodesk optimizes visual similarity search model in Fusion 360 with Amazon SageMaker Debugger",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
       "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
       "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
@@ -564,7 +653,7 @@
       "path": "_news/2020-03-31-niantic-acquires-6dai-which-is-mapping-the-world-in-3d.md",
       "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
       "excerpt": "Niantic has acquired 6D.ai, an augmented reality company that is building a 3D map of the world using only smartphone cameras. CEO John Hanke said in a blog post that the dynamic, 3D map of the world could enable new kinds of planet-scale AR experiences. “This means we’re even closer to an AR platform that will unlock the ability for any ...",
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/",
@@ -988,95 +1077,6 @@
           "width": 1200,
           "height": 600,
           "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-03-31",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-what-can-agencies-reasonably-do-to-benefit-from-ai.md",
-      "title": "What Can Agencies Reasonably Do To Benefit From AI?",
-      "excerpt": "AI has changed our lives in countless ways, but I've noticed most agencies still struggle to harness its power to improve their business.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/31/what-can-agencies-reasonably-do-to-benefit-from-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/31/what-can-agencies-reasonably-do-to-benefit-from-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/31/what-can-agencies-reasonably-do-to-benefit-from-ai/amp/",
-      "publishedDateTime": "2020-03-31T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F142.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "What Can Agencies Reasonably Do To Benefit From AI?",
           "attribution": null
         }
       ],

@@ -2,6 +2,72 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-04-fighting-hand-tremors-first-comes-ai-then-robots.md",
+      "title": "Fighting hand tremors: First comes AI, then robots",
+      "excerpt": "Robots hold promise for a large number of people with neurological movement disorders severely affecting the quality of their lives. Now researchers have tapped artificial intelligence techniques ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200304141455.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-is-artificial-intelligence-artificial.md",
+      "title": "Is Artificial Intelligence artificial?",
+      "excerpt": "Pattern recognition, speech recognition, and object recognition are all components of data-based information used to create algorithms, and subsequently used in Artificial Intelligence (AI).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://wjla.com/news/nation-world/is-artificial-intelligence-artificial",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJLA",
+        "domain": "wjla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-its-like-you-have-a-hand-again-an-ultra-precise-mind-controlled-prosthetic.md",
       "title": "'It's like you have a hand again': An ultra-precise mind-controlled prosthetic",
       "excerpt": "finger-level control of a robotic hand. In a major advance in mind-controlled prosthetics for amputees, University of Michigan researchers have tapped faint, latent signals from arm nerves and ...",
@@ -898,95 +964,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-01-amazon-microsoft-and-ibm-are-under-pressure-to-follow-google-and-drop-gender-labels-like-man-and-woman-from-their-ai.md",
-      "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
-      "excerpt": "Now the AI researchers who helped bring about the change say Amazon's Rekognition, IBM's Watson, and Microsoft's Azure facial recognition should follow suit. Joy Buolamwini, a computer scientist ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-ibm-amazon-pressure-gender-labels-ai-tools-2020-2?amp",
-      "publishedDateTime": "2020-02-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e592f43fee23d4f40526c86?width=1200&format=jpeg",
-          "width": 1028,
-          "height": 514,
-          "title": "Amazon, Microsoft, and IBM are under pressure to follow Google and drop gender labels like 'man' and 'woman' from their AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-29-ai-based-software-is-being-used-to-diagnose-coronavirus.md",
-      "title": "AI-based software is being used to diagnose coronavirus",
-      "excerpt": "After BlueDot's AI epidemiologist was one of the first to signal the outbreak of the coronavirus (Covid 19), another AI-based software developed by a Beijing-based startup Infervision, is now helping physicians diagnose it in Wuhan. The software, developed in collaboration with Wuhan Tongji Hospital, helps detect typical and partial symptoms of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/ai-based-software-is-being-used-to-diagnose-coronavirus",
-      "ampWebUrl": "https://www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/ai-based-software-is-being-used-to-diagnose-coronavirus/",
-      "publishedDateTime": "2020-02-28T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/02/1581340066_1024px-2019-ncov-cdc-23312_without_background_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "AI-based software is being used to diagnose coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

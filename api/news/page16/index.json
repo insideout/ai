@@ -2,6 +2,88 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-18-axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted.md",
+      "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
+      "excerpt": "Axon (Nasdaq: AAXN) has appointed three new members to its AI Ethics Board, including Dr. Wael Abd-Almageed, the company announced on Tuesday. The board was established in April 2018 to guide the responsible development and use of AI-powered technologies being developed. \"Our new AI Ethics Board members bring a wealth of knowledge and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govconwire.com/2020/03/axon-names-dr-wael-abd-almageed-to-ai-ethics-board-jeff-kunins-quoted/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T02:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://govconwire-media.s3.amazonaws.com/2020/03/18/2c/ab/57/f7/9d/73/eb/c4/servlet-9.filedownload",
+          "width": 272,
+          "height": 270,
+          "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-natural-language-processing-nlp-market-overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025.md",
+      "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
+      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in 2016 and is projected to reach USD 6.24 billion by 2025, growing at a CAGR of 21.02% from 2017 to 2025.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market--overview-and-scope-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T02:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market- Overview and scope, Global Industry Trends, Share, Size and Forecast Report By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
       "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
       "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
@@ -881,88 +963,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-biotech-company-uses-machine-learning-to-find-coronavirus-therapies.md",
-      "title": "Biotech Company Uses Machine Learning to Find Coronavirus Therapies",
-      "excerpt": "AbCellera, a Canadian biotechnology startup that uses machine learning to develop antibody therapies, finds itself on the front lines of the Covid-19 global pandemic.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/biotech-company-uses-machine-learning-to-find-coronavirus-therapies-11584437401",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-GI211_antibo_SOC_20200316172104.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "Biotech Company Uses Machine Learning to Find Coronavirus Therapies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd.md",
-      "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-      "excerpt": "Michael D. Abramoff, MD, PhD, is the Robert C. Watzke, MD Professor of ophthalmology and visual sciences at the University of Iowa Carver College of Medicine. He is also a professor of electrical and computer engineering and a professor of biomedical engineering at the University of Iowa.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ajmc.com/newsroom/artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg",
-          "width": 1667,
-          "height": 1667,
-          "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
