@@ -1,28 +1,28 @@
 ---
 category: news
 title: "OneConnect's Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years"
-excerpt: "For two consecutive years, Gamma Lab won the FinTech Team of the Year award, demonstrating OneConnect's industry leading position in both AI technology R&D and deployment. Gamma Lab not only has the leading AI technology, but also deploys the technology in financial scenarios. Its remote agent service uses robots rather than humans to reach ..."
+excerpt: "OneConnect Financial Technology Co., Ltd. ('OneConnect' or the 'Company') (NYSE: OCFT)', a leading technology-as-a-service platform serving"
 publishedDateTime: 2020-03-31T09:05:00Z
-webUrl: "https://www.businesswire.com/news/home/20200331005315/en/OneConnects-Gamma-Lab-Wins-FinTech-Team-Year"
+webUrl: "https://markets.businessinsider.com/news/stocks/oneconnect-s-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years-1029047850"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/oneconnect-s-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years-1029047850"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/oneconnect-s-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years-1029047850"
 type: article
-quality: 11
-heat: 11
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200331005315/en/782479/23/project.jpg"
-    width: 1200
-    height: 627
-    title: "OneConnect's Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years"
-
-secured: "kxhR5Gmzs6c9v/ZESDIPHU6oprzgn3bDof71E58rD7fFq/tbi5qokeefrLA/svaOwte2S9xtXVZzN675QdCoufev48Sm+UYsaFObJ5d80QMtvvFscui65eiRjZH/dEYyPfORfnh23ojgkhPLRY7GKza+nVawmt0flao8PsROBdIrwb8mqykRZ7Oq/Gp6mLZWAy88aGOvq0KgPEwf1N2ptRG6lw0hvNU42gBt/2ft+k5JUM96V+QxtGL+IOVUVGn++Jp4e6XpnngrRiEuPDrk1xyFOfMZYJTqTmbUgJChUfknE8ISNm5o9ZlUK/pZCUEm7GhQ197BE//ueliLYkt2mdY4zBLb5OemRtJtdKj87yQCu3Mib+v3YD3hK34SMIXidS2VN1wcCjieBQvEapXclpt9nxWLqrOG1akWMe0Q/HzMn4AGxxpTQevpz4QqTcWbbEnLzZS+d2qrPe2bl8eEfrmBEpZ2Of3eeppOPN+a0SI=;y/o1Y8gSp7ARK4Oi9TSfmg=="
+secured: "miS8NVzVEa21Ltu/4Yjcn7Q6y/bFslk3q0sd0CWpRK6dqXxXhdn7Y3uYDuemEZCEhaK4eIT6EA+DY0bcXhaUywG42YqHmcZufm6D6NSqOAmwzFNOiPsewkQzrRvFPU95CFl2BDgTpJt0VHSni1BQsX3ziyJ7F+NwPbPa8CG4jsWEiAZlnJH8P0QDzMmPZMBhSBwYpxQIH3aOmTu8QZqoiOhC58+vt+o0L/3d4241O27Bj7k2ya7Aqi7p04SvPMMWJYtmhVTM8sMQUQqlowdXW4sGYhk8h3lghcJHNcUOsFqkRUVrFzwN05yJwYz8SLEWi+9d5aROEMFF6Nly+J7J9+5rRF8obbvgVz9NuJZW0yNuwGq30FJMWncThhc/hnEkkUk5fAAnGDomWMMQO9FxnhrnKo1hnVGvBq6a4mP0nHUzIqtyxLd8hY6MW2kH3anadneK8CAmFzrS9m0UlgRQdsfj3flW8viv7Ok/7/LP4T8=;ST3F+n3JZsg9rsPTio+MTA=="
 ---
 

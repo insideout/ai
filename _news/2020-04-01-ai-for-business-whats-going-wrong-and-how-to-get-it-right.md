@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-for-business-whats-going
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 626
     title: "AI for business: What's going wrong, and how to get it right"
 
-secured: "tWkXdhCmigyx/e1PDZ9xDuR3jI7zRGoOyB7tP4pza4KcQ6gBDFQzTWDr5WPB2WIfyLFfZefyf+SWYSm9USSFACdOEJNBGLWOXQ8IcNEgbqRBSqCjp1onifON8XVu7QJr9N5nMA0HPnNiP4245+XKZPyg+u6vTEJObV+fYoXghL2nLBxfP/Q4e2z801YK+yRcfP4eEAnbvrZABuBRao3VTFOBaLUUyqkk8D0X9AkPxIIIrKfu/cuqPPkAGURuGOOBRnLDtvDw3J/VLCsytu/v+TjuBMNHovFYtPvvgMW1tD6vrjP/KE0ay+YlhZvxpVF6;juU2NHN5mi2Pz5PzrkO0KA=="
+secured: "dK8M8cIYNJLRWabagOWiqjRrqZpaRFfdsBSBaKmQg4KwMr+ud/NwgTes/IB/ICymjOh9ViyqFjuNf+LuCLdo7i1Tu3yMGeCrpXegtjY3GlWsYnFSiDsKEwuyMX3FWwEJQQxOO61t/Zhe5TgAsAcD/W3VG/40405nWpFQYXA+GUJPWJc5FoHym0zKxki8aAKyjbPcMe8YLN5PiN7tkVPz0CyN8DVdXDsbD3zenK77hexkevTZg09PAr16f9UaMQ7UN7BETq51EnnIJERnzU6VMHx0OkWHDstOE3JyKS2RGf1SDvGXYHeuuOf39NlFDsA07+j/cgVaZDtN5aBtVzTecxDSgAwQp6P+0TTFx8T0bBURAytWMG1Ywh40X4opL6gx/zI/LdKqKRudAm1hRq7g4BKWfiwsTDHTrw4VLL/nRaV/D88DOuD/q81zVVVP5mNgw4Nn43YqKOVRRxNDkMehLvMnR1t6IIliNqLCTt6W6/0=;rx6+cHtngf87j71YamxixA=="
 ---
 

@@ -65,6 +65,17 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
         width: 1066
         height: 600
+  - title: "New Facial Recognition Policy Signed Into Law In Washington State"
+    excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
+    publishedDateTime: 2020-04-01T17:16:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
   - title: "Washington State signs facial recognition curbs into law"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
     publishedDateTime: 2020-04-01T02:47:00Z
@@ -92,6 +103,6 @@ related:
         width: 991
         height: 557
 
-secured: "2A+02gDAggHsoc6gBdlKVv9Le8anopQasSHDkjcdDf82fTchuqyDHGVnuJ0as96bixEucg0zHStmWtR8Pbxg04+5bB5WHCy012tftSPbdgiy1k2kdQerUHayjWLuAHv62PELz623c3xYgHKLvFsbrm10VCLMttKnZp5seTUOu7HKu+1JJ1nuupH2SQM8VU7P6JGssbIdGNM9chey7F8FgMy5Icn2Un9y4zyNt9SMwXjn2Aby5Iq8oMKc5sY8kTdA4xi5aBlMPLNTyandEGUoY2DxDG4pCv9loClrLyzfySUoPiaQ5iZLEeRamGyUx1Fy;hCv5E42rIrhRnhbaDJm4mw=="
+secured: "oesIttpMh1qSXbwK8w78oZMyK80C2ERX/Z4lZfh0zJs97LGsrDio/BKAmB2Gb1bgUpumEfiuZlG8ggrNG0xt499Uo9ycq0YvwzinnTKVWN87/c0/qOwfuoFYgRaivobhOO5Y66czLvyewuSOPnvSUbkcKujKA6tAKfb7HywbaTd1lP/tl/XdRbjVFKr+Qy9jksdWVFP9h7bPbiIcbnFHm9lWTkF8JaGv+K58x6gI8d/agpXy+uf40UpEuVkpbTnMA5mYxTWeIB1/YGuk2G6RV6D1q7h52Mej8g/8yVK8Y6pmOebBYxuWKBxHKG/5gsvZk+pznbPBnTB2amKw7mOis7ZOFKh446hJbvURfvBozcy7aKLkMQswDZ1DTJBoZmATMwB7ecFyjDGXDTUYGXh8m/Y+c+0ORBODVRXI5UvokJilP2MLCQQbcig5n971vR6UiVi9kEln2sy/ppgXpfR09WKK4uhXlOaXe7RzwasBUGg=;rV9Cp5A5Mao2Zer3UhWQBg=="
 ---
 

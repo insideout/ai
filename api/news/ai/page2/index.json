@@ -2,6 +2,132 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-31-groundbreaking-ai-brain-implant-translates-thoughts-into-spoken-words.md",
+      "title": "Groundbreaking A.I. brain implant translates thoughts into spoken words",
+      "excerpt": "“The algorithms for natural-language processing, including machine translation, have advanced quite a bit since I conceived the idea for this decoder in 2016,” Makin continued. “We’re investigating some of these now. [In order to] achieve high-quality decoding over a broader swath of English, we need to collect more data from a single ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/ai-brain-implant-turns-thoughts-into-words/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/ai-brain-implant-turns-thoughts-into-words/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/ai-brain-implant-turns-thoughts-into-words/?amp",
+      "publishedDateTime": "2020-03-31T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
+      "title": "ModelOps Is The Key To Enterprise AI",
+      "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/31/modelops-is-the-key-to-enterprise-ai/amp/",
+      "publishedDateTime": "2020-03-31T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e836f72a547180006512144%2F0x0.jpg",
+          "width": 1200,
+          "height": 692,
+          "title": "ModelOps Is The Key To Enterprise AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts.md",
+      "title": "Claims that AI detects coronavirus in X-rays aren’t convincing medical experts",
+      "excerpt": "This makes it hard to breathe as there’s little space remaining for fresh air to enter. These effects have led a host of tech firms to release AI systems that can detect signs of the infection in the lungs. Their rationale is straightforward: AI, and in particular deep learning, has had some of its biggest successes in classifying features in ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/31/claims-that-ai-detects-coronavirus-in-x-rays-arent-convincing-medical-experts/amp/",
+      "publishedDateTime": "2020-03-31T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design44-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Claims that AI detects coronavirus in X-rays aren’t convincing medical experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-lenovo-teams-with-microsoft-azure-at-the-edge.md",
       "title": "Lenovo Teams With Microsoft Azure At The Edge",
       "excerpt": "At the Transform 2019 event, Lenovo introduced the ThinkSystem ES350, an edge server about the size of a notebook powered by Intel’s Xeon-D chip and Nvidia Tesla T4 GPU accelerators and aimed at workloads like machine learning inference ... The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating ...",
@@ -80,51 +206,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-deepminds-agent57-beats-humans-at-57-classic-atari-games.md",
-      "title": "DeepMind’s Agent57 beats humans at 57 classic Atari games",
-      "excerpt": "In a preprint paper published this week by DeepMind, Google parent company Alphabet’s U.K.-based research division, a team of scientists describe Agent57, which they say is the first system that outperforms humans on all 57 Atari games in the Arcade Learning Environment data set. Assuming the claim holds water, Agent57 could lay the ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/amp/",
-      "publishedDateTime": "2020-03-31T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind’s Agent57 beats humans at 57 classic Atari games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     },
@@ -1224,96 +1305,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-element-ais-search-tool-surfaces-curated-coronavirus-studies.md",
-      "title": "Element AI’s search tool surfaces curated coronavirus studies",
-      "excerpt": "Each signal informs the system’s predictions such that it learns how various resources are relevant (or not) to a search query. Natural language processing enables them to understand a piece of research in the context of a data set, while natural language search — a specialized application of AI that creates a “word mesh” from free ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/amp/",
-      "publishedDateTime": "2020-03-30T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/p1dgtk98mg1t63187lal917um18ng3.png?fit=1366%2C768&strip=all",
-          "width": 1366,
-          "height": 768,
-          "title": "Element AI’s search tool surfaces curated coronavirus studies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
-      "title": "Key Takeaways From AMD's Financial Analyst Day",
-      "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
-      "publishedDateTime": "2020-03-30T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78f91810380d0006fbdc78%2F0x0.jpg",
-          "width": 1016,
-          "height": 610,
-          "title": "Key Takeaways From AMD's Financial Analyst Day",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

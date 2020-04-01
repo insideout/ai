@@ -28,6 +28,6 @@ images:
     height: 619
     title: "Is this AI-powered 'mirror gym' the future of home exercise?"
 
-secured: "jArdCTHyV+nBHL1ha7cJfPnxt5dBVr7+pj+pO1ucY3vWPR03EMnj047lkaWnVAvTkE6/JDn6+t4PdpPrYwHA9GATvcRYKRMeD8gskFGGzdJRTCp9BDoQlouZCeZroOAyhI7fRrTbreepZcrEEYOZwzt2KCVfcgvDllD67uH5AmmMGlEIk7Ao6fyRi8pIfKca+e9wXkhBeuUuhoTqfW7oMi8jbhjEsEtc+WI1PkU7n7LEB/gRQBbGrcqw08hmBgMsFph0tNLWPK6ZJ3dlNlytni6sjx/vZu6NKKR4mg9fXhGQPD5lrsvVAZyGCnsFRZIO;tm0EstE5PtWT8jrqchKB1Q=="
+secured: "aBPMFxOPOR1QflcvHui+/xoe/lNkxc0CnNO7CDKZrbZcpiiwfjJ1v/OGqkjoIF1p6w1wtwz24sgD9UStML1rFz3nAAB8w6NQLwgQE3k+MsqqTuKp9UJQQyUx+a5Yst2kJt/dz2OQ4eInl8OFqCxUe878h3b9TBiiFtqLf/vyJhAQEI9K0P1mVuX4131DXvgFhT/+DS32FypG1OQICs50f9PWgcwA0fi3cRO5d4hVw5w+mftfv+B0MiL13hgtdDnu5F46uRqP7H0TgFs6P39hbE+NUz+MlFXHM6zWHjslVNRSS4JboCgdEs5NPyzKarj5m3J+FIZDTV3MamRSHR4O0pn7MXMIsIuuNUa8q7qtoM497PoRI3YcOmOn93RK/rttySRX3SYXHNoqsEBytZK6Na31vJjq0eU2r+dFQ8VGgZu/+InZZV8XYOsKCPXUdVwvEoYT9FXcwXkthSher+paHyvoOxQMMOWMKHo4ZFHE10s=;3WFDYfhN4DzPd7RZ1mLZEA=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 988
     title: "Self-Driving Industrial Vehicle Company Seegrid Secures $25 Million"
 
-secured: "hGLEDsPpormFITGiglnVzpr0uFXqfwwjk0SkSlBkc71452e4FmQH/aFes7cAcxqMcfd+oPTtQT2NyL+c3Uhv7gNrs1b75tgfs2G+z760y9WYGhbSf6Z4pX8hsvKni3YEEo7OgBa6xg2ybAEbLr+IM0Q2ZEs2MGPwlWdxSrGRtGYdIV+RdYwJAx86Vxi/+aZ+ZZXVzd+9KODoRDv+jQZrLLKt1HACJoDCjt2P7455IAs9YdfQIMPEtS7M8l3Iwxgk2UYCq9PD28DQ5gMb70cznYkWOx6fBvu1IHbDm8HZng7pWlQl/Hw5+USZem3LmzBF;HT6en+qdUTlrw5DFvOlsJQ=="
+secured: "kgA4Gw9KQ4dltn+4DrZm/StosPVemY56me/iY74ep/uyJdtHeink8xMBabSNnMuUs54aJSfU55Q5hw55iZDd3BinN5EkwjWXmD+SYLDwjcGd41CyPUq/0hHgjBuE0a6VYlvl9pR7sZ6lmDHzciCeiedyhQIlWS9wz1oDYlipjPzZ9k9wXbjUcnzZQQjJfqUrruEV4uV+aUFALcEULTX20EgnE0pZ4ku89y/e/JK+XTR9T/YsdVn2P+ipyQp0RsbKwKm0PB6DbIJuBqiYv9ro/yO3gifpddmpdXSBoL0sl2ctSlRLLlDvLa1eLfSR4PpbOqLhi4v02pnR30kQUAq65SEwRYnlNjPlcp2CltTuJjpDtAhPaoQsKzW8Jo4vGSPFHojyoa6bcTcvmpVIJ+vNmY4CQqoic4pBLQ/jUL+gz5OwvCaSGSYr6oUbC0J9CCFSGSl53T/tZrfgxI0zI/esOKId8Yh1fJxbFC2iFvro+KA=;g+iwEAZReInHT0SVU6wcog=="
 ---
 

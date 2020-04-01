@@ -71,21 +71,6 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
         width: 1024
         height: 682
-  - title: "Microsoft Alters Policy on Facial-Recognition Investments"
-    excerpt: "The company is ending its controversial investment in Israeli startup AnyVision as it swears off minority stakes in suppliers of facial-recognition technology."
-    publishedDateTime: 2020-03-27T23:52:00Z
-    webUrl: "https://www.wsj.com/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890"
-    ampWebUrl: "https://www.wsj.com/amp/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-alters-policy-on-facial-recognition-investments-11585352890"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-170213/social"
-        width: 1280
-        height: 640
   - title: "Microsoft will no longer invest in facial recognition technologies"
     excerpt: "At a time when many tech companies are pouring money into facial recognition research, Microsoft is selling off its investments into the technology. The company has announced it is divesting its shares in AnyVision, an Israeli facial recognition company alleged to be contributing to mass surveillance in the West Bank. A recent audit found that ..."
     publishedDateTime: 2020-03-29T15:30:00Z

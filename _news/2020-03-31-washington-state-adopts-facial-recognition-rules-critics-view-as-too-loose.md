@@ -56,6 +56,17 @@ related:
       - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
         width: 1066
         height: 600
+  - title: "New Facial Recognition Policy Signed Into Law In Washington State"
+    excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
+    publishedDateTime: 2020-04-01T17:16:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
   - title: "Washington Governor Signs Facial Recognition Law Curbing Use"
     excerpt: "Washington Gov. Jay Inslee has signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos based on a database of known ..."
     publishedDateTime: 2020-04-01T15:16:00Z
