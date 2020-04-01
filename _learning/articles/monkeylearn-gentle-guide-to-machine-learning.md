@@ -13,7 +13,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: background-image: url('../wp-content/uploads/2015/08/guide_to_machine_learning-2_thumb-1.png')
+  - url: https://monkeylearn.com/blog/wp-content/uploads/2015/08/guide_to_machine_learning-2_thumb-1.png
     width: 720
     height: 336
     title: "A Gentle Guide to Machine Learning"

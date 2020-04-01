@@ -1,6 +1,6 @@
 ---
 title: "What is machine learning, and how does it work?"
-excerpt: "Have you heard of "machine learning", and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning "works"."
+excerpt: "Have you heard of machine learning, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning works."
 webUrl: https://www.youtube.com/watch?v=elojMnjn4kk
 type: video
 price: Free
