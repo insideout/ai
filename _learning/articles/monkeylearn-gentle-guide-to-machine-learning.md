@@ -3,6 +3,7 @@ title: "A Gentle Guide to Machine Learning"
 excerpt: "Machine Learning is a subfield within Artificial Intelligence that builds algorithms that allow computers to learn to perform tasks from data instead of being explicitly programmed."
 webUrl: https://monkeylearn.com/blog/gentle-guide-to-machine-learning/
 type: article
+price: Free
 
 provider:
   name: MonkeyLearn

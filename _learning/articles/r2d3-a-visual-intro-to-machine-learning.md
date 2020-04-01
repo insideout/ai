@@ -3,7 +3,7 @@ title: "A visual introduction to machine learning"
 excerpt: "In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions."
 webUrl: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 type: article
-price: 
+price: Free
 length: 
 heat: 0
 

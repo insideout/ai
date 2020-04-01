@@ -5,6 +5,7 @@ type: collection
 heat: 32234
 
 items:
+  - articles/vas3k-blog-machine-learning-for-everyone
   - articles/r2d3-a-visual-intro-to-machine-learning
   - articles/monkeylearn-gentle-guide-to-machine-learning
   - articles/towardsdatascience-machine-learning-101-for-dummies-like-me

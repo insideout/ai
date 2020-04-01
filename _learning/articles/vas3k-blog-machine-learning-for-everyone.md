@@ -3,7 +3,7 @@ title: "Machine Learning for Everyone"
 excerpt: "A long blog post that explains machine learning in simple terms, with real-world examples and lots of visuals."
 webUrl: https://vas3k.com/blog/machine_learning/
 type: article
-price: 
+price: Free
 length: 
 heat: 0
 
