@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/developers-its-time-to-brush-up-on-your-p
 ampWebUrl: "https://www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/"
 type: article
-quality: 92
-heat: 92
+quality: 94
+heat: 94
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png"

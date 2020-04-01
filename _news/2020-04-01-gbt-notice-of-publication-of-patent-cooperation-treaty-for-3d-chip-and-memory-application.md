@@ -1,27 +1,23 @@
 ---
 category: news
 title: "GBT Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
-excerpt: "This Notice of Publication comes after GBT received an innovative opinion for its 3D microchip patent where PCT, the patent authority which manages the international research report, stated that the claims are novel and non-obvious."
-publishedDateTime: 2020-04-01T13:17:00Z
-webUrl: "https://apnews.com/Globe Newswire/dc4af53768d9c7d86bc156d22b3c589b"
+excerpt: "With this new structural method, we aim to create new capabilities for IC designers, enabling vast amount of circuits on one chip. Simply put, we believe this platform could be ... and Artificial Intelligence (AI) enabled mobile technology platforms. GBT has a portfolio of Intellectual Property that, when commercialized, will include smart ..."
+publishedDateTime: 2020-04-01T11:00:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/g15715263/gbt-notice-of-publication-of-patent-cooperation-treaty-for-3d-chip-and-memory-application"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15715263"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15715263"
 type: article
 quality: 30
 heat: 30
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    title: "GBT Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
 
 related:
   - title: "AI Stock News: GBT (OTCPINK: GTCH) Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
@@ -51,6 +47,6 @@ related:
         width: 323
         height: 208
 
-secured: "nwo4utNoqYwl0xH2WUUyqnXHzFJAYYy1t5Sa8xz2x9Cj0dgaZUqxfLMArzcV9X8M87//Vc7sBIVnh5RhYrlVaAZX69acCZd4/5P8Fr8l/H9pHwzyTgvSHato/EzowU6fVtaZfqRHK9IZxve9Enchag0eTZ7recAQiOumdTua9n+b/R0gIZuWu/v4BzV6//tKKekbV3RQlLD6T8tepnvYhlX9+KfdSVBFU89yTDIOahMJDKk0d+ksPvj7NWr7dFiApXY0l9ogUuv7P+UxeJ6h19ilDSYYq0EextYIqbGeGr1H8NbARkg09Olprtu1886f;WzwcEsNA1wTRiCLgsL0tqA=="
+secured: "VJn3uGz8aq8yn3LX5P8/TUG2Oelg/33wUsW92GlbW0Rug9FwWM8wCPmxxxzjUlp6R+meEH/GHFZ7PqelDT3JxzmOBAdyTib35ZCDcV0dWjKT3TErW0eUj84Gchr3Cc0wdTO3odho4B/tdsf7c6ZuP993amID/KSWKL29OoDKZNo0838QOzo8Hzfn1fEhfnO1TIHOUMNENhIFpAciDGkL3JQBJbNdTlcan1OizcuDZsiXjjDtZUb+HPiInlCdH1xXwIk9W4cx5tCsvc3sl+HPWAx0QiRQtsbkFODmw9/sMy9indvZppoksX3t0YRcUw92;WpO7iDBVnx1OXtUMNy9rbw=="
 ---
 

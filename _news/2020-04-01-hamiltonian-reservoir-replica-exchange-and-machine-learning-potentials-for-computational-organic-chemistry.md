@@ -25,18 +25,16 @@ images:
 
 related:
   - title: "GBT Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
-    excerpt: "This Notice of Publication comes after GBT received an innovative opinion for its 3D microchip patent where PCT, the patent authority which manages the international research report, stated that the claims are novel and non-obvious."
-    publishedDateTime: 2020-04-01T13:17:00Z
-    webUrl: "https://apnews.com/Globe Newswire/dc4af53768d9c7d86bc156d22b3c589b"
+    excerpt: "With this new structural method, we aim to create new capabilities for IC designers, enabling vast amount of circuits on one chip. Simply put, we believe this platform could be ... and Artificial Intelligence (AI) enabled mobile technology platforms. GBT has a portfolio of Intellectual Property that, when commercialized, will include smart ..."
+    publishedDateTime: 2020-04-01T11:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/04/g15715263/gbt-notice-of-publication-of-patent-cooperation-treaty-for-3d-chip-and-memory-application"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15715263"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15715263"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 30
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
   - title: "AI Stock News: GBT (OTCPINK: GTCH) Notice of Publication of Patent Cooperation Treaty for 3D Chip and Memory Application"
     excerpt: "With this new structural method, we aim to create new capabilities for IC designers, enabling vast amount of circuits on one chip. Simply put, we believe this platform could be ... and Artificial Intelligence (AI) enabled mobile technology platforms. GBT has a portfolio of Intellectual Property that, when commercialized, will include smart ..."
     publishedDateTime: 2020-04-01T13:15:00Z

@@ -45,7 +45,20 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design46-796x417.png"
         width: 796
         height: 417
+  - title: "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games"
+    excerpt: "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set."
+    publishedDateTime: 2020-04-01T16:12:00Z
+    webUrl: "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg"
+        width: 1440
+        height: 634
 
-secured: "0AnIJ7tdHlssMxW/lVFMdaSCDF2Lx2eYbFDYfYZyDsCggaa+F+GECcPpVFpV26JvqNClY2Vh0LjsjZ5bNiFVaxPLQm+hzI/Xd7FZPfI3jvK5M97yNLLhombhZK21zKJ/OOuBKKRaRMMMUwmjG7R6w+/61FNnTVpmbfVDlksJiMYzGuHk18gh2TCLRns5FHn6gdD4Sht7LoGHxou3djrelvnPSaii2ckf48VF+fo6zaZZ9KEhOFELBipGY53Qg6qHzsoTu9AMn1FdUu1HB4joqFJ4y/NU5MFqw7kRlXo7ckb1E0reRliQBPdzwNq55fhFgDAgZIzxW2fSNZqHxjJf2I3AHfYMc8PIlmmFSAz3p7BorT+3AtyQly56fcPQoEWsBe3CtuNBbeA2HieqjFqTAnUGYnj8TO9ubS0IcOs969BexiL55OmqN42nyrTNwAK9FDTQqvaMmMzD+QVd9ltCSfAyeL5ZuEmXb35r/PHHk8Q=;INbzlcy4ma13WfO2I6YJow=="
+secured: "zA6nScttpRiFbCu4Hxv+0ri3zz6VYlfGl/yNwFaD8HGx+x8dutYLa26FcjLpuZ/r6OlgZRkkoQiG7B1g/F66Kyjr37dzWQ62zuaswU/J8Zf3gcB9II/6je2pwFRXXJrPvt4/S6puUxsvxod8f04DNFwflk/bBKvCyijXaA/TT9Td6mMX4uMiXKRJ80M5Mv1KEbCYWbHnHCEV+5yUewvn1UxcC2TSXaJEzi6PHnJWzj54+PWBlNkbiXdIR+ypwhI0GiQs/Fcl2h0JfskLxAxdYJ1xoq4SuX6awj5KdfTURpZA+pvjjb/X8PItEHwp/Tbg8KUSbj9oGfVEcx2MCSM7VhDfi53+iW7AzP/DLP9rU3MkVd2v2Hkv2yhmNjWzEIOvyjZ5iT0vFboNZHscM14q1a7cIpiveJNMGYsYZumHyr6aFopJfxhl76T6h5TlfYs71Dgx7g4SqBsrUnQWs0xLUEo/aZapiHdc1JjWahH3n1A=;WFWfYXVczXKBHXVDdLNc8A=="
 ---
 

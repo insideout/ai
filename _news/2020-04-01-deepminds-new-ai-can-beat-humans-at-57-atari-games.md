@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-ca
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games"
+    excerpt: "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set."
+    publishedDateTime: 2020-04-01T16:12:00Z
+    webUrl: "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 54
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg"
+        width: 1440
+        height: 634
 
 secured: "LEKEhIhCgmLdEWw+m0iGOiXSHimD1IWGyb6jwJ0SIuBzdfhsWq6hCkI0DbmkZIXZfIcz3P/f8tohNGMKcDu9MMqNyf2iW05VRT5xv6s/VlqVGSKKkugAanzkJKJ9+b+5DsYeezQUDLmBGGiXJKfOQJrMtAMEbnpOSxm6cGmOJDnP1UJEXdsBfJPnavwBBLF5OOZQIfBCVqkv4aPc6pMvgngWMzQXiNQqbKeT6UFKgMykb6QlU9cWMkV9pLq/N3YEMwwsrkeDcLAM+/B7AH++U2QQc3L2RFVD2tO2oV+8T+vi9be69YtOxrLUUwQL5/qNd5pg4ZFgjeG0OdOEOblh3Ew3E9KqgJeA/6tb4hWKmZB+NLgJdxHZkbi1Ag0QbdagPDwoGeV3+Btkc0OYtb0ZNiOSUvRcHExCFjK6ZOit/uC348moLEE8Kd5aXPMHEdk64GN1KbfyHwrvn383/pIYu/p9Ykk7fkoL5JFibUIMQzI=;2a/0nCVXtf9vHsipV0SgLw=="
 ---

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning"
-excerpt: "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ..."
-publishedDateTime: 2020-03-27T12:03:00Z
-webUrl: "https://www.techradar.com/sg/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
+excerpt: "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI ..."
+publishedDateTime: 2020-03-27T11:33:00Z
+webUrl: "https://www.techradar.com/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
+ampWebUrl: "https://www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 545
     title: "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning"
 
-secured: "HPu83TRLmCB8qDIDsj2Fc4I6qai/rpSPJIOZ6E3pZ525P2p7aFUKwREzszFKJXftfBupihlZViLNWj/kyfag87cLqBN4a1mAYnfKlfPm3/EysT7tZLqOAso4YMrT5lMUFBZIYu1Lmy3fET75iirHRQ2DHOXlvMo/XHGg3zrji9gMBA3uxPAzSWOHpH4f7VoCTSUvcv6zzEcRym+X4Ez9IftBzGlODhOB/0QYwWwEDXT0EXrMvkXHJdw05qNqldGA40msPTdDRgSZA7s7fWAxzZVUPz4+DP0vrCL0ETnszsbgVaPYJVU1opY6abBxB7S/cvS7dHpMHIUDQ8Qm26M/ufxCLvms5CspsqUfUDBuI5SaFjoFMpg/aWzGWcJ38EpR/W49vfu6yvsg88xuao1iofFfjk6L3CNvnq2aPsTBgXOHe5scYSHnpWbWG0m6RaNhBc0yBHgQM6C5c0FZxOBX5KZibZBL/mwb8uGPJD2RWHM=;KA6x9L45oPLZYBAWg6HKig=="
+secured: "soe4gJiigEtBoi01PxOh4/L4Laar6vw0O6A4ZOOG2zPVXvxCMG8acz0/wB3kiC/Z1VOxQEtlgx5+imdjLbYlngkiaxi3+rYfKw6ppXtUbQmeUuf0Zqev1FPALrymEmiohySx7bHPGD7oatgi6sEvKucM27n6M2Zo4cv6iV7tlX3CknVQs6KCA/p6pIvU5lvoFkgWQlvfZYs2bn+TDKwwSl2NLUnRNs/UZ7oV8Gow20N3w7BQcxyQ5QVRlYNnibv2nYP6LTM2Xj1H0oaNzaTbp6XonX1X3lXLM0ncF/3JiarcZ5RLY+GiRMWdBTIk80Qm;Y+YuA2Qookid/XdpIrjAGw=="
 ---
 
