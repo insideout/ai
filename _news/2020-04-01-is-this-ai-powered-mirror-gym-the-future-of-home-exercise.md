@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Is this AI-powered 'mirror gym' the future of home exercise?"
-excerpt: "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home."
-publishedDateTime: 2020-04-01T15:17:00Z
-webUrl: "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/"
-ampWebUrl: "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/"
-cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/"
+excerpt: "That same year, entrepreneur Aly Orady launched Tonal, an AI-powered wall-mounted screen that focuses more on strength training. It features an exercise bench and resistance system that uses electromagnetism to simulate weight machines. This month, entrepreneur Trent Ward and designer Yves Behar are unveiling their sleek design for a mirror ..."
+publishedDateTime: 2020-04-01T16:33:00Z
+webUrl: "https://us.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html"
+ampWebUrl: "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html"
+cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 619
     title: "Is this AI-powered 'mirror gym' the future of home exercise?"
 
-secured: "aBPMFxOPOR1QflcvHui+/xoe/lNkxc0CnNO7CDKZrbZcpiiwfjJ1v/OGqkjoIF1p6w1wtwz24sgD9UStML1rFz3nAAB8w6NQLwgQE3k+MsqqTuKp9UJQQyUx+a5Yst2kJt/dz2OQ4eInl8OFqCxUe878h3b9TBiiFtqLf/vyJhAQEI9K0P1mVuX4131DXvgFhT/+DS32FypG1OQICs50f9PWgcwA0fi3cRO5d4hVw5w+mftfv+B0MiL13hgtdDnu5F46uRqP7H0TgFs6P39hbE+NUz+MlFXHM6zWHjslVNRSS4JboCgdEs5NPyzKarj5m3J+FIZDTV3MamRSHR4O0pn7MXMIsIuuNUa8q7qtoM497PoRI3YcOmOn93RK/rttySRX3SYXHNoqsEBytZK6Na31vJjq0eU2r+dFQ8VGgZu/+InZZV8XYOsKCPXUdVwvEoYT9FXcwXkthSher+paHyvoOxQMMOWMKHo4ZFHE10s=;3WFDYfhN4DzPd7RZ1mLZEA=="
+secured: "+DAPWMexZERCUW8xcdvRG99GHAknKwWO0QXo8gcztXGmIqYAnnaV8yhZUCuUVjh4/d4e5V0zqP3al2HuZNZC/5v8NDqxFwxdpCpNu9YiOAJNl+1fzfGpGmkW18CGlB3Cprfijc/YYAbcBMR1PwYkmt3GYK/4r+OhIPzXYmKOJbQaY7hTup6YDIJQCpppFW3XXQDLq/SGKjjZKu7f36IQj+I+0FsqkXwxBzBZZwD44aWtWIRh0kKDF1dO2WPeH0uVIVD3iYCcvaqQG73fPbOVg4DIsDmv+zt0C1y0NPo55hsh5dERSghnzdbjv7OyRuoq;zX+QX4UM5UNMF0cmfUNkYw=="
 ---
 

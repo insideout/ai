@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI may help predict type 2 diabetes"
-excerpt: "Based on a study involving 509,000 annual checkup records for 139,000 people in Japan collected over a decade, researchers say an artificial intelligence system can help identify people who will develop type 2 diabetes."
+excerpt: "Artificial intelligence, or AI, may be able to identify people who will develop type 2 diabetes, researchers say. For the study, the researchers used machine learning AI to analyze more than 509,000 annual health checkup records of more than 139,000 people in Japan from 2008 to 2018. They included more than 65,000 who did not have diabetes in 2008."
 publishedDateTime: 2020-04-01T05:05:00Z
-webUrl: "https://www.upi.com/Health_News/2020/04/01/AI-may-help-predict-type-2-diabetes/5451585716404/"
+webUrl: "https://www.upi.com/Health_News/2020/04/01/AI-may-help-predict-type-2-diabetes/5451585716404/?sl=1"
 ampWebUrl: "https://www.upi.com/amp/Health_News/2020/04/01/AI-may-help-predict-type-2-diabetes/5451585716404/"
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/04/01/AI-may-help-predict-type-2-diabetes/5451585716404/"
 type: article
@@ -24,6 +24,6 @@ images:
     height: 533
     title: "AI may help predict type 2 diabetes"
 
-secured: "IoxxWDH2EPcvlBIpOSfU9kDyJp+i9shMK/JJBxX+t9gKWHlOnx/6h86K/oAQghuny6VeApiSe3joCwfn+zo6St1/HVuncyKwe4PG7UkGipDcbQ5+vTuvkqyFA5o3ED+yaqVeP5wNEWx2fLu/GYCyeGMA7WBpNYbn3MDm1lcTYXQzxTuzJEXgXZ2boxm0aHYcAnaf1n082FWOvn2WGNhMIRZU2LKqvqlg8xvUJDybfLS4PlJE9qTTs9JRSMhalSXzxgQEt/Efp8T1qVZkmHDoJ402C/8Q/eOwxqI/kTRyorVmxXS4s9nFh4U/zTqr82XmO7UMiOr/+sG9GuC8w3f7tk3CH4TDwctjqFlswFdPv55oTAznbg1abLTs5G1CJcvrPAQixfXqZ+ixS3tGFMoHBKOpP7a11jnzaPifQMKjNIbrQ98nmsTiPp1fxnSDjtH+O5bPhyipGtNCdoyxZGuoXwCO64aj0//lEDlagkDiS2k=;YA2h/rFkb+I0JG/aiKkl5A=="
+secured: "8xL7Dx4mjkGNbe0cHcm+syZXjlE8ar0fLB/lAU7b0QItBlEa+krqcGQaD6FkWJeTFu1KAdEU8//dDEDNRP2P04qsDLsfXs/Z1cYOTo2sFeeXgDd9V8e4xthfm4uCKcP+B7MFmUKeFkV1Fv0fLCDLXf8McXJ2m96KcVoXnVTyY9nAlVXIpbDuLO2e6bwepbZQ33wozXGc1fr+ik1ITeYPfJuI+CXxslsxBofL1UA+fftP2mwN53batEn3eaacvES6Gti87R5KWuwJeFWpKH88UkxAOF1H3OUDAnrsNYodbQeELYEFY87/JhqQMjWx9h0y;uC/tbm4B3GdjxB15mcFx6w=="
 ---
 

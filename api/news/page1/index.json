@@ -2,6 +2,87 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-01-human-layer-cybersecurity-and-ai-thwart-data-breaches-vb-live.md",
+      "title": "“Human-layer” cybersecurity and AI thwart data breaches (VB Live)",
+      "excerpt": "Data breaches are at an all-time high, because traditional cybersecurity methods just can’t predict human behavior. Learn how stateful machine learning delivers a robust, people-centric approach to cybersecurity when you access this free VB Live event! Access on demand here! Over the past decade companies have been boosting their ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/human-layer-cybersecurity-and-ai-thwart-data-breaches-vb-live/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/human-layer-cybersecurity-and-ai-thwart-data-breaches-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/human-layer-cybersecurity-and-ai-thwart-data-breaches-vb-live/amp/",
+      "publishedDateTime": "2020-04-01T16:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1022805724.jpg?fit=840%2C415&strip=all",
+          "width": 840,
+          "height": 415,
+          "title": "“Human-layer” cybersecurity and AI thwart data breaches (VB Live)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-it-took-a-coronavirus-outbreak-for-self-driving-cars-to-become-more-appealing.md",
+      "title": "It took a coronavirus outbreak for self-driving cars to become more appealing",
+      "excerpt": "Suddenly, a future full of self-driving cars isn't just a sci-fi pipe dream. What used to be considered a scary, uncertain technology for many Americans looks more like an effective tool to protect ourselves from a fast-spreading, infectious disease. With COVID-19 — the name for the disease caused by the new coronavirus — keeping most of ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/autonomous-vehicle-perception-coronavirus/",
+      "ampWebUrl": "https://mashable.com/article/autonomous-vehicle-perception-coronavirus.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicle-perception-coronavirus.amp",
+      "publishedDateTime": "2020-04-01T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F01%252F6c%252F16342e756b0e4023b82a7862df64d273.068ba.png%252F1200x630.png?signature=0rYR5J06AcdSItqbZjuNXcbd5EQ=",
+          "width": 1200,
+          "height": 630,
+          "title": "It took a coronavirus outbreak for self-driving cars to become more appealing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
       "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
       "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
@@ -315,6 +396,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
+      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+      "excerpt": "That same year, entrepreneur Aly Orady launched Tonal, an AI-powered wall-mounted screen that focuses more on strength training. It features an exercise bench and resistance system that uses electromagnetism to simulate weight machines. This month, entrepreneur Trent Ward and designer Yves Behar are unveiling their sleek design for a mirror ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://us.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "publishedDateTime": "2020-04-01T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
       "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
       "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
@@ -347,50 +472,6 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
-      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/",
-      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/",
-      "publishedDateTime": "2020-04-01T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
           "attribution": null
         }
       ],
@@ -1020,94 +1101,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-cordio-and-rambam-hospital-will-trial-ai-that-detects-coronavirus-cases-from-speech-samples.md",
-      "title": "Cordio and Rambam Hospital will trial AI that detects coronavirus cases from speech samples",
-      "excerpt": "Cordio Medical today announced that it will begin a clinical trial at Haifa’s Rambam Hospital on an app-based AI system that analyzes speech to diagnose and remotely monitor COVID-19 patients. Assuming it passes scientific muster, the tech could be used to help treat self-quarantined patients who are likely to have COVID-19 but who haven’t ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/cordio-and-rambam-hospital-will-trial-ai-that-detects-coronavirus-cases-from-speech-samples/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/cordio-and-rambam-hospital-will-trial-ai-that-detects-coronavirus-cases-from-speech-samples/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/cordio-and-rambam-hospital-will-trial-ai-that-detects-coronavirus-cases-from-speech-samples/amp/",
-      "publishedDateTime": "2020-04-01T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/05/diagnosis-e1585691897976.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Cordio and Rambam Hospital will trial AI that detects coronavirus cases from speech samples",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-how-deepmotion-uses-ai-to-create-believable-characters.md",
-      "title": "How DeepMotion uses AI to create believable characters",
-      "excerpt": "As an engineer, He wanted to find an efficient way to create more lifelike animations, and he was convinced that advanced physics simulation and AI could solve that problem. So in 2014, He struck out on his own to start DeepMotion. The goal of the San Mateo, California-based company is to provide developers with powerful software development ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "publishedDateTime": "2020-04-01T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/DeepMotion_VB_SS-e1585696653316.png?fit=1200%2C687&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": "How DeepMotion uses AI to create believable characters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
