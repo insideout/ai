@@ -30,17 +30,6 @@ images:
     title: "IBM forms Watson Assistant for Citizens to handle COVID-19 queries"
 
 related:
-  - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California,"
-    publishedDateTime: 2020-04-02T04:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "IBM makes AI free for answering COVID-19 questions"
     excerpt: "IBM will make its Watson artificial intelligence software available for free, so government agencies, businesses, universities and healthcare institutions can use intelligent bots to answer citizens' queries about the unfolding COVID-19 crisis. The software will be available for free for at least 90 days, meaning organisations can use it to ..."
     publishedDateTime: 2020-04-02T04:04:00Z
@@ -54,7 +43,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.8962%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1%2C$y_89/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/afb0ba2ba18677b2470e40260c9ca917665d8f90"
         width: 800
         height: 450
+  - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
+    excerpt: "Available for no charge for at least 90 days and available to our client's citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
+    publishedDateTime: 2020-04-02T04:01:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+        width: 1650
+        height: 864
 
-secured: "iySXmGeYasjDscFWhGsLFazg/PO1GsCfOXxAuLE7bjqVMYNPM4OJ9E4k4GZsIjeNmRWfRb9hrJxFSX+yc79aC+iKS+qPkQgK4c38GzBCcETg+uTp20CaJ8Yq3D5vj2wO9YmOsiyoarpw4uO4hXWlYSlKRFrivbs8vlG+t2L30JlZrmApLnwzoIMkiAhbuhOylJQ5rNTKBgECVPJCmAn0OOGGydjYraohFOlNZ8jgto1twysWMOoO442nqlhQQ+aTCSMvhCFsN7uiK7q+b/F742ysmyo3BZyVVfSVE6Ss2ydDljI4F/SUrd7O74sbEjw7;gwewUFSgSULBpBCXcqzt3Q=="
+secured: "Wpcus9u4S5yWiZCAZ2jaIHWFYjMxX2zQnE9wrdNGAnrIlQmqQvLE82kFt4fUhu1t0D5DJRSug/vVyIOg8W7WQQRYYonV3XRLKw9B4TIOzS3cEdcdSihP0LxKL3693xu+O6+j21XudAYGzducngExCATN3SADerlFCXjD8yfJ2VN19bkWWGoMK0FYUPTLdR2SF+e1Sp1oa3+fIbee3deYLIlFliuJUlYrfFvFG5xZtereBC5wsQx617SWdQdS7hcDigoeDCk7/c8FxX5dNpbtznCwOfK3wZ60ebT/xUIBxRJ5ZFqqAM6ZKRptBVVQpHt8X2x4x9R0gZwUijHpdrg/ZAC+COlBf8DcOiPYateGihnjL+DQJVhii5/+kNlQLwMtDsVxOMwjSETpyDHaeDw2vYMQgITTcT0cVRdhf+VQ1DpZ9KHUfZWN/Czqhfx2SJqZkOYgV/yJtDlGfc1KFyG1AuBDYZma/eSukIl1MEXqwMc=;Ho2qU6r6Z8XdTTTgzVlfsQ=="
 ---
 

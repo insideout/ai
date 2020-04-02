@@ -2,6 +2,96 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-01-31-laszlo-bock-thinks-machine-learning-can-make-work-better.md",
+      "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+      "excerpt": "A Google veteran’s new firm uses artificial intelligence to send employees ‘nudges’ to prod them toward changes likely to produce a happier workforce",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/laszlo-bock-thinks-machine-learning-can-make-work-better-11580492585",
+      "publishedDateTime": "2020-01-31T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-FZ452_BOCK_SOC_20200128171741.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Laszlo Bock Thinks Machine Learning Can Make Work Better",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-ibms-big-bet-on-cloud-computing-ai-and-open-source.md",
+      "title": "IBM's big bet on cloud computing, AI and open source",
+      "excerpt": "the company's stock price dropped over 25% and while the company has been keen to trumpet its artificial intelligence work (in the form of IBM Watson) and its reinvention as a cloud company (thanks to Red Hat) there is still plenty of work to do if IBM is to every approach its former glories. Sure, the latest earnings published by IBM earlier ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-big-bet-on-cloud-computing-ai-and-open-source/",
+      "publishedDateTime": "2020-01-31T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM's big bet on cloud computing, AI and open source",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-last-day-for-early-bird-tickets-to-tc-sessions-robotics-ai-2020.md",
       "title": "Last day for early-bird tickets to TC Sessions: Robotics + AI 2020",
       "excerpt": "Today’s your last day to score early-bird pricing on tickets to TC Sessions: Robotics + AI 2020, which takes place on March 3. If you want to keep $150 in your wallet, beat the deadline and buy your ticket here before the clock strikes 11:59 p.m. (PT) tonight! Our one-day conference dedicated to robotics and AI — the good, the bad and the ...",
@@ -1217,79 +1307,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-drug-designed-by-ai-to-enter-human-trials-for-first-time.md",
-      "title": "Drug designed by AI to enter human trials for first time",
-      "excerpt": "Exscientia's system automatically analyses patients' genetic data and finds molecules that could be used in new medication Credit: Andriy Onufriyenko The first drug designed entirely using artificial intelligence is entering clinical human trials ... Rock Health for The Financial Times earlier this month suggested that AI, machine learning ...",
-      "heat": 207,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/",
-      "ampWebUrl": "https://www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/01/30/drug-designed-ai-enter-human-trials-first-time/amp/",
-      "publishedDateTime": "2020-01-30T08:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg",
-          "width": 1960,
-          "height": 1225,
-          "title": "Drug designed by AI to enter human trials for first time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.md",
-      "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
-      "excerpt": "ST. PAUL, Minn. (FOX 9) - Minnesota lawmakers will debate Thursday whether to limit how law enforcement uses facial recognition technology. Police are already using facial recognition to scan mug shots and even security footage for suspects, but it is also causing concerns over digital privacy. A Senate committee is holding a hearing ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology",
-      "ampWebUrl": "https://www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
-      "cdnAmpWebUrl": "https://www-fox9-com.cdn.ampproject.org/c/s/www.fox9.com/news/lawmakers-debate-whether-to-limit-how-law-enforcement-uses-facial-recognition-technology.amp",
-      "publishedDateTime": "2020-01-30T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox 9",
-        "domain": "fox9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2020/01/932/470/facial-recognition-technology.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": "Lawmakers debate whether to limit how law enforcement uses facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

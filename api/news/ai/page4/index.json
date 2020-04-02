@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-30-12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data.md",
+      "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+      "excerpt": "The recent success of deep learning is the result of the marriage of big data and GPUs, significantly increasing the breadth and depth of the data used for training computers and reducing the time required for training deep learning algorithms.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "publishedDateTime": "2020-03-30T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ea66a958e13498c8aaf2f2ad7a2d9d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-10-details-about-voice-activated-tech-every-user-should-know.md",
+      "title": "10 Details About Voice-Activated Tech Every User Should Know",
+      "excerpt": "Successful CIOs, CTOs & executives from Forbes Technology Council offer firsthand insights on tech & business. Share to Facebook  Share to Linkedin Between Siri, Alexa and Google Assistant, the world seems to have a lot of voice-activated assistants these days.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/amp/",
+      "publishedDateTime": "2020-03-30T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1177334841%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 800,
+          "title": "10 Details About Voice-Activated Tech Every User Should Know",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.md",
       "title": "AI transforms 'The Great British Bakeoff' into a horror show",
       "excerpt": "Artificial intelligence (AI) can do astonishing things when given specific jobs, but it's terrible at understanding context -- something we've seen before in this series. Thanks to a new experiment inspired by The Great British Bakeoff (GBBO), we can again witness the tragedy of AI stepping outside its lane. Researcher Janelle Shane trained ...",
@@ -1230,95 +1320,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-her-future-summit-to-explore-ai-and-the-future-of-work-for-women-leaders.md",
-      "title": "Her Future Summit To Explore AI And The Future Of Work For Women Leaders",
-      "excerpt": "The Her Future Summit serves to teach fundamentals of future technology and the leading social impact applications of Artificial Intelligence, among other technologies.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/",
-      "publishedDateTime": "2020-03-27T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e7ef008eb080006520dab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5926%26cropY1%3D310%26cropY2%3D3643",
-          "width": 1200,
-          "height": 675,
-          "title": "Her Future Summit To Explore AI And The Future Of Work For Women Leaders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-textio-lays-off-30-amid-covid-19-seattle-startup-hopes-its-ai-writing-tech-will-aid-all-job-seekers.md",
-      "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
-      "excerpt": "We’ve been supporting employers for such a long time, there’s some opportunity to support job seekers in this environment,” Snyder said of the desire to quickly implement new features in Textio’s AI-powered natural language processing technology. Job seekers using Textio would be encouraged to better understand how language they use ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/",
-      "ampWebUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
-      "publishedDateTime": "2020-03-27T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/11/textio_life_new_brand_800px-630x323.jpg",
-          "width": 630,
-          "height": 323,
-          "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

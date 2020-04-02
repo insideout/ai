@@ -40,17 +40,19 @@ related:
         width: 1200
         height: 675
   - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California,"
+    excerpt: "Available for no charge for at least 90 days and available to our client's citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
     publishedDateTime: 2020-04-02T04:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 17
+    images:
+      - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+        width: 1650
+        height: 864
 
-secured: "m0GrDspAdIMwVXquhL88ENbhOxHNYjGW9V4vL+eg7n9vxaOQ1YETExQtjbK0u/3wW1A+RZ8Oc8EMAdE38C3PFlO9uzw64bb+H4I8F8pflDdd4pw2ycZ9+XuJEctC6R+4QSN6XWsesj8lym9rIu8yQp7Lq6gZLd8aUeLPC2EaXA9258LW+0mQ1Z6hkCmtuQ1cJxu4J1W7uocZEXiD0cxHHmGRPwlFypfClf3w2v/7j9TpiGzyLuAevSGBICo1bUUFmBhscLdy4fXFKRhTJ5rzlWRjwoSUglGm3ZG7BZQFIG+2ZSq88HNoxa2rjwsbDIC9;hglwsVKW4pG9sOaeGWewLQ=="
+secured: "wjDtIz+i8Vn/yvQITvTcmvDWu46GFwOR+Qm+p4l9Re1d4Ak0ZSdu5hy9goaEqjd4Xw1hhyc33KcA6bmzDYpnXY0/1jqDNxbv+juNMsrPDq/V1DZ+coyDV832V4KOhdELvCz0kSiDoqls3nYbBGS1W8yALN2s3w0K1lDLQ8l4YH2AulVueh0Q0DmAxX3b6uhgjxIhi8eoklsdJIVAwnazCtGRAI3zLkwwOXfYff229Dka+cNEsdOsx1oq5E/tpS0GI4JqDMqLSD2f1hUNd2Hp2ppC86my+oa7XQZvPCL4rTiRdZFf4oODy1yKLDejtfpVpOdlQ0x/PNOSRkaVJlH1DbmUeJl3RZOTrBs/FeJzgn9kpRMjwQQhp/Uqf3/ZHr1VYgah62JtIC4kz8UO1dWI6TCh9ko2TViUZzw7gziZhPZqxM7XuoRH6nAyj2wFC2dBviiYgFWpr/GJqvoOajgb95Qj7D9anzi6kM99WZWgu+k=;ei2etV/APtFKJ5bD8YIXvw=="
 ---
 

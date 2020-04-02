@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/autonomous-vehicle-perception-coronavir
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicle-perception-coronavirus.amp"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     title: "It took a coronavirus outbreak for self-driving cars to become more appealing"
 
-secured: "YQP7Mo5/1YxE07OjgHKY4Oi/bwmViGiWpGeWlOnYWcuW5LOJ+5dOoDoSXIwZ2z3KLp1f/q8zXClmsUHSI3xLWRrietHZsbwjkrNnQGutpwgHfMv3QEHEqltbNRQFc9iaknwfmPRtu/Gp+mW506bk2rvEcJV4sO+DfMKfydedz6tKITnckgO7420e168rv6aq6gUNYS1w8DWOdvmyNSebQjQQZCn58Uun39BW5P2vsKnEtGak4F5bDE4MUgyD/iboGbL6r6FxmK2or5JiGp9pKNvgsq4HfPOVel1mPwhV5xMSDbe3PNZmP747a56BQigIsmZvkK2rxURGZQMBlDFuQS/zmZORCYuoqrmq28D69YZwMWEbHLXR1FH4rRw3lml6/7MnLELSWoZujpMcOaUOzUEkEglsO4SZuDaHK7dtkCY6rU0K9knDhiRlPKJ4FEUBikUPjx6Qq9OI8ZHqBjEf7VxZkrJewCXfNx9Mcud0gkQ=;MmoYF+iWDeahgsfSH3xcNg=="
+secured: "ZKu/iOvlte9p3/8JAA4yzomlPfRm3SQb0X/HSvZrvlPz06ik8qgjz2dauPXYvekkpjY1yLW6pmJysYnzWwZs+gJD6nnu2dMxuxiZU5j6+b+RbLN7lnSVNOZP9jtLw8pwwR57ZTDTPO/HmK8DLttzbVdipypI2HnDcr7xsQ9HQxEJt69L1D9oAhkne15ZRNYlSUArLRwYA9pUJyCbEbe8MExeqiGvuz+S7oCgc5qtqc3N5cmoZrslbQyAeTpL3MsKcuR0fMYDr64gnbRomgE3+qLDYafmStWB/ABRxz6+tESeA5Vld+a/PxSIhKpaYAzpfDG66ep87zGISRIvoLXtAXEVcENIitPuHQWZOXJK0Ghiiv4D4vYiEbFMUQWIDlyZ0c/7OX1gL1GR1GQRxb7Fo1C0PJlW/xlTpdfH6kwXt4Nk10yzK90daLMt3tuandj+yfFDhSNakY7150oI3YY0prZ5+fXbIAXLO+SeKyhd8cw=;pQwEuIp69SXO2vTaimWX0Q=="
 ---
 

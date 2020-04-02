@@ -2,6 +2,80 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-17-how-the-nz-government-will-regulate-ai.md",
+      "title": "How the NZ government will regulate AI",
+      "excerpt": "The community workshops held by the project team have recommended that the innovative approaches and tools should concentrate on the areas of national conversations about AI ethics and values, assessment and options for a centre of excellence.” In another Government AI development, Statistics New Zealand has released a draft algorithm charter ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.html",
+      "ampWebUrl": "https://www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3532505/how-the-nz-government-will-regulate-ai.amp.html",
+      "publishedDateTime": "2020-03-17T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-957654482_1200x800-100767998-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How the NZ government will regulate AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-ai-everywhere-iot-chips-coming-from-arm.md",
+      "title": "'AI everywhere' IoT chips coming from Arm",
+      "excerpt": "The new machine-learning silicon will include micro neural processing units (microNPU) that can be used to identify speech patterns and perform other AI tasks. Importantly, the processing is accomplished on-device and in smaller form factors than have so far been available. The chips don't need the cloud or any network. RELATED: IoT catches on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.amp.html",
+      "publishedDateTime": "2020-03-17T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/heart-cardiogram-100832450-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "'AI everywhere' IoT chips coming from Arm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-intel-made-experimental-chips-that-can-smell.md",
       "title": "Intel made experimental chips that can smell",
       "excerpt": "but a team at Intel has been attempting to train AI to something unorthorodox for a computer: smell. Researchers from Intel Labs and Cornell University have announced that Intel’s neuromorphic research chip, dubbed Loihi, is able to “learn and recognize hazardous chemicals,” through algorithms that mimic the brain’s olfactory system.",
@@ -1018,72 +1092,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ai-predictions-2020-artificial-intelligence-grows-up.md",
-      "title": "AI predictions 2020: Artificial Intelligence grows up",
-      "excerpt": "As AI grows to be a pervasive technology, there is currently little trust of the morals and ethics of many companies that use it. As a data scientist, that is disheartening – but I believe there are ways that AI innovators can respond to the pressure they’ll begin to come under from governments and their customers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itproportal.com/features/ai-predictions-2020-artificial-intelligence-grows-up/",
-      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-predictions-2020-artificial-intelligence-grows-up/",
-      "publishedDateTime": "2020-03-17T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/7wpkwZ96dcE55zQ5nmxUST-1200-80.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "AI predictions 2020: Artificial Intelligence grows up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
-      "title": "Artificial Intelligence (AI) Market",
-      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

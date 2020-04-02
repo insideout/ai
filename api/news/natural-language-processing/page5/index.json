@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-02-the-human-powered-companies-that-make-ai-work.md",
+      "title": "The Human-Powered Companies That Make AI Work",
+      "excerpt": "The hidden secret of artificial intelligence is that much of it is actually powered by humans. Well, to be specific, the supervised learning algorithms that have gained much of the attention recently are dependent on humans to provide well-labeled training data that can be used to train machine learning algorithms.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/02/the-human-powered-companies-that-make-ai-work/amp/",
+      "publishedDateTime": "2020-02-01T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e36288cf133f400076b68ca%2F0x0.jpg",
+          "width": 1200,
+          "height": 662,
+          "title": "The Human-Powered Companies That Make AI Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-01-why-were-failing-to-regulate-the-most-powerful-tech-weve-ever-faced.md",
       "title": "Why we’re failing to regulate the most powerful tech we’ve ever faced",
       "excerpt": "It’s clear the AI revolution will impact society drastically, both for good and bad. Recently, using natural-language processing and machine-learning techniques, Canadian company BluDot sifted through global news reports, airline data, and reports of animal disease outbreaks to issue an alert about the current Coronavirus outbreak ...",
@@ -1285,51 +1330,6 @@
         "Microsoft AI",
         "AI Hardware",
         "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-a-look-inside-augmented-analytics-and-its-business-value-in-2020.md",
-      "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-      "excerpt": "Here's what you need to know about augmented analytics -- and how to deploy the technology to support your business development goals.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/01/16/a-look-inside-augmented-analytics-and-its-business-value-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x395/https://blogs-images.forbes.com/forbesbusinessdevelopmentcouncil/files/2020/01/a.jpg?width=960",
-          "width": 711,
-          "height": 395,
-          "title": "A Look Inside Augmented Analytics And Its Business Value In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Natural Language Processing"
       ]
     }

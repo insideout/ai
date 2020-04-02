@@ -5,9 +5,9 @@ excerpt: "Image classification takes an image as input and categorizes it into a
 publishedDateTime: 2020-04-02T05:29:00Z
 webUrl: "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-transfer-learning/"
 type: article
-quality: 67
-heat: 67
-published: false
+quality: 101
+heat: 101
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
+  - TensorFlow
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"

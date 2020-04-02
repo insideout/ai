@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
+      "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
+      "excerpt": "The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19, which has affected 204 countries to date. Online, by text, or by phone, the Watson Assistant for Citizens virtual agent — which brings together IBM’s Watson Assistant and Watson Discovery services and AI ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
+      "publishedDateTime": "2020-04-01T21:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-ai-led-operations-a-way-for-enterprises-to-scale-with-foresight.md",
       "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
       "excerpt": "Things move quickly in business today. And organizations are increasingly using data to move their businesses forward. IT systems are generating a growing variety, velocity and volume of data. This both creates challenges and opens up new opportunities.",
@@ -1218,51 +1264,6 @@
           "width": 1024,
           "height": 683,
           "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast.md",
-      "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
-      "excerpt": "The global speech and voice recognition market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-analysis-by-industry-size-share-key-drivers-growth-factors-demands-manufacturers-and-2026-forecast-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech and Voice Recognition Market Analysis By Industry Size, Share, Key Drivers, Growth Factors, Demands, Manufacturers and 2026 Forecast",
           "attribution": null
         }
       ],

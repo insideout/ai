@@ -7,9 +7,9 @@ webUrl: "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-a
 ampWebUrl: "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 85
+heat: 85
+published: true
 
 provider:
   name: VentureBeat
@@ -22,6 +22,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text"
 
-secured: "6lGBkA+zsNnn9Oznn7lCrGm0/V6BS+2xo1niqZiW3r5uk02XAHS7pSm1Ba98kxPDwkJAT16z2Ly0MenDHSBDF6/Fpttk417xfBPVa2bbrlQCzJrAounxxA4jaKccdeFGJ8845O7xtU5jD99OyF6bgQ27/y2l9E8Y641r1Q7vuwL8BR6yXy3l5e60aJPCJJkVHabFeFPsz6eDkvCtXsfDTnbP2DY8zZJ031vZ0JADp6Ite601TClFEGb0V9EThHi3Z9tcPi9yqUoWOuibGy5XhEvZHi9tZEsi7o/XJTbeiDROAeUxPhonYgkNdtwDskQf;CAupYz+dLHHgU33uGKFyjw=="
+secured: "LQebJXeFohOYXJ//Xz3jVIyQBoc2xZfVbA7WQ82Ei0K6jNpQ4C6NlFu7udxszLH5MsZeIhf8pNL0xrihfMJ+ux562c9BRpvhZzWUhxUuNas5iRKMpeEXUBZQuFHIKvuodLQ6RdtKnbJNl0MCz8DdY09motJZTGrNIzbHEtHwVmja1xtT7/lhPVLzFp9P3zFosQZZNTOJxKm+VnQwaRGSycXhxgN40qcOQ2HoUy7ha6gynrSLjWkoWpwqDXoIIYUEJEy4DdVdf2EYsXpxHqek2zSXLLYCBdncLU0+V1WWnWpAm711NJrFIRQn8T9L2c/WACVB9nQThGt9XEC+otdlE+/rp9nBoTIOtgQ3UApMzjYC4peuPSZwjuNOboGXDxX+63CW95SauFlzyGC4t9jBh8hxtSOFKAOhNpi4bqVFrjTdbBxuR9JLa9krqP7U5Sp3Y10TyRp0AjgYAoiBNnej9Fiee9ruHOwSth70rEcoigo=;gaBogQOToga0Lga2xHZFfQ=="
 ---
 

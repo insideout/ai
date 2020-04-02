@@ -2,6 +2,86 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-01-16-senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts.md",
+      "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
+      "excerpt": "A bill introduced in the Senate this week aims to steer tens of billions of new funding toward civilian Federal government research and development efforts involving “industries of the future” including artificial intelligence (AI) and quantum information science ... of those Federal investments in R&D “with complimentary investments ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.meritalk.com/articles/senate-bill-aims-to-funnel-billions-more-to-ai-quantum-rd-efforts/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T06:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MeriTalk",
+        "domain": "meritalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.meritalk.com/wp-content/uploads/2019/01/shutterstock_1186368289-min.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Senate Bill Aims to Funnel Billions More to AI, Quantum R&D Efforts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others.md",
+      "title": "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others",
+      "excerpt": "Phenom People, a human resources (HR) platform that leverages artificial intelligence (AI) to help companies attract new talent, has raised $30 million in a series C round of funding led by WestBridge Capital, with participation from eBay founder Pierre Omidyar’s VC firm Omidyar Ventures, AXA Venture Partners, Sierra Ventures, Sigma Prime ...",
+      "heat": 189,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/phenom-people-raises-30-million-for-ai-recruitment-platform-used-by-microsoft-others/amp/",
+      "publishedDateTime": "2020-01-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Phenom-People-Front-Lobby.jpg?fit=2544%2C1227&strip=all",
+          "width": 2544,
+          "height": 1227,
+          "title": "Phenom People raises $30 million for AI recruitment platform used by Microsoft, others",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-the-10-most-important-skills-youll-need-to-nail-a-high-paying-job-in-2020.md",
       "title": "The 10 most important skills you'll need to nail a high-paying job in 2020",
       "excerpt": "New skills like learning blockchain, the technology that enables cryptocurrency, and affiliate marketing, made the list for the first time.",
@@ -1222,95 +1302,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
-      "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-      "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "publishedDateTime": "2020-01-15T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health.md",
-      "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-      "excerpt": "A new IEEE study shows millennial parents would embrace self-driving school busses, 3D-printed organs and AI-powered assistants. TechRepublic's Karen Roby interviewed Dr. Karen Panetta, dean of engineering at Tufts University, about the tech organization IEEE and a recent study concerning AI and healthcare. The following is an edited transcript ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/study-millennial-parents-are-more-likely-to-consider-ai-for-their-kids-health/",
-      "publishedDateTime": "2020-01-15T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/15/0474ddc4-0751-4943-ba45-8001b2a71c49/thumbnail/1200x675/d7a62e7ff462af441cef021bc9ac5d6c/20191212-panetta-karen.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Study: Millennial parents are more likely to consider AI for their kids' health",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

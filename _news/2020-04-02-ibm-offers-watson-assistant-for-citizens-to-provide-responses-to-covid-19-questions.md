@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California,"
+excerpt: "Available for no charge for at least 90 days and available to our client's citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
 publishedDateTime: 2020-04-02T04:01:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056944"
+webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
 type: article
-quality: 62
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - IBM AI
+  - Natural Language Processing
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+    width: 1650
+    height: 864
+    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 
 related:
   - title: "IBM forms Watson Assistant for Citizens to handle COVID-19 queries"
@@ -53,6 +53,6 @@ related:
         width: 800
         height: 450
 
-secured: "ud2T/RIa9HwsGUBPJRPHQ2K1EJamZgCHc2Z+KWqiAsBNDgDL60lrLg/PMMbkcN14bPuq5mBt94zH/VPfyx5oi6zIAJegc7ZijHhjZ4LlMIRUgUkufTUrLmYFXltrep3gMLOiSjEkm9FE4orZKwDtBv6W/fKMcmn8jGLmZcnQ2f298fWvkUCiu7wdv61A/ZXkNwD61KLalv1aKZMMB6/4a+U9D2K47lIVSS59u2fQO8rrmKBzF0y+lv9wGeaIYJfjT80BAWK3tE2ZwlLLEKu4jkL6v9lIMLdvK2u4U4F6H0hQWRJ/N4u44Lpc/Im4NW/aIUeHO7W49ZNC4JTL5cpQ0W6akM3FvtYkHAVyO8XOB1xpim2kIkxv6touNMHO/yrOxcWGukbgjr1dPdW4Ize4AWaReI/nMeCVV1+jdCNPfUcgrPmimzYPNA326u9RHoFG1XeQk5raySrdXxC23N5FyoSrMcR7CJFumj7Fk/mEzcw=;p1x9rhKOJ9inJwPsBOQ7zQ=="
+secured: "8lkYBbds7AC36xR34oGkh5ObCdNOF6VhEHAD1xrpk75vc+2p+UFFbbGSTtDa5XRiRNxRMlGp5P+zQ2/URBlMWdJYrtjLWQnHobaMMxwip4zuKckFqwLGSY7DTsknT0tqMQxrrO3T/VMnFFCWPTSlmKfLi0z1Ck7OhnaWWD+EQadrLjFt50SAsO9Ag5vKGVz7SBDHHEBG0mkJEh86PapdNfHaiScf2i+saZ0nEBqRYTmNJ1L9EEYZzcMz2Jyp6r9SoiesIXF05deNmnMrQIrCIERfk7M2mhYfCL2AMNM7MhS8TMebVEHjIe1rNptPSoCe;bt2KWmrABsRsUvFXbloZhQ=="
 ---
 

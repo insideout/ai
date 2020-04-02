@@ -25,21 +25,6 @@ images:
     height: 683
     title: "Microsoft divests from Israeli facial-recognition startup"
 
-related:
-  - title: "Microsoft set to divest from Israeli facial recognition firm tracking Palestinians"
-    excerpt: "Microsoft is set to sell shares in an Israeli facial recognition company accused of surveilling Palestinians in the occupied West Bank. The company’s M12 venture arm invested $74m in AnyVision in June, only to come under fire after an October report by US broadcaster NBC News claimed that the Tel-Aviv-based company was powering a “secret ..."
-    publishedDateTime: 2020-03-28T13:48:00Z
-    webUrl: "https://www.middleeasteye.net/news/microsoft-set-divest-israeli-facial-recognition-firm-tracking-palestinians"
-    type: article
-    provider:
-      name: Middle East Eye
-      domain: middleeasteye.net
-    quality: 33
-    images:
-      - url: "https://www.middleeasteye.net/sites/default/files/styles/article_page/public/images-story/000_1oq0n4.jpg?itok=Rv-3rtzc"
-        width: 1400
-        height: 933
-
 secured: "gcLnGS6oT1D/DdZkmxvlnwqGHjVLKjkTAATWYrbo21sGUHtW1izXiz5XB6C5S7FDk/oqXfx02HRiXTwNyq92y+B1bx19uI8gY+sAOiJwDgr5yLmLX8XQAKo7fDSWfkI1B22YD6cE3wh9Wm3iHaZlGuYXqDHVejr3q3AJhJhr2nMxiGAnQt8mHcTmMw5udKVdmDEQGf1Z1llFG7cTLa12eWdlwCxaP4/aWg89EzUbDfMifT7IZDdAca+vKtJ+f7C3vkbqwU+9LhD/ZVqVFUhtuAG6DzHw3rj61e5HgbROtjn7UMdyiEUlhxHFY4awqMZpj0Y0AWeE99IZlAnAfNCDSHcvpgsK1X2Iu/vwKklcWTU3yd0TtRqqrfLFzfz0ENANPUZjnUABYdpFne1m2EtFxVvnOkzypUF/9YBQW1QlL+TXiuMaDdUpot4avyOtrw5YzXmbBYL982qbtyJ0k9M1vHO0eUiA8qfvgXwJYTAU01I=;/lB5CoT99lp8sBRIclxrXw=="
 ---
 

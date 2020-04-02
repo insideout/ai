@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-30-take-your-ai-project-from-concept-to-concrete-roi.md",
+      "title": "Take your AI project from concept to concrete ROI",
+      "excerpt": "Why do so many AI projects fail before they deliver actual ROI? Learn how to go from abstract business problem to concrete AI solution. Get business analysts and data scientists working together from start to finish. Get started with this free eBook to develop AI projects with real business impact. Download now! You’ll learn:",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
+      "publishedDateTime": "2020-03-30T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/woman-at-computer-through-glass.jpg?fit=6720%2C4480&strip=all",
+          "width": 6720,
+          "height": 4480,
+          "title": "Take your AI project from concept to concrete ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-element-ais-search-tool-surfaces-curated-coronavirus-studies.md",
+      "title": "Element AI’s search tool surfaces curated coronavirus studies",
+      "excerpt": "Each signal informs the system’s predictions such that it learns how various resources are relevant (or not) to a search query. Natural language processing enables them to understand a piece of research in the context of a data set, while natural language search — a specialized application of AI that creates a “word mesh” from free ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/element-ais-search-tool-surfaces-curated-coronavirus-studies/amp/",
+      "publishedDateTime": "2020-03-30T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/p1dgtk98mg1t63187lal917um18ng3.png?fit=1366%2C768&strip=all",
+          "width": 1366,
+          "height": 768,
+          "title": "Element AI’s search tool surfaces curated coronavirus studies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
       "title": "Key Takeaways From AMD's Financial Analyst Day",
       "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
@@ -1016,95 +1105,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-10-business-functions-that-are-ready-to-use-artificial-intelligence.md",
-      "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-03-29T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81761ea1a0ef0007d89a39%2F0x0.jpg%3FcropX1%3D406%26cropX2%3D2635%26cropY1%3D0%26cropY2%3D1254",
-          "width": 1200,
-          "height": 675,
-          "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-star-trek-voyager-gets-an-unofficial-4k-remaster-thanks-to-ai.md",
-      "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
-      "excerpt": "You won't forget that the show was made for tube TVs given the aspect ratio, but the AI is surprisingly effective -- it produces something you probably wouldn't mind watching on an idle afternoon if you're a Star Trek devotee. The effort is time-consuming at about six hours for an episode, and the necessary software is both expensive and tricky ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
-      "publishedDateTime": "2020-03-29T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2917%252C1945%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252F58b51930-7213-11ea-baff-d5511b899659%26client%3Da1acac3e1b3290917d92%26signature%3Dd228aae84390dea235728c38be873d772c46b03a&client=amp-blogside-v2&signature=e5e99794ff3100e08542506b05337f770a1b003d",
-          "width": 600,
-          "height": 350,
-          "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
