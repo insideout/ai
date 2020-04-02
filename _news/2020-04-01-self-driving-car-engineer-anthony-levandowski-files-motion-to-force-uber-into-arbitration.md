@@ -8,8 +8,8 @@ ampWebUrl: "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: TechCrunch
@@ -29,6 +29,17 @@ images:
     height: 718
     title: "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration"
 
-secured: "6pFr6koQv6+nTmjWePgmWhWDSLvFkhK56L3d42611DguEw7rMNYFrDYo7x8LOS3T5UWarpMiWf8A2+gfcV64mq8I1DsuGnXnIw2pX7aTDgOnfKTM5cF48QigjU+WzdtpfNxilVnu07aFrJiG5b7cuVO2GMJhbM/f0Z8aO4aEutt1yvgJED4j8UqarrJS2PkspaWZSHCq70SWoPiUGsJA0ocbUFqjLjNDMg/luCBeh3vjuRCsYabWMRlTN2YwY37ZsFDdKuqolFZTuDGU61eiWvEQ+tCfH+FnZED6wnnhxPSk47SSrcEa/ED13EXnldyu;8h1tFp8aKrbRPu50+d2fGQ=="
+related:
+  - title: "Self-Driving Car Engineer Seeks Uber Arbitration"
+    excerpt: "The self-driving car engineer involved in a trade secrets lawsuit is seeking arbitration with Uber in hopes of getting part of the judgement against him paid."
+    publishedDateTime: 2020-04-02T19:47:00Z
+    webUrl: "https://www.mediapost.com/publications/article/349430/self-driving-car-engineer-seeks-uber-arbitration.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 4
+
+secured: "VXZJyH9RECBzPKtHpNtAsqDR2fh0G6nJhO+l5rtuaHi9hMx7EsAHLMHe854LqNOJCxsgoWkWATjElXnlU7udI9hOka+UQeJF8y8OfGF5tBpujvXlaCeNOhVdd/PfBsNFhFBuKucBFrHif114oUUjZaq34b6WKi3PRBYaCDqLEaVLZ8AVParksj85OMXVOC3vRknsVKqq1ArvqjIsRst5LGXLnxY+ZmXaAkUP+OsxuJuQ82/tsYRvUAYfwYN4+p3rFAHZwSO14vyxN+lD/k/G9m0IXNkp5c8J/U0h6cyfxhN+FecWmgLo9UasH1DNkFXZH/WU6Qvs4g2c3laV3m1hf37XGYkmpLu+44d9cufRupOOmxn3r7gUd27K/xZdQYZTjY/686MZqJi6/kCsRqvrwVkD7RBl5my5F0A53etnqWNxI17sj99psgfpaqPW9FmDgM4IdiPPQBAjk2TyQEG+KTcZYwPmZiVTJ/1EcCLif5A=;6F/CDkjLCHGp9s7mesuqiA=="
 ---
 

@@ -28,6 +28,6 @@ images:
     height: 640
     title: "How AI Will Impact The Future Of Patient Care"
 
-secured: "1BzUfOawTLXyJJu8a2SegwvvLn0obLLMWgYoZXIqTAdcqiSWyQYH0VAGuw6X8MLhVG8NjrbX7fiTtmHPotjBiIP/8/vvj1kTKweVSh7rw7K2xGNuAT65x3Kn+1g/QuFZEGNcWxGpmM2T6wHjvr19shxHUPsqE20bip60L1zeY1yw/x/WGI3CNLTGGyG/C5ZQwT01dj2Jzbg3tH2dodua2gzs3+oOHWu8JKNtEZj7xVY0noAn/K7YIveuVHMip1fm9q5YV/2mRHZ2+jK2OFpiEEcfJV5nzwQJrbYhU8Y08Bj/7cfsbV+SyR/cWgzksTjc;Iyh4+kdSm6o6pc+QBXUTNw=="
+secured: "0lA3QgtWid+cmcYm4YU8nM1ApprXst1pYIbUE8pUZnOUyxX3MM1nt7Qzyiif/t4a0Elrb9le6ue+qHhlXYG0meIfG4HQ4ucOOpnNBPgiKYuj0YMMkj7XFoyukeixsOkgmd0p8dDTcbUXIQ4/BTWtrMafRsS3JSHgmJiRKPR5SPtAU7FELPQqMlJsMSXeEHNBgC5/jIF2NkktoKZGGVo08RFBy/pJWnxLVxaKWohAuMy77xMen30/uaYLJ9lI3S/jC5SFG9xLIT6m694ubg4QjYISII8KfzZDhYeHXoKucGCt7TH87lfVgChK0+4JiLP5XzMKRHfU4/Xh8pMNxepBf8OKyi7tIPzR4PQ0o9wTh6Ks9sFTfSfvDCUwYUDeZped1oioKntlNyhW8CqEytWJy4imLAO/b+khftKJb4y1UV28P+IxQjBeQvWKT+t6+6EtDhU0fGUkmcJT+o+QP5fDzBHfKNs47VT/10hOqEVBhk8=;IC1ebjlsDHvvK6lz742ZBw=="
 ---
 

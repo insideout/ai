@@ -29,6 +29,6 @@ images:
     height: 338
     title: "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19"
 
-secured: "6czmt/1Nxicchh66rJ0OR1ddg/i6mLTsFauC+SxjckoIYWitOw+c/rktjGgTDCPKwC0r15kz8M8Hb/VmKJwmRTFsaOyVs5E+kXs0Cu7/wiv+FpYJtW37zGhv/ceLhl1Qd5eMteeEeS0JmFtb12vLCGgb2WIxKA5ld0P+51SR8aoJb68/sbrDPNMxVNMFZ8g89rbo1NqaOPLyRhgIv3kDfmq7bmf1O/2XH78Nx51GnlVM7O9WG4sH3fb9ywHhMcvEh6iWuQaBqFDuWAwRv8zjRvZHmPbe1WKtrhuV0ecZN400MIs3BT0yxNMaspBdcYTl;Cgy4uct+OFshh/Xw3t3dBg=="
+secured: "KRHuh4Wo+qxRD/zKCQAKjj0z/HMfERtjJRwCofdIR9QF6oGwFM50HiYVKMxIsxG2t09V+ESlFDOeABQW+7sokj6ZnQybHqBREGz836Tys5z6B3/A/y/rfFSVMew8MuS81RTBOoda28TFvMcqGFiVAywExfWwoxwMqtEHd9wO5aigjGpvnzYBujD4wFdEB4htMRTjTvI/345FfceIfT41R/HoHlwd/CSngKbNeRRXF7EowjT0gEIy5OPKIGXRuTGPAsDhoEKWZy5GLEnDs5PSEhy8dqoYCP61XaU61/iW7MDxksV/ehai46k5HkZE9hIbivAfJMMEG+89bSJXMmA5/WHWIBd5s+7dn5D207JXTFR6ooaMwEHCBJGO5YIZZUT1Ti1SsiQWg26LR0pWASRVYKgQicjcUCmiCNCQau4cfVfoRFfk5gcVerQ/TIxbhjFfOLQ37Qp8+u+e/Qp3fzox9kNdQn/MtmJrE/acBx4GFAk=;FGnad60CVyEBwypvJZ+wRw=="
 ---
 

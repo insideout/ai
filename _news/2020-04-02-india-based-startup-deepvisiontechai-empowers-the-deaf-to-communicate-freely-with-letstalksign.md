@@ -23,6 +23,6 @@ images:
     height: 726
     title: "India-based Startup DeepVisionTech.AI Empowers The Deaf To Communicate Freely With LetsTalkSign"
 
-secured: "eYkfYOBMrJP1tvAkSDSN3dKR6tz5it0/CQZqYjhHIGuXKV2ix6dFi8whKgq9nE618X6/D9Uj3psNzsK2fztxjz0r7MMx+HIUOX7VN3OqoJMVnRMeNT/iJD/ZsSW6ZGHFq2cuG9aUT3Kf9nOf9OTAQ1GjNUC29dB4kuC50g4HwbLjvTbS9fwrfZkk6G/0BIJ74KB9zcFIngTRRVGrvoYBx0VqzetrqzoOaJ0OscSyH+x/GY+srnY5a63gsEkEQCmCu2C/0VPT4383YrakMgOfpM/vIM9G8J5ZQPpxuv/HHz83Glfjg+EHdXO65bQXI3b5;ax9fA19RYaXs+Vb6xDej5g=="
+secured: "fKZEygtfGI+sarRvFunML/C03An4VRdp2IFnfzXXWmrwZC8FV+0zM/54l+aOddVjpw83u6M/n9tFBMFda92HBkuNkj5iFUxYtbB+n6qh9zytWwM8yBB2WpYWCRSZiBjnZVhOJWIh7gDC5eHdlLPX5c6u5ktffjh78Zoa7MzZHSpUWaLgEDbUvW6Wahz5u1eFBjNWUL2Vviwfi4zfsC/4k6PY+S9hwZU6DzVSAhMHiZALWNlsanKUyVUVoVr+Yh+N0u3GUFc4TheT2cukbEMlgn8caFoBJ+ZK7bRSXYG8EFuK77s3kA3OWlWoEWslyDBPDVYck2xIJ4mJPAblfojYXpoJR3ASe4/HgP5yZc+gcGCohgLDD/CQ9U0kmiMgAeb+7xLrTLPQ15KSJf9dON8tu+77M/qRf6ky9ihnrIfHflc7i7n0pjrUmBrEO5wPsr7F4GsC+Ci9Tru8WonQI+Vp59Yl9FS7ZT7CHzpw59Iyar4=;8o4eKXxxi8PSD1yqQgC9vA=="
 ---
 

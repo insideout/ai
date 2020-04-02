@@ -25,6 +25,6 @@ images:
     height: 315
     title: "This Startup’s Computer Chips Are Powered by Human Neurons"
 
-secured: "dOyx5qmeqD12Z8TaG2MpGrZxr3MDIQN3z8I+D0KnuT3KswMFU3j75nEx8coaKRIw+9dtbkNjUc0CRiuToG2W9eehiqFlYYTJX936cF6Sov9g7Dsg0Dr1D7RU8oUrVRIU9atDTZ4g79OTD7Ont0Solj/AdSOC/xFInXNHLsd+b5Dk5b+OUmQ9+uwJa/1ZyVeLXJ3V2ND5OTyLBSimR210gdhEnCTfQ8zI/5vnZaPleESfCQpyrGa8CN8yAIZELJjSIWDRxiISnxipc3wwMcFAy/gxHKe7emytuRJNKGWouwvSA8PKhqbwNW/mTrw0iedg;hDLGkA5uMKv4ohTgeh57KQ=="
+secured: "/0f8KI9ruw3jvhNowHjK5bn6Ib7XWV+nERIgQzCj3IomfaqG/sNzaUaEQwqQ3HGWKzqxmXL3DelMEkXdntKUHZ++C5AhF8JjemlLFZ4xazl0refoU3vnpmImGszQ+TQ6EBsfQZWeMmRl9UTg3xI4lk0ihWuwCAwOZ+P/REchmVIK3ti4ryJTbus1JFxR6XW+aYlDp/PpgwCd3SNA9IR1hhESjv5MFBWGFFcZ5aoA0566KnfCVYiH5nwSa54CBSPtuI6Btlg9EMf9EkDFap02/w/1Gx73x5J4NjEa4wVDr6iEyKCdf7+jKjm2/auFBVtfj4SeMwYRuSKsG5b+GgpeY9X1fse5DJ/LeO1JvD0ruQb4cOYFzwVn+b23eUqmRbmm1uuncGEV7Bvtv7lM9MrnNOkId+Q17akfa0r2JUf8vD6uDDtbmxTgxgf89a7JYDrfxAvl5R3d49sJIK9Pe/tDv+ahjVHh6+u028lQA/0cYPM=;bZ67Mx5d4z/9pk5yUcfxnw=="
 ---
 

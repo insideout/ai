@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-un
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/"
 type: article
-quality: 97
-heat: 97
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg"
@@ -29,6 +30,6 @@ images:
     height: 675
     title: "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI"
 
-secured: "/aeVzkv4uZGlgZ2oNtLaWdF0Lqbg47GqMTTdPh1bpyaD1zwHwDWypvUq+OPd7XivbKZ38EDMM1fQAP+bAwvBEoOGPiYZMt60jRQgKbJ6YaTBDjUnyF3Eyvp1+Nabk/s9yReD0cA5bsrP16ygpIxlKRJjPJuaU1jr/1jOGVytT6ZzTq0dx6IGx4Pbh8JCr9dEFAE8MYmONovT+Otga5XPA+PWgFwtlmCz/8F1LxpQmxWqxKCjWzyft8T29zMiK32kU02Dr0E9sdxunlDvP/l4Nr0pp7SaNjqYrUk/kRPIw9hF5eRZvgkPdRmyCb7w3Uj0;MPgmERzl1eMWoJGCEU5jsw=="
+secured: "OJ/PlcBcYF8eqUfUDMw+qyu2Yu5E6sfd3c52CW7+vdIux1Vp9cIhpXjRRZYNNobYiUMAx2T8V73HEW6l+ctvNHS7bjM7Pcrx0DzufgceZDQLwj1axh6JtGo+K7kOZICD0Q84vyyC0cK3ruBzKHqznuBg5NviJh748zPULA+9k6HZG70oW7Xi6pjUDm1cN7gf8vmXM3vtBTEu4pVxsNDUsJounjiVIwq7iX+Pqpys+fojPbx1gWsxRxYoDTu6A6t5ii2u7JPSJleHZy471YJHuYsSQhhHCpmD7O/Ws08Dh3iEV5NyEaxyTfuTxFGwJonO/UY/WkceWQ8pOiyBGuxyleiVnYgKHTlwjCyvNPx81qdxgHQIUn1WGdddyowDc5dQPklngJXrdqkdj3eal2WpTcsy0FRJfGeTOuO6l8k3qxckZ0Viz+oBD6OtoUlZTKmvMlbqrmjn5wanx9c8T15DvZjSzXUvpkWERkTGgsfeVtw=;z2RdVZUrXjZd8RiH5Zbc2A=="
 ---
 

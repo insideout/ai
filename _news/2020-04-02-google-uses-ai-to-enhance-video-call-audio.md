@@ -24,6 +24,6 @@ images:
     height: 576
     title: "Google uses AI to enhance video call audio"
 
-secured: "yon4/gFDO3dHDfvfe4AKj2Nwcy/hAi3eGeTN0zH3jt2FbCnC8g99NBmKMJdQXJIML10LB/gdScBGF4SMNP7FLVsvM8O7S20a8Nz650mzW8PoAR7SROqpzGU/ft0ozeI+JyyOOv3QpEACaK2Q6vrIzBcbMwE9Sdp/b5Tnn6cEuPMO4RRrS/WBiZgGL0tBJjS+GqB9ixrCYFBGszFOcSBhOkYMYqv+GV5Mip68mnlNwfmTqU5kJ80wZJ5GOKQJ85KOswWIKox+oj2aphLCtUQwqK8XU2Jn+C4ZfYaK9kEqU3AstWO3QXH1L+k3DrFNTB8L;4W3NdCRR3ZVDVyHfTN1NHw=="
+secured: "tD8ePIKeL8xaSnZc+vVq4ugGSwu+hoPV5QEVUZfYCZigHKTy/4AiY++vjwfxrZoi1lRruRS9Nd2ipqzJDlNJSdaK1i3c+HXFWoLTIxTYpsxMtgiliea6XLEMy9UBArNwtHkwj5IdLUpO43yCDvAUXY+0g7qSo1YM7PEjtZrS5K/koM+uIiGF1bMZen7eDeMwWgfDdcg1/d+KnN4Bx35OmOc5wvSXf9mMgn1GVvRciH7RZ8m9o/fBD0xOjMrslX/KPSuvFcwGJJjlAD5OtQuXjLkJvx9OtgwvynkFw7mBH3ygDEyt4ymQA/+bwfaYbTOwD9BTuLUofpzNAVDUGEfg1F49gm9kuGkhM5hgFMMEH2fv2vsOMe1tnoka4OxYA1h+kfMe7R1Y20NgECRhrvQQcviBvY1iplpEnAAdHMkiyHhFE/z9zoA+y0c1yjox/8rP+DD+zX4j/qaENWToYFgRq6mFlJCqky80IRRD6UGwSKo=;2tXgLDTG6fuxaXvfhSh4PQ=="
 ---
 
