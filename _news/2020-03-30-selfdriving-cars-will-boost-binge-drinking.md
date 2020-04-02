@@ -23,6 +23,21 @@ images:
     height: 385
     title: "Self‑driving cars ‘will boost binge drinking’"
 
+related:
+  - title: "Self-driving cars could lead to increase in binge drinking"
+    excerpt: "A further 49 per cent said they would feel comfortable using a self driving car after drinking. Additionally, younger people had more of a positive attitude towards autonomous cars and were more likely to use such a vehicle while drunk. * Second-hand drinking is damaging, particularly for nearest and dearest * Study links regular teen drinking ..."
+    publishedDateTime: 2020-04-02T20:45:00Z
+    webUrl: "https://www.stuff.co.nz/motoring/120773151/selfdriving-cars-could-lead-to-increase-in-binge-drinking"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 24
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/1/z/w/w/c/0/image.related.StuffLandscapeSixteenByNine.1420x800.1zwl5r.png/1585860044433.jpg"
+        width: 1420
+        height: 798
+
 secured: "0xeVbKCvDpWvJA2YMjlcl53bYJuhAMO+iZby8WHiyVG5Ldv5QsRkiX1PdpwRAfAJ8X+/jziGOwUGLKEmj9s4DIMCYBeFZYWMS5nB34OFVU7ZiC2O+MJYZ4Cm4CbwCwc9HTizI+BvzGosrSf6/5TkZK+WupO35wrp4s37fi7aL0p/yXwamh2AbsS15VbNZRAhZIX62eJ+/9QLS5XkFJp6+zdrZZHUsPDwkZxqKcgdM/E7XQe8UV/imQBprdEcr55R9ch0pHubD5sG3WSxAQjqnRfrcAX315VUo97zpuJi/D702cX7FDhWNCzNfHtQ99PgXfpRuj8hNLlcZ6DQR+QtePhu594DyQK/fsaCb+mxqPjDDvc1xpu/ymgAPLZiakxhV92KWCuEp8/7qfli/f0wsz2xZ1ZWDZh3j9a+WtPPn5gz2MP4l7l9wQ+QfRbpsUfhUDVUV+CDFnFZKu5hLp22xGf7ztMMhYdF76o+Lus4e4Y=;lziskvPGtehimj3Yd++ZVw=="
 ---
 

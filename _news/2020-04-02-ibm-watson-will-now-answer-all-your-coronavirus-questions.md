@@ -41,6 +41,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/DWGrTNnWhJtePd4QKjQJoY-1200-80.jpg"
         width: 1200
         height: 675
+  - title: "Austin deploying IBM’s tech to share coronavirus info"
+    excerpt: "... is joining a handful of organizations that will begin using IBM's artificial intelligence-enabled virtual assistant service to provide information on the coronavirus pandemic. IBM says Austin will be one of 10 organizations using the company’s new service, Watson Assistant for Citizens, to help communicate information about COVID-19."
+    publishedDateTime: 2020-04-02T21:29:00Z
+    webUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info"
+    ampWebUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 44
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200402&Category=BUSINESS&ArtNo=200409737&Ref=AR"
+        width: 3000
+        height: 1917
 
 secured: "22hiXdkqXNEC1//dpJOFGz+ORu94mAUSAhSnA4tp1ycvPEekscYkVowUNdy9+M6Wb2BI+Z2dW5gdU1SQGjhcjgGUdJTILSZKKBuw1jmygrrcqmeJ7xd0Ppik0jWioiZZMvkbEzn8GDE8K0uT8+m17WAwMVCGX7NqSTc0A+N2qzkIej1br6gbV85SWEgQIOXQNQJ3ayUnTyRQ7UM0OfmcjqIUPIbCFr5Mz2s7mAF8I42z3/KAhFvNPXG08axIEq3PPUgTEtllnlja7R4gGQAG6RQobQuQ+/fB0hteHdvzj2J7B+N8hY1rY84tmWMwwmQsob5L+9i6DVVlvNfiZg9x4h4t0DX6+lxi9HNxBc8yp7XzmPoRpR1Lv/TCBZVwulUvvKiUw5t0do9+ZTl1oEkRtaUy0d3zdEMBP5rlCn+bV1+qOe2zNHrOoIztkR9RSIIMM8VQAw0hozohkB5+NDn3JcmPWdbCo4goGeT611uNQ2s=;Es+omk66tNAf8Zbwq5fN6g=="
 ---

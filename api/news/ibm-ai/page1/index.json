@@ -2,10 +2,56 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-02-ibm-watson-offers-free-service-to-answer-covid-19-questions.md",
+      "title": "IBM Watson offers free service to answer COVID-19 questions",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, natural language processing capabilities from IBM Research, and enterprise artificial intelligence (AI) search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19, IBM said. \"While helping government agencies ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
+      "publishedDateTime": "2020-04-02T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/c16cd473-0ff0-4332-bf42-0efb1c8e25f4/resize/1200x/6cca0a705c8ef851751fc0dfac905d9f/istock-1176737178.jpg",
+          "width": 1200,
+          "height": 814,
+          "title": "IBM Watson offers free service to answer COVID-19 questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibm-watson-can-answer-all-your-coronavirus-questions.md",
       "title": "IBM Watson can answer all your coronavirus questions",
       "excerpt": "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ...",
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techradar.com/au/news/ibm-watson-can-answer-all-your-coronavirus-questions",
@@ -1188,51 +1234,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-debater-ai-tech-now-is-a-service-any-customer-can-use.md",
-      "title": "IBM Debater AI tech now is a service any customer can use",
-      "excerpt": "The AI technology can spot trends in mountains of data like tweets, blog posts and podcasts. In 2018, IBM debuted technology called IBM Debater that used artificial intelligence technology to read lots of documents and take on a human in a competitive debate about issues like whether we should subsidize preschools.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
-      "publishedDateTime": "2020-03-10T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/hEhpukwOIHukWLUhEshLD-AKc68=/756x567/2019/02/12/3d6faefe-fd11-4541-9d75-66f2aa327f37/20190211-ibm-debater-monolith-01.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "IBM Debater AI tech now is a service any customer can use",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

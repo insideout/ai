@@ -222,7 +222,7 @@
       "path": "_news/2020-04-02-artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
       "title": "Artificial Intelligence Market to Witness a Pronounce Growth during 2020 to 2025",
       "excerpt": "New York, April 02, 2020: The scope of the report includes a detailed study of Artificial Intelligence Market with",
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
@@ -260,7 +260,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

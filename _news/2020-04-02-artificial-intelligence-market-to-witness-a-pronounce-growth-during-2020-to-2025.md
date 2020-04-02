@@ -5,8 +5,8 @@ excerpt: "New York, April 02, 2020: The scope of the report includes a detailed 
 publishedDateTime: 2020-04-02T09:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02"
 type: article
-quality: 64
-heat: 74
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

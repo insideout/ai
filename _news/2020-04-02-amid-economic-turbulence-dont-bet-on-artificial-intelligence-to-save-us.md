@@ -5,8 +5,8 @@ excerpt: "Technology and artificial intelligence, we’re told, are creating a N
 publishedDateTime: 2020-04-02T17:52:00Z
 webUrl: "https://www.ozy.com/the-new-and-the-next/is-artificial-intelligence-the-next-dot-com-bubble/287616/"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://assets.ozy.com/ozy-prod/2020/04/gettyimages-1146418040.jpg?width=1200&height=630&fit=cover"

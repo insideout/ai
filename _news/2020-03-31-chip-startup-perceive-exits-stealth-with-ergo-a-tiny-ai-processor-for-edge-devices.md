@@ -5,8 +5,8 @@ excerpt: "The startup is initially targeting consumer products such as smartphon
 publishedDateTime: 2020-03-31T13:16:00Z
 webUrl: "https://siliconangle.com/2020/03/31/chip-startup-perceive-exits-stealth-ergo-tiny-ai-processor-edge-devices/"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/ergo.png"

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techradar.com/au/amp/news/ibm-watson-can-answer-all-your
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,22 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p7JeT9ZfjkcqrRN5NTR6qg-1200-80.jpeg"
         width: 970
         height: 543
+  - title: "Austin deploying IBM’s tech to share coronavirus info"
+    excerpt: "... is joining a handful of organizations that will begin using IBM's artificial intelligence-enabled virtual assistant service to provide information on the coronavirus pandemic. IBM says Austin will be one of 10 organizations using the company’s new service, Watson Assistant for Citizens, to help communicate information about COVID-19."
+    publishedDateTime: 2020-04-02T21:29:00Z
+    webUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info"
+    ampWebUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 44
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200402&Category=BUSINESS&ArtNo=200409737&Ref=AR"
+        width: 3000
+        height: 1917
 
-secured: "JJWd6mZGolUaPK6Qv3A1X7z9hWCVvOMUVZgLUvREI0r+9DtdjfOUFWMoOTcrz4shF5WJByZ0UWktFSWejkDaCk6jq7AnwsmD69eH44EXW/kRFpvIS48U8sHX/YGAJsc0PrbxzxU2oqZQ9oQHrpBPcljbz4WLOEEJHG7c38bNRrdMBgtfcYGdvivLeEzdZAuA4Z2yaw1L8fAwvlpXqRzu17+8Dyl4HAZ7j//hO+1iPVwxfxNuOc8ETYI6z7W2SHWMK+ZxbsfNivHeA/MtHgRhV//vfU+1lNlAvAn9wYzZ80BfDKV9qRoJBBeFLVVhCOMWC1Icz3tf5+cpTd0Sf1RECWYpR5rL841482JA1FkjZ5N8LVuEgrgj3qnqPOAfocPV0Hepv/hRP0SWOq+E657Sxlcmh9aqsRRjHsI93fuBA38oaxMDa5eabCLjXvSkQ6X36OT4R/Mz8MfZMXga7HpYDDqL0eG+7COaBa/QtAqoVR4=;zd4wkjZiUaruTaexwOLShQ=="
+secured: "VSaATUH3fc0a58WVD8ZU6D+Y7x5Lu4vwnmqpImqHgvBqclbkY6PZxlxWJXAGuHuuGmz4DZ2YsNiWpv57U2Af+DyJ5REU8ip3y7FrjvRBa8ecOqytTVxmX71aOQsIbz5ziJn1opg85Xetvy20z/O2DI9WSDKnUkkb93XTaYFhgSyQhg9C+0YGQ7nrtluTrwnRE5QOIbAmX5lnBhO92wG/WSGu2xqauh7hK+cjf5vUQY08W6rPkMtcp0WxI1GoHOnMtqMbg77dkGw8VLnkC/9LOWx0y0vJj27j0wDCrpuuITzGOWjiM8NauMJtnPhrOttOnIChYyUAqwPApKF4UjdcMDZ4QKHoosgGecGg6z1zuVQzZrqGxcVSn8VdTNJ+ninEvQQ0u0DfVrX8m82SY6msq+W/07rahytdqoV92zzV++YzaAsxM+zgtPnm1y3Dw7ExJgX0DI4XxELSqUdeIqZh2KAO/YmzCq7vuKFHzDF113k=;qi0sWm1iECWteouvyDEJMQ=="
 ---
 
