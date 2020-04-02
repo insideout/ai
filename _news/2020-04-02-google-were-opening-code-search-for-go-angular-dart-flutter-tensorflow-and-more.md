@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/google-were-opening-code-search-for-go-an
 ampWebUrl: "https://www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-were-opening-code-search-for-go-angular-dart-flutter-tensorflow-and-more/"
 type: article
-quality: 82
-heat: 82
+quality: 99
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/2020/04/02/923a42ea-62f9-40aa-8fe4-82a59a5454d8/cs-opensource.png"

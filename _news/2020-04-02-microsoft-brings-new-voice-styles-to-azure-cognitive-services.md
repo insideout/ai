@@ -29,6 +29,6 @@ images:
     height: 573
     title: "Microsoft brings new voice styles to Azure Cognitive Services"
 
-secured: "WoQ8aXN4ICy51zCLiZFgv7hWPoalI99q/7b3y97g+er+UUfRvlDQbiRw0RmYoPgt1zkhgHRXGGd9PaP61w0AIa3ccWSH8q8h1sVcX/Nbu96dV/Vpa0yBKadsdgxB3RS4pfKtHnT1mRBp2kzGR2EZ6E14mDq+c/Eewm0j5+pAX2vLKWuPTiTLIDrSGbDr96qs4DiFUm4QH5PIR7SdkxYlMr22mlOEswmv12HIetA02IxsM5chBNtjy42TFJRpmEo025IFGK7auk9/YQOh3sJTmgWiZ+OpcJDdB0hTs4uRhBXyKahc+XE4wz+9C7dR+Z3w;olbrYsyNdiwoTufNLEypOw=="
+secured: "dyqmL93XJ5MntGcvjqVeuvcaBoYfPX/+LyM6NCOO4V06kG4p47FP8SJRdwFxi1U0sbFxqgXARDsQkZ6RYZhbdsQoVX+9yAsafFTEy6U122iYCL3W6b9lwpMyqZZdH86xBgkN2Ppop8fTdTXtE8Sm+9ooIdTlR7Q0tImlZWC7NRhKW92rkNehME7Zgl3UfFRpjEF14UmRva1ADYRPJPBkrfHH2Gxgks+yF8fMIJwPo3Hc+XJgtyZ1kkr011MW3BE4DXU+Wcq+LbYqQwiQnndMC8/jmRQg9qgiDr+bzIPx9GItMPtpnrZmR3SRhgLRYAjmwr1K6hnE9nYveaB/z+jQp2c3KloH+/3nfbrztPYdTae27hy/yiR9W/N3OYI0tIq+557xirS58GpU+PXwIdCztvWYEw66G+79IpF8lTkb1sCrlvyB1lmAwaxXxlbNmolj/QE1SEWfNYNc+T1/Vpgl1StrZ6KwiRpIpwLzlSYudSM=;hXeo7AZtkepdYhpFUYLp7A=="
 ---
 

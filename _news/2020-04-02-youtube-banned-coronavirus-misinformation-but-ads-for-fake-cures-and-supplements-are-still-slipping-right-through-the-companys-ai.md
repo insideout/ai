@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-02T15:39:00Z
 webUrl: "https://www.businessinsider.com/coronavirus-youtube-ads-ban-ai-covid-19-misinformation-moderation-google-2020-4"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,23 +26,6 @@ images:
     height: 600
     title: "YouTube banned coronavirus misinformation, but ads for fake cures and supplements are still slipping right through the company's AI"
 
-related:
-  - title: "IBM Watson will now answer all your coronavirus questions"
-    excerpt: "IBM is bundling up a few of its Artificial Intelligence (AI) services and offering them to governments, healthcare firms and other companies struggling to handle the large influx of coronavirus-related phone calls. According to ZDNet, IBM is combining Watson Assistant (a question-answering computer system), the company’s Natural Language ..."
-    publishedDateTime: 2020-04-02T12:30:00Z
-    webUrl: "https://www.itproportal.com/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/p7JeT9ZfjkcqrRN5NTR6qg-1200-80.jpeg"
-        width: 970
-        height: 543
-
-secured: "7y5fCKQz2+rwAClvWqtrOvVsb21llxav6chb4MnlXO4CVfhuzcVpNDCY3M7cNeaGrhjcsowjVcr+adJPWuPgldeiFS3ld1ZhVcyDbXNa1eo5T75GD5vKUVYzQ/mVIAzacGzE39F8ScN419WW66KZATtJBkrRVGxIeb04/EKn5veULYRydeg7McQv+yXKLyT2iOuV6AxamUrLn52U114Fd0NLCv73e4pEkGt2IFpQ6+KWfZlEGIviXSZmDfIjiH+XLOqrphPZTA5qWVp+S8FAm/9t0JzG6MOoPnL836hGno/D/nSEDL537VQkjCRO2xsG;AL+AfRrI3l5QzwdpJEQdtw=="
+secured: "AKAMSKtzhbZJ0ZHtGWTSQIaqPAzxcTbEbMfAXkdnVN6mRfGlJmwDrGW4p18kSXlTZwuQDCwDWQpP/c8AMo3xp6cDROmKFX6frjBAc8X53Xevlsmo3t393K6pqLJmPjjWZIWg+mKftLbFJ50nl/f2bxxW3TabtNHKsxBNVeAC8IRJhwN/S96fEZr7QLZL//c9prM8kBLR3fCtbHEQXCqu4II1s8hwnUt7euWNj0TLXigEgWLQFhP5vW+Dnju+PFG9WOCYrRLFwg0PEc5IDn5AvVaXfJ5fGOEi6GnVuO7C0b9uR3YPtVPdrlJIs6g2xsl4mu5yNnrPwfENGaqzMZedfTls5D3ix+yiDC7P7kq7uzerRJ2X8gnedjjKDB96tZfPMZXgc1Jm3J6shxL2/UlgfadGbJf+njU1f63YYetdhnkzZilZbFk6s7095c1pBDwZhDXORmL/Ll21i2ulwRI44mIPIYZe7OQif4YcBv/bYLw=;f3nAG1eZ7dYH8mryzU/48w=="
 ---
 

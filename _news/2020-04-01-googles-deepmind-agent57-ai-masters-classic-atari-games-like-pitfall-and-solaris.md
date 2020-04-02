@@ -41,6 +41,21 @@ related:
       - url: "https://cnet2.cbsistatic.com/img/4GAXIulyS7cubuKb6mk5aqZ-qbI=/756x567/2017/07/27/3de74c24-095d-4c7e-9d5d-fb69ee27aaff/atari-flashback-8-gold-82.jpg"
         width: 756
         height: 567
+  - title: "This AI Can Beat Humans At All 57 Atari Games"
+    excerpt: "Fast forward more than 30 years from than initial game and things have drastically changed. A new AI, appropriately named Agent57, is now the undisputed master of Atari 2600, beating average human players across all 57 titles. It's not the first time that computer scientists have used video games as a benchmark to measure AI complexity."
+    publishedDateTime: 2020-04-02T04:34:00Z
+    webUrl: "https://www.popularmechanics.com/culture/gaming/a32006038/deepmind-ai-atari-agent57/"
+    ampWebUrl: "https://www.popularmechanics.com/culture/gaming/amp32006038/deepmind-ai-atari-agent57/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/culture/gaming/amp32006038/deepmind-ai-atari-agent57/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-04-01-at-10-42-22-am-1585751965.png?crop=1xw:0.609979633401222xh;center,top&resize=1200:*"
+        width: 1198
+        height: 599
 
 secured: "biCYsXEP4r+NksC1Y7A8Qcf04sKbBB7iAo6ZIatEBNpzXIqszwFGyUHRkniUAO9lZY+O18NUof8tkhmRlwNtuSn2kFpneuFsgQFey3h8PndslhGqV441HRwsd784iqxTBJLcbzX6iNPSGHKD0W77G6DBSxzis2QlPAetQxTwROMfxBR76g2wn5ulFsfDM/dBCx3KMVt7bvPo184cYQSyYVQBSK82WEj57EppUXEeMRiHrhcgnOqxmRSq79akxuzzcJknFhfRFAT/rh1SfZ7Vpligdr/i5weqd11M4+grrhlspZ4aUkinII37NexKyOPQooK0pBP4YCWqOq53khpb98FVd9B/p+m2MbGyNKqS+AtIHWHk4rEZOfVWaiR7G5VM9/xeKUXUJFGGUAIbZ8MnKjnpLvBVRIk8loMAEiT4PyGPnRIge5Cb49TKfm8JDC0Pw14bhae6j+zYxRdrMkJxr5yuYT0f0qe8DNCw3yhQCPc=;O9yzlQT+VZWcgvK1roab+Q=="
 ---

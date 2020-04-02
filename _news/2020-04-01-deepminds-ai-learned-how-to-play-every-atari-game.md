@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-pla
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/51219/content/atari_deepmind.jpg"
         width: 708
         height: 509
+  - title: "This AI Can Beat Humans At All 57 Atari Games"
+    excerpt: "Fast forward more than 30 years from than initial game and things have drastically changed. A new AI, appropriately named Agent57, is now the undisputed master of Atari 2600, beating average human players across all 57 titles. It's not the first time that computer scientists have used video games as a benchmark to measure AI complexity."
+    publishedDateTime: 2020-04-02T04:34:00Z
+    webUrl: "https://www.popularmechanics.com/culture/gaming/a32006038/deepmind-ai-atari-agent57/"
+    ampWebUrl: "https://www.popularmechanics.com/culture/gaming/amp32006038/deepmind-ai-atari-agent57/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/culture/gaming/amp32006038/deepmind-ai-atari-agent57/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 57
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2020-04-01-at-10-42-22-am-1585751965.png?crop=1xw:0.609979633401222xh;center,top&resize=1200:*"
+        width: 1198
+        height: 599
 
 secured: "8xr8AqBXMqd8NtMcMox/OIoVGx9D5PCoA5p+LZR+pZeJIh1NLQr78qlodc+acn6JxxoCcmFaYw9k68/6ajuGziAadLm3qh/X9RwnX62id/Lvikpy3dmk3/+itVwFnRLqw/4Ki6WqL2UgNqazzJtuzhzt2M5bVWuQnsokl0A4KCITSM5tUWURZqURbDtWE/uCW5ves5XIeIPeHI0nO+eke6ubLEMIn8GvmBKMflvW61AVvfwKNRE/yltj2aq/akaWpYvYCX88vftTn6dNvc/vDftNRjkrbhNIw9yeSIV6vSOs26iNBDiEcmCExIEN8XHGw8BM4vzLNxZTA/d+QnNSmzKOdcp+0+0Uoa/wEL/JeDDTWlnlWEOgQBibB2r5aBsUavLRR3cC3EDqdjNwaaWTCRZfYHaK++3fHblb5Xi9m6f9AT1kVFsznEQHyDF6vddLulLI0enG5xD2gJVeC6Mr2kTZ70qM8lMRmTW/pOSyRS4=;eU+YDc0nwWSUcIRU1H8UCQ=="
 ---

@@ -24,6 +24,6 @@ images:
     height: 275
     title: "Vertica v10 doubles down on machine learning"
 
-secured: "/dfE9gd07JYCb9O41fm0Ih1NB7jJtAzfLBwbJTzXKyqVr+K78sPR6YSeYdeJlLdTnDVbovL05UdUPDrbNQ7zPMLlpSr1XbuAQsVoJ+gUj79WtGb0Uam7VLX7KfFlhkKZMuLxSA/AISP/idZOogvxHROQeKKIemtRuJJrTQ5gJQ+aw7AGRx+c/JCWsVQ8hFpNPivEdYyiI4NWOg3AnOUCYBJF6NinKOcagOw/I50sziqW5vQj82Tv2yU+i0KMPijANsNHYckz8eyDdL/f1P1Kin0yEtC950SeFkH+XByQTg417UU1ShsQkpfysonTz/E2;MwRXn1ZvWlC8OuvpJmELTw=="
+secured: "0EivTy4A9R9Ymhn7rkEPv6kbXSlDcx26QmI3hcs/mOhA00t2yB5fsaqexbxVmOi01/5yFmBgrsXz1Ob0m2uBHvWdulu7wrHnIUVP+uGKqa7obLFdiK6+TUx0onQloXxFZJMJx+ClXXJnPFKGGA+hHqztUYnnpcR017taLBG9CWIr0WfeWO3LyYWl2WQTrr8Zem+fQlyhW+B+4kGk5vru9oI6BowJjaGqLkOXYeiw1N/uBeE7o2qxis5o/mGNWLIoycKFB+8qFDhdt/Pgebu/qMs1wZPyToBZiXh4PBGcDCm2DgmIsEzxA+b5qKzRcMMz1kaNAGt0U7XBcu6MgIJVdwo+LmeA3HTpLowlCrOD7Sp4bTwXccE/5rgvVXYYcy3jNNKEWMz36Vj6tTIR5uV329MWs0qgC+96exr8KxpQTSf31PQbH4Uybz7S7muj6JaNEduOIiRPxRsOypzp5Kp15E+/1Z8s3z882imzB0OAB/w=;/NWOja92wJPHe+pz5XTN2w=="
 ---
 

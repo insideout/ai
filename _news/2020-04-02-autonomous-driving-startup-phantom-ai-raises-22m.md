@@ -38,6 +38,17 @@ related:
       - url: "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/c374ux/article30591370.ece/ALTERNATES/LANDSCAPE_615/bl1817bgakrPGR8705KHD3jpgjpg"
         width: 615
         height: 384
+  - title: "Fintech startup Recko raises $6 mn in Series A funding led by Vertex Ventures"
+    excerpt: "Recko, an enterprise fintech startup that enables AI-powered reconciliation of digital transactions, has raised $6 million in Series A funding. The investment was led by Vertex Ventures SEA and India, and saw participation from existing investor Prime Venture Partners. The fresh funding will be used for further product development, hiring and ..."
+    publishedDateTime: 2020-04-02T17:05:00Z
+    webUrl: "https://www.thenewsminute.com/article/fintech-startup-recko-raises-6-mn-series-funding-led-vertex-ventures-121723"
+    ampWebUrl: "https://www.thenewsminute.com/article/fintech-startup-recko-raises-6-mn-series-funding-led-vertex-ventures-121723?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/fintech-startup-recko-raises-6-mn-series-funding-led-vertex-ventures-121723?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 36
 
 secured: "gKGXlnXnamrMkPkhQFTh2OHBsqSxYGpMgK3PrDdBv5OsRbTztGsRA3kJ5VTY6Gec8vpNLGsC1aUEi+nDnslKNYv60eRfgKEobF+ihYMyLL0ewqI5BwHQtXL4iy+Hz+S/e2aPIuBOt8PHhlQc7CdI1v2W+dL8gEEanbsV0hwGqYbRI73fWi7JEpbXuy93c7mn84TascQvcnam2CqDg77h91IvYxnuZtIAe3+aOkRvckSWMxUfy0xyPbpHBrIpu7hsHfUR1kIbqI8BAid1LMxQ2YNP6k4jfIhNg/WK5Bor78NYllJoftbUmCHkLGseReGL9cHwJD6G6fv/STecLn00GXEpCS6lBiJO67o/nLvswsvis4NMzsL7W9RfYevkfgyb/RqcDOCYVN+AT6L7GQMKBAEAq35LlykZmFhiAh96CdG+xIBhtWol59NJwyBVQyoEm1y5Z1vqPwG7dFahD+Rj2moh73ez+C4SwqrQyVOlv/I=;zfGb8JVbdyG/L0h5FFqPzA=="
 ---
