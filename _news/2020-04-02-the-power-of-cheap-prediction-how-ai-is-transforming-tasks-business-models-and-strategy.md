@@ -25,6 +25,6 @@ images:
     height: 400
     title: "The power of cheap prediction: how AI is transforming tasks, business models, and strategy"
 
-secured: "zk6uSlx17/c8HWfYhdV3TsltsvvdZUneMWpyNJTvBupn4ObWhtjKBJ9prAPDYidmqBOIITJUzUeAucA01pJ9/ccx3Q8s7V+7UJKIuVGKdj1eI+heRVy7JpkXUg58hc/0hJP9MuB9FbHc4qjjwVElhSyaGGIE84T+XaxOY1FrbBMVsnghfTKRmRW/j7ejNjR40bv8KLkUjxjFRY9Ck7hcTM37MZa93XBVv0vrntd4XUg6iqivJMQAXdUvEl2aUkIKMRv/0QgY5Fw0yDLjJ76txT9lQ36jOypBW52/nnDTp7i3b01fkWHw+2aHCAis1gke;1KiHWlPtXwbVQjFVvyeioA=="
+secured: "dnUnri8BRYZUvUCz/yjWp9yfUFFdf6VT2la+9VKDr3jCvu8xlnMGJ/UvrFO44FPyrEjn+wHx5NHk8AzVLR29y1dQzH4nxFFXMxCja6yBxY7jZNrXG2nHoSHNR1tvJlqX/z02Sgp7HgBymF2o9LG4WmVJK9pSmXLqx/ZnO0ykRl+gJbJ9hXKmSjytKVJOzp+bkbO8o82wm0ZjJbKxwxt8xzlH91AICIRtaCbbNd3jlPHw+WfIMqkQ/3b6a/y0IIXOA95BPhizXlb3ocG5TO/Opp4RgkHJKwiQi6mikoPiyGrE051S8jCQdkW+559E6aisH6S2RiuolrIaPf5/vFFZES4D5b/ieKlgd6VVCoyb8Kh+igbIQEqmjzZ0cumXUaMAoREqoAT/twI8a1UtqkvmZYJGuEqULQtrPQOC1Aai8TyXOvIqt/Q63qEZvWUnyUwYBiKcseiM2F1ivPlJUt6QNfr3MhjdMnc6y2nMy2fBxHM=;q/106CumnULBmdw8KCtYfQ=="
 ---
 

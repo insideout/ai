@@ -24,6 +24,6 @@ images:
     height: 630
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "u1Al1kCGjzULl9v/9eC5wyXTWOeluprZU2gVk0uJGI63iMlY6QjFrhko23ekGyRuL+b3uxLMrhdTa40cJlG0e4QVqs6VPfYo6bTcRVvpkaeqZbyJCS2P31p6e/kv4hoO68Eq36YY6yvdfwSISPAzLaDg+73UD1fhO/ulqpLcVKxKD9v00/7ZvZZBmfbXWhzBGrhWme9LOLgC2WkBpd6mlIgzMPm3WtE/UL9zGscyOTYZToUYKFUJzMKVtoujfmD52kYFwijAY3ss67LCvwOt1w55XyESdcd91oefEr0o4xHe964/nBgJbwgKL8k90RhG;ZTFFZ0MUopN2Thw5oIExsA=="
+secured: "yOANW8Rc11IShdq53wCtLzsXUgoiBKIJJdnJBL871QGXC0Svg/8l69eYAIiyJiu4kQergO4nKpK3cTQph0jUSe0oA4NWAtQ+UFRrEJL0xoyS+mr3hBafIo3mRgzPUjZ1+EWQ3Nzd96OLHJY5ZTHRvsIbK2ckheeO1M42EucOxqIJQhDiyBtrImChZcKs7j8JyVhD5fCZ7JO0tgOMDyunRgxj9m6T1fmugXCR0gOePw4bZKCzKJ1eTpFLF9epCVW++ixiw+m87HwhiIUcocrEF88O0pGBJmwdQNSskp5BtiaG2+pYjTBPg98ZOU0vsttY;4+kckW46L4i3lP6TSJGNOA=="
 ---
 
