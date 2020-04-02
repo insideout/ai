@@ -2,6 +2,282 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-11-ibm-debater-ai-tech-now-is-a-service-any-customer-can-use.md",
+      "title": "IBM Debater AI tech now is a service any customer can use",
+      "excerpt": "The AI technology can spot trends in mountains of data like tweets, blog posts and podcasts. In 2018, IBM debuted technology called IBM Debater that used artificial intelligence technology to read lots of documents and take on a human in a competitive debate about issues like whether we should subsidize preschools.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
+      "publishedDateTime": "2020-03-10T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/hEhpukwOIHukWLUhEshLD-AKc68=/756x567/2019/02/12/3d6faefe-fd11-4541-9d75-66f2aa327f37/20190211-ibm-debater-monolith-01.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "IBM Debater AI tech now is a service any customer can use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology.md",
+      "title": "IBM plans to inject Watson platform with its Project Debater NLP technology",
+      "excerpt": "Read More IBM said it is adding more conversational human language understanding to its Watson platform via its Project Debater technology. Big Blue's upgrades to Watson's natural language processing (NLP) capabilities come via an effort called Project Debater, which aimed to show that artificial intelligence could debate humans on complex topics.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology/",
+      "publishedDateTime": "2020-03-10T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/17/a98a3996-b950-41e0-a361-48addb5203ee/thumbnail/1200x675/0f782ca36aa0175b6b0ddc6197f4788d/istock-1203187628.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM plans to inject Watson platform with its Project Debater NLP technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.md",
+      "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
+      "excerpt": "Fichte is using AI tools offered in Microsoft's Office and Azure. \"Outlook Insights is a useful tool to remind you about potential tasks and to follow up on them,\" notes Peet. In addition, the firm has started investigating Azure AI capabilities for more complex tasks: invoice analysis and automated processing. Not all experiments work out.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.html",
+      "ampWebUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
+      "publishedDateTime": "2020-03-10T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/rules_rulebook_law_compliance_regulation_by-baloon111_getty-100786795-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
+      "title": "ForwardX debuts computer vision AMR fleet",
+      "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmr.com/article/forwardx_debuts_computer_vision_amr_fleet/news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
+          "width": 300,
+          "height": 400,
+          "title": "ForwardX debuts computer vision AMR fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-tensorflow-quantum-and-first-release-candidate-for-tensorflow-22.md",
+      "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+      "excerpt": "The TensorFlow developers have been keeping busy this week: Not only has the first release candidate for TensorFlow 2.2 arrived, but we can now also welcome the very first release of TensorFlow Quantum. Let’s see what has been happening in the world of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-quantum-and-tensorflow-2-2-rc0-169588.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-Quantum.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "TensorFlow Quantum and first release candidate for TensorFlow 2.2",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-deep-learning-market-2020-2024-the-growing-application-of-deep-learning-to-boost-growth-technavio.md",
+      "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
+      "excerpt": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/a94670244f6f4ac5a5bace41724d9414",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-the-top-7-use-cases-for-touch-screen-object-recognition.md",
+      "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
+      "excerpt": "Use these examples to inspire your own brand campaigns for touchscreen object recognition and interactive displays, tables, and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a special marker chip or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://customerthink.com/the-top-7-use-cases-for-touch-screen-object-recognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T15:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CustomerThink",
+        "domain": "customerthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://customerthink.com/wp-content/uploads/technology-785742_1280-pixabay-technology-computer-1.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies.md",
       "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
       "excerpt": "While speaking on a panel recently, Landing AI founder and Google Brain cofounder Andrew Ng described a moment when he read the OECD’s AI ethics principles to an engineer, and the engineer told him the words give no instruction on how he should change how he does his job. That’s why, Ng said, any code of conduct should be designed by and ...",
@@ -719,256 +995,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too.md",
-      "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
-      "excerpt": "The Pope is concerned that AI might be used in ways that undercut humanity rather than AI serving as a tool to enable and embellish humanity. Per the Vatican, a newly released document entitled “Rome Call For AI Ethics” spells out what direction AI ought to go as a technology that preferably is aimed for the betterment of society instead of the detriment or the possible demise of society.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-10T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F2da7658e8b794f2ca854b4e48f09ad08%2F0x0.jpg%3FcropX1%3D210%26cropX2%3D3583%26cropY1%3D0%26cropY2%3D2531",
-          "width": 1200,
-          "height": 901,
-          "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-artificial-intelligence-in-education-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis-by-2025.md",
-      "title": "Artificial Intelligence in Education Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis by 2025",
-      "excerpt": "New York March 10 2020 The global Artificial Intelligence in Education market report scope includes detailed study covering underlying factors influencing the industry trends The global Artificial Intelligence in Education market is expected to exceed more than US 4 Billion",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960878/artificial-intelligence-in-education-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
-      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
-      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
-          "width": 300,
-          "height": 225,
-          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-electrocardiogram-devices-found-to-be-susceptible-to-adversarial-attack.md",
-      "title": "Deep learning electrocardiogram devices found to be susceptible to adversarial attack",
-      "excerpt": "A team of researchers from New York University and NYU Langone Health has found that deep learning electrocardiogram devices can be susceptible to adversarial attacks. In their paper published in the journal Nature Medicine, the group describes how they developed an attack approach and tested it with electrocardiogram devices. Over the past ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-deep-electrocardiogram-devices-susceptible-adversarial.amp",
-      "publishedDateTime": "2020-03-10T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-canadian-ai-start-up-bluedot-spotted-coronavirus-before-anyone-else-had-a-clue.md",
-      "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
-      "excerpt": "An AI-based infectious disease surveillance system that searches the world around-the-clock for possible pandemics should have your attention. BlueDot Explorer On December 30, 2019, BlueDot, a Toronto-based startup that uses a platform built around artificial intelligence, machine learning and big data to track and predict the outbreak and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue",
-      "ampWebUrl": "https://diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-canadian-ai-start-bluedot-spotted-coronavirus-anyone-else-had-clue?amp",
-      "publishedDateTime": "2020-03-10T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2020-03/explorer-flights.jpg",
-          "width": 700,
-          "height": 377,
-          "title": "How Canadian AI start-up BlueDot spotted Coronavirus before anyone else had a clue",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management.md",
-      "title": "ACI Worldwide debuts new machine learning kit for fraud management",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to ... the new ‘Incremental Learning’ technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, Head of Payments Intelligence ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/pressarticle/81765/aci-worldwide-debuts-new-machine-learning-kit-for-fraud-management",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg",
-          "width": 480,
-          "height": 270,
-          "title": "ACI Worldwide debuts new machine learning kit for fraud management",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-hazelcast-speeds-time-to-market-for-operationalization-of-machine-learning-in-enterprise-applications.md",
-      "title": "Hazelcast Speeds Time-to-Market for Operationalization of Machine Learning in Enterprise Applications",
-      "excerpt": "models into ultra-low latency production with its support for running native Python- or Java-based models at real-time speeds. The latest release of the event stream processing engine, Hazelcast Jet,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/hazelcast-speeds-time-to-market-for-operationalization-of-machine-learning-in-enterprise-applications-301020461.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/972766/Hazelcast_Logo.jpg?p=facebook",
-          "width": 799,
-          "height": 419,
-          "title": "Hazelcast Speeds Time-to-Market for Operationalization of Machine Learning in Enterprise Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

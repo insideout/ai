@@ -50,6 +50,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "IBM offers ‘Watson Assistant for Citizens’ to quickly address covid-19 queries"
+    excerpt: "BENGALURU: IBM is offering its AI platform ‘Watson Assistant for Citizens’ free of cost for at least 90 days, which will provide reliable information on covid-19 related queries, it said Thursday. With a flood of information requests from citizens, waiting time in many areas to receive answers can exceed two hours, the company said."
+    publishedDateTime: 2020-04-02T13:40:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries-11585834443162.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
+        width: 600
+        height: 338
   - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
     excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
     publishedDateTime: 2020-04-02T09:11:00Z

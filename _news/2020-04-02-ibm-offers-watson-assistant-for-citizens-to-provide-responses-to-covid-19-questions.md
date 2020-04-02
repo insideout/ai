@@ -39,6 +39,21 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/30/4e7df702-bc24-449b-a3f1-f9c1989b75f3/thumbnail/1200x675/c9cf7474e2fcecf00ba3604b15497b79/myer-continues-to-operate-online-as-all-5e817364c86e7428fb85f788-1-mar-30-2020-5-50-26-poster.jpg"
         width: 1200
         height: 675
+  - title: "IBM offers ‘Watson Assistant for Citizens’ to quickly address covid-19 queries"
+    excerpt: "BENGALURU: IBM is offering its AI platform ‘Watson Assistant for Citizens’ free of cost for at least 90 days, which will provide reliable information on covid-19 related queries, it said Thursday. With a flood of information requests from citizens, waiting time in many areas to receive answers can exceed two hours, the company said."
+    publishedDateTime: 2020-04-02T13:40:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries-11585834443162.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 55
+    images:
+      - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
+        width: 600
+        height: 338
   - title: "IBM makes AI free for answering COVID-19 questions"
     excerpt: "IBM will make its Watson artificial intelligence software available for free, so government agencies, businesses, universities and healthcare institutions can use intelligent bots to answer citizens' queries about the unfolding COVID-19 crisis. The software will be available for free for at least 90 days, meaning organisations can use it to ..."
     publishedDateTime: 2020-04-02T04:04:00Z

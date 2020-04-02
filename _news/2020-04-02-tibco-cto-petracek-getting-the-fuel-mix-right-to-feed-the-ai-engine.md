@@ -25,6 +25,6 @@ images:
     height: 580
     title: "TIBCO CTO Petracek :Getting the fuel mix right to feed the AI engine"
 
-secured: "HYudhV5AzM8jtSmyPnO47c8b7/5eZCbUb/WiDKyVV/ncuXSFlmLLwK4ZU4R72WLjlN4km3u6/cjnJQk/tDkUg9XqEVBGxFkMsZrQFmBSkGYnELirwv702GQqrWMwfTMekfo8IzNWkTHW5/FAaKrpSoM9GBzs8m3J8tU9QLVhUaMvXyT9dsRxO4gpB+zIvNHr496+HYh99By96V38FJ+zANb/zAuLLjxRa9sMQHi6BMruYuGJParuo/0hhxpzRj/8jY7I/HWRmIQyisUWErY5Pt/D7y4BLKPYbBpg7SfokHkfhBR7s2vGHDb4xLucpaYd;AlH4zLvzqwJivZwikn/hcQ=="
+secured: "K24y6e0iexZKVVKPkWqhft/gZiOWEkg2hOmCqKSwNRY764hP/VO+8pryNSZ78D5zxAEv2Sn0e8qdcZr8KDZXW4BWe0BkJr1yzYUxMmpu9T5ryV/P0Wfvklhie3bc6Nvc0hOw7PZL4cZfRfvAEQwnH+2ysw0jbdAu2PhJKI69jR/y2WVQac9gojhk4ZrPoFGf8o0eJlFNUZprVIDO972bZJ1IfuRaXvwfoOSAVlAwBHxu2g2R3zPsGWjBnNZj1GSsGYEX8rCLsxYQmuBCqvs+40MwEFeEEnj1S4DzA1kO/DBpxpeReys+jfCfjlJu2jenQfr/wXDO6rHsfie7eW4GLgiORfoksMoyjQfMN8FpMK2ZLtQGkF2OLDJS6KjUE/c3G8vxjbNnfALSv8E3f7ycd8V/tONmtdUKmES27aQixbnu6rayIPnh2WCSO27jny3QT4e/4HLKNZdlrPBuCyNZv2sWS+b2h9vMwiK9pl3yNi8=;7ogCIYL/SVZBe5NrdXIehw=="
 ---
 
