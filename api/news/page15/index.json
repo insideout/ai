@@ -2,6 +2,43 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-19-bioxcel-therapeutics-provides-an-update-on-its-ongoing-phase-3-serenity-trials.md",
+      "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+      "excerpt": "A non-invasive therapy that causes rapid symptom relief and de-escalates agitation may be ... About BioXcel Therapeutics, Inc.: BioXcel Therapeutics, Inc. is a clinical-stage biopharmaceutical company utilizing artificial intelligence to identify improved therapies in neuroscience and immuno-oncology. BTI's drug re-innovation approach leverages ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-provides-an-update-its-ongoing-phase-/2020/03/19/9117710.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
+          "width": 252,
+          "height": 335,
+          "title": "BioXcel Therapeutics Provides an Update on its Ongoing Phase 3 SERENITY Trials",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
       "title": "Google Translate now enables you to transcribe speech",
       "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
@@ -934,51 +971,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deep-learning-changes-scientific-research-finds-antibiotic-for-multi-resistant-bacteria.md",
-      "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
-      "excerpt": "Scientists at MIT and Harvard’s Broad Institute and MIT’s CSAIL built a deep learning network that can acquire a broad representation of molecular structure and thereby discover novel antibiotics.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/a054429e-8520-4d0a-9fcc-055da9056537/thumbnail/370x278/ef50d64ea8facf64a4639d9a1183f872/apple-updates-its-macbook-air-with-more-5e7371a2daf32b2d76d61158-1-mar-20-2020-15-12-55-poster.jpg",
-          "width": 370,
-          "height": 278,
-          "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

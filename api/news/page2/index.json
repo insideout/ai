@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-01-pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19.md",
+      "title": "Pre-school edtech startup Lingumi raises £4m, adds some free services during COVID-19",
+      "excerpt": "The startup, launched in 2017, is also announcing the launch of daily free activity packs ... Lingumi has the potential to democratize English learning and offer every kid a personalized curriculum empowered by AI & Lingumi’s ‘asynchronous teaching; model.” Competitors to include Lingumi include live teaching solutions like VIPKid ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/amp/",
+      "publishedDateTime": "2020-04-01T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/1117_lingumi-253.jpg?w=500",
+          "width": 500,
+          "height": 334,
+          "title": "Pre-school edtech startup Lingumi raises £4m, adds some free services during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
       "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
       "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
@@ -1048,46 +1092,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
-      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
-      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "publishedDateTime": "2020-03-31T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "TensorFlow",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -920,6 +920,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-setting-the-ai-standard-what-it-could-look-like-in-australia.md",
+      "title": "Setting the AI standard: What it could look like in Australia",
+      "excerpt": "Deliberation, consensus, and communication are necessary when conversations about what Australia's artificial intelligence (AI) standards should look like, according to the country's national standards body. Special Feature: Managing AI and ML in the Enterprise This ebook, based on the latest ZDNet / TechRepublic special feature, advises CXOs ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
+      "publishedDateTime": "2020-04-01T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/19/06ed6b48-07ac-4738-b4d3-5931007c86ec/thumbnail/1200x675/0088023ff5320e1eb054bf8ffc215ebd/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Setting the AI standard: What it could look like in Australia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
       "title": "Shanghai judicial courts start to replace clerks with AI assistants",
       "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
@@ -1272,52 +1316,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage.md",
-      "title": "Algorithmic Justice League protests bias voice AI and media coverage",
-      "excerpt": "“We cannot let the promise of AI overshadow real and present harms,” Benjamin said in the piece ... In statements following the release of the study, Google and IBM Watson pledged commitments to progress.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/algorithmic-justice-league-protests-bias-voice-ai-and-media-coverage/amp/",
-      "publishedDateTime": "2020-03-31T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/voicing-erasure.jpg?fit=1280%2C661&strip=all",
-          "width": 1280,
-          "height": 661,
-          "title": "Algorithmic Justice League protests bias voice AI and media coverage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

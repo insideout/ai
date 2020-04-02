@@ -2,6 +2,43 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-03-05-a-new-model-of-vision.md",
+      "title": "A new model of vision",
+      "excerpt": "Researchers have developed a computer model of face processing that could reveal how the brain produces richly detailed visual representations so quickly. When we open our eyes, we immediately see ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200305002834.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-platesmart-recognized-with-fifth-govies-award.md",
       "title": "PlateSmart Recognized with Fifth Govies Award",
       "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
@@ -902,51 +939,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato.md",
-      "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
-      "excerpt": "Computer vision has been a key driver behind the artificial intelligence boom of the past two years. But it has also come with significant controversy. Businesses need to be aware of the potential ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
-      "publishedDateTime": "2020-03-03T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/computer-vision.GettyImages-1132582956.jpg?fit=2112%2C1103&strip=all",
-          "width": 2112,
-          "height": 1103,
-          "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

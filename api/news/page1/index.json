@@ -920,6 +920,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-setting-the-ai-standard-what-it-could-look-like-in-australia.md",
+      "title": "Setting the AI standard: What it could look like in Australia",
+      "excerpt": "Deliberation, consensus, and communication are necessary when conversations about what Australia's artificial intelligence (AI) standards should look like, according to the country's national standards body. Special Feature: Managing AI and ML in the Enterprise This ebook, based on the latest ZDNet / TechRepublic special feature, advises CXOs ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
+      "publishedDateTime": "2020-04-01T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/19/06ed6b48-07ac-4738-b4d3-5931007c86ec/thumbnail/1200x675/0088023ff5320e1eb054bf8ffc215ebd/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Setting the AI standard: What it could look like in Australia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
       "title": "Shanghai judicial courts start to replace clerks with AI assistants",
       "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
@@ -1050,50 +1094,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19.md",
-      "title": "Pre-school edtech startup Lingumi raises £4m, adds some free services during COVID-19",
-      "excerpt": "The startup, launched in 2017, is also announcing the launch of daily free activity packs ... Lingumi has the potential to democratize English learning and offer every kid a personalized curriculum empowered by AI & Lingumi’s ‘asynchronous teaching; model.” Competitors to include Lingumi include live teaching solutions like VIPKid ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/amp/",
-      "publishedDateTime": "2020-04-01T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/1117_lingumi-253.jpg?w=500",
-          "width": 500,
-          "height": 334,
-          "title": "Pre-school edtech startup Lingumi raises £4m, adds some free services during COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

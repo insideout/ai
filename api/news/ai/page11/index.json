@@ -2,6 +2,42 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-20-watch-the-nokia-bond-campaign-trailer-the-only-gadget-youll-ever-need.md",
+      "title": "Watch the Nokia-Bond campaign trailer: “The Only Gadget You’ll Ever Need",
+      "excerpt": "HMD has now posted its official campaign trailer for the Nokia-James Bond movie “No time to die” collaboration on YouTube. The movie is coming to cinemas in November. Read more about the Nokia-James Bond collaboration here. Check out our new campaign trailer featuring @LashanaLynch as agent Nomi. We are the proud technology partner of the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nokiapoweruser",
+        "domain": "nokiapoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Watch the Nokia-Bond campaign trailer: “The Only Gadget You’ll Ever Need",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence.md",
       "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
       "excerpt": "The beauty of artificial intelligence, however, lies in the way that organizations use it to prepare themselves. Breaking down to the nuances, it means understanding the customer behaviors and personalizing experiences so that they get exactly what they expect from a product or brand. Be it the world of business or healthcare, artificial ...",
@@ -1181,42 +1217,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-fairy-tail-rpgs-story-trailer-reveals-gildarts.md",
-      "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-      "excerpt": "The official PlayStation YouTube channel began streaming a story trailer for KOEI Tecmo Games and Gust's Fairy Tail role-playing game on Thursday. The video reveals the new playable character Gildarts. KOEI Tecmo America and Gust also revealed details fo the game's new Eclipse arc. The arc centers on the “Project Eclipse” experiment \"that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anime News Network",
-        "domain": "animenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

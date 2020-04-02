@@ -2,6 +2,50 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
+      "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
+      "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
+      "heat": 247,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T05:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c",
+          "width": 1200,
+          "height": 600,
+          "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream.md",
       "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
       "excerpt": "Can’t we all work together? This question is often brought up at conferences on AI self-driving cars. Why so? Well, it is noteworthy to realize that there are currently about 40,000 deaths each year in the United States due to car accidents and about 2.",
@@ -1262,43 +1306,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report.md",
-      "title": "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report",
-      "excerpt": "China’s Fintech sector is known for quickly adopting a broad range of information technologies including cloud computing, Big Data, artificial intelligence (AI), mobile-based Internet solutions, and Internet of Things (IoT)-based applications, the IDC noted in its recent report on ongoing digital transformation efforts in China. The Chinese ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/02/157546-80-of-chinese-banks-to-integrate-fintech-solutions-from-cloud-market-report/amp/",
-      "publishedDateTime": "2020-02-17T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Beijing-China-2-600x599.jpeg",
-          "width": 600,
-          "height": 599,
-          "title": "80% of Chinese Banks to Integrate Fintech Solutions from Cloud Market: Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

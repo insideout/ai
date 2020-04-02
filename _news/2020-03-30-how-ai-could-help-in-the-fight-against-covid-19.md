@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-could-help-in
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-could-help-in-the-fight-against-covid-19/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://www.theweek.in/content/dam/week/news/sci-tech/images/2020/3/28/astra.jpg"
         width: 760
         height: 443
-  - title: "How artificial intelligence is helping the fight against coronavirus"
-    excerpt: "Artificial intelligence is improving the ability of healthcare providers to effectively respond to the coronavirus pandemic – allowing for faster diagnoses and speedy dissemination of trusted information as well as detecting fraudulent insurance claims and accurately evaluating patient data in real time. SoftBank-backed AI company Automation ..."
-    publishedDateTime: 2020-03-28T09:36:00Z
-    webUrl: "https://www.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840"
-    ampWebUrl: "https://amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840"
-    cdnAmpWebUrl: "https://amp-thenational-ae.cdn.ampproject.org/c/s/amp.thenational.ae/business/technology/how-artificial-intelligence-is-helping-the-fight-against-coronavirus-1.997840"
-    type: article
-    provider:
-      name: The National Blogs
-      domain: thenational.ae
-    quality: 74
-    images:
-      - url: "https://www.thenational.ae/image/policy:1.997838:1585236541/image.jpg?f=16x9&q=0.6&w=1200&$p$f$q$w=70c86c9"
-        width: 1200
-        height: 675
 
 secured: "Fg8fKvpvVTsSbWT9c5cqISE05p3Lo24z9lOxGGFQF4bNArUo3vcgBG15SuaewJI1F2jhOwER8x5PafvKuYT/CuioMgjRPbwwiIUmlIbEQr4cEMtUl4ig5whlr2BKOmzxplWiDa2sQN/8wBfoNtTntaM8xHGHoN+tydOqHtuc1g7LXvLYNPWcgpTup0eybVCx+LvEtEbnTp/VOVliqt6j1o7Dxz6ayfPjj3pwBRlGOeNdCIpdt24VGMb9/yU4tLMqihRDmyYlhPeHEYy4L/cmnxxeVQAFnF/t/YsYnj+hBLxJ5U7y1s/rGufjSJqSp1f0+zYr9gJm0IieABIN7TE+lxnEWW07k+JUW13lNDbqZil5NG8GvLA4Ne/UL3qP7LjdrnKWXwi753dAdvqh34K2myMjlWk6L/SnTuJNRO4EE5An3GdZ86B+tkxzOQ86XDNbskikFr84EeRrrJuAVU0N8Bff4Me0qJhp7aSIJt3q9SI=;bXXtIzyGi0nKXkZVGyvnoQ=="
 ---

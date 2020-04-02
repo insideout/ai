@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-25-covid-researchers-can-apply-for-free-cloud-services.md",
+      "title": "COVID researchers can apply for free cloud services",
+      "excerpt": "The AWS Diagnostic Development Initiative will be open to accredited research institutions ... The scalable public cloud service allows organizations to build artificial intelligence-powered bots for websites or applications. It draws on official COVID-19 information and offers users a natural conversation-like experience.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gcn.com/articles/2020/03/24/cloud-vendors-covid-research.aspx?admgarea=TC_Cloud",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gcn.com/-/media/GIG/EDIT_SHARED/Cloud/cloudsdata.png",
+          "width": 760,
+          "height": 368,
+          "title": "COVID researchers can apply for free cloud services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-starsky-robotics-failed-does-that-mean-automated-trucking-is-dead.md",
       "title": "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?",
       "excerpt": "Axmacher’s Medium post about the company's failure has energized the rest of the truck Automated Driving Systems industry. They emphatically do not agree. The consensus is that investors didn't abandon all of truck ADS,",
@@ -1034,51 +1071,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-cognitive-collaboration-market-analysis-by-industry-growth-size-share-demand-trends-and-research-report.md",
-      "title": "Cognitive Collaboration Market Analysis By Industry Growth, Size, Share, Demand, Trends and Research Report",
-      "excerpt": "Kenneth Research has published a detailed report on Cognitive Collaboration Market which has been categorized by",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-collaboration-market-analysis-by-industry-growth-size-share-demand-trends-and-research-report-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cognitive Collaboration Market Analysis By Industry Growth, Size, Share, Demand, Trends and Research Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

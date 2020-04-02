@@ -2,6 +2,51 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2020-03-12-how-the-coronavirus-may-reshape-ai-research-conferences.md",
+      "title": "How the coronavirus may reshape AI research conferences",
+      "excerpt": "The largest machine learning research conferences, like CVPR and leader NeurIPS ... but members of the board headed by Facebook chief AI scientist Yann LeCun plan to share more details in the coming days. Deep learning pioneer Yoshua Bengio is also on the ICLR board and, like LeCun, one of the most cited researchers on Earth.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/12/how-the-coronavirus-may-reshape-ai-research-conferences/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/12/how-the-coronavirus-may-reshape-ai-research-conferences/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/12/how-the-coronavirus-may-reshape-ai-research-conferences/amp/",
+      "publishedDateTime": "2020-03-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "How the coronavirus may reshape AI research conferences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-aclu-sues-for-records-on-facial-recognition-use-at-airports-border.md",
       "title": "ACLU sues for records on facial recognition use at airports, border",
       "excerpt": "The lawsuit, filed on Thursday, argues that the public has a right to know how these US agencies have been using facial recognition, citing concerns about surveillance and privacy. \"Over the ...",
@@ -897,51 +942,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects.md",
-      "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
-      "excerpt": "Deep Learning Market Highlights: The prominence of cloud-based services is predicted to play a key role in the expansion of the deep learning market 2020. The information & communication technology industry reports are created by Market Research Future,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2020-2023-key-findings-business-trends-regional-study-emerging-technologies-global-segments-and-future-prospects-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T23:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market 2020-2023: Key Findings, Business Trends, Regional Study, Emerging Technologies, Global Segments and Future Prospects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
