@@ -2,6 +2,109 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-ai-in-alzheimers-applications.md",
+      "title": "Artificial Intelligence (AI) in Alzheimer's Applications",
+      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence (AI) in Alzheimer's Applications\" - https://www.reportlinker.com/p05873500/?utm_source=GNW - Description of AI tools applications in the diagnosis,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15505440/artificial-intelligence-ai-in-alzheimers-applications",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15505440",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15505440",
+      "publishedDateTime": "2020-03-09T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-anterior-retrosplenial-cortex-is-required-for-long-term-object-recognition-memory.md",
+      "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
+      "excerpt": "The retrosplenial cortex (RSC) is implicated on navigation and contextual memory. Lesions studies showed that the RSC shares functional similarities with the hippocampus (HP). Here we evaluated the role of the anterior RSC (aRSC) in the “what” and “where” components of recognition memory and contrasted it with that of the dorsal HP (dHP).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nature.com/articles/s41598-020-60937-z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-60937-z/MediaObjects/41598_2020_60937_Fig1_HTML.png",
+          "width": 407,
+          "height": 685,
+          "title": "Anterior retrosplenial cortex is required for long-term object recognition memory",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-as-companies-race-to-develop-self-driving-cars-americans-remain-ambivalent.md",
+      "title": "As companies race to develop self-driving cars, Americans remain ambivalent",
+      "excerpt": "As companies continue working to get self-driving cars into production, acceptance of the technology remains “stuck in neutral,” according to AAA. In a study conducted by the organization ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aaa-study-shows-acceptance-of-self-driving-cars-stuck-in-neutral/?amp",
+      "publishedDateTime": "2020-03-09T03:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-artificial-intelligence-in-healthcare-market-2020-global-key-players-trends-share-industry-size-segmentation-opportunities-forecast-to-2026.md",
       "title": "Artificial Intelligence in Healthcare Market 2020: Global Key Players, Trends, Share, Industry Size, Segmentation, Opportunities, Forecast To 2026",
       "excerpt": "“Artificial Intelligence in Healthcare Market” Summary: A new market study, titled \"Global Artificial Intelligence in Healthcare Market Upcoming Trends,",
@@ -844,125 +947,6 @@
           "width": 620,
           "height": 349,
           "title": "'It's like you have a hand again' — A major breakthrough in robotic limb technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak.md",
-      "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
-      "excerpt": "DeepMind, Google's AI unit, is joining the global effort learn more about COVID-19, as the disease's toll spreads rapidly throughout much of the world. The UK-based team just used DeepMind's new ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.in/tech/news/googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak/articleshow/74512287.cms",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak/amp_articleshow/74512287.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-deepmind-just-shared-ai-generated-predictions-about-the-coronavirus-that-could-help-researchers-stem-the-global-outbreak/amp_articleshow/74512287.cms",
-      "publishedDateTime": "2020-03-06T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-ssl.businessinsider.com/image/5e616fe7fee23d05c93321cd-2400/2016-03-08t120000z418414419gf10000337499rtrmadp3science-intelligence-go.jp2",
-          "width": 2400,
-          "height": 1800,
-          "title": "Google's DeepMind just shared AI-generated predictions about the coronavirus that could help researchers stem the global outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants.md",
-      "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
-      "excerpt": "Read More It was that pioneering work, and the decades of research that followed, that made possible the announcement on Thursday by Google's DeepMind that it has arrived at a guess as to the structure of a handful of proteins associated with the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-deepminds-effort-on-covid-19-coronavirus-rests-on-the-shoulders-of-giants/",
-      "publishedDateTime": "2020-03-06T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/23/58aef493-b110-4e8d-b33e-88b96687eac0/resize/1200x900/bc837465a44a931f81f7c3dfb35c8642/screenshot-2020-01-23-at-11-48-05.png",
-          "width": 1200,
-          "height": 760,
-          "title": "Google DeepMind’s effort on COVID-19 coronavirus rests on the shoulders of giants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week.md",
-      "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
-      "excerpt": "One intriguing suggestion from developer Cyclopic is using it as a cargo robot. The machine would use its wheels to drive around a factory or warehouse floor before transforming into drone mode for a quick flight, up to a high shelf or over an obstacle.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.imeche.org/news/news-article/nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-06T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institution of Mechanical Engineers",
-        "domain": "imeche.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
-          "width": 400,
-          "height": 300,
-          "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
           "attribution": null
         }
       ],

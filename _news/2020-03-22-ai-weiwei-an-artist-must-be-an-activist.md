@@ -12,6 +12,10 @@ published: false
 provider:
   name: The Guardian
   domain: theguardian.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Ethics

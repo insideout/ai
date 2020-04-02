@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-02-robotics-startups-need-support-now-more-than-ever.md",
+      "title": "Robotics startups need support now more than ever",
+      "excerpt": "But our success is reliant on a vibrant and competitive robotics ecosystem. Let’s do everything we can to make sure our industry thrives. Owen Nicholson is CEO of SLAMcore, a London-based startup on a mission to make spatial AI accessible to all. SLAMcore develops algorithms that help robots and drones understand where they are and what’s ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/robotics-startups-support-now-more-than-ever/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/04/robotics-startups-covid-19.png",
+          "width": 1000,
+          "height": 593,
+          "title": "Robotics startups need support now more than ever",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-human-layer-cybersecurity-and-ai-thwart-data-breaches-vb-live.md",
       "title": "“Human-layer” cybersecurity and AI thwart data breaches (VB Live)",
       "excerpt": "Data breaches are at an all-time high, because traditional cybersecurity methods just can’t predict human behavior. Learn how stateful machine learning delivers a robust, people-centric approach to cybersecurity when you access this free VB Live event! Access on demand here! Over the past decade companies have been boosting their ...",
@@ -86,7 +123,7 @@
       "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
       "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
       "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
-      "heat": 92,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
@@ -124,7 +161,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -396,50 +434,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
-      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-      "excerpt": "That same year, entrepreneur Aly Orady launched Tonal, an AI-powered wall-mounted screen that focuses more on strength training. It features an exercise bench and resistance system that uses electromagnetism to simulate weight machines. This month, entrepreneur Trent Ward and designer Yves Behar are unveiling their sleek design for a mirror ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://us.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "publishedDateTime": "2020-04-01T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
       "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
       "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
@@ -472,6 +466,50 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
+      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "publishedDateTime": "2020-04-01T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
           "attribution": null
         }
       ],
@@ -1015,6 +1053,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19.md",
+      "title": "Pre-school edtech startup Lingumi raises £4m, adds some free services during COVID-19",
+      "excerpt": "The startup, launched in 2017, is also announcing the launch of daily free activity packs ... Lingumi has the potential to democratize English learning and offer every kid a personalized curriculum empowered by AI & Lingumi’s ‘asynchronous teaching; model.” Competitors to include Lingumi include live teaching solutions like VIPKid ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/pre-school-edtech-startup-lingumi-raises-4m-adds-some-free-services-during-covid-19/amp/",
+      "publishedDateTime": "2020-04-01T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/1117_lingumi-253.jpg?w=500",
+          "width": 500,
+          "height": 334,
+          "title": "Pre-school edtech startup Lingumi raises £4m, adds some free services during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
       "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
       "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
@@ -1236,95 +1318,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-nvidia-a-clear-winner-in-otherwise-brutal-quarter-for-chip-makers.md",
-      "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-      "excerpt": "Last week, Needham upgraded the stock to buy, forecasting higher demand for chips used in medical applications, as well as in artificial intelligence applications. Why China’s AI champions must find alternatives to US hardware – and quick Nvidia is up about 14 per cent thus far this year, putting it in the top 10 gainers on the S&P 500.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077869/nvidia-clear-winner-otherwise-brutal-quarter-chip-makers",
-      "publishedDateTime": "2020-03-31T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/df04e758-73bd-11ea-ab8f-988daf8efd6f_image_hires_101133.JPG?itok=fw4QshuF&v=1585707099",
-          "width": 1200,
-          "height": 630,
-          "title": "Nvidia a clear winner in otherwise brutal quarter for chip makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-pet-care-startup-rover-lays-off-41-of-workforce-due-to-covid-19-impact.md",
-      "title": "Pet care startup Rover lays off 41% of workforce due to COVID-19 impact",
-      "excerpt": "Layoffs are hitting tech companies hard amid the novel coronavirus outbreak. Leafly, an online cannabis brand based in Seattle, let 91 employees go last week, while AI writing startup Textio laid off 30 people. AI marketing startup Amplero let go of 17 people and will shut down this week. Co-working startup The Riveter and clothing rental ...",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/",
-      "ampWebUrl": "https://www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/pet-care-startup-rover-lays-off-41-workforce-194-employees-due-covid-19-impact/amp/",
-      "publishedDateTime": "2020-03-31T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/03/rover11-630x420.jpeg",
-          "width": 630,
-          "height": 420,
-          "title": "Pet care startup Rover lays off 41% of workforce due to COVID-19 impact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

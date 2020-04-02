@@ -26,19 +26,6 @@ images:
     title: "Microsoft divests from Israeli facial-recognition startup"
 
 related:
-  - title: "Microsoft sells stake in Israeli face recognition firm"
-    excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart. These solutions are agnostic to all cameras, computing frameworks, and use-cases. AnyVision currently develops technology for security and surveillance ..."
-    publishedDateTime: 2020-03-28T08:29:00Z
-    webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
-    images:
-      - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
-        width: 1350
-        height: 750
   - title: "Microsoft set to divest from Israeli facial recognition firm tracking Palestinians"
     excerpt: "Microsoft is set to sell shares in an Israeli facial recognition company accused of surveilling Palestinians in the occupied West Bank. The company’s M12 venture arm invested $74m in AnyVision in June, only to come under fire after an October report by US broadcaster NBC News claimed that the Tel-Aviv-based company was powering a “secret ..."
     publishedDateTime: 2020-03-28T13:48:00Z
