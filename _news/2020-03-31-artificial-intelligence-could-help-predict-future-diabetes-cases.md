@@ -35,17 +35,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/03/31/14/wire-26632158-1585659887-555_636x382.jpg"
         width: 636
         height: 382
-  - title: "Artificial Intelligence tool can predict which COVID-19 patients will develop respiratory disease, say scientists"
-    excerpt: "Scientists have developed an artificial intelligence (AI) tool that may accurately predict which patients newly infected with the virus that causes COVID-19 would go on to develop severe respiratory disease. The study, published in the journal Computers, Materials & Continua, also revealed the best indicators of future severity, and found that ..."
-    publishedDateTime: 2020-03-31T09:40:00Z
-    webUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/"
-    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 16
 
 secured: "7WpK+iAKLj2O9UQZQ84TfEUmeSaUE4cJB+vKsr5GAHVEHXMAxQczGseUD+dQCk8yKlp/KvHvo1jDe42/WWZLzKMz4Jd7lqTq4LlSvC1YnbxUydUzIVVDaAx5zynP083/jDgDEqkKisLKyaQLCWnUyG1NVHgQLynp3HEGGtUW0cK+rIr2rLjUHZ9E45zMj0mojZfrXU7ntLZSwNaV52z7Intoy3jFBN4vIyiD4d0xina7QP4MLBVhTP3sFNk/S+6xTTdGUiBrJ9PwsayTihYOuT60Ay97+fbXCENwbiyxC5Dm3gHBkJmp7ANboD5PIeuVSqTnAQUQ6xDqBt/Cav4ZxKjhXT5advAyQy77JS3dDLzXQBLqCqwPwffS2ruDFZbjPi8tNvnhi9+7iSU+8RHhsTsIkMoU0bk8aE90O6zkwkd7rwjRMq+cOFh8SKJIema75fBLPgOsvLOVA2rJceK3LoQvlX2nd8ezdC0yuADDprg=;FUxF/Im7vnJBKr7/UWRU/g=="
 ---

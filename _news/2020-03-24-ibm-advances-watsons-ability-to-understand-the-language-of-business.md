@@ -18,6 +18,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.itp.net/public/images/2020/03/24/shutterstock_1033541044.jpg"

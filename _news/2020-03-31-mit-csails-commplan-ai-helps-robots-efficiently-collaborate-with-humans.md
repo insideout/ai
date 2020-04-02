@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans/amp/"
 type: article
 quality: 103
-heat: 104
+heat: 103
 published: true
 
 provider:

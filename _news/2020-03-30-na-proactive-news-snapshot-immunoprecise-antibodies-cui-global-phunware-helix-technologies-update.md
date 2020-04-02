@@ -8,7 +8,7 @@ ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/916138"
 cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/916138"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 1200
     height: 740
     title: "NA Proactive news snapshot: ImmunoPrecise Antibodies, CUI Global, Phunware, Helix Technologies UPDATE"
-
-related:
-  - title: "ImmunoPrecise Antibodies and its AI collaborator team up on research program to help fight coronavirus"
-    excerpt: "Antibodies were pre-screened by EVQLV’s artificial intelligence-driven algorithms. ImmunoPrecise cautioned shareholders ... we are applying these insights in an attempt to generate an efficacious and sustainable therapy,” Bath said in a statement. ImmunoPrecise said it will review the antibody candidates and select around 1,200 candidates ..."
-    publishedDateTime: 2020-03-30T21:03:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/916160/immunoprecise-antibodies-and-its-ai-collaborator-team-up-on-research-program-to-help-fight-coronavirus-916160.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/916160"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/916160"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 43
-    images:
-      - url: "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2020_03/1200z740_1585602518_coronavirus-2.jpg"
-        width: 1200
-        height: 740
 
 secured: "h/49cU0v+yeZ2AGvwpQG4uu6rXnkNx0iDw04wWG1b3gaKoZu1pEpDZLJcuZUnxmdOYCIcs7i/SMStCUveICiHpzLbp3XCYQLgi/aV6psDKj5TeCUTalLrP0aeT8/LfGnmQBLm/WGOQXuCVD4pu2AjNTt2w4JQ1OhA0VqZ8DvkCY5FXB9wwgcroLr3IUwyxLmw2gpUhIeKyYsL1q5byqIbzo9oUfaUuTELm60irxIHYhU5Yb8KpRDlRQv79p40EBmRD1AO8C89Mluc/exRPSj5/fCgJBWyvWlB8aALMjHcrNiuWsykpzrLrl9mtpeX7jxogxnBW/1No91hq50od8L4NZeb+yMqatTGywHuEF6GcP9TD5Oi4JGbUIvPQXI08RvTk275Ox3k3jkFDBbE4SFcAQgO0/GnbAsZeNufC/uvslYlkEu1ueswE87p/VlVcH5op2i4Me16o82eqzIyZKYv9l6NSTulLJ/lAMrPydwWmE=;YDE9QUNAIBIlzlKZa7UCdQ=="
 ---

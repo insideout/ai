@@ -7,8 +7,8 @@ webUrl: "https://news.artnet.com/market/a-i-glossary-of-terminology-1818681"
 ampWebUrl: "https://news.artnet.com/market/a-i-glossary-of-terminology-1818681/amp-page"
 cdnAmpWebUrl: "https://news-artnet-com.cdn.ampproject.org/c/s/news.artnet.com/market/a-i-glossary-of-terminology-1818681/amp-page"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://news.artnet.com/app/news-upload/2020/03/AI-Exhbition-AI-More-Than-Human-02-1.jpg"

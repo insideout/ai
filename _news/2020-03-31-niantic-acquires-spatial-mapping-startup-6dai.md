@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

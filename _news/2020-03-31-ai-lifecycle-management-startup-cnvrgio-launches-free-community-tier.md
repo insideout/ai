@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

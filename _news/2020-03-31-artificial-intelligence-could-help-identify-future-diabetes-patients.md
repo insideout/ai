@@ -8,8 +8,8 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8171941/amp/Artifici
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8171941/amp/Artificial-intelligence-help-identify-future-diabetes-patients.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Mail Online
@@ -37,17 +37,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
-  - title: "Artificial Intelligence tool can predict which COVID-19 patients will develop respiratory disease, say scientists"
-    excerpt: "Scientists have developed an artificial intelligence (AI) tool that may accurately predict which patients newly infected with the virus that causes COVID-19 would go on to develop severe respiratory disease. The study, published in the journal Computers, Materials & Continua, also revealed the best indicators of future severity, and found that ..."
-    publishedDateTime: 2020-03-31T09:40:00Z
-    webUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/"
-    ampWebUrl: "https://www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/lifestyle/health/artificial-intelligence-tool-can-predict-which-covid-19-patients-will-develop-respiratory-disease-say-scientists/1914731/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 16
 
 secured: "m5TiSuoWNLHMQGm4Wdt078C3GGpHz5E47Lm2lC78h8A8vh94GVzIK/0bhw3UR3erX4qRz/RWU9lFnJl9+mvg+3/rg1vH/wdoIv57fzZFkK009bhrPTncQPvIXBCMwvbI75UtScTQyL+y4TMO7VHtBZlGSLhyx94Pt7HzRY7bK9qo3bWFpOSH0mQ/Qhzxg1BKv0PBEa47OpZsg9O3MG5TSHaee35N4erZVAvGKyH8xIWESmg3Ky83n/co4vc1OBT22RmLEoi0dEpmUDgLo+NAh4dusA8MJHcNgtmiHt5hmAwuZl7jxtYWshTyZ11Y/TyqskiXqPv+N2jVnMoD4oJHMLdW8KL8dberkRR+WxSJ629WXzjCWMETG/H0jYS8ulnZ0T9rBDIhQX/SH5/swfvVnK0GZDH0EtlSo2R5g7G7/B4A+vyp/NdsmLAI/mIgZVAgwRpXjRYy8PvSmK3XBUlXslVUE8e2/wA4B2rArXNf/G8=;t5NnWHObFR5fU4dqDPQXtg=="
 ---

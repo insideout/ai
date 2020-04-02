@@ -3,9 +3,9 @@ category: news
 title: "Is this AI-powered 'mirror gym' the future of home exercise?"
 excerpt: "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home."
 publishedDateTime: 2020-04-01T15:17:00Z
-webUrl: "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/"
-ampWebUrl: "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/"
-cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/"
+webUrl: "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html"
+ampWebUrl: "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html"
+cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html"
 type: article
 quality: 87
 heat: 87
@@ -28,6 +28,6 @@ images:
     height: 619
     title: "Is this AI-powered 'mirror gym' the future of home exercise?"
 
-secured: "aBPMFxOPOR1QflcvHui+/xoe/lNkxc0CnNO7CDKZrbZcpiiwfjJ1v/OGqkjoIF1p6w1wtwz24sgD9UStML1rFz3nAAB8w6NQLwgQE3k+MsqqTuKp9UJQQyUx+a5Yst2kJt/dz2OQ4eInl8OFqCxUe878h3b9TBiiFtqLf/vyJhAQEI9K0P1mVuX4131DXvgFhT/+DS32FypG1OQICs50f9PWgcwA0fi3cRO5d4hVw5w+mftfv+B0MiL13hgtdDnu5F46uRqP7H0TgFs6P39hbE+NUz+MlFXHM6zWHjslVNRSS4JboCgdEs5NPyzKarj5m3J+FIZDTV3MamRSHR4O0pn7MXMIsIuuNUa8q7qtoM497PoRI3YcOmOn93RK/rttySRX3SYXHNoqsEBytZK6Na31vJjq0eU2r+dFQ8VGgZu/+InZZV8XYOsKCPXUdVwvEoYT9FXcwXkthSher+paHyvoOxQMMOWMKHo4ZFHE10s=;3WFDYfhN4DzPd7RZ1mLZEA=="
+secured: "GRRTmEUK6wCaLUnZtfLc55NftihbAZTQlGRiUdSFJFjhtm7D+EH7y9zaah4MadzlKLc0u6XVTimH/G8fr4unyM987NvSubdU/wB+Od77EetNq/f05wlcu8irxIOKyXTEzqFdn8TkoNY2OzL16lYmZNU+5BpxvQRT7afByylbRmmJjh+tKay777odrmKdPeaGvCzkczFVwiaNs8DSyAHGehjb+B176dJzX5XtYCAVgfZFhUMP0biZf2lVCSqVTFsZ0irVvUuwGiUHxLfppwllTu1tUWGOIpo28remxiZMsi3HIdkXhZH+e8PsEV5uj6mu;wEabWbUDF3THVrPAzR3imQ=="
 ---
 

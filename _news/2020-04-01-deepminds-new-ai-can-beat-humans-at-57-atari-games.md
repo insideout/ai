@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-ca
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 115
 published: true
 
 provider:
@@ -46,6 +46,6 @@ related:
         width: 1200
         height: 600
 
-secured: "I4Q9Waof98QC2pyXbJ13NbCitgMy7Cth1iOeFxFyR6lm00DLu1N49KyyO4Y6/t3v6vtk33sq2sTrh1yMi7Bf9Zm4eOyeYy+/IcWpxBV0Ok5lTejfnYJEojYCpzIYRA6JmcoiWlw647Gwfgf5d9e3N9ZBbSglDCxcxZ8nVhlxPnbWFiK1CKUkRsOcIJ+BQlb/CqhF0dhXA8MsWoQiX/RVQVKmjFZKVVZ6B4mWYKTag1MAkL4gqWv+8mtx1QKjCfvdIHz4yXqRdFjlb0mmjWT0GTfvbL+lLtbXmyfO8GZWcZyV+o4cLcdU2ahY7FUFoyPH;iQoAOhBr1/OgskWLkstZbg=="
+secured: "m1NlNLimIuyEr7R5vKaBSsFj9FydUKq9KpBa5AGXIYMbIEqUisKPos4z5h5+7B8rKL7wEhlExeIy1WFNv8vLYwkX6VSoYgBm5ZfqoI7/+j4IqLqlFR3F5UeSd2nl0wbtzadyJZGAAoMmXmUcKJ4IKTvhdyV328OcuyHN5ag1OfooZsbcSj+Nwvh+OoBHcKGHyKuWAJ9SJrsZ2qhS/SC+PP3UVCH6c33UWgnNxS3U3Yn9FQNhPIlxnkpy3PtkIjlH6UHgFllCCWCQ05uOQs3bijiYSHt+onhOrcToVssXHBIMP7VkkVn+NqAgZW1ogDJMERwohjqqs2jc5X+ixA4kC2Fw11/WHVHF+GiXqZa919+3qwZBZrsQyukhTwexzAFHlOufZu6FnSqYJh51XgWB2imBmH8HoYC3mstcaP5joK8GtZjDhIuzc02Y5Zjnd6cb4yGx4hDTCL8ejlpX5FwEG1T3oCPW6/7QGbdOTfaoWHY=;SBUVjbwtq+kgSJungPqw2w=="
 ---
 

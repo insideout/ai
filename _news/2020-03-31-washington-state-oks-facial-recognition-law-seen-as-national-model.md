@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/washington-state-oks-facial-recogni
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Washington State OKs Facial Recognition Law Seen as National Model"
 
 related:
+  - title: "Washington state passes Microsoft-approved facial recognition laws"
+    excerpt: "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ..."
+    publishedDateTime: 2020-04-02T14:17:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png"
+        width: 796
+        height: 417
   - title: "Washington State Adopts Facial Recognition Rules Critics View as Too Loose"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed into law curbs on law enforcement use of facial recognition, becoming the first state in the United States with sweeping restrictions on a technology that civil rights activists say should be barred."
     publishedDateTime: 2020-03-31T21:28:00Z

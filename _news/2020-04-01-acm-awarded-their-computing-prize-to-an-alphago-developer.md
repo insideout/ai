@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-01T07:19:00Z
 webUrl: "https://analyticsindiamag.com/acm-awarded-their-computing-prize-to-an-alphago-developer/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -24,15 +24,15 @@ images:
     title: "ACM Awarded Their Computing Prize To An AlphaGo Developer"
 
 related:
-  - title: "ImmunityBio Combines Supercomputing Power With Microsoft Azure to Target Infection ‘Doorway’ of the Coronavirus"
-    excerpt: "Microsoft AI & Research. “With ImmunityBio we are working to speed the effort to find a treatment for this deadly virus that has affected every part of the globe.” Microsoft, collaborating with ImmunityBio’s engineers and scientists, quickly deployed a High Performance Compute cluster on Microsoft Azure cloud services. The cluster ..."
-    publishedDateTime: 2020-04-01T14:38:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/immunitybio-combines-supercomputing-power-with-microsoft-azure-to-target-infection-doorway-of-the-coronavirus/"
+  - title: "ACM Prize in Computing Awarded to AlphaGo Developer"
+    excerpt: "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized as a central figure in the growing and impactful area of deep reinforcement learning. Silver’s most highly publicized achievement was leading the ..."
+    publishedDateTime: 2020-04-01T15:00:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/acm-prize-in-computing-awarded-to-alphago-developer/"
     type: article
     provider:
       name: HPCwire
       domain: hpcwire.com
-    quality: 34
+    quality: 24
     images:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/coronavirus_shutterstock-1621031059_700x-405x228.jpg"
         width: 405

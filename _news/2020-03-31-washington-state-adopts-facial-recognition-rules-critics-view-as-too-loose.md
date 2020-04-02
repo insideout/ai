@@ -43,6 +43,21 @@ related:
       - url: "https://images.wsj.net/im-171101/social"
         width: 1280
         height: 640
+  - title: "Washington state passes Microsoft-approved facial recognition laws"
+    excerpt: "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ..."
+    publishedDateTime: 2020-04-02T14:17:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png"
+        width: 796
+        height: 417
   - title: "Microsoft Praises Washington State Stance on Facial Recognition"
     excerpt: "Microsoft has been asking governments to regulate facial recognition for the past two years. One U.S. state is finally listening. “Washington Governor Jay Inslee has signed landmark facial recognition legislation that the state legislature passed on March 12,” Microsoft president Brad Smith writes in one of the software giant’s corporate ..."
     publishedDateTime: 2020-04-01T12:06:00Z
