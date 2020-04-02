@@ -29,8 +29,8 @@ images:
 related:
   - title: "Artificial Intelligence Market to Witness a Pronounce Growth during 2020 to 2025"
     excerpt: "New York, April 02, 2020: The scope of the report includes a detailed study of Artificial Intelligence Market with"
-    publishedDateTime: 2020-04-02T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02?mod=mw_quote_news"
+    publishedDateTime: 2020-04-02T09:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02"
     type: article
     provider:
       name: MarketWatch

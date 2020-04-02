@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-31T14:58:38Z
 webUrl: "https://blogs.microsoft.com/on-the-issues/2020/03/31/washington-facial-recognition-legislation/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Finally, progress on regulating facial recognition"
 
 related:
+  - title: "Microsoft praises facial recognition regulation progress"
+    excerpt: "Brad Smith, the President of Microsoft, has praised steps taken in Washington State to regulate controversial facial recognition technologies, but the landscape still remains incredibly fragmented. Such issues would rarely bother the consumer today, but the same could have been said about a Facebook personality quiz in 2015. Like the proverbial ..."
+    publishedDateTime: 2020-04-02T10:12:00Z
+    webUrl: "https://telecoms.com/503470/microsoft-praises-facial-recognition-regulation-progress/"
+    type: article
+    provider:
+      name: Telecoms
+      domain: telecoms.com
+    quality: 54
+    images:
+      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
+        width: 300
+        height: 250
   - title: "First state to adopt facial recognition rules"
     excerpt: "Microsoft is hailing new legislation signed by Washington Governor Jay Inslee, calling it the \"first time a state or nation has passed a new law devoted exclusively to putting guardrails in place"
     publishedDateTime: 2020-04-01T08:52:00Z

@@ -65,6 +65,19 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
+  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
+    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
+    publishedDateTime: 2020-03-30T18:34:00Z
+    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 38
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
+        width: 1280
+        height: 720
   - title: "Fintech-Driven Scoring Uncovers How COVID-19 Impacts Your Investments"
     excerpt: "Israeli fintech company Innovesta has announced the launch of its COVID-19 Resilience Innodex ... investors find themselves scrambling to protect their holdings and form new investment strategies in treacherous market conditions. Based on Innovesta’s AI and natural language processing technology, CRI is a comprehensive score based on a ..."
     publishedDateTime: 2020-03-30T17:27:00Z

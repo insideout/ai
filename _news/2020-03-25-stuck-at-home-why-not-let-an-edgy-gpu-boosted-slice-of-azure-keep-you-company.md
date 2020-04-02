@@ -26,6 +26,6 @@ images:
     height: 667
     title: "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?"
 
-secured: "UwcvGxBe5yu8D9usVzDiC9rPjsojGDXisJ71nnEnmBOSZdfQeMrF4+qor8kYV2YsRWJ509r5qsK1rfzjLPBfixYwMHpXub8hr61XXOxNrZnr2BWMlE6PD+ghcawgQzEnV56M9BEy24lpXYbJWq6gPUdEpRIMNyPuLyaPToHLOKDkEcf3l1jUrkufg5+eblq/q5d+abHNH2a6fX+f2o3yo9IOhVMcxXaXAPPKFU4+/ktpKSA4bxVaImOYI71fzALT5y3xaXNcYub7uACSLIH15PDOeKy1iKbBwuZX90U8r1jC3DI9oGxzJTRZ7R+VssP7;Nz0w9pkVTbylj+vOoppBMQ=="
+secured: "liUrv9mxn7hCn+iPgR+EtPTzrS5rq29kgElgrfqPRgDTSG/j5gwfEsn/A1JgCppfntwUNrYSRYyt5k0+3OA7zbDX6MDGHIo3FXYf/CahiB3wq5dhLdz6zmVzVS8T9R4YhXeo8kANIU1NF1NOZJvOIgDoWHwtjwn59jtg4gFS8yYB2Oxf0RHwPLa/c8gLuBLjdUsNMiT2Tf2fZpn3H2tqavNRObnHgmO8yiiwAZmHXd+foG/LWUuGa3jym94kn95UBw78Nno5BFyh1HjmiMJNk4z/0HBEge06jJZy2kt+vHjVYIxLMKf59M/NTaTEqikUBSd/kpWLtVFJwydsh+FclX2qWX5iqrH39DVJCBANKYmBxQg26Bla6TMwjzQ343Qivau7gc9vlFNukMbklzEBolze4AADA5ijnWu7PD8Of4XB2JSGM/IG94HIebSvswBboXhCkZLwm7BtSzh/ervvDKlRew4YF6VXyDw7G0knLdc=;fcjvrUnhhchfqHKeavzznA=="
 ---
 

@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-02-new-5ghz-intel-chips-and-nvidia-rtx-super-gpus-power-massive-upgrade-cycle-for-gaming-laptops.md",
+      "title": "New 5GHz Intel chips and Nvidia RTX Super GPUs power massive upgrade cycle for gaming laptops",
+      "excerpt": "Joining Intel, Nvidia unveiled its newest graphics processors, including the RTX 2080 Super and RTX 2070, but also the cheaper RTX 2060 GPU that will power gaming laptops priced under $1,000. The new GPUs are based on Nvidia’s Turin architecture, which includes hardware RT Cores to process ray tracing and AI in real-time. Additionally ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2020/04/02/2020-gaming-laptops-10th-gen-intel-h-series-cpus-and-rtx-super-gpus/",
+      "ampWebUrl": "https://bgr.com/2020/04/02/2020-gaming-laptops-10th-gen-intel-h-series-cpus-and-rtx-super-gpus/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2020/04/02/2020-gaming-laptops-10th-gen-intel-h-series-cpus-and-rtx-super-gpus/amp/",
+      "publishedDateTime": "2020-04-02T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2020/04/intel-10th-gen-comet-lake-h-series.png",
+          "width": 1800,
+          "height": 1000,
+          "title": "New 5GHz Intel chips and Nvidia RTX Super GPUs power massive upgrade cycle for gaming laptops",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
       "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
       "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
@@ -1216,51 +1253,6 @@
           "width": 300,
           "height": 300,
           "title": "Precision Medicine pushes demand for HPC at the Edge: AI on the Fly ® Delivers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads.md",
-      "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
-      "excerpt": "Just this week, Intel demonstrated that the chips can be used to “teach” an AI model to distinguish among 10 different scents. “Pohoiki Springs enables our research partners to explore ways to accelerate workloads that run slowly today on conventional architectures, including high-performance computing systems,” said Intel neuromorphic ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/intel-debuts-pohoiki-springs-a-powerful-neuromorphic-research-system-for-ai-workloads/amp/",
-      "publishedDateTime": "2020-03-18T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/Loihi-close-up-e1584209140290.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel debuts Pohoiki Springs, a powerful neuromorphic research system for AI workloads",
           "attribution": null
         }
       ],

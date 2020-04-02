@@ -3,7 +3,7 @@ category: news
 title: "TransPerfect uses AI to enhance translation services"
 excerpt: "The service introduces intelligent translation quality alerts powered via AI, which route translation to expert human language review when cadence, flow, and terminological equivalencies approach standard deviation limits of target language representation. These new capabilities supplement and advance the company’s existing ISO-certified ..."
 publishedDateTime: 2020-03-27T15:02:00Z
-webUrl: "https://www.kmworld.com/Articles/News/News/TransPerfect-uses-AI-to-enhance-translation-services-139974.aspx"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=139974"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 594
     title: "TransPerfect uses AI to enhance translation services"
 
-secured: "Qcqk/oZYwFciaIK+cWVsklCLiMuSIMDpZB1lJvu+rrRg/3yezi4SF116I/g+kKvnSVYxirnu6gRLDWE7U9cSZVa4enCDLi6bhYADN8Tx8SocuaOmjOo+CO6llYmLGzVeQZyzzh5VGZ7r+ytG5igdW6uXdcZmFPmUI2c4cJT60Nu5fBQ++4H3b70OxLFj0VdGlZ0f3TvRcAdTE4CUpY9BrEG3J7vq3Mz6TvtfP+HVZA5P/TAAOhwMplQ626MAA6kMLSKk1qEyOeFOrjSzbH4PklNyGaSf7zqXl4HYWpiraPw8B7Bmwo8GPL6EZpW7cD2D;NmLwHNG08eujcw5oh7vGgw=="
+secured: "5aBwYk7vuxzWXWM8MnR/7mvm1X5v1jdnAlYxfJmUve+2XhrWlKFNjiEGlh3Tb/PZ9Erv1bjFOHKzkf47ZQXyo3GhqZ3X5AsGMUvbWl49DIw/hz7SGM+p0Hv5w/7BYc3HV1sroW+35E+oV9YeD04o9nv5I/9rqwiOPuwOHKibCZnZNGbUjXxPQLElTgHDrgpxCMYY9CmSd5/c/GUM4JIzulmfJEz4h0bLCtdFRGKCNagpWbOJXFgBQt2/PPe+AQh1rUd/iHPdC7JDIqe5TiRU5qroMhkp08YdvxyW71r7pIgasfUzoStlf7xklu3IGDKs;gEPlrvriqI+/xkoq22EVnw=="
 ---
 

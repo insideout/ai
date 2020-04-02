@@ -8,8 +8,8 @@ ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-i
 cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: GizChina
@@ -26,15 +26,6 @@ images:
     title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
 
 related:
-  - title: "Microsoft to Divest AnyVision Stake, End Face Recognition Investing"
-    excerpt: "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology."
-    publishedDateTime: 2020-03-30T04:51:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-03-27/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Houston Cardiologist Becomes the First in State to Use Ninety One Inc.’s Artificial Intelligence and Precision Medicine Platform"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Ninety One, Inc., an augmented intelligence company developing innovative software and data science ... exclusive partnerships with leading research and healthcare institutions in the United States, Europe, and Asia. Pursuing this mission with vigorous commitment and passion, while leveraging innovations in science ..."
     publishedDateTime: 2020-03-30T14:34:00Z
