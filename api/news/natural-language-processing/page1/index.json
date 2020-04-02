@@ -1000,6 +1000,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-19-natural-language-processing-things-you-need-to-know.md",
+      "title": "Natural Language Processing — Things you need to Know.",
+      "excerpt": "Specific applications of Artificial Intelligence include expert systems, Natural Language Processing (NLP), Speech recognition and machine vision. ML is a branch of artificial intelligence where ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/natural-language-processing-things-you-need-to-know-43eeb87da177",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/480/1*1h9L7znh-eIvyy0T7LAqJw.gif",
+          "width": 480,
+          "height": 366,
+          "title": "Natural Language Processing — Things you need to Know.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-alibaba-cloud-offers-ai-cloud-services-to-help-battle-covid-19-globally.md",
       "title": "Alibaba Cloud Offers AI, Cloud Services to Help Battle COVID-19 Globally",
       "excerpt": "Through video conferencing and real-time AI translation into 11 languages (Arabic, Bahasa, Chinese, English, French, Japanese, Russian, Spanish, Thai, Turkish, and Vietnamese), Alibaba Cloud aims to build a virtual community, inviting Chinese doctors to share their experiences and answer questions from global peers. From Alibaba DAMO Academy ...",
@@ -1237,43 +1282,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
-      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile ID News",
-        "domain": "mobileidworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

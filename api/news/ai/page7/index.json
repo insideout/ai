@@ -2,6 +2,251 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
+      "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+      "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "publishedDateTime": "2020-03-26T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design39-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-amds-processors-to-power-microsoft-azure-virtual-machines.md",
+      "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+      "excerpt": "AMD recently announced that its second generation EPYC processors and Radeon Instinct MI25 GPUs have been adopted by Microsoft’s MSFT Azure division to power its NVv4 virtual machines (VMs). AMD’s hardware will enable Azure to provide customers with a cloud based virtual desktop capable of handling memory and graphics intensive as well as high-performance computing workloads.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "publishedDateTime": "2020-03-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1371717012",
+          "width": 1024,
+          "height": 512,
+          "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions. Services segment to grow at a higher CAGR during the forecast period The ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-ibm-launches-data-based-tools-to-help-track-coronavirus-cases.md",
+      "title": "IBM Launches Data-Based Tools to Help Track Coronavirus Cases",
+      "excerpt": "The new offerings include an online dashboard, run on IBM’s public cloud, which analyses data from WHO and several national, state and local governments leveraging IBM Watson. Data will also be ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/ibm-launches-data-based-tools-to-help-track-coronavirus-cases-2020-03-26",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-launches-data-based-tools-to-help-track-coronavirus-cases-2020-03-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-launches-data-based-tools-to-help-track-coronavirus-cases-2020-03-26?amp",
+      "publishedDateTime": "2020-03-26T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1661594816",
+          "width": 1024,
+          "height": 512,
+          "title": "IBM Launches Data-Based Tools to Help Track Coronavirus Cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
+      "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
+      "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/",
+      "ampWebUrl": "https://electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/26/tesla-model-y-radar-heater-weather-proof-autopilot-self-driving/amp/",
+      "publishedDateTime": "2020-03-26T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/IMG_0440-1-e1579703019623.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 483,
+          "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
+      "title": "What an all-digital AI research conference looks like",
+      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "publishedDateTime": "2020-03-26T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": "What an all-digital AI research conference looks like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
       "title": "3 Healthcare Stocks to Buy for AI and Big Data",
       "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
@@ -1026,253 +1271,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-googles-ai-helps-robots-navigate-around-humans-in-offices.md",
-      "title": "Google’s AI helps robots navigate around humans in offices",
-      "excerpt": "“Dealing with noise in robot state estimation will be another interesting future direction.” Google isn’t the only tech giant pursuing autonomous robot navigation research. Facebook recently released a simulator — AI Habitat — that can train AI agents embodying things like a home robot to operate in environments meant to mimic real ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
-      "publishedDateTime": "2020-03-25T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI helps robots navigate around humans in offices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
-      "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-      "excerpt": "Further, protecting vulnerable individuals helps to protect the healthcare system, healthcare workers, first responders and other vital community resources from becoming overwhelmed The CV19 Index is being released through multiple channels and is available immediately at https://github.com/closedloop-ai/cv19index, on Amazon’s SageMaker ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200316005226/en/ClosedLoop.ai-Announces-Release-Free-Open-Source-AI-based",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200316005226/en/779842/23/ClosedLoop_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-wekaio-named-winner-in-2020-artificial-intelligence-excellence-awards.md",
-      "title": "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards",
-      "excerpt": "WekaFS has a clean sheet design that handles the demands of new emerging and converging workloads, including artificial intelligence (AI) and machine/deep learning (ML/DL ... paradigm-shifting technology that enables innovations in Autonomous Vehicles, Healthcare and Life Sciences, and FSI ( Financial Services Industry),” said Shailesh ...",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200325005451/en/WekaIO-Named-Winner-2020-Artificial-Intelligence-Excellence",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200325005451/en/665363/23/WEKA-LogoPMS_BlackGreen_NoTagline.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "WekaIO Named Winner in 2020 Artificial Intelligence Excellence Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-a-list-of-fintech-firms-providing-free-technology-during-the-coronavirus-crisis.md",
-      "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
-      "excerpt": "To help in these trying times, many fintech firms are extending free, discounted, or accelerated deployment offers.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/",
-      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/amp/",
-      "publishedDateTime": "2020-03-25T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77d942c7b02d000666dfb9%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically.md",
-      "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
-      "excerpt": "The AMA Journal of Ethics further lists some of the implications of AI and facial recognition technology, in terms of violating a user’s privacy. Informed consent is one such issue, with an increasing need for healthcare providers that utilize facial recognition to inform their patients about the potential uses of patient data. To quote the ...",
-      "heat": 105,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/03/25/facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-22-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-next-generation-of-ai-processors-featured-at-linley-spring-processor-conference.md",
-      "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
-      "excerpt": "The Linley Group Principal Analyst, Linley Gwennap, will present “The Next Generation of AI Processors.” “The virtual format allows us to deliver ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200325005079/en/Next-Generation-AI-Processors-Featured-Linley-Spring-Processor",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200325005079/en/708301/23/Linley_logo_lrg.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -25,6 +25,6 @@ images:
     height: 630
     title: "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic"
 
-secured: "sLjRY4S10Hfmo3cqpMOmohpVUzqiLo/vbn2Ss1UUtBHC/6aj1CYVj9aTGs8IthgPT9ntizkn9JUqJ9A/LA6hrKsj+CjdUV7GdZFENjbHWJNVxyLgh1hPVRo8k7FF/kVN/upmvRtoE7Wm3gBlAhT6gFKeBnQwNvvlGbC7kjTlTfutnQfp9VwCchzNG5CBXhj3tIfy4p3heY3RHIjFbSqRQi000l24uMCDvLIVdFiosiOBt1RcKK90wegNhlBjy+AeCINe7EeoCnBTmWGdEe9CfCgM6r0bo+E9C9LqavVKZYmgn1sjH2JK9xNBU2QYOJ7p;Q9Kt+6hfI4QGHojQPxx+DQ=="
+secured: "hCWQU6P3t46MH0H/BkSnwmjF6WN0MEyxdnEV7unVbZh528pCTAj4Q4s0d3dfIzXLTZccM08VxMwaLiwXJuYwZKWu9IqaVOoxfuIf+/5dH+ep4vd4uWH5cY7q6gn/0SI6a9HP+/wY3L0xQlcx7WFOtpLqeOS8P27SG+77NoNFjjmG3lG/am7csNVE3cK2zbdds5ZW0LN8sJmbl40BKx7Kg9KhtQFaVIpewAThJ1YkFS6HULmtvZsQSDYfk4mHT9r6U06SxJs6QM40wysd/Z/YWN3qxXkQK6j1rlQUMimeM/fqF/XiU891ZCG3uVrGq1oTz+WpSOGQ0jSOrZxLl//DyXNAjTLrWW32tgUnrliqnpQmosrmqIFBwEQ8XLH2TxvIVfFH+4mwCT7Dtp4JQSBCj19lKpcBLQ+J1HEsDWKyogI9JtI+NcWEj9+VG8h/h9oBS161OGuKN7af8bsfiqqLZug4amZZuUvngVfI7w0oY0Y=;xMOC+6d3wU2XCT9Xjrgd1A=="
 ---
 

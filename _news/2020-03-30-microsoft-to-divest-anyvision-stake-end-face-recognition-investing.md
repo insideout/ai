@@ -37,21 +37,6 @@ related:
       - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470"
         width: 640
         height: 428
-  - title: "Microsoft divests from Israeli facial-recognition startup"
-    excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn’t substantiate claims that the startup’s technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers ..."
-    publishedDateTime: 2020-03-28T21:42:00Z
-    webUrl: "https://www.pbs.org/newshour/world/microsoft-divests-from-israeli-facial-recognition-startup"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/world/microsoft-divests-from-israeli-facial-recognition-startup"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/microsoft-divests-from-israeli-facial-recognition-startup"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 44
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/05/2018-10-24T101456Z_1489333581_RC1318930250_RTRMADP_3_CHINA-SECURITY-1024x683.jpg"
-        width: 1024
-        height: 683
   - title: "Microsoft Divests from Facial-Recognition Startup"
     excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers to ..."
     publishedDateTime: 2020-04-01T15:29:00Z

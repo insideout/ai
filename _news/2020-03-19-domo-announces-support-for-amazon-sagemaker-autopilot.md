@@ -1,19 +1,21 @@
 ---
 category: news
 title: "Domo Announces Support for Amazon SageMaker Autopilot"
-excerpt: "including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot. Amazon SageMaker Autopilot is an ..."
+excerpt: "Domopalooza LIVE and On-Demand – Domo (NASDAQ:DOMO) announced today new capabilities in the Domo Business Cloud, including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot."
 publishedDateTime: 2020-03-19T20:05:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/19/2003701/0/en/Domo-Announces-Support-for-Amazon-SageMaker-Autopilot.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15611470"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "vxZB+QHQtMF1bs81UGNKFCR3BSUd5oZTlHSEUy27wwAzdKrIJiGTwuWvg4GseKA7gqW+U9/cGCEt1XaXjbCrBsn3pC9G0/rN8w0oPb4YlYytklKB3QDoVm2ijyrHMaxcC0+DEFl07a7yQrm3NHDRpFX/eSa1+NSYHEo8pgE1Hz4HegGyZfkQdypa1X6z5/7elbzscTaV7a/Ic/FrWRZ8/rvSJnPzTy95YIwJRzs4FIY61veIz9m6NLoh/lL8XRq9Q4Kk+6WmoLxLQeNyaBosESqV0vTmD1se3wzM03WR/s9R0JVu4Ffv7mZZ/Qncxshc;49wull+H7FVnVjCkcQlyjg=="
+secured: "IcmBD75b2D3f/QUu//ZSzqGMxkVqrLwb2Oj0ndwYs6cyIkmp+cS6wSXYUvhMSeJWuZSQADvgMqdR/34gHKvPSEX7FP5ptqB/sN5d5Mr470Xcr3Drr+6cAj8Y0qZi9DMyOKqo2//nnFOmlW9NjvqhKCHFOjSomF3sRj1Nw4KXfQ2KjM/AzxqXhAthtEdRJYYwwBYcAuitgUF9TnTzBo/W9iZaDqR/4633KlN6wO5aTFv6Sl4UlPRBkZqYAy9lMczNSfBFwVmo7OxPH5RziaaPxwxsp2gen1Opgr+oQlTvuABDg4p1BMpMYxjwfxGZ/mfR;Nw429t4V0OY7WkPSgHJfdg=="
 ---
 

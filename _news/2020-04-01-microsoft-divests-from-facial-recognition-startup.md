@@ -48,21 +48,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
-  - title: "Microsoft divests from Israeli facial-recognition startup"
-    excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn’t substantiate claims that the startup’s technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers ..."
-    publishedDateTime: 2020-03-28T21:42:00Z
-    webUrl: "https://www.pbs.org/newshour/world/microsoft-divests-from-israeli-facial-recognition-startup"
-    ampWebUrl: "https://www.pbs.org/newshour/amp/world/microsoft-divests-from-israeli-facial-recognition-startup"
-    cdnAmpWebUrl: "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/world/microsoft-divests-from-israeli-facial-recognition-startup"
-    type: article
-    provider:
-      name: PBS
-      domain: pbs.org
-    quality: 44
-    images:
-      - url: "https://d3i6fh83elv35t.cloudfront.net/static/2019/05/2018-10-24T101456Z_1489333581_RC1318930250_RTRMADP_3_CHINA-SECURITY-1024x683.jpg"
-        width: 1024
-        height: 683
 
 secured: "uaqFKJvsyQYmodU14Av9lozdfHTinuVzGaVZi+c2QvYKQ/TS2pI5Je9usRHSWeS+uGMllU1qw+HIV1Zfi2QWAgK5wBjsrW+pNGKMkEF5aIl++ZRpcu0WDL5qdRhrVrK9xwp3FUhgbdn782ppwdNxeA8LGTF5mderaqkKWuJJ2COQPUtbDo00gRIlfbo1tyZGeBzFPbDtNowVLtnRVKkJStFuHk051fkVXWzkaeYcqXI+qKUlcGAfywVdrKWuNEcPKP+3fKQzbTCxluXi/HIacBqMyPdglQHqs4EGYwJu1iz2UG8BhhG6H37K+Lea1npijTGGtzJQhfhJ1LiF/w3361x3KxFnD1+XZkL5hy3pWzdSsi1ReeRiKZkQPPWcCy8cVjWXMf6T70Hj50YXvQBVgc4oJuCdTjFrYJBjWr3s81MNdN3ueDdni53nAM4Wq/pYpdqzFFEdvz+n/aaOovxZ25zGaIhepu49YbCy9PxUFbM=;MhKQSa1mOTPFKlSZUM447Q=="
 ---

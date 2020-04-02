@@ -65,6 +65,15 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.8962%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1%2C$y_89/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/afb0ba2ba18677b2470e40260c9ca917665d8f90"
         width: 800
         height: 450
+  - title: "IBM trains 'Watson Assistant for Citizens' to answer COVID-19 queries"
+    excerpt: "With misinformation about novel coronavirus posing a major threat in fight against the pandemic, technology giant IBM on Thursday said it has trained its Artificial intelligence-powered virtual agent 'Watson Assistant for Citizens' to answer common queries about COVID-19. 'Watson Assistant for Citizens' leverages currently available data from ..."
+    publishedDateTime: 2020-04-02T15:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200402/3532819.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
   - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
     excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
     publishedDateTime: 2020-04-02T09:11:00Z
@@ -79,6 +88,6 @@ related:
         width: 1600
         height: 1000
 
-secured: "cEN/D4ZJusP+Du1Fz/RG1yNS1gD3cLo30lhy3MbLGWOeiyGdpAKSwfbd3xjmVs3GAC8/TLKY0IAW1TypG4YYiYNuuhyAGl1SDDLXtD2Nhap/zNFnSs/FmOwE7/JF9Rg21xD/w/3VJUvIw64clmOXTmx+MNo3ndbyme8n/a/b1zq87fTnnKkUXSRRxBfgjmWqMxNyzLAJ2yJBI2vCfOYhy8IJZVrJIhlHf4fvrUqcXONYxPS17nn7KADC6iYUOqfAlPbmeKwnEJko0cOvmJC9DkWJCbfraOKtRpKq6BFgSoXfFrdxqQV8TNp3HbKJpz62;U2dLXUPaAcs+wpAzFdaaAQ=="
+secured: "1A5litz+3oFla3Ne94zAu/NimvkqbMiecppFedMnTwnO4mXsuFYC7OE8giAtSbttdQTXxOZlxaRvIVLx/9gOZz1cYKe2T0o/oOTV9RFEB6KQKhKhmDBg9rxsnep4ToDXB6CndlUA3g60RrG9YozOndI9lIGka08oC09yg0/B4VT2aes6fLSraxAzKc/EpaPSyLS5TGT+y+kfJIU8Fxi0d7MJ3cfsvonnqT1MRKZ90biJNl2pm3upO45XEBNi2j9BW2Q3TRZ/LyJ7oE7wf2SCf3p8aJwnLSdSVPkoCLnT1Y0WI2UvkgSmaPstwXdX9uLZG0bNdjW7JA7Ew0LDfPgWcrAunKsf6cKNHYtP4+GyMMfsw7ah2QzevbfKGHWsn6wxAm1Ht/HGudAQrN4wtDDof6B+GpZ5WpCWIBmBpwJGu2ark5f4W9N1tKz0ne2jKA/cbVfZ5JcGbx7IlYBlVpeCo1PCfQlG9ulX8gvQF7lKLD0=;ZOa0hOOGnxRRrcO3fVr80w=="
 ---
 

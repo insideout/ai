@@ -78,6 +78,15 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.8962%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1%2C$y_89/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/afb0ba2ba18677b2470e40260c9ca917665d8f90"
         width: 800
         height: 450
+  - title: "IBM trains 'Watson Assistant for Citizens' to answer COVID-19 queries"
+    excerpt: "With misinformation about novel coronavirus posing a major threat in fight against the pandemic, technology giant IBM on Thursday said it has trained its Artificial intelligence-powered virtual agent 'Watson Assistant for Citizens' to answer common queries about COVID-19. 'Watson Assistant for Citizens' leverages currently available data from ..."
+    publishedDateTime: 2020-04-02T15:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200402/3532819.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
 
 secured: "VSA3B5ZcDzfHvoWWyX5p/RuojTidMciUTi/Fp719G68x4y/0mD31Nrh3VJI+jpICfetKYsHVP/47KMtBbVcqrBNyxkKC1O3H+ByEsTdOJNVaHn/N4azIiqxBcY290Drx70lCCdNQ8cm0kufoWbUy1o5XKfhsmRbSCdne1BWpauXX/SpiztyYKUysFo/E5ELzwJKvGEzqip4yoALvnQ4J84YOoLCeMKEhSg0eCccGO2ru965d/atlI8ClpNQ+awRBAFdijja+KZCXbZ/+qrPIfQ8VEASkouEEWdy0AnESHAu/w82LfoqWX6EHkr4h9lTVije/CbM6o6L5AE06noSr36CPUflwUYfRKHLH1/LmjGajPsPAEEhmCsB4wEJhTOUq+RK6K1D7iMjztqUsiQAr8CWzXYmQyG2SASxWNKlk4G08CNL9FCl0Vm2ZfqT8IYuV44eml8uqyLKc7ieGbwd81fiGk92E/ZeaQAZGak4wwVI=;0FPUGmyLRngiLciHONfr9g=="
 ---

@@ -2,6 +2,80 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
+      "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+      "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "publishedDateTime": "2020-03-20T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
+      "title": "Domo Announces Support for Amazon SageMaker Autopilot",
+      "excerpt": "Domopalooza LIVE and On-Demand – Domo (NASDAQ:DOMO) announced today new capabilities in the Domo Business Cloud, including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15611470",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470",
+      "publishedDateTime": "2020-03-19T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
       "title": "How Machine Learning Improves Banks’ Customer Experience",
       "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
@@ -1063,80 +1137,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-how-can-machine-learning-be-applied-to-game-development.md",
-      "title": "How can machine learning be applied to game development?",
-      "excerpt": "To that end, Hoffman-John's team has been working on machine learning to help address some common pain points and bottlenecks developers have. The team is composed primarily of game developers with a number of engineers in the mix to help apply some of Google's existing technology to game prototypes. Hoffman-John says they look at the work with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamesindustry.biz/articles/2020-03-16-how-can-machine-learning-be-applied-to-game-development",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Games Industry",
-        "domain": "gamesindustry.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.eurogamer.net/2020/articles/2020-03-16-19-40/ErinHoffmanJohn644.jpg",
-          "width": 885,
-          "height": 708,
-          "title": "How can machine learning be applied to game development?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-can-deep-learning-predict-coma-outcome.md",
-      "title": "Can Deep Learning Predict Coma Outcome?",
-      "excerpt": "This research is part of a growing body of literature and applications of AI into the healthcare system. For example, deep learning systems are currently used within medicine to classify certain types of injuries and interpreting X-ray images. Several other studies have noted the importance of using EEG data to complement clinical evaluation in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Deep-Learning-Predict-Coma-Outcome.aspx",
-      "publishedDateTime": "2020-03-16T20:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_500494666_31de6d7102654c25898e235271aed01a-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Can Deep Learning Predict Coma Outcome?",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

@@ -65,6 +65,15 @@ related:
       - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
         width: 600
         height: 338
+  - title: "IBM trains 'Watson Assistant for Citizens' to answer COVID-19 queries"
+    excerpt: "With misinformation about novel coronavirus posing a major threat in fight against the pandemic, technology giant IBM on Thursday said it has trained its Artificial intelligence-powered virtual agent 'Watson Assistant for Citizens' to answer common queries about COVID-19. 'Watson Assistant for Citizens' leverages currently available data from ..."
+    publishedDateTime: 2020-04-02T15:01:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200402/3532819.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 34
   - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
     excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
     publishedDateTime: 2020-04-02T09:11:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "OneTrust Launches Athena AI and Robotic Automation Engine"
-excerpt: "OneTrust, the most widely used technology platform to manage privacy, security, third-party risk, and trust, today launched OneTrust"
-publishedDateTime: 2020-04-02T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/onetrust-launches-athena-ai-and-robotic-automation-engine-301033608.html"
+excerpt: "OneTrust, the most widely used technology platform to manage privacy, security, third-party risk, and trust, today launched OneTrust Athena(TM), an AI and robotic automation"
+publishedDateTime: 2020-04-02T12:21:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/onetrust-launches-athena-ai-and-robotic-automation-engine/article_e971e5da-ef15-5d35-abc4-10733198e289.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/478210/OneTrust_Logo.jpg?p=facebook"
-    width: 2697
-    height: 1414
-    title: "OneTrust Launches Athena AI and Robotic Automation Engine"
-
-secured: "Fkys/+8DPhP+RDiM0l4Vy92UsJxGdhCNRaFFDOHd6X5+5yZkZyJo5r9QVgIvoYUKjxl8CYri7hAeG0axeg8LsdjJuEhdOUTkbHXc1IQUE+KZ+5pRPohZpdQiXfg+amhhvSGx25s3l7D0w7s385Sre2ZlWekN09V6EeakKqrs7t/sdojzyHb8YZTWJ3NveSCOp+FDOKMHDgpF0HY4RAsFlxROn+Fd1wb67yyZHWsgwutrXDcEgpreiiPlGavrGa79x9OREMtn8PmX7RuqVWrnas/+nXKAkSqIEXWwVQQGxH3rzKn2NCaRJWIr1Y4FqmCR;1tXjGnwL6sP8HepanMbIAA=="
+secured: "i4DFKYl8FhdMccXG1tugc81VeMc+F6rSd96636vzKWKmL425y2S+quiwn7pUbAJ7JeUAQ3hqg77kEz5+LHZhpDEukoYdZS71t+x+/cKeOzeEoSqf42AggCFnlDB2LUPBCzkIJyUrAAyRHr58mD7jR9TqMCfEmjXJgTZeXkxYyVZzHNrjevqQ2U9RiWZrda+a8kILj6tbXNZs5kaofUNJkQvcoCPgEOsdMkryStwipVnBTwgFJ6wpyjUglIxfTn51UIF1mUwKEojqeLwCh8YZ9xlDJdF8gGo2IpjUBPWiPbf9DygPaHwkRVQx+jbflzEdQsLstpmmJW/dCygrbQxJKdZtzPiA6A1H4SnZmRsQ06RzYngLTu7n9gHcfGQZkriqDM/qILUT7G+8YPuZpkcDAo6euXMn4MMR02kvwySlIwchyRMvA/aOTwayjJmwi4Qqay6zKx3Cj9jQ5tnRZA7DggazTtV6xPSkXIaoMio218M=;YrN8qFkUfgEVa4IkrdCnYQ=="
 ---
 

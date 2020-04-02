@@ -2,6 +2,225 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
+      "title": "Distributed training with Azure Machine Learning",
+      "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Distributed training with Azure Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-10-business-functions-that-are-ready-to-use-artificial-intelligence.md",
+      "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
+      "excerpt": "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-03-29T21:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81761ea1a0ef0007d89a39%2F0x0.jpg%3FcropX1%3D406%26cropX2%3D2635%26cropY1%3D0%26cropY2%3D1254",
+          "width": 1200,
+          "height": 675,
+          "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-star-trek-voyager-gets-an-unofficial-4k-remaster-thanks-to-ai.md",
+      "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
+      "excerpt": "You won't forget that the show was made for tube TVs given the aspect ratio, but the AI is surprisingly effective -- it produces something you probably wouldn't mind watching on an idle afternoon if you're a Star Trek devotee. The effort is time-consuming at about six hours for an episode, and the necessary software is both expensive and tricky ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-29-star-trek-voyager-4k-unofficial-ai-remaster.html",
+      "publishedDateTime": "2020-03-29T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2917%252C1945%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252F58b51930-7213-11ea-baff-d5511b899659%26client%3Da1acac3e1b3290917d92%26signature%3Dd228aae84390dea235728c38be873d772c46b03a&client=amp-blogside-v2&signature=e5e99794ff3100e08542506b05337f770a1b003d",
+          "width": 600,
+          "height": 350,
+          "title": "'Star Trek: Voyager' gets an unofficial 4K remaster thanks to AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-how-artificial-intelligence-is-helping-fight-the-covid-19-pandemic.md",
+      "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+      "excerpt": "Related: We're In This Together: Business Resources, Offers, And More For MENA Entrepreneurs To Get Through The Coronavirus Pandemic As research details emerge, the data pool grows exponentially, beyond the capacity of human intelligence alone to handle. Artificial intelligence (AI) is adept at identifying patterns from big data, and this piece ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348368",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348368",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348368",
+      "publishedDateTime": "2020-03-29T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20180508043336-shutterstock-618326639.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
+      "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+      "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
+          "width": 304,
+          "height": 430,
+          "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal.md",
       "title": "NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal",
       "excerpt": "DLSS 2.0 improves upon the original release in just about every way. Game developers are still required to implement the technology into their games, but they no longer have to provide game-specific assets to NVIDIA to train the AI model.",
@@ -95,7 +314,7 @@
       "path": "_news/2020-03-29-microsoft-divests-from-israeli-facial-recognition-firm-anyvision.md",
       "title": "Microsoft divests from Israeli facial recognition firm AnyVision",
       "excerpt": "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ...",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828",
@@ -1076,230 +1295,6 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft’s AI determines whether statements about video clips are true",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
-      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "publishedDateTime": "2020-03-27T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden.md",
-      "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-      "excerpt": "A University of California, Berkeley robotics lab is developing AI systems for polyculture gardening as part of AlphaGarden ... and we’re basically trying to monitor the state of the garden every single day so that we can see how it evolves, and then start to understand what the effect of actions are,” Goldberg said. AlphaGarden also ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "publishedDateTime": "2020-03-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/alphagarden.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage.md",
-      "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-      "excerpt": "SaaS is helping manufacturers and trucking companies save money and boost efficiencies by making the supply chain easier to manage and more transparent. Until recently, company executives have chalked up the cost and headaches of managing the supply chain as an unavoidable cost of doing business. Walmart started to change this trend several ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "publishedDateTime": "2020-03-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/10/14d74bfd-5f87-4518-82bc-b0ace8aa23cf/thumbnail/1200x675/3286603a2fa4dfecf28b20f2988dfc29/20200110-ibm-jason-teena.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent.md",
-      "title": "AI Weekly: Coronavirus prompts call to service for ML talent",
-      "excerpt": "launched the C3.ai Digital Transformation Institute and issued a call for AI techniques to mitigate pandemic fallout, with up to $5.8 million in prizes. Last weekend, we saw supercomputer companies and major cloud providers like AWS, Microsoft’s Azure, and Google Cloud Platform join a consortium to ensure coronavirus researchers don’t ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/ai-weekly-coronavirus-prompts-call-to-service-for-ml-talent/amp/",
-      "publishedDateTime": "2020-03-27T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Weekly: Coronavirus prompts call to service for ML talent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy.md",
-      "title": "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy",
-      "excerpt": "Huiying Medical, a medical devices company based in Huizhou, China, claims to have developed an AI imaging solution that uses CT chest scans to detect the presence of COVID-19. The company asserts that it might be useful in regions of the world without access to reverse transcription-polymerase chain reaction (RT-PCR), the standard testing ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/huiying-medical-claims-its-ai-can-detect-coronavirus-from-ct-scans-with-96-accuracy/amp/",
-      "publishedDateTime": "2020-03-27T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Huiying Medical claims its AI can detect coronavirus from CT scans with 96% accuracy",
           "attribution": null
         }
       ],
