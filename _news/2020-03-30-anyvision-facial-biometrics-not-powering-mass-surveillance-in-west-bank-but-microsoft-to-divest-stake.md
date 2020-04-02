@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-30T15:18:00Z
 webUrl: "https://www.biometricupdate.com/202003/anyvision-facial-biometrics-not-powering-mass-surveillance-in-west-bank-but-microsoft-to-divest-stake"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,58 @@ images:
     width: 2000
     height: 1001
     title: "AnyVision facial biometrics not powering mass surveillance in West Bank but Microsoft to divest stake"
+
+related:
+  - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
+    excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
+    publishedDateTime: 2020-03-30T19:07:00Z
+    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 86
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+  - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
+    excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
+    publishedDateTime: 2020-03-29T21:32:00Z
+    webUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/"
+    ampWebUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
+        width: 1024
+        height: 682
+  - title: "Microsoft will no longer invest in facial recognition technologies"
+    excerpt: "At a time when many tech companies are pouring money into facial recognition research, Microsoft is selling off its investments into the technology. The company has announced it is divesting its shares in AnyVision, an Israeli facial recognition company alleged to be contributing to mass surveillance in the West Bank. A recent audit found that ..."
+    publishedDateTime: 2020-03-29T15:30:00Z
+    webUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/"
+    ampWebUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 69
+  - title: "Fintech-Driven Scoring Uncovers How COVID-19 Impacts Your Investments"
+    excerpt: "Israeli fintech company Innovesta has announced the launch of its COVID-19 Resilience Innodex ... investors find themselves scrambling to protect their holdings and form new investment strategies in treacherous market conditions. Based on Innovesta’s AI and natural language processing technology, CRI is a comprehensive score based on a ..."
+    publishedDateTime: 2020-03-30T17:27:00Z
+    webUrl: "https://www.fa-mag.com/news/fintech-driven-scoring-uncovers-how-covid-19-impacts-your-investments-54912.html"
+    type: article
+    provider:
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 4
 
 secured: "f1fPFBLpAI3z61gekCejEIVNkaj5Q73Kw1f+G36BuTNQSxIbhNCT0n9uK9Q+zMnHFA2LxdDxd7pSmIzCWfdSGZWCgvzCDqnusutgMv86mN9og1ecRtF05XHCFvso/XpTxr26u2Qdf06FkK2qwZzeBqTdq9RB7rofgFyF7xoqyLATyb0CpzlPQIpE1A6yKFpiEDHileBsxhOW/hUYcw1HadL8llWNqeLrAu1bXZXkHl8LVvYP/cYOZbGjTBV/AyOcch11+Ldvd8PZv7ae9bS7gI4z+7PNJADxm+4Ox6p9TK16oU5jE0PA8+ViBtsGVzrm;UTylyseI8im7qWlOGAzH3Q=="
 ---

@@ -24,77 +24,77 @@ images:
     title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
 
 related:
-  - title: "Microsoft pulls its smaller investments in facial recognition tech"
-    excerpt: "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ..."
-    publishedDateTime: 2020-03-28T16:25:00Z
-    webUrl: "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
+  - title: "Microsoft pulls out of facial recognition startup AnyVision"
+    excerpt: "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,"
+    publishedDateTime: 2020-03-28T17:53:00Z
+    webUrl: "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
+      name: CNET
+      domain: cnet.com
     quality: 89
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21"
-        width: 600
-        height: 350
-  - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
-    excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
-    publishedDateTime: 2020-03-30T19:07:00Z
-    webUrl: "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
-    ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
-    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
+      - url: "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg"
+        width: 756
+        height: 567
+  - title: "Microsoft: Here's why we're withdrawing our stake in facial-recognition startup AnyVision"
+    excerpt: "Microsoft's venture group M12 has divested its minority stake in AnyVision, an Israeli facial-recognition startup, and says it won't make any further minority investments in companies that sell the technology. AnyVision hit headlines last year over an NBC report in October and earlier Haaretz coverage alleging its technology was being used ..."
+    publishedDateTime: 2020-03-30T13:31:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 86
+      name: ZDNet
+      domain: zdnet.com
+    quality: 65
     images:
-      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize"
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/11/11/d3af5161-14a8-4356-9feb-76346a4bd0cb/thumbnail/1200x675/2ffaf51a1bdfb4c8c3d70bdb244477cb/facial-recognition-could-be-most-invasiv-5dc16b0da99ca30001278b78-1-nov-11-2019-15-39-03-poster.jpg"
         width: 1200
-        height: 800
-  - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
-    excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
-    publishedDateTime: 2020-03-29T21:32:00Z
-    webUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
+        height: 675
+  - title: "Microsoft divests from Israeli facial recognition firm AnyVision"
+    excerpt: "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ..."
+    publishedDateTime: 2020-03-29T15:39:00Z
+    webUrl: "https://www.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828"
+    ampWebUrl: "https://m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "Microsoft will no longer invest in facial recognition technologies"
-    excerpt: "At a time when many tech companies are pouring money into facial recognition research, Microsoft is selling off its investments into the technology. The company has announced it is divesting its shares in AnyVision, an Israeli facial recognition company alleged to be contributing to mass surveillance in the West Bank. A recent audit found that ..."
-    publishedDateTime: 2020-03-29T15:30:00Z
-    webUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/"
-    ampWebUrl: "https://www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/web/microsoft-facial-recognition-anyvision-divestment/?amp"
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470"
+        width: 640
+        height: 428
+  - title: "Microsoft to sell stake in facial recognition start-up AnyVision"
+    excerpt: "Microsoft will sell its stake in AnyVision, an Israeli facial recognition start-up, and said it no longer would make minority investments in companies that sell the controversial technology. The decision marks a policy change for the Redmond, Washington-based software maker, which has aimed to shape how the technology industry approaches facial ..."
+    publishedDateTime: 2020-03-29T09:16:00Z
+    webUrl: "https://www.arnnet.com.au/article/672289/microsoft-sell-stake-facial-recognition-start-up-anyvision/"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 69
-  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
-    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
-    publishedDateTime: 2020-03-30T22:25:00Z
-    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
-    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 53
+      name: ARN
+      domain: arnnet.com.au
+    quality: 39
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
-        width: 1000
-        height: 667
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/biometrics_facial_recognition.jpg"
+        width: 670
+        height: 446
+  - title: "Microsoft Divests from Facial-Recognition Startup"
+    excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers to ..."
+    publishedDateTime: 2020-04-01T15:29:00Z
+    webUrl: "https://www.manufacturing.net/technology/news/21125228/microsoft-divests-from-israeli-facialrecognition-startup"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 24
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/all/image/2020/03/16x9/iStock_1137809049.5e820f4264afd.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
 
 secured: "OWO/ZnLxM9xhgr9N7Zx37mDhBXd3CYz/RP4yiyLnB2ehATGZ7+Ms3V2TYqfrkIskhN4rV2IMkufoXl+tQGTwkI28xAmrFvpuJvl/ytFVHJw+81aIo+1zaTyr29NSyXM4CwkthKJ9E6Pdb9TJy66hLXsCFesYafcYS7vX8YJSoNNlqUsmRPDllrrqIfqY1MiZdN92NuGqMGQ6GNDSrkfq9zOMbgn6tEXOngvhAtF9rI0TklGq9drN2uxO6ghNrBfbZXJzr+JH81qxEHVZqy2fyIzWD7ixZx5iM5A3JPaJ5dD1UtnR9bNKS/qhJ20OdlgUB9zExDFMQ7ogQb5RUMjzXAswFWQOs3vchTxEcW4gEIKQDAUPh5Dp7adbEi0g4y2ktievwLyAl2fSD7dgBC4CKbMb37dg5nM3VvwTa+8EP3XwYUuLfgtf5CcJMxuKKzk2+yWRt2orPGHw1TYg3iTX2O20ZNKQN5sbWKPwtdB1c24=;lH5f88FHoLNgTegtnijsng=="
 ---

@@ -40,18 +40,29 @@ related:
         width: 1200
         height: 675
   - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-    excerpt: "Available for no charge for at least 90 days and available to our client's citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
+    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California,"
     publishedDateTime: 2020-04-02T04:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 17
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+  - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
+    excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
+    publishedDateTime: 2020-04-02T09:11:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-launches-watson-assistant-for-citizens-to-deliver-fast-accurate-covid-19-information/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
     images:
-      - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
-        width: 1650
-        height: 864
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/IBM-Launches-Watson-Assistant-For-Citizens-To-Deliver-Fast-Accurate-COVID-19-Information.jpg"
+        width: 1600
+        height: 1000
 
 secured: "wjDtIz+i8Vn/yvQITvTcmvDWu46GFwOR+Qm+p4l9Re1d4Ak0ZSdu5hy9goaEqjd4Xw1hhyc33KcA6bmzDYpnXY0/1jqDNxbv+juNMsrPDq/V1DZ+coyDV832V4KOhdELvCz0kSiDoqls3nYbBGS1W8yALN2s3w0K1lDLQ8l4YH2AulVueh0Q0DmAxX3b6uhgjxIhi8eoklsdJIVAwnazCtGRAI3zLkwwOXfYff229Dka+cNEsdOsx1oq5E/tpS0GI4JqDMqLSD2f1hUNd2Hp2ppC86my+oa7XQZvPCL4rTiRdZFf4oODy1yKLDejtfpVpOdlQ0x/PNOSRkaVJlH1DbmUeJl3RZOTrBs/FeJzgn9kpRMjwQQhp/Uqf3/ZHr1VYgah62JtIC4kz8UO1dWI6TCh9ko2TViUZzw7gziZhPZqxM7XuoRH6nAyj2wFC2dBviiYgFWpr/GJqvoOajgb95Qj7D9anzi6kM99WZWgu+k=;ei2etV/APtFKJ5bD8YIXvw=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-30T14:34:00Z
 webUrl: "https://www.businesswire.com/news/home/20200330005468/en/Houston-Cardiologist-State-Inc.’s-Artificial-Intelligence-Precision"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,32 @@ images:
     width: 600
     height: 300
     title: "Houston Cardiologist Becomes the First in State to Use Ninety One Inc.’s Artificial Intelligence and Precision Medicine Platform"
+
+related:
+  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
+    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
+    publishedDateTime: 2020-03-30T22:25:00Z
+    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
+    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    type: article
+    provider:
+      name: GizChina
+      domain: gizchina.com
+    quality: 53
+    images:
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
+        width: 1000
+        height: 667
+  - title: "Microsoft to Divest AnyVision Stake, End Face Recognition Investing"
+    excerpt: "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology."
+    publishedDateTime: 2020-03-30T04:51:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-03-27/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "CbbyJGlV5WpCSEIH/b1fdlvJYSh3NhuO3AgqJgSzU4f4AW3DE73IiGzAFCIBLsoiMZJJ4dU87wtZc1ew5MSu4cgCia+UCT+IOjYSxMWdZnUvVuL+Xjkqp4fnicRe3aFWZGrrAW8ATNS7Q2kowmB3TgbG2X0iyfDCj95HQ3W6Ud7F1CrCElvASf4JmINvuoeAvYUb5/LpKPAADoI9c+8TbkHEqsGqkFtwXffQV2CwUECITsaYIXijbHLkUVzQpl6Ughepw1ypeHK3T4yBdMsQi8p8tBV2SqyLgo7E2trS2WWZF3qoFfIQG9ogEReth8vJ;g1A7Tfb7tNALqi2S9gvypQ=="
 ---

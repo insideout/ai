@@ -30,21 +30,6 @@ images:
     title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
 
 related:
-  - title: "Microsoft pulls its smaller investments in facial recognition tech"
-    excerpt: "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ..."
-    publishedDateTime: 2020-03-28T16:25:00Z
-    webUrl: "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21"
-        width: 600
-        height: 350
   - title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
     excerpt: "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ..."
     publishedDateTime: 2020-03-30T19:07:00Z
@@ -71,34 +56,28 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
-    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
-    publishedDateTime: 2020-03-30T22:25:00Z
-    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
-    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+  - title: "AnyVision facial biometrics not powering mass surveillance in West Bank but Microsoft to divest stake"
+    excerpt: "Microsoft is divesting its stake in AnyVision, due to a change in its investment policy and despite an audit finding that the company’s biometric facial recognition technology is not deployed to a mass surveillance system in the West Bank. AnyVision Chief Commercial Officer Max Constant told Biometric Update in an email in late-2019 that the ..."
+    publishedDateTime: 2020-03-30T15:18:00Z
+    webUrl: "https://www.biometricupdate.com/202003/anyvision-facial-biometrics-not-powering-mass-surveillance-in-west-bank-but-microsoft-to-divest-stake"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 53
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 9
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
-        width: 1000
-        height: 667
-  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
-    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
-    publishedDateTime: 2020-03-30T18:34:00Z
-    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
+        width: 2000
+        height: 1001
+  - title: "Fintech-Driven Scoring Uncovers How COVID-19 Impacts Your Investments"
+    excerpt: "Israeli fintech company Innovesta has announced the launch of its COVID-19 Resilience Innodex ... investors find themselves scrambling to protect their holdings and form new investment strategies in treacherous market conditions. Based on Innovesta’s AI and natural language processing technology, CRI is a comprehensive score based on a ..."
+    publishedDateTime: 2020-03-30T17:27:00Z
+    webUrl: "https://www.fa-mag.com/news/fintech-driven-scoring-uncovers-how-covid-19-impacts-your-investments-54912.html"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 38
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
-        width: 1280
-        height: 720
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 4
 
 secured: "i97JrZZzQ17QXDIhVb5GSKYOywWKkMbzpLxhF/5o3wn3lSNXVe7GgnS/hXj99f9syeBI6fwgfM4DQRiHx8/OnGIdpaZtazU8c9GNO2ZYjWmyq6i5fc8p8P+G5d3LWA5m95oHa98RDCzl36bVQM1D8AEC7QMvsGIC95J5asZ0RxLFvB+gj8pVlh9KOkEEm+1BkMvCzqZt5JNEUHFpNv17wENNq20IdbFxyOuvJJCKeibHmumEPKJO8HbUqbK2kTnb/jdfMKf2xjW9lWaJiLlmMeQyP+zdME3s8IfUxlPtxlT4LAudEyMfsr4w29Cz5/Tp6PykBC1aM5I4pe0UEHtE53mMb4JjBhOVajxd3w68e7LH/md4I+kMHGJotA2g5fzMCMxbMFYRJ1diwo7ZxzVreBR/1U0iEdNEnvBDcvhVeRGYusYf6og+3Uzaw2O3Xej/fCutSRJ/qefVPz437EVAJ2MOjwDL20wC+D7WNCw2ja4=;UZW6mJjCmg123ZCmydwYVg=="
 ---

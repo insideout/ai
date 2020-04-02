@@ -183,6 +183,88 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies.md",
+      "title": "Microsoft stops its investment in AnyVision and other facial recognition companies",
+      "excerpt": "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/",
+      "ampWebUrl": "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/",
+      "publishedDateTime": "2020-03-30T15:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Microsoft stops its investment in AnyVision and other facial recognition companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "publishedDateTime": "2020-03-30T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
       "title": "Huawei open-sources MindSpore, a framework for AI app development",
       "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
@@ -234,7 +316,7 @@
       "path": "_news/2020-03-28-microsoft-pulls-out-of-facial-recognition-startup-anyvision.md",
       "title": "Microsoft pulls out of facial recognition startup AnyVision",
       "excerpt": "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,",
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
@@ -1180,80 +1262,6 @@
           "width": 510,
           "height": 300,
           "title": "Computer Vision and Image Analysis online course offered by Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
-      "title": "With painted faces, artists fight facial recognition tech",
-      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
-      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
-      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
-      "publishedDateTime": "2020-03-17T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": "With painted faces, artists fight facial recognition tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ice-officials-running-unchecked-facial-recognition-searches-on-maryland-drivers.md",
-      "title": "ICE officials running unchecked facial recognition searches on Maryland drivers",
-      "excerpt": "US Immigration and Customs Enforcement (ICE) has been using facial-recognition software to search through Maryland’s state database of registered drivers and hunt down undocumented immigrants without seeking state or court approval. The data for driver’s licenses is collected by the Maryland Motor Vehicle Administration (MVA). The software ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsws.org/en/articles/2020/03/17/icem-m17.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "World Socialist Web Site",
-        "domain": "wsws.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wsws.org/img/open-graph-icon.png",
-          "width": 1500,
-          "height": 785,
-          "title": "ICE officials running unchecked facial recognition searches on Maryland drivers",
           "attribution": null
         }
       ],

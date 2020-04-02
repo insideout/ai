@@ -82,6 +82,19 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/biometrics_facial_recognition.jpg"
         width: 670
         height: 446
+  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
+    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
+    publishedDateTime: 2020-03-30T18:34:00Z
+    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+    type: article
+    provider:
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 38
+    images:
+      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
+        width: 1280
+        height: 720
 
 secured: "uaqFKJvsyQYmodU14Av9lozdfHTinuVzGaVZi+c2QvYKQ/TS2pI5Je9usRHSWeS+uGMllU1qw+HIV1Zfi2QWAgK5wBjsrW+pNGKMkEF5aIl++ZRpcu0WDL5qdRhrVrK9xwp3FUhgbdn782ppwdNxeA8LGTF5mderaqkKWuJJ2COQPUtbDo00gRIlfbo1tyZGeBzFPbDtNowVLtnRVKkJStFuHk051fkVXWzkaeYcqXI+qKUlcGAfywVdrKWuNEcPKP+3fKQzbTCxluXi/HIacBqMyPdglQHqs4EGYwJu1iz2UG8BhhG6H37K+Lea1npijTGGtzJQhfhJ1LiF/w3361x3KxFnD1+XZkL5hy3pWzdSsi1ReeRiKZkQPPWcCy8cVjWXMf6T70Hj50YXvQBVgc4oJuCdTjFrYJBjWr3s81MNdN3ueDdni53nAM4Wq/pYpdqzFFEdvz+n/aaOovxZ25zGaIhepu49YbCy9PxUFbM=;MhKQSa1mOTPFKlSZUM447Q=="
 ---

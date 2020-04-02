@@ -1,27 +1,27 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "Available for no charge for at least 90 days and available to our client's citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
+excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California,"
 publishedDateTime: 2020-04-02T04:01:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
 type: article
-quality: 17
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Natural Language Processing
+  - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
-    width: 1650
-    height: 864
-    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 
 related:
   - title: "IBM forms Watson Assistant for Citizens to handle COVID-19 queries"
@@ -52,7 +52,20 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.8962%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1%2C$y_89/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/afb0ba2ba18677b2470e40260c9ca917665d8f90"
         width: 800
         height: 450
+  - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
+    excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
+    publishedDateTime: 2020-04-02T09:11:00Z
+    webUrl: "https://analyticsindiamag.com/ibm-launches-watson-assistant-for-citizens-to-deliver-fast-accurate-covid-19-information/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 29
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/IBM-Launches-Watson-Assistant-For-Citizens-To-Deliver-Fast-Accurate-COVID-19-Information.jpg"
+        width: 1600
+        height: 1000
 
-secured: "8lkYBbds7AC36xR34oGkh5ObCdNOF6VhEHAD1xrpk75vc+2p+UFFbbGSTtDa5XRiRNxRMlGp5P+zQ2/URBlMWdJYrtjLWQnHobaMMxwip4zuKckFqwLGSY7DTsknT0tqMQxrrO3T/VMnFFCWPTSlmKfLi0z1Ck7OhnaWWD+EQadrLjFt50SAsO9Ag5vKGVz7SBDHHEBG0mkJEh86PapdNfHaiScf2i+saZ0nEBqRYTmNJ1L9EEYZzcMz2Jyp6r9SoiesIXF05deNmnMrQIrCIERfk7M2mhYfCL2AMNM7MhS8TMebVEHjIe1rNptPSoCe;bt2KWmrABsRsUvFXbloZhQ=="
+secured: "nTBoMKX8nPJeY/eGS+GY5eu8N3YJ650g/xmrpGDvAyMIEilJi1Ov8MLrREumU2qxTh7wupHwMS3YS1YCrBaW/LVJwdKzsqDBt/Veq16R4Pop75R3Jrzrli30qx57uVutq8yu6d+4Ud7erSfBIqKkfQLYD7aqBWTprKYk/MGt/kCpC9Wntz3fnUzEpQGFn3GDcF9y5Gbnj979pf8OJfJJ+vIPUH3OZtESPOcPqd4U9SOP752abRNIWF8VlUWYfIHOtiTBHTYeWIpXNOZaC5rxAuanv7I3fa7rswzoxYJGkGD7CON6qyimnlqU9FfaOKEbKfRMu+c9auSyG1XUuU+BG1fNB3I/gd6iLrr2gq/91S5Rx/yfBpIlP+bRTXTUzBYXA/1SJI1SAg5+kBl1mOg2gg9P6HThqWEfCy9THpIZ9b86w4uF8m26foweOKlJQZPbmG1XZUVfmbYbozLapDD1EwTg7AzJTvaLCNE9woI3g68=;0pKeylVEVo/GeqSaoT/49A=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-long
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 type: article
 quality: 86
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: The Motley Fool
@@ -30,21 +30,6 @@ images:
     title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
 
 related:
-  - title: "Microsoft pulls its smaller investments in facial recognition tech"
-    excerpt: "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ..."
-    publishedDateTime: 2020-03-28T16:25:00Z
-    webUrl: "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    ampWebUrl: "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 89
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21"
-        width: 600
-        height: 350
   - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
     excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
     publishedDateTime: 2020-03-29T21:32:00Z
@@ -71,34 +56,28 @@ related:
       name: Digital Trends
       domain: digitaltrends.com
     quality: 69
-  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
-    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
-    publishedDateTime: 2020-03-30T22:25:00Z
-    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
-    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+  - title: "AnyVision facial biometrics not powering mass surveillance in West Bank but Microsoft to divest stake"
+    excerpt: "Microsoft is divesting its stake in AnyVision, due to a change in its investment policy and despite an audit finding that the company’s biometric facial recognition technology is not deployed to a mass surveillance system in the West Bank. AnyVision Chief Commercial Officer Max Constant told Biometric Update in an email in late-2019 that the ..."
+    publishedDateTime: 2020-03-30T15:18:00Z
+    webUrl: "https://www.biometricupdate.com/202003/anyvision-facial-biometrics-not-powering-mass-surveillance-in-west-bank-but-microsoft-to-divest-stake"
     type: article
     provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 53
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 9
     images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
-        width: 1000
-        height: 667
-  - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
-    excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
-    publishedDateTime: 2020-03-30T18:34:00Z
-    webUrl: "https://winbuzzer.com/2020/03/30/microsoft-m12-removes-investment-in-facial-recognition-startup-anyvision-xcxwbn/"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
+        width: 2000
+        height: 1001
+  - title: "Fintech-Driven Scoring Uncovers How COVID-19 Impacts Your Investments"
+    excerpt: "Israeli fintech company Innovesta has announced the launch of its COVID-19 Resilience Innodex ... investors find themselves scrambling to protect their holdings and form new investment strategies in treacherous market conditions. Based on Innovesta’s AI and natural language processing technology, CRI is a comprehensive score based on a ..."
+    publishedDateTime: 2020-03-30T17:27:00Z
+    webUrl: "https://www.fa-mag.com/news/fintech-driven-scoring-uncovers-how-covid-19-impacts-your-investments-54912.html"
     type: article
     provider:
-      name: winbuzzer.com
-      domain: winbuzzer.com
-    quality: 38
-    images:
-      - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
-        width: 1280
-        height: 720
+      name: Financial Advisor
+      domain: fa-mag.com
+    quality: 4
 
 secured: "r68Vpxp6jqycHtS2mOFk/nHQQyCxhDdaiOCtd6oqIXJEvvPviNKlOE2AvKyfY4jGpy8Vd8BSN7fDXNv5Ay/oz4PFh/+7Sl99cjq1CaDLeTzIzpqmXA9I5u8CRz7jhf7cS6rc6VsJ+a7Cbsr0dM1USK4lfZPTDt/f6sYAKbZll6G7RidglznDhqYZVfFZcJwneFA5Ys4oNeah/9ieYNvi8Aw+DROkqPQnyqkhZ64rHsRO2+DWD7pzm0mS3adOHZWNqfCQDogyeRF9QYcAGheIzMmEZUq1zs5urU3EVdWfbq5M5kbWDkHhKRWjh6FA7gBDUaGKKiP9ZjJ10VVxvuVIZJ6ijLOH5dx/cd6kbTQPmB/KQR/L7xSlDfycrHvhLq082TaU6a5waPTdS/D3uB4WJ+Ey91Cc1sHMQS1cwBBwHm7pc3pP5Bs970aD3jo7gQ3cPuddjZHj7R4ZD2+ngVepGTJET2ZvXczWWskMrG8l+wQ=;kJ4pKlvRK4qn8tRIl9Vxuw=="
 ---
