@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025"
-excerpt: "Mar 26, 2020 (AmericaNewsHour) -- Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North ..."
+excerpt: "Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size,"
 publishedDateTime: 2020-03-26T15:12:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025-2020-03-26?tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025-2020-03-26"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025"
 
-secured: "VN1gV7BnEhi++hYMhKtJ18810IyHuOWY4sAMX1IOo4qlAOifxJHi1m+2LB69cNlFr1DPRTNA4q3mty5ORyROs+6lRU/IWQX2Gd1g9NDdzoNcQwHDgyKGl6qPI421l6beaYhj/C/BHC22HuN7RN234DmsYZNwnu+MXu8hVUCLZZDGQxwPCct6iB3B3KuCe+IJgFPRFyKDkPIXksXrsaIjUcChUU7ojCXTaN/GI/srDFyMmpgJE2rjRCqpR008gl7d3Xl+E0NdAFRuUZTca3G4s5XBVyFzxomIHG5VtKDtw9mVCtFEhh4HNpGl6yYkl68X;kaFoUWY/S/H0ahRY5kG2Hw=="
+secured: "XJaPq8p0qyq83qY31KbZj4sQPcliwfZucBEqNJYpqYvvo2ogl4bRDkyDtTmNvu/D7uUr292fd746yiPqG8+8/KfJ017q5TPQ0TpKWzsZtd4gziN70p6S1e899H7QfmZhRYbZSLBMmgXTCblR6hUW7fXihl5HnNvWMuD69ClhDxG5HPDWRVSHPwxIyDpR+ouwPai5vG3FK0G9u3iIEStRxh7D5rfkFAqt8qTAyam2Br8hjsgRAP7Gdp7ctHe6IEDf1AnUNA5R1PSCA16vu6aPzOLAqzCK3b/tFe2G6p8/tqYbMmdMKhge3KxHmio9t/KQ;HSPMtb+iyAccDmLIMJYP/g=="
 ---
 

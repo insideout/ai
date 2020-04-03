@@ -54,6 +54,19 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png"
         width: 796
         height: 417
+  - title: "Washington state passes new facial recognition legislation"
+    excerpt: "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ..."
+    publishedDateTime: 2020-04-03T16:39:00Z
+    webUrl: "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png"
+        width: 1920
+        height: 1080
   - title: "Washington State Adopts Facial Recognition Rules Critics View as Too Loose"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed into law curbs on law enforcement use of facial recognition, becoming the first state in the United States with sweeping restrictions on a technology that civil rights activists say should be barred."
     publishedDateTime: 2020-03-31T21:28:00Z

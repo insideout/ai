@@ -3,12 +3,12 @@ category: news
 title: "IBM Watson can answer all your coronavirus questions"
 excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
 publishedDateTime: 2020-04-02T17:28:00Z
-webUrl: "https://www.techradar.com/in/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-ampWebUrl: "https://www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p7JeT9ZfjkcqrRN5NTR6qg-1200-80.jpeg"
         width: 970
         height: 543
+  - title: "IBM Watson can now address all your coronavirus questions"
+    excerpt: "The service will be available on both the web and on smartphones and will use IBM Research’s natural language processing technology with Watson Discovery. While helping government agencies and healthcare institutions use AI to get critical information out to their citizens remains a high priority right now, the current environment has made it ..."
+    publishedDateTime: 2020-04-03T17:00:00Z
+    webUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/"
+    ampWebUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 59
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/IBM-Watson.png"
+        width: 1200
+        height: 800
   - title: "Austin deploying IBM’s tech to share coronavirus info"
     excerpt: "... is joining a handful of organizations that will begin using IBM's artificial intelligence-enabled virtual assistant service to provide information on the coronavirus pandemic. IBM says Austin will be one of 10 organizations using the company’s new service, Watson Assistant for Citizens, to help communicate information about COVID-19."
     publishedDateTime: 2020-04-02T21:29:00Z
@@ -61,6 +76,6 @@ related:
         width: 3000
         height: 1917
 
-secured: "7GtWZzf/vk9qG+nMx62KwSZV+TsgBtQwYWOrdWL76600iLqUMzHS8w2wltk5iYXXAAzAL5cerVD9tTXZy6JmHkrr27uCopD8D+PdGnYawurw+0JgYKoK4lWNg5UVnFaSpTOLpjPoYlnET49G0wMQq9f/+CpSFhmd6GXMOV8KgGMfbb4yGtV+KEtLCRYvnGZxWrIqPDxe6hHBX9b7dkF6CZakdq8RDIXhQcWEvG9hxBMPYTTPcvQOW7kzC4INT2angHt+sQBbhR9HU+tgLuB27Zfq57IUAjWEDk/1hLbSbuwiUPvOMnTlLyM4AlxEbWt6DueJDKGsQPeUx2L4tZiTEdSmw6BPRUrvOlw+ZGCYxi8cvUXTVH06lpVd9StX0l+SeqC7ed91S9VuRG+LzISSXEgqBJu2b9J2MQm6tLCMgEC5pmHwV8eO9bBIvWO0LUcwQYmZrp9OW65ZiarcfhkYOX9g/9wKKlNw7XYpumpmYOM=;jHccPnzkGC2PqOrbb0kSyw=="
+secured: "BL5SjAiEW8lR5gw5Z83LwzMWmtSxV7CaKeOoc4F3uSXQ1Aa5ucC/mSRL+aCq6CLxnzeWMPWZUTG0iXLIAnw+QLjd8891D6YFYaEZ0LUM4eupF3WNiXCzehpEun6HMnY+9lxqYuoAXyZEL/N1LussDjvXGOwivYeLQ20qv2KAg+YO+IpH4fQsWvWMm2UPI9PWq+tiugoNjkA1VZKYfFVSRMH5nMIo3nIjdGCi2HB3o51PrePd5MRqk06GL0MHa0L46ko8qYOFiObW2qqSHEDsh7vhRlM/4nWQLRbeE3bQjbD1UgBGgOPsKxdMTr4L/o2i;Et/V9vm3j9J9LGX4s4rypg=="
 ---
 

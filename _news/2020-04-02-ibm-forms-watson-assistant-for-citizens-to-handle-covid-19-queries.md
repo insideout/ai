@@ -41,6 +41,21 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
+  - title: "IBM Watson Assistant for Citizens provides responses to common COVID-19 queries"
+    excerpt: "Available for no charge for at least 90 days and available to our client’s citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
+    publishedDateTime: 2020-04-03T15:22:00Z
+    webUrl: "https://www.news-medical.net/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 57
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
+        height: 480
   - title: "IBM offers ‘Watson Assistant for Citizens’ to quickly address covid-19 queries"
     excerpt: "BENGALURU: IBM is offering its AI platform ‘Watson Assistant for Citizens’ free of cost for at least 90 days, which will provide reliable information on covid-19 related queries, it said Thursday. With a flood of information requests from citizens, waiting time in many areas to receive answers can exceed two hours, the company said."
     publishedDateTime: 2020-04-02T13:40:00Z
@@ -56,21 +71,6 @@ related:
       - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
         width: 600
         height: 338
-  - title: "IBM Watson Assistant for Citizens provides responses to common COVID-19 queries"
-    excerpt: "Available for no charge for at least 90 days and available to our client’s citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
-    publishedDateTime: 2020-04-03T15:22:00Z
-    webUrl: "https://www.news-medical.net/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 40
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
   - title: "IBM makes AI free for answering COVID-19 questions"
     excerpt: "IBM will make its Watson artificial intelligence software available for free, so government agencies, businesses, universities and healthcare institutions can use intelligent bots to answer citizens' queries about the unfolding COVID-19 crisis. The software will be available for free for at least 90 days, meaning organisations can use it to ..."
     publishedDateTime: 2020-04-02T04:04:00Z

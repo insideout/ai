@@ -29,9 +29,9 @@ related:
   - title: "IBM Watson can answer all your coronavirus questions"
     excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
     publishedDateTime: 2020-04-02T17:28:00Z
-    webUrl: "https://www.techradar.com/in/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    ampWebUrl: "https://www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
     type: article
     provider:
       name: TechRadar
@@ -56,6 +56,21 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/p7JeT9ZfjkcqrRN5NTR6qg-1200-80.jpeg"
         width: 970
         height: 543
+  - title: "IBM Watson can now address all your coronavirus questions"
+    excerpt: "The service will be available on both the web and on smartphones and will use IBM Research’s natural language processing technology with Watson Discovery. While helping government agencies and healthcare institutions use AI to get critical information out to their citizens remains a high priority right now, the current environment has made it ..."
+    publishedDateTime: 2020-04-03T17:00:00Z
+    webUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/"
+    ampWebUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 59
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/IBM-Watson.png"
+        width: 1200
+        height: 800
 
 secured: "VySY+vuo/eE5xt16qpU/dCOu2mUdWYRq/aDuiNEdOJ7+SFlyxPWVoWEHYJvCa+dCl6LxdIH9/R57IJFAeHg6tESBHglQUVKxV0xnGLKRsDnDKkWm/6fg+4XGuHzH9rXn2jwEzWZY228ukxmf0J8FQ9XE4KxB3PwmoHkLfYvHSh1yGQvCKcKo0wuYG0HbY9aehJS+CByFG4OfJmYgpRiCr4AwM6Eza8LQ8yOZhdG5U8UsnqQG35xBC/oDuHbPE01N7pfxaWxElJxXgML9HBOOCnPfa/gDfjzE5M90LmqABo/pjO0fFV0OFnCHcsQTDsXQ/XfSRL76pUBvm7hIhgRkoydDxdKATwTzq0tp4jcxVMbsdPlEZ2JJUCJxjoBjfPiL4qg27L3FD/nOqOZa8lH2gl9ceotb+qwK20q5B7jvk4T8O3mL9Dr9oFAXMqyxfQYrWlm0A9ktTUZIS8/DH4fw6lr9HxPrrN1PfwQrSN47dbo=;aYXl+0zb9wYaC0WcPm0XQg=="
 ---

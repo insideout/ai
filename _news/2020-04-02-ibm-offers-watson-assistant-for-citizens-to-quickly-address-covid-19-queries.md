@@ -62,7 +62,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 40
+    quality: 57
     images:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
