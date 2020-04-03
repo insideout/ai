@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Scientists use AI system to translate brain activity into text"
 
 related:
+  - title: "Training AI To Transform Brain Activity Into Text"
+    excerpt: "the algorithmic translation of text from one language to another,\" the scientists wrote in a new paper published in the scientific journal Nature Neuroscience. They've taken an AI approach that is akin to translating text in different languages. The underlying theory is the same in both cases—the goal is to convert one sequence of some arbitr ..."
+    publishedDateTime: 2020-04-02T08:41:00Z
+    webUrl: "https://www.popularmechanics.com/technology/a32020835/ai-thoughts-into-text/"
+    ampWebUrl: "https://www.popularmechanics.com/technology/amp32020835/ai-thoughts-into-text/"
+    cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp32020835/ai-thoughts-into-text/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/artificial-intelligence-concept-royalty-free-image-1585848511.jpg?crop=1.00xw:0.752xh;0,0.183xh&resize=1200:*"
+        width: 1200
+        height: 601
   - title: "Scientists develop AI that can turn brain activity into text"
     excerpt: "Researchers in US tracked the neural data from people while they were speaking"
     publishedDateTime: 2020-03-30T15:00:00Z

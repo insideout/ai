@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Domo Announces Support for Amazon SageMaker Autopilot"
-excerpt: "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ..."
-publishedDateTime: 2020-03-19T16:05:00Z
-webUrl: "https://www.marketwatch.com/press-release/domo-announces-support-for-amazon-sagemaker-autopilot-2020-03-19?dist=bigcharts&tesla=y"
+excerpt: "Domopalooza LIVE and On-Demand – Domo (Nasdaq: DOMO) announced today new capabilities in the Domo Business Cloud, including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot."
+publishedDateTime: 2020-03-19T20:05:00Z
+webUrl: "https://www.bakersfield.com/ap/news/domo-announces-support-for-amazon-sagemaker-autopilot/article_f160b531-fd02-5442-9807-b15970e959c0.html"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
-  - AWS AI
+  - Machine Learning
   - AI
+  - AWS AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
     width: 1200
     height: 630
     title: "Domo Announces Support for Amazon SageMaker Autopilot"
 
-secured: "yGiXZYbZsV0W1FQc2O0Bejb9M10xeHcfeJVvuA1M2qRHg3d9pHN4CILlwNBOw6WhVvjXMsuJJ0lnBkEjLx0a6CPEBTi69AvheIjuyINBjxfWFeMbjPq6qznt3If6sePptEkmQVXQ4srR13zEb+ivVVodOnPytYig6v58LdGeQond991Ye8wv49wt37XyL0ZRvfUq+pXXB9Qv5Aw+eiAGQGc0DDqulauEzRfvAAongRV0xY8ZtFEhPsZqvjKrxgGNDHlHL/3mKyW52lIE+x6VgNsOrPIq1dHoCEBe/nhLz4IdtJxjZkHOibWTww6u0vf1;yaqHeQWjOTs0M3tsjIM/Ug=="
+secured: "s6X3BEKIfXesgHksQ9zFG734Bw/WQ8uhGn3YGycFskCppqXXXXUEKiNV1hXQYXM5lLWSMmA9GWfvO7IbUZDktP9sDG+rvJFzyOZaaCM/QcsvYxbj7ShnQvtKSdaBfXALnE800DsFONdiZdOR3s1dIjtCq5zgQ4JTOefFsRBiI0S6gJS4I/jhWYf7aYZDMeklpw8Zvpsj+X9wvu/0SmInzSJSpKpg2+e59noC4US5TqRx/71swP5cAslCkbaHLOi29osg978i/yuNO/LDBshbq4xDDJ0FKt2LsBL+5oHCD+nZJZ660QOuqtA9rzTUjn9f;mVzLCIbAKaQt7y4nO71gpA=="
 ---
 

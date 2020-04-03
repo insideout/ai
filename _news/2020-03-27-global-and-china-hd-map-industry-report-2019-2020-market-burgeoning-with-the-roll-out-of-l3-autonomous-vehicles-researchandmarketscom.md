@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com"
 
-secured: "oPemHGWX8RNAcdBXoQtgq7czIiLrgmWX+jKeASQ9q6EIi4rvBq2k+LUqVbmhoeMLvZXyWxTFoDnAL7z2WftLW4n3cSgp9Kfg3Ir6d7mT/SmMuh2a8bsvoYxY3zwdDVI3XGrR3eBLFaPKchHUayv8/zTtRvkIDFsJL0ak3BYg3rKwQJFG8eKwmW43FoDG1+M+Bv7CxqM8eLEDmPiyFIqgyE+Zorvl2mdS3nqwhKzzrH/jBdDhh4TlEjtvm+ToOCL+AX5kqJMsz/i5NgSjBkqiHkPD8rVFUqda2kAnKClJhHcidYln2ZiD/Dp67ArzwTYI;L3OEL01IMD1QAjY1IIrAqQ=="
+secured: "r8HnE3AEE58Zc0ehyeGfNFyOm6lMTZZtzfD5lAwF/3xSv/ErMvgsrwz6t9g341gAvyYl8jNinkNunmLFerG6Fri18Gx1Ir2r1N3bGWWqm33fo/TVn4QPK0188ZuJtQ0unK4x8pjEikK0/hFyIT4j6exsLCQYSgcNtTuVRG3sOV7UEiQJKrszkdcvobvZkQ94V6XeNbGL/A8anVCz0JMMztJqLALsNfddRxyarC2tBzme59ZMXyRlykZtuX5ev08/dos60wZicvHoWdfBPc+E1yU66QDa+gNecKH34vJpaItl81u/HfHy5HJOug+vw97lY0ygIPfPJjzdMHvBJBVGZDMD4SuRIVtDrfYiwqFsOB1mNqI9IbDGesEppQMljDDg14zJ7bOttn54q3H5h1tBFyUWdQ1qWiHIj2j0beRShjme75CmXeeZR7QONSS7Pm0BNy5puMkPbLufD05fsgcS+zHp3wruYjRi/DpCGhOVVQQ=;MwJhrI2bum/QLYyjdDH8Ng=="
 ---
 

@@ -42,7 +42,7 @@
       "path": "_news/2020-04-02-microsoft-brings-new-voice-styles-to-azure-cognitive-services.md",
       "title": "Microsoft brings new voice styles to Azure Cognitive Services",
       "excerpt": "Microsoft today announced the launch of new neural text-to-speech (TTS) capabilities in Azure Cognitive Services, its suite of AI-imbued APIs and SDKs, that enable developers to tailor the voice of their apps and services to fit their brand. Each of three new styles — newscast, customer service, and digital assistant — offer fluid and ...",
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/",

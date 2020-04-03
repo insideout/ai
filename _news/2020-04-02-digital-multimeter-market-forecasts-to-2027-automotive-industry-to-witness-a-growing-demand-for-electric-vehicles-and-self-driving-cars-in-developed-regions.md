@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Digital Multimeter Market Forecasts to 2027 - Automotive Industry to Witness a Growing Demand for Electric Vehicles and Self-Driving Cars in Developed Regions ..."
 
-secured: "Nvkq+NbljyrbaC8bF3vbKDU9FRfx+0G/RM30TCYtQ/vieEtHrUFw90wBQjNGYrGV1pFu4JKBRXeREIj8b/ffwkUpbPj5EgsgLCkNyybnF+CIsBc+T+HxFkzwVsFHMqQUsyWqRcLnTOqjWK4pAbH+HnSidK0PhE845GxOhAZovhaSBmai2brR6AmVQfDMF69WrFeuH2Rf4aeRSetb+LCzm20hegA9qIay9GSEpbhvdBL1SKRZN21GZdzqu9ksZII9bHugfU8sbDLRVTzTPOV0vDJJcNxK2Yp3/hqjb7xZjT1JKB3WPFGVw3PIKdMaGMOo;vusJHTGiXd1CXvOReIq3zQ=="
+secured: "5n2vaapCMcqxPa6BOIYe6qA/pmGNiAryvOtZlod4DhXDCHx9O2QylQSUzXphKobQX3ano/4av5XwsxLxpetz2D1ZKFOTIOIM+QqbYKpjC2uYyPTd8wF+8vu+VgAUTDcqYbiOSZ2vDwrBhvUY6LNIeALe3+wru+Suh6m3SiTuC206ROI+WMi/0Rlt81pvlOnguBKPk0aL2PsA9Nrvuhc2jKmfsuxBQQAlgDTOzL7QOnzz6ed2kPkd47xgmmMPSLM+bjfipsUO+F8HlmHOyY0C6yGdtB+NukEWqCCGAd3nS943Ubui7EL3fcCSbp1b8xqflwfwKUK1p1X8OyJhraQYrjFrUVZElBO3I/5q/0B/8cvfjQykGWX52ik2pSCmjkoFhWaiQ8tZxrKiPVEXrh1GaYleFjbq0RMkugHMkaucgm9y8q3a5/e6Yyd2XoBNy3THDW3Nh583GZRyII+PRLDOdfQyafuwJOnypEA7QZz0aG8=;eXh/sex7jTxR4bVCFAYCOQ=="
 ---
 

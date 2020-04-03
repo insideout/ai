@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-for-business-whats-going
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

@@ -25,6 +25,6 @@ images:
     height: 608
     title: "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK"
 
-secured: "GREnQqggr+H4DMxcI9S0kud4uJAQ+a8mjWylj91jw3LnlPweU6psXy3amSmYs0A+qCMNj/15POiY75t3EvWnsMXwtj3ihmEs2BeSewZPdlzFyAA+j7JDBc1NoqPCN5qIHZjmo5nKsCgwBQapEd4XCjU8Pssm4gMu7XzWcTQsxjmY0qU+CmuYPNh+nL8m5KxxrzjERke1c1PEyakZbJ9M6/Px25O2AkKa4Uu3ChiJi3EVq2q7n/wQWRT2nROxtfxlOCFO6jeOkjLDXFfUb2ujj/ax4xrZsGc56pxm9XJeRDw/xlmCX+C9bn4dh3u4XYxU;AGxllnJPmDy3N/JaekVhrw=="
+secured: "Ho9gw75xtwDXa4MqXj1zvM1J6y7a+nDEx8yCoxVRhh9virgyT/JUyO4vFfkyshMR5ECr0HZNI1/UGef5tYPp/DLfT+XdvNEC7MdpJzH9EGa3cRjs/aTf2FoXiYjoR9a/aD5dAMlDQ4w62E8fZrAYu2UDVKxAP8uUnnQR1esTXFwthkhA2eKkEnRcxr1ZE7ZR8aEwMzA3WJceN8Eiu0wc5AK4ubqcrwnLN+umTl0lq+I/KwFXK+xb7zFDx+L+eTo7vt31HxY3IOskRlmHNxXacyMwPoICXaTPLyaQROYVIYk1+74DCLnxCebsU633wWBCVCrQqntGH8AEj3Zazj4Mzen9J8WEMPf3hmtkefaviaNZeJU5Fjkql4hIr96zrd28dBsDAQV7Kw4T8ZTWgusshUFh/ed+HIsosubgemfq7q4gEUSHKxuqS0FQACL39BHAcY3EPvvdcOjXUsv6vZF+FRycG53mKA2OoZEUgsxWKac=;/tHYfvXoq59hJCGPCq+ovA=="
 ---
 
