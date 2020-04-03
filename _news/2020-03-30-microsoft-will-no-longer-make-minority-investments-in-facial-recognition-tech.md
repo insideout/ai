@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-long
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech"
 
 related:
-  - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
-    excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
-    publishedDateTime: 2020-03-29T21:32:00Z
-    webUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "Microsoft M12 Removes Investment in Facial Recognition Startup AnyVision"
     excerpt: "Microsoft’s M12 venture company says it has divested its stake in AnyVision because of a change in its policies regarding facial recognition companies. A year ago, Microsoft’s M12 venture division invested in a $74 million series A funding round for Israeli facial-recognition company AnyVision. The company’s involvement as a minority ..."
     publishedDateTime: 2020-03-30T18:34:00Z

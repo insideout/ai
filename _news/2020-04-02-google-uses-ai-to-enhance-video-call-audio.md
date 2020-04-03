@@ -1,19 +1,23 @@
 ---
 category: news
 title: "Google uses AI to enhance video call audio"
-excerpt: "WaveNetEQ works by using a library of speech data to realistically continue short segments of conversations. The AI is trained to produce mostly syllable sounds, and can fill gaps of up to 120 milliseconds. It comes as the use of video calls has become increasingly important during the corornavirus crisis. When making a call over the internet ..."
+excerpt: "Google is hoping to end low quality video calls by deploying artificial intelligence to \"fill in\" audio gaps caused by bad connections. WaveNetEQ works by using a library of speech data to realistically continue short segments of conversations."
 publishedDateTime: 2020-04-02T14:48:00Z
-webUrl: "https://www.bbc.co.uk/news/technology-52138100"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52138100"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52138100"
+webUrl: "https://www.bbc.com/news/technology-52138100"
+ampWebUrl: "https://www.bbc.com/news/amp/technology-52138100"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52138100"
 type: article
-quality: 57
-heat: 57
-published: false
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -24,6 +28,6 @@ images:
     height: 576
     title: "Google uses AI to enhance video call audio"
 
-secured: "tD8ePIKeL8xaSnZc+vVq4ugGSwu+hoPV5QEVUZfYCZigHKTy/4AiY++vjwfxrZoi1lRruRS9Nd2ipqzJDlNJSdaK1i3c+HXFWoLTIxTYpsxMtgiliea6XLEMy9UBArNwtHkwj5IdLUpO43yCDvAUXY+0g7qSo1YM7PEjtZrS5K/koM+uIiGF1bMZen7eDeMwWgfDdcg1/d+KnN4Bx35OmOc5wvSXf9mMgn1GVvRciH7RZ8m9o/fBD0xOjMrslX/KPSuvFcwGJJjlAD5OtQuXjLkJvx9OtgwvynkFw7mBH3ygDEyt4ymQA/+bwfaYbTOwD9BTuLUofpzNAVDUGEfg1F49gm9kuGkhM5hgFMMEH2fv2vsOMe1tnoka4OxYA1h+kfMe7R1Y20NgECRhrvQQcviBvY1iplpEnAAdHMkiyHhFE/z9zoA+y0c1yjox/8rP+DD+zX4j/qaENWToYFgRq6mFlJCqky80IRRD6UGwSKo=;2tXgLDTG6fuxaXvfhSh4PQ=="
+secured: "bzTGZjCw1XRUsIgH64jKYO9K+M3aqfKObT3bmpIpDypWbu7EDRnR+VPg/ZMbK+TSpgb7kOIlp26NRpdPIi/MnEUsN/8/1WC584RltjmWpWuADnTFEDSTBtQBo+STD+R10RpJtQQ4sdixv6USbdHlAWdhCemlyjZCK9a7Y6xn2uRTYUxPXh/Z4MWx/apH2UdLwJbYFlbs60TjY0WqwYdul3JxY1vSU872/bNxRu8gY+vW3x2ZGTwO95of2Ckw3UoEYMiCFvlg1I84B68uwPi4yVkCUxufqj+Q3t9LucO/9NeIsLIKTF5iDbU1gYa09Exi;6j+Z/j4aAHSr9oFrwm+I8A=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "Global Artificial Intelligence in Healthcare Market: Growth and Foreca
 publishedDateTime: 2020-04-03T08:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2019-2024-2020-04-03"
 type: article
-quality: 41
-heat: 41
+quality: 58
+heat: 58
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

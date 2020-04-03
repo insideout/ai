@@ -39,21 +39,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-  - title: "Divesting from one facial recognition startup, Microsoft ends outside investments in the tech"
-    excerpt: "Microsoft is pulling out of an investment in an Israeli facial recognition technology developer as part of a broader policy shift to halt any minority investments in facial recognition startups, the company announced late last week. The decision to withdraw its investment from AnyVision, an Israeli company developing facial recognition software ..."
-    publishedDateTime: 2020-03-29T21:32:00Z
-    webUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/"
-    ampWebUrl: "https://techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/29/divesting-from-one-facial-recognition-startup-microsoft-ends-outside-investments-in-the-tech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024"
-        width: 1024
-        height: 682
   - title: "AnyVision facial biometrics not powering mass surveillance in West Bank but Microsoft to divest stake"
     excerpt: "Microsoft is divesting its stake in AnyVision, due to a change in its investment policy and despite an audit finding that the company’s biometric facial recognition technology is not deployed to a mass surveillance system in the West Bank. AnyVision Chief Commercial Officer Max Constant told Biometric Update in an email in late-2019 that the ..."
     publishedDateTime: 2020-03-30T15:18:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-cre
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 1618
     title: "Automation May Take Jobs—but AI Will Create Them"
 
-secured: "Wmiry78CX708DrQ6VGH5LbJX7uf6B8FL+TRDyihxPO3KZ3/KOq9R/7aROvTbP8qFzzZacZIPbSkmeeVR2jCVNj2zxximCzDWhHVPJAsCUE2Wa8bdGCi8C7eC9XNZqBvquGq2n8ChHSU6P1+by6Jk8JqndNa5jMoBaKoyOsIig9QXCZZZbdtOb7Y2UFQDz12G5qLldvD1X73FkqfPzL4zwHzDlLsIhDj5teJy/qMTNjPXF0JoIHH/6xeZ8+Xizyw5kn3KLww7/O9a6GfmdcalbBVnBYMwJZlxeXyfhTLwvZ24qJwWwx9UMF19rkqiiOBD;c+m/qgGMxFYNDdSRce37lw=="
+secured: "O4YWMr7j84qLnlBBQEiRX93aFWE4whqqyr9TOgzh+Wg1r3Ng7DclCx4Zq1jsnSsFQzUbLtp8zgnMKFPYDU+qt8XiSSLZoQsyyMgucZH4o5zabYxT447OgSRgraara0/6zTE4J6mp1JF9a1LBnWcnEQY74NUdls32BoRZXmSpW7IF3/e0U6J2JxmEb1tstpMiSyLE3V2ydHyC3bzgbUCsvklulJvrDn2wlM6ZOT7XUgGw6iFzKyaMQIz4/0qq5VF35bgwO44eWNTun9SaE31ao5c9GrX5rLduF1eSAGrA8UMNDdZAQ8wNevYXG9VYuQ1wjGV0b/dGOCGmvd0jG40OMjqmtZ6m+Jlioh0l3reD/o7Av2JTXym1IY4EDc/uMrR6sjByms/ylHflf+m2yiTxDZRp1EsjzhTdQHDwgB0VxOhR5yJR1dXP1dk/TT4WbvHLfzW/M1+m56M14DVUuzG17gVyPOARKMcpNBp2JuC79vg=;xUR/n3vttLCK7hByzKoylQ=="
 ---
 

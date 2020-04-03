@@ -23,6 +23,21 @@ images:
     title: "Artificial intelligence to predict corona-patients' risk of needing ventilators"
 
 related:
+  - title: "Scientists are using AI to predict which coronavirus patients need ventilators"
+    excerpt: "Computer scientists from the University of Copenhagen are using AI to calculate which coronavirus patients need ventilators and intensive care. The system will help doctors identify the symptoms that seriously ill patients have in common. Hospitals could use the insights provided by the AI to work how many patients will need a ventilator at ..."
+    publishedDateTime: 2020-04-03T14:44:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 83
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design50-796x417.png"
+        width: 796
+        height: 417
   - title: "Artificial intelligence to predict which COVID-19 patients need ventilators"
     excerpt: "Experts at the University of Copenhagen, Denmark, have begun using artificial intelligence to create computer models that calculate the risk of a corona patient's needing intensive care or a ventilator. As coronavirus patients are hospitalized, it is difficult for doctors to predict which of them will require intensive care and a respirator."
     publishedDateTime: 2020-04-03T11:37:00Z
