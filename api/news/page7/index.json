@@ -2,6 +2,96 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-03-27-cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage.md",
+      "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
+      "excerpt": "SaaS is helping manufacturers and trucking companies save money and boost efficiencies by making the supply chain easier to manage and more transparent. Until recently, company executives have chalked up the cost and headaches of managing the supply chain as an unavoidable cost of doing business. Walmart started to change this trend several ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
+      "publishedDateTime": "2020-03-27T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/10/14d74bfd-5f87-4518-82bc-b0ace8aa23cf/thumbnail/1200x675/3286603a2fa4dfecf28b20f2988dfc29/20200110-ibm-jason-teena.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
+      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
+      "publishedDateTime": "2020-03-27T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025.md",
       "title": "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025",
       "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence In Fashion Retail Market which has",
@@ -990,87 +1080,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
-      "title": "What an all-digital AI research conference looks like",
-      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "publishedDateTime": "2020-03-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": "What an all-digital AI research conference looks like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
-      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
-      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
-      "publishedDateTime": "2020-03-26T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

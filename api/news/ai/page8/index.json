@@ -2,6 +2,88 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
+      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
+          "width": 620,
+          "height": 431,
+          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
+      "title": "Cars Will Transform Before AI Drives Them",
+      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "publishedDateTime": "2020-03-25T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Cars Will Transform Before AI Drives Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
       "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
       "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
@@ -1169,95 +1251,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-fritz-brings-on-device-ai-to-android-and-ios.md",
-      "title": "Fritz brings on-device AI to Android and iOS",
-      "excerpt": "Fritz AI, a startup providing an AI and machine learning development platform for Android and iOS, today announced that it has raised $5 million. CEO Dan Abdinoor says that the capital will accelerate Fritz’s expansion as it launches its product out of early access, which he asserts addresses the challenges of mobile AI for businesses with ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
-      "publishedDateTime": "2020-03-24T08:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/1_VGALiW-R7uLVK2drc_Gcw-e1585064544156.png?fit=1134%2C567&strip=all",
-          "width": 1134,
-          "height": 567,
-          "title": "Fritz brings on-device AI to Android and iOS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
-      "title": "Making accurate energy consumption predictions with Amazon Forecast",
-      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T08:17:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
-          "width": 1000,
-          "height": 374,
-          "title": "Making accurate energy consumption predictions with Amazon Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

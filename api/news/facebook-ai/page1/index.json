@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-03-in-coronavirus-fight-oft-criticised-facebook-data-aids-us-cities-states.md",
+      "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
+      "excerpt": "Facebook and the researchers leading the project say they have overcome those ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "publishedDateTime": "2020-04-02T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/03/6e6a9e96-754a-11ea-ab8f-988daf8efd6f_image_hires_093454.JPG?itok=sfzYo3cq&v=1585877702",
+          "width": 1200,
+          "height": 630,
+          "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-surveillance-ai-and-saving-lives-top-agenda-at-coronavirus-conference.md",
       "title": "Surveillance, AI, and saving lives top agenda at coronavirus conference",
       "excerpt": "The Stanford Institute of Human-Centered AI (HAI) hosted a conference to discuss applications of AI that governments ... Public health and government officials are actively considering surveillance, quick tech builds, and ways to accelerate research or gain predictive insights. Last week, WHO executive director Dr. Michael Ryan said ...",
@@ -1218,51 +1263,6 @@
         "AI in Autos",
         "AI in Robotics",
         "AI in Healthcare",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026.md",
-      "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
-      "excerpt": "Global Artificial Intelligence (AI) Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries,",
-      "heat": 184,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-latest-advancements-and-technology-growth-2020-to-2026-2020-02-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Market Latest Advancements and Technology Growth 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Facebook AI"
       ]
     }

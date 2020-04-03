@@ -2,6 +2,95 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-24-fritz-brings-on-device-ai-to-android-and-ios.md",
+      "title": "Fritz brings on-device AI to Android and iOS",
+      "excerpt": "Fritz AI, a startup providing an AI and machine learning development platform for Android and iOS, today announced that it has raised $5 million. CEO Dan Abdinoor says that the capital will accelerate Fritz’s expansion as it launches its product out of early access, which he asserts addresses the challenges of mobile AI for businesses with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/fritz-on-device-ai-development-platform-for-android-and-ios/amp/",
+      "publishedDateTime": "2020-03-24T08:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/1_VGALiW-R7uLVK2drc_Gcw-e1585064544156.png?fit=1134%2C567&strip=all",
+          "width": 1134,
+          "height": 567,
+          "title": "Fritz brings on-device AI to Android and iOS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
+      "title": "Making accurate energy consumption predictions with Amazon Forecast",
+      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T08:17:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
+          "width": 1000,
+          "height": 374,
+          "title": "Making accurate energy consumption predictions with Amazon Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-speech-recognition-technology-is-racist-study-finds.md",
       "title": "Speech recognition technology is racist, study finds",
       "excerpt": "New evidence of voice recognition’s racial bias problem has emerged. Speech recognition technologies developed by Amazon, Google, Apple, Microsoft, and IBM make almost twice as many errors when transcribing African American voices as they do with white American voices, according to a new Stanford study. All five systems produced these error ...",
@@ -294,18 +383,18 @@
     {
       "path": "_news/2020-03-24-shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging-blockchain-and-ai-to-transform-retail.md",
       "title": "Shopper Marketing Hall of Fame Inductee Joins Leadership Team of Rising FinTech Company Leveraging Blockchain and AI to Transform Retail",
-      "excerpt": "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a \"Top Ten Mover and Shaker in Retail,\" Karen Sales has joined the leadership team at SKUx as Senior Vice...",
+      "excerpt": "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a “Top Ten Mover and Shaker in Retail,” Karen Sales has joined the leadership team...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15650351/shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15650351",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15650351",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005543/0/en/Shopper-Marketing-Hall-of-Fame-Inductee-Joins-Leadership-Team-of-Rising-FinTech-Company-Leveraging-Blockchain-and-AI-to-Transform-Retail.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-24T06:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1168,88 +1257,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
-      "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
-      "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
-      "publishedDateTime": "2020-03-23T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/TF1lbo3BNhg90uK3iZeOKvdnLJI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKL52PAY3BH6VDJKTGMCSD4VFI.jpg",
-          "width": 1440,
-          "height": 910,
-          "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
-      "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
-      "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/softbank-group-didi-idUSL4N2BG4PA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BG4PA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BG4PA",
-      "publishedDateTime": "2020-03-23T10:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 667
     title: "Using AI responsibly to fight the coronavirus pandemic"
 
-secured: "lnL4xeQ8L/4vNjXU1KikZA4O8RBumjmL+qu+A0BUIcXB3fWfw1EvX6mVMmDIsuxepbRQHpRLkfFvLkx7Rlu+aIBuxWU9qoUFEaZs0ZUktfpxl1JJc3OPs6EeXdPlcNssJPNPTljhgdTolGQgrypYDlrBXcKXBWtlB/0EBfhjzTfAxJu/Cl1dNMG8Vq8zJPQAI/ooL1diI7vIVGlMKuWN0GTeuLxagkXfHe+tGM/glMpF7MyCMfO8qPZOmQ4ioe6hAbgLuKoToansymyVLYDWe2M5S89cdfkN2DLZeRh4WvT8z0eBiU3wXI63W9NMlI5K;ZClY1Q+IUU6VDcoTUj8vtw=="
+secured: "PJJU6bgJj7xZXJq13e8tP55pdtTcm2xQjfJi+HknCRYpOsz4cKBRvXPuxX2AL7jIQA92Wyd6e1QBSV58ztHqXzx6pcd2VLdcZQVM2ZhxXG45cXcLfLtBXXz1lOlS8FSI02KRKwf1cYLoe+EyilXG37RU8e/TY38vmbUctmhksmYpStgQoBh33HPHp310JEqIp8rCgj+D0B3JfgIuHs+PO84IvKWv5DfzFqhSUaBr+Ze5w22SRlnv/AY857dY8n5XpKQegb7B/avXQCiaix2oLemzPVlGp5Rfz3QBepbwzV/fjikUyIKtNMXM40bETRyKMVMKEBNihUU95Tu934VgzgzWO0ZSpL2yerkp6AaSMbg7qfVyJmdo4+rO1LuERLF7IYTE0SRe871cw98T0qEecb52kpbefSNn6pJ1jBtql1oRE8JdhVLZCOCaoPPqQG4izNuYbwYcbg4/sDoSzDGWktWHdNMrpRH0s5ezbc5SGhk=;ExNEDZM/PiZIfxJIAUKniw=="
 ---
 

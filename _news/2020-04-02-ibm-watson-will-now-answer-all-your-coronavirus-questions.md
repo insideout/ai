@@ -29,9 +29,9 @@ related:
   - title: "IBM Watson can answer all your coronavirus questions"
     excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
     publishedDateTime: 2020-04-02T17:28:00Z
-    webUrl: "https://www.techradar.com/au/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
     type: article
     provider:
       name: TechRadar

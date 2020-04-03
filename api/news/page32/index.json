@@ -2,6 +2,88 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-08-tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change-the-game.md",
+      "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
+      "excerpt": "A Tucson avionics startup working to bring artificial intelligence to cockpits is one example of how the Old Pueblo is jumping on the AI development train.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.html",
+      "ampWebUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
+      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
+      "publishedDateTime": "2020-03-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/ea/9ea46bb3-c5fe-5b34-80a0-ddb58b4f239e/5e5ff45fa24e6.image.jpg?resize=1024%2C715",
+          "width": 1024,
+          "height": 715,
+          "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-introduction-to-natural-language-processing.md",
+      "title": "Introduction to Natural Language Processing",
+      "excerpt": "Natural Language Processing or simply abbreviated as NLP is a highly specialized branch of Artificial Intelligence and Machine Learning that deals with understanding the human natural language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/introduction-to-natural-language-processing-3c9cb9104b5e",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*FGHtb_niL0g-kbK3",
+          "width": 1200,
+          "height": 600,
+          "title": "Introduction to Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-self-driving-cars-can-easily-mimic-human-drivers-claim-researchers.md",
       "title": "Self-driving cars can easily mimic human drivers, claim researchers",
       "excerpt": "With the help of an improved sight-correcting system, self-driving cars could learn just by observing human operators complete the same task, researchers have found. The team implemented imitation learning,",
@@ -880,80 +962,6 @@
           "width": 590,
           "height": 350,
           "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-cisco-and-microsoft-partner-on-cloud-iot-stuff.md",
-      "title": "Cisco and Microsoft partner on cloud IoT stuff",
-      "excerpt": "The thinking is that Microsoft’s Azure IoT platform is great at the datacenter ... global connectivity, advance analytics, and cognitive services for analyzing IoT data.” “This partnership between Cisco and Azure IoT will significantly simplify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502899/cisco-and-microsoft-partner-on-cloud-iot-stuff/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91",
-          "width": 300,
-          "height": 250,
-          "title": "Cisco and Microsoft partner on cloud IoT stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-scientists-devise-prosthetic-arm-controlled-by-mind.md",
-      "title": "Scientists devise prosthetic arm controlled by mind",
-      "excerpt": "Scientists have devised a mind-controlled prosthetic arm that is so dexterous it ... The messages are sent to a robotic hand, allowing the correct finger or thumb to move in the intended way. Scientists believe that it could change the way that amputees ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/scientists-devise-prosthetic-arm-controlled-by-mind-89532xsvn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9fde808-5e50-11ea-9891-dcb2edabd2b0.jpg?crop=1557%2C876%2C0%2C81&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": "Scientists devise prosthetic arm controlled by mind",
           "attribution": null
         }
       ],

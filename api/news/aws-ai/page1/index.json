@@ -806,9 +806,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -999,11 +998,11 @@
     {
       "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
       "title": "AWS Australia returns to profit after posting half a billion revenue",
-      "excerpt": "Read more AWS Summit in Singapore set to go ahead, despite coronavirus concerns The company recently outlined three areas of opportunity for partners to capitalise on this year. These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year ...",
+      "excerpt": "These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year, Migliorini spoke to ARN about AWS’ loss for 2018, saying the company had lowered its ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/?fp=2&fpid=1",
+      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-16T17:11:00-07:00",

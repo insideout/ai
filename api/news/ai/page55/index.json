@@ -2,6 +2,97 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-01-31-why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators.md",
+      "title": "Why Visa And Mastercard Are Today’s Most Exciting FinTech Innovators",
+      "excerpt": "In the world of the platform economy, the big get bigger. It’s the winner who takes all. That’s why investors were all turning their attention last Thursday as Visa announced its quarterly earnings. Processing some $3 trillion in transactions the last quarter,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/howardhyu/2020/01/31/why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators/",
+      "ampWebUrl": "https://www.forbes.com/sites/howardhyu/2020/01/31/why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/howardhyu/2020/01/31/why-visa-and-mastercard-are-todays-most-exciting-fintech-innovators/amp/",
+      "publishedDateTime": "2020-01-31T03:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e33f2398b6cf300071d7fe7%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why Visa And Mastercard Are Today’s Most Exciting FinTech Innovators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis.md",
+      "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+      "excerpt": "New York, January 31, 2020: The report covers detailed competitive outlook including the market share and company profiles of the key participants operating in the global market. Key players profiled in the report include Soft Bank,",
+      "heat": 403,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-2020-growth-share-trends-forecast-to-2025mre-analysis-2020-01-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-30T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Robots Market 2020 Growth, Share, Trends & Forecast to 2025|MRE Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-peta-requests-punxsutawney-phil-to-be-replaced-with-robot.md",
       "title": "PETA requests Punxsutawney Phil to be replaced with robot",
       "excerpt": "The People for the Ethical Treatment of Animals (PETA) sent a letter to the Punxsutawney Groundhog Club requesting that the groundhog should be replaced with a robot. The letter signed by PETA President ... \"We even have the technology to create an animatronic groundhog with artificial intelligence (AI) that could actually predict the weather.",
@@ -1189,95 +1280,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-ethical-ai-can-ensure-ais-superpower-is-used-for-good.md",
-      "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
-      "excerpt": "Ethical AI can help ensure all of our AI efforts are ethically compliant, environmentally conscious and transparent.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/30/ethical-ai-can-ensure-ais-superpower-is-used-for-good/amp/",
-      "publishedDateTime": "2020-01-30T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x558/https://specials-images.forbesimg.com/dam/imageserve/1079012854/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 558,
-          "title": "Ethical AI Can Ensure AI's Superpower Is Used For Good",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit.md",
-      "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-      "excerpt": "Facebook has agreed to pay $550 million to settle claims in Illinois that the company violated local laws on facial recognition technologies. The results of the lawsuit were made public on Wednesday and have been described as the \"largest cash settlement ever resolving a privacy-related lawsuit.\" Launched by law firms Edelson, Robbins Geller ...",
-      "heat": 467,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/facebook-agrees-to-pay-550-million-to-end-facial-recognition-tech-lawsuit-in-illinois/",
-      "publishedDateTime": "2020-01-30T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/01/31/b757b17e-a735-4177-8143-35b8c57662e8/resize/1200x900/afac4a12cff1cda9dd8d8fcec0212626/screenshot-2019-01-31-at-17-25-36.png",
-          "width": 1200,
-          "height": 765,
-          "title": "Facebook agrees to pay $550 million to end facial recognition tech lawsuit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,87 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
+      "title": "What an all-digital AI research conference looks like",
+      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
+      "publishedDateTime": "2020-03-26T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": "What an all-digital AI research conference looks like",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-3-healthcare-stocks-to-buy-for-ai-and-big-data.md",
+      "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+      "excerpt": "However one of the major problems in the healthcare sector is how to collect and efficiently use data. The health care sector looks to be a logical application for artificial intelligence (AI) and big data. However, there are legitimate privacy concerns about the use of this data. One concern is how healthcare data can be used in predictive ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/",
+      "ampWebUrl": "https://investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/03/healthcare-stocks-using-ai-big-data/amp/",
+      "publishedDateTime": "2020-03-26T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/healthcare1600a.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "3 Healthcare Stocks to Buy for AI and Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-how-a-freshly-funded-robotics-startup-wants-to-help-hospitals-dealing-with-coronavirus.md",
       "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
       "excerpt": "The Austin startup makes robot assistants that help hospital staff with routine tasks. Moxi is the name of their current robot. It uses artificial intelligence to help hospital staff take care of things like delivering clean linens, gauze and syringes and setting up rooms for patients. DNX Ventures led the round, which also included existing ...",
@@ -964,89 +1045,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-stuck-at-home-why-not-let-an-edgy-gpu-boosted-slice-of-azure-keep-you-company.md",
-      "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
-      "excerpt": "The purpose of Azure Stack Edge is to shunt processing out of the cloud to where the local ... The expansion includes the incarnation with the Nvidia T4 Tensor Core GPU, which will allow those with machine learning needs to benefit from the hardware acceleration afforded by the exotic chippery. Naturally, Microsoft is cock-a-hoop about its ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/25/azure_stack_edge_gpu/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
-      "publishedDateTime": "2020-03-25T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2019/05/30/lonely.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-googles-ai-helps-robots-navigate-around-humans-in-offices.md",
-      "title": "Google’s AI helps robots navigate around humans in offices",
-      "excerpt": "“Dealing with noise in robot state estimation will be another interesting future direction.” Google isn’t the only tech giant pursuing autonomous robot navigation research. Facebook recently released a simulator — AI Habitat — that can train AI agents embodying things like a home robot to operate in environments meant to mimic real ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
-      "publishedDateTime": "2020-03-25T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI helps robots navigate around humans in offices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
