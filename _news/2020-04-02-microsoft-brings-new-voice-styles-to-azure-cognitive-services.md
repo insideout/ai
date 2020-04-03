@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -42,6 +42,19 @@ related:
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1.png"
         width: 718
+        height: 400
+  - title: "Explore computer vision in Microsoft Azure"
+    excerpt: "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ..."
+    publishedDateTime: 2020-04-03T05:26:00Z
+    webUrl: "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 54
+    images:
+      - url: "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png"
+        width: 800
         height: 400
 
 secured: "VemX4nb4FAWt0MCtKkQfauEW8pDsGq8WY+y9vJhcuF0szpqSYxEbqw0W85GpW2/0unRqEpSyvcNKcPH8+aOlyEdPlpUStcG0UlAhckKc0Pw1jv5k7JKWwVlW76D9od7EpiWe3acBB/kBMtgJLrbFiUVd0nDbrwBCyD+aLHD1jdMUekpA6He0t2nzxPO4cgEHIAf8+ckXgWj2NeXIQssZorCC0wr2Ruknf5BpO+si6bvCWA6V67BFVix6TQd9l3s6OtcsVPjmPuKMR1LZAr8fx8Df1OAi1+Q1exzPFJuPov/obBawph5VhYpoEZHS+Kidf2D2+WeHyplf31Z+QjTvza29WugT86+ZX8H6VGCDiUeKffBjwXNVvYamYstzxCFNpWlk4KcLl9JRfuOEybEu+kdhIkYnL/5lP/Sz55dhjEeSMVn2tUIh8JL1kgBRRhjINuOnz0C60QqPJVzvRSkXJ8C6lkwmZrS0CO1qy3ypNws=;nPN9rem13+cV3CGd2uA3Xw=="

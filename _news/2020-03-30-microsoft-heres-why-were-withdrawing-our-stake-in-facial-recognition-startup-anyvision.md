@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-why-were-wi
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-why-were-withdrawing-our-stake-in-facial-recognition-startup-anyvision/"
 type: article
 quality: 65
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: ZDNet
@@ -28,21 +28,6 @@ images:
     width: 1200
     height: 675
     title: "Microsoft: Here's why we're withdrawing our stake in facial-recognition startup AnyVision"
-
-related:
-  - title: "Microsoft to sell stake in facial recognition start-up AnyVision"
-    excerpt: "Microsoft will sell its stake in AnyVision, an Israeli facial recognition start-up, and said it no longer would make minority investments in companies that sell the controversial technology. The decision marks a policy change for the Redmond, Washington-based software maker, which has aimed to shape how the technology industry approaches facial ..."
-    publishedDateTime: 2020-03-29T09:16:00Z
-    webUrl: "https://www.arnnet.com.au/article/672289/microsoft-sell-stake-facial-recognition-start-up-anyvision/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 39
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/biometrics_facial_recognition.jpg"
-        width: 670
-        height: 446
 
 secured: "HwH47xXM6MEgPXiW/SEzclCabhKwomFwLDFYibuEYs7ScxVs+kplraPkivQbf1kM2n0nAwnjlXG2fA/HlDFiKLnTQApgef4yNesOnTp3cOcyBqZnxJ29e/D3TmaZETHTzQq0AwI+e+9dhI66plECIxY98kHkc3ZpkwlLesiZeRn3exTiOoRHnXL7CYbFrzGrUeZdHiIEgsDnaxlPZz+G6CLVHggWQjmsbqHv9f3emD0WsH/KmplQFc8VT5NLNLF2AoNBUChUFWUx/SkG4vO5NxJL1+PajQRpVoLZFFM09U8n4EedTM8ncwOvUKr/GyCDCDOpdryAz5zKED7CCrBMrWYpipVglFEDwc4UbnP6fo9cbqJy8OISa4uo+PIuPuaj5I6xoY5gsPgR6UooV5kk4wxFSJBifPV5YDw7TnLmwNiRIjdUcnuAt/hjjTAW9F5H7ozSvjh6EAT77D6ikL84poz5G7hKh80Ud7qzZZyAWjE=;ChM/MEFvXYFgtHC5xomuxw=="
 ---

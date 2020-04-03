@@ -1,19 +1,19 @@
 ---
 category: news
 title: "Shopper Marketing Hall of Fame Inductee Joins Leadership Team of Rising FinTech Company Leveraging Blockchain and AI to Transform Retail"
-excerpt: "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a “Top Ten Mover and Shaker in Retail,” Karen Sales has joined the leadership team..."
+excerpt: "ST. PETERSBURG, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- Recognized as a \"Top Ten Mover and Shaker in Retail,\" Karen Sales has joined the leadership team at SKUx as Senior Vice..."
 publishedDateTime: 2020-03-24T13:00:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/24/2005543/0/en/Shopper-Marketing-Hall-of-Fame-Inductee-Joins-Leadership-Team-of-Rising-FinTech-Company-Leveraging-Blockchain-and-AI-to-Transform-Retail.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/03/g15650351/shopper-marketing-hall-of-fame-inductee-joins-leadership-team-of-rising-fintech-company-leveraging"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "IExGVJ9wu7r0HwfqE/FAgofFA5SyXMsNvqjTYyxnG5w7g0K4KUVQiW7Q72h1lVl8I0JSP3a5uTUBE6ePgyljfY4sZYqD/09rZFhwjahg4p10rj+NZ2zPLT29y6FeFpLJp+8mZmHILLjHuyXBILf+lvO7eYZhWdgR3rnh4Ph1S1dsomVEyvYd9qGwxohxiE9bwWbuAVafKET1sW4n/NN0D4Myk8estMqX3IX72ejdJvT+6QcjsK/CTqdY6JBZaTM6WhnfCAiMexP6aKMMykclh5hCy/JHYsYgcC/1eODJEzxhXyltgIicOFRg1+D0Wr1i;XO19M952KZXAF+gk4Yiy8g=="
+secured: "OkR5vCq4/pKt3hLpD41Kee1puoeRigQPObREj0ws3BXW2ZDuApANy/0+w9zComnNz7inxJuGtNmSt8X5MH7/Acs+lGzaljMQAfDWgSF7mZL0eZ8jcmlDy6sCwRS5ISG9XoJUTx5+cqXsQbJwyuQzc5vAUS8cnLM1QXPJuxvWYP4Dwd4Hg3/2zMPwRdNKL/EwYrx8PMmRh7BA/FHbWvEye+gW8eR1XmuIXauf1MD9qGVfNi/tPKr+z48Bvb5B1MzAjpWLU/yGaZ10rOyUHWSa2WEyvUD1jqj+xNU0u0A9oTrvSwTJdEPFlj3nGyx8uyWz;t9S6czzVpgPv4pIw9vVXvA=="
 ---
 

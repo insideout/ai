@@ -967,37 +967,29 @@
     {
       "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
       "title": "Domo Announces Support for Amazon SageMaker Autopilot",
-      "excerpt": "Domopalooza LIVE and On-Demand – Domo (Nasdaq: DOMO) announced today new capabilities in the Domo Business Cloud, including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot.",
+      "excerpt": "including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot. Amazon SageMaker Autopilot is an ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.bakersfield.com/ap/news/domo-announces-support-for-amazon-sagemaker-autopilot/article_f160b531-fd02-5442-9807-b15970e959c0.html",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/19/2003701/0/en/Domo-Announces-Support-for-Amazon-SageMaker-Autopilot.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-19T13:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Domo Announces Support for Amazon SageMaker Autopilot",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Machine Learning",
         "AI"
       ]
     },

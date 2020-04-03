@@ -23,6 +23,6 @@ images:
     height: 956
     title: "Breaking Boundaries with Data Parallel C++"
 
-secured: "EVT/r6RIOkBJaTzFeM4BL/5DCtIgpIysUoSQqN+DXExCuiXl3OSc9IIvfDXtnNB2qfeCGgJnrNtip3DgUUPtHmNDeVdeIelhwiDgY4T6wDlk5XiLj7vnqu+vPRMG6I/ItO8HB3TD2BDmsrkbMcfQ+pYMTD/nJS2/nAK/W8OMYn9mbjOg9BUb6JqdiBf+bPRWhxmzR4fJ57+iCHAMMGIQv6fHrtIAqTJrChFe5rB7Dq0r50THwX3Vh95Khe4qkKbG7Z36DSeA/kBl9vcwbqiLYI9i/KsxBgK6lnJCGp045CNJETaqLB6j06Wr7bg8dMhg;EvC5djR57/C099VyKg+7fw=="
+secured: "GQ9aiubhYowXL2D0Lnp0y69xNJeC+XynCG05/pYQfcRNYGA0kTQ3RRCsIzQGfmcI/oC7LXInq2p+YpUUS6EcnbwQO3ag6U3ZBzA0DpuByXGDj4Uw+7Bj6w8S4i99YDyfQ+HnxGKq/qKpG1JgnHejt5GkCvRpHktOguOmBt8bjKyMTjjl6dORIufCAATkKGsxVTcTmUJNOED1KXsUJg+hpf+zBoIK1cVFZmjgFCgnRKITzV6VAu+hmn/A3qA3habP1qBmi4j2/+eeWR4QDp0aFCgMSRu2q+AeUXXMkRU5Ov35siMHi5vYlB65+ppDRBMFy8uppfaWtuBMlOxmV+tQYxFoMAVttU8nThgngVEWeRUTddvYrfWk4+zhwjdfwyYEfOyaMl0feCxPpPiUEaFzi9D3jwi0AgZhJ/AdO+S+Z9ucRzdzVn/IiYOk182gNAs2QXGwTsSDb+XHQdYqRdRt9xCZvFfkYW0rRGIswfYejQE=;B9D1ESK6j2ifYW613rA4wA=="
 ---
 
