@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com"
-excerpt: "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application."
-publishedDateTime: 2020-03-27T09:29:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/b15680177/global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autono"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15680177"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15680177"
+excerpt: "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application. In addition to HD map services for third parties, more companies applied in 2019 to be the eligible providers of electronic navigation mapping with ..."
+publishedDateTime: 2020-03-27T09:26:00Z
+webUrl: "https://www.businesswire.com/news/home/20200327005137/en/Global-China-HD-Map-Industry-Report-2019-2020"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "IGrU1HIVh75/LwkYVlK/ohY1iB6hrXQyLbBZxcMSkxGPQX0aTcl7MyBeh7Bd4L/lIesOT+a7J3hdH1ZWSHJ+o/cnGU05H4WmNHdLZQqKx7+9drVdsiqG78UD3Crn5tHhy95r/YxloZSxexjli+M+A8rdau4Q/TE+sA6hZ6VwZxYu8Bco+ElmVQbt+inWJwGDR+3fKF1JKCSbRtyVgyawBHCsiCsmzlAIZhKoYqM2yKqHfPx+SeJ7VceTaRGcA52XyAUx8f6AVKic7uRPZAtzoMCkmfrhdBbGaJCwUwpB8Oclw+xiIEwUAl708E1doHvZ;40ROHCDCsyetPt+km9GNpA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200327005137/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
+    title: "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com"
+
+secured: "y23cA/pVWZiggFFWEqlq0KLbo43lf+qsKd/+oMrxs2hnbQG3uyphIkBAr7e3hgQJ/quRpmZiwnrWOLNSVZzgFp99oBjofW0sObO67mWDwraGpSRU0tJUV8ZsmcLrsg2IFtDSbJVf7fozcNSY9sX+0MOpjJrngQOfhhQLtTtSSrmVhkDcp/+SkF1vq29k2zd07T0Tbf7Tt52tq9gkgH7ZjWWKmRD1EJbY76dWgzrY69Xt5m/WfQ1SwLrmvmitnpPfUv86rBR7FtmPI2J2jIY9zIbtJhiT9t3yRGGbfVvfK3kcuhP8SFXln9ZJPutWhL4f;rnxLXfklkXiKLgittawTYA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "The MarketWatch News Department was not involved in the creation of th
 publishedDateTime: 2020-04-02T10:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029-2020-04-02?mod=mw_quote_news"
 type: article
-quality: 47
-heat: 47
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

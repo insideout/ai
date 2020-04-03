@@ -5,8 +5,8 @@ excerpt: "One popular topic which has been covered by most media houses over the
 publishedDateTime: 2020-04-03T12:55:00Z
 webUrl: "https://analyticsindiamag.com/how-the-mainstream-media-covers-artificial-intelligence/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/artificial-intelligence-media.jpg"

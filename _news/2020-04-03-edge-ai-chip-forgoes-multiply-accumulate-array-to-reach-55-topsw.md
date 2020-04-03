@@ -5,8 +5,8 @@ excerpt: "A silicon valley startup claims it has reinvented the mathematics of n
 publishedDateTime: 2020-04-03T16:38:00Z
 webUrl: "https://www.embedded.com/edge-ai-chip-forgoes-multiply-accumulate-array-to-reach-55-tops-w/"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2020/04/Perceive-Ergo-chip-on-board-s.jpg"
@@ -22,6 +23,6 @@ images:
     height: 511
     title: "Edge AI chip forgoes multiply-accumulate array to reach 55 TOPS/W"
 
-secured: "8ysc0rvco4qdml/LGHkv1ZE1/HnumzawBWHtb7iILTmPzc5c45kI1r3B8EMlyYRKYjX5JqyVCeOcZ/i0ZV3jbtbWHygq9b8vmAd282fBtHIS8HImX7GhH3QvP3bIr8nGHUeNRlmPlTDB4rfAM8KPVzAGrFaBbi1vtEnj3AM+LssiYMCCILxBV819NmVZggt7U4wAKMHzhuCUbUnuYbbiwyfTGyRr4k4WYJ6L+33AgOB2vl82FDdM5OE4XarwYji3sBFMbKasMxyrmjt60FfSz4Cn/hCxFrROejcP2Db3SMjw7y1BNsnNZrI2S6FGR1Mm;Y/k6DtUD0gRreHttnsGDog=="
+secured: "tH77Kut1FRWO0+KEucEoUL5abX6l7+twOHpJlI2k8qmCs7wcQfTmh/Iwdh2lSYaShb+tyM7A11EXoIDL5hYopJqiYeT+n734HtZCwCtiLAEIDTv8HmPHoIA8XsYVZcITHs1F6yGlWxWCxo3qZsOoqmdL+KtjNJ9oE10d1qyA6uLkdASCKQlBU/z7vcMPoWqT6XmjEMLRJfqhvHaTXMm2JTFORANW30ga/LJtjadCKxzSLkjcLV2PFB+gjvjR2q3xi0i9tjx2Hc6bm1IxCz+v0qeZyCvwTdJvauFjDao5R5kubYJTi1XC+lIGJAhSvvaC3/C2HFHautRbWx612t63gIjYEoJmez8dUubMkURSEE9n0FTKJen1VC258T0gkVImydPvomFapJ1Brt2w84ga2ydWNOpomRCGcz+JFW21FNwvrKX7SYIGf3G9tyXlMByXg7j9aHHfas20lAH3kSLM7tTKwt60q0N5mSBZbC3AKz8=;1v/kHzEGQ7zPNNuPWPMEhQ=="
 ---
 

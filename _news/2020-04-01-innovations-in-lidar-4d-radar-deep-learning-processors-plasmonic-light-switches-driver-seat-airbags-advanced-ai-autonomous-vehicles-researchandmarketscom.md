@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com"
 
-secured: "vEO8io87ScfE3GpSkjxTm2A2Eps8OKZI8B7VPpQGqXbK3dmDDj84urHHLPBEXBgzj6jhuajqCevcNCxHIXEAvLqP6V6iewC86+vEJDdZhJZPpDLDVSPFoDyUpsDtqu/ciFLeT3Nc42kXT7JiPsX9hTBhn94lK0sli9NBV2vBTTNVfmrX/140upu5KR+gIqtLD0n1wSrRZFsKMM6Eeiv1ZgbgMUjZldzlVIUWRLGpVW74mSHEpCZky7Uq3KUbSP5EBDWWqo0uYHSZd2tvhyJbsyfIRP4haInknVqBaMZzAUpB6JJPpn4q5/3PJo/yt7N3;SRpoK+9J3HHt3RKKs4RumQ=="
+secured: "HIODvANiWyeFQCs0AihoD2lWR0iMU8qcghBgreRHDl5r00vPWqythPCWFKWMuEfPTI13vCfXOY5aNHpxyobpY4nRiz/5Ak23nb+/PSuR2ml5V/TunvJzzufT1rq54HnIYMQUI6S0alsdptLQruM4JHQeKNLAFa1ir/5MMVo2fkam3v3ItYxNZCiZgiJTZhWChTQammWIAOiMDZ2Dz7pBQ6utxhPQlW0fcqlfVcAbQyUO3O4qiT/uO3Yqavz9F4xklLT+sOdWi1R48s5yz0wUhyGd0KnFd90hJLnjUtXaB8L+1WQXHYY68Hblh1J2aKBmCtjenKvt21Dk89K0ts2nz9vpA9nq9bDBw3uzPmbOHCRSw+HGtBTBRTGHmA4ZFvmfS/7bFvXxx8g/asdeIF+RsXJIlqSBfUIJ3ADytDU+7UQO9lkzwb4mEjDaJ9y+BQpm+GYQ2xm4fKa+pQ/S2Ng2eZ0nc7L3DI7wB/xtRwJ+SKs=;sNCilfZvkpBD+Fm9R7ki0w=="
 ---
 

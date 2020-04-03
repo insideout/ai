@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-24-nvidia-azure-and-aws-offer-free-resources-to-fight-against-covid-19.md",
+      "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
+      "excerpt": "However, for these machine learning models to work, they need tremendous amounts of computational power ... NVIDIA Parabricks’ pipelines have been tested on Dell, HPE, IBM, and NVIDIA servers at Amazon Web Services, Google Cloud, and Microsoft Azure. NVIDIA advises users to start with a small server for a small number of samples and then ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/nvidia-aws-google-cloud-free-gpu-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/nvidia-gpu-covid.png",
+          "width": 680,
+          "height": 383,
+          "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
       "title": "University Students Are Learning To Collaborate",
       "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
@@ -1162,44 +1199,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum.md",
-      "title": "Responsible AI Moves Into Focus at Microsoft's Data Science and Law Forum",
-      "excerpt": "A year later, Microsoft set up its AI and Ethics in Engineering and Research (AETHER) Committee, a cross-company set of internal working groups tasked with deliberating over hard questions about the use of AI and advising Microsoft leadership on its development. The AETHER advisory committee set the blueprint for the publication in 2018 of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/",
-      "ampWebUrl": "https://www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/information-management/responsible-ai-moves-into-focus-at-microsofts-data-science-and-law-forum/amp/",
-      "publishedDateTime": "2020-03-12T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/images/smg/editorial/2020-didier-reynolds-ec-commissioner-for-justice.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": "Responsible AI Moves Into Focus at Microsoft's Data Science and Law Forum",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

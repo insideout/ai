@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     title: "Scientists are using AI to predict which coronavirus patients need ventilators"
 
 related:
+  - title: "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices"
+    excerpt: "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ..."
+    publishedDateTime: 2020-04-03T19:47:00Z
+    webUrl: "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/"
+    ampWebUrl: "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1165649734-e1585940050791.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Artificial intelligence to predict which COVID-19 patients need ventilators"
     excerpt: "Experts at the University of Copenhagen, Denmark, have begun using artificial intelligence to create computer models that calculate the risk of a corona patient's needing intensive care or a ventilator. As coronavirus patients are hospitalized, it is difficult for doctors to predict which of them will require intensive care and a respirator."
     publishedDateTime: 2020-04-03T11:37:00Z

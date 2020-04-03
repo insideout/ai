@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
+      "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
+      "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/kevin-scott-reprogramming-the-american-dream/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T11:04:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/04/kevin-scott-reporgramming-the-american-dream-rural-virginia_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-clinical-ai-startup-jvion-launches-covid-community-vulnerability-map.md",
       "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
       "excerpt": "In an effort to help flatten the curve in the coronavirus pandemic, clinical AI startup Jvion has launched the COVID Community Vulnerability Map, a free, publicly available tool that identifies populations—down to the census block level—that are likely to experience severe outcomes requiring hospitalization if they contract the virus.",
@@ -1234,43 +1279,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-nvidia-azure-and-aws-offer-free-resources-to-fight-against-covid-19.md",
-      "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
-      "excerpt": "However, for these machine learning models to work, they need tremendous amounts of computational power ... NVIDIA Parabricks’ pipelines have been tested on Dell, HPE, IBM, and NVIDIA servers at Amazon Web Services, Google Cloud, and Microsoft Azure. NVIDIA advises users to start with a small server for a small number of samples and then ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/nvidia-aws-google-cloud-free-gpu-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/nvidia-gpu-covid.png",
-          "width": 680,
-          "height": 383,
-          "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

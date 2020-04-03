@@ -34,6 +34,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design50-796x417.png"
         width: 796
         height: 417
+  - title: "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices"
+    excerpt: "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ..."
+    publishedDateTime: 2020-04-03T19:47:00Z
+    webUrl: "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/"
+    ampWebUrl: "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1165649734-e1585940050791.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
   - title: "Artificial intelligence to predict corona-patients' risk of needing ventilators"
     excerpt: "Many different factors come into play, some yet to be fully understood by doctors . As such, computer scientists at the University of Copenhagen are now developing computer models based on artificial intelligence that calculate the risk of an individual patient's need for a ventilator or intensive care. The new initiative is being conducted in ..."
     publishedDateTime: 2020-04-02T19:47:00Z

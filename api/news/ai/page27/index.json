@@ -2,6 +2,162 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-03-09-artificial-intelligence-the-dna-of-data-that-fills-the-gap.md",
+      "title": "Artificial Intelligence: The DNA Of Data That Fills The Gap",
+      "excerpt": "Organizations understand the importance of using data to reduce costs and serve clients and customers effectively, but what happens when the data is too voluminous to understand?",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/09/artificial-intelligence-the-dna-of-data-that-fills-the-gap/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/09/artificial-intelligence-the-dna-of-data-that-fills-the-gap/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/09/artificial-intelligence-the-dna-of-data-that-fills-the-gap/amp/",
+      "publishedDateTime": "2020-03-09T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2F109.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence: The DNA Of Data That Fills The Gap",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
+      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
+      "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
+      "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.algemeiner.com/2020/03/09/artificial-intelligence-the-forbidden-fruit-of-the-21st-century/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Algemeiner",
+        "domain": "algemeiner.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.algemeiner.com/wp-content/uploads/2017/10/torah-scroll-e1504233787694-2.jpg",
+          "width": 720,
+          "height": 360,
+          "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-web-developers-dont-need-a-math-degree-to-get-started-with-machine-learning.md",
+      "title": "Web developers don’t need a math degree to get started with machine learning",
+      "excerpt": "Google AI researchers conducted a study among 645 users of TensorFlow.js, a framework for machine learning with JavaScript. The goal was to find out what motivates software developers to get started with machine learning, what they expect from ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/web-developers-machine-learning-tensorflow-js-169458.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/03/tensorflowjs-survey.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Web developers don’t need a math degree to get started with machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
       "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
       "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now because it's the centrepiece for digital transformation,\" he said. Abhishek spoke about how the mission of AWS is to put ML in the hands of every ...",
@@ -1001,146 +1157,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-nvidia-buys-object-data-storage-startup-swiftstack-to-build-out-its-ai-stack.md",
-      "title": "Nvidia buys object data storage startup SwiftStack to build out its AI stack",
-      "excerpt": "The company started offering its SwiftStack Data Platform for artificial intelligence, high-performance computing and accelerated computing in 2019, including the SwiftStack 1space that enables ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/05/nvidia-buy-object-data-storage-startup-swiftstack-build-ai-stack/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T18:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/swiftstack.png",
-          "width": 1076,
-          "height": 786,
-          "title": "Nvidia buys object data storage startup SwiftStack to build out its AI stack",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-alitas-got-nothing-on-this-mind-controlled-robotic-arm-that-links-to-your-nerves.md",
-      "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
-      "excerpt": "Alita may be able to take on robots twice her size because she's a cybernetic powerhouse ... These nerve fibers could then be manipulated to give the patient more precise control than any prosthetic ever has. Video of Ultra-precise, mind-controlled prosthetic hand for amputees via RPNI neural interface This was achieved by a muscle graft ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita",
-      "ampWebUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
-      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
-      "publishedDateTime": "2020-03-05T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Syfy",
-        "domain": "syfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/03/alita_arms.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace.md",
-      "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
-      "excerpt": "NEWTOWN, Pa., March 5, 2020 /PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development solutions, today announced that the EPAM",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-epam-cloud-pipeline-released-in-the-microsoft-azure-marketplace/article_05440427-ea7e-53ab-8258-88b878ba0d09.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/5/9b/59bc3e30-ef53-5706-8b02-8582cf49a64d/5e61c7743dfee.image.jpg?resize=400%2C277",
-          "width": 400,
-          "height": 277,
-          "title": "The EPAM Cloud Pipeline Released in the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-06-computer-model-mimics-neural-processes-in-object-recognition.md",
-      "title": "Computer model mimics neural processes in object recognition",
-      "excerpt": "\"We chose street-scene recognition as an example because it has a restricted set of object categories, and it has practical social applications,\" said Serre. The IEEE paper describes how the team \"showed\" the model randomly selected images so that it could ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vision-systems.com/factory/consumer-packaged-goods/article/16749835/computer-model-mimics-neural-processes-in-object-recognition",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vision Systems Design",
-        "domain": "vision-systems.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

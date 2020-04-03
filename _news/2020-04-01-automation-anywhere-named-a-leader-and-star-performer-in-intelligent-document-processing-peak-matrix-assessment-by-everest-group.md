@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group"
-excerpt: "SAN JOSE, Calif., April 1, 2020 /PRNewswire/ -- Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that"
+excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and"
 publishedDateTime: 2020-04-01T13:00:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-1029054696"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-1029054696"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-1029054696"
+webUrl: "https://www.prnewswire.com/news-releases/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-301033136.html"
 type: article
-quality: 25
-heat: 25
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "8Q9CgS/X5dcsxA+aho+N0VWmcEebkrwlijTmo/dCJ6TMSVHsompDYFJbtIBWPEq08ysjlHqKzaMTh15hqUDiQkoqNsKjmTz4MxdV9wZO5C4QpnS+5PQThjdO99Grvwo62gxlJbCpjM7SBrPsWTREN1uL9+8X8gUQS4JNXRiZ7eSYZ0wqNFiIcrWu3zFs3YSkdncmjjZeMEioJC/F2HdAu38fHQxBZ1TZdE9pG9JSaeBlF6xt73MzFYk5mfz1jiCW83wrXBQw4ENY6wmedM/8FdRyM1i7HozCo3NNDbEUw6SYtGvDckvgf4qtWOlcK5oLMVNYhUtDiLGw9cC1bRHlqThCOtydACg7QZplFzZ5xN0F1+G6eZ7dinCAeHF+4WQnuyiFKDrPQgUI4EcFImM9lsrGTEFoye/rx37MvXu7Fp35fhDKB8QVpjE9t73qQyv4Ae1/RaDKb6+mpNeg7FOgyZRVpB2GPKzmdcna05C9KIU=;GBgbR6LMFxWyCX7ipl4W0g=="
+images:
+  - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    title: "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group"
+
+secured: "Fy/A3zl/aeePqb63jpwtX16egK1vu7g5UGi4XmX6+0lGwo/ow6X2sKsQmgI1sUsAVO7SWMux6q3kApl+PMyUfr8wGZm+bWcicWyDZBMOKO78e8IvJQe7pXTY+v1L6SFxGDZ+KXIE+EOH+8eBq1wdzapDd4JMTbhtOnd5aI9t5xAD4hGDnvsttvBopZZNdUfG+mRhLXiq6Dl6YEACHXhRsCJAYbxN+Lf2du/d3oTm+U3ZpvBBnPI3YHa3sj8vx8munoBeozPGpOVC5lp7jTOrF3pvQgOO0z6mlC3i+5UGEQ6z5gTLLUf6BFvjSWuy8Fj/;J3WuvRWuws17FRA/4IpOlQ=="
 ---
 
