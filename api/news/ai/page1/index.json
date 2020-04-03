@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-03-automation-may-take-jobsbut-ai-will-create-them.md",
+      "title": "Automation May Take Jobs—but AI Will Create Them",
+      "excerpt": "Kevin Scott is the CTO and executive vice president of AI and research at Microsoft. He's the author of the book Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All. Musk’s words are very much on my mind as the car I drive (it’s not autonomous, not yet) crests a hill in the rural southern Piedmont ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/",
+      "ampWebUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
+      "publishedDateTime": "2020-04-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e85223e5cf5b3000849ce15/master/pass/OpEd-AI-Factory-833655698.jpg",
+          "width": 2400,
+          "height": 1618,
+          "title": "Automation May Take Jobs—but AI Will Create Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-three-ways-computer-vision-is-transforming-marketing.md",
       "title": "Three Ways Computer Vision Is Transforming Marketing",
       "excerpt": "Below are three cutting-edge computer vision techniques, based on my experience investing in computer vision companies, that can provide some answers and potentially transform the marketing landscape.",
@@ -320,7 +364,7 @@
       "path": "_news/2020-04-02-microsoft-expands-the-availability-of-azure-kinect-to-japan-germany-and-the-uk.md",
       "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
       "excerpt": "At MWC 2019, Microsoft first announced Azure Kinect, a connected depth camera that enables organizations to build AI vision solutions. Azure Kinect features best in class depth sensor, high definition 4K camera and a microphone array (7 mics). In July 2019, Microsoft announced the general availability of Azure Kinect in the US and China.",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/",
@@ -530,6 +574,50 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-amazon-and-sensetime-detail-omnisource-a-framework-that-scrapes-web-videos-to-train-ai.md",
+      "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
+      "excerpt": "Researchers at AI startup SenseTime, Amazon, and the Chinese University of Hong Kong say they’ve developed a new framework for leveraging web data — OmniSource — that notches records in the video recognition domain. By overcoming barriers between data formats like images, short videos, and long untrimmed videos and adopting good practices ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/amp/",
+      "publishedDateTime": "2020-04-02T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1241,98 +1329,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-train-a-deep-learning-image-classification-model-with-mlnet-and-tensorflow.md",
-      "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-      "excerpt": "Image classification takes an image as input and categorizes it into a prescribed class. This sample shows a .NET Core console application that trains a custom deep learning model using transfer learning, a pretrained image classification TensorFlow model and the ML.NET Image Classification API to classify images of concrete surfaces into one ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-transfer-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
-      "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
-      "excerpt": "IBM today announced the launch of Watson Assistant for Citizens, a new chatbot solution available to government agencies, health care institutions, and academic organizations free of charge for 90 days. The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19 ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
-      "publishedDateTime": "2020-04-01T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,95 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-02-how-ai-will-impact-the-future-of-patient-care.md",
+      "title": "How AI Will Impact The Future Of Patient Care",
+      "excerpt": "While the promise of AI in medicine is huge and will lead to many exciting breakthroughs, it’s important for the medical community and regulators to be wary of its use.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/amp/",
+      "publishedDateTime": "2020-04-02T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-75.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Will Impact The Future Of Patient Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-robots-and-the-autonomous-supply-chain.md",
+      "title": "Robots And The Autonomous Supply Chain",
+      "excerpt": "Autonomous robots have an increasing role to play in supply chains. They are being used in warehouses, on interstates, for last mile deliveries, and even in stores.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
+      "publishedDateTime": "2020-04-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066949498%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D308%26cropY2%3D3683",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots And The Autonomous Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations.md",
       "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
       "excerpt": "Today, it’s taking another step in that trajectory with a tech acquisition: the company has acquired Geomagical Labs, an AI imaging startup based out of Mountain View. Geomagical Labs has a number of computer vision-based technologies in the works right now, but its first product — which allows a user to quickly scan a room using any ...",
@@ -707,50 +796,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
-      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-      "excerpt": "That same year, entrepreneur Aly Orady launched Tonal, an AI-powered wall-mounted screen that focuses more on strength training. It features an exercise bench and resistance system that uses electromagnetism to simulate weight machines. This month, entrepreneur Trent Ward and designer Yves Behar are unveiling their sleek design for a mirror ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://us.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "publishedDateTime": "2020-04-01T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
       "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
       "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
@@ -783,6 +828,50 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
+      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "publishedDateTime": "2020-04-01T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
           "attribution": null
         }
       ],
@@ -1008,98 +1097,6 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
-      "title": "AI vs your career? What artificial intelligence will really do to the future of work",
-      "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "publishedDateTime": "2020-04-01T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/04/657acd78-13b6-4989-8ecf-673fb8d38d60/thumbnail/1200x675/ab7a6c328b2d02457d5800ac6d49ad7f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI vs your career? What artificial intelligence will really do to the future of work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
-      "title": "AI and ML move into financial services",
-      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "publishedDateTime": "2020-04-01T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and ML move into financial services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,96 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-26-8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home.md",
+      "title": "8 ways to protect your Amazon Echo privacy while working from home",
+      "excerpt": "With states on lockdown and companies asking employees to work at home due to the novel coronavirus, there have been concerns around the internet that Alexa may be listening to confidential conversations.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/how-to/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/8-ways-to-protect-your-amazon-echo-privacy-while-working-from-home/",
+      "publishedDateTime": "2020-03-26T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/7jPvaiaAoUDSSF-B5aUV6DFN9Dc=/940x0/2018/10/22/fc5cf5c1-a4f0-4e40-83a5-78dd5f7cec06/fear-alexa-1.jpg",
+          "width": 940,
+          "height": 529,
+          "title": "8 ways to protect your Amazon Echo privacy while working from home",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants.md",
+      "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
+      "excerpt": "For companies like Nvidia, for example, its use of Textio has led to a higher number of women job applicants. Textio uses natural language processing to color-highlight and interrupt bias communication in workplace text like job applications, LinkedIn job candidate outreach, or emails on Outlook or Gmail. Accommodation language- and ageism ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/textios-ai-optimizes-for-inclusivity-to-help-companies-attract-more-job-applicants/amp/",
+      "publishedDateTime": "2020-03-26T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/textio-2-1.png?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Textio’s AI optimizes for inclusivity to help companies attract more job applicants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams.md",
       "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
       "excerpt": "Now to add to that we’re starting to see a new theme: apps to help agents track how they work and to work better. Today comes the latest startup in that category, a Dutch company called Kaizo, which uses AI and gamification to provide feedback on agents’ work, tips on what to do differently, and tools to set and work to goals — all of ...",
@@ -947,88 +1037,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ibm-launches-an-interactive-dashboard-to-track-coronavirus-on-phone-and-the-web.md",
-      "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-      "excerpt": "IBM’s dashboard runs on the IBM public cloud and uses IBM Watson to access and analyze data from the World Health Organization and multiple national, state and local governments. The dashboard has the following features: An AI-enhanced interactive “Incidents Map” of COVID-19 data and stats, including confirmed cases and more by U.S. state ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/",
-      "ampWebUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
-      "publishedDateTime": "2020-03-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2020/03/IBM-Cognos-Analytics-Dashboard_County-Level-1000.png",
-          "width": 1000,
-          "height": 625,
-          "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
-      "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
-      "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
-      "publishedDateTime": "2020-03-25T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design38-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

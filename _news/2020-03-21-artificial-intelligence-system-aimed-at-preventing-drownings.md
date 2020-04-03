@@ -1,21 +1,25 @@
 ---
 category: news
-title: "Artificial intelligence system aimed at preventing drownings"
+title: "Artificial Intelligence System Aimed at Preventing Drownings"
 excerpt: "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them."
-publishedDateTime: 2020-03-21T07:01:00Z
-webUrl: "https://www.newsobserver.com/news/article241279376.html"
-ampWebUrl: "https://amp.newsobserver.com/news/article241279376.html"
-cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article241279376.html"
+publishedDateTime: 2020-03-21T07:20:00Z
+webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings"
+ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
 type: article
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "130z4/FmG7p7To44iS9zFgtAU1pRCQQN34WcI+dQRFln5rwDJNjXi0mhv6BDtOEvl1DE/vNHZviTFjCcjT/2ifCULqu7fgkY/8OUhVm6QDX3O74TAm5LkCBVKrPFichFX6TxrCP38Z3Y+rqtKFQC8Yy6Lj0MLTtQsxJQ6JZdL2GAB4QIj/LFPUq18YcmbxgVkS8qcShCUUKEzNTqwHHhgiVA79GNazx2DnN3Dj1xcyoGfkziRl+HaOwoy5ImKADpLgqbLFyUTRfOqndMYFk5oMZur/e116eTudKofOVicuz4exCHaKALd5CMe+Hx0mZNMdc8oITyqJaWc8eqKWeRVBa7+x56xVegKretSaG2ymPpv/Tj5APsbJQuHOXgu0JB8Ncxue7OAwkvp/EBm6/ZFEq82ioPjnAz19CXTIj20aXujCyMqXmzNNtFM8MA/ARkJ5FSKGQPkreuPhJ+As3jfq/YxWbtdwTPtCeTvoU7Vhs=;jLufmihqW1B0vwK601WnSw=="
+secured: "QTaTNJxWfJ/9L+9beoOu8NHstzQRUTuLb2/wYY1wTkhBInm5ItNqriDiRRZbw7AN6/651UbGnoumHNYZ2mTJxCTwfK1AMSFgHS5BoFx3dojLUnq5W0rTJsmYQcwmhx0xfGFO/F3id7MmOVzmeCWGyJL/FXKbWZe34l4WCcrvUnULur2fQekyFjbymuxmY5k8r/fKfu5I5Z/8puUxCie0lbJRAfbt4qtVGaxCkgpbRhDXXWGrmmmS8rxA/gawooSNP5C4w2ak6S7Rfz6j1JK+Rdxg5zcGEHFbBuPcvNcCgEy5HkrMR19TZpYlOk3SGiXQoHoCaWdmhXbURx6NW5tmrH3fxotCKG92k+dDHFtNPPygcju9sMGWwXUri830EeUfotcU/BfqOSeXbSalcfsl2qfVmN5ORCpjcgdVWTp2YmBTTsJy6wr8/y3dr8td7brZLE/ha+VhaE50TD4E1G3bUCQj6QQTBVnpcEIpn/vYFho=;SpGD4ukFpJgsfJRUL6u1vA=="
 ---
 
