@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-02T19:47:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uoc-ait040220.php"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,19 @@ images:
     width: 900
     height: 300
     title: "Artificial intelligence to predict corona-patients' risk of needing ventilators"
+
+related:
+  - title: "Artificial intelligence to predict which COVID-19 patients need ventilators"
+    excerpt: "Experts at the University of Copenhagen, Denmark, have begun using artificial intelligence to create computer models that calculate the risk of a corona patient's needing intensive care or a ventilator. As coronavirus patients are hospitalized, it is difficult for doctors to predict which of them will require intensive care and a respirator."
+    publishedDateTime: 2020-04-03T11:37:00Z
+    webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-covid-patients-ventilators.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-covid-patients-ventilators.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-covid-patients-ventilators.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 35
 
 secured: "ZX9nS+eraxIuCJRlIzGaxN2cymx/6Nhd2+cjWkHk+MAJlboTjEvA0xtHf+2JUJD5976s6Z1VpXLFLpBq6OFyf0pQmkHGIj7G/pAiFHe/8EmcVmpvSdpJjgWPRJqLznY+Z1E2uJQWVaJBXerd/6ouDpSNKVl7cEys0monoUEpOX7iKPhW3Lj0AhH9aOQ0ED723kxJxwZdHXBZjyicqAbGZO3FLFBmrO3Mb6KYxTc82llFrCFbeQSJPXW9sl08Zq0lSRXVaDP3+V14Pk2K22TUqCEN0oNhhQHdHHF4XfWWg+89zqPsDV/fKEy12HE1ikhr;TGoWFC3cqEPTc1GxmIaRsw=="
 ---

@@ -3,9 +3,9 @@ category: news
 title: "IBM Watson can answer all your coronavirus questions"
 excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
 publishedDateTime: 2020-04-02T17:28:00Z
-webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+webUrl: "https://www.techradar.com/in/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+ampWebUrl: "https://www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
 type: article
 quality: 89
 heat: 109
@@ -61,6 +61,6 @@ related:
         width: 3000
         height: 1917
 
-secured: "o7MNWfdtVeSyP33721Q/zd1OebdPtdoDx6Fqi8PRmF9N6IC6Ig+Bn4wEb2lZx82Tem6eoFjJMxEeUNzS8zVgokwt2ddysT3pZiF3CbU94kg6rd9FhKGAkzboetDfmVssLHo5cITv5yY4+ZSzPp24zYo2U+Uai32k5iTG2gg2asDGn7aK+V6x9t1kxuTxmrF1XuKCWekKk9twGw37jWxJUd0tcVSGIEDn2zC9n5Log+iVHZWHSvtxWv7cAlZgab9fn3H1BtEvWNHsYwSAAe0MXINQTSk9wl7zpMkVPEWovvoNS1FgcPXrPQX9iZTgQs1TUZOuGrSWQZAr1B7Tg7WssYBmppKYl/IP0/J+FoJEBXxZGScesezauTHr1Zj6Zvm/zBuw2kAtQiEmpffRNizJ9ta1YN27EgDojXX0+E4VMKr6dq/6XsDfO17ykYuP0xEF6mdlYa+LbMq6RfjKKG11nfhas9Gcp9HFCm/3lFiM6AQ=;Lch41hl+BB021FtJlbgwNQ=="
+secured: "FmcpwYlZQ3kxFrIs/E079xhuCrQxLjZseUhUc2auBYtYve7IW1ONUgriNZiE9vtsEMuxhj8ZgqMNhUaqdQwIWh0f1Tw6kul3IGsnV30JogbV+5eAebaTjTUwQiQyIovF6K7otYlkISXC9gyW8lOfJ8P1v8Q4giA9YzxPiGVzSGY94cDJ1BoT2LIpNbCEHyC8C8z+gtpou/BjD/4xp2Hzfed0MEQY8K/SBBdu+91GVJ/WhJ2udQ5eqGruwnUIr8hahyrIYqJJYB4NuPaGLcMNnfunHtdxIP8CZVRy3v0VGremyXXYZkT3iagOWt5TqHDp;q0duhREpE0zBMQZ4BYAmkA=="
 ---
 

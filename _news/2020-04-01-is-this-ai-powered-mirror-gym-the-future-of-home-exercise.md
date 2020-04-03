@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Is this AI-powered 'mirror gym' the future of home exercise?"
-excerpt: "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home."
-publishedDateTime: 2020-04-01T15:17:00Z
-webUrl: "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html"
+excerpt: "That same year, entrepreneur Aly Orady launched Tonal, an AI-powered wall-mounted screen that focuses more on strength training. It features an exercise bench and resistance system that uses electromagnetism to simulate weight machines. This month, entrepreneur Trent Ward and designer Yves Behar are unveiling their sleek design for a mirror ..."
+publishedDateTime: 2020-04-01T16:33:00Z
+webUrl: "https://us.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html"
 ampWebUrl: "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html"
 cdnAmpWebUrl: "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 619
     title: "Is this AI-powered 'mirror gym' the future of home exercise?"
 
-secured: "EV3dcqLyGKIff37GNvQVJC2dpy5ENIzTB4cci/Co7Dc5ejtPmT3d0FzWcjyO7h3nE8/atQkRpIUWfTI0bFbiqbBVvSOoXhgO5EZz6hVGqJEyxgcsfJA3kiJ2HO2ubO3irFMOk+sWlEEko3pI2yy9pkW3Wkt+KlG9QCf6OJeSHEJgkTcZPXmY1rjzLPkIEGKKzuSoToJ4Alc3L6lS2NZH7dUUt33FZ5Ut7KuBdRY+5UqWXZ4hGyvICEve58DZ2CW/JZpkApgjGbFs3wlp8ngk3ETiQKgQip7RWlRvVyNOlmSNjt+q3RlIXHTfTuD8DkU8St1XM8oecMOIJa5Qd1TaMBaYoqwLoLSTUFGkI/3pIlPPfQ+acb6HcxobOMkKJnID5j7EiTjVsi0tfwRjvQl1FgiR+vbxNcTBEBU+mKPq27fmB1XPzfaKcbxBspYBwaIqaf142ShwPmXjcDRmjY0n8jbmzvGsgTGdOR7PWdU8aqw=;GCY3qKxH1LJ2/V1/pEI8Dw=="
+secured: "Ee/Ky5a4qaJDLeBkTjZABvfEFElPMCQMf+TAiRV+qwmwFo2msozeT0tA0N3iS/9kn4lzG40XRAKFbQCpSKut2R1Mv/WL4niXtakZprQgVqXjMMtFdivD3hVP9JW6bhdFtec2RVaPPnb+JwqiUQoMQ48F7IZdGVpaXvL/KC9CgT4eZqpk2jM1Bqjz/I1ScmAU82miCvvCRtkhdGjBm+T9knDYnLkk3ZwuT6hzRNpOsiYHUlz6ZFGngBfH0ySvXD2DRtuJ15lZ1bG4WzN0NZncc56qrwrB2tB/BpcID4jvu34ZjmRmuMZDJi7OLMBzwraO;8IWIvuDKdiCfneUZboZsFw=="
 ---
 

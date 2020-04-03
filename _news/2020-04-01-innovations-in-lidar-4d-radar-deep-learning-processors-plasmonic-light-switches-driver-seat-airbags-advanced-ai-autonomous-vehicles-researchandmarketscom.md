@@ -3,7 +3,7 @@ category: news
 title: "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com"
 excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI, and Autonomous Vehicles\" report has been added to ResearchAndMarkets.com's offering. This Mobility TechVision Opportunity Engine (TOE) profiles advancements in solid-state LiDAR and 4D Radar ..."
 publishedDateTime: 2020-04-01T10:52:00Z
-webUrl: "https://www.businesswire.com/news/home/20200401005336/en/Innovations-LiDAR-4D-Radar-Deep-Learning-Processors"
+webUrl: "https://www.businesswire.com/news/home/20200401005336/en/"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com"
 
-secured: "VcZEM5waShTxWG0EtFS39RBYj8H/n7DJQlfTtG3TN76veGk4z+bvKBsd1tCfcO3ibKjnhhsfc3LhTiMMGQgpYFWrXx/2ILFvUFRmWpk8IMrCVc/UCq8rVnDI5Go4k4FBVqlofd8LLh7l4oINwuCZjx6mp2l747hfkQYW72gpf8XGeQdPh9Z1ETS2Ng5hdDXM4H4n16WC1/HS22qumaY7SEBvEs4s+ZO7eYVHuPocnWYwZfcdSch0gOJUffKkS4ovDq5uPr8us1SzLylukV1lISM6jlE+gbhAUSbNFO2JbsmeLvxrRVu7fCpMVVGLg7xDVrDtUMHnG/0huJCRX2eMKOvVCrXV5Cxu2hYQ2o5WWfEl6qf09IQXpXIgcrMYpiuPqxE48hGsxLDWj/A0y7pemTwsOM88Tpj0VjWBgKg+o3GfxYvg3Bx0SVGHfrWm/FrxfEnqay1IdqXtnmtZWJ5xiufYKH5m7Ehf4RIVq1f4/FA=;C4bPXTMp41JY9isjrr7tag=="
+secured: "zsxjlIXZ/okQ+xfzvX+NvoWGC3y6gqtwcoNKyc/yeJt4lYdDpm6DqQOKaJWoGtwIh6J1YK0ZAfKXsRefXYzEKestuXjcutSt8rkCUQCrq5zZd4uPHVpfHlROwCSB/ksNFSpAaAXATxU0sug1XDRKrsVj7GHUuh34NiIwOwA0Mj5ShNBHOAcUzdEM5VABBQuJs0qk6rISzTH9rBTKDVn3ACES/nRoNckHJov+uswsxkUfCG68DpKMw8h35UVfoVG5fAFgIwoxCxzyL34siNM6oVAPqW+nvpwsKW2gFMP/CGnU7rG/Q4W9gdiKbsaG3hTT;YiTMqfQFxbZFGciHaRZrOg=="
 ---
 

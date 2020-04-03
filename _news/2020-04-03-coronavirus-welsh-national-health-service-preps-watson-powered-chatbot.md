@@ -7,8 +7,8 @@ webUrl: "https://www.computerweekly.com/news/252481083/Coronavirus-Welsh-Nationa
 ampWebUrl: "https://www.computerweekly.com/news/252481083/Coronavirus-Welsh-National-Health-Service-preps-Watson-powered-chatbot?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252481083/Coronavirus-Welsh-National-Health-Service-preps-Watson-powered-chatbot?amp=1"
 type: article
-quality: 44
-heat: 44
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://cdn.ttgtmedia.com/visuals/searchHealthIT/electronic_IT_compliance/healthit_article_004.jpg"
@@ -25,6 +26,6 @@ images:
     height: 400
     title: "Coronavirus: Welsh National Health Service preps Watson-powered chatbot"
 
-secured: "0pGCaayLdzjMOLuIbAZ0wNEpsbweAI/GjHbtqV4fQWtaRHiuUxc5q6Yp0aSC1bWTdEtWEDHOsxg4OXD7yETx1yMwYiG3XzEMLM9ATJ1/bSyR4UD0PQyvc4y41y+75vx6JxNEGYnF7he4L72M+KodnCm5yB31G7xITh6wePBO9HVRqwI2Snq0nrFH6KOfiuj/90KDqRcIsgMoAqfKyuYac9KXYTkQ/FtT2/SILoND9w9ZF6rzIWGVdzXXvQYjko3mlfW1bde6O66OfhP8b2eIuJVfHChr0qVZeSHQvGgIJMQmHl7cyUH/8e5b+D/XzpcL;eDCNf5fOsYXCidFhIgYaqQ=="
+secured: "e99W4qBlEHaFtkTIsocJjBwzuz19AR0CWxgIqDyhRd0zOHc9P7YYYw1yXAtz++jdIgS+h06yWm5ToQX2Hu0zMhHiCKDXge2O/J5sYWRgsGOaZ9lm/R47GOtD9P3AS9ZmflPoORl2lApd4Eba2YR0EW2fCKDuNksrUiR3pffh6V9oPcUboUP20eb2zzoBJHy0euOwaBB0INDomKB6nVj7016V/C6FGZrTOep47KwelIqL3j4YLVcPzVf8IdOisPdGlr9t+ufgwkE7jHuwU3dnwj+Eb7N0y3BdITr5ZwBMdovRQ5u+Se8EycQfrE5MLagpj04or3P9zAje27QImAWRGt3bm4n89lKFzuEkzdljL5UhYErwlZh9MUygFCIH1qBNm5FhWxRC6zV/Apy2UHvH5sB5khRNOgyQiwnCJhJ8tUVzkBcCtsqw2oJ34IBrRy5782ltSOytZKR4wEV4E84PGNnpQoE+XsVGpJhAmeUhkFc=;MEU1o6WkQVMi1IHSg4pVYA=="
 ---
 
