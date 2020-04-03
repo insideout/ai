@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
+      "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
+      "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104338168-mobileye3.jpg?v=1529474476",
+          "width": 849,
+          "height": 478,
+          "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions.md",
       "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
       "excerpt": "Blockchain is a multi-tasking new technology that will drive 5G and change global communications. 5G provides quick speed, new features in Internet of Things (IoT), personal and business data and will impact everything from SmartPhones to driverless vehicles.",
@@ -1095,43 +1140,6 @@
           "width": 800,
           "height": 448,
           "title": "Self-driving cars a far future in India, but China expects to go commercial by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-the-evolution-of-e-commerce-shaping-benefits-from-emerging-technologies.md",
-      "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
-      "excerpt": "To cope, many organizations are pinning their hopes on emerging technologies such as artificial intelligence (AI), autonomous mobile ... autonomous truck technologies include Alphabet/Waymo, Embark, TuSimple and Starsky Robotics. Rather than fully ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.logisticsmgmt.com/article/the_evolution_of_e_commerce_shaping_benefits_from_emerging_technologies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-03T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Logistics Management",
-        "domain": "logisticsmgmt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.logisticsmgmt.com/images/2020_article/LM2003_COVERGettyImages-800px.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "The Evolution of E-Commerce: Shaping benefits from emerging technologies",
           "attribution": null
         }
       ],

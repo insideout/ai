@@ -52,16 +52,12 @@ related:
   - title: "Artificial Intelligence in Retail Market Projected to Grow with a CAGR of 35.9% Over the Forecast Period, 2019-2025 - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Retail Market by Product (Chatbot, Customer Relationship Management), Application (Programmatic Advertising), Technology (Machine Learning, Natural Language Processing), Retail (E-commerce and Direct Retail)- Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-04-01T14:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200401005493/en/Artificial-Intelligence-Retail-Market-Projected-Grow-CAGR"
+    webUrl: "https://www.oaoa.com/news/business/article_62c1fd9f-134c-5112-a5ef-1a5bc1a9f31d.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200401005493/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "MgniPn0/6SgSUhwYuA7pRw9GkJ/tYbED9BGd8LiHmoieNX685Alutlq/bR1JJJqim1h8JG3oiC/nnGsPUJEN7fU5iCvJGJhf69OSTrmEYlXuvWQDZnRHmX1Ssib5SWEU/RKpvzvr62HuSkV5VuEPvRHQ/G0WpyPJPQI/yBX8A3a9Q2naH7uPv2H0eHbbYlOhmKywXhHSgR+xL9zQd061RBChgE66UHzwU9QGywP2YHdCEhkecZW4cCjloIgAVfiul1gAgaA2BaPnE2V6eLXGmjuus/6uJM2INDcniN1lZMR3/U3sPVn4IZo1oAqxDw3Q1Nc2g4XQ8p7dKp67CosXDlDSRsebrr1ThIpLBL9TRU8MpI+dZRnVY+INrIPvF1Bw3DpCMMGnjDoiXq7s1xY54nrGalyVEb8aelg96n/UAzsjBlBNVxOkEiQZXq6VUd0JGxaINlmNsFr90pWJsnvWv4ociw1f/U/uuzy7I+dzUXk=;//61Rq2tl0B+xqwTK+A9KA=="
 ---

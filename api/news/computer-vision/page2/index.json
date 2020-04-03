@@ -2,43 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
-      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "publishedDateTime": "2020-03-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
-          "width": 940,
-          "height": 627,
-          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
       "title": "Computer Vision and Image Analysis online course offered by Microsoft",
       "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
@@ -1149,6 +1112,51 @@
           "width": 800,
           "height": 450,
           "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-heres-why-im-campaigning-against-facial-recognition-in-schools.md",
+      "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
+      "excerpt": "She currently serves on the board of directors of Students for Sensible Drug Policy and has coordinated campus organizing for the campaign to ban facial recognition. You can find her on Twitter at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "publishedDateTime": "2020-03-11T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e6802bca5a797009d94acce/lede/1583876911969-University-of-North-Georgia-Brooke-Trogdon-They_Them.jpeg?crop=1xw:0.7487xh;0xw,0.078xh",
+          "width": 2016,
+          "height": 1132,
+          "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
           "attribution": null
         }
       ],

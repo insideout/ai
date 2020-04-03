@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
+      "title": "Google’s AI teaches robots how to move by watching dogs",
+      "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "publishedDateTime": "2020-04-03T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots how to move by watching dogs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-waymos-halts-self-driving-car-fleet-due-to-coronavirus.md",
       "title": "Waymo's halts self-driving car fleet due to coronavirus",
       "excerpt": "Following news Waymo's curtailed its fleet of self-driving car prototypes in California and Arizona, the company has grounded its entire fleet amid the coronavirus outbreak in the",
@@ -666,7 +710,7 @@
       "path": "_news/2020-04-03-automation-may-take-jobsbut-ai-will-create-them.md",
       "title": "Automation May Take Jobs—but AI Will Create Them",
       "excerpt": "Kevin Scott is the CTO and executive vice president of AI and research at Microsoft. He's the author of the book Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All. Musk’s words are very much on my mind as the car I drive (it’s not autonomous, not yet) crests a hill in the rural southern Piedmont ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/",
@@ -703,7 +747,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -1056,52 +1101,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-watson-offers-free-service-to-answer-covid-19-questions.md",
-      "title": "IBM Watson offers free service to answer COVID-19 questions",
-      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, natural language processing capabilities from IBM Research, and enterprise artificial intelligence (AI) search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19, IBM said. \"While helping government agencies ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
-      "publishedDateTime": "2020-04-02T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/c16cd473-0ff0-4332-bf42-0efb1c8e25f4/resize/1200x/6cca0a705c8ef851751fc0dfac905d9f/istock-1176737178.jpg",
-          "width": 1200,
-          "height": 814,
-          "title": "IBM Watson offers free service to answer COVID-19 questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

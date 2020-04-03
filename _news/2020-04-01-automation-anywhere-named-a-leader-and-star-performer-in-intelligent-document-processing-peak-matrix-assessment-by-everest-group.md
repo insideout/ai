@@ -23,6 +23,6 @@ images:
     height: 1414
     title: "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group"
 
-secured: "Fy/A3zl/aeePqb63jpwtX16egK1vu7g5UGi4XmX6+0lGwo/ow6X2sKsQmgI1sUsAVO7SWMux6q3kApl+PMyUfr8wGZm+bWcicWyDZBMOKO78e8IvJQe7pXTY+v1L6SFxGDZ+KXIE+EOH+8eBq1wdzapDd4JMTbhtOnd5aI9t5xAD4hGDnvsttvBopZZNdUfG+mRhLXiq6Dl6YEACHXhRsCJAYbxN+Lf2du/d3oTm+U3ZpvBBnPI3YHa3sj8vx8munoBeozPGpOVC5lp7jTOrF3pvQgOO0z6mlC3i+5UGEQ6z5gTLLUf6BFvjSWuy8Fj/;J3WuvRWuws17FRA/4IpOlQ=="
+secured: "zZolZDQBAUH9p4pixev6pQkjLQb8YzsOWt32yX/I0yAhFPWlod8gHfwHOcNKSCYqea3jqQvGTfaMjSVYhHi+/bwOyPwkrY1njNlTK/Jr09Hfww9QzAcyG14iopnLNJSw78LqIUIdXJ5ILqAakDHTO3Mos+lexeLugMNiXU9DrZdGZZZqghgZFLxdoRiCISP40mBkTBfEhkpNBhbk7ZtvL6w1h9BtrcmXIH/zXafnbaiQcLfgU+347V1oS1cV+AHkrqSxP+kBzYR4DMwzjLW/bWwYbtrfq19R9W2w0oWT7adt2yRfRVgjyrhqL8Qgx+ZT2F5lJOpM8FS7lMJewNGEkz2bg9fX+jox2jA3nfLPCozXMP3caoFilo0+zlOOVBgG0z6nRjvXdntM0RGAET5pMNym/oNy2JSUpiVle3+P/iXOiptmr4GCEreHTeHZNkE/VCujuif8HdrPpZKJahB4l6hMcsotDcBMGgMer2chgLU=;eU4exA5JUGh9Hpe6Mzydaw=="
 ---
 

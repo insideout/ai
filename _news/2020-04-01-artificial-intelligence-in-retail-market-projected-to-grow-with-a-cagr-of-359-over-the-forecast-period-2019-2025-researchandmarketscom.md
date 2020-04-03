@@ -3,25 +3,18 @@ category: news
 title: "Artificial Intelligence in Retail Market Projected to Grow with a CAGR of 35.9% Over the Forecast Period, 2019-2025 - ResearchAndMarkets.com"
 excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Retail Market by Product (Chatbot, Customer Relationship Management), Application (Programmatic Advertising), Technology (Machine Learning, Natural Language Processing), Retail (E-commerce and Direct Retail)- Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2020-04-01T14:55:00Z
-webUrl: "https://www.businesswire.com/news/home/20200401005493/en/Artificial-Intelligence-Retail-Market-Projected-Grow-CAGR"
+webUrl: "https://www.oaoa.com/news/business/article_62c1fd9f-134c-5112-a5ef-1a5bc1a9f31d.html"
 type: article
-quality: 19
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
-  - Natural Language Processing
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200401005493/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "Artificial Intelligence in Retail Market Projected to Grow with a CAGR of 35.9% Over the Forecast Period, 2019-2025 - ResearchAndMarkets.com"
 
 related:
   - title: "Innovations in AI Chips, Mixed Reality, 2D Displays, Micro-LED, VCSEL & Neuromorphic Computing - 2019 - ResearchAndMarkets.com"
@@ -64,6 +57,6 @@ related:
         width: 1200
         height: 627
 
-secured: "AELsMqH8KTKNaVJukQjnzkIpr+1UM8txGMXBelWPZBYW5quX+ZMceciSnvOGdt+50RhzLrSy12q0bXOXcE6/tSvsCCA8+rA9lavM0vCaT728QFI1wjmmfBB/TSPVJ/5gLuis9A/HCqIAqTXTmGKYA181MxgjoR4UBODqYoI5+9JAdzY1ilerxY5jf9dtCiVvHEmjzvj/6x+kOPdnW221NLp5y74zHtOqLWbbGvcsB37FoyXcqatp8okylS4w/qmtswSvCAjABWLHu2+8WTo+Bt2gOknJR8CvfDfXceRI7vlsLqULqmFCzFfU8VA1cZz3iBul3i+a6Wq4/BhESivSysOtRHeOwCNOWBFrGD85qDv+Y/46R8BZrDYyeA4wuTc4ZJUK3VNynV+fW52EJL0qbHdwOaOVu7R2bKdYrnMUwxhFPCbtmmQKobDkLoKI/eUOrpP6G3Yjtn5uwp0isbDAKPPm1HdNohG7FBidFrxMRnU=;z8LgL838SXskibZHrrNF+g=="
+secured: "nMoq+ovgYjtN4dbIL3gU7dHU3iry4MZVGAkrN44IxIll015zXY/MWvtpeebEr9z6yBhhTxZ8mSpIbhiU7hMT8rSJ/8x3jYR0IO08CG/jttDVKgFnMcreonQIWX4sgKf1Ubt9gq0+8gJc1sbjnHpeHvNi0QgEYMdYGeS45RsmMONp5BKWWWzE459NK/wsLdg2Q1m+YeiSHXajPN/ulS0JE+yNvOk87SpcZiCmoMi22V6+wFzzthJz8LpVzKaCeYrpi3tJfSDDlxDH0aWNfDFdOLbGsMclyuXT5nRJRDmqXEGmGUFpGWUR0eYDtf0CfwT0;7VUxliynfBVhExOg51P3eA=="
 ---
 

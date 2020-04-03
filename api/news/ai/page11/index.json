@@ -2,6 +2,53 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
+      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
+      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-nvidias-dlss-20-details-better-graphics-made-easier-with-ai.md",
       "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
       "excerpt": "DLSS 2.0 (Deep Learning Super Sampling) might be just the game-changing graphics technology we need at this strange point in history. DLSS 2.0 uses dedicated AI processors (Tensor Cores) on NVIDIA GeForce RTX graphics cards to bring boosted frame rates without the blurry textures that usually come along for the ride. While DLSS 2.0 works with ...",
@@ -1181,43 +1228,6 @@
           "width": 1200,
           "height": 600,
           "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ex-uber-self-driving-head-anthony-levandowski-to-take-plea-deal-over-google-secrets.md",
-      "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
-      "excerpt": "SAN FRANCISCO — Engineer Anthony Levandowski, known for advancing self-driving car technology over the past decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies. Federal prosecutors agreed to recommend a prison term of no more than 30 months as part of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
-      "ampWebUrl": "https://www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/03/20/uber-anthony-levandowski-plea-deal-google-waymo/",
-      "publishedDateTime": "2020-03-20T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3000x1688+0+23/resize/800x450!/format/jpg/quality/85/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2020-03/3ce655b0-6080-11ea-b7ba-5a1d52e002d7",
-          "width": 800,
-          "height": 450,
-          "title": "Ex-Uber self-driving head Anthony Levandowski to take plea deal over Google secrets",
           "attribution": null
         }
       ],

@@ -24,6 +24,6 @@ images:
     height: 720
     title: "Local AI startup creates platform to track social distancing in global cities -- including Ann Arbor"
 
-secured: "IOQAcHZH4Vzm+0DXKNQIUvH0p9x8bJkYdXkpcDWTHMibgK00ngrV8s1Cpadj/lJvsrBCllD+uz5ZjQTdSNgS9xgoDNMxNu1pRwbjYHlJTmLimHTOLgC9arTgRmQB0U4ELhQO/9GoWfYV7bUFOUNCmD7A4okLhbcPq8NcNFLEGnSnMj4WyHk7pxBJl6SMqt750QK2OBC5ExLxU9bNrxZOoziUvSdlVdJCo2oYKs62onylb8lZAhznInOkz/DUYeXCjE4JGQHdn1UR4iq0ZNVusDdScoXL/zIrO9K/RoIEw/vpPG5dJuQ3avdb4bKrchve;8B6Tf3JoT+9rSxuqCSoCbQ=="
+secured: "y9WaMAMftMDEwNYs++GDxUm+4GCGeFe8r0MRHJSNl3ScxqRz+ywtvuDmLcINdT0hO2R3Na0/+SafTEzWXffwf7J8Z7hdaKAv2ECJoN5RnucwpA2Bdnh+RRtVeNT295Q8bIP9v/2Mld0+cS1dluxHneP0kee1+9GTOBdL/erbM4MKavbvdjcDhy4tPvrLK5q9KBZ+ICGhJGKDhAnqyfVFerhls0xJHGee0o0G8SmkZ/0JcOIkxrkGbFLFRAZQ+I/z+p7y325aYrimvNgFivwVQbWg3iVEjepcDUzeluchOL7YiWKj6N9n5iA7Vcfk6bHXkFG81lqyVCV09nTQGIImCFxJ7ZIKh0UP8qiD8yhyEYu5vAK8/AW2gYOT1mkT6YxZ6RY8NKn7wPd/V63jjuZuBOzrP2bHURRi37MOjI62Ner4caM/m5hQg3KbW0ZwMBQ2BTen6tj4Bo195XtsABmEIEi4WYmC1LJmR9JrtyE8RrM=;RUBD+EUZnrctmzGafnwuPw=="
 ---
 

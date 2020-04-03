@@ -36,19 +36,6 @@ related:
       - url: "https://mms.businesswire.com/media/20200401005345/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
-  - title: "Artificial Intelligence in Retail Market Projected to Grow with a CAGR of 35.9% Over the Forecast Period, 2019-2025 - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Retail Market by Product (Chatbot, Customer Relationship Management), Application (Programmatic Advertising), Technology (Machine Learning, Natural Language Processing), Retail (E-commerce and Direct Retail)- Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-04-01T14:55:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200401005493/en/Artificial-Intelligence-Retail-Market-Projected-Grow-CAGR"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20200401005493/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
   - title: "Global Mobile Artificial Intelligence Market to 2024 - Analysis, Trends, Drivers & Challenges - ResearchAndMarkets.com"
     excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Global Mobile Artificial Intelligence Market 2020-2024\" report has been added to ResearchAndMarkets.com's offering. The publisher has been monitoring the global mobile artificial intelligence market and it is poised to grow by ..."
     publishedDateTime: 2020-04-01T11:38:00Z
@@ -62,6 +49,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200401005363/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "Artificial Intelligence in Retail Market Projected to Grow with a CAGR of 35.9% Over the Forecast Period, 2019-2025 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Retail Market by Product (Chatbot, Customer Relationship Management), Application (Programmatic Advertising), Technology (Machine Learning, Natural Language Processing), Retail (E-commerce and Direct Retail)- Forecast to 2025\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-04-01T14:55:00Z
+    webUrl: "https://www.oaoa.com/news/business/article_62c1fd9f-134c-5112-a5ef-1a5bc1a9f31d.html"
+    type: article
+    provider:
+      name: Odessa American
+      domain: oaoa.com
+    quality: 0
 
 secured: "4n61Na+xNwgHDtceKQSWVBNkHG5wsNnAvcxLu6CQUIuWMDd5eLB8Sombhe/ibuLWbjfByIMUdPc6txL/G91qqmpS6r2tYUOUd/c2o25nP4VArJ4ElhuNfeGGswoolkNvqEHt+uiqjwCJA6KBTKTuhMTSG8ocNpx0FkMBcqv+OL1ZSJwjOp+qve65EyGHQMkQMNhFbBXBMzXfWj6tRLFFi8435cISK+4wGMUFk2+oZNyWh6mb8JFBobP0Db1xZrryiFSrGYgHAo8NrUq/etZTbUhlNQZ+WiZL5LcZqBEVi6EYTk/f3EixctMvJLpt41opl5W1pkdTSeSMvbu5tZ8Jpp8XfJHrBnjHVHD/XijEwsVxudTrl9pDBtIjaSRi5fl4+sLXFD53fCPGdZ1qEY2nx1N95NW92L209VMQHvcHeb6iJ0ey7fGmDpbjkD7+lr0UPJI2OYOkrwgHM1pgfKW6Wq2lMHtARBS8wd/UZEt4cUU=;ML6+QR6qfs3A7EJlpiLYBw=="
 ---

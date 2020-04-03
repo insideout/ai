@@ -28,6 +28,6 @@ images:
     height: 674
     title: "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic"
 
-secured: "k4eBtKcWW9VH/dqNSKdRnT/3v47oudD/1iu1EFOo8q0XWInRKKIcndJuoLsIP/RDoApplV8cqjtcwk/jzbcUXQPTILCXl196B9m4ZUyHSWNFD2CPaGdvYA1aRgyXOPOaqyCjRNwaOBPtS69Ahhh2JQEdo8jT0CQkR71xdND9XVeAt+Qoh2lUrERp7OxIMUhOXKYXcIapCNzlgGTyB/iJrXJeqA32JhIb3U+jTL1a03CBVv9ILYioQw2hHAC62yYLcMOvvmQe6nlDt1kYMvbyChkKh/8M2X4dhKhp2ldomtdmcVjfGgDeLJMVjrWZBWi2;DQLfuVS7oRZh8ItL/gQs4Q=="
+secured: "jZMyU24KsYXKosqyGynPcM9yZ9YkHeML1k/57Y3XjzkSqSAo+CnbKPw/jkly7FL1XYGgKPvJZEKmk82Ep8PfPQ0Rfq+gw/DM1ROT+1d2MPVMVaxV3ZR79aueJAvf2ryBoCCP1C/L1uxjrUJhSojGTGLF0nZ+NLgfJalOrYp+dnQLA2+Tty6TN0UZQx2xYPwTW7S5l+QpDvruh/NRDX7IbxfTiTzMbhadSlq7xWZkb4AV3/wfrhBShcuPUkwcKTIL0lMCA71c+8V8gcPtQIpIULSMgyz/S2ouxnuOWFnkuc7ArAtKIUQ1StL9x0CnALrZDRFMUE+n/wG6lRb6mtes1IOhmCC5MuvcXEKQ5w/4sLMQqGQxrU68geGbbdw1TtSPcr5maCY8RFhVZfAIk5oPzqIYJ1rt5wx5WPb2zsdbVJ2MzoKLiNvAclTcNHQuzeVvaB5Z1pX87dQ9+JhCC42vK3rDEaZWpACSoRmw0yuxiDk=;JQnYrGhT4p2szoxHwNxAMA=="
 ---
 
