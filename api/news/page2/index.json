@@ -925,7 +925,7 @@
       "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
       "title": "AI vs your career? What artificial intelligence will really do to the future of work",
       "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
@@ -964,7 +964,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI in Autos"
       ]
     },
     {

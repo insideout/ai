@@ -2,6 +2,96 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
+      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
+      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
+      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
+      "publishedDateTime": "2020-03-23T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
+      "title": "What Machine Learning Trends You Should Watch In 2020",
+      "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "publishedDateTime": "2020-03-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1137284435%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What Machine Learning Trends You Should Watch In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
       "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
       "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
@@ -1165,94 +1255,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
-      "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-      "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
-      "publishedDateTime": "2020-03-20T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/flatten-the-curve-cdc.png?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-stuart-russell-on-how-to-make-ai-human-compatible.md",
-      "title": "Stuart Russell on how to make AI ‘human-compatible’",
-      "excerpt": "He joined us onstage at TC Sessions: Robotics + AI to discuss the threat he perceives from AI, and his book, which proposes a novel solution. Russell’s thesis, which he develops in “Human Compatible: Artificial Intelligence and the Problem of Control,” is that the field of AI has been developed on the false premise that we can ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "publishedDateTime": "2020-03-20T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/stuart-russell-ai-robotics-2.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Stuart Russell on how to make AI ‘human-compatible’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

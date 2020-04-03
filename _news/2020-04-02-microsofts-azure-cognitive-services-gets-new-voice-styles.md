@@ -47,7 +47,7 @@ related:
     provider:
       name: Microsoft
       domain: microsoft.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png"
         width: 800

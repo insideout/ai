@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-03-deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
+      "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
+      "excerpt": "New York, April 03, 2020: The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42%",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T23:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
       "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
       "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
@@ -1016,52 +1061,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
-      "title": "Artificial Intelligence Market to Witness a Pronounce Growth during 2020 to 2025",
-      "excerpt": "New York, April 02, 2020: The scope of the report includes a detailed study of Artificial Intelligence Market with",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T02:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market to Witness a Pronounce Growth during 2020 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

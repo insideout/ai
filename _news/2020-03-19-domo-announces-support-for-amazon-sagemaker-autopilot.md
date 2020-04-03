@@ -1,19 +1,29 @@
 ---
 category: news
 title: "Domo Announces Support for Amazon SageMaker Autopilot"
-excerpt: "including automatic machine learning (AutoML), recommended actions, and drag-and-drop predictive model deployment through support for Amazon SageMaker Autopilot. Amazon SageMaker Autopilot is an ..."
-publishedDateTime: 2020-03-19T20:05:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/19/2003701/0/en/Domo-Announces-Support-for-Amazon-SageMaker-Autopilot.html"
+excerpt: "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ..."
+publishedDateTime: 2020-03-19T16:05:00Z
+webUrl: "https://www.marketwatch.com/press-release/domo-announces-support-for-amazon-sagemaker-autopilot-2020-03-19?dist=bigcharts&tesla=y"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - AWS AI
   - AI
 
-secured: "VGnBNhghu8zOAYThKQwzdNm1UV97b5osGNA8YILxDJUJ8/e1L3As4PNKMim0vPuQDfpQDxfC/M4ZMCpX0Ei9rskYfCgbJjaCYe0bp5+IJMUqvEROOXCbL704+X8tjO28+qy5k+Y3eq/uo3yc0r1xENhAkJRuwZT3I/w62yaBa0CTrTiMerH/Go4vu090YxLBtiJs2qMofv++Rt7RSvIyyF99avlbWgNIGn/JpvLuVygWYybisrtybNdJ/gblp4CA18VIkq/ZfRpcZ4A90hsJBqobiydrEbhBkG9JjOSQ7xuz6SUQJn1R26s0mJjgYp3K;tH74ZqE4+UzhygmzDKIfpg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Domo Announces Support for Amazon SageMaker Autopilot"
+
+secured: "fAGhi5OEwN6PrynM9hyoUB5DD3bmsS3uWXY3pDrCOP18ZQkpeBJ6LrZTLt9S3D43ZnUM0z0Fo67Ze2py6cn3UuRcrlVapghCT5v8nX2ezK5PaN7iti91t3CzkX4hIeQepwbMiYM2pd0z40z58WmuG/8S2sOSZKQiicdEsLEmnuedscTVC4IprErg78QEwcCbPrQK5U+M9NVlpfKQNY+43Lxx8atTb3sCmmrgm1MzAlLUAoh/gUe6Xhd9L66quw5tWBtXM+bnaJ3DeGsm7Ugy+lARQK7bckKE08y2eQd5iuOPBdrb50F759c1xoVeyTRZ;HVqKA26o23kZM7S2dCOihQ=="
 ---
 

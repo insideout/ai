@@ -186,7 +186,7 @@
       "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
       "title": "AI vs your career? What artificial intelligence will really do to the future of work",
       "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
@@ -225,7 +225,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "IBM AI"
+        "IBM AI",
+        "AI in Autos"
       ]
     },
     {
@@ -272,6 +273,51 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ibm-ai-brandvoice-4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience.md",
+      "title": "IBM AI BrandVoice: 4 Steps Financial Services Firms Can Take With AI To Improve Customer Experience",
+      "excerpt": "AI promises nothing short of a CX revolution ... summoned cleansed and well-structured data from its inception. Powered by IBM Watson Assistant, Red was originally designed to help with basic ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
+      "ampWebUrl": "https://www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/amp/",
+      "publishedDateTime": "2020-03-31T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8357cc2814680006860b23%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1120%26cropY1%3D0%26cropY2%3D630",
+          "width": 1121,
+          "height": 630,
+          "title": "IBM AI BrandVoice: 4 Steps Financial Services Firms Can Take With AI To Improve Customer Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
       ]
     },
     {
@@ -1196,44 +1242,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-enhances-watsons-natural-language-understanding-capabilities.md",
-      "title": "IBM enhances Watson’s natural language understanding capabilities",
-      "excerpt": "IBM Corp. said today it has made some big improvements to the natural language processing capabilities of its IBM Watson platform. The new capabilities, which were born out of IBM Research’s Project Debater, will help Watson understand and analyze some of the most challenging aspects of English language with greater clarity than before ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/11/ibm-enhances-watsons-natural-language-understanding-capabilities/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/13623054195_149c8b9839_k.jpg",
-          "width": 2048,
-          "height": 1500,
-          "title": "IBM enhances Watson’s natural language understanding capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

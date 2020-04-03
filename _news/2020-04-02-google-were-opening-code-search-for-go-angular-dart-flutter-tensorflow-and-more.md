@@ -34,7 +34,7 @@ related:
   - title: "You Can Use Code Search to Browse Google Open-Source Projects Now"
     excerpt: "Code Search is used by Google developers to search through Google's huge internal codebase. Now, Google has made it accessible to everyone to explore and better understand Google's open source projects, including TensorFlow, Go, Angular, and many others. CodeSearch aims to make it easier for developers to move through a codebase, find functions ..."
     publishedDateTime: 2020-04-02T21:04:00Z
-    webUrl: "https://www.infoq.com/news/2020/04/google-code-source-available/"
+    webUrl: "https://www.infoq.com/news/2020/04/google-code-search-available/"
     type: article
     provider:
       name: InfoQ

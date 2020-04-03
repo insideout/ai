@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-31-how-ai-helped-dominos-improve-pizza-delivery.md",
+      "title": "How AI helped Domino’s improve pizza delivery",
+      "excerpt": "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
+      "publishedDateTime": "2020-03-31T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/04/drone-pizza-delivery-thinkstock-100579669-large.jpg",
+          "width": 1200,
+          "height": 1100,
+          "title": "How AI helped Domino’s improve pizza delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss.md",
       "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
       "excerpt": "Head of Artificial Intelligence, Cognizant — A leader in AI and applying it to drive digital transformation across industries. A leader in AI and applying it to drive digital transformation across industries. bretgreenstein The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration ...",
@@ -1280,50 +1325,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software.md",
-      "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
-      "excerpt": "The video was remastered to 4K from a DVD source using Gigapixel AI from Topaz Labs, and the episode above had ... with Richard claiming that it took him around six hours to process the work from start to finish. As stated before, five episodes have ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software",
-      "ampWebUrl": "https://www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
-      "publishedDateTime": "2020-03-29T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1585544391_kch5d8x_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

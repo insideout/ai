@@ -2,43 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-01-17-frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority.md",
-      "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
-      "excerpt": "According to Wong, there is already a pervasive adoption of artificial intelligence across industries such as manufacturing, healthcare, retail, and the public sector. Early success in those industries is likely to further influence the examination of new applications of the technology to enhance competitiveness in today’s digital age.",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techwireasia.com/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
-      "ampWebUrl": "https://techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2020/01/frost-sullivan-value-creation-from-artificial-intelligence-remains-a-priority/",
-      "publishedDateTime": "2020-01-17T07:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techwireasia.global.ssl.fastly.net/wp-content/uploads/2020/01/shutterstock_165333119.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "Frost & Sullivan: Value creation from artificial intelligence remains a priority",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-01-17-european-union-to-restrict-the-development-of-artificial-intelligence.md",
       "title": "European Union to restrict the development of artificial intelligence",
       "excerpt": "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ...",

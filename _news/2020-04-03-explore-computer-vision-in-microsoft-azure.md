@@ -5,7 +5,7 @@ excerpt: "There are multiple specific types of computer vision problem that AI e
 publishedDateTime: 2020-04-03T05:26:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png"

@@ -84,6 +84,53 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
+      "title": "AI vs your career? What artificial intelligence will really do to the future of work",
+      "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
+      "publishedDateTime": "2020-04-01T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/04/657acd78-13b6-4989-8ecf-673fb8d38d60/thumbnail/1200x675/ab7a6c328b2d02457d5800ac6d49ad7f/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "AI vs your career? What artificial intelligence will really do to the future of work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "IBM AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-artificial-intelligence-cant-create-markets-on-its-own.md",
       "title": "Artificial Intelligence Can’t Create Markets On Its Own",
       "excerpt": "There’s plenty of consternation about artificial intelligence replacing many jobs and roles across the economic spectrum, — from salespeople to truck drivers to doctors. It’s worth mentioning, however,",
@@ -161,6 +208,51 @@
           "width": 1000,
           "height": 482,
           "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-to-become-main-way-banks-interact-with-customers-within-three-years-accenture.md",
+      "title": "AI to become main way banks interact with customers within three years: Accenture",
+      "excerpt": "Artificial intelligence (AI) will become the primary way banks interact with their customers within the next three years, according to three quarters of bankers surveyed by consultancy Accenture ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "publishedDateTime": "2020-03-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103456053-516780641.jpg?v=1529470912",
+          "width": 2000,
+          "height": 1294,
+          "title": "AI to become main way banks interact with customers within three years: Accenture",
           "attribution": null
         }
       ],
@@ -1170,88 +1262,6 @@
           "width": 620,
           "height": 400,
           "title": "Levandowski agrees plea deal over Google self-driving car secrets theft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-former-uber-self-driving-head-levandowski-agrees-to-plea-deal-over-google-secrets.md",
-      "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
-      "excerpt": "Engineer Anthony Levandowski, known for advancing self-driving car technology in the last decade, agreed to plead guilty on Thursday to taking sensitive documents from his former employer Google before joining rival Uber Technologies Inc.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-uber-autonomous-levandowski-idUSKBN21646I",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21646I",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21646I",
-      "publishedDateTime": "2020-03-19T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200320&t=2&i=1505635590&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2I2EP",
-          "width": 830,
-          "height": 545,
-          "title": "Former Uber self-driving head Levandowski agrees to plea deal over Google secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft.md",
-      "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
-      "excerpt": "A former engineer in Google's self-driving division who became the focus of a criminal investigation that rocked Silicon Valley has pleaded guilty to a count of trade secrets theft, NBC News reports. Anthony Levandowski admitted he downloaded thousands of proprietary files from an internal Google server in 2015 and transferred them to his ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/",
-      "ampWebUrl": "https://www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/national-international/former-google-self-driving-engineer-pleads-guilty-to-trade-secrets-theft/2335673/?amp",
-      "publishedDateTime": "2020-03-19T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC New York",
-        "domain": "nbcnewyork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.nbcnewyork.com/2019/09/Anthony-Levandowski.jpg?crop=0px%2C0px%2C0px%2C0px&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": "Former Google Self-Driving Engineer Pleads Guilty to Trade Secrets Theft",
           "attribution": null
         }
       ],

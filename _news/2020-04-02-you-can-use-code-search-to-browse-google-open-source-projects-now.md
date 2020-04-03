@@ -3,7 +3,7 @@ category: news
 title: "You Can Use Code Search to Browse Google Open-Source Projects Now"
 excerpt: "Code Search is used by Google developers to search through Google's huge internal codebase. Now, Google has made it accessible to everyone to explore and better understand Google's open source projects, including TensorFlow, Go, Angular, and many others. CodeSearch aims to make it easier for developers to move through a codebase, find functions ..."
 publishedDateTime: 2020-04-02T21:04:00Z
-webUrl: "https://www.infoq.com/news/2020/04/google-code-source-available/"
+webUrl: "https://www.infoq.com/news/2020/04/google-code-search-available/"
 type: article
 quality: 4
 heat: -1
@@ -34,6 +34,6 @@ related:
         width: 2082
         height: 1292
 
-secured: "W1hjWd2jbg2yG/5DhjaZ2BJxh5QFt9LLYbQU9cxiMrCaixuSxXTLfGBvLuUNvbwxJJywrkZdb4IA4yfU7np8vFjnKYX+gEo2BfyNPusHvlSJgnWJ3DWBp7BO19ta0jNeacBK0n85pWe7AWo2y0LOOj0DrTPeBeNSMHErynW9hqJ+NWn3lh7AK+pbEiBA4J5MRCRVQu0ubPVSKwjpZy+X2Y1DN9janlkjs/qoz2t7DYhUK8ZvQXgkm5Whm+Pd9rmxLtI0zlhmw2ntqCcHf8xmJoesoaNqD29yrYvqeJ2RuPtr2eSyB74Izn/xrAokwz4E;d0J5Z+6r7LetVapOdMnbvg=="
+secured: "ONzJUsE/pAjcbdzfj0MwDlWcw74UTCo7Ktfi9lFl0uJ20jxD8GPtl6iBPe37Oehlvhovh1s7nIxdApEtdK8YyfhUg+olg+TkySbosPUD8v3q5mkFfrxTp1RJiSi5ULiiMiGyo8kKC4NqfjlYdOfoA9Zhf6NyB25ywCC5kql24YbRholJfnZiUbp2sApQI8nSl2GdNehQ7Hu6kxA1PvSPtCxouRHOaN4h25tSmNAoGDL0fNO7reNsRRfRg1M7trztUzSwrscJndq+paWM3yApyFH/PWjSWAblLWcOHl/U7wxn7Y2XNY6rTjfGinryk+sL;BHnqyTc+m8oamDzRHRehcg=="
 ---
 

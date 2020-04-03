@@ -2,6 +2,95 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-02-03-aws-slowdown-wont-slow-down-amazon-shares.md",
+      "title": "AWS Slowdown Won't Slow Down Amazon Shares",
+      "excerpt": "AWS also launched initiatives to advance quantum computing technologies with a service that allows professionals to experiment with computers from quantum hardware providers in one place. And five new artificial-intelligence services are meant to put machine learning in the hands of more developers. Operating expenses have climbed from quarter ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/02/03/aws-slowdown-wont-slow-down-amazon-shares.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/aws-slowdown-wont-slow-down-amazon-shares.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/aws-slowdown-wont-slow-down-amazon-shares.aspx",
+      "publishedDateTime": "2020-02-03T11:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555651%2Fgettyimages-1159763203.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "AWS Slowdown Won't Slow Down Amazon Shares",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-how-to-leverage-ai-to-upskill-employees.md",
+      "title": "How to Leverage AI to Upskill Employees",
+      "excerpt": "There’s also another part to this story: How AI can help boost the economy by improving how we learn. In 2018, 2.4 million STEM jobs in the U.S. went unfilled. That’s almost equal to the entire population of Los Angeles or Chicago. It’s a gap causing problems for employers trying to recruit and retain workers, whether in startups ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345502",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345502",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345502",
+      "publishedDateTime": "2020-02-03T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200130200203-GettyImages-1128252197-crop.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "How to Leverage AI to Upskill Employees",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-artificial-intelligence-and-robots-can-make-your-next-cocktail-but-should-they.md",
       "title": "Artificial Intelligence and Robots Can Make Your Next Cocktail. But Should They?",
       "excerpt": "We’ve seen artificial intelligence take over many tasks in the everyday world—from stocking grocery store aisles to parking cars. So, it shouldn’t be a surprise that AI has found its way into the creation of alcoholic beverages, which often involves a host of different ingredients, flavor notes, and precise recipes. A Swedish distillery ...",
@@ -1177,71 +1266,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-01-how-artificial-intelligence-will-change-medicine.md",
-      "title": "How Artificial Intelligence Will Change Medicine",
-      "excerpt": "Using powerful computers, scientists have scrutinized this bounty with some fine results, but it has become clear that we can learn much more with an assist from artificial intelligence. Over the next decade deep-learning neural networks will likely transform how we look for patterns in data and how research is conducted and applied to human ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scientificamerican.com/article/how-artificial-intelligence-will-change-medicine/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-01T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scientific American",
-        "domain": "scientificamerican.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.scientificamerican.com/sciam/cache/file/12E666E8-C229-4FDB-A12A437CAD23F0E0.jpg",
-          "width": 790,
-          "height": 497,
-          "title": "How Artificial Intelligence Will Change Medicine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-01-hiding-in-plain-sight-activists-don-camouflage-to-beat-met-surveillance.md",
-      "title": "Hiding in plain sight: activists don camouflage to beat Met surveillance",
-      "excerpt": "Privacy campaigners bid to beat police facial recognition plans by wearing ‘dazzle’ makeup",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/world/2020/feb/01/privacy-campaigners-dazzle-camouflage-met-police-surveillance",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-01T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
