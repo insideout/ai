@@ -24,19 +24,19 @@ images:
     title: "Mayo Clinic launches self-driving shuttles to transport COVID-19 tests and medical supplies"
 
 related:
-  - title: "JTA, Mayo Clinic Use Autonomous Shuttles To Transport COVID-19 Tests In Jacksonville"
-    excerpt: "Driverless electric-powered vehicles are being used for the first time in the ... traffic and Mayo Clinic staff and are being closely monitored from a mobile command center. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting edge autonomous vehicle technology, and frees up ..."
-    publishedDateTime: 2020-04-02T16:14:00Z
-    webUrl: "https://news.wjct.org/post/jta-mayo-clinic-use-autonomous-shuttles-transport-covid-19-tests-jacksonville"
+  - title: "Automated Vehicles used in Jacksonville to help with COVID-19 tests"
+    excerpt: "“Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting edge autonomous vehicle technology, and frees up staff time that can be dedicated to direct treatment and care for patients. We are grateful to JTA, Beep, and NAVYA for their partnership in these challenging times.” Challenging ..."
+    publishedDateTime: 2020-04-02T15:57:00Z
+    webUrl: "https://floridapolitics.com/archives/326425-avs-covid-19-tests"
     type: article
     provider:
-      name: WJCT
-      domain: wjct.org
-    quality: 17
+      name: Florida Politics
+      domain: floridapolitics.com
+    quality: 24
     images:
-      - url: "https://news.wjct.org/sites/wjct/files/styles/medium/public/202004/3951192_0017_0.jpg"
-        width: 800
-        height: 450
+      - url: "https://3o15h033zmpwracwx2i00rqx-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/U2C-at-Mayo-Clinic-004-March31-1000x563.jpg"
+        width: 1000
+        height: 563
 
 secured: "wYP5Hb6sLaiXQHVC5vT85++6/vIySe/CLl7mEKJacQS1+hEFh/rr3v5chXlRVO59bGVuHBql+3BHFVt2tBXKROrHXmwMaglr5cCOM6UY3f/FFO5j549PbHv5Iu083xxOoQm8zeQVf9IjKaFbNYyD2aXVNCDQdtx+km7j4vnMCHTjqurLQ8H+SEcLzOamJQsEZxOHf2l6C8jLud+1dIVlyqpIHURlK7YNcHvQDLJ0bfu4WcxfiqmAQgDYdYV9vLptpeOtIblDEcyfD+c9ui3RgSmYq2VZ2ru8jkZFrgzsaPIacu9vHsJYbn5W4K/wmxVf;gxaG+OikNIYvd8Q8+IQDsA=="
 ---

@@ -22,34 +22,34 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft divests from Israeli facial recognition firm AnyVision"
-    excerpt: "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ..."
-    publishedDateTime: 2020-03-29T15:39:00Z
-    webUrl: "https://www.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828"
-    ampWebUrl: "https://m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp"
+  - title: "Microsoft stops its investment in AnyVision and other facial recognition companies"
+    excerpt: "Microsoft has announced that it will withdraw the investment it had made in the Israeli facial recognition startup AnyVision. In addition to stopping that, it will also not make any more small investments in companies that are dedicated to the development and sale of this controversial technology. This decision represents a notable policy ..."
+    publishedDateTime: 2020-03-30T22:25:00Z
+    webUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/"
+    ampWebUrl: "https://www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/03/30/microsoft-stops-its-investment-in-anyvision-and-other-facial-recognition-companies/amp/"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 59
+      name: GizChina
+      domain: gizchina.com
+    quality: 53
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470"
-        width: 640
-        height: 428
-  - title: "Microsoft Divests from Facial-Recognition Startup"
-    excerpt: "Microsoft said Friday it is pulling its investments from a facial-recognition startup that scans faces at Israeli military checkpoints, even though the tech giant couldn't substantiate claims that the startup's technology is used unethically. Microsoft late last year hired former U.S. Attorney General Eric Holder to lead a team of lawyers to ..."
-    publishedDateTime: 2020-04-01T15:29:00Z
-    webUrl: "https://www.manufacturing.net/technology/news/21125228/microsoft-divests-from-israeli-facialrecognition-startup"
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2020/03/Microsoft-AnyVision-.jpg"
+        width: 1000
+        height: 667
+  - title: "Houston Cardiologist Becomes the First in State to Use Ninety One Inc.’s Artificial Intelligence and Precision Medicine Platform"
+    excerpt: "NEW YORK--(BUSINESS WIRE)--Ninety One, Inc., an augmented intelligence company developing innovative software and data science ... exclusive partnerships with leading research and healthcare institutions in the United States, Europe, and Asia. Pursuing this mission with vigorous commitment and passion, while leveraging innovations in science ..."
+    publishedDateTime: 2020-03-30T14:34:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200330005468/en/Houston-Cardiologist-State-Inc.’s-Artificial-Intelligence-Precision"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
+      name: Business Wire
+      domain: businesswire.com
+    quality: 10
     images:
-      - url: "https://img.manufacturing.net/files/base/indm/all/image/2020/03/16x9/iStock_1137809049.5e820f4264afd.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.businesswire.com/images/bwlogo_extreme.png"
+        width: 600
+        height: 300
 
 secured: "1ol4disbdddYSivyaX3UeoCxApsdKj/0S/NrdtK/ZzMYO3VUu0otFXhYxKwLVq9lcwiHNR9rM095SX5E8pwuyLDoPadJfw3BgRrtQMC9UAhdyCo7XTQlW1Fvl8dAM102qe7YCRJgUcmVBy2kjnF7r9ugI3cwtr1ouKJzMN6SgH1Ww1Q0t4R6LyjdJbcFpxxiwD1uB+bLEDDuE9IRAeDBaScyrWLzM8zfNIwpC0Je7HHAjledF+zBWYGwnZelhbO3GHzLXQab1jGDZ5JyIuHPeziUSy1gxcXLfFZ2X/gTvf2wb797cAxxVKb1k75bIS5GCKcwNsZGE4lYH4R4w+lGRXujMHZYcXoNqADzXKkohxWecRKN5y9JUmOSd2MzYFwPdiAqzlWrJDIw6SuMpqXcdjEtXZb4wq/chbDaKOYq+XzOKqXKRepiCbzLqkDoeHYdJ0BptxtIGM2rTmaCsjbLQNmzU5axwAIVL/5CTzpWpRQ=;ktx3oxnjSLG+DdGG7D/I3w=="
 ---

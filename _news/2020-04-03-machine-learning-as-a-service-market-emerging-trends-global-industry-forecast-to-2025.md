@@ -5,9 +5,9 @@ excerpt: "New York, April 03, 2020: The Machine Learning as a Service Market is 
 publishedDateTime: 2020-04-03T07:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025-2020-04-03"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 63
+heat: 83
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -37,6 +38,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Enterprise Artificial Intelligence Market 2020 Size, Share, Current trends, Opportunities, Competitive Analysis and Forecast to 2025"
+    excerpt: "New York, April 03, 2020: The global Enterprise Artificial Intelligence market is expected to exceed more than US$ 12"
+    publishedDateTime: 2020-04-03T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-2020-size-share-current-trends-opportunities-competitive-analysis-and-forecast-to-2025-2020-04-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
