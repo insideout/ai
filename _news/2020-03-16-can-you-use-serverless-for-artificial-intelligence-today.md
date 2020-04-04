@@ -3,7 +3,7 @@ category: news
 title: "Can you use Serverless for Artificial Intelligence today?"
 excerpt: "At Radix we use multiple serverless services: AWS Lambda for computational ... tasks that are neither real-time nor involving artificial intelligence. But when does it make sense to use them ..."
 publishedDateTime: 2020-03-16T08:05:00Z
-webUrl: "https://medium.com/radix-ai-blog/artificial-intelligence-on-aws-lambda-9ef45ffe1309?source=post_recirc---------1------------------"
+webUrl: "https://medium.com/radix-ai-blog/artificial-intelligence-on-aws-lambda-9ef45ffe1309"
 type: article
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://miro.medium.com/max/1200/1*1C3siq0SEr_vPuESChNTTw.png"
-    width: 1200
-    height: 795
-    title: "Can you use Serverless for Artificial Intelligence today?"
-
-secured: "StVrKoNSk8wncqs80bLibqVF9B39WbtJUEsUUD8vtXCBMTOpuJV/qi475k8y9uQE914XeRzghoTx6A6HxlOdAJj9BMpcIXFu3FFibEkuOUMMevtHvxnq0sxOsfBkgdYZil1cbRp4S5o5WeL99xc5aG8bATuO6Lz1BSr6+uTlgl1JT1NRn1Zi5Yc/MYkg1FZQpWm06x25wpkrDO3yzL/OfqyxCLS2N2toJ39AyiTHbl+B6u+KjoKx3+dhh5rbdrwQAmWPiwMCctbsskrPQnWDu3YdBL1DcKogli1Tskl/2/7sySCQxdDqyvHESccWRC+Y;knoNrGzJlC9K8YGjn+1JyQ=="
+secured: "Sr9ku37f7wYDarEK3TR+dP2zVHRKIl4kB2L9H4AdJrWzJjp0BAwig24vLLArB9DiZbeNWn/vv2//evhYExcn+ugi5EnVzU3FbKD6h+9ZKUyrd+6l5B1OgzS3UNZq8hFk6fduiT4UMWOiROow0I7eJyL4jnOTONJTLO/Nt1j6wITlo2falXrGWcX2Hl6rJnXuFxO3bCyNN9dPmdd9U/inafsa/Wtfh3GpMg42XBuXj4btHvZJYcwD3stbOVbTK6hTazNisZxb7Rltt02OCjBEelvMEB31MXfwbnBv5Jlb2jw7gLjp1eJmDWdpqtm2w07Z;g8Zws6Zz8apoR28O7r669g=="
 ---
 

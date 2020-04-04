@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Artificial Intelligence in Pharmacovigilance: It Can Help Pharma Companies Enhance Drug Safety and Improve Outcomes, Says Quantzig"
 
-secured: "cA+TPq/+2dpwEEXhKwzaR7Gq2/11rncx02PXCJqr0iN2+5bl5AxEcCKVycwOFp0fwvglRo7Jjtnn5ATWFEt7lMhhcBXIVDaCUkKgqyTUGZBi1h712y3K2Zyi3c9z3e/JQ/BktCe8kQ+CtfkB5DpN1pv3EMW5rU69Q6tUa9y1RzmLryhtFa/UcD0TEkL6wzTvw++tG99E4QPR2NMvJM5h1l4/+Bv/GoQ3NZXnBVipzgUhJdI5FfhywdlKeDFwgtVQW7SE1bR6P2bQGuf6BHeuRY/0FjjSu3PqcsrjREi7WYMtavW0hqSBieX4SE0U5fgw;o8tJdgFbCkv561NCK2blIw=="
+secured: "29TbyAh3E60kh/+GtsC4o0crihdeEZq//qDKXxyIgDUuBXXvHBSRFS6aKTCZxyaY+jt9/QvOY/MXXuxVPAGbigzTHwBUMgEsG3WqowDK2bHMsBVfLMQt77zv03dVICTVThjXJCbQUiMTLusS58Kj73us0ERAYTSUba57T6gI4Dxd5aU/lZxF9g2fJKy2m34nz28HW9mSkULmXRhGkL72CNUDpsNljRe9NoPRWdWg7BBukwV3qjkMgjNKYA93FPccxFbPyx12YERtKBdQNLcjGNb3nr+/HNyssyc/7DDVPFxpA6Ad+fZIUPOLyaKaWlRFAh+nWdu6wqArKYGOk2JGK8zshI9F0xPg2GRy4w5n5tJtltfLZhLeW1/r/czuk37WdJ5XLj6fbqliwrtagnikbMGHjhDLv7ocEDHcpTormJvEHe4EbqCf9er5uYFbM0/rbC06Jv6l3+tkb9m7yUxKA7IjdAc+NgJTGAi84CBJook=;82uNRHLtKHmk00cTh4AVfg=="
 ---
 
