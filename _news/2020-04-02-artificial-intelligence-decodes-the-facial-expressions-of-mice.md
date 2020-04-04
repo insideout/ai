@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial intelligence decodes the facial expressions of mice"
-excerpt: "Researchers have used a machine-learning algorithm to decipher the seemingly inscrutable facial expressions of laboratory mice. The work could have implications for pinpointing the neurons in the human brain that encode certain expressions."
+excerpt: "Researchers have used a machine-learning algorithm to decipher the seemingly inscrutable facial expressions of laboratory mice. The work could have implications for pinpointing neurons in the human brain that encode particular expressions."
 publishedDateTime: 2020-04-02T18:09:00Z
-webUrl: "https://www.nature.com/articles/d41586-020-01002-7"
+webUrl: "https://www.nature.com/articles/d41586-020-01002-7?hss_channel=tw-707909475764707328"
 type: article
 quality: 37
 heat: -1
@@ -37,6 +37,6 @@ related:
         width: 900
         height: 300
 
-secured: "oRc5fSeQxjs/i8cC5Iv2UcGYwrjWQhlxRp0FeqyZQHmVuv9DvzMfeBrpQ28Z4mci6t45c5TWHAbGu8dTtEK4QDeGffBg2Y/Cg1TO5A4eBw0yspFlicm42d0tZughLAjR0MCwdvCtX/eZV+0w1LnKC03BPv/BrsUWkQH6uw/8UZYA1o6POdbOUNiSGGB4DbBJJlgVPNS964Mqad9IMJJiFsIV67e23LhGTgp96g4Bq5/WZxqOOVizIWV+eIAZYbaWJHqvkZGnF72VezOD24oherOfD4Ld4zV3Qpzl9KJC/p1r2MTvTRr/koLRKSXKm92M0KBeilOiw24TexotXAYPJeIpQa4ieux5SvLgDn0A8hRs5nKJN7JZYNZvfTvjYDEJVSQ7DWUmZleQ3MCJNR7i8Xr85f5e+bV+jqadnUwnk26y2yIqv0C3KR6cLjYxrVMSp+frcBotmO9j+afqpELwDUTXQqco2UVq0UaNqwBK27E=;kbt7Bl702YDaWILhonPxKw=="
+secured: "qStYnRkb/BxJVRiuh5lUQzv0EnAa2j5UigDnfHFC7/+knpaASIK5Jib6jAJTD5wI6uQHX58UzvtwY0fz29oDSxdU/7F5ozAlKt26J7K6xaEUAwvbF0f5kDKCWxiHdLWIAvGCfvTs/yEDYABEVCl0/I91dAu+j9L9YAfjMpWqmX863dHakZ1In264vj7RfpJw4t2Rh35aYO91vUrxZNeXUVJ/N9xK7bUmOhsk2uFwkNBpEJghx/C5gja0T+w/qitvPNRz6EuMcGFTkvv0H5Q1PywjbpWKg1/HEWDQBMORhAJYyrdVmUwESk/pI1q23Xpc;KTNdydo3Bk2r58DF8ZxCpg=="
 ---
 

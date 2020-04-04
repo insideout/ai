@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027"
-excerpt: "the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period from 2019 to 2027. Market Insights An Autonomous vehicle, sometimes also referred as a self-driving vehicle (SDV) uses technologies such as Artificial Intelligence (AI),"
+excerpt: "Market Insights An Autonomous vehicle, sometimes also referred as a self-driving vehicle (SDV) uses technologies such as Artificial Intelligence (AI), LiDAR and Radar sensing for ... Volvo Car Corporation, Waymo LLC, Ford Motor Company, General Motors Company, BMW AG, and Aptiv PLC among others. In addition, large number of collaboration ..."
 publishedDateTime: 2020-03-23T15:47:00Z
-webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23"
+webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23?mod=mw_quote_news"
 type: article
-quality: 40
-heat: 40
-published: false
 
 provider:
   name: MarketWatch
@@ -27,6 +24,6 @@ images:
     height: 630
     title: "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027"
 
-secured: "YPRCpatBh/MSMulh+/clJYKtl3HM87jRfXfGU7glN9X/KxJr03JEK/c1CAplLLGVoM0MrmCYPzanMH2LNBiQHob0B5eMxGnG5SZtUfNksBd18FaMHe7UOsjeuI68ntb/jRX9D0WmSSa1l7jFMk5mbnF7GtzIDHjR/JDO3otLGFtCAI3FVhXr1S+rSgRfNJqDvvxYYvMPP9ofwgLXdfaaJsqTiI1O4i8QgsQ2IyC5NxmJZjEfPfbXgkxg6udEuEXWIKhuQy8e+ZOpXz9wEWCzvrhfiI9BfUnigCl+jg99sXvw6JNRXFZMugn2D/US4zLs;q3m3z6xKm5czMkzrFQeVOg=="
+secured: "Pswf9wCPSLk3CRM69aESuhOQcXMLEhymqJmpetWegYhWBJqWRIKaq8e6GDWuzzCp5DyhmfXtWtS1vujdL6AERcPQvpZ2EgOG7+4w9O0zIkyS36WrWKYbJsS8QEaXPxCiZ0102PMqmNNKVDVc4ihMbGOXlgr0Xag9+C2eOWF5E2ICT8tAbhuipGT4T27tGYD8W0nSZumySYDjecmjZXFJpmL4+x1i8S0fdXajF5eX6RpE2vkrDqSCv+rdtEp8KB0L6V21cYhXS0Cp+H+tLbWvEPG/V+3zPUneAcIqtBDoTZxxi0YgqBActpiikEeSnCzV;0Z/sbKGZrwP7hV4zAIAGPQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-31T07:07:00Z
 webUrl: "https://www.finanzen.net/nachricht/aktien/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-8689756"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,21 @@ images:
     title: "Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era"
 
 related:
+  - title: "Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era"
+    excerpt: "If failures arise, Nokia 5G Cognitive Operations can solve them up to 50 percent faster and accurately assess the impact on customers and services. By taking pre-emptive ... Nokia AVA 5G Cognitive Operations is underpinned by Microsoft Azure cloud technology - with other public and private cloud options possible. In addition, Nokia’s ..."
+    publishedDateTime: 2020-04-04T21:47:00Z
+    webUrl: "https://www.telecomtv.com/content/5g/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-38262/"
+    ampWebUrl: "https://www.telecomtv.com/content/5g/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-38262/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/5g/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-38262/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 42
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
   - title: "Nokia Oyj: Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era"
     excerpt: "Nokia AVA and Microsoft Azure capabilities present CSPs with an option to obtain the 'intelligence ... ultimately delivering an enhanced customer experience for consumers and enterprises.\" Resources: Webpage: Nokia AVA cognitive services platform About Nokia We create the technology to connect the world. Only Nokia offers a comprehensive ..."
     publishedDateTime: 2020-03-31T07:10:00Z

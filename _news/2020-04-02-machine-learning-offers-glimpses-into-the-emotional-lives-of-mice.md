@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "Artificial intelligence decodes the facial expressions of mice"
-    excerpt: "Researchers have used a machine-learning algorithm to decipher the seemingly inscrutable facial expressions of laboratory mice. The work could have implications for pinpointing the neurons in the human brain that encode certain expressions."
+    excerpt: "Researchers have used a machine-learning algorithm to decipher the seemingly inscrutable facial expressions of laboratory mice. The work could have implications for pinpointing neurons in the human brain that encode particular expressions."
     publishedDateTime: 2020-04-02T18:09:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-01002-7"
+    webUrl: "https://www.nature.com/articles/d41586-020-01002-7?hss_channel=tw-707909475764707328"
     type: article
     provider:
       name: Nature
