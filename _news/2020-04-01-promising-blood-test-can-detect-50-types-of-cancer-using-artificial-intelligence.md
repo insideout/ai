@@ -24,6 +24,6 @@ images:
     height: 405
     title: "Promising Blood Test Can Detect 50 Types Of Cancer Using Artificial Intelligence"
 
-secured: "7AxkeQ7TUsIYh+rlPW3qj/H6H2nSCMR4QflfyF4XFQNwxVLj23xEqwx51HZ43S0R+XcCZeuCsXrg+ClKOwleDooBzLJPNxFwff4CYW+8ti6l/70zKTtYSyPwPGJjRO2Vj1q47OPpjkwMymcNLJgrVJ58lZ399jZod7p3HeKe5UEzXUbmS404k8vL8cxi5hBBWXAivo06sJqrVnVqDOd21BLTw9j9sABmuT/tmjQLN0oP1B0ltH71wN5S+1h5TSNYtdXcVM64vc57Awp4MgQr1EpZxhdLaTodW/FN3jH7z0w9oxPnQiC1md5aD0gcpzBh;2aT3ek7kbTLrWaq/ruWXtQ=="
+secured: "Can0oODvoMtZ3jVSMm/dyX+MR76G7ia0uQzqNwLM1zhXLqtuOn+tsmmv9qOBolGxJI/pN29YclAX0SAG+7gJpmBTX1FUXuML2xWJErix/cF0UIE1hRytjxxPBTzDI2596EuZdEBJMEcwxCwUUWF3xSMEkNj4iPK7baRQMqYEcAZ7mhNKmV/QVtd/NDRpI2SJ+xNu61wxUbutWUC6WgwfW3iYb2yh2wOHQKtR2Kp1myES8B7p1X5mTgMY5+A8I4V+wDOSzw+pFf/88qzH/GQHSLAXg2N7DTX5dz1DQh87zoLwsPjNjB2jFzFPQKEuOaFz6gU9DoVzrV3CpIOn2UN2ME+/ZDsI1yin6mHiPKMj+/yO6zVBfovp5OwJnhMCg5YlNBdgn3Xiz+ELQdY5/UaBPZ2IksolKCqUz1QJV2EePp0emPVHmwO+SQgfDXWP6ym1Z5wtY4txXid9BWzw5bTCZH0a/vBpCjrPJ5RwJj+Mv/o=;8qpOdM1cdu0nNqjN8+bgWQ=="
 ---
 

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-365-update-2020/?a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-365-update-2020/?amp"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digital Trends
@@ -29,21 +29,21 @@ images:
     title: "Office 365 becomes Microsoft 365, adds features and the power of AI"
 
 related:
-  - title: "Microsoft 365 subscription offers AI assistance in Word, PowerPoint"
-    excerpt: "Microsoft 365 provides access to a collection of extra tools on top of what is currently offered as part of Office 365. The new elements largely aim to provide AI-based assistance to customers, as well as other extra features. For writers, Microsoft Editor will tell users how to improve their text by changing grammar and proposing structural ..."
-    publishedDateTime: 2020-03-30T15:59:00Z
-    webUrl: "https://appleinsider.com/articles/20/03/30/microsoft-365-subscription-offers-ai-assistance-in-word-powerpoint"
-    ampWebUrl: "https://appleinsider.com/articles/20/03/30/microsoft-365-subscription-offers-ai-assistance-in-word-powerpoint/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/03/30/microsoft-365-subscription-offers-ai-assistance-in-word-powerpoint/amp/"
+  - title: "Microsoft 365 bundles Office 365 with AI and cloud-powered features"
+    excerpt: "Microsoft today announced that on April 21, Office 365 will become Microsoft 365, or “the subscription for your life.” The new suite takes Office 365 and adds “new AI, rich content and templates, and cloud-powered experiences.” On April 21, Microsoft 365 Personal and Microsoft 365 Family subscriptions (up to six people) will replace ..."
+    publishedDateTime: 2020-03-30T15:34:00Z
+    webUrl: "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/"
+    ampWebUrl: "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 57
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://photos5.appleinsider.com/gallery/35148-64183-microsoft-word-editor-l.jpg"
-        width: 660
-        height: 371
+      - url: "https://venturebeat.com/wp-content/uploads/2020/03/microsoft-365-for-consumers.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
 
 secured: "c0pP96k8lT1xsw6MNAQR3T8aIsWaNTu2AnVxx0R73EbCx3hzVJts/Rrdq4AJyjtDnPtEJHIWqfJv5Jyz+Hj6fWoDNvx4vVJ4lg1awzg+VZvRdrRSgYuZJrZYH7jVDAIETguI0BFnFZXuxxYlabUZHJo3a8cIUwEuMp275rLOqFosXIu9IY6s9qwncLS+6XCshBfODI2J/QpAVPx3INGGHINoV8heRg4BrOCZ9sJ33r4DU+AReK3H2ge0/Ifc5eD8APPdEri5UGSaqPbpSsU8uoIntmr5tBtGYeIlqjYT4RFk2MwV40BBZqYOvOI2tYo6Te+lWs2KC/A16pbAf3AkB4ozbPI9n1pz9V8+WMFgwjoUaoP6LcLNmJapJPjLbAzcH4HC94Ga/vuDa4Mg3I2HcgIIgWxHHMp2x1sF0njJSORm6gJnkKSU0Lqezjk8q4FjK61QAqkptqZqeKNGO/RhMY9LY5QNJy5BJCXlMa0PPMg=;F3yWO5e4szfumadCTTpGsw=="
 ---

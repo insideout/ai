@@ -28,6 +28,6 @@ images:
     height: 600
     title: "Google’s AI teaches robots how to move by watching dogs"
 
-secured: "pwdCRiYtFuAKH33FdSOheaTareNMAFraitB+DcEJecByKNhI3xccwJsdzBdMuH2fVa0DlcEI0234oZpYypr8rBK7GXfiXU873KuKdCioxKIMfqRVhTLGAszgljY2+tsVE/j8Z/74dbQeMRF8wUiNLMqMlCirSJZtKSOfhZlBCrvkMcwc4jiubzjy3kQE7cHfInZSFxVJzR9VeUWsOorsFV1LFStLL3wiYA1zi4Rrw4JwdNNiX5/lmT+qUcgKLsW+Trhff8QiifgXdxe0NkcpWe1QL+Vm5XA1sBUcjxzAlihSAyytCk/GGNjnx786NG1Q;3hxiHjBxBOLLdm2VuwtjIw=="
+secured: "N6I9l8InMPJ78hYW5G2jnYXDbXxCA15N0TKAGcQOs+Oytt9Labzhft9Dmo3G/OKRTFZ0/fKUUXZSc/Y52hS+FZ7h+kNdfuhTH64ezVO4Zgj/A6fotFarl54h3V6teZKjHzl6p401lr/uU/C0qdcLYkb224izepheB//PUnhxUjoGGSoRpAA8Gp7vhzz3mNhGHjgOL4V912UgRiFFT28IzsYezQGUuxQ8e6VPwc4+8gGk0roEzWJC5GE25i/gsi+m74lRJEAc/V0daMhhVexzT9jLmhdBjaXPfEgiorR6Qjw1JTHMXpnNcXbkpdfK8rKdE4wC3NQB+DihH1yjZll9fxsssc9+is4DZkpXvz8HCqvgKgG052Ka856wWuTxUApkUOkZOae7CoAEXxlIQrUPjhSA4DP68aRjbjJEBrvkPbfHGLwqK2scq3+/XzdGPyTM0HuHDNU+cf8uuFdUDdr0BSFS+bGqURKonYpOWyrPGNk=;68L5yUuZb5Xm+kFiIXI42g=="
 ---
 

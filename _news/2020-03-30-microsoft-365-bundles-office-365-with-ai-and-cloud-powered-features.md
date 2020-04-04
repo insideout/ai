@@ -8,8 +8,8 @@ ampWebUrl: "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: VentureBeat
@@ -29,19 +29,21 @@ images:
     title: "Microsoft 365 bundles Office 365 with AI and cloud-powered features"
 
 related:
-  - title: "Extending the power of Azure AI to Microsoft 365 users"
-    excerpt: "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions"
-    publishedDateTime: 2020-03-30T08:30:32Z
-    webUrl: "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/"
+  - title: "Office 365 becomes Microsoft 365, adds features and the power of AI"
+    excerpt: "Microsoft is unveiling big changes to its Office 365 product, the company said Monday, starting with a name change: Office 365 is now Microsoft 365, a change meant to signify to consumers that more of Microsoft is coming in the subscription service, such as tech support and the power of AI. The company is using AI to create new tools ..."
+    publishedDateTime: 2020-03-30T15:30:00Z
+    webUrl: "https://www.digitaltrends.com/computing/microsoft-365-update-2020/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-365-update-2020/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-365-update-2020/?amp"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 119
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png"
-        width: 1187
-        height: 821
+      - url: "https://icdn5.digitaltrends.com/image/digitaltrends/office-app-android-featured-image-1200x630-c-ar1.91.jpg"
+        width: 1200
+        height: 628
 
 secured: "zZHWGcJTpsGPGxTqC9gnei/EXeI0OfrLrAuIkIvq6bHExKbL3ecBuEb1RDoIJ1wWEubOSl93kelCd8AIEMFL8/21fd4GQRnSnhgtukxNgF+KpUAll71M9j+q9nWVkloVhzcUYiXzEMTVc0VDMp+o1aEF4OdpVaLOtq1/OPaeNsNcvh+z7Pifg7IgbOvj0ZvULPzw/8U4gZJMpN5asNUGhAZZ15bi+6i8jvNcos8UnuvaSZRgwysxh2Sy3HHrrtWsqlUwKw2Zj1GVcdFuq+9Re/xKHv/HJ7jfjSDD3HMfGBR08F3YgCf7XjFkSR8Kasb+bnm6WHQfXa9HTlAmFXos3Ut0vhJ9M1+2Ez36ry+7lyFahbJrKX/XPhXqDSPzg3ADwhnC6yx5O7kaXkb1QNtsnc+wAXIXss6TLnNtjPtOXBKX4gZQFfHgaRl04OerWadwqzYtLnysKMahf44kl7mBJj30dQThTbmi1gHf4JMs2lY=;nyBStxGnLqPl+4aOyoqbaQ=="
 ---

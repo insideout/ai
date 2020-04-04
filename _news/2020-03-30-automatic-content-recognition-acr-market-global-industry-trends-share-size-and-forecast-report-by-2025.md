@@ -6,7 +6,7 @@ publishedDateTime: 2020-03-30T15:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/automatic-content-recognition-acr-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-30"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Automatic Content Recognition (ACR) Market Global Industry Trends, Share, Size and Forecast Report By 2025"
 
 related:
-  - title: "Natural Language Processing Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024"
-    excerpt: "Global “Natural Language Processing Market“ Report 2020report recorddetailed estimation to improvement a complete information of the global Natural Language Processing market today and its industrial outlook based completely on current and purpose marketplace."
-    publishedDateTime: 2020-03-30T07:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024-2020-03-30"
+  - title: "Global Automotive Gesture Recognition System Market 2020 Industry Analysis, Key Players, Size, Share, Growth, Trend and Forecast to 2025"
+    excerpt: "The report comprises of details regarding the market share assembled by each region. On the basis of product, the report displays the production, price, market share, and growth rate of each type primarily split as Hand/finger print/leg recognition, Face recognition, Vision/iris recognition, Others On the basis of the end-users applications ..."
+    publishedDateTime: 2020-04-03T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-gesture-recognition-system-market-2020-industry-analysis-key-players-size-share-growth-trend-and-forecast-to-2025-2020-04-03"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 21
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
