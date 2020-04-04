@@ -2,6 +2,43 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-13-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software.md",
+      "title": "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software",
+      "excerpt": "using an autonomous robot and their AI software to deliver a weed map to paying customers. “Imagine a world in which we could use swarms of lightweight, smart machines to replace tractors and ...",
+      "heat": 60,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/01/156291-ag-tech-startup-small-robot-is-seeking-700000-on-crowdcube-to-continue-development-of-autonomous-robot-ai-software/amp/",
+      "publishedDateTime": "2020-01-13T14:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/small-robot-1.jpeg",
+          "width": 570,
+          "height": 428,
+          "title": "Ag-Tech Startup Small Robot Is Seeking £700,000 on Crowdcube to Continue Development of Autonomous Robot & AI Software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-13-comma-ai-continues-to-impress-with-its-aftermarket-driver-assistance-tech.md",
       "title": "Comma Ai continues to impress with its aftermarket driver assistance tech",
       "excerpt": "Now with more driver monitoring. Way back in 2016 I flew out to Las Vegas to check out Comma Ai's driver's assistance system crammed into an Acura. At the time, it was being developed as a self-driving add-on for vehicles. But times have changed and nearly every automaker and startup has since dialed down their autonomous expectations.",
@@ -1022,51 +1059,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-11-will-ambarellas-new-robotics-platform-widen-its-moat-against-intel.md",
-      "title": "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?",
-      "excerpt": "The platform, which serves as a unified software infrastructure for Ambarella's CVflow computer vision system on chips (SoCs), targets automated guided vehicles, industrial robots, and emerging ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/11/will-ambarella-robotics-platform-widen-moat-intel.aspx",
-      "publishedDateTime": "2020-01-11T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F553078%2Fgettyimages-1134562388.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Will Ambarella's New Robotics Platform Widen Its Moat Against Intel?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

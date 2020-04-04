@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-long
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -43,19 +43,6 @@ related:
       - url: "https://winbuzzer.com/wp-content/uploads/2018/12/facial-recognition-microsoft.jpg"
         width: 1280
         height: 720
-  - title: "AnyVision facial biometrics not powering mass surveillance in West Bank but Microsoft to divest stake"
-    excerpt: "Microsoft is divesting its stake in AnyVision, due to a change in its investment policy and despite an audit finding that the company’s biometric facial recognition technology is not deployed to a mass surveillance system in the West Bank. AnyVision Chief Commercial Officer Max Constant told Biometric Update in an email in late-2019 that the ..."
-    publishedDateTime: 2020-03-30T15:18:00Z
-    webUrl: "https://www.biometricupdate.com/202003/anyvision-facial-biometrics-not-powering-mass-surveillance-in-west-bank-but-microsoft-to-divest-stake"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 9
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
-        width: 2000
-        height: 1001
 
 secured: "r68Vpxp6jqycHtS2mOFk/nHQQyCxhDdaiOCtd6oqIXJEvvPviNKlOE2AvKyfY4jGpy8Vd8BSN7fDXNv5Ay/oz4PFh/+7Sl99cjq1CaDLeTzIzpqmXA9I5u8CRz7jhf7cS6rc6VsJ+a7Cbsr0dM1USK4lfZPTDt/f6sYAKbZll6G7RidglznDhqYZVfFZcJwneFA5Ys4oNeah/9ieYNvi8Aw+DROkqPQnyqkhZ64rHsRO2+DWD7pzm0mS3adOHZWNqfCQDogyeRF9QYcAGheIzMmEZUq1zs5urU3EVdWfbq5M5kbWDkHhKRWjh6FA7gBDUaGKKiP9ZjJ10VVxvuVIZJ6ijLOH5dx/cd6kbTQPmB/KQR/L7xSlDfycrHvhLq082TaU6a5waPTdS/D3uB4WJ+Ey91Cc1sHMQS1cwBBwHm7pc3pP5Bs970aD3jo7gQ3cPuddjZHj7R4ZD2+ngVepGTJET2ZvXczWWskMrG8l+wQ=;kJ4pKlvRK4qn8tRIl9Vxuw=="
 ---

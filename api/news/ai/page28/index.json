@@ -2,6 +2,35 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-08-self-driving-cars-can-easily-mimic-human-drivers-claim-researchers.md",
+      "title": "Self-driving cars can easily mimic human drivers, claim researchers",
+      "excerpt": "With the help of an improved sight-correcting system, self-driving cars could learn just by observing human operators complete the same task, researchers have found. The team implemented imitation learning,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "publishedDateTime": "2020-03-08T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-with-painted-faces-artists-fight-facial-recognition-tech.md",
       "title": "With painted faces, artists fight facial recognition tech",
       "excerpt": "LONDON -- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long ...",
@@ -1111,51 +1140,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-logo-recognition-and-the-top-5-logo-recognition-tools.md",
-      "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
-      "excerpt": "2. Amazon Rekognition: As the name suggests, this is an image recognition service by Amazon, with which you can detect scenes, objects and, faces in images, including logos. You can search and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@uptownlogos/logo-recognition-and-the-top-5-logo-recognition-tools-42b3868165c0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/959/1*zkJ_tgbPTmS2fLSl0BSq6w.png",
-          "width": 959,
-          "height": 509,
-          "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

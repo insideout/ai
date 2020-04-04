@@ -2,6 +2,50 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-01-20-google-boss-sundar-pichai-calls-for-ai-regulation.md",
+      "title": "Google boss Sundar Pichai calls for AI regulation",
+      "excerpt": "The head of Google and parent company Alphabet has called for artificial intelligence (AI) to be regulated. Writing in the Financial Times, Sundar Pichai said it was \"too important not to\" impose regulation but argued for \"a sensible approach\". He said that individual areas of AI development, like self-driving cars and health tech, required ...",
+      "heat": 287,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51178198",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51178198",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51178198",
+      "publishedDateTime": "2020-01-20T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/11749/production/_110579417_gettyimages-1051617224.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Google boss Sundar Pichai calls for AI regulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-intel-and-partners-are-using-computer-vision-to-help-save-antarcticas-penguins-from-extinction.md",
       "title": "Intel and partners are using computer vision to help save Antarctica’s penguins from extinction",
       "excerpt": "In search of a solution, an Intel-led group of tech companies developed a computer vision solution to help ecologists count the remaining penguins faster and more accurately than before.",
@@ -1234,51 +1278,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-the-secretive-company-that-might-end-privacy-as-we-know-it.md",
-      "title": "The Secretive Company That Might End Privacy as We Know It",
-      "excerpt": "His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.amp.html",
-      "publishedDateTime": "2020-01-18T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/26/business/19clearview/19clearview-facebookJumbo-v4.png",
-          "width": 1050,
-          "height": 549,
-          "title": "The Secretive Company That Might End Privacy as We Know It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

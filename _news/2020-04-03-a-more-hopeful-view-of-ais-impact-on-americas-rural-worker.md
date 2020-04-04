@@ -2,26 +2,26 @@
 category: news
 title: "A More Hopeful View of AI’s Impact on America’s Rural Worker"
 excerpt: "In a new book, Kevin Scott says artificial intelligence can promote opportunity in the U.S. heartland if it comes with a national investment in education, broadband and businesses."
-publishedDateTime: 2020-04-03T22:20:00Z
-webUrl: "https://www.washingtonpost.com/business/on-small-business/a-more-hopeful-view-of-ais-impact-on-americas-rural-worker/2020/04/03/e428f424-75d7-11ea-ad9b-254ec99993bc_story.html"
+publishedDateTime: 2020-04-03T18:00:00Z
+webUrl: "https://www.bloomberg.com/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker"
 type: article
-quality: 37
-heat: 37
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.washingtonpost.com/resizer/3E5iq5WxGEgjD3O-Ecm2bVGndiI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2MF7MCTV24I6VLM3EVHMTGMTXQ.jpg"
-    width: 1440
-    height: 960
-    title: "A More Hopeful View of AI’s Impact on America’s Rural Worker"
-
-secured: "wU5TtLesfWp0ejEKLJ4KWTK77RNb+M674fyDOiRGAPCkG7T7v0Jjo+LlnBPtCVeB9aX2HTFvYObwzRk50AhW7T1NwS7WDONiLA2Gl1APcYqPRiunJTGVriN6Lgi0wXSP0L5/hV9rkz5919wYSKFM59vyPg/9hLbCjCL/QEo/Hx/yfbI+IX4q5+fqQSOCoHKZSzsZl0Iu5kQJHLmrgkcw/GOQ0gb0Pzwsq4m+lCISqNe4Bafmont7KZ7Kgy75IoOuPekXw6xr7s+TwMAWz5a2xiQdN1WAblZ5Av/vkLlf2P+LYLwNMXb7uJeR9tUkeNWiamyvl22j+MC59/q+/66pljviLzIhltln+CM0Dm5B4A+qscxeU5w0Co86bZPD3zSBDfE9ru6mnO8lUOiusXbF6u9+nXAtA3cyDfK9Rqjm0lvoTQIptfVr49p2Ey49JInqQ8ABVgk/e9vt6cGhiyRWVjAzqrKrysTBzOH+X9+aVus=;a1FQI6iQKfkFKvK3HdSsVw=="
+secured: "SR7nrU7qZJMJQ/HctLOMiutTwbSnjqxwHjDcr//u4AVl+keP7x6cxFMoLGvo9XEhLgxitW2BsxJ4TeBKmBdpOTl621WyOyh6de4NctnYFR5rKNbZU97l/CzhN9smbFei8HigPJY86zQj7h6FwAHQfXIlc/3JsftkSlPST/TIFeLiIwPSs+1nznONv75WRK7ZszH9AeDxEgszgCGXZvscKc20OBKKfbLmE14grqzz97gashRkET9gxjFs8RP7StbjBcFNr1G/BYvgxFcSLUIMUFQwAt4r4GkWIBwOULCQDyTNkqFJMBvYQjfeSpAkhp0Ch2590su+rqLI7h69+Ru2zmCCol0OGxWcUaf0DacO2X6FUxyEGoOr4xuaBdrufOWVFhkJ8U7U/KS1vpizsTTls7aAjEoTsrRhHuUthlL067ClUmU51qxC0BRgaC47cHzbqKxZa+4lyrWyqeHL2cgGG94aTliHub68E2ibTiT9/8I=;dzBHyC98gyvN/1ToeAwf7w=="
 ---
 

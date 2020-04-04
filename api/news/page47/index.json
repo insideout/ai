@@ -2,6 +2,43 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-02-19-pentagon-to-adopt-detailed-principles-for-using-ai.md",
+      "title": "Pentagon to Adopt Detailed Principles for Using AI",
+      "excerpt": "However, he said, \"Taking AI ethics seriously could increase the chances that some skeptics in the broader AI community are willing to work with DoD while also potentially improving the reliability and effectiveness of military uses of algorithms.\"",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextgov.com/emerging-tech/2020/02/pentagon-adopt-detailed-principles-using-ai/163191/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/upload/2020/02/19/NGdrone20200219/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Pentagon to Adopt Detailed Principles for Using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-levels-and-limits-of-ai.md",
       "title": "Levels And Limits Of AI",
       "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
@@ -1023,43 +1060,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai.md",
-      "title": "Northern Data and Canaan Inc Announce Cooperation on Blockchain-technology and AI",
-      "excerpt": "Combining Canaan's excellence in the fields of AI Chip development and ASIC hardware with Northern Data's proven track record at delivering A class Datacenter and Blockchain infrastructure at scale will provide both companies with a solid bedrock to build and expand in this tremendously exciting technology space and catapult both companies ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/northern-data-and-canaan-inc-announce-cooperation-on-blockchain-technology-and-ai-1028917334",
-      "publishedDateTime": "2020-02-18T23:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

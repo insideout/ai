@@ -41,19 +41,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design43-796x417.png"
         width: 796
         height: 417
-  - title: "Mind-reading AI turns thoughts into words using a brain implant"
-    excerpt: "Across the four women, the AI’s best performance was an average translation error rate of 3 per cent. Makin says that using a small number of sentences made it easier for the AI to learn which words tend to follow others. For example, the AI was able to decode that the word “Turner” was always likely to follow the word “Tina” in ..."
-    publishedDateTime: 2020-03-30T15:18:00Z
-    webUrl: "https://www.newscientist.com/article/2238946-mind-reading-ai-turns-thoughts-into-words-using-a-brain-implant/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2020/03/30125337/gettyimages-692654376_web.jpg"
-        width: 1200
-        height: 800
 
 secured: "mHIVO3UJ6HlrM3yrdjPheZym+1SThYqCiCmASEBH8KPP1tDgSisTdtoNXUpdz78ZC+i4SPYJ/B1cA1ea396Jv82GqPQBlX35KwHe0KQpWDuajtCIAH3XN+3DwoEgfwuOWKD8lUid6jCh8iVzFXGrkEljLpqXb0zw2lfu2ZMhKlL7nl9tdSzraimuUuRmq8N03empOJK2Bp3SKG+i41D+vSfqYTkPWopdDLjT9LG8smNkt2+iOS8seCmmbeZK8jotZZ/mty86qiOaWe6w+HTF7hWDnnLxn8lKv85Dli4xANbIumu+oI0GNJPKyM2SYRSAYrQR+e4WCHKd1Eurn7B+QYcSlol2vDB+IhGTsD0Gif7N+lnNvSWdyYDg1vp3ewXLQl/UVb0IOgLivzN3O45zL2PROQbTmG2R4QWPkYoMCATsDk5dMsPwKO1WbAxf4zXaL8mHiqExj+TWZHlZPmPE8oIR/SnEQxXASCwxtHyDsZ8=;zFrsQ0blhA4jWliNX0dKXw=="
 ---

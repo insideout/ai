@@ -2,6 +2,50 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-02-11-ai-and-automation-together-forever.md",
+      "title": "AI And Automation: Together Forever?",
+      "excerpt": "AI and automation are particularly intertwined in robotics, supplying workforce-enhancing solutions that not only complete repetitive tasks but also support and improve decision-making processes.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/",
+      "ampWebUrl": "https://www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/businessreporter/2020/02/11/ai-and-automation-together-forever/amp/",
+      "publishedDateTime": "2020-02-11T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e42e21e3f2df80006e3c68f%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "AI And Automation: Together Forever?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-the-engineers-behind-googles-bookbot-have-launched-a-delivery-robot-startup.md",
       "title": "The engineers behind Google’s Bookbot have launched a delivery robot startup",
       "excerpt": "The secretive startup called Cartken was formed in fall 2019 after Google ... However, a Korean trade delegation to Silicon Valley in October was told the company had “developed a delivery robot that combines unmanned autonomous vehicles and artificial intelligence.” Cartken’s website says that it will offer “low-cost delivery through ...",
@@ -1014,52 +1058,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-how-will-your-career-be-impacted-by-artificial-intelligence.md",
-      "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-      "excerpt": "Nobody can predict the future with absolute precision. But when it comes to the impact of artificial intelligence (AI) on people’s careers, the recent past provides some intriguing clues. Rhonda Scharf’s book Alexa Is Stealing Your Job: The Impact of Artificial Intelligence on Your Future offers some insights and predictions that are well worth our consideration.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodgerdeanduncan/2020/02/11/how-will-your-career-be-impacted-by-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-11T00:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x511/https://specials-images.forbesimg.com/imageserve/5e17b6d42ffdbd000701d5f4/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 511,
-          "title": "How Will Your Career Be Impacted By Artificial Intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

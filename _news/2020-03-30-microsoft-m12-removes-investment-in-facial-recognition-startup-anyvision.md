@@ -39,19 +39,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-  - title: "AnyVision facial biometrics not powering mass surveillance in West Bank but Microsoft to divest stake"
-    excerpt: "Microsoft is divesting its stake in AnyVision, due to a change in its investment policy and despite an audit finding that the company’s biometric facial recognition technology is not deployed to a mass surveillance system in the West Bank. AnyVision Chief Commercial Officer Max Constant told Biometric Update in an email in late-2019 that the ..."
-    publishedDateTime: 2020-03-30T15:18:00Z
-    webUrl: "https://www.biometricupdate.com/202003/anyvision-facial-biometrics-not-powering-mass-surveillance-in-west-bank-but-microsoft-to-divest-stake"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 9
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/11/17145359/AnyVision-audited-for-violations-of-Microsoft-AI-facial-recognition-principles.jpg"
-        width: 2000
-        height: 1001
 
 secured: "OWO/ZnLxM9xhgr9N7Zx37mDhBXd3CYz/RP4yiyLnB2ehATGZ7+Ms3V2TYqfrkIskhN4rV2IMkufoXl+tQGTwkI28xAmrFvpuJvl/ytFVHJw+81aIo+1zaTyr29NSyXM4CwkthKJ9E6Pdb9TJy66hLXsCFesYafcYS7vX8YJSoNNlqUsmRPDllrrqIfqY1MiZdN92NuGqMGQ6GNDSrkfq9zOMbgn6tEXOngvhAtF9rI0TklGq9drN2uxO6ghNrBfbZXJzr+JH81qxEHVZqy2fyIzWD7ixZx5iM5A3JPaJ5dD1UtnR9bNKS/qhJ20OdlgUB9zExDFMQ7ogQb5RUMjzXAswFWQOs3vchTxEcW4gEIKQDAUPh5Dp7adbEi0g4y2ktievwLyAl2fSD7dgBC4CKbMb37dg5nM3VvwTa+8EP3XwYUuLfgtf5CcJMxuKKzk2+yWRt2orPGHw1TYg3iTX2O20ZNKQN5sbWKPwtdB1c24=;lH5f88FHoLNgTegtnijsng=="
 ---

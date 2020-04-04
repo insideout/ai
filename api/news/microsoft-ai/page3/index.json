@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-12-agtech-startups-use-machine-learning-to-analyze-farm-data.md",
+      "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
+      "excerpt": "Startups focused on agriculture and aquaculture technology are turning to cloud-based machine-learning services to process and analyze data so they can give customers better predictions on fertilizer needs,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/agtech-startups-use-machine-learning-to-analyze-farm-data-11583960555",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-GH440_spainm_SOC_20200311141112.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "Agtech Startups Use Machine Learning to Analyze Farm Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
       "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
       "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
@@ -1090,51 +1135,6 @@
           "width": 1200,
           "height": 800,
           "title": "Cisco, Microsoft team to control growing IoT networks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
-      "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
-      "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@caiomsouza/how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-af60b92b8068",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1024/1*9ry80VYyy-_OEsrsqdR5Kw.png",
-          "width": 1024,
-          "height": 531,
-          "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
           "attribution": null
         }
       ],

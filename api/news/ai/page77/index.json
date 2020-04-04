@@ -2,6 +2,51 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-01-03-why-baidu-is-a-better-ai-stock-than-google.md",
+      "title": "Why Baidu Is a Better AI Stock Than Google",
+      "excerpt": "It assigned Baidu to the development of self-driving cars, Alibaba to smart cities, Tencent to digital healthcare, and iFlyTek to voice recognition. Baidu also launched a state-backed engineering laboratory for deep learning technologies like computer vision, machine hearing, biometric identification, and human-computer interactions.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/03/why-baidu-is-a-better-ai-stock-than-google.aspx",
+      "publishedDateTime": "2020-01-03T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552239%2Fgettyimages-664246660.jpg&w=700&op=resize",
+          "width": 700,
+          "height": 525,
+          "title": "Why Baidu Is a Better AI Stock Than Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-03-snapchat-quietly-acquired-ai-factory-the-company-behind-its-new-cameos-feature-for-166m.md",
       "title": "Snapchat quietly acquired AI Factory, the company behind its new Cameos feature, for $166M",
       "excerpt": "The company has acquired AI Factory, a computer vision startup that Snap had worked with to create Snapchat’s new Cameos animated selfie-based video feature, for a price believed to be in the ...",
@@ -1240,51 +1285,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2019-12-27-neurodiversity-in-artificial-intelligence.md",
-      "title": "Neurodiversity in Artificial Intelligence",
-      "excerpt": "Artificial Intelligence is Helping to Create Jobs for ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
-      "publishedDateTime": "2019-12-27T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e060ce1e961e100073a0424%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5499%26cropY1%3D192%26cropY2%3D3286",
-          "width": 1200,
-          "height": 675,
-          "title": "Neurodiversity in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

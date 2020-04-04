@@ -31,6 +31,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Automotive Gesture Recognition System Market 2020 Industry Analysis, Key Players, Size, Share, Growth, Trend and Forecast to 2025"
+    excerpt: "The report comprises of details regarding the market share assembled by each region. On the basis of product, the report displays the production, price, market share, and growth rate of each type primarily split as Hand/finger print/leg recognition, Face recognition, Vision/iris recognition, Others On the basis of the end-users applications ..."
+    publishedDateTime: 2020-04-03T18:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-automotive-gesture-recognition-system-market-2020-industry-analysis-key-players-size-share-growth-trend-and-forecast-to-2025-2020-04-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 21
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "5UQdI238s0JFGn8M5Cj3rVhWhxcwLyGs+7uecXwH0jL/fJR6LWuy9yVpBHuoZ9+dFZRd+rPSZ4vKAWENOn56ZkMdyBAksCihTd3AsuMgJEa7bVBGimXURbcZHXJ7l56J8S6No0jeMEY47Nq7xwB7OFoGDvEIv9wOEoK7r9pFGiHtLs/jOtvvsVR35T0URDUlPOAJkosM+IO3jogzWhrJwpdgp91sbGRpUkSnDk/yspxFcCuNmvJ28uhoft8yFQK9yofgpBkbN039LeV1UuNbPJBTcc3hINZT9PiMCGwEB8JtUPBOMpTfAAnVrGkkdI7o;YH9UvODR2ziwKYina7hUOA=="
 ---

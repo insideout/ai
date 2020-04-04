@@ -2,6 +2,50 @@
   "page": 73,
   "value": [
     {
+      "path": "_news/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
+      "title": "The Case for a Light Hand With AI and a Hard Line on China",
+      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
+      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "publishedDateTime": "2020-01-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Case for a Light Hand With AI and a Hard Line on China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how.md",
       "title": "TransEnterix wants to use more AI in surgical robotics: Here’s how",
       "excerpt": "TransEnterix (NYSE:TRXC) has filed a 510(k) submission to add an artificial intelligence feature to its robot-assisted surgery system in ... “I think our hope is that people will start to say this scrappy little company that’s been around for a while and is still fighting— it’s having kind of a Phoenix-like rise with some really ...",
@@ -1213,52 +1257,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-artificial-intelligence-how-to-measure-the-i-in-ai.md",
-      "title": "Artificial intelligence: How to measure the ‘I’ in AI",
-      "excerpt": "Neural network-based models, also known as connectionist AI ... (Note: Some AI researchers, such as computer scientist Rich Sutton, believe that the true direction for artificial intelligence research should be methods that can scale with the availability of data and compute resources.) In the paper, Chollet presents the Abstraction Reasoning ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/01/12/artificial-intelligence-how-to-measure-the-i-in-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-12T01:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/1-copy-copy-1-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Artificial intelligence: How to measure the ‘I’ in AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

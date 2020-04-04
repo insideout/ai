@@ -2,6 +2,51 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-01-17-every-entrepreneur-should-befriend-a-robot.md",
+      "title": "Every Entrepreneur Should Befriend a Robot",
+      "excerpt": "For entrepreneurs just beginning their start-up journey, RPA is not usually a priority with product development ... Today, pragmatic Artificial Intelligence (AI) and natural language processing can enable robots to understand real world documents even if the document includes ‘noise’ (e.g. hard to read, poorly scanned etc).",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/345180",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/345180",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/345180",
+      "publishedDateTime": "2020-01-17T04:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20170424101436-shutterstock-417941752.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Every Entrepreneur Should Befriend a Robot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
       "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
       "excerpt": "Three gates at the airport will begin a 45-day pilot program for facial-recognition scanners that cross-check a live image of a person with their government photos. The scanners are meant to help U.S. Customs and Border Protection process passengers and speed up boarding, the airport said. Gates A15, A16, and A17 will each use a different ...",
@@ -1010,51 +1055,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline.md",
-      "title": "Want optimized AI? Rethink your storage infrastructure and data pipeline",
-      "excerpt": "This article is part of the Technology Insight series, made possible with funding from Intel. Most discussions of AI infrastructure start and end with compute hardware — the GPUs, general-purpose CPUs, FPGAs, and tensor processing units responsible for training complex algorithms and making predictions based on those models. But AI also ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/want-optimized-ai-rethink-your-storage-infrastructure-and-data-pipeline/amp/",
-      "publishedDateTime": "2020-01-16T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/02/AI.cybersecurity.GettyImages-543194863-e1571944479196.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Want optimized AI? Rethink your storage infrastructure and data pipeline",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],
