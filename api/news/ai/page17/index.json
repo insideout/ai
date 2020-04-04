@@ -2,6 +2,43 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-17-ai-everywhere-iot-chips-coming-from-arm.md",
+      "title": "'AI everywhere' IoT chips coming from Arm",
+      "excerpt": "The new machine-learning silicon will include micro neural processing units (microNPU) that can be used to identify speech patterns and perform other AI tasks. Importantly, the processing is accomplished on-device and in smaller form factors than have so far been available. The chips don't need the cloud or any network. RELATED: IoT catches on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3532094/ai-everywhere-iot-chips-coming-from-arm.amp.html",
+      "publishedDateTime": "2020-03-17T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/02/heart-cardiogram-100832450-large.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "'AI everywhere' IoT chips coming from Arm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-intel-made-experimental-chips-that-can-smell.md",
       "title": "Intel made experimental chips that can smell",
       "excerpt": "but a team at Intel has been attempting to train AI to something unorthorodox for a computer: smell. Researchers from Intel Labs and Cornell University have announced that Intel’s neuromorphic research chip, dubbed Loihi, is able to “learn and recognize hazardous chemicals,” through algorithms that mimic the brain’s olfactory system.",
@@ -1046,35 +1083,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-whats-driving-the-gpu-market-growth-amd-amazon-web-services-dassault-systmes-google-ibm-intel-corporation-microsoft.md",
-      "title": "What's Driving the GPU Market Growth? AMD, Amazon Web Services, Dassault Systmes, Google, IBM, Intel Corporation, Microsoft",
-      "excerpt": "Ever increasing demand for advanced graphics processing across several sectors is majorly driving the GPU market trends GPUs play a key role in running graphics intensive applications such as gaming image processing 3D visualization VFX animations and many more among",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970446/what-s-driving-the-gpu-market-growth-amd-amazon-web-services",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

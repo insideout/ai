@@ -23,6 +23,6 @@ images:
     height: 340
     title: "Apple Invents HomePod with Built-in Camera that Provides Siri with Eyes to deliver Next-Gen Commands & Longer-Range Face ID"
 
-secured: "GjhIel8cDOg4pERD1V6BI7ZOb6WsvRD3Hn07Uukp6svuBwet4X9OKhKBGsU7qOoxU88sNKQFO+Trh9yySMJ8Wsj/5CkyqQF1bQ+RLtyxpGKrGy3fR82RyfAa00j4zIkySV//PUeFK/A4HqBgVv4h3yGPEIdY397v3B5UiVSkNBwzYHbdxf9Bxv7pse8xfO/6kLnRQObnN8g3/DmNCdDa0twU0bfJBN1QVB9U1gzCuDOhWGgAjU6T1bbAV6NukQzXcGGpAD+GRpoN7VP/pp3Szx5rvm30ZGYx/ZVrz0SLy+yFPRSBkA3082TlA4XVNFbC;BeEwn7hJDGeYePT2n9lVSQ=="
+secured: "KVJsmS5hT7yx2I7DDqwhQaxWRJdy4pJvn8IufyB4M+Bmm+xvar9qrK+iPlvUflFOsqN21+PYA3gkh9nWrNoQMwqa4OAP/M7b9RHI5W4+U+OOUrN8RDEM77MfOCxpjtXJxCiOjZj0ueqUQzuXtaWgsXDrJtEFlIjs2a7eBdD/kOcm7FQB8v9G+LylWQBZqRLEM0s2/d27p2ZgaN9lXCyx2mzTiAsnqyeUjoYg5DxV76IRLq1nrC0X79kB3bJ6heWkvkjNi0ZlxXXuJU7W0fiQh07V2iQNIvy6OyTri1VH1G0gPn9h2Kx5JmOtOb45MeOnO+As15OJJTTN5IQt6fhuKMQN9WsLoM+q4zpAVJzE8WV3B9/ddRqiCQYKGD/1jjfIGF/BYPskoq1APh/EXUWAfJTEsI9kJ1BjQzYyqYSNTV+FLVsLi4YN6eTeXWUpesC0ChbF0rDutVzzpD6yK1mO7AGFqVjQebAnVonaSf6KYS4=;Z+Y/BoCjmJzqZOSniP09fg=="
 ---
 
