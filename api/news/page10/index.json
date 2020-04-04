@@ -2,6 +2,96 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
+      "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
+      "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
+      "publishedDateTime": "2020-03-25T11:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design38-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again.md",
+      "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
+      "excerpt": "Robotics, which exists at the intersection of fields as diverse as mechanical engineering, computer engineering, machine vision, artificial intelligence, and biomechanics has long been particularly challenging to fund outside of certain prescribed industrial use cases. With some notable exceptions, including Moxi, the socially intelligent ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
+      "publishedDateTime": "2020-03-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/25/73eb45b4-7df9-43d5-ac2f-ebab6fe9bd7c/moxi.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
       "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
       "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
@@ -937,89 +1027,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-manitoulin-robotics-teams-compete-at-first-ontario-district-event.md",
-      "title": "Manitoulin robotics teams compete at FIRST Ontario district event",
-      "excerpt": "Teams had to use their robots to pick up soft yellow balls (serving as power cells) scattered about the playing surface and for the first 15 seconds, they had to operate autonomously—yes, these high school students had to program a form of artificial intelligence into their robots. Following the self-driving portion, drivers take over for a ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/",
-      "ampWebUrl": "https://www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/amp/",
-      "cdnAmpWebUrl": "https://www-manitoulin-ca.cdn.ampproject.org/c/s/www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/amp/",
-      "publishedDateTime": "2020-03-24T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manitoulin.ca",
-        "domain": "manitoulin.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.manitoulin.ca/wp-content/uploads/IMG_4312.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Manitoulin robotics teams compete at FIRST Ontario district event",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
-      "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
-      "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
-      "publishedDateTime": "2020-03-24T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

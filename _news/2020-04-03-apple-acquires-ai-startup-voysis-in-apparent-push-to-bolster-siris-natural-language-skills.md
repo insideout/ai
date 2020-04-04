@@ -56,6 +56,17 @@ related:
       - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/siri-how-to-set-location-based-reminders-iphone-apple-watch.jpeg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
+  - title: "Apple acquires AI voice assistant startup Voysis to improve Siri’s natural language"
+    excerpt: "Dublin, Ireland-based Voysis focused on improving digital assistants inside online shopping apps, so the software could respond more accurately to voice commands from users."
+    publishedDateTime: 2020-04-04T07:06:00Z
+    webUrl: "https://www.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
 
 secured: "eZ5lms56PHeafIzhdJXGC4jyJscDLLfGSsgUcOhYj5sw+iI9o+X//Nr+Mxk6Sf1LCw7sLWzUFESwEluAJGOmbgAUxHns/QJvz1wTu1s/lGl3nBPapZfzH8v3AEzzob/2b1n4hgv6V28ozruMkFetJqUwM9Fsx8wCRXZ0ZV/B3top5LoSLeY+jfJeWGTuGhSACyhUS6zfFPeCYRNe7aoeo/Ps2ey2NkqVxDItaKr1fzXYpH6E/6YabonNTqzRAWzt7J91rkNwmtBJQ+hyUvTjUgzey5nGSuarX+KWkBl4/DMreQOfxYL0dLRGMGSdMfg0z64pG8vqNhyT7eQTtSVusTzAiy2aFaHjRFXs2MhQ7oXfe3BrVQPz5DQtKYRpKYTQ/K5PSWGZ9JEKkJcUurpCTg8zufOPdncqtv7dAWjNY20yGTnGX8rvvupg8r0TmgflVXDQuw89FX3PU5xrIxJzYQtkzfPZEjApgpbNUiAxTUQ=;su60atd5zUkpX1XoNysh7g=="
 ---

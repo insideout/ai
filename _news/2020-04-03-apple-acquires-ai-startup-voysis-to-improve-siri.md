@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysi
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/35237-64485-200403-Siri-l.jpg"
         width: 660
         height: 368
+  - title: "Apple acquires AI voice assistant startup Voysis to improve Siri’s natural language"
+    excerpt: "Dublin, Ireland-based Voysis focused on improving digital assistants inside online shopping apps, so the software could respond more accurately to voice commands from users."
+    publishedDateTime: 2020-04-04T07:06:00Z
+    webUrl: "https://www.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 31
 
 secured: "bl9C3nngR0+NgjcUVM26soEePtQobfFtW44JcghO9Dvs6wVIvCedUiSk2FMFposLNG4QtsEzaESAqLVw5A7DJUA2C7mfOR4LcdZTtr5mdsTRK5zmUjyWHvQDZrOqggHiyY+obM94rLHx7pvQbuNRremhbqa6KJf5AD8qdL7H3XwLsrTC2MeH5RwE1kya4RaiuMSQXTlqD4gzRi3LruW58HtL/S5iKteHz0kvzjlIUfAsPAlFfglxpIZ+HxILf7E5Fug6UQodOnEXuumi8WPbiG11vlBD2wvUsigvzgZH8H9StwATJDjtxJEK6DOVCAty5XDaXU5rM8s2jedHZ9PhMiig2piJxD/6c8GM6j9zajaJuVKQudVEppDTsAcHsYmPQ+/rYTzUS5eVRMx9sOLs2ti2BFYWzyWoFqYvwwvutX2RMwHGLojOu0dzAt59WBZFkwrVcMZYs7+b6H6vGH4wxEvAhO7DnBFx5Id8dYwrrtw=;876e4c9cA3TnZ3YwV+zpQw=="
 ---

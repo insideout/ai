@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group"
-excerpt: "Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and"
+excerpt: "SAN JOSE, Calif., April 1, 2020 /PRNewswire/ -- Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that"
 publishedDateTime: 2020-04-01T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-301033136.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-1029054696"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-1029054696"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group-1029054696"
 type: article
-quality: 0
-heat: 0
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    title: "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group"
-
-secured: "zZolZDQBAUH9p4pixev6pQkjLQb8YzsOWt32yX/I0yAhFPWlod8gHfwHOcNKSCYqea3jqQvGTfaMjSVYhHi+/bwOyPwkrY1njNlTK/Jr09Hfww9QzAcyG14iopnLNJSw78LqIUIdXJ5ILqAakDHTO3Mos+lexeLugMNiXU9DrZdGZZZqghgZFLxdoRiCISP40mBkTBfEhkpNBhbk7ZtvL6w1h9BtrcmXIH/zXafnbaiQcLfgU+347V1oS1cV+AHkrqSxP+kBzYR4DMwzjLW/bWwYbtrfq19R9W2w0oWT7adt2yRfRVgjyrhqL8Qgx+ZT2F5lJOpM8FS7lMJewNGEkz2bg9fX+jox2jA3nfLPCozXMP3caoFilo0+zlOOVBgG0z6nRjvXdntM0RGAET5pMNym/oNy2JSUpiVle3+P/iXOiptmr4GCEreHTeHZNkE/VCujuif8HdrPpZKJahB4l6hMcsotDcBMGgMer2chgLU=;eU4exA5JUGh9Hpe6Mzydaw=="
+secured: "OKtjPSpPn4PYjwMG63hXFf38whJhiAeE2mvqdyrcK4ne9syGVjmQOoqqWIl6bFqsxmI9v2DGn8tPDhI3H3TuCBQfY7RFoStk/Tnm3Di2engV8TYwKYqH+YvvjvbwjJFhbWDli+J6bKCGLo1CptEh/oBGLktLR6/kc5JY/SysxOaFeOQWQDrVBiMhsBppWp6Lwz85FrdMFRPSBvkm0RUEGIpo4hRZd9e4PKrljMY5mUTS0QhVWARSP/UMXtwCCiv5WoXGtYKansZBxoOiG7j+mCjLlrv0V1jMymc0WnT8rGz53nMUJxm67pPafHX8mgn/iZYuvFI55Myn5zug0t/maVgqNjiYO4scJ5pBidyCQvWfiWV09D9PvnfhY3UigUKJHSwCeSW686LIyEvcyIhfqyn+b0yzAJbhoX1LCyy/UPkUQzRqJvIWzszhNaPjLxloy181TAHgU42oLUwQlgCd7BtKIHBzOb1fc5CDsHqRdy8=;dCTWVv3TedvFH47sWO2taA=="
 ---
 

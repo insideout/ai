@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-26-news-rules-could-finally-clear-the-way-for-self-driving-cars.md",
+      "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
+      "excerpt": "Since an internet search company named Google began testing self-driving vehicles more than a decade ago, the still-in-development technology has faced a niggling issue: The federal vehicle safety rules that govern car design assume that a human sits behind the steering wheel of each vehicle. In fact, they assume each vehicle has a steering wheel.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/",
+      "ampWebUrl": "https://www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/news-rules-clear-way-self-driving-cars/amp",
+      "publishedDateTime": "2020-03-26T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e7b7a0fadfa9d0008e095b2/master/pass/Transpo-selfdrivingcar-1158000221.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "News Rules Could Finally Clear the Way for Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work.md",
+      "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
+      "excerpt": "How do you find the solution that is right for you, especially if you're under pressure to right wrongs during difficult times like these? Here are a few key things to consider.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/03/26/preparing-for-the-post-crisis-world-using-ai-and-rpa-to-foster-remote-work/amp/",
+      "publishedDateTime": "2020-03-26T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinessdevelopmentcouncil%2Ffiles%2F2020%2F03%2F113.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Preparing For The Post-Crisis World: Using AI And RPA To Foster Remote Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-virtual-patient-care-using-ai.md",
       "title": "Virtual Patient Care Using AI",
       "excerpt": "Healthcare systems need to start focusing on using AI in the patient care life cycle, incorporating conversational AI into their core strategy in order to scale successfully and make an impact.",
@@ -191,7 +280,8 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1145,88 +1235,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-the-ai-paradox-four-benefits-we-didnt-see-coming.md",
-      "title": "The AI Paradox: Four Benefits We Didn't See Coming",
-      "excerpt": "Research firm IDC predicts the total spent on AI systems could reach almost $98 billion three years from now — more than 2.5 times the estimated $37.5 billion spent in 2019. While some business leaders have gone all-in and quickly embraced AI,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
-      "publishedDateTime": "2020-03-25T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-20-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The AI Paradox: Four Benefits We Didn't See Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
-      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
-      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
-          "width": 620,
-          "height": 431,
-          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

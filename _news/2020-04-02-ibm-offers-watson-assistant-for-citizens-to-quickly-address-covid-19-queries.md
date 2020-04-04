@@ -41,17 +41,6 @@ related:
       - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/04/02/fa21d210-17be-4db8-938c-f2c60600464f/thumbnail/1200x675/3a5a416d0bb82d3169b994c176eb7a1e/img-4806.jpg"
         width: 1200
         height: 675
-  - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California,"
-    publishedDateTime: 2020-04-02T04:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-1029056942"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
   - title: "IBM Watson Assistant for Citizens provides responses to common COVID-19 queries"
     excerpt: "Available for no charge for at least 90 days and available to our client’s citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
     publishedDateTime: 2020-04-03T15:22:00Z
@@ -67,6 +56,21 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
         width: 620
         height: 480
+  - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
+    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ..."
+    publishedDateTime: 2020-04-02T04:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15723362"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg"
+        width: 400
+        height: 309
   - title: "IBM makes AI free for answering COVID-19 questions"
     excerpt: "IBM will make its Watson artificial intelligence software available for free, so government agencies, businesses, universities and healthcare institutions can use intelligent bots to answer citizens' queries about the unfolding COVID-19 crisis. The software will be available for free for at least 90 days, meaning organisations can use it to ..."
     publishedDateTime: 2020-04-02T04:04:00Z

@@ -2,6 +2,80 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-18-ibm-cloud-struggles-suffers-small-outage-in-dallas.md",
+      "title": "IBM Cloud struggles, suffers small outage in Dallas",
+      "excerpt": "In a week filled with small outages, IBM Cloud experienced several issues on March 17. Services at its Dallas data center were degraded, with some fully going down, and others slowing or throwing up error codes. Watson AI, IBM Cloud, DB2, Event Streams, and Classic Network Infrastructure were among the services impacted. IBM spokespeople did ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datacenterdynamics.com/en/news/ibm-cloud-struggles-suffers-small-outage-dallas/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datacenter Dynamics",
+        "domain": "datacenterdynamics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.datacenterdynamics.com/media/images/IBM_Swallows_RedHat.2e16d0ba.fill-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM Cloud struggles, suffers small outage in Dallas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-composing-new-proteins-with-artificial-intelligence.md",
+      "title": "Composing new proteins with artificial intelligence",
+      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. “These networks learn to understand the complex language folded proteins speak at multiple time scales,” said Markus J.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sciencebulletin.org/composing-new-proteins-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Bulletin",
+        "domain": "sciencebulletin.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sciencebulletin.org/wp-content/uploads/2020/03/Composing-new-proteins-with-artificial-intelligence.jpg",
+          "width": 1536,
+          "height": 1286,
+          "title": "Composing new proteins with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-ibm-and-microsoft-sign-rome-call-for-ai-ethics-what-happens-next.md",
       "title": "IBM and Microsoft Sign 'Rome Call for AI Ethics': What Happens Next?",
       "excerpt": "On Feb. 28, representatives from the Pontifical Academy for Life, Microsoft, IBM, FAO (UN Food and Agriculture Organization) and the Italian government signed the \"Rome Call for AI Ethics,\" a document developed to support an ethical approach to artificial intelligence. Founded in 1994, the Pontifical Academy is dedicated to study and inform on ...",
@@ -1091,88 +1165,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-at-aws-cloud-day-2020-in-jaipur-aws-architects-and-customers-share-their-experiences-on-aws-cloud-solutions.md",
-      "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
-      "excerpt": "On February 19, Amazon Web Services (AWS) organised the AWS Cloud Day in Jaipur. AWS solution architects, industry veterans and startups took to the stage to discuss Artificial Intelligence (AI), Machine Learning (ML), SAP, migration, cloud architecture, and how Amazon’s Cloud solutions are helping startups scale. The event was packed with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-jaipur-aws-architects-cloud/amp",
-      "publishedDateTime": "2020-03-18T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1584522154228.png?fm=png&auto=format",
-          "width": 801,
-          "height": 401,
-          "title": "At AWS Cloud Day 2020 in Jaipur, AWS architects and customers share their experiences on AWS Cloud solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026.md",
-      "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-      "excerpt": "Artificial Intelligence in Healthcare Market To Expand Rapidly at Notable CAGR as the various factors mentioned in",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-trends-2020-growth-share-regional-and-global-industry-trends-forecast-to-2026-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size, Trends 2020 Growth, Share, Regional And Global Industry Trends Forecast To 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -53,21 +53,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/artificial-intelligence-concept-royalty-free-image-1585848511.jpg?crop=1.00xw:0.752xh;0,0.183xh&resize=1200:*"
         width: 1200
         height: 601
-  - title: "Scientists develop AI that can turn brain activity into text"
-    excerpt: "Researchers in US tracked the neural data from people while they were speaking"
-    publishedDateTime: 2020-03-30T15:00:00Z
-    webUrl: "https://www.theguardian.com/science/2020/mar/30/scientists-develop-ai-that-can-turn-brain-activity-into-text"
-    ampWebUrl: "https://amp.theguardian.com/science/2020/mar/30/scientists-develop-ai-that-can-turn-brain-activity-into-text"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2020/mar/30/scientists-develop-ai-that-can-turn-brain-activity-into-text"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/801d48162501274b9cb921c81ea7aec03f2915cb/252_0_5231_3141/master/5231.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ccfb4b6d4052929ca16db45b2133777c"
-        width: 600
-        height: 360
 
 secured: "Z35qP6g5zRJBzFEzky1zWGq9Zh5XieTKXFpt7wQ8IDYWc1h8Kck36h5fgznvlA3ZhuKK5AEUDfBCfdbId4VYJ+qGpV9zc2tHpmi4ffdBqd65VqJBGxArMtTis7uek8Dl35RSruCMSOflLFO10Eib5vYE6I7qqsOi2u8cT5z0gslX87dbIT32MBRaa20v+RicihF44UsXRJao7SYL2tDdWUoreR65msDEA1CejoyLk9OBFAC2BrT9l0wZQwf90LDGpUB7lkUvHGPgBGFmW46UY11oApQlbeluCmtTUh1wBS1JIT/zXmBUZeZHpAtIOZXyvBvDOzPDd+iJvBJDIIAIEtNIzXWSVMy1ZmSCGmA4zP91OL/Hg1abdPhUNbxY897GANfc6ElN4HCt+Ix0baPSsv4tys1yPCBrsg48aFiR8QBYc5a3oMWguOi/qO3XQw08/QUvhyH6wcdTNXzrN1M8vy19lGGNZsXLGfIKp0O0jwU=;Bx5o7S6/HWs/+FVJoiMStQ=="
 ---
