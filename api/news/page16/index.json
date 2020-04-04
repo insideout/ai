@@ -2,6 +2,88 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
+      "title": "Synergy emergence in deep reinforcement motor learning",
+      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
+          "width": 645,
+          "height": 315,
+          "title": "Synergy emergence in deep reinforcement motor learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call.md",
+      "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
+      "excerpt": "The software giant's trained artificial intelligence software to identify background noise that isn't your voice. Snackers, rejoice. Just in time for us all to be working from home because of the pandemic coronavirus,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "publishedDateTime": "2020-03-19T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JZSQgmXsYYeJrmdTuLhBplTeIGs=/756x567/2017/03/13/a8a77ece-0a9f-437e-8a76-60905540b98d/chips.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-media-alert-supermicro-announces-its-first-gpu-live-forum.md",
       "title": "Media Alert: Supermicro Announces its First GPU Live Forum",
       "excerpt": "Sessions will include: GPU Accelerated VDI Solution Powered by NVIDIA vGPU High-Density Computing Blade Servers & GPU Options Intelligent Edge Computing with NVIDIA EGX End-to-End AI with Supermicro's Validated NGC and EGX Platforms Accelerating Distributed DL Training with Optimized GPU Computing Solution Infrastructure Challenges within GPU ...",
@@ -863,88 +945,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
-      "title": "Transforming surgery with data, AI, and cloud",
-      "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/apac/features/transforming-surgery-with-data-ai-and-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/03/hero-1600x758.jpg",
-          "width": 1600,
-          "height": 758,
-          "title": "Transforming surgery with data, AI, and cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-self-driving-car-companies-suspend-testing-on-coronavirus-concerns.md",
-      "title": "Self-driving car companies suspend testing on coronavirus concerns",
-      "excerpt": "Major self-driving car companies have suspended their ... Other companies to have ceased testing include Pony.ai, Baidu Inc., Zoox Inc., Nuro Inc. and Yandex NV. One notable exception is the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/18/self-driving-car-companies-suspend-testing-due-coronavirus-concerns/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/06/1_Gikb_56-v7jI5Q8oy3wy9w.jpeg",
-          "width": 800,
-          "height": 533,
-          "title": "Self-driving car companies suspend testing on coronavirus concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

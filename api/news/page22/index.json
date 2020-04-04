@@ -2,6 +2,88 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Now AI will understand language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
+      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
+      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
+      "publishedDateTime": "2020-03-16T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
       "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
       "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
@@ -829,88 +911,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
-      "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-      "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15555518/cognitive-computing-technology-market-by-offering-solutions-services-technology-deployment-type-a",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15555518",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15555518",
-      "publishedDateTime": "2020-03-16T02:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1584351519.jpeg",
-          "width": 278,
-          "height": 333,
-          "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-can-you-use-serverless-for-artificial-intelligence-today.md",
-      "title": "Can you use Serverless for Artificial Intelligence today?",
-      "excerpt": "At Radix we use multiple serverless services: AWS Lambda for computational ... tasks that are neither real-time nor involving artificial intelligence. But when does it make sense to use them ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/radix-ai-blog/artificial-intelligence-on-aws-lambda-9ef45ffe1309?source=post_recirc---------1------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*1C3siq0SEr_vPuESChNTTw.png",
-          "width": 1200,
-          "height": 795,
-          "title": "Can you use Serverless for Artificial Intelligence today?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

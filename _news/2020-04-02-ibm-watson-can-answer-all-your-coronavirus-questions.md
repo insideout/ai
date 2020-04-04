@@ -1,11 +1,11 @@
 ---
 category: news
 title: "IBM Watson can answer all your coronavirus questions"
-excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to ..."
+excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
 publishedDateTime: 2020-04-02T17:28:00Z
-webUrl: "https://www.techradar.com/in/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-ampWebUrl: "https://www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
 type: article
 quality: 89
 heat: 119
@@ -76,6 +76,6 @@ related:
         width: 3000
         height: 1917
 
-secured: "CeHDxSxR1IU+r4mIHuc/DjGdflPpSWiLEXymvatRZDFB6zuuofvOYSE308z0NgigG+49YzL4+KT+I9cT3t3xgcC6KnhVu5hbLwYQUdkm5Bb7zI9+ywb3I9AqtPpPn+FlcoviylpKZlFjuyQXkHulg3NL+GCOTCjbO48JuVIncSp4HDl+j4Yk0Zx+FmddTtj/7PviiAdRNVA5Lb3vPI7NcKZaTREpuc4quuLWkjQ/2Gz6wRcRPSEwqyovISXFVdx7IhEitCxoPqIGxEMdzGeFwJ871V4gPf+nlPR4ecJ9OD/KUIoWLwiSPssm7QqhhMq+JzRManqfiNpAuLT7y1QpGMYjQF0XvlbYsS/8Mo05JKK1SqcgJzuQywU8PV7y0CINSOiXaSj8cG0+hLi4HUjpGoWOAJ6cS6U4+kmRRMpTsK23ND7aO+IX9Ul16byhv0q3l1kfBJITKkDTYb4uUYU6XdWXojl0YxvgmL3GvwBWsTg=;B4XNZTURWU28i1x5AKVbJw=="
+secured: "g8dOm+LcQWuePuXFw9oNCSvr3m1gi1yPX/lCewXqjs1xH6UrFMMeEYyG+7N50JwdB2M+S5majAvsdUm4dIy+5lqWj32lRXJVXSqp8Lscd44xNk9IVEoijRwVwSsJbngmQSkfkeCux14WWxPbVyjdrBYdKYsweGDvSxtdf06c4iqPr8S/QDpohdH+moznsufKJ8j7ZEYFbGTEn0Elli39Y0Rrr332RvdHIk7WOAIYe/mSXq+l7Nw/EaZPwVRP1z7YFzoqrKBVa7tLG2y0HtWcf8YOXqGCuPnlz2h61eIV4DfRtOsjMQhutYAZ2Fp8eN3T;ySqQOifeluHZnqopkGZTww=="
 ---
 

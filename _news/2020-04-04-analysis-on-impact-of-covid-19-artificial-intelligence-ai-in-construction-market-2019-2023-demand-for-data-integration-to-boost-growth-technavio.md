@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Analysis on Impact of COVID-19-Artificial Intelligence (AI) in Construction Market 2019-2023 | Demand for Data Integration to Boost Growth | Technavio"
 
-secured: "zbeuDTg//Iu+kax1TFdaNziHQ76h4B+rO/UGoay+inJU+Fgt0lf0YF4WRKrCYvr+KXgd7m9V9NAsXIerYGrk0aQZhxTTxh8Gt5qGpOKsc6frtnn8EYrlCDzXI6d4jbt3c39FHQ55PG4ZKh4indAzbhbu21h/2y/JgTtjtq7XQ4DECIdc5BOdLA2KJVP9OGnvLisMFW7hJZN+jRXwLk7dUsW5xBbq73V1tE0zi4Jx/WRHSNh64gSKEcosAFtmawIe8dbOO/GckZ4w+FRmIXDYRoIYhmad+F/Rw2WSKvJTQuTeMPxN7VG27SEtsdS1jRt3;wi2CvuI7LDME4h0GMe+Pkw=="
+secured: "NSkk23lMlLUJSuQQZmcJp8JekvVTcnNefoXSC5gd0w4eSdSmO+fV87263jJ515dIKlSBJHZnbST4nM0SPXsLK2Imib7pwFcyV45cJf88Oq98cYi/Y7TWk+C57RAzJZNa6YKHqwQL0QsFsRwlsA/eGeMwYN13Y5UnF49cc+3C37MSu90BHEf0ciR9B9FVGdlhbzYOkifI27GC/JSpmOU3qo6EluQoDGFWM1pFhP0A7/yfi59h9YivXRw/lCpEYDYFckvr3qTwYiLom8WrH57D6S4K6KJGsPtQH9Athy5jvOaiCmGttng6PuoY4UUJy6Y1R5p2d/yBC5Bzq2vMk76K65fvkkaSPYIVLNRPUOGvfthwIAPkBSklzQB2x6ysgZ2psBqufpbQG7RFGRnzFxUDGCddFoiONXSu3aoZHqHwDQYcOpd8iIbbhqRtVNi5JWu5f1/25Yxpn+/PEznkofKdyjtkHTyF6XqxGlw8+L5gHlc=;SAU9sGSz2enkLXMRleeFaA=="
 ---
 

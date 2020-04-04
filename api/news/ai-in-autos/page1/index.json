@@ -311,6 +311,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
+      "title": "Huawei steps up ambitions in self-driving vehicles race",
+      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F6%2F6%2F3%2F25873661-1-eng-GB%2FRTX4YZOMre.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Huawei steps up ambitions in self-driving vehicles race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ai-to-become-main-way-banks-interact-with-customers-within-three-years-accenture.md",
       "title": "AI to become main way banks interact with customers within three years: Accenture",
       "excerpt": "Artificial intelligence (AI) will become the primary way banks interact with their customers within the next three years, according to three quarters of bankers surveyed by consultancy Accenture ...",
@@ -1233,51 +1270,6 @@
           "width": 600,
           "height": 401,
           "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots.md",
-      "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
-      "excerpt": "In partnership with Apollo, Baidu’s autonomous vehicle platform ... More than 60% of respondents to the Brookings poll said they weren’t inclined to ride in self-driving cars, and almost 70% of those surveyed by the AHAS expressed concerns about sharing the road with them. For this reason, Nisenbaum predicts that adoption will happen ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/",
-      "publishedDateTime": "2020-03-20T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
           "attribution": null
         }
       ],

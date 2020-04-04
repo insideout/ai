@@ -2,6 +2,95 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
+      "title": "Cars Will Transform Before AI Drives Them",
+      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "publishedDateTime": "2020-03-25T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Cars Will Transform Before AI Drives Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
+      "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+      "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
+      "publishedDateTime": "2020-03-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-17-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
       "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
       "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
@@ -1167,96 +1256,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
-      "title": "Making accurate energy consumption predictions with Amazon Forecast",
-      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T08:17:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
-          "width": 1000,
-          "height": 374,
-          "title": "Making accurate energy consumption predictions with Amazon Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-technology-is-racist-study-finds.md",
-      "title": "Speech recognition technology is racist, study finds",
-      "excerpt": "New evidence of voice recognition’s racial bias problem has emerged. Speech recognition technologies developed by Amazon, Google, Apple, Microsoft, and IBM make almost twice as many errors when transcribing African American voices as they do with white American voices, according to a new Stanford study. All five systems produced these error ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
-      "publishedDateTime": "2020-03-24T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Speech recognition technology is racist, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
