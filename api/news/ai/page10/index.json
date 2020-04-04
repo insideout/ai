@@ -2,6 +2,87 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
+      "title": "How personalization and machine learning can improve cancer outreach ROI",
+      "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
+          "width": 900,
+          "height": 300,
+          "title": "How personalization and machine learning can improve cancer outreach ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
+      "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+      "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs",
+      "ampWebUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
+      "publishedDateTime": "2020-03-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CambodiaBombingGetty1970.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-personal-voice-assistants-struggle-with-black-voices-new-study-shows.md",
       "title": "Personal voice assistants struggle with black voices, new study shows",
       "excerpt": "Microsoft had the smallest disparity; Apple had the biggest.",
@@ -1169,95 +1250,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80.md",
-      "title": "Google open-sources framework that reduces AI training costs by up to 80%",
-      "excerpt": "Google researchers recently published a paper describing a framework — SEED RL — that scales AI model training to thousands of machines. They say that it could facilitate training at millions of frames per second on a machine while reducing costs by up to 80%, potentially leveling the playing field for startups who couldn’t previously ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
-      "publishedDateTime": "2020-03-23T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources framework that reduces AI training costs by up to 80%",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
-      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
-      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
-      "publishedDateTime": "2020-03-23T11:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

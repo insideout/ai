@@ -26,6 +26,6 @@ images:
     height: 600
     title: "29 tech startup founders and CEOs share their fears and strategies for navigating the coronavirus crash: 'We are now wartime CEOs'"
 
-secured: "HOLm39C3aWnBrMOFofxbdoWKhEZmduDkvbgkzmGao7SAv9JRTcB9g143bFJ5K/+zGrGRguzyxNfQR2R9VUrsZLGn/kPkFDNHov8kG3/j+3Ooag63e6N3Y6lOOIjXLjlHb2Y/HMx3VomGQXMpw73I3CmL/NckznYKTqt21ro6yure8yup4afAgfjnuBJzm0pktWTNHOan0EWI4gHBBjby2MkDMyHhZq2eUYArieV8w9746kUlWkdOaSfNj9n5Ku9Wx71cCJnlE2m/75PX57AkRpTYT7Kbs8AcfJq1dOhvxo+X6n5Kht0PlOXB6TzHrMPK;tCjn/7fkghLqdbYxDyRXAA=="
+secured: "/BKamHIS0j/FO9qNHssJzqKXmbhqon4Rg1d3Onc3Oy+udT6diRBIFJYh4hGUaLcqoiCMBAjiufl1i5GD1hZkHgz45j66jzjLQ3uZU/5WkiOCtDM4+jb5FTg7TUX2WLSFMrjXaQweiDV3pZar30k8TG1OsaiuM1OlQQ+bT0bPrwen2GjUCqTCHnM6JholcEZP8nBnIXUCQoq6iYCL1N1ztpuNdCJkTmkn3aWB+cS7yZ+EozP8xmLtfW/Cp5RxjMdsvq9ffWBkjaDPOKE2P/BgEPO1SCiMy3X5s1mvvE/VfPsCvFIwDT11AASnyAFgEF/jX2M4OZVkiM7ITB+t2ir1nBfqDsJB388MJkOJPe/QO9KBG06CwnORI/+10kgj3pDftolxOtJr7+4KSxibuGboW/0bEvjNbP1TNfmPqyjOOjABMMceeBbo2TzmeIV5KuUwfy9kg4XX938sxJBNgNrIS5CQ9RRgbcwS1Vzwhpf3wRY=;I875TPEdOGPvFGC0/evKlQ=="
 ---
 

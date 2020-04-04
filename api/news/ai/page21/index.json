@@ -2,6 +2,89 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-03-13-glisten-uses-computer-vision-to-break-down-product-photos-to-their-most-important-parts.md",
+      "title": "Glisten uses computer vision to break down product photos to their most important parts",
+      "excerpt": "Glisten is a new startup enabling just that by using computer vision to understand and list the most important aspects of the products in any photo. Now, you may think this already exists.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/13/glisten-uses-computer-vision-to-break-down-fashion-photos-to-their-styles-and-parts/amp/",
+      "publishedDateTime": "2020-03-13T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/glisten-header.jpg?w=1024",
+          "width": 1024,
+          "height": 608,
+          "title": "Glisten uses computer vision to break down product photos to their most important parts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
+      "title": "The Evolution of Artificial Intelligence and Future of National Security",
+      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
+          "width": 1386,
+          "height": 924,
+          "title": "The Evolution of Artificial Intelligence and Future of National Security",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-robotics-vs-artificial-intelligence-what-is-the-difference.md",
       "title": "Robotics Vs. Artificial Intelligence: What is the difference?",
       "excerpt": "We answer this fundamental question. Robotics and artificial intelligence serve very different purposes. However, people often get them mixed up. A lot of people wonder if robotics is a subset of ...",
@@ -1131,88 +1214,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-islamic-fintech-startups-on-the-rise-in-southeast-asia.md",
-      "title": "Islamic Fintech Startups On The Rise In Southeast Asia",
-      "excerpt": "At our Singapore-based venture capital firm, we keep an eye on emerging tech sectors across Southeast Asia, and we’re seeing a surge of new growth potential in a traditional niche business. Few non-Muslims even know about the Islamic financial industry.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/vinnielauria/2020/03/13/islamic-fintech-startups-on-the-rise-in-southeast-asia/",
-      "ampWebUrl": "https://www.forbes.com/sites/vinnielauria/2020/03/13/islamic-fintech-startups-on-the-rise-in-southeast-asia/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vinnielauria/2020/03/13/islamic-fintech-startups-on-the-rise-in-southeast-asia/amp/",
-      "publishedDateTime": "2020-03-13T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6b3ee9aa5428000759bd2b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D0%26cropY2%3D2250",
-          "width": 1199,
-          "height": 675,
-          "title": "Islamic Fintech Startups On The Rise In Southeast Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-boosting-the-power-of-machine-learning.md",
-      "title": "Boosting the power of machine learning",
-      "excerpt": "Eigen Technologies Co-founder and CEO Dr Lewis Liu said “In the years we have worked with ING we have found them to have some of the most advanced thinking in the market on the application of machine learning in financial services, something that comes from their fantastic innovation culture.” “To have ING join us as both an investor and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ing.com/Newsroom/News/Boosting-the-power-of-machine-learning.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ING",
-        "domain": "ing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ing.com/upload/d72ef16a-4651-440e-b6cf-d625a1bcb29f_orange-juice_1200x675.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Boosting the power of machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
