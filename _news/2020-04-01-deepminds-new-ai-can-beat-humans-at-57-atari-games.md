@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-ca
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/"
 type: article
 quality: 104
-heat: 115
+heat: 114
 published: true
 
 provider:

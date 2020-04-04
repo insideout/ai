@@ -25,6 +25,6 @@ images:
     height: 323
     title: "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers"
 
-secured: "wLvvjG9Ck0ui2j3RyIyrJa4Bvy4LD7uU/Vfd3AqQ3VtZD8QBDTDeXYu3c4bXF5FWRiXEiMoQaY6zJLUpmgxfIoWlNyHGuoav75vgWh/ImxjB7/L71c+NKJRYsUdiKYwEaDb5ojfAJm+vAL1nDDqr/uvLlZf73VDhTQ3wXuiX7+sh0FNcbpEVdnD9RcyhEn8dn4ZzThgR0KismK2OKr9nko664IKey7sPRpTtYSBDrkfpzeyYmBw3NIHTcjwE+X6syNDeNTeech5Q8zQrGcqzmCmgDGpmXKqI8dNBeUUIeW86ndNrkZQdPVxRInkllxwr;xeUHRwPNRvfUfZ2/iwQUiQ=="
+secured: "qka2IMCST26Y2EZ/yoRh5JUbQKCAN0yRsXqzXwD/L96Q08yaEbx1+mcwU2J0RXlJ/Y7u4tzJyGcYdKHtL9oBrYznmEewU5xsZnlNZ7ymj/h6AMtj2KrR2QVj0ZFe30iui+ITE9DwsL7HAeEgweXmS8LnKf/22kT4OD6vRIDljY2Zht48ZVP4gu2xOVD/FPzlQTba3rkCd18fy7e3Ih4pv4zWyQSr+I8wUS+srBzMVpNTA+ZdxEixPKTrp776H92tBuUPAQalOa3g/ycbUxevwAV5EgZ9SCZqphxTyzVN4wuMOXndFDwNJ51v0eGE4L0SLExKYtC37OWTjLH4dczVdVLGApbuv3cs6l4fpPQPdW8kqRY8VHVHD+PSXcr9/eNSN36264Dy8/7/3Q5qnS2xLl1tfRxfXslcUkMRUYulb278nJrJtrLYkiamW6t5YB+MRrDEkTr9J20DUJEBGUl/HNl23RRf3oe6MMeqzoP1CJ8=;hM/k3LlREGJnXzV+UpPlOQ=="
 ---
 

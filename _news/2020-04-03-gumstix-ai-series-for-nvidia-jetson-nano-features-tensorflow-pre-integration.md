@@ -5,7 +5,7 @@ excerpt: "The devices, which are powered by the NVIDIA Jetson Nano running a Qua
 publishedDateTime: 2020-04-03T20:34:00Z
 webUrl: "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration"
 type: article
-quality: 68
+quality: 70
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ topics:
   - TensorFlow
   - Google AI
   - AI
+  - AI Hardware
 
 images:
   - url: "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png"

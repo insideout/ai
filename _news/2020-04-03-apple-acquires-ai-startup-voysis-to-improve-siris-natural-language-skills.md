@@ -40,7 +40,22 @@ related:
       - url: "https://images.macrumors.com/article-new/2020/04/applevoysis.jpg"
         width: 2000
         height: 1000
+  - title: "Apple acquires AI startup Voysis in apparent push to bolster Siri's natural language skills"
+    excerpt: "It appears that Voysis applied the method to more accurately sample and translate human voice commands for AI systems. Prior to its acquisition, Voysis marketed its natural language solution to companies looking to improve voice assistants integrated in apps or online. The company reportedly reduced the footprint of its solution down to 25MB of ..."
+    publishedDateTime: 2020-04-03T22:04:00Z
+    webUrl: "https://appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills"
+    ampWebUrl: "https://appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 49
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/35237-64485-200403-Siri-l.jpg"
+        width: 660
+        height: 368
 
-secured: "/MUJFSs5+Vrgvxd5uIFJa0PXXxTsDTyfIeeLfTh0shOsy40H0F1v6/iwgjYJV7n7M1cYriatVlk6zOp9VoszY7PnZmalgMDSqpWP1Z7c/AZntiObABd3Wo15okkwCsNX3s/dmM6tOXA+Na824xqVc0xk7IIIaUFG8SHGvrekBKNYofwp5ZdcZLCOMpfMAkHUdvR94sVWIWTWeZlzEJp34nI0Tl9g8FbWE7iIXAHwdfPL7m+6hrykuSUlhQDNVQOBXTUv6JRN3okAzeWmneiVuBM775jMizTuXgqH16tONzsn8fZptTgVkLxPnFyHFvYY;0WYhyw7ur59SZE58oGrfcA=="
+secured: "cXTz60ZVJ26OkvxyYcZwLXMqYRvAFWt5qx6EZWv0HVS7BLUA5hkmMBi+wGdXRUGZmFeqHgItg07B9zgIx+utBf1BwrO9S4tuXjxZ9Agh285SlhF8Ay0skjAEU087eCh2iWYxpEkEsZvaanTa9VHTOLQWUaGeOhMNArYbdQ6AVSe+B3iOE9+FQOmB9XgGESboLheko4U2DbgjMXY/2ssttp/i0FOdKDzjsE4NSCu2Dy7eekkdNRNiwmtcTQU3vMftx7RcJuhgQHW1D9UOfMfLok4pymSy2xKB+Wy2qCuAGw90aOloMC0OrDYn5E6uN03VNSSpgQorUG9D22ajRtu8q32kR1q4MH7+oxlKABCBc0Cm8rH4zrQlJwA/6kyWdjwonRagx1QgKSPuwMFgE7QSO/h0VB/i31c37qJ7B7ecydO/EilHfnxHtnhgTNDLL+dcwJyZ7iN0xrHRhwYKNO3w4lPMV27LOfdsoSf7PqcF5lM=;R7D4Gp/fIVHhZPxyIKX5NA=="
 ---
 

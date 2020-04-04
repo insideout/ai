@@ -8,8 +8,8 @@ ampWebUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysi
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: MacRumors
@@ -40,7 +40,22 @@ related:
       - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/siri-how-to-set-location-based-reminders-iphone-apple-watch.jpeg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
+  - title: "Apple acquires AI startup Voysis in apparent push to bolster Siri's natural language skills"
+    excerpt: "It appears that Voysis applied the method to more accurately sample and translate human voice commands for AI systems. Prior to its acquisition, Voysis marketed its natural language solution to companies looking to improve voice assistants integrated in apps or online. The company reportedly reduced the footprint of its solution down to 25MB of ..."
+    publishedDateTime: 2020-04-03T22:04:00Z
+    webUrl: "https://appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills"
+    ampWebUrl: "https://appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 49
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/35237-64485-200403-Siri-l.jpg"
+        width: 660
+        height: 368
 
-secured: "YAE8PW0i21AFtJeXCWHKpKMqny3sHPy2IbulTvI0iuyr/uJ0LUw5vZ9e0uEoeOaSwVHaSbnEsYlyceLAgIvhaeAZq6yV9V6kSuGJcF0+Q7JuGcl55nZPbe/OpI/jEt0YCwnaum9f07ibcQU33iJQronC5Q1Se7Pbgc9PAtXaIa3ZPDw2nOMPxOn0d1GSEE7E4OLtGxxXhDFrgZ9sTCRGla9AW6UCkdgE32zWManoE/aGT9FGdCaEUt9nQ/W97nkzx/ad2xYC/kI1ZGeF+azGnmBtN92NBO8XBKhfyVt5byOqI8Y6L8n2K4tuzPFUoNER;pqTXw1re5y6FWku7e6nUow=="
+secured: "bl9C3nngR0+NgjcUVM26soEePtQobfFtW44JcghO9Dvs6wVIvCedUiSk2FMFposLNG4QtsEzaESAqLVw5A7DJUA2C7mfOR4LcdZTtr5mdsTRK5zmUjyWHvQDZrOqggHiyY+obM94rLHx7pvQbuNRremhbqa6KJf5AD8qdL7H3XwLsrTC2MeH5RwE1kya4RaiuMSQXTlqD4gzRi3LruW58HtL/S5iKteHz0kvzjlIUfAsPAlFfglxpIZ+HxILf7E5Fug6UQodOnEXuumi8WPbiG11vlBD2wvUsigvzgZH8H9StwATJDjtxJEK6DOVCAty5XDaXU5rM8s2jedHZ9PhMiig2piJxD/6c8GM6j9zajaJuVKQudVEppDTsAcHsYmPQ+/rYTzUS5eVRMx9sOLs2ti2BFYWzyWoFqYvwwvutX2RMwHGLojOu0dzAt59WBZFkwrVcMZYs7+b6H6vGH4wxEvAhO7DnBFx5Id8dYwrrtw=;876e4c9cA3TnZ3YwV+zpQw=="
 ---
 

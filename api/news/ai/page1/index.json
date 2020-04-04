@@ -2,6 +2,42 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-03-apple-acquires-ai-startup-voysis-to-improve-siri.md",
+      "title": "Apple Acquires AI Startup Voysis to Improve Siri",
+      "excerpt": "Apple has purchased artificial intelligence startup Voysis with the aim of improving Siri ... The website, which is now defunct, said that the technology used client databases with AI tools that deeply understand the specifics of products, services, and vocabulary to make the user experience \"easier, faster and more intuitive.\"",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/",
+      "ampWebUrl": "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/",
+      "cdnAmpWebUrl": "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/",
+      "publishedDateTime": "2020-04-03T14:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.macrumors.com/article-new/2020/04/applevoysis.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": "Apple Acquires AI Startup Voysis to Improve Siri",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
       "title": "Google’s AI teaches robots how to move by watching dogs",
       "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
@@ -1280,50 +1316,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-amazon-and-sensetime-detail-omnisource-a-framework-that-scrapes-web-videos-to-train-ai.md",
-      "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
-      "excerpt": "Researchers at AI startup SenseTime, Amazon, and the Chinese University of Hong Kong say they’ve developed a new framework for leveraging web data — OmniSource — that notches records in the video recognition domain. By overcoming barriers between data formats like images, short videos, and long untrimmed videos and adopting good practices ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/amazon-sensetime-omnisource-framework-web-data-video-recognition/amp/",
-      "publishedDateTime": "2020-04-02T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

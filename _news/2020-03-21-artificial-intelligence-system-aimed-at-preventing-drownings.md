@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence System Aimed at Preventing Drownings"
+title: "Artificial intelligence system aimed at preventing drownings"
 excerpt: "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them."
-publishedDateTime: 2020-03-21T07:20:00Z
-webUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings"
-ampWebUrl: "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp"
+publishedDateTime: 2020-03-21T07:01:00Z
+webUrl: "https://www.fresnobee.com/news/article241279376.html"
+ampWebUrl: "https://amp.fresnobee.com/news/article241279376.html"
+cdnAmpWebUrl: "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article241279376.html"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Fresno Bee
+  domain: fresnobee.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "QTaTNJxWfJ/9L+9beoOu8NHstzQRUTuLb2/wYY1wTkhBInm5ItNqriDiRRZbw7AN6/651UbGnoumHNYZ2mTJxCTwfK1AMSFgHS5BoFx3dojLUnq5W0rTJsmYQcwmhx0xfGFO/F3id7MmOVzmeCWGyJL/FXKbWZe34l4WCcrvUnULur2fQekyFjbymuxmY5k8r/fKfu5I5Z/8puUxCie0lbJRAfbt4qtVGaxCkgpbRhDXXWGrmmmS8rxA/gawooSNP5C4w2ak6S7Rfz6j1JK+Rdxg5zcGEHFbBuPcvNcCgEy5HkrMR19TZpYlOk3SGiXQoHoCaWdmhXbURx6NW5tmrH3fxotCKG92k+dDHFtNPPygcju9sMGWwXUri830EeUfotcU/BfqOSeXbSalcfsl2qfVmN5ORCpjcgdVWTp2YmBTTsJy6wr8/y3dr8td7brZLE/ha+VhaE50TD4E1G3bUCQj6QQTBVnpcEIpn/vYFho=;SpGD4ukFpJgsfJRUL6u1vA=="
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/9774f891-9d20-41f1-bd88-9e65e1074b3d/aa6356b5-b0c9-418b-a6aa-f925cec85dd8/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    title: "Artificial intelligence system aimed at preventing drownings"
+
+secured: "fwVdJRVp2AgbBt+9EV2pgJUNfeTEOj2lLBpB/ojBvFmGbfpXEoQLxwdMGpGZvhiZUqOiK/p1iF1ItT7uNjo9k2on8RnMhYlT1HVp7+gIGxUzi0o+Vw0Xcl0CktT9LP+wYpcXvl6XA5CMmWQgkjoKL67lWDjPoTBT9PtRWgYtZJ6ups+YLq0K5zfZA+lkIS6XXC5YBH99WVfXsXaePurwfmvqY3ZqOEb2icUWpOc6TvEsKDVFJmx/d9zIfVE/ywN7pQM94kUkZJrugO48q4Qk7QUTTNxtbXC4S1/1bqc0ZHmtWrNVddPaSb1ZP6AYHO9A;h7RQM9vhmOuoz+hFgP3ebw=="
 ---
 

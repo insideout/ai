@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-23-ubers-enhanced-poet-creates-and-solves-ai-agent-training-challenges.md",
+      "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
+      "excerpt": "They say it produces AI agents capable of solving a range of environmental challenges, many of which can’t be solved through other means, taking a step toward AI systems that could bootstrap themselves to powerful cognitive machines. Picture enterprise AI that learns an objective without instruction beyond a vague task list, or cars that ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/uber-enhanced-poet-creates-and-solves-its-own-challenges-to-train-ai-agents/amp/",
+      "publishedDateTime": "2020-03-23T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/GettyImages-509147578-e1584462768628.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber’s Enhanced POET creates and solves AI agent training challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
       "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
       "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market.",
@@ -791,32 +835,32 @@
     },
     {
       "path": "_news/2020-03-21-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial Intelligence System Aimed at Preventing Drownings",
+      "title": "Artificial intelligence system aimed at preventing drownings",
       "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings",
-      "ampWebUrl": "https://www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/pennsylvania/articles/2020-03-21/artificial-intelligence-system-aimed-at-preventing-drownings?context=amp",
-      "publishedDateTime": "2020-03-21T00:20:00-07:00",
+      "webUrl": "https://www.fresnobee.com/news/article241279376.html",
+      "ampWebUrl": "https://amp.fresnobee.com/news/article241279376.html",
+      "cdnAmpWebUrl": "https://amp-fresnobee-com.cdn.ampproject.org/c/s/amp.fresnobee.com/news/article241279376.html",
+      "publishedDateTime": "2020-03-21T00:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "The Fresno Bee",
+        "domain": "fresnobee.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5596404782001/9774f891-9d20-41f1-bd88-9e65e1074b3d/aa6356b5-b0c9-418b-a6aa-f925cec85dd8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Artificial intelligence system aimed at preventing drownings",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1192,51 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots.md",
-      "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
-      "excerpt": "In partnership with Apollo, Baidu’s autonomous vehicle platform ... More than 60% of respondents to the Brookings poll said they weren’t inclined to ride in self-driving cars, and almost 70% of those surveyed by the AHAS expressed concerns about sharing the road with them. For this reason, Nisenbaum predicts that adoption will happen ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/",
-      "publishedDateTime": "2020-03-20T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -35,7 +35,7 @@ related:
     provider:
       name: Embedded Computing Design
       domain: embedded-computing.com
-    quality: 68
+    quality: 70
     images:
       - url: "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png"
         width: 367

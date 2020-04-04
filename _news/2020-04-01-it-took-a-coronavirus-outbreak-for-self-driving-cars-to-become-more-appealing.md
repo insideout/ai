@@ -8,7 +8,7 @@ ampWebUrl: "https://mashable.com/article/autonomous-vehicle-perception-coronavir
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicle-perception-coronavirus.amp"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

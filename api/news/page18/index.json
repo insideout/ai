@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
+      "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
+      "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chinese-company-claims-its-facial-recognition-95-accurate-masks-2020-3?amp",
+      "publishedDateTime": "2020-03-18T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e5cf6c9fee23d6b777b3ed4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
       "title": "How China built facial recognition for people wearing masks",
       "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
@@ -919,43 +964,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-towards-an-ai-led-2020.md",
-      "title": "Towards an AI-led 2020",
-      "excerpt": "AI, machine learning and data science are becoming more mainstream in larger organisations in SA. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of cognitive services for image recognition, text analysis and form recognition capabilities, without actually having ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/RgeVDqPYy6jvKJN3",
-      "ampWebUrl": "https://amp.itweb.co.za/content/RgeVDqPYy6jvKJN3",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/RgeVDqPYy6jvKJN3",
-      "publishedDateTime": "2020-03-17T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/m2VqDHCZXMfLcsjx3RkV92Lb7Wu3Qcw2Twp8dYkleKJDDv8AfJuTRiF1Vsn-_hPZQ1wMo8wsCLUv525q6AjUprY=w400-h289-c",
-          "width": 400,
-          "height": 289,
-          "title": "Towards an AI-led 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

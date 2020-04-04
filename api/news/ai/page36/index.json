@@ -2,6 +2,42 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-02-24-how-ai-is-shaping-the-new-life-in-life-sciences-and-pharmaceutical-industry.md",
+      "title": "How AI is shaping the new life in life sciences and pharmaceutical industry",
+      "excerpt": "The pharma and life sciences industry is faced with increasing regulatory oversight, decreasing R&D productivity, challenges to growth and profitability, and the impact of artificial intelligence (AI) in the value chain. The regulatory changes led by the far-reaching Patient Protection and Affordable Care Act (PPACA) in the US are forcing the ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry",
+      "ampWebUrl": "https://yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/02/ai-shaping-new-life-sciences-pharmaceutical-industry/amp",
+      "publishedDateTime": "2020-02-24T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/Future-of-work-AI-in-life-Science-1582471180105.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "How AI is shaping the new life in life sciences and pharmaceutical industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
       "title": "Microsoft Azure Sphere launches in general availability",
       "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
@@ -1231,50 +1267,6 @@
           "width": 756,
           "height": 567,
           "title": "Elon Musk, Jeff Bezos and Star Trek collide in uncanny deepfake",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-how-will-artificial-intelligence-change-the-commercial-real-estate-industry.md",
-      "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
-      "excerpt": "Since the start of the industrial revolution, the world has seen skills shift in a way that has resulted in ever-changing jobs and newer skills required to keep pace with emerging technologies. According to McKinsey,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesrealestatecouncil/2020/02/21/how-will-artificial-intelligence-change-the-commercial-real-estate-industry/amp/",
-      "publishedDateTime": "2020-02-21T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1160370731/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Will Artificial Intelligence Change The Commercial Real Estate Industry?",
           "attribution": null
         }
       ],
