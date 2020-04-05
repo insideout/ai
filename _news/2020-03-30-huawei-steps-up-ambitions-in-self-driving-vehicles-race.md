@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Huawei steps up ambitions in self-driving vehicles race"
-excerpt: "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ..."
+excerpt: "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ..."
 publishedDateTime: 2020-03-30T09:36:00Z
-webUrl: "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race"
+webUrl: "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 512
     title: "Huawei steps up ambitions in self-driving vehicles race"
 
-secured: "t+PZElW2E2cKwzaNgCrvVkLfF0z/hX8gm2T7pgYTsqmI2MfOtReDoQWQ4nnlQYST8bSGBEDXZ/pVtbIW2IMHJPQOd/3vYrCs7Z64UrcFls5mC6sKDL/YLXpBBdcupvRphGAvzWTxaA1D/1Ex/ibtPEM6cYMQUyEelcl1TC3rzPPgFTW2ZCpD6gylS8YYFp9anZWSNixC+gxgVE+4gC4lXR+V4PS7A6bKVkiAWTJ8YoARLv7VI6X2AzUR0XT1cb/+e4eTpT+TQ49f3DtBY33O3TP7Dzc4jC8UA6euYinAcJ7qQ6tGDn4axgom4fAemYG8;EzmLMNCrh4qFgCCMwAwZ0Q=="
+secured: "ZCWMgI1sBtrLWrgRj4FdN0w5KoUpVqpS78qDg9WLOM8kdi4DNjdge63k9Uvdw3ZiLB5rV+WWDobUSkiUMFt7mmUjlQHjQzmAwJLQtdwXj5Mh2boEL8yhdG7vdlEv9s7L4fmQrBShSa0HL07rhGw479xNpfpq6lWP1Il6sIxSkfUGOO3e3jmFprsZc7fMtC8mClNJyH8AbC1ZvaitnzxRz2hscFKurtApJBMox+1jfKpbSG/jPYEFi9I+M2xxtm4LwEFp/RO4tHYQOOYXVV3Ce+wQndn/LpSaLGVygp7jgjYnOnY5Wxpkw1ORrFP4bQys;LlSn+dpbs2B77XiPWL6AyQ=="
 ---
 

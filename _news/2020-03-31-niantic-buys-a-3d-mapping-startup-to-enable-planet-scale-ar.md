@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 600
     height: 350
     title: "Niantic buys a 3D mapping startup to enable 'planet-scale' AR"
-
-related:
-  - title: "Pokémon maker Niantic takes big leap in 3D-mapping tech by buying 6D.ai startup"
-    excerpt: "The game introduced many people to the concept of augmented reality. Now Niantic is buying 6D.ai, a small company with a vaunted technology for mapping the digital world to the real world for AR developers. Niantic has been working on its own 3D-mapping technology, but the addition of 6D.ai’s technology and people could push its efforts far ..."
-    publishedDateTime: 2020-03-31T15:43:00Z
-    webUrl: "https://www.fastcompany.com/90484334/pokemon-maker-niantic-takes-big-leap-in-3d-mapping-tech-by-buying-6d-ai-startup"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 33
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/03/p-1-embargo-until-331-at-9am-et-pokemon-maker-niantic-buys-ar-world-mapper-6dai.jpg"
-        width: 1280
-        height: 720
 
 secured: "4km87ZY0EOCwLwOkX7/b9vwHaaX0MOxXO5y6pwOktkgIJI/JNGZQ9llGCi36ps1wP5i8tMMZh8Eg2iDrNSqulJisr4kv+6N5ZmgFIemWNCOOqjGCzOXpbFJ09eyqAGu5gist0b08RqFwN2u7HASmGNAZ79jCrAZSssgTGA8bsHfcoX1y5K7MppL0E/3UGJxyHnVkS7jbVs2WQ/kBmAT+dMMelWYV+6SNEvg86tU+FjhAtVL1p9Njc22zjVhk1iv5TNXOq0rcl6K0xyuD84S61E21qHdmuME9tktG75I/Lnaw1yy5XneSHxLe431WPtYt50Gkn69PSHxty47U7eG4edaPIiAWjrCd9k1jN7OOxOX3dqHIkVIj6MBQHlGMKHMrGUwLZlwmL57qamh47RdOQdIBSGnjM2S5wJbkIUiPZWt6ZHMx/qonu5JDa1Iv527tuhJVVMDySDXATI07ltFlfNQ8So08tKNey0umcx9H6Tc=;l98tE5FDcZ3O5sLquQg1Sg=="
 ---

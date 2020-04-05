@@ -2,25 +2,27 @@
 category: news
 title: "Predictive Oncology Reports 2019 Full-year Financial Results"
 excerpt: "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,"
-publishedDateTime: 2020-04-01T12:45:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/predictive-oncology-reports-2019-full-year-financial-results-1029054641"
+publishedDateTime: 2020-04-01T18:08:00Z
+webUrl: "https://apnews.com/Globe Newswire/447e5e17eb9b55a2c78f4e0aaea5fa81"
 type: article
-quality: 34
-heat: 34
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "HM6V1AI0JCKX0U5vP2fZ1mc8Glti8afL8/0era4oKrRSH16ZMBnOJ/qur9b4Z46f/2allrMiMzEy5Bk623XWBVsmRAIUcqeXyYHKBXrcA7WENYtJ8V+sELj7WRAUuyziIiu9JiUba4CT+vEqft77AcqFn4D6gDAHoHdxiCtAVhnyUYCsSf1atVIyUlCpKf8KVPf+QgTbi/6ynpfD1we1PfEdgXiPCQXTN+y4QtPqQO39t2mcPtJKh1uISbgbu3z56hXk6+tE4pZuB2JsIC9VP6u9TZFyt/huof0zw+vc7Y+PL3uxnMSfn41/Nkto0vmj;EXVcLv5Y0P8vfru66ePnJQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Predictive Oncology Reports 2019 Full-year Financial Results"
+
+secured: "9D1L5qi4S2i0zBa8f1GmJUrMfNnjaFHJUgZydMl59Phpmfe0Pw5t0yjj4EPu7UrnehEoNbMae+8q39askCcHdMlzcBNTucsTXaqtqU39PR0OTrcAgwCi3Csz1g5tETswqauwHlIo2FgRdYqwfevKzUwXIfp+/ibMLrNvNK5JESr4VBNoeCasbqj2QfwlZpXdjwKHBXxgpH5aNEAVTjsWI6oX8vhV+RNQTiw4OI0SGAPvUVzMqLvvK0i08LhoK+Sh5IYcyq1+xWjy2FsR4xhW7XZg0ngshrv8qpnYqWKTEk7nlP6CZ/KzyYl8iAl9jQ77;agFIxj92oFoIidt1evDrQw=="
 ---
 

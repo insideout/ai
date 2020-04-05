@@ -259,7 +259,7 @@
       "path": "_news/2020-04-01-deepminds-new-ai-can-beat-humans-at-57-atari-games.md",
       "title": "DeepMind’s new AI can beat humans at 57 Atari games",
       "excerpt": "Google subsidiary DeepMind has unveiled an AI called Agent57 that can beat the average human at 57 classic Atari games. The system achieved this feat using deep reinforcement learning, a machine learning technique that helps an AI improve its decisions by trying out different approaches and learning from its mistakes. DeepMind used the same ...",
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/",

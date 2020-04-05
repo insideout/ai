@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-ca
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/01/deepminds-new-agent57-ai-can-beat-humans-at-57-atari-games/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 796
     height: 417
     title: "DeepMind’s new AI can beat humans at 57 Atari games"
-
-related:
-  - title: "DeepMind’s Agent57 beats humans at 57 classic Atari games"
-    excerpt: "In a preprint paper published this week by DeepMind, Google parent company Alphabet’s U.K.-based research division, a team of scientists describe Agent57, which they say is the first system that outperforms humans on all 57 Atari games in the Arcade Learning Environment data set. Assuming the claim holds water, Agent57 could lay the ..."
-    publishedDateTime: 2020-03-31T15:12:00Z
-    webUrl: "https://venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/"
-    ampWebUrl: "https://venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/deepminds-agent57-beats-humans-at-57-classic-atari-games/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
 
 secured: "YSCrRbfWcWWuNFRoA/JWk5yuqicpYd/0QPWhfg30vXWctJmlyIKBmJt9H70Leg3Ia1ZPd12XECfgzlr47joyeum4GTQllBcanZalmohkEMH6LO7soDXTm2w5pmrDHElbhOgs2O5sHoQFYLC6bI1zDZabyvXyHmZ80LJxQ/nk0OeucUs1/KOCivuAGvbHc1Jo/v95DHzDdazCZheBr6uJN117ZEVqhPWlnMm6zcQvYKomeEh6epPZ0phOaSL7h2JYXwN0sTadRZ2xp3XqdeXSvdhE0S5DuPGuTVzvBBOb6uw2uRVp9Q8P8/pVyooTl3zyD1WqSmkFBPdGpQXFW4C2xeF2SdBZ9gcvmX5RDkLiIHKo2Enf0Lz/viYHbd+cNz3RpYYHjMWmSlui3yR7IJ6QBfQdWm17OXl1CiLsu8k7J144pc+S3AMxj496ETt1ZcUMVmLf4rI2uN+6sTq3vxRLIgWyF6AL1IQ1jtoWeI5D6EM=;eqTJCaf8DF42dZq14m3Aew=="
 ---
