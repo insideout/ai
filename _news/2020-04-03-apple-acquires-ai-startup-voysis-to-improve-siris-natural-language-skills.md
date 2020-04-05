@@ -40,6 +40,21 @@ related:
       - url: "https://images.macrumors.com/article-new/2020/04/applevoysis.jpg"
         width: 2000
         height: 1000
+  - title: "Apple acquires Voysis, an AI start-up for making improvements to Siri"
+    excerpt: "According to reports by Bloomberg Apple has acquired Voysis which is an AI startup for making improvements to Siri. Voysis is a platform that offers a better understanding of the natural language for digital assistants. Voysis helps online voice assistants and improves them to help users in online shopping applications. It helps to interpret ..."
+    publishedDateTime: 2020-04-05T14:04:00Z
+    webUrl: "https://www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri"
+    ampWebUrl: "https://www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri/amp"
+    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri/amp"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 57
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2020/04/Siri-1024x510.png"
+        width: 1024
+        height: 510
   - title: "Apple acquires AI startup Voysis in apparent push to bolster Siri's natural language skills"
     excerpt: "It appears that Voysis applied the method to more accurately sample and translate human voice commands for AI systems. Prior to its acquisition, Voysis marketed its natural language solution to companies looking to improve voice assistants integrated in apps or online. The company reportedly reduced the footprint of its solution down to 25MB of ..."
     publishedDateTime: 2020-04-03T22:04:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "OneTrust Launches Athena AI and Robotic Automation Engine"
-excerpt: "OneTrust, the most widely used technology platform to manage privacy, security, third-party risk, and trust, today launched OneTrust"
-publishedDateTime: 2020-04-02T12:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/onetrust-launches-athena-ai-and-robotic-automation-engine-301033608.html"
+excerpt: "OneTrust, the most widely used technology platform to manage privacy, security, third-party risk, and trust, today launched OneTrust Athena(TM), an AI and robotic automation"
+publishedDateTime: 2020-04-02T12:21:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/onetrust-launches-athena-ai-and-robotic-automation-engine/article_e971e5da-ef15-5d35-abc4-10733198e289.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI Ethics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/478210/OneTrust_Logo.jpg?p=facebook"
-    width: 2697
-    height: 1414
-    title: "OneTrust Launches Athena AI and Robotic Automation Engine"
-
-secured: "v/wVDmYmul2t4pgJyKoK9byjsVH4/M2nx/8qHEb0gB85RGOXEbtF3t0U+juWZsUCbDiYj17/dtZY+aQD29bNPiox/HnaxgAQLzdJ5CfG+pLCZRDQoY/XrfMfPgD/3AXqNueqtxIqb6yh1XFL+mjumX+GEWPx/ahep7tczI9tsrR/Bry45bgJFIHe54nGm9OYwK5kwBGaTNTgfQf3u17szV/+0Jvr7LIwltnhsBI9e4zhjBaVdkB3pKPmC9O/f9yFkR7lreNGinMylN1V7ZXw3sjW0Q90iQUIxWD4x9FzQ7tQXuMQvx9zeZAkZP/IIsPawBgFXxSPXzxhUD1nrYS0fWr+HDG2Qc4X2+14Q2jrtIQNQdYiESkqVGPzYfAmlCob2FGuWHOWh/lep2uxyqeSVN+9nac8bF9HkMVD2S0zFDZGkUJjsNb391h9xExgh06v0SpdH8VKmIg3ZllxIEjSv4CElu2GDXOtAUV3GVdb3Bs=;pCjHBS98QzaD4iLJqd+Bxw=="
+secured: "zRzJpKJOc5dLlkvCpb0A0+jPyYvgTjTa0uP8qMttiWwZKqzSOU+hBKxuDxwwDJB8VUAWDKW/3q7xbOV9gR7jjZ0QYMSvit18zFJmlH4l+BBzeom/1EXxrwXlwqiOGodxyoV/niSf3IHUdAiNEq1LTLBJb7mEh/dT2Xub9Zh1SK08+Fji7eYrjtyOfHgXI5mywmPhGvMZ98wbjP1FrpZ693PghRhqTuqimqnmivYD0j+wBpHwbzdygKRAwavfBWNCBzLZ48NGdKC1+a2CExVKBgqQecZ20Ayf6q1p5je/jkvmf+GYzHwJT25u3i2UWT4DONzIVyZgiJlsA+VTQ3EiQpUmU7UJjC2+8m1WhNTlZH2FARPy3alvDv3TmZ1VXRN/6QUlq1Mg6Ta1BSXqCw+YQsXDMLdSTMESR2Mom/MH/3DGx8//YA3HBuQDi6HBDy/ZaVoSIt+3VvmgMoQVpnarkrWlZ9Y1hpo6qIHpPSxdwZg=;jsU01mz5a1JNNK/Bd1gVRw=="
 ---
 

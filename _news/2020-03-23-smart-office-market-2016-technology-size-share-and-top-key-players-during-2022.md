@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Smart Office Market 2016: Technology, Size, Share and Top Key Players During 2022"
-excerpt: "Artificial Intelligence and Internet of Things are finding their way into our everyday life. From gizmos that predict optimal map routes to driverless cars, IOT and Artificial Intelligence have lots to offer. They have found their way into our personalized offices as well wherein they help reduce the wastage of resources. An office of that sort ..."
+excerpt: "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are"
 publishedDateTime: 2020-03-23T12:55:00Z
-webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2016-technology-size-share-and-top-key-players-during-2022-2020-03-23?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/smart-office-market-2016-technology-size-share-and-top-key-players-during-2022-2020-03-23"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Smart Office Market 2016: Technology, Size, Share and Top Key Players During 2022"
 
-secured: "KuFkNy7jhy2EfR5gBAXFbt81H1mF/qAa/OZNFi/wAGJC8E54yzr67nDJ6UtZU1idmF+AfTNY9iTy09ZQrf5F5Q+rzAO/yEjdAbgsO2j9mZYBEpnFWnH3nM/aKIOrrd6ALgCkZmJtv4I+Zv0xaQwA1dQ8ZRb+Li/+ylUaIRJu6pb5A85ahRkTSAAj0SWPmzBdGHl4XZpZ86qGGJ6mu+Z1JMQVS7x5ovTWAkoKTNEYebgfODXz/f1mBiJxtdxp6GbFmfpKWIMI3mA4WtTSt2skwkfGHHt5Tlc7zh0MBl6im7sqsj5QUt7nr/GI1QFVCVt0;BIve8HFC9+ky59XfHgKCyA=="
+secured: "G7Cm8fsm9aW/apBfVP4jndpWMtm0P8DhEBT+/+w7NfAz/8VXCDf4zKJO7Q7qjmmp1j57oqZZvSaQwG+GFK59AsdRwZKFuPFI6DgBg2aYJNr7gOnp0He2lIIyBzGuEXlLhzcEXMiPY0DPKi+mPDTaAtrBmvjk7IpBPjl5Ry0fRVI22SmR63/6nO5iacZmkGM9MRVpBzxotyZrPIQI0rYu/1CAFr3nNp7c/vYNnHRzoncLFKxB5Z8fSLKTrQun+fLVbZiaQS5M+ugSKhxYygESSQxJawkAql6r6d8hsHWImZ7pkaOJuL8EV6zF15GuP+s8;b2cXloOJmDJjhYAEzYHxwg=="
 ---
 

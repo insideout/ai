@@ -24,28 +24,19 @@ images:
     title: "Washington State signs facial recognition curbs into law; critics want ban"
 
 related:
-  - title: "Washington State Adopts Facial Recognition Rules Critics View as Too Loose"
-    excerpt: "Washington Governor Jay Inslee on Tuesday signed into law curbs on law enforcement use of facial recognition, becoming the first state in the United States with sweeping restrictions on a technology that civil rights activists say should be barred."
-    publishedDateTime: 2020-03-31T21:28:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/03/31/technology/31reuters-washington-tech.html"
+  - title: "Washington Governor Signs Facial Recognition Law Curbing Use"
+    excerpt: "Washington Gov. Jay Inslee has signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos based on a database of known ..."
+    publishedDateTime: 2020-04-01T15:16:00Z
+    webUrl: "https://www.insurancejournal.com/news/west/2020/04/01/563016.htm"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 39
     images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
-  - title: "First state to adopt facial recognition rules"
-    excerpt: "Microsoft is hailing new legislation signed by Washington Governor Jay Inslee, calling it the \"first time a state or nation has passed a new law devoted exclusively to putting guardrails in place"
-    publishedDateTime: 2020-04-01T08:52:00Z
-    webUrl: "https://seekingalpha.com/news/3557076-first-state-to-adopt-facial-recognition-rules"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
+        width: 1740
+        height: 978
 
 secured: "6Akr9b/qNlNwxEApLxrflxlwMiWHeUpQ7701cVgghwOanwN63hjipDfBJo78XJwg5BsofPR8ElemTrn5CRPo1YXJTelSRmT6bTKvI0Hh2E9c6NDRrLslK9tdr3w7fcWaGbhppfOG5imYL+prUDHeq5kEnZ4gdble5CgLp0AgxRyIiLzCN2pnrhALE/gYFqW8uyMor2I/H7/9WSTWDIakPQOqY4B8Dy6wzo6vhYf4XOlc+MBjtIvQBFZWr6D9LNpKRt5lsQnS0xTl2hK9onmUNTl3zMIfaYEuXzYNCpFwXBJFLDT/IBlO2JRHEUj0qiMo;3eSoyZqyUmkcn2ifD4Vq3Q=="
 ---

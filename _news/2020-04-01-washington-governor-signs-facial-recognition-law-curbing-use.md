@@ -23,6 +23,21 @@ images:
     height: 978
     title: "Washington Governor Signs Facial Recognition Law Curbing Use"
 
+related:
+  - title: "Washington State signs facial recognition curbs into law; critics want ban"
+    excerpt: "SAN FRANCISCO: Washington Governor Jay Inslee on Tuesday (Mar 31) signed the first U.S. state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. Facial recognition software can identify individuals in photos and videos ..."
+    publishedDateTime: 2020-03-31T23:56:00Z
+    webUrl: "https://www.channelnewsasia.com/news/world/united-states-facial-recognition-washington-law-12596356"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 37
+    images:
+      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11534464/16x9/991/557/9ce4e6e60449848d51d612104e32c3b3/au/backers-of-legislation-in-san-francisco-to-ban-use-of-facial-recognition-technology-by-police-or-other-government-agencies-argued-that-using-software-and-cameras-to-positively-identify-people-is-not-r-1557884483407-2.jpg"
+        width: 991
+        height: 557
+
 secured: "oesIttpMh1qSXbwK8w78oZMyK80C2ERX/Z4lZfh0zJs97LGsrDio/BKAmB2Gb1bgUpumEfiuZlG8ggrNG0xt499Uo9ycq0YvwzinnTKVWN87/c0/qOwfuoFYgRaivobhOO5Y66czLvyewuSOPnvSUbkcKujKA6tAKfb7HywbaTd1lP/tl/XdRbjVFKr+Qy9jksdWVFP9h7bPbiIcbnFHm9lWTkF8JaGv+K58x6gI8d/agpXy+uf40UpEuVkpbTnMA5mYxTWeIB1/YGuk2G6RV6D1q7h52Mej8g/8yVK8Y6pmOebBYxuWKBxHKG/5gsvZk+pznbPBnTB2amKw7mOis7ZOFKh446hJbvURfvBozcy7aKLkMQswDZ1DTJBoZmATMwB7ecFyjDGXDTUYGXh8m/Y+c+0ORBODVRXI5UvokJilP2MLCQQbcig5n971vR6UiVi9kEln2sy/ppgXpfR09WKK4uhXlOaXe7RzwasBUGg=;rV9Cp5A5Mao2Zer3UhWQBg=="
 ---
 
