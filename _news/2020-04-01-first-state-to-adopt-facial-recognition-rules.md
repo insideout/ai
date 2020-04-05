@@ -18,19 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Finally, progress on regulating facial recognition"
-    excerpt: "The post Finally, progress on regulating facial recognition appeared first on The AI Blog.\n"
-    publishedDateTime: 2020-03-31T14:58:38Z
-    webUrl: "https://blogs.microsoft.com/on-the-issues/2020/03/31/washington-facial-recognition-legislation/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 74
-    images:
-      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/5/2020/03/blackbackground.png"
-        width: 1920
-        height: 1080
   - title: "Microsoft praises facial recognition regulation progress"
     excerpt: "Brad Smith, the President of Microsoft, has praised steps taken in Washington State to regulate controversial facial recognition technologies, but the landscape still remains incredibly fragmented. Such issues would rarely bother the consumer today, but the same could have been said about a Facebook personality quiz in 2015. Like the proverbial ..."
     publishedDateTime: 2020-04-02T10:15:00Z
@@ -44,6 +31,15 @@ related:
       - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
         width: 300
         height: 250
+  - title: "Microsoft Applauds News Facial Recognition Laws"
+    excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
+    publishedDateTime: 2020-04-02T00:15:00Z
+    webUrl: "https://www.mediapost.com/publications/article/349333/microsoft-applauds-news-facial-recognition-laws.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
 
 secured: "q3PNksnU7cbWFrRfin00oyjY1K+FmNBFNMI+xhoFELEBXs0vuQtiPRI26oci1Ul8vFTdkFJeNWxXxRdvsWbZ1nk9eCptSEfSlR+9i83nWZo5z5S5883KLTquDwtyhD+Tmph4NuFnhDTObAS6pl1hj2B08I9e0UWdAycaTpmXmlr+s7hxVlfFLyVrVXw0PTzYulDLZbPL0d/zJod6PSOvjF9SSKodpaeZo9RKQJJOFWd8cnnNOBjYF9tqvZuQR4qpHeWpOXq7X053D+hyR07MJvyQY0XbYbCDt9Q0Kc615bX/RY1TXSxGJJATCsLI1f0x;YHqX3WfniXUgGXrj5PBHbw=="
 ---

@@ -23,17 +23,6 @@ images:
     height: 372
     title: "Microsoft Chief Legal Officer Applauds Washington's Recently Signed Facial Recognition Law"
 
-related:
-  - title: "Microsoft Applauds News Facial Recognition Laws"
-    excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
-    publishedDateTime: 2020-04-02T00:15:00Z
-    webUrl: "https://www.mediapost.com/publications/article/349333/microsoft-applauds-news-facial-recognition-laws.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
-
 secured: "TB9aOhKlT9eqJjix+dmUzu5tlX2kTqfjOcTtmiT9Enb16zMQ5RqPD4UfP50a61I81V+FuEjvDN7uMJ9YH8ovxFnuejrQ6reFcgQWF7h2frO9Ks8/jSC3f+s67gUzSzZo+oYwbIRhvNg6Pue3AvV8s4k6t27K4sbsR4Yw9R7Yit1kIv4oWqIivm6Lj+MjYPYximscJhmpBYpxz6xT/s17NIUTFG9dn6EWP9t2JvAfYXEfF5rjqNQ8RYNiw6UKcVHX6fc8CaPfk6MFLDc5jczlF9UWmZEx+PNwMLDxfAj72cDJJKQ7f0OTNr0hFe/+ZsDtE7+aLp0TAUeLd35do+VOjP3AbEW4KdJFRTI9KyG75caUk3e9kR9OlzKJ7Q3s7VLaMWD8FOOszWlaE4MWAdws2L8aa0T1pKmmL+0aJu36ru6gKVkjF4eX3tMZY3AJhqqlAzm2K3WUhwODPldjsNsKaYEdQhHM6PGJR4Oa81VUcFI=;WTmhHvi/zQkDOWn22WThrw=="
 ---
 
