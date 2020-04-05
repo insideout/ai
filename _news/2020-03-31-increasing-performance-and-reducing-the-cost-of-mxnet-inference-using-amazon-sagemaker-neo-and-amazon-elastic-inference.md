@@ -41,19 +41,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/pruning-models-3.gif"
         width: 800
         height: 354
-  - title: "Three adjustments in calibrating models with neural networks"
-    excerpt: "Because this process has to be repeated frequently and it is computationally expensive, more efficient solutions are in high demand. Artificial neural network (ANN) approaches, given their natural suitability to solve optimisation problems, are seen as a promising way of cutting some corners and delivering model parameters much quicker than ..."
-    publishedDateTime: 2020-03-31T11:25:00Z
-    webUrl: "https://www.risk.net/our-take/7516861/three-adjustments-in-calibrating-models-with-neural-networks"
-    type: article
-    provider:
-      name: Risk
-      domain: risk.net
-    quality: 39
-    images:
-      - url: "https://www.risk.net/sites/risk/files/styles/metatag_image/public/2020-03/slide-rule-calibration.jpg?itok=-ZveT9wm"
-        width: 378
-        height: 234
 
 secured: "gEpvMjoRfMhdyS48UvrTBC8Zzk12Y0vfqIKvWa80TtKlMVvE/BvBJ9KNZNsTkTazJkUKZqClktc1ueW6N4eTA4/pYfaXkXGQCxA1l6mO9z6ZOa2wZZ6Q1QEGNIAyWpltGmHU+h9I/4kLOa1BaL80ox+TUv4Y2MZrnN1tzCY3AnuWNXR75+zTPt2ber64ZzoX3PgB7asBQ9ZIZSsUwH0lxw/PqsV5MFgPfp/5blUc9gr31AZpV4+VKEn8JPvixJk9RfW2u4EiU6VXJCOmyZ7zXMAjQLMgDhG5ADLjl5kT7QbJhemzXNebYTtxdHFriR4kARniTodOYI16vRM8FM4amQ==;PXqT51CZcoc1LEey3ppYtg=="
 ---
