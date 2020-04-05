@@ -5,7 +5,7 @@
       "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
       "title": "Artificial Or Human Intelligence? Companies Faking AI",
       "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
@@ -44,7 +44,8 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Robotics"
       ]
     },
     {
