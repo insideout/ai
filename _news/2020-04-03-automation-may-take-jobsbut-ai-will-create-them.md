@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-cre
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

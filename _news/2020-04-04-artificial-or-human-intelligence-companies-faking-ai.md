@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-hu
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936"
@@ -29,6 +30,6 @@ images:
     height: 675
     title: "Artificial Or Human Intelligence? Companies Faking AI"
 
-secured: "VoY6+kFRhymTu7GqJpv0dj9MJrFjV6AcTsLn1BIyKICeIha9ez/GPZOsWjBkpdoveBevDdUXiy+/CZMtlbQX/K/uPsdq8fRCitOPQ6xJWBfvDaRm83D4EYVk8UK66ezfMw8UQG27RPpT5Mdqgwh+bykRtkqUa+NRUdxoskdCNv0t72ZO9wSyYphcUgCeGhm6QGRCaYLu7eyWgO53fp5+a1d7/OEcB1eQTuQSNB4aynJi8D9z5a+tTdkqDlrWNPG9OwWf8kj9cl6RxKdsTruLsPa/z9anOywo7WCvwAy/sF4XJK4FpUr7GYakdbtW4NUQ;Zhjqh+vhCPk5wjfUHzuuZA=="
+secured: "C4rWfUATcxcY+4g2+FBWhIj1PYhipK+6q736d7vszlU17Eg6sDcQuj/Bft6kHok4FYVEI6kuScwzWMNTjsnOyi3n9a9QbUS77790UGev0uysryxbW3y+KDIAAbkGkNvaf7fPZbkcsIyMIHMd1vHICxJiJpM/0DP4n6GyTtBN7ZuG7RoE763YlGbGlN4MXwe7jXWd/VHTIp6Zl/3p9NIMvhrPBpMBh0bn1Mcbf1dgq1Lqi0V+Fo/WtlrEBsgwgBwEFT4NJCUWdXrKqaPOWbSTpT/XdwPEABUanqeAMXeyRNmaEnVsn0mirWaBcv+sxgrhOwPnw/VygI9iKFUjEqVsfPfY0UikFRbogICl7D4OcNFldFbXJc/3XGAZSTAvze7+0JV+HiVZ/WNN5qV8lDnvBhiBgi/sfPYUkW31gFBkXuB6ZW2LdRzwx5SDrnKqX99xi+D/mhplpfFa5HFJb1IgYe7ESQS1HfjE3F+Xm/fBJ4E=;AmPFqJ+YWO1ZNdhqVXwCyQ=="
 ---
 
