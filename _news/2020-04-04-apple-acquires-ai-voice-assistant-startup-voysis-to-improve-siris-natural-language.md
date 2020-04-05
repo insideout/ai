@@ -64,6 +64,21 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/35237-64485-200403-Siri-l.jpg"
         width: 660
         height: 368
+  - title: "Apple Acquires AI Startup Voysis; Aims To Improve Natural Language Recognition For Siri"
+    excerpt: "The AI startup company is based in Ireland and could reportedly help the company improve Siri Apple has not yet revealed its plan with Voysis but tech enthusiasts believe it has something to do with Apple's digital assistant Amid the COVID-19 pandemic,"
+    publishedDateTime: 2020-04-05T02:21:00Z
+    webUrl: "https://www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659"
+    ampWebUrl: "https://www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 49
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/18/apples-homepod-a-smart-home-device-developed-by.jpg"
+        width: 1024
+        height: 705
 
 secured: "SU/22RSm+xvuWwdZMtV1BeROCrOFTwgOc7tPFIwxwvk7EfS5m38QerjcWC1eGzHgdHeFlgfFOnEVMZKPn6Tog5aYMqj6YzgVCwpHuRJD8D+Or2cLX9nr/PHsWxXOQvDd5vpn7zL3pA956oQFdSTOjkpf11egeHA8fi44tCjOf9dsr9PTtK9o88q5BeaUvtA20938mZWdfWv60dMTE5YZYycjM+oLpP09XGg017nWgvMmzI3kChYttYUazNEwDpJDPnD0vU+1M8Efmw43GdibfHTaMYNkXQANeDCShBGOi8xk/O7GQvj5uZ7ECNTItKtAkOtrWTF83Vn/lBWGYPr1PoCM2cgK+HBOFUaN35NdYg3hCM6cX4jeecvd3FCs6vmUH61J4bVgGikQS2zHKYZybs7d2PPbXcc+ug1Xqt0dAfZ4HzLoUqbG0CKPDbSnh3hE2/ep511Q3KySkvrpn8w4tpbtfVWt3Hz0qTsLnv172BU=;0LmuPuBMtMSMeWd9srY2Hw=="
 ---

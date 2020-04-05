@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysi
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -55,6 +55,21 @@ related:
       - url: "https://photos5.appleinsider.com/gallery/35237-64485-200403-Siri-l.jpg"
         width: 660
         height: 368
+  - title: "Apple Acquires AI Startup Voysis; Aims To Improve Natural Language Recognition For Siri"
+    excerpt: "The AI startup company is based in Ireland and could reportedly help the company improve Siri Apple has not yet revealed its plan with Voysis but tech enthusiasts believe it has something to do with Apple's digital assistant Amid the COVID-19 pandemic,"
+    publishedDateTime: 2020-04-05T02:21:00Z
+    webUrl: "https://www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659"
+    ampWebUrl: "https://www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 49
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/18/apples-homepod-a-smart-home-device-developed-by.jpg"
+        width: 1024
+        height: 705
   - title: "Apple acquires AI voice assistant startup Voysis to improve Siri’s natural language"
     excerpt: "Dublin, Ireland-based Voysis focused on improving digital assistants inside online shopping apps, so the software could respond more accurately to voice commands from users."
     publishedDateTime: 2020-04-04T07:06:00Z
