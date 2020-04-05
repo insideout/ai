@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-18-attendance-via-facial-recognition-with-temperature-screening-now-available-in-india.md",
+      "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
+      "excerpt": "Ramco Systems unveils advanced facial attendance system embedded with temperature recording. Chennai: Enterprise software company Ramco Systems on Wednesday unveils an advanced facial attendance system embedded with temperature recording which will help organisations improve employees’ safety right at the entrance door. Called RamcoGEEK ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/",
+      "ampWebUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
+      "publishedDateTime": "2020-03-18T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.india.com/wp-content/uploads/2020/03/b1142c3c810f8aa113112dc5c17841d8.jpg",
+          "width": 700,
+          "height": 415,
+          "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
       "title": "After Test, San Diego P.D. Bans Facial Recognition App",
       "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
@@ -1107,51 +1144,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
-      "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
-      "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965",
-      "ampWebUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
-      "publishedDateTime": "2020-03-11T13:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ettkddlwrqgiro3hlrjc.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

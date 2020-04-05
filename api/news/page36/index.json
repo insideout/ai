@@ -2,6 +2,80 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
+      "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
+      "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
+      "publishedDateTime": "2020-03-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/DSC04717.jpg?w=1024",
+          "width": 1024,
+          "height": 737,
+          "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
+      "title": "Novel use of robotics for neuroendovascular procedures",
+      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
+      "publishedDateTime": "2020-03-02T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-video-how-oneapi-is-revolutionizing-programming.md",
       "title": "Video: How oneAPI Is Revolutionizing Programming",
       "excerpt": "In this video, academics and industry experts weigh in on the potential of oneAPI, the new, unified software programming model for CPU, GPU, AI, and FPGA accelerators that delivers high compute performance for emerging specialized workloads across diverse ...",
@@ -984,95 +1058,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next.md",
-      "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
-      "excerpt": "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
-      "publishedDateTime": "2020-02-28T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg",
-          "width": 1200,
-          "height": 784,
-          "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-facebook-just-rolled-out-a-new-tool-that-uses-ai-to-turn-photos-into-3d-renderings-heres-how-it-works.md",
-      "title": "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works",
-      "excerpt": "Most Android and iOS devices will be able to use the new 3D Photos tool, as Facebook tries to establish itself as a leader in AI.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2?amp",
-      "publishedDateTime": "2020-02-28T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e594f5afee23d04d777ff63?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

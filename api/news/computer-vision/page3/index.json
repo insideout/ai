@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
+      "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+      "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965",
+      "ampWebUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
+      "publishedDateTime": "2020-03-11T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ettkddlwrqgiro3hlrjc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-heres-why-im-campaigning-against-facial-recognition-in-schools.md",
       "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
       "excerpt": "She currently serves on the board of directors of Students for Sensible Drug Policy and has coordinated campus organizing for the campaign to ban facial recognition. You can find her on Twitter at ...",
@@ -1095,51 +1140,6 @@
           "width": 1200,
           "height": 600,
           "title": "Tractable raises $25 million for computer vision that accelerates insurance claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds.md",
-      "title": "eBay now uses computer vision to remove product photo backgrounds",
-      "excerpt": "eBay is introducing a new computer vision-powered feature to help sellers’ listings stand out. Image Clean-up, as the tool is called, automatically removes the background from a photo so that only the item being sold appears in the image. It’s fair to assume that most people aren’t experts in Photoshop, nor do they have professional ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/ebay-now-uses-computer-vision-to-remove-product-photo-backgrounds/amp/",
-      "publishedDateTime": "2020-02-26T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Untitled-4.png?fit=1545%2C765&strip=all",
-          "width": 1545,
-          "height": 765,
-          "title": "eBay now uses computer vision to remove product photo backgrounds",
           "attribution": null
         }
       ],

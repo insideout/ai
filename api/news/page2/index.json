@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-03-automation-may-take-jobsbut-ai-will-create-them.md",
+      "title": "Automation May Take Jobs—but AI Will Create Them",
+      "excerpt": "Kevin Scott is the CTO and executive vice president of AI and research at Microsoft. He's the author of the book Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All. Musk’s words are very much on my mind as the car I drive (it’s not autonomous, not yet) crests a hill in the rural southern Piedmont ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/",
+      "ampWebUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
+      "publishedDateTime": "2020-04-03T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e85223e5cf5b3000849ce15/master/pass/OpEd-AI-Factory-833655698.jpg",
+          "width": 2400,
+          "height": 1618,
+          "title": "Automation May Take Jobs—but AI Will Create Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-three-ways-computer-vision-is-transforming-marketing.md",
       "title": "Three Ways Computer Vision Is Transforming Marketing",
       "excerpt": "Below are three cutting-edge computer vision techniques, based on my experience investing in computer vision companies, that can provide some answers and potentially transform the marketing landscape.",
@@ -795,6 +840,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
+      "title": "Washington state passes Microsoft-approved facial recognition laws",
+      "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "publishedDateTime": "2020-04-02T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Washington state passes Microsoft-approved facial recognition laws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic.md",
       "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
       "excerpt": "After the COVID 19 crisis is over, business success or failure may come down to whether companies have taken advantage of Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
@@ -1010,95 +1100,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
-      "title": "Why Robots Will Save Your Career, Not Destroy It",
-      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "publishedDateTime": "2020-04-02T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Robots Will Save Your Career, Not Destroy It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-phantom-ai-raises-22-million-to-develop-adas-products.md",
-      "title": "Phantom AI raises $22 million to develop ADAS products",
-      "excerpt": "Phantom AI, a startup developing advanced driver-assistance systems (ADAS) for cars and trucks, today announced that it has raised $22 million. CEO Hyunggi Cho says it will enable the company to expand availability of its modular, software-based platform, which lets OEMs and Tier 1 automakers select components they wish to integrate and ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
-      "publishedDateTime": "2020-04-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0-5-e1585160578767.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Phantom AI raises $22 million to develop ADAS products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

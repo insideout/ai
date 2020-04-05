@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-05-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
+      "excerpt": "These include teleworking, e-commerce, and automation. At the center of all these is artificial intelligence, in which machines process vast data sets, learning to \"react\" to incoming information without human intervention. Thus, the terrible downturn may have opened up long-term opportunities in stocks at the center of future AI applications.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
+      "publishedDateTime": "2020-04-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F566674%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": "3 Top Artificial Intelligence Stocks to Buy in April",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-self-supervised-learning-is-the-future-of-ai.md",
       "title": "Self-supervised learning is the future of AI",
       "excerpt": "Despite the huge contributions of deep learning to the field of artificial intelligence, there’s something very wrong with it: It requires huge amounts of data. This is one thing that both the ...",
@@ -1039,51 +1083,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-automation-may-take-jobsbut-ai-will-create-them.md",
-      "title": "Automation May Take Jobs—but AI Will Create Them",
-      "excerpt": "Kevin Scott is the CTO and executive vice president of AI and research at Microsoft. He's the author of the book Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All. Musk’s words are very much on my mind as the car I drive (it’s not autonomous, not yet) crests a hill in the rural southern Piedmont ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/",
-      "ampWebUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
-      "publishedDateTime": "2020-04-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e85223e5cf5b3000849ce15/master/pass/OpEd-AI-Factory-833655698.jpg",
-          "width": 2400,
-          "height": 1618,
-          "title": "Automation May Take Jobs—but AI Will Create Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

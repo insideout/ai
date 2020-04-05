@@ -2,6 +2,88 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-18-deep-learning-changes-scientific-research-finds-antibiotic-for-multi-resistant-bacteria.md",
+      "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
+      "excerpt": "Scientists at MIT and Harvard’s Broad Institute and MIT’s CSAIL built a deep learning network that can acquire a broad representation of molecular structure and thereby discover novel antibiotics.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/20/a054429e-8520-4d0a-9fcc-055da9056537/thumbnail/370x278/ef50d64ea8facf64a4639d9a1183f872/apple-updates-its-macbook-air-with-more-5e7371a2daf32b2d76d61158-1-mar-20-2020-15-12-55-poster.jpg",
+          "width": 370,
+          "height": 278,
+          "title": "Deep learning changes scientific research, finds antibiotic for multi-resistant bacteria",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-azure-netapp-files-become-hipaa-compliant.md",
+      "title": "Azure NetApp files become HIPAA compliant",
+      "excerpt": "In March 2018, Microsoft released automation for HIPAA/HITRUST compliance in the form of its new Azure Security and Compliance Blueprint for HIPAA/HITRUST – Health Data & AI. Azure Blueprints by Microsoft are resources to help build and launch cloud-powered applications that comply with stringent regulations and standards. Included in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632",
+      "ampWebUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
+      "publishedDateTime": "2020-03-18T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/03/GettyImages-1127091365-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Azure NetApp files become HIPAA compliant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-machine-learning-pushes-quantum-computing-forward.md",
       "title": "Machine learning pushes quantum computing forward",
       "excerpt": "Researchers have created a machine learning framework to precisely locate atom-sized quantum bits in silicon. It’s a crucial step for building a large-scale silicon quantum computer, the researchers report. Here, Muhammad Usman and Lloyd Hollenberg of the University of Melbourne explain their research and what it means for the future of ...",
@@ -1057,88 +1139,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026.md",
-      "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
-      "excerpt": "The global Deep Learning market is analyzed to grow at a CAGR of around 51.1% during the forecast period and projected to reach the market value over US$ 56,427.2 Mn in 2027. The study provides an extensive market evaluation and includes thorough ideas,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026-2020-03-18",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-attendance-via-facial-recognition-with-temperature-screening-now-available-in-india.md",
-      "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
-      "excerpt": "Ramco Systems unveils advanced facial attendance system embedded with temperature recording. Chennai: Enterprise software company Ramco Systems on Wednesday unveils an advanced facial attendance system embedded with temperature recording which will help organisations improve employees’ safety right at the entrance door. Called RamcoGEEK ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/",
-      "ampWebUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
-      "publishedDateTime": "2020-03-18T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/03/b1142c3c810f8aa113112dc5c17841d8.jpg",
-          "width": 700,
-          "height": 415,
-          "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -47,30 +47,38 @@
       ]
     },
     {
-      "path": "_news/2020-04-02-microsoft-praises-facial-recognition-regulation-progress.md",
-      "title": "Microsoft praises facial recognition regulation progress",
-      "excerpt": "Brad Smith, the President of Microsoft, has praised steps taken in Washington State to regulate controversial facial recognition technologies, but the landscape still remains incredibly fragmented. Such issues would rarely bother the consumer today, but the same could have been said about a Facebook personality quiz in 2015. Like the proverbial ...",
-      "heat": 74,
+      "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
+      "title": "Washington state passes Microsoft-approved facial recognition laws",
+      "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
+      "heat": 159,
       "tags": null,
       "type": "article",
-      "webUrl": "https://telecoms.com/503470/microsoft-praises-facial-recognition-regulation-progress/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T03:15:00-07:00",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "publishedDateTime": "2020-04-02T07:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91",
-          "width": 300,
-          "height": 250,
-          "title": "Microsoft praises facial recognition regulation progress",
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Washington state passes Microsoft-approved facial recognition laws",
           "attribution": null
         }
       ],
@@ -162,6 +170,51 @@
           "width": 630,
           "height": 450,
           "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-washington-state-adopts-facial-recognition-rules-critics-view-as-too-loose.md",
+      "title": "Washington State Adopts Facial Recognition Rules Critics View as Too Loose",
+      "excerpt": "Washington Governor Jay Inslee on Tuesday signed into law curbs on law enforcement use of facial recognition, becoming the first state in the United States with sweeping restrictions on a technology that civil rights activists say should be barred.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/31/technology/31reuters-washington-tech.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Washington State Adopts Facial Recognition Rules Critics View as Too Loose",
           "attribution": null
         }
       ],
@@ -1233,43 +1286,6 @@
           "width": 2000,
           "height": 1123,
           "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-attendance-via-facial-recognition-with-temperature-screening-now-available-in-india.md",
-      "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
-      "excerpt": "Ramco Systems unveils advanced facial attendance system embedded with temperature recording. Chennai: Enterprise software company Ramco Systems on Wednesday unveils an advanced facial attendance system embedded with temperature recording which will help organisations improve employees’ safety right at the entrance door. Called RamcoGEEK ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/",
-      "ampWebUrl": "https://www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/attendance-via-facial-recognition-with-temperature-screening-now-available-in-india-3973949/amp/",
-      "publishedDateTime": "2020-03-18T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.india.com/wp-content/uploads/2020/03/b1142c3c810f8aa113112dc5c17841d8.jpg",
-          "width": 700,
-          "height": 415,
-          "title": "Attendance Via Facial Recognition With Temperature Screening Now Available in India",
           "attribution": null
         }
       ],

@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-31-nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service.md",
+      "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
+      "excerpt": "That’s not the case for 5G network hardware maker Nokia, however, which today announced AVA 5G Cognitive Operations, offering AI as a service so mobile carriers can optimize their 5G networks and enterprise services. The key to AVA 5G ... The service will use Microsoft’s Azure cloud technology for its underpinnings, while supporting ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-03-31T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/screen-2020-03-27-at-1.07.49-PM-e1585339730516.jpg?fit=2394%2C1197&strip=all",
+          "width": 2394,
+          "height": 1197,
+          "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-artificial-intelligence-cant-create-markets-on-its-own.md",
+      "title": "Artificial Intelligence Can’t Create Markets On Its Own",
+      "excerpt": "There’s plenty of consternation about artificial intelligence replacing many jobs and roles across the economic spectrum, — from salespeople to truck drivers to doctors. It’s worth mentioning, however,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/amp/",
+      "publishedDateTime": "2020-03-30T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1143064046%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Intelligence Can’t Create Markets On Its Own",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-samsung-says-chip-factory-worker-tests-positive-for-virus-output-not-affected.md",
       "title": "Samsung says chip factory worker tests positive for virus, output not affected",
       "excerpt": "Chip factories have been largely unaffected by the pandemic which started in China ... The Korea Centers for Disease Control and Prevention reported 78 new cases on Monday, at least 13 of whom were people who arrived from abroad. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$ ...",
@@ -1009,88 +1099,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
-      "title": "Why AI Will Create 'More Human' Executives",
-      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "publishedDateTime": "2020-03-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why AI Will Create 'More Human' Executives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
-      "title": "Huawei steps up ambitions in self-driving vehicles race",
-      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F6%2F6%2F3%2F25873661-1-eng-GB%2FRTX4YZOMre.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
-          "width": 1024,
-          "height": 512,
-          "title": "Huawei steps up ambitions in self-driving vehicles race",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

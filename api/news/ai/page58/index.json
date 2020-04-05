@@ -2,6 +2,96 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-01-29-waymo-and-ups-team-to-deliver-packages-with-self-driving-vans.md",
+      "title": "Waymo and UPS team to deliver packages with self-driving vans",
+      "excerpt": "Autonomous car company Waymo has announced a new partnership with the delivery company UPS. This is said to be ‘a first-of-its-kind deal’ involving Waymo Driver, the company’s self-driving car tech. As part of this deal, Waymo Driver will help UPS deliver packages in Chrysler Pacifica vans, though the deliveries will be limited to just ...",
+      "heat": 269,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/",
+      "ampWebUrl": "https://www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-and-ups-team-to-deliver-packages-with-self-driving-vans-29608052/amp/",
+      "publishedDateTime": "2020-01-29T14:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/waymo_ups_main.jpg",
+          "width": 1422,
+          "height": 800,
+          "title": "Waymo and UPS team to deliver packages with self-driving vans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-underwater-robot-autonomously-gathers-seabed-samples.md",
+      "title": "Underwater robot autonomously gathers seabed samples",
+      "excerpt": "That's why researchers have now enabled one to autonomously gather samples from the ocean floor. Led by associate scientist Rich Camilli, a team at Woods Hole Oceanographic Institution (WHOI) recently developed artificial intelligence-based automated planning software that's designed to work with ROVs. Last month, that technology was put to use ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/",
+      "ampWebUrl": "https://newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/marine/underwater-robot-autonomous-samples/?amp=true",
+      "publishedDateTime": "2020-01-29T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e96142e/2147483647/strip/true/crop/5995x4000+3+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2F7b%2F17%2F8c16daaf43d4a75daf3621615d66%2Fdsc-0144.jpeg",
+          "width": 1160,
+          "height": 774,
+          "title": "Underwater robot autonomously gathers seabed samples",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-ups-teams-up-with-waymo-to-test-self-driving-delivery-vans.md",
       "title": "UPS teams up with Waymo to test self-driving delivery vans",
       "excerpt": "Washington, DC (CNN)Waymo is teaming up with UPS to test the use of its self-driving vans in transporting packages. Waymo, the self-driving arm of Google's (GOOG) parent company Alphabet, will use its autonomous Chrysler Pacifica minivans to bring packages from UPS stores in the Phoenix area to a UPS sorting facility in Tempe,",
@@ -1185,88 +1275,6 @@
           "width": 711,
           "height": 473,
           "title": "What Politicians Don't Understand About The AI Debate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products.md",
-      "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-      "excerpt": "The good news is that the same machine learning technologies utilized within these large organizations are offered to the general public by various providers, such as AWS, Google Cloud Platform and Azure — for a fee, of course. At AWS re:Invent 2019, there was a clear, overarching theme: machine learning. And not just machine learning ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/29/how-traditional-companies-can-utilize-ai-and-machine-learning-to-build-better-products/amp/",
-      "publishedDateTime": "2020-01-29T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1165431212/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How Traditional Companies Can Utilize AI And Machine Learning To Build Better Products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-29-deepak-chopra-gives-jimmy-fallon-a-sneak-peek-at-the-digital-ai-version-of-himself.md",
-      "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
-      "excerpt": "Deepak Chopra's digital AI version of himself is almost in beta, and Jimmy Fallon got to take it for a quick spin. The author, who announced the 'Digital Deepak' project in December, gave Jimmy Fallon a sneak preview on The Tonight Show Tuesday, taking the host, The Roots, and the audience through a very swift meditation (it's only a few seconds).",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon/",
-      "ampWebUrl": "https://mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/digital-deepak-chopa-jimmy-fallon.amp",
-      "publishedDateTime": "2020-01-29T03:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F29%252Fb2%252F973b166d53074d139f63b2d872c3a497.a04a7.png%252F1200x630.png?signature=AcyQ4VQYvny-pagLhgr44499WAM=",
-          "width": 1200,
-          "height": 630,
-          "title": "Deepak Chopra gives Jimmy Fallon a sneak peek at the digital AI version of himself",
           "attribution": null
         }
       ],

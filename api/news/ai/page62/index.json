@@ -2,6 +2,88 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-01-26-ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers.md",
+      "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
+      "excerpt": "But IBM is betting its AI can “extract the insights” from data to help its clients stay ahead of the curve, Nebo said. For example, Watson’s AI could reveal a preference for avocado oil over ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/",
+      "ampWebUrl": "https://www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/ibms-watson-center-pitches-ai-for-everyone-from-chefs-to-engineers/?amp=1",
+      "publishedDateTime": "2020-01-26T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.seattletimes.com/wp-content/uploads/2020/01/01182020_AIibm_182723-300x201.jpg",
+          "width": 300,
+          "height": 201,
+          "title": "IBM’s Watson Center pitches AI for everyone, from chefs to engineers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-26-microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud.md",
+      "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
+      "excerpt": "In either video or written form, Microsoft is inviting folks to share technical content relating to interesting experiences with Azure. These can revolve around open source, apps, DevOps + infrastructure, Big Data and Distributed Systems, Machine Learning and Data Science, as well as research. Submitted stories will be vetted by a committee of ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-weekly-series-x-ports-patches-for-a-price-and-stories-in-the-cloud",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-26T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580038361_msw-20200126_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft Weekly: Series X ports, patches for a price, and stories in the cloud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-26-ai-robot-will-replace-managers-by-2024.md",
       "title": "AI robot will replace managers by 2024",
       "excerpt": "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ...",
@@ -1180,96 +1262,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states.md",
-      "title": "Waymo’s self-driving minivans and big rigs arrive in two more states",
-      "excerpt": "Waymo, one of the leaders in autonomous-vehicle technology, is taking its self-driving cars and trucks to more states for testing on public roads. From this week, its driverless vehicles will be heading to Texas and New Mexico for the first time as Waymo ...",
-      "heat": 299,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/waymos-self-driving-minivans-and-big-rigs-arrive-in-two-more-states/?amp",
-      "publishedDateTime": "2020-01-23T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://icdn3.digitaltrends.com/image/digitaltrends/waymo-autonomous-truck-2-1200x630-c-ar1.91.jpg",
-          "width": 720,
-          "height": 376,
-          "title": "Waymo’s self-driving minivans and big rigs arrive in two more states",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-facebook-messenger-may-soon-use-face-recognition-to-lock-the-app.md",
-      "title": "Facebook Messenger may soon use face recognition to lock the app",
-      "excerpt": "Perhaps more importantly, the text suggests that face recognition details will not be stored on Facebook’s servers. Whether it will implement its own technology or use Android’s and iOS’s facilities isn’t yet clear. And whether it will indeed do as it says will be a whole different matter entirely.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/",
-      "ampWebUrl": "https://www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/facebook-messenger-may-soon-use-face-recognition-to-lock-the-app-24607595/amp/",
-      "publishedDateTime": "2020-01-23T21:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/messenger.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Facebook Messenger may soon use face recognition to lock the app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

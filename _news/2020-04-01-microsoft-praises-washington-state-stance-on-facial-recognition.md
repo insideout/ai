@@ -24,21 +24,6 @@ images:
     title: "Microsoft Praises Washington State Stance on Facial Recognition"
 
 related:
-  - title: "Washington State OKs Facial Recognition Law Seen as National Model"
-    excerpt: "Washington state adopted a Microsoft Corp.-backed law enshrining the most detailed regulations of facial recognition in the U.S."
-    publishedDateTime: 2020-03-31T20:39:00Z
-    webUrl: "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
-    ampWebUrl: "https://www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 89
-    images:
-      - url: "https://images.wsj.net/im-171101/social"
-        width: 1280
-        height: 640
   - title: "Washington state passes Microsoft-approved facial recognition laws"
     excerpt: "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ..."
     publishedDateTime: 2020-04-02T14:17:00Z
@@ -67,19 +52,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png"
         width: 1920
         height: 1080
-  - title: "Washington State Adopts Facial Recognition Rules Critics View as Too Loose"
-    excerpt: "Washington Governor Jay Inslee on Tuesday signed into law curbs on law enforcement use of facial recognition, becoming the first state in the United States with sweeping restrictions on a technology that civil rights activists say should be barred."
-    publishedDateTime: 2020-03-31T21:28:00Z
-    webUrl: "https://www.nytimes.com/reuters/2020/03/31/technology/31reuters-washington-tech.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 67
-    images:
-      - url: "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"
-        width: 1200
-        height: 630
   - title: "New Facial Recognition Policy Signed Into Law In Washington State"
     excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
     publishedDateTime: 2020-04-01T17:16:00Z
@@ -91,19 +63,19 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
-  - title: "Washington Governor Signs Facial Recognition Law Curbing Use"
-    excerpt: "Washington Gov. Jay Inslee has signed the first U.S. state law that sharply curbs law enforcement’s use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalized groups. Facial recognition software can identify individuals in photos and videos based on a database of known ..."
-    publishedDateTime: 2020-04-01T15:16:00Z
-    webUrl: "https://www.insurancejournal.com/news/west/2020/04/01/563016.htm"
+  - title: "Washington Governor Signed Landmark Facial Recognition Law"
+    excerpt: "Washington Governor Jay Inslee has recently signed landmark facial recognition legislation. This initiative is going to be the first US state law that ultimately limits the use of facial recognition technology by law enforcement. On the contrary, the civil rights activists said the measure did not go far enough to protect marginalised groups."
+    publishedDateTime: 2020-04-01T11:03:00Z
+    webUrl: "https://analyticsindiamag.com/washington-governor-signed-landmark-facial-recognition-law/"
     type: article
     provider:
-      name: Insurance Journal
-      domain: insurancejournal.com
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
     quality: 39
     images:
-      - url: "https://www.insurancejournal.com/app/uploads/2019/02/microsoft-facial-recognition-privacy-bill.jpg"
-        width: 1740
-        height: 978
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/Washington-Governor-Signed-Landmark-Facial-Recognition-Law.jpeg"
+        width: 880
+        height: 501
   - title: "Washington State signs facial recognition curbs into law"
     excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
     publishedDateTime: 2020-04-01T02:47:00Z
@@ -117,19 +89,28 @@ related:
       - url: "https://i.nextmedia.com.au/News/20200401012643_facial_recognition.jpg"
         width: 1275
         height: 823
-  - title: "Washington State signs facial recognition curbs into law; critics want ban"
-    excerpt: "SAN FRANCISCO: Washington Governor Jay Inslee on Tuesday (Mar 31) signed the first U.S. state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. Facial recognition software can identify individuals in photos and videos ..."
-    publishedDateTime: 2020-03-31T23:56:00Z
-    webUrl: "https://www.channelnewsasia.com/news/world/united-states-facial-recognition-washington-law-12596356"
+  - title: "The facial expressions of mice"
+    excerpt: "\"With our automated face recognition system, we can now measure the intensity and nature of an emotion on a timescale of milliseconds and compare it to the neuronal activity in relevant brain areas.\" One such brain area is the insular cortex, which is associated with emotional behavior and the perception of emotions in animals and humans."
+    publishedDateTime: 2020-04-02T18:22:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/m-tfe033120.php"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
     images:
-      - url: "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/11534464/16x9/991/557/9ce4e6e60449848d51d612104e32c3b3/au/backers-of-legislation-in-san-francisco-to-ban-use-of-facial-recognition-technology-by-police-or-other-government-agencies-argued-that-using-software-and-cameras-to-positively-identify-people-is-not-r-1557884483407-2.jpg"
-        width: 991
-        height: 557
+      - url: "https://www.eurekalert.org/multimedia/pub/web/228182_web.jpg"
+        width: 1440
+        height: 698
+  - title: "Microsoft Applauds News Facial Recognition Laws"
+    excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
+    publishedDateTime: 2020-04-02T00:15:00Z
+    webUrl: "https://www.mediapost.com/publications/article/349333/microsoft-applauds-news-facial-recognition-laws.html"
+    type: article
+    provider:
+      name: MediaPost
+      domain: mediapost.com
+    quality: 19
 
 secured: "94jFoLnTxWpmlZKe/vWWbJEKttiLvQvvVT3K+s3rLiANfJYgI4LQ2z9EUVOD3EcJao01dlp6b301DWWj06cPCwcQTBLMMFIWcwBS302EDuL/BeXu4TYq/qM/GoS235G1ZE2QS4Iht4MS22qLG0WH73NaojbkiBlMngEGg8awsdkwVO9lBR5w5jmRXA+wYvv2I1s+YAl0ZZ7Rg/gZiFItvML+Z4JH+ActD56V0FWwD+IG86LFglJAl7HVk17fl9CQ/H3qFb/UX2QFJ7YlVIcWo6xtIA+Q6xNEQuRxwHvMJdNt9/1oMXmhW9VryCrrKGqcxbBXESiIxp264CYR4Rwl2pCLwpUqvhfuCoItV1QSkfv/mQGOiqkOffc5ix66I5viQPE9bGbNdJFeiGF8wP0x4uUuFFKFZbNi1UPxE6Lb8FbeN2ouaSG2KKcS7wY1OABzasIfvZFWyKHipPFUdt41ICUgpjGRXtWrItC2iNVE2ik=;06ll3rvIjZO1CihhjMFOIw=="
 ---

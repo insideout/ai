@@ -2,6 +2,89 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-25-stuck-at-home-why-not-let-an-edgy-gpu-boosted-slice-of-azure-keep-you-company.md",
+      "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+      "excerpt": "The purpose of Azure Stack Edge is to shunt processing out of the cloud to where the local ... The expansion includes the incarnation with the Nvidia T4 Tensor Core GPU, which will allow those with machine learning needs to benefit from the hardware acceleration afforded by the exotic chippery. Naturally, Microsoft is cock-a-hoop about its ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/25/azure_stack_edge_gpu/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/25/azure_stack_edge_gpu/",
+      "publishedDateTime": "2020-03-25T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2019/05/30/lonely.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": "Stuck at home? Why not let an edgy, GPU-boosted slice of Azure keep you company?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-googles-ai-helps-robots-navigate-around-humans-in-offices.md",
+      "title": "Google’s AI helps robots navigate around humans in offices",
+      "excerpt": "“Dealing with noise in robot state estimation will be another interesting future direction.” Google isn’t the only tech giant pursuing autonomous robot navigation research. Facebook recently released a simulator — AI Habitat — that can train AI agents embodying things like a home robot to operate in environments meant to mimic real ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/googles-ai-helps-robots-navigate-around-humans-in-offices/amp/",
+      "publishedDateTime": "2020-03-25T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/dc841940-773e-4eac-b8e4-991a1d03d459-e1585147826530.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI helps robots navigate around humans in offices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-closedloopai-announces-release-of-free-open-source-ai-based-tool-to-identify-individuals-vulnerable-to-severe-complications-of-covid-19.md",
       "title": "ClosedLoop.ai Announces Release of Free Open Source AI-based Tool to Identify Individuals Vulnerable to Severe Complications of COVID-19",
       "excerpt": "Further, protecting vulnerable individuals helps to protect the healthcare system, healthcare workers, first responders and other vital community resources from becoming overwhelmed The CV19 Index is being released through multiple channels and is available immediately at https://github.com/closedloop-ai/cv19index, on Amazon’s SageMaker ...",
@@ -1156,96 +1239,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
-      "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
-      "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "publishedDateTime": "2020-03-24T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564943%2Fnvidia-self-driving-car.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 631,
-          "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
-      "title": "How 5G is enhancing business productivity",
-      "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/how-5g-is-enhancing-business-productivity/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "publishedDateTime": "2020-03-24T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/24/b89d0c18-f127-4489-a85e-3b812da03063/native-1333x750-3.jpg",
-          "width": 1333,
-          "height": 750,
-          "title": "How 5G is enhancing business productivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

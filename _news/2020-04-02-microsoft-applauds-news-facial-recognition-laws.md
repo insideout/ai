@@ -18,28 +18,97 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft praises facial recognition regulation progress"
-    excerpt: "Brad Smith, the President of Microsoft, has praised steps taken in Washington State to regulate controversial facial recognition technologies, but the landscape still remains incredibly fragmented. Such issues would rarely bother the consumer today, but the same could have been said about a Facebook personality quiz in 2015. Like the proverbial ..."
-    publishedDateTime: 2020-04-02T10:15:00Z
-    webUrl: "https://telecoms.com/503470/microsoft-praises-facial-recognition-regulation-progress/"
+  - title: "Washington state passes Microsoft-approved facial recognition laws"
+    excerpt: "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ..."
+    publishedDateTime: 2020-04-02T14:17:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
     type: article
     provider:
-      name: Telecoms
-      domain: telecoms.com
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 89
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png"
+        width: 796
+        height: 417
+  - title: "Washington state passes new facial recognition legislation"
+    excerpt: "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ..."
+    publishedDateTime: 2020-04-03T16:39:00Z
+    webUrl: "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 69
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png"
+        width: 1920
+        height: 1080
+  - title: "Microsoft Praises Washington State Stance on Facial Recognition"
+    excerpt: "Microsoft has been asking governments to regulate facial recognition for the past two years. One U.S. state is finally listening. “Washington Governor Jay Inslee has signed landmark facial recognition legislation that the state legislature passed on March 12,” Microsoft president Brad Smith writes in one of the software giant’s corporate ..."
+    publishedDateTime: 2020-04-01T12:06:00Z
+    webUrl: "https://www.thurrott.com/microsoft/233956/microsoft-praises-washington-state-stance-on-facial-recognition"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
     quality: 54
     images:
-      - url: "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91"
-        width: 300
-        height: 250
-  - title: "First state to adopt facial recognition rules"
-    excerpt: "Microsoft is hailing new legislation signed by Washington Governor Jay Inslee, calling it the \"first time a state or nation has passed a new law devoted exclusively to putting guardrails in place"
-    publishedDateTime: 2020-04-01T08:52:00Z
-    webUrl: "https://seekingalpha.com/news/3557076-first-state-to-adopt-facial-recognition-rules"
+      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
+        width: 1066
+        height: 600
+  - title: "New Facial Recognition Policy Signed Into Law In Washington State"
+    excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
+    publishedDateTime: 2020-04-01T17:16:00Z
+    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/"
+    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
+  - title: "Washington Governor Signed Landmark Facial Recognition Law"
+    excerpt: "Washington Governor Jay Inslee has recently signed landmark facial recognition legislation. This initiative is going to be the first US state law that ultimately limits the use of facial recognition technology by law enforcement. On the contrary, the civil rights activists said the measure did not go far enough to protect marginalised groups."
+    publishedDateTime: 2020-04-01T11:03:00Z
+    webUrl: "https://analyticsindiamag.com/washington-governor-signed-landmark-facial-recognition-law/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/Washington-Governor-Signed-Landmark-Facial-Recognition-Law.jpeg"
+        width: 880
+        height: 501
+  - title: "Washington State signs facial recognition curbs into law"
+    excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
+    publishedDateTime: 2020-04-01T02:47:00Z
+    webUrl: "https://www.itnews.com.au/news/washington-state-signs-facial-recognition-curbs-into-law-545886"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/20200401012643_facial_recognition.jpg"
+        width: 1275
+        height: 823
+  - title: "The facial expressions of mice"
+    excerpt: "\"With our automated face recognition system, we can now measure the intensity and nature of an emotion on a timescale of milliseconds and compare it to the neuronal activity in relevant brain areas.\" One such brain area is the insular cortex, which is associated with emotional behavior and the perception of emotions in animals and humans."
+    publishedDateTime: 2020-04-02T18:22:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/m-tfe033120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/228182_web.jpg"
+        width: 1440
+        height: 698
 
 secured: "F4WgzLR9E/Ep0XzFAWVHOt0p5LF4JFv8JG8ZR8D346Kyyy640X9ipclI+mrObCylgStDVvieOd/9kZ1bGWm7/HBJvbtitnpa5UuGD9NFSbSm+dZB7J9OKi+Liu1NHRvY4tubwsYEjvQ0nn2fVNDE+Nrwyt8skzkOB/hbltqoKoWO0DkSiRn06zEpOMHypt9ZEdk3Lc1LQZU8dijly2tvXOGGTR5EOXNOGqQYsaeo3s+LHlRR38rd7Veb4Etw7KwVam9CPlr1+t9cxsIRwUyJ16Q1LHa/2G677V+DTK+Drs2BdJj8CJJak1nphZUg0v19;DXVB/mAf6YAxTgpgjnCa8w=="
 ---

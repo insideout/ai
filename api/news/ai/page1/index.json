@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-05-3-top-artificial-intelligence-stocks-to-buy-in-april.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in April",
+      "excerpt": "These include teleworking, e-commerce, and automation. At the center of all these is artificial intelligence, in which machines process vast data sets, learning to \"react\" to incoming information without human intervention. Thus, the terrible downturn may have opened up long-term opportunities in stocks at the center of future AI applications.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/05/3-top-artificial-intelligence-stocks-to-buy-in-apr.aspx",
+      "publishedDateTime": "2020-04-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F566674%2Fgettyimages-1145585734.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 750,
+          "title": "3 Top Artificial Intelligence Stocks to Buy in April",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-self-supervised-learning-is-the-future-of-ai.md",
       "title": "Self-supervised learning is the future of AI",
       "excerpt": "Despite the huge contributions of deep learning to the field of artificial intelligence, there’s something very wrong with it: It requires huge amounts of data. This is one thing that both the ...",
@@ -1256,51 +1300,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
-      "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-      "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "publishedDateTime": "2020-04-02T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e86c30074e9210006895af5%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,95 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2020-01-23-phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta.md",
+      "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
+      "excerpt": "It also uses AI for lane segmentation, semantic segmentation, and 3D localization, allowing the app to determine and draw a proper navigational route through multi-lane streets. The user can then just follow the suggested path, as well as seeing floating icons that indicate points of interest and traffic signals. One key to these tricks is on ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/phiar-launches-ai-powered-ar-navigation-app-in-invite-only-iphone-beta/amp/",
+      "publishedDateTime": "2020-01-23T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/phiar.jpg?fit=2299%2C1150&strip=all",
+          "width": 2299,
+          "height": 1150,
+          "title": "Phiar launches AI-powered AR navigation app in invite-only iPhone beta",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas.md",
+      "title": "Waymo self-driving vans and trucks coming to New Mexico and Texas",
+      "excerpt": "Alphabet’s Waymo announced today that it’s expanding to new markets, revealing that it’s bringing some of its vehicles to Texas and parts of New Mexico. More specifically, those living in Texas and New Mexico can expect to see Waymo’s Chrysler Pacificas and long-haul trucks on the road in the near future. Waymo hasn’t shared a ton of ...",
+      "heat": 529,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/",
+      "ampWebUrl": "https://www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/waymo-self-driving-vans-and-trucks-coming-to-new-mexico-and-texas-23607495/amp/",
+      "publishedDateTime": "2020-01-23T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/01/Waymo-Truck.jpg",
+          "width": 1320,
+          "height": 881,
+          "title": "Waymo self-driving vans and trucks coming to New Mexico and Texas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-kneron-raises-40-million-to-grow-edge-ai-chip-design-operations.md",
       "title": "Kneron raises $40 million to grow edge AI chip design operations",
       "excerpt": "Edge AI startup Kneron today said it’s raised $40 million led by Horizon Ventures. The funding will be used to grow Kneron’s algorithms made especially for on-device machine learning and semiconductor design operations. Kneron released the KL520, a chip made especially for deployment of AI on devices like smart home or IoT devices last year ...",
@@ -1192,95 +1281,6 @@
           "width": 1200,
           "height": 600,
           "title": "Adobe’s AI lets you preview any item of clothing on a virtual body model",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-facial-recognition-technology-doesnt-have-to-destroy-privacy.md",
-      "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
-      "excerpt": "Regulation moves at a snail's pace, so it's up to CEOs, executives, and employees to reject projects that put profit over privacy. Clearview AI facial-recognition tech is just the latest example of 'innovation' that could quickly get out of hand.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy",
-      "ampWebUrl": "https://www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/facial-recognition-technology-doesnt-have-to-destroy-privacy?amp=true",
-      "publishedDateTime": "2020-01-22T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/00592rlQabuAGHAibpsW8pn-1.fit_scale.size_1028x578.jpg",
-          "width": 1028,
-          "height": 578,
-          "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-ibm-chief-calls-for-precision-regulation-on-ai-that-weighs-privacy-against-benefits-to-society.md",
-      "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
-      "excerpt": "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
-      "publishedDateTime": "2020-01-22T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990",
-          "width": 5424,
-          "height": 3724,
-          "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
           "attribution": null
         }
       ],
