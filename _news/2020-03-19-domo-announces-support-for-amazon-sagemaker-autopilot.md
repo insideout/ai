@@ -2,18 +2,28 @@
 category: news
 title: "Domo Announces Support for Amazon SageMaker Autopilot"
 excerpt: "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ..."
-publishedDateTime: 2020-03-19T20:05:00Z
-webUrl: "https://www.globenewswire.com/news-release/2020/03/19/2003701/0/en/Domo-Announces-Support-for-Amazon-SageMaker-Autopilot.html"
+publishedDateTime: 2020-03-19T16:05:00Z
+webUrl: "https://www.marketwatch.com/press-release/domo-announces-support-for-amazon-sagemaker-autopilot-2020-03-19?dist=bigcharts&tesla=y"
 type: article
 
 provider:
-  name: GlobeNewswire
-  domain: globenewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "5iMxXtkMuBP48CTSLoFMBXQaJVc7V4hm0T7IYXCH7iJyA7hT7JR+vxPkK5pcxSWpqa89XgxksawXGAdmNUIiivrEbvKBbYT4BkTccHboX1BR0ZGRdQXIKLQTMhNNU7Bswx0dV9r1wKNIsy6cJsPIgPefLlPiMhFgUds0FgLRwJ94ng6uTy4agY0W0BNXbW2DLYcLLcPbulP/L6XN+3nGUj8MLO7ejzQgAFcx73B/saImEsY90W+zlJhTNZ1F/wNzSb4FYvH6ifC+mP0PSv+AWhwGg7lRgVWY+9+RtGvGCbbEXlmNrEX27bAvNXybbi8a;ItLTLho9YFN5drnn5gOYlQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Domo Announces Support for Amazon SageMaker Autopilot"
+
+secured: "ebKqAhJnpHnajKF2VfZuBFZGyLPnA/96cP4a4sYbuXREkFn4fB6njZKHdRsvhBaEII6wkvMJzu503Psi+TX4IlzQIv6tGp2jRRCRoVy/q/3k+1LUIVVosPVZz8Jjdb6wVo+7kyzMJ77bgFiqlbFDmjxx7mLB0w6b/TaaS7Gku5VPjTh/eqgEjAqGWHV2J1dN8ixqxaKqO/GA1eLkes4QutXhXEf3AWtNV6q5gI/HnJXDCFFPdFyJk/abcaHxwsW4cqxbVfoc04+xAaLRDvDsikL+6CmiHgT039gMQgcWZpE3tHiHjKs1u8JeN9lCJroL;mYhKvKgiBKh8RGflQ4E1zQ=="
 ---
 

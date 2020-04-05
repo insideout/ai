@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones"
-excerpt: "Azure Edge Zones is a milestone not just for Microsoft but for the customer and partner ecosystem gearing up to leverage the opportunity from the convergence of 5G networks and intelligent cloud."
-publishedDateTime: 2020-04-03T05:08:00Z
-webUrl: "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/"
+excerpt: "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ..."
+publishedDateTime: 2020-04-03T05:07:00Z
+webUrl: "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud"
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 666
     title: "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones"
 
-secured: "sdHUCJ64g9LZWblijqM/RzEguNipA4XOgq8GdkTGCY6Q2jqifHwdwl1oQy/ZB6uIZI0T8FufxL6OhyrWeIpKIlCfTvLj6Ti08jFuN6z8jvlucytNv3j7HmgVO+xbLcu+nErejzFkneQzs3iKqSbwQony4owYlqn8/MBwpcwglMqqRtqPGGu0yGf54zT4urBZUX0RcL4MFVsOeIC8lOPzlsMKuvCAqriOJ8XH6eefo+aMztYMmFij1LEtaD4Hfmeic3LI4hI4EVw2t/uJpyY17A+9ISfjXET/i9p6h0pTJXDGZpTt/I8NmlgpdbupQ7X8;KI8XIG6IIOAkjW8xb2OmhA=="
+secured: "0W5nZDlyoHsWaPLjDQLXwZyD/yXgiMb4upT+R99kZstiAunESgnNprZFZDOfeYNbw8S0TaJrhj4fOhlVCgW6eegyvmcHsQFRs+jDSHW4oMqCOIDxNwZY8mP/aePZQcpcpgE/5lmW+riPzIWL8Pu6PqpteuRS4BiCQR+6+dWY5AQu5YcB4k2638HIjBHc76WeKX6SePCbaVADtUwylWGCERUz8tJl4FM/GioilUbd7aa0tsiepmrTet7Lg2aUS7+Bn25uIJIZkmC6OBdusNZjIx0RsXjpRYAOO9AaR9skXU9mDP8caOThqt1H/E30cjLC;NhT+tenM/KBkYnk3mn88oQ=="
 ---
 
