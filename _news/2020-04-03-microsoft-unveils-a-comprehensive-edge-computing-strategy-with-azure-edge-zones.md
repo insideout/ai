@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones"
-excerpt: "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ..."
-publishedDateTime: 2020-04-03T05:07:00Z
-webUrl: "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud"
+excerpt: "Azure Edge Zones is a milestone not just for Microsoft but for the customer and partner ecosystem gearing up to leverage the opportunity from the convergence of 5G networks and intelligent cloud."
+publishedDateTime: 2020-04-03T05:08:00Z
+webUrl: "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/"
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 666
     title: "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones"
 
-secured: "LxDTJm5R1QiFBVfmYrpWY9Wdjgih0uA7CD9dvxOq+v4f7yzWJgffdPZQ98+IE+pM9sjhAuMk+PacnWf7a1e9XV1bRNrHbxZa25ypQo/tvgH3/sBdNw7iE9oUWfcY8Tss24tnS2w2ZxQYsZJoO3l3Lh2LtETCL+X7a5kmXv9jLd5xWXs5yngYy/8e5n2daPRp20jo1z30ovI6Iin4niZhqiwFHX6XlMGFguVdBu6ZOPPOcdHzGQOHc8OzFvoNZaVVr1WWVxcyMhQm+S/LvCBhcQoVG9BlhD45L/ANyUu/vewfdF2Uokf4cYIIgNz1wEQ7g9ruew0YBCn0d96CLMa73wx1mE47+0dcKDzjCgDAxnXhr9BI0OtyT4+2P6i843v4Miwh5KkWQ3ZYuj+bHiVgHQkgq7v0Mp5CZArZYYq7TcOB615Sbi7PWFMTc5dTO336tyuMZzTBgTPq0clWHVxN1P1YoFyz4mY7lG8TkbuQUg8=;kl3ybGLuekEwWglKTqIsHA=="
+secured: "sdHUCJ64g9LZWblijqM/RzEguNipA4XOgq8GdkTGCY6Q2jqifHwdwl1oQy/ZB6uIZI0T8FufxL6OhyrWeIpKIlCfTvLj6Ti08jFuN6z8jvlucytNv3j7HmgVO+xbLcu+nErejzFkneQzs3iKqSbwQony4owYlqn8/MBwpcwglMqqRtqPGGu0yGf54zT4urBZUX0RcL4MFVsOeIC8lOPzlsMKuvCAqriOJ8XH6eefo+aMztYMmFij1LEtaD4Hfmeic3LI4hI4EVw2t/uJpyY17A+9ISfjXET/i9p6h0pTJXDGZpTt/I8NmlgpdbupQ7X8;KI8XIG6IIOAkjW8xb2OmhA=="
 ---
 

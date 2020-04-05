@@ -89,19 +89,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/Washington-Governor-Signed-Landmark-Facial-Recognition-Law.jpeg"
         width: 880
         height: 501
-  - title: "Washington State signs facial recognition curbs into law"
-    excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
-    publishedDateTime: 2020-04-01T02:47:00Z
-    webUrl: "https://www.itnews.com.au/news/washington-state-signs-facial-recognition-curbs-into-law-545886"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200401012643_facial_recognition.jpg"
-        width: 1275
-        height: 823
   - title: "Microsoft Applauds News Facial Recognition Laws"
     excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
     publishedDateTime: 2020-04-02T00:15:00Z

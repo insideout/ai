@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Huawei steps up ambitions in self-driving vehicles race"
-excerpt: "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the ..."
+excerpt: "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ..."
 publishedDateTime: 2020-03-30T09:36:00Z
-webUrl: "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2"
+webUrl: "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 512
     title: "Huawei steps up ambitions in self-driving vehicles race"
 
-secured: "2FoM3qxET8HG1kAE/lHQmzGS6ZgvQJZsJ3pTAdVb11e64/lzBIQUz2Ta+NxGARXgAnsBFSaWRlCubHNPNFkECvGbk8XagEbzagfXcs8o7xYi2A6KsbC4wDEYL/dvvKxAdSaA6r+Y93sFFkxRTMEfxBXCjNIrr5tNnteaRTnaFe+FefKctIlYQKl26Pe3LMtejwvOfVZrBwpSU5l72kFbfZEZU9ssCFAIitQWrgMR5rWG7ZOmhamn6kffFnD3hjX1fnbTgo+ZlTcWKxVZMMgLQHHRg2lL5NtQxIz0/TureoQSHCRiPC3+sGxTHEBMS5+t;UfC+cuYTeuBYEyg/rvP0Ow=="
+secured: "98D+hYGAFUqnBk4ZwzRBu570D8vYlAWoZz5CeRHSN67ciWmtI97yKWWv9KdtlU5NodbD0VXr/mtlPLYp4mUJUklNpDrHN7HKXVTMX5TCcEaW3ho1T0oJ56qWc+CaZBOva5NCBTnzquC6BA1KqN9li4UYNpX9hYMMvJyyTN1s2dZZC03TgB/Es2gyN3BcMRi5uUSzRvhta84DzQrsQunYGTbX2TaOUQkdku5RepIJ1bRFfyjg4xN49lW9/6ZG2JVE1Kb8fAilATKaF7mgLH6jPckY6Zk+MHDP/iGLE7ibXO9zbd2a6cb0i/UVJI19sMqC;BzCnbmJb8tU11VkN9vM3Ng=="
 ---
 

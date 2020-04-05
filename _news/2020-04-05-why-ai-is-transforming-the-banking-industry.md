@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Why AI Is Transforming The Banking Industry"
-excerpt: "For many years banks have been at the forefront of using technology to help with both front-of-house and back-of-house operations. It’s no surprise then that banks are adopting AI to help in a variety of ways. Large banks especially are industry leaders adopting AI to stay ahead of competition, provide greater customer service to customers ..."
+excerpt: "Large banks are industry leaders adopting AI to stay ahead of competition, provide greater customer service to customers, more relevant services and offerings, as well as helping transform many back end processes."
 publishedDateTime: 2020-04-05T14:51:00Z
-webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/?ss=ai"
+webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/"
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/amp/"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 1680
     title: "Why AI Is Transforming The Banking Industry"
 
-secured: "WcPt1v68XC9DqZEuBRzxU5Wji+4Y6mdjO0sFIbKlDiE1+NmjNhIwJo9yUxX1bL+dyX6bTOXXc1oFnjSTBPObh1NvKOFyFE6BPEkX/lx+Uhci3w57CluJwZZuBJu2ue8h/TFpcgyWUaZb/m+npnZhJSKynvX1DiK5ih03NOmTyPiKNM7GYQF87Xkk5VGa59JUF0t9tMyUTrVMgZc91I8LuF/hs8L4sSI+60MVM7FAtGnQTRTBOWT/hkAYOvd/2BBRXeCcsUKjjEPaouuG8J7uGA0yJSDlqk/rFjHPzpa9gibJkhxFv1OosO4+TZKmYOKSxcNOYB2t3bD/ZNkZkJBxT0looXccxMeBZvgnR/PFl2Rb0EBrN/AK+ujuSIc+1c5YA0Xla8mE/4F5nbLVHSIeElyIB1hB3LemC/FXaR4RRAhG6/gQJA4CGfShQP0qUdChnvvfYQulykUcsQ8Vf+ReGuL76WzfCSiFZU/3oVOG/Q4=;Gxk8cNjyk39FPQ9pz8PlYw=="
+secured: "g3MsWGk6WhIDwzpVZjamNdpIwJ3ehLFBEE3GZXL1C5Fm85ou0cX2jOHJrjjB+tt+ZHpvzH4w84NTZNMS3FZ26LPVj8OLTRv9wa0XNp8h/gC1zaWs+oQhaMPJPS5hcmiei06P1EQr1Ovkg/qf0X0oHgHDqv3Sc7E2awKe/B3G2Yzobi0a3FPfnCDK+9SoaC833NpNPg+owgmDuCRzm5pFlNsawiqFMjKeYCotYbfhkjqzKkRkywB3aQwVBWOOxtnMAUYbH4WfceW40Cgs9UwKIAwC5efBgSIclAeQsIeI0uKbMMHqnFnXGZ2NScpRfDAH;FPoFRNKmibpezi+7dy68vw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-mic
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -80,19 +80,6 @@ related:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/Washington-Governor-Signed-Landmark-Facial-Recognition-Law.jpeg"
         width: 880
         height: 501
-  - title: "Washington State signs facial recognition curbs into law"
-    excerpt: "Washington Governor Jay Inslee on Tuesday signed the first US state law that sharply curbs law enforcement's use of facial recognition technology, while civil rights activists said the measure did not go far enough to protect marginalised groups. The technology has won over businesses and police in the last few years despite objections that it ..."
-    publishedDateTime: 2020-04-01T02:47:00Z
-    webUrl: "https://www.itnews.com.au/news/washington-state-signs-facial-recognition-curbs-into-law-545886"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/20200401012643_facial_recognition.jpg"
-        width: 1275
-        height: 823
   - title: "The facial expressions of mice"
     excerpt: "\"With our automated face recognition system, we can now measure the intensity and nature of an emotion on a timescale of milliseconds and compare it to the neuronal activity in relevant brain areas.\" One such brain area is the insular cortex, which is associated with emotional behavior and the perception of emotions in animals and humans."
     publishedDateTime: 2020-04-02T18:22:00Z
