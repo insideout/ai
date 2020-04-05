@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027"
-excerpt: "Market Insights An Autonomous vehicle, sometimes also referred as a self-driving vehicle (SDV) uses technologies such as Artificial Intelligence (AI), LiDAR and Radar sensing for ... Volvo Car Corporation, Waymo LLC, Ford Motor Company, General Motors Company, BMW AG, and Aptiv PLC among others. In addition, large number of collaboration ..."
+excerpt: "Mar 23, 2020 (Business Arrival via Comtex) -- the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period"
 publishedDateTime: 2020-03-23T15:47:00Z
-webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027"
 
-secured: "Pswf9wCPSLk3CRM69aESuhOQcXMLEhymqJmpetWegYhWBJqWRIKaq8e6GDWuzzCp5DyhmfXtWtS1vujdL6AERcPQvpZ2EgOG7+4w9O0zIkyS36WrWKYbJsS8QEaXPxCiZ0102PMqmNNKVDVc4ihMbGOXlgr0Xag9+C2eOWF5E2ICT8tAbhuipGT4T27tGYD8W0nSZumySYDjecmjZXFJpmL4+x1i8S0fdXajF5eX6RpE2vkrDqSCv+rdtEp8KB0L6V21cYhXS0Cp+H+tLbWvEPG/V+3zPUneAcIqtBDoTZxxi0YgqBActpiikEeSnCzV;0Z/sbKGZrwP7hV4zAIAGPQ=="
+secured: "7rQ1iPwcmwd36utSIGyTkBULVb/AN4SV8Ol+PImLLY5mcay7d8moLa1SLHFHTJqD+SIrdTVehUd6cYhpb+tVc+QKmcMvXZTaB7wXLQNRQ5IQwCN8q6k3coFYj9ZcQvIT8YS3Vd5Ffr95a3ZFFT0bEqCjpLWN3FcnjCWzo3h2G2ihCks5zAisaPBAWQi2/eqABfsDGE9R9o+OR3yc2dBf5vgVKzP+Wk22GjQcAESBt7yzCORQMZ6QYzFn9Be6C4T/05wC+YWRU66qPtKyL+tarwJm73NFOWLe5GYXKbYmJB7wPc3ue/e2/deiamezwMgT;CZ5Unm3LYOemr/nuycfq0A=="
 ---
 
