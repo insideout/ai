@@ -3,7 +3,7 @@ category: news
 title: "Company Profile for Artificial Intelligence Technology Solutions, Inc."
 excerpt: "--(BUSINESS WIRE)--Artificial Intelligence Technology Solutions, Inc., is the sole owner of Robotic Assistance Devices, Inc. ('RAD'). RAD has developed unique technology, specifically hardware, software, cloudware and mobilewear, and teams it with Artificial Intelligence driven solutions, to save companies significant expense while improving ..."
 publishedDateTime: 2020-04-06T13:03:00Z
-webUrl: "https://www.businesswire.com/news/home/20200406005239/en/"
+webUrl: "https://www.businesswire.com/news/home/20200406005239/en/Company-Profile-Artificial-Intelligence-Technology-Solutions"
 type: article
 quality: 37
 heat: 37
@@ -22,6 +22,6 @@ images:
     height: 627
     title: "Company Profile for Artificial Intelligence Technology Solutions, Inc."
 
-secured: "6wVsdrtcy+tLn/KVwPK7ia7gec8lmk0P7tujVh+i6Q+7KvxQo1jxpTJ65JsWQ6KS0OZNtnYS7VzUN9b1TGedxizZc7wNtAHOhDHCaaP6+fZQiIyxQ+VYjx4SBDdLoW7Z/kSbLFnSNSOX4Lxub5H4KVxHt2G1jp8YL9ZnQPMvmNiSfmekHXnA4/ArsBqwqCCwyROVzLJXDUWvA5o4xXYEOGr5ZNYvgn5+ah1ehJySyaLqNB2V3iaoDnjm43wO0JurpbDR/v2sD6k/DGFhc1JvQqo6UCsb8Ygc294mX/J16upPgel2gsu4gqqSt3UyDa4J;bDlcr+SlvM6AsfNkBjnGsA=="
+secured: "JQpNv3c1gdAchieskYFqK+dFS0KB7qzUTPAknVk5R4pdKnC+PmttgXkukEtVmyOu3DzmXw5cLry4d55VpWCuJi6VWmczpJTWziSl8fTrg1XgQkjcrxDNG0mjz9CWI9ZJKMn9yZHQ/b5MoS6MAY5Rzu9Kly/e8SUe/566FSFwgQaj/v2HCm1IQRFn2SByY+piovdzeR8AjPeH0brNWF98UOLJpIMqiKzz1QKvWUFfKj5Q3z5Qgx04Cf5rjLa+iXKyex3FpMXL7evVlrxiLAV45ioSU46KX5PjCcZv6QO59arQ9Q85xuNq7UhNwxlVQsfD;CBZO1GUjZCWy+jDG6g/fXA=="
 ---
 

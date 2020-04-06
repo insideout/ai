@@ -1,28 +1,43 @@
 ---
 category: news
 title: "Global Educational Robots Market, Forecast to 2025 - Widespread Adoption Teaching Robots, Digital Whiteboards and Flip Classrooms"
-excerpt: "The \"Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering."
+excerpt: "The \"Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added"
 publishedDateTime: 2020-04-06T10:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-educational-robots-market-forecast-to-2025---widespread-adoption-teaching-robots-digital-whiteboards/article_d32b3356-11c2-588c-85b1-0d032099229d.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-educational-robots-market-forecast-to-2025---widespread-adoption-teaching-robots-digital-whiteboards-and-flip-classrooms-301035150.html"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     title: "Global Educational Robots Market, Forecast to 2025 - Widespread Adoption Teaching Robots, Digital Whiteboards and Flip Classrooms"
 
-secured: "oz9IHUSge/ckkhcunwYUINYwY2/AuuAUpy4U61OlskFctnw6UsJMMrtMGPHm8HEgZSl1TPAwISoYdPhfbNcOuUKguuWopCs6MLdxq3JFiH6irpHzAy/Pzy0yUax2hn0n+sv7wIP1maeTTUncVE1H4Gduv35VJFD/q9WPHEMcTl6jGBVJ/VSAljjLtrPPx579BfloqBpJ3AkB+1am1ZPifP+T8yeV3RyLPQw7ufL+dkeznfqrNooimo/2iIXythuaSTxPNNpNUXhAarcOyWYu/5CLbG4AdAG268dXyWLb6UKiUGF+pqSiqiyCsx7lx0eb;JMHXgb3TFYs3KL9gcMpGrw=="
+related:
+  - title: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027"
+    excerpt: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance"
+    publishedDateTime: 2020-04-06T14:40:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-share--trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020---2027-301035717.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 5
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+
+secured: "UworIOsMbzVJA31k/HuhzrnZiB/NNgY+mVFn+WQxYEVjvVyqZjjgyC3DtMXMTUweDf4aj2cjhZkejAoyjxOPt6dvX3E44f2a4cPC9po71gKviVw2Gt0pYdK1cmZahPF0Qjag5QQOLUa+YV5ECo/vA2kyRXb1yXUQ5RbD/Bk/FtYMQCibKfE4g2sujtSlmP9Hsr87O4mjw9EVy0TteHM3wBtoLpjZB4ndXmTpcw4WaY9tVxnDEjL9NEgiXGQXO9s3m1E9Qou96ZaY7L5zVIgFzNN4qFmf9sse3PuqfLoxQDHk9eGaALz9r4GFv5/+5N8B;mvdLEqCXTP2VRzlCpT7YOQ=="
 ---
 

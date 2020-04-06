@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-06T08:16:00Z
 webUrl: "https://www.openpr.com/news/1999768/artificial-intelligence-chips-market-current-trends-and-future"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,21 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Educational Robots Market Assessment and Outlook 2020-2025 - ResearchAndMarkets.com"
+    excerpt: "The emerging trend of digitization, along with the increasing utilization of artificial intelligence and machine learning (AI/ML) technologies in the education sector, is one of the key factors driving the growth of the market. Owing to their effective interactive capabilities, educational robots are rapidly being adopted in K-5 and K-12 ..."
+    publishedDateTime: 2020-04-06T14:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200406005534/en/Educational-Robots-Market-Assessment-Outlook-2020-2025--"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 33
+    images:
+      - url: "https://mms.businesswire.com/media/20200406005534/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "Vas+Vkr/khxYhxuWVtrSfDzHXoOdaBTDXg0E/brXMiTlEwK5SsUA7onW3jNlxBilUUiPzTbZFFSNjEpcwfu61ys32kOd2480/ntNdkdFTMDnqiho5/XgF8qH2Sk0gE6jEaeJja8KjlpFUH5k2fkXe5yNCXOno0WtjKgWlOjYRBVOT48FKSljIatOACVLmGI/n2fFhj/UBE6g08GSbtAjvoFx7tAly/cSmyBNu/8X1BovrO+fpEULnE7MSWfYxPSihiVbN5iVWFy2y1OVEIMb/8R1l8M6EjIYsMehoTjqSpbC4KcQgf2O3NUSQS5tr6HcZG/XiTn31XNkxYuQ1yVaPzFxqg47eq9sVt93EeLeepWymm2oVKjsQ1kvLTydRpQppux/hsMnTAQ9fHT+IbXUa3Q4aFTClUHi9qr2dVJgeQC+X6EpqYGpimSn18ebVM88wyDxE0Lj6eOwy/0D7rNQTWFjkbQD6jpoLYsCg1rTz94=;nrGUdbcmXwkeKNy/cUXIDA=="
 ---

@@ -1097,53 +1097,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
-      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-03-23-robots-handle-the-tough-jobs.md",
       "title": "Robots Handle The Tough Jobs",
       "excerpt": "Robots can be a quick way to automate a shop, boost production, improve part handling, and free workers from back-breaking manual labor. Robots can be a quick way to automate a shop, boost ...",
@@ -1234,6 +1187,43 @@
           "width": 1080,
           "height": 720,
           "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-artificial-intelligence-system-aimed-at-preventing-drownings.md",
+      "title": "Artificial intelligence system aimed at preventing drownings",
+      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wpxi.com/news/pennsylvania/artificial/RSZP6PEMV7XNLKA4RNIQSDO3IM/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-21T17:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPXI",
+        "domain": "wpxi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wpxi.com/pb/resources/images/share_logos/WPXI_1200x630.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial intelligence system aimed at preventing drownings",
           "attribution": null
         }
       ],

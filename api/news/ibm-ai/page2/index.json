@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-11-how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users.md",
+      "title": "How IBM Watson's new natural language processing capabilities helps business users",
+      "excerpt": "IBM reports that Watson is ready to take on the most challenging aspects of the English language. New natural language processing (NLP) capabilities will be added to the artificial intelligence platform later this year to allow businesses to identify and analyze some of the most challenging aspects of human language. IBM has been developing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
+      "publishedDateTime": "2020-03-10T21:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/10/d48ad02c-9a8d-41ce-9baf-ec8d046158b5/resize/1200x/11580c597b4bb6158ad17bab6a2a0b59/screen-shot-2020-03-10-at-10-31-22-am.png",
+          "width": 1200,
+          "height": 782,
+          "title": "How IBM Watson's new natural language processing capabilities helps business users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ibm-is-bringing-project-debater-to-watson.md",
       "title": "IBM is bringing Project Debater to Watson",
       "excerpt": "and Watson Discovery. This is the first commercialization of Project Debater since IBM Research introduced the AI capable of maintaining debate with human champions in June 2018. In its first match, which took place for an audience of reporters and investors at offices in San Francisco, Project Debater argued against Israel International Debate ...",

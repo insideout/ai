@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Microsoft Azure Speech to Text review"
-excerpt: "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ..."
-publishedDateTime: 2020-04-06T13:40:00Z
-webUrl: "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review"
+excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ..."
+publishedDateTime: 2020-04-06T13:33:00Z
+webUrl: "https://www.techradar.com/sg/reviews/microsoft-azure-speech-to-text-review"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -42,6 +42,6 @@ related:
         width: 1200
         height: 712
 
-secured: "fxYZ5A1+LzKlfYQ7myi4lrkV7e2eXXntMCTKo5R3Hl2hBIOI3ylI5u1pJLDAInv82gpEfRorlikASQN3FZcaymDPjEBBCebROpRP9H74C3DvM02xUrgn5NKrioWnU7F4WLDZXwH7zpTYt3qsFjlK+stL+RuxulsQM/lGje8B2ojgX3yoR2f/Bk95zcTERCqNyN6s6La+zGgSDc4khwocoDjDCVrxIFw9PgVAaWC/5hRqgpl3rH0AIn/jqwIq5zFzMu9vJg66MP/4lRi/LE4I3RgXmNjcB1LvwHhemGb32hKnqNJ8WVNcLrovzgXydhbD;SxGQ0Q+iyKlqm9HDpLOl8g=="
+secured: "TYzFGpiJtEoc7zL+bU3R0jxHFw5dcUCAaxnK6ytuKwzyp0sAEMsO58hpwm+wGG2AZLz83ZONcmrPwoW/bZi8TAAbRJAbbsWf38qfYCu3YTTSZput60Vo7MDh0nA3Vj7BsqV0DGptbHw06zmY9LCUq84If/7MaHBVQOo6NDagrfPEtSpQ5JVxmG9kv3KAyoBaZ0cmG6/WcAe2aIzSpyNkQjwsZPciwzg6YSll97zgkQO43WxWx1SySUt2+oYB5+Qhr5+p+sebdbBIlZueaS2nuL2qHc6sD72sWB9VF/HVqAoXoBtnJfJK2e+msErmS6RA;FAY0ImoEo9mkjAfr95c+dQ=="
 ---
 

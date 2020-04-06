@@ -234,7 +234,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897?mod=newsviewer_click",
+      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
       "ampWebUrl": "https://www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
       "publishedDateTime": "2020-03-31T13:39:00-07:00",
@@ -365,11 +365,11 @@
     {
       "path": "_news/2020-03-30-global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025.md",
       "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
-      "excerpt": "Mar 30, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a ...",
+      "excerpt": "MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a global level regarding demand,",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30?mod=mw_quote_news",
+      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-30T09:29:00-07:00",
@@ -979,11 +979,11 @@
     {
       "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
       "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market.",
-      "heat": 73,
+      "excerpt": "Mar 23, 2020 (Heraldkeepers) -- AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market. On this, Market Research Future published a report that reveals that ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23?mod=mw_quote_news",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-23T09:06:00-07:00",
@@ -1017,10 +1017,8 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics",
-        "Computer Vision"
+        "Computer Vision",
+        "AI"
       ]
     },
     {

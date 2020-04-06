@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-06-coronavirus-could-be-catalyst-for-healthcare-ai-advances.md",
+      "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
+      "excerpt": "Just as the U.S. government significantly invested to put Neil Armstrong and others on the moon by 1969 – $200 billion in today’s dollars by his estimate – Scott said similar funding in artificial intelligence technology could be a difference-maker for our nation’s battered health care system. Scott, 48, whose new book about AI will be ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html",
+      "ampWebUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
+      "publishedDateTime": "2020-04-06T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_710348230.jpg",
+          "width": 839,
+          "height": 630,
+          "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
       "title": "Artificial Or Human Intelligence? Companies Faking AI",
       "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
@@ -81,6 +118,43 @@
           "width": 796,
           "height": 417,
           "title": "How AI can determine which coronavirus patients require hospitalization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-predictive-oncology-reports-2019-full-year-financial-results.md",
+      "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
+      "excerpt": "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Globe Newswire/447e5e17eb9b55a2c78f4e0aaea5fa81",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
           "attribution": null
         }
       ],
@@ -1109,75 +1183,6 @@
           "width": 1280,
           "height": 720,
           "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
-      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
-      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy.md",
-      "title": "Of epidemics, artificial intelligence and responsive public policy",
-      "excerpt": "Black Twitter is breaking the internet with memes, perhaps providing palliative therapy to an otherwise depressing national development ... its deadly tracks – are largely also shaped by viral videos of machines and robots that use artificial intelligence. These machines and robots are disinfecting cities, buildings, public transport ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymaverick.co.za/opinionista/2020-03-16-of-epidemics-artificial-intelligence-and-responsive-public-policy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Maverick",
-        "domain": "dailymaverick.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailymaverick.co.za/wp-content/uploads/busani-ngcaweni-1.jpg",
-          "width": 334,
-          "height": 480,
-          "title": "Of epidemics, artificial intelligence and responsive public policy",
           "attribution": null
         }
       ],

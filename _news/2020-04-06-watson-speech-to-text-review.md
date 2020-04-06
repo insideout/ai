@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-06T10:24:00Z
 webUrl: "https://www.techradar.com/sg/reviews/watson-speech-to-text-review"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: TechRadar
@@ -30,14 +30,14 @@ images:
 
 related:
   - title: "Microsoft Azure Speech to Text review"
-    excerpt: "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ..."
-    publishedDateTime: 2020-04-06T13:40:00Z
-    webUrl: "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review"
+    excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ..."
+    publishedDateTime: 2020-04-06T13:33:00Z
+    webUrl: "https://www.techradar.com/sg/reviews/microsoft-azure-speech-to-text-review"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 84
+    quality: 54
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
         width: 1200

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/amp/"
 type: article
 quality: 75
-heat: 75
+heat: 76
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 457
     title: "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling"
 
-secured: "4ZyR/gozxM97/Nr1IrbU6JDbU2fNhq3PqvpYKQ1xjy5rgSzsuDGZMD2bCcOBiKOJga1NQ/F3vcMrI8IMVik4sb4l5B6xooJjqhbg3OG9GoP/TxkRPAd/4hhpxPrlfPQIX6DsiyFFJ2EZPc/S/HqrP5N1l0dY0dmYGRaUtTYwZG55rVUTpvxpmMlZxsCwOrD+DNAToSsP/Rkvc7MdvxyUIBNEhnUUXpw7ZFP1i5s/cO5RL/hwJML2h3EHQQZe1l8C0YNN9oyka4BqsAs8n0k45b9XvPZqjdec6CBbYYXTOQEdVLGUu99zsW5ep9fm5evaoaDMbJYVIKOsQmr4alcghE+3FOmJcJftWWs0FwWAKPrvr6DOFbTYYdSBXCRtrj/LqnBJea8hd5M5DYnng/njbgxGudoIU5wuoQWCpAJoKF+o2XR3UdHYihCZb7Ny4xOpOzyKtYrVN6z0RCzpYX84TrLhVGmwQv20A7bk90UJ3u0=;h4TuCO9+q4E8Fg5CHEvfTQ=="
+secured: "nPYqU0bYy/sGrZAtS9ZT4uzkH+yQCiw0UnHpRf85sL8eHjPpVuS2IktfxPNZFrPF/tWcbPSwGsBNKiJlAh37ec2VmIXNX1JFq1Dx7jl5iCz4OQeicJfn1fKZIUTWsWDKskVP1h6Q6x0+PrQMOPqheRnVkupOsiD/16fwd+IVESJUbIB0JEkiX1iG2Qu8A8ik53LA0p5eibqQvKK3bPpI+AamXzfeYdDdpqA+M7ATG1kAsVWfSow+YwkiKq2rtrlmtXBhEO6fVAnVWEiCHkTg/qAa7ZhCDhrM1FVNtG7rlPS7ADbRpcpBYcquNA5nIDNpB3uyup4kIjBsWtweFv/cXvNtfW2gvCpLPeICq7FklCYDVIbQwQDacgO0mSt13LQW60zwHZFEw+zE+WMZwWsh6mSjdkp1K6Q95RRslD2/wBnjqGdfFlsgh+4S44EMM/h7AMwhkK2Dw9zfaL3hy5Yq60VUKoG9kuAqr3d5G8Vpp3Y=;iHbuLkWXPaWLjVTDkgv1Tg=="
 ---
 

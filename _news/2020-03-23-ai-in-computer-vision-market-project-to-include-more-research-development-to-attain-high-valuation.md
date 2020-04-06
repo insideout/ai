@@ -1,13 +1,10 @@
 ---
 category: news
 title: "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation"
-excerpt: "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market."
+excerpt: "Mar 23, 2020 (Heraldkeepers) -- AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market. On this, Market Research Future published a report that reveals that ..."
 publishedDateTime: 2020-03-23T16:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23?mod=mw_quote_news"
 type: article
-quality: 73
-heat: 73
-published: true
 
 provider:
   name: MarketWatch
@@ -18,10 +15,8 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
-  - AI
-  - AI in Robotics
   - Computer Vision
+  - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -29,6 +24,6 @@ images:
     height: 630
     title: "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation"
 
-secured: "G/Aq1WO8JLSM1cH41vj96gH/jjXVdvX//XRC2T2xKr0kAgQhyiE0IQ/lue8vko39sxMuaSGTMsXEVZZx0HL4TIpb6UGTWjDeTtJ/GCZjpl2JiVZL6O2MJhfrGHiI/VX7JgLEa3xIDJoIkR9+5tZlz9yjAVrYDeJ2V3SQgW7pJwdc0Sa8gDcPYS33sjEg+nIhPIfrBfziQksawZceB214wSzh8Z9caRYaiLbT3mjg6lpCoaFbNDmBA3t/WXi7sVhbZhbFCTjUEjs37PPISQOxOskJonQw/ELloqVHSB/UtjECJW6QTTaz5E16SuFLnAtO;iQVvxdgzjXNrkYVFMzHW8w=="
+secured: "NmfRLSj0ZrAiPwOdWkIZu57/gTesX77mDTGNpvuLEUuDNkxCuB6X/p2dzs3E9Iodh9Lh16kv0x2paKuVyVDJQqXlorbY2o3iwwvOXruMvywjbXuO7A6hfYeBd+bI/6p5i0Okhp8g9Nzq6S8IxI7eqgwE4TJS/dYiB4QYSZvbkbSBOfq+VrRx31bUVuEyw7r9dBwaqnYmiu5acn30o/Bo6Pib1iooHEoM39xqiGm4a9Fpuxdp5gJMVgk+9ip2/zNrj3zyaO2AkEckPJr4zVnP/7DrGRCcjwh9X48F+BcLjDgi0Ge6AedRwFGSk3rrd9sf;TqRp6eUMdIrgPC8VfrZUgQ=="
 ---
 

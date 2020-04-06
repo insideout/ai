@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-06-watson-speech-to-text-review.md",
+      "title": "Watson Speech to Text review",
+      "excerpt": "Thanks to flexible API integration and other pre-build IBM tools, the Watson speech recognition service goes well beyond basic transcription. If you want to use it in a customer service context, for example, the Watson Assistant can be set up to process natural language questions directly or answer queries over the phone. Watson works with live ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/sg/reviews/watson-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg",
+          "width": 1200,
+          "height": 712,
+          "title": "Watson Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
       "title": "IBM makes AI tools and resources available to coronavirus researchers",
       "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
@@ -1196,52 +1242,6 @@
         "IBM AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users.md",
-      "title": "How IBM Watson's new natural language processing capabilities helps business users",
-      "excerpt": "IBM reports that Watson is ready to take on the most challenging aspects of the English language. New natural language processing (NLP) capabilities will be added to the artificial intelligence platform later this year to allow businesses to identify and analyze some of the most challenging aspects of human language. IBM has been developing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "publishedDateTime": "2020-03-10T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/10/d48ad02c-9a8d-41ce-9baf-ec8d046158b5/resize/1200x/11580c597b4bb6158ad17bab6a2a0b59/screen-shot-2020-03-10-at-10-31-22-am.png",
-          "width": 1200,
-          "height": 782,
-          "title": "How IBM Watson's new natural language processing capabilities helps business users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
