@@ -184,6 +184,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-31-poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an-ai-driven-predictive-model-of-ovarian-cancer.md",
+      "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
+      "excerpt": "MINNEAPOLIS, March 31, 2020 (GLOBE NEWSWIRE) --  (NASDAQ: POAI ) (“POAI” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an/article_423a4c72-6993-5f2a-9e02-8f7e925d7d5c.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them.md",
       "title": "The Challenges Of Applying AI To Healthcare And How To Address Them",
       "excerpt": "Though the AI health market is rapidly growing, implementing technology for medical purposes still entails a range of challenges.",
@@ -1141,43 +1178,6 @@
           "width": 334,
           "height": 480,
           "title": "Of epidemics, artificial intelligence and responsive public policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-an-agreement-for-cancer-therapy.md",
-      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
-      "excerpt": "BEIJING and HONG KONG, CHINA, March 17, 2020 (9 AM Beijing time) - Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence company developing end-to-end drug discovery pipelines, announced today that they are entering a collaboration, applying artificial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/im-btp031620.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/227125_web.jpg",
-          "width": 1440,
-          "height": 1440,
-          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
           "attribution": null
         }
       ],

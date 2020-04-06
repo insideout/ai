@@ -1,24 +1,25 @@
 ---
 category: news
 title: "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer"
-excerpt: "Predictive Oncology Inc. (NASDAQ: POAI) (\"POAI\" or \"the Company\"), a knowledge-driven company focused on applying"
+excerpt: "MINNEAPOLIS, March 31, 2020 (GLOBE NEWSWIRE) --  (NASDAQ: POAI ) (“POAI” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and"
 publishedDateTime: 2020-03-31T12:30:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/g15705399/poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an-ai-driven-predictive-mod"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15705399"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15705399"
+webUrl: "https://www.bakersfield.com/ap/news/poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an/article_423a4c72-6993-5f2a-9e02-8f7e925d7d5c.html"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "0QMzDk0RxTJxLDQUMvRYi6/cjBAyWgI3N+s9l87vHzoVZwkb4hI8UB08K77WSWFn+RccWjeIal6oSwxr/egnFUODgDVLfntJM4qCgZiUfXYvvgsuUNnc8XlJTTscmDGdeEedAjbG36on5msl98K6Td/OqLXV1DXf+fsg/jD5CHinfQmSd6Xv6fh/iRKuQ9/2GU6c+Tta/b5d/YVQP5Cf37Ax+5CHZxuQM9GFic5xNk8af3ktUWOLOFp8/uAsdhcxfg/KGXfPsOxm2/xceyhchz06FUjC+DFziT873wvt5gCRpm2IYoTpLm1pNlQ0Aogt;Zcnl1/C3zqI5JKvOSKOWAw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
+    title: "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer"
+
+secured: "+VfkgrbFw9Up+JHJxB5WwL1SYQJcAdnMY+ISB+nmfw6P1de9h7m3oNGcmMEPzeXIhO6+JwaHVM+CBTPVStfVw1wZVhGIRWPJgLPfPCwHUI3KcBUx0wvDnsXbKEfcSePpdK8LS+kBEZZeZ8nTUPKmJWct5xTrIosyt9jUVu33UsCbSd5cWpv21otfnwky7TkkoLJbPLEtqsOx0G1K0zHI6gsYV6gDALdMzMY/0ctTTVzufmCHjx+T+ranoTmQ5pQSkB7ykuDK5FuwcVFzQdVgaE88stWBa6uTg7GfybGn0ZUGf91OUjy40BHxl89Sd989;3neioIsW9gTNXwGC3fVE4A=="
 ---
 
