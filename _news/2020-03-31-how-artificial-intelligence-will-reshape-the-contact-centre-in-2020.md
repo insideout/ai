@@ -1,9 +1,9 @@
 ---
 category: news
 title: "How artificial intelligence will reshape the contact centre in 2020"
-excerpt: "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will allow organisations ..."
-publishedDateTime: 2020-03-31T05:10:00Z
-webUrl: "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html"
+excerpt: "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ..."
+publishedDateTime: 2020-03-31T04:59:00Z
+webUrl: "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html"
 type: article
 
 provider:
@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg"
-    width: 350
-    height: 420
+  - url: "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg"
+    width: 375
+    height: 450
     title: "How artificial intelligence will reshape the contact centre in 2020"
 
-secured: "TNu2LpkQVUyl/tBfKXhvxBGsxfRjhnI5v5PyClgWlCLc94DVlESlZNGDC9qpsMM+fqDtnhRfr69DMwVjTuQ4xkw0m0yKszmU9RVP/vvCPqi7YdwV+csNoCPENmJqJMG/GieiHB4cG49hMvmPcdXrpSBpWfvdrYbIfBfqStVJHGZvPdpEEpkn0IVGpIW/4fvxUCd4p4byTJ2DjaA2lnN49NVqv+bWXgjhF0ZkzWAvrJEjkzbPCsHEzR4t/ADCN+pmruDfbZqAx1QFXAZkPyrCqibQyxCmB9vW/N165s4VIN4y1kn6xSKOCIfH/uHmEkEUoFKrtMM+HXDmNHlsxzaG6p1sQpzn34wup8Q0xWO4jwtcm7rmkiXyUk6OY33zo8kxl6hej06zkaRCdBTbbogiEe48SYp7aOdrsz4OC8hAm+pEgkDKgYlZS0/xr9yeat6Exi6dypKfsbUeKr4hGOfVhhmDB9PA0HJ++2BOPK4rjjs=;eA8g2yIfrhNGeWSwCkJPNQ=="
+secured: "D0yoZ/XihHLad9JpFsHGTyKnu772AU2tYscBXfhCl1ph47EpJpBT0vnhgufTXlaw0yIieA9Py5JgQtCywhwEiyAFKXPwV/9/K9oqawlUvjph4wnHANzwUUIxkO5WYK9+Lszuft/jYK5LUwrIC+XIu4a4xrsSxxYrAwoOwqEZLuI7+pKjlnG0SybGhhY/ZDwqeUuEl/ippz+ALs7xGCwIAMzJmgqXqVxD6lDCOmDv+WNvBzDzCBJF266MKgxFujGBgGUtol2bMtnj2MHs7ZET8x7W+WMmm4hvsfco2BW0bbyPFWHD1SOMc0PM+m+rt6oM;mPy17eYQgQG9itgGy8zuMg=="
 ---
 

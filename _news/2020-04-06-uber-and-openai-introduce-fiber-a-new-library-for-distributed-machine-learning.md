@@ -23,6 +23,6 @@ images:
     height: 261
     title: "Uber and OpenAI Introduce Fiber, a New Library for Distributed Machine Learning"
 
-secured: "VJz4MliVg7lGeE41abfO7J1FE2qPpxNOTk758vP2h720ivEWN16npF0jQKbrcwBZdllz3JKTrE5uXpYBbHqDilZTh4HJ7FgerUzcMJtfVkMO9doWMga/hlZKFUK+KMx9+zzo44PDXzOJzU+yJ14qNIYz22+aKOJI5mZFDX3UzwlByv5jEhkxjfd3nkJq5A8f+4jK8sHWUELmCXBvpFNFCS5t4tnObQOIC8h453VyhTxiItnceivUBgVICZFpMv0KfpsMCIfC6Xbr1Uh/q+/DCYg4QicaVC1Lxrgeifyx+jV0rmdDTJNTo10KdVXVTdFr;lNMjfwpD2d+zuH2ummlCbA=="
+secured: "+axz4RoIjaB1++sdoNfkddjuXN64yJ8wPK2f5bhZorf46i2r3tzUJdzi39eOFVMWdESpAO5nv7TVwHAOAWoMDsVIFTKHWYDjv2JOlHege6+R40nXCS9GnxuPST/yaQzsEeJ6ETq+YsRb5TCpg0QY7mzhRKhEoy8e7JdYnpz1zB9oXSvMmAkXVTh//COPROI+GAXjK2tMUGg+zg1ngysqiNzAj/YF7gHDyS0HnlXyfP0o5squGCquN4ncdG6bDxp0kY4hENWJsFQnkG1DyD6XzvjKWvx56ghwF++IRUThX9cA4g9Vne8IpuIvC5evGNOdOzpuJNJdR/jT/bqny17epUtn852OtGo/6NQVKnegjAQ4q0+MEecCkJp4ecj3hPrrDoMN3lF79c7m5mLKHaYmymlSrOmbL6WEHwmn00t/A+1mWdPTrGz9ucBBfXdyl2CR6t9+64emZ1MjDLyQ9nX411InHU9daHyG+AEMDwHAxvE=;dFMDNRbjEliTvvn2Q7c7bw=="
 ---
 

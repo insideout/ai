@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Machine Learning
 
 images:
   - url: "https://pubads.g.doubleclick.net/gampad/ad?iu=/21483071/RBD-ROS-300x250&sz=300x250&c=1585656041081"

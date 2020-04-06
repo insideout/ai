@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-06T10:24:00Z
 webUrl: "https://www.techradar.com/sg/reviews/watson-speech-to-text-review"
 type: article
 quality: 71
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -28,6 +28,21 @@ images:
     height: 712
     title: "Watson Speech to Text review"
 
-secured: "4EX6M7GI2TPn5sLWad0JPtPLArchjuuhyrElKg3RtsUBfkrMCXyi8oDwoylu9EvL7WPrEs9txVbgkwVLQZiIRVupIVBlSk97TJfRv+NoPs97F6xTzmFcCPQQCqUUcI5FM8DB9m3Pdy78PSBYObfmvDzZ8d9H2nQhcIfHbgUVcYwnBv8czK3vb6rHMfWYkaF86iEXTrotbR0L7Jt00Iqz0laLgyFStqCxTX8T3lYtqGLMmcrgTK7V//m7QS2z67ykOSiOzABT7J4KfWX9JjssqAxVs+bo6JbKQuoUZyCtdTZ6awbKQL2oxoKpM3HJ03s+;rt9OSTZ3j/AfvDbSNymagg=="
+related:
+  - title: "Microsoft Azure Speech to Text review"
+    excerpt: "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ..."
+    publishedDateTime: 2020-04-06T13:40:00Z
+    webUrl: "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 84
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
+        width: 1200
+        height: 675
+
+secured: "swpo/y//Lwle9NAKX/Dr47gd+igBza1J++1i7gv91pqH3RZ8p0e1Yn5WNgUqAKK2mYo+16P+F+Di3/B6mMlTS1zTCBIHlPQeZvNDLVHf9Xm6azyuo/45GPaEM+y0DCik806MZ8xUtCegNYW1FHnHzfiZ666cy2Lvyy4DAyNeKg8/OzVs4W4AUNnfgp8Gcd2gA4xBMIQeP+nJ3Tz2Jq2QB/6G44KxTyCvanMc3PgwFWampBKsehP5rkOWPl3WhJe1Z5QGTUKGh09f5BPz2FGMJkBT27SXrIptsqwk9QclMVjBwxz9uL1u/uiLMn7YcS+aU+SgF8cfdYCueqt+egFVoJtF6HMsEG3AQOtukouI96Zz9zhOrYIHrXTpyrvxZ3sIsK9w2t8lRvbcVMhVWnSfvcwi0n3GA0SU9baGTXZZqMiFIlZqjY36rVwbGi/QWEgJejOuYJzWRNNOi5F7fHXn5l820Nh+nV6ZhyqmP+GTbP0=;OOyUQk29c5RZoVxSVk86rA=="
 ---
 

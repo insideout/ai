@@ -8,7 +8,7 @@ ampWebUrl: "https://www.popularmechanics.com/culture/gaming/amp32006038/deepmind
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/culture/gaming/amp32006038/deepmind-ai-atari-agent57/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -23,23 +23,6 @@ images:
     width: 1198
     height: 599
     title: "This AI Can Beat Humans At All 57 Atari Games"
-
-related:
-  - title: "Google's DeepMind Agent57 AI Masters Classic Atari Games Like Pitfall And Solaris"
-    excerpt: "We’ve seen Alphabet/Google’s DeepMind AI crush human opponents in games like StarCraft II, but now the team is going back in time to tackle games from 4 decades ago. Dubbed Agent57, this new AI is gaining attention for learning how to play a total of – you guessed it – 57 Atari 2600 games. The DeepMind team often looks to existing games ..."
-    publishedDateTime: 2020-04-01T19:51:00Z
-    webUrl: "https://hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris"
-    ampWebUrl: "https://amp.hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 69
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/51219/content/atari_deepmind.jpg"
-        width: 708
-        height: 509
 
 secured: "JAV1lCshFc6jdS4CCvMP1/67gi4QnhjxLbRxCZ/G+IRVphwsZI6rish0zCN/t5Dzto51O8wy1fuzisr8msbXSmkz4lXn8AgIBtfcBDVKVQq/BqWobiMWvQ1BNZAae4oIxjpPFRjjPmWhgsnn3ygHQuhXAjQcXBVrdn3kEKCyPRiFr0cgLFRQ6pxeQe2Dl9QCe330YKm2h3y8VNlDvfmwysek1X39JvJBy1GLyCRsdSOPpnEEfdUvVYJat3jZIm3HPRaLErJjcoDvLPprwMp7Q5EnWrGQNvEr6G7QVxxu6Q+3uPmzJtfRCDWYQMW0UKbjr1W+pcCMKx3REQHU2+Atbo8k/UnaJkV/1XvHtl1OzHNtxQKuDkrPxXKH3OgB9m3k9XXtAmT3LcFa+HcX2Uv08gi9KegdYHF1yVbnA2PRJk8YAJF83ngRho2ZikAgUZcG/kTuMcee43mCxCJRkEWzO8Tk3EjDzn5eHfDFSdhd2Qo=;see2IiaBOWwrALo3YjMY9A=="
 ---
