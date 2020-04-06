@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Microsoft Azure Speech to Text review"
-excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ..."
+excerpt: "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ..."
 publishedDateTime: 2020-04-06T13:33:00Z
-webUrl: "https://www.techradar.com/sg/reviews/microsoft-azure-speech-to-text-review"
+webUrl: "https://www.techradar.com/uk/reviews/microsoft-azure-speech-to-text-review"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 84
+heat: 94
+published: true
 
 provider:
   name: TechRadar
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - Microsoft AI
   - AI
 
 images:
@@ -29,19 +29,19 @@ images:
 
 related:
   - title: "Watson Speech to Text review"
-    excerpt: "Thanks to flexible API integration and other pre-build IBM tools, the Watson speech recognition service goes well beyond basic transcription. If you want to use it in a customer service context, for example, the Watson Assistant can be set up to process natural language questions directly or answer queries over the phone. Watson works with live ..."
+    excerpt: "But price, integration complexity, and somewhat patchy BETA features may put some businesses off. Watson is IBM’s natural-language-processing computer system. It powers the famous question-answering supercomputer as well as a series of AI-based enterprise products, including Watson Speech to Text. In our Watson Speech to Text review ..."
     publishedDateTime: 2020-04-06T10:24:00Z
-    webUrl: "https://www.techradar.com/sg/reviews/watson-speech-to-text-review"
+    webUrl: "https://www.techradar.com/nz/reviews/watson-speech-to-text-review"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 71
+    quality: 69
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg"
         width: 1200
         height: 712
 
-secured: "TYzFGpiJtEoc7zL+bU3R0jxHFw5dcUCAaxnK6ytuKwzyp0sAEMsO58hpwm+wGG2AZLz83ZONcmrPwoW/bZi8TAAbRJAbbsWf38qfYCu3YTTSZput60Vo7MDh0nA3Vj7BsqV0DGptbHw06zmY9LCUq84If/7MaHBVQOo6NDagrfPEtSpQ5JVxmG9kv3KAyoBaZ0cmG6/WcAe2aIzSpyNkQjwsZPciwzg6YSll97zgkQO43WxWx1SySUt2+oYB5+Qhr5+p+sebdbBIlZueaS2nuL2qHc6sD72sWB9VF/HVqAoXoBtnJfJK2e+msErmS6RA;FAY0ImoEo9mkjAfr95c+dQ=="
+secured: "4rGdmWnWQzYjHQA+OTG5mYL54n+ZJoWdk1/JvzF/ftqEi/gOnjChCY2gBDIS7r83oE80tFu4JyMtBn57xZ1cOx/gABvD6mNhn0R96qU0REi5fMt4CK+6EP5XW4qi4Xy7HLVXiGjVo/WksgTQY9ov9HLDxLcikr/beMLF2mXyrLjUqVaKPcW3tlcOe8cY8bmLVB6/7PcOM49azBK572FhzvZnTFL1jxHt+dySKk6C3kDrMa6rXFgW6ngQxM16xZIQ+6dNEpS8xsGepHvw6QGpGt9tVD9WRLg7UIfWw8mulZHcRAbkRvNqtNBXYdBP2fTC;fC6UP8H7zW7wtjZkrKLxBQ=="
 ---
 

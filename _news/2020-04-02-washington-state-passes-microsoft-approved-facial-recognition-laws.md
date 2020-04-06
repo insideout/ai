@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-mic
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/228182_web.jpg"
         width: 1440
         height: 698
-  - title: "Microsoft Applauds News Facial Recognition Laws"
-    excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
-    publishedDateTime: 2020-04-02T00:15:00Z
-    webUrl: "https://www.mediapost.com/publications/article/349333/microsoft-applauds-news-facial-recognition-laws.html"
-    type: article
-    provider:
-      name: MediaPost
-      domain: mediapost.com
-    quality: 19
 
 secured: "cwyRktYNKR55ZX2mEmoF/4jxYcBQ7XxGXgUnRS1GbSn317YHOQfXpG427LGxTPqJm38Orp7LFSDE5KxGMHElctJf1Yr66hWX9axD8IqZ90ndzcVV6jdXjFaqNvknAYY4b4F1o5WGf739ftAV25eZ8zFlTVNuhFNc+vweGspyA78KnADupXMSt9+HPPNxInCs+TICVwNsJjplCHwhrr3axeK74mDkIM9Sr1sfmTbdCaVCIubi+hqNQrkRT0MrfTQHgo+SkrCBoRhJhDpYmqrv7IedjL8brTI4/w/ZxGufSgUFbBpjtTkf6Jp9BuvrGIDK6+4szQXARvrBGSnuPNt4dMB/A0mHRVYODEJobc1i/6gdpOcU8WVObXWXAORId1VIx2vxScWWkTWQNTLBVg7ydo6NU7l/7wvxhR6rU1XxmG916I+T7rBOn0UYnErKR5lom/s0z3CVJitEaGTJs4p7IkS6wRvMC8+bmBKYyLhZpao=;o0VMKBqIvaloassTp8NvrA=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-cu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,23 @@ images:
     width: 1200
     height: 573
     title: "Microsoft’s AI recommends lockdown strategies to curb coronavirus"
+
+related:
+  - title: "MIT researchers use AI to turn the coronavirus into a haunting melody"
+    excerpt: "An AI system that turns the coronavirus‘ structure into music could help scientists spot details about COVID-19 that a microscope would miss. The AI-generated tune is an audible representation of the coronavirus’ “spike” proteins, which spread the infection by poking out of the virus and binding to human cells. These spikes make the ..."
+    publishedDateTime: 2020-04-06T17:15:00Z
+    webUrl: "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 87
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png"
+        width: 796
+        height: 417
 
 secured: "uutHeoN1MaESmb99t/BPfEV9q9mr6koYGM6QwgG++8/NbiaJ5XGJ0d7LpOFrEcAuOGqpz1GZ6I5fjHvex2QB4H4n2Zd2JomRwj3piiNFcvWbFLSGUH8YIVCXx/gLBEP4AY/iyL3x7TANPo9mDy0K9UDIUtrMoRA7S6l4z0OMxOM6lomO90IWWMjbjgMb2/xL0/C/RtadC4WyINuqUyD1w7BLjjPAD6Fyn8MKRS352lHv37yvpAbitmC8bOoID9zye2FBpr1I5+iJv3Ofr3j0Ni4fCUss/8OTcLbKtlR7QWGsevHLuLPvkoBwAER7JHOE;z3dMZZi9Sn17SdTgR1krcw=="
 ---

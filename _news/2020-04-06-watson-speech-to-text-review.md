@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Watson Speech to Text review"
-excerpt: "Thanks to flexible API integration and other pre-build IBM tools, the Watson speech recognition service goes well beyond basic transcription. If you want to use it in a customer service context, for example, the Watson Assistant can be set up to process natural language questions directly or answer queries over the phone. Watson works with live ..."
+excerpt: "But price, integration complexity, and somewhat patchy BETA features may put some businesses off. Watson is IBM’s natural-language-processing computer system. It powers the famous question-answering supercomputer as well as a series of AI-based enterprise products, including Watson Speech to Text. In our Watson Speech to Text review ..."
 publishedDateTime: 2020-04-06T10:24:00Z
-webUrl: "https://www.techradar.com/sg/reviews/watson-speech-to-text-review"
+webUrl: "https://www.techradar.com/nz/reviews/watson-speech-to-text-review"
 type: article
-quality: 71
-heat: 81
-published: true
+quality: 69
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -18,9 +18,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - IBM AI
+  - AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg"
@@ -30,19 +29,19 @@ images:
 
 related:
   - title: "Microsoft Azure Speech to Text review"
-    excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ..."
+    excerpt: "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ..."
     publishedDateTime: 2020-04-06T13:33:00Z
-    webUrl: "https://www.techradar.com/sg/reviews/microsoft-azure-speech-to-text-review"
+    webUrl: "https://www.techradar.com/uk/reviews/microsoft-azure-speech-to-text-review"
     type: article
     provider:
       name: TechRadar
       domain: techradar.com
-    quality: 54
+    quality: 84
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
         width: 1200
         height: 675
 
-secured: "swpo/y//Lwle9NAKX/Dr47gd+igBza1J++1i7gv91pqH3RZ8p0e1Yn5WNgUqAKK2mYo+16P+F+Di3/B6mMlTS1zTCBIHlPQeZvNDLVHf9Xm6azyuo/45GPaEM+y0DCik806MZ8xUtCegNYW1FHnHzfiZ666cy2Lvyy4DAyNeKg8/OzVs4W4AUNnfgp8Gcd2gA4xBMIQeP+nJ3Tz2Jq2QB/6G44KxTyCvanMc3PgwFWampBKsehP5rkOWPl3WhJe1Z5QGTUKGh09f5BPz2FGMJkBT27SXrIptsqwk9QclMVjBwxz9uL1u/uiLMn7YcS+aU+SgF8cfdYCueqt+egFVoJtF6HMsEG3AQOtukouI96Zz9zhOrYIHrXTpyrvxZ3sIsK9w2t8lRvbcVMhVWnSfvcwi0n3GA0SU9baGTXZZqMiFIlZqjY36rVwbGi/QWEgJejOuYJzWRNNOi5F7fHXn5l820Nh+nV6ZhyqmP+GTbP0=;OOyUQk29c5RZoVxSVk86rA=="
+secured: "pgu+nwkBCgcccDF2Bpgc0kJKBshZ2SVb+WY91Ao3RrBi/ynOBbyWr7XxXqJODkQvhXvjNFcIYMEech515S6uCymzs4qhC0rrZ8J0tpvjb6AJaLg0kZ9I9EON36C0sKKiEikyo35BuA8DLpPpDv1NHWPeiVjODxDBitXv10ItYAsbjedvzuba3lxRKdJAjN3AJ1ZjORY4671OQyXzBR8HR7zzJPdsw6yej4tCAFImkfuwnjIrQ5m7wYNRP2O/SMv30nivERz6kgRdVa4HQIqqQ83P4W4W/+fJSXjgDQ4DDtcbN/KJg8B0LQFv/j+Y0i3L;NqgNkmqGa6GMuXDhFF/tBQ=="
 ---
 
