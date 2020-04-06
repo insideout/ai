@@ -24,6 +24,6 @@ images:
     height: 630
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "7VJSeqSZDcMrfex6zUxWhH7m68RECOGa7t2vYhK5ze7utA/PibnhOwIPG9TB8zm6dddUD761lQ+WtQux7AVhPV4ubqNOmY21tcmZxu8n4PMY+cZmff9kvdjq63Od3rx1kt/oEKDpXR3miPG0tFKPCMh6tS89ADtsFUG2v8RmrRFfwDi7eK3IKVW236HObYbHOjH38mhVzdcCOLffdzgbC+JQCw+9H8IAaNO+Y3Xa8ZsOubdaLgpNbwclWa6dGNiaXrKsGGzNx42Ilg/RpzNyvrJQXNfidIlrz+oezzSe7hI3V16r1bchEn/dp1UTN7Bv;zKRrsVF880nvsnCeY1cQ9A=="
+secured: "VqSG+NB9+ujJ3+Xg74O3sM414hB4s8Wr5CvIAbg/DWoJZsrBctI0yxnpD+6TQaDZqHfMJLtuzF7Gee/l0rMYOSL2uQAMBNv962viJ79iNSnm5J4CfWFa21YuRuvhsSi1AyFQ6K38dPzH9xlxrujipqdtcTghdW2Nj0aCI1LBfyRTmvggJxGurvO5Ik57xmZGByt0ps+JrtwF7+4IVVSFkJPAqjBnWDfJAIgyc5rVsuSU81CqU0wRwqZcDsZe/eAQQVL+ErEtpg5T2ab5oO0/+hsLyCArTPf6IZ57H+erbed+M3f5NpIO6YNoSSsraK9e;GtAKcBtfCE62ru757gdIzg=="
 ---
 

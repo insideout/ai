@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/covid-19.jpg"
         width: 1200
         height: 939
-  - title: "ImmunityBio Combines Supercomputing Power With Microsoft Azure to Target Infection ‘Doorway’ of the Coronavirus"
-    excerpt: "Microsoft, collaborating with ImmunityBio’s engineers and scientists, quickly deployed a High Performance Compute cluster on Microsoft Azure cloud services. The cluster contains over 1,250 NVIDIA V100 Tensor Core high performance graphics processing units (GPUs) specifically designed for machine learning and other computationally intensive ..."
-    publishedDateTime: 2020-04-01T14:38:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/immunitybio-combines-supercomputing-power-with-microsoft-azure-to-target-infection-doorway-of-the-coronavirus/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 34
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/AMD-Epyc-web_800x-405x228.jpg"
-        width: 405
-        height: 228
 
 secured: "vk/nyvB1TNQ9jyB1a5q7W0MVo+i7YTtxuxh+Jngs607ZPH28Z6kqCT7kosHRN+VA/qef6tFVb6cIjZPsWLCdM40NtGxMU7sJ3XqwqRSI5TDKeqf/DaRilCmb5P7/WOS3rKgqwF9oYWZGLNnjV4poASaAz99A1MaSrdxPGNcbpylRbvxvTRWaioLgOCGRaLZMjT11pUBHffgsgpUX/6a+btluddKPGW2j9gRRVpXsm/QnRHZmpghN1B/XW0bb0PBh0izmh/Ulzh/NDYX0F9EAqMSNRrYItBsOJqSzuwAUOZX0tZiutdnppWcM8/ji3k9ffj5ixJd/OXp+J40Hv6kwXUA6L4ua2sC9ApR9R3+ETgqgLEW7azQ+5mqsazOdBPpapuqwUExZUHYQTEerTbN7hGij7pbXPkCAYUNHjCe3YFa4FE/BsX8fbkobWvOsFRNmTFtcrRuysXDIK2ZnO+nC7ZatJ+NvLpGZFzn55HDkCFU=;qab2IrzCxQyMLp0qg2cvoQ=="
 ---
