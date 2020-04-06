@@ -5,9 +5,9 @@ excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recog
 publishedDateTime: 2020-04-06T13:33:00Z
 webUrl: "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 86
+heat: 97
+published: true
 
 provider:
   name: TechRadar
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg"
@@ -42,6 +43,6 @@ related:
         width: 1200
         height: 712
 
-secured: "7zGl7R8GsHTtOmzQUpapo37g+GsK1bR1cmXYSOIGYA0oLc5VYNj0ntlkxGinTFJGKdju66FCo+07UkQFoM2702jo+8NQR8HjyP8ETWzWYhpbaiBxH1+KVyUVUY1uD8tjW8NoMNDQsMOyb7wGeQNsrEHkS1U3Yq+Oo346JkJwETSvVRigXXN++u3bhL0Wf8FkiNC9y9wvYPYaEPmyrgrJ3Ry7WHFlZFll5Omm93IHWXlLQ5rr3CFbjhalKu/9SKdDUGdA+3YT/u7x8Thvnb3dZLVixlj8fkA11Zv/+gkyUChVoNJRd/FlEpN68FwFSh19;IwJGH3AYMK6pVJ5YV4KHLQ=="
+secured: "4XAtTVao4RURAy1aU1PT1JvfkM9UmYr0a+FpWDqu15R9VEsyRHN0fLejOmmCBO905fnlgOGHHtP96eBI9ANhm4w8ct6S9XT1XTtGgnTOQ7SY5rsjllFZDBSyczgXOVfdSu8rmnRtZGclytBnv+Tkufi30b5kFCj6xru+lxd1uOBTQVsGLyFzc9QB7eXP0VOWWERPpcTS7n5nZBmYr/6ifRzfC2IRnKbnboFYqEbh4WkKytyvIGNsWTwMlzjMlIa0YiQb17h+GX8FfjIwBR8mMmrT5gdMmaJhCmzUZRnpolWzC6tiPkaK7Eo3rXbgIzGrEZbl3S2bIRofnoXA5taK8jXN+9kVhi5/A7ah1IcxgUg6KfNAHKy3cmaSIUv56Rnak2ylpB4AIh48eInu17z20apwG6v99t/yBuzzDxhSiJtlfMP6H1JwkfHrUdvYqFR7H+09VE38QWySk9cS6xbZypKhKvU3puOIM08SELIIsZw=;TkHTogSintoeNyXu5ny2PA=="
 ---
 

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Global Educational Robots Market, Forecast to 2025 - Widespread Adoption Teaching Robots, Digital Whiteboards and Flip Classrooms"
-excerpt: "The \"Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering."
+excerpt: "The \"Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added"
 publishedDateTime: 2020-04-06T10:00:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-educational-robots-market-forecast-to-2025---widespread-adoption-teaching-robots-digital-whiteboards/article_d32b3356-11c2-588c-85b1-0d032099229d.html"
+webUrl: "https://www.prnewswire.com/news-releases/global-educational-robots-market-forecast-to-2025---widespread-adoption-teaching-robots-digital-whiteboards-and-flip-classrooms-301035150.html"
 type: article
 quality: 10
 heat: 10
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     title: "Global Educational Robots Market, Forecast to 2025 - Widespread Adoption Teaching Robots, Digital Whiteboards and Flip Classrooms"
 
 related:
@@ -38,6 +38,6 @@ related:
         width: 600
         height: 315
 
-secured: "iTsLtmIB5xWoxmBzCW3n6E8/+P/wX2kOD2fje4yr3Mgg7Cn+vHOhITyiyo6ddRzIi26/nCoIqI8c2FbQp3jQfUV+7BFBYcdeFBT1glF3JNaf2Om4Rla/pX9lE+li+Eb24mDQUVq7EN5hdOnpNewxxehGAXYh8ECUbQ2uGial/DHVVZ2bqoUPp2Zcm/4aeVVCsuspnvK3kbq+Oc7olxr+FNajPNQLRxAIj0c/oFhWaVFtSNZ7a3EHADTFAssa3JVYdlo3mWMLhReRfFxCr0jcAxFtT8rMfQ7a40Hg5eQA89VLKbGH+8/SrPKO7nrVZiE4;BnHl95XkBopm5W2W06aW9g=="
+secured: "fY3jerlkQfeIACW/AQl1ChgSqMlOUjDqIDxIG+JUmnh//etGK/UoKMaB7xh4uFlSLmhdP0Rto9/FKJGb+jWIJgjfTsvaQSsTlweOdaPm7G14nssmrJAbS9fDpycme76XPj/kVPh17IjoPFEkyDeH/ysd79ANyEXoKIuJQ9/r5xclkj3NgcmwOty1IN88xEb191mFNR2JY8c23HoDOLhGD3A6XUne8iqNUaM0fw8A2JIDbB/aH2zQLjlYypzmbGOmj0Pt5UpXUSlcFX+p8KIuc8/kTRYEFsf7vXG15M1nCrJneHd2UAeMbf33y5QekpfZ;uUApALT8XZ3bTwN2Ad2AHw=="
 ---
 

@@ -2,6 +2,125 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
+      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+      "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in/article_db430520-912a-5b81-8dd6-2c00c7b1f532.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-aws-australia-returns-to-profit-after-posting-half-a-billion-revenue.md",
+      "title": "AWS Australia returns to profit after posting half a billion revenue",
+      "excerpt": "These included around cloud migration and modernisation, demand for contact centre technology and data analytics management and artificial intelligence. Last year, Migliorini spoke to ARN about AWS’ loss for 2018, saying the company had lowered its ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/article/671884/aws-australia-returns-profit-after-posting-half-billion-revenue/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T17:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/adam_beavis.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "AWS Australia returns to profit after posting half a billion revenue",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-the-10-best-free-online-artificial-intelligence-and-machine-learning-courses-for-2020.md",
+      "title": "The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020",
+      "excerpt": "Demand for people with artificial intelligence and machine learning skills has never been bigger. Demand clearly outstrips supply. If you want to boost your AI and ML skills, then these 10 free courses are a great place to start.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/16/the-10-best-free-artificial-intelligence-and-machine-learning-courses-for-2020/amp/",
+      "publishedDateTime": "2020-03-16T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6f204737d0440006bc84f6%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The 10 Best Free Online Artificial Intelligence And Machine Learning Courses For 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-rsip-vision-announces-breakthrough-ai-technology-for-3d-reconstruction-of-knees-from-x-ray-images.md",
       "title": "RSIP Vision Announces Breakthrough AI technology for 3D Reconstruction of Knees from X-ray Images",
       "excerpt": "and computer vision technology, announced today a new innovative AI-based solution for 3D Reconstruction of Knees from X-ray Images. This technology provides physicians with a rich 3D modelling of each bone,",
@@ -957,109 +1076,6 @@
           "width": 334,
           "height": 480,
           "title": "Of epidemics, artificial intelligence and responsive public policy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-westworld-premiere-doloress-road-to-revenge-crosses-paths-with-jesse-pinkman.md",
-      "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
-      "excerpt": "It’s slowly revealed, however, that Francis died and is now nothing more than artificial intelligence himself, a familiar character in Caleb’s ... There were several other intriguing technological achievements I could have selected here: driverless cars, those implants everyone seems to like, Dolores’s telescopic sunglasses, Dolores ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theringer.com/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "ampWebUrl": "https://www.theringer.com/platform/amp/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "cdnAmpWebUrl": "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "publishedDateTime": "2020-03-15T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ringer",
-        "domain": "theringer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/iiSAPg8mTmVPZ86oHhVnDgRRQDc=/0x0:1200x800/1400x1050/filters:focal(439x232:631x424):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66505019/westowrld_31_chin_hbo_ringer.0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit.md",
-      "title": "Behringer DeepMind 6 Polyphonic Analog Synthesizer CABLE KIT",
-      "excerpt": "***Please note, many of the products we sell are shipped in the manufacturer box. These boxes will often have images, model numbers, and other text that indicate the contents inside. UPS Ground Shipping Most orders are shipped within 1 business day via UPS ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/13643979-behringer-deepmind-6-polyphonic-analog-synthesizer-cable-kit",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-an-agreement-for-cancer-therapy.md",
-      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
-      "excerpt": "BEIJING and HONG KONG, CHINA, March 17, 2020 (9 AM Beijing time) - Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence company developing end-to-end drug discovery pipelines, announced today that they are entering a collaboration, applying artificial ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/im-btp031620.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/227125_web.jpg",
-          "width": 1440,
-          "height": 1440,
-          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
           "attribution": null
         }
       ],

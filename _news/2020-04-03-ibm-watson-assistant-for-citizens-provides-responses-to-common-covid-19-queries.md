@@ -27,86 +27,21 @@ images:
     title: "IBM Watson Assistant for Citizens provides responses to common COVID-19 queries"
 
 related:
-  - title: "IBM forms Watson Assistant for Citizens to handle COVID-19 queries"
-    excerpt: "The Watson suite is available free for at least 90 days and available via online and phone formats. According to IBM, wait times for COVID-19 related queries are exceeding two hours. The use of artificial intelligence via Watson may be able to speed up responses to common COVID-19 questions. As COVID-19 data sets become more accessible ..."
-    publishedDateTime: 2020-04-02T04:01:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/"
+  - title: "IBM makes AI tools and resources available to coronavirus researchers"
+    excerpt: "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ..."
+    publishedDateTime: 2020-04-03T17:11:00Z
+    webUrl: "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/"
+    ampWebUrl: "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 89
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/04/02/fa21d210-17be-4db8-938c-f2c60600464f/thumbnail/1200x675/3a5a416d0bb82d3169b994c176eb7a1e/img-4806.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all"
         width: 1200
-        height: 675
-  - title: "IBM offers ‘Watson Assistant for Citizens’ to quickly address covid-19 queries"
-    excerpt: "BENGALURU: IBM is offering its AI platform ‘Watson Assistant for Citizens’ free of cost for at least 90 days, which will provide reliable information on covid-19 related queries, it said Thursday. With a flood of information requests from citizens, waiting time in many areas to receive answers can exceed two hours, the company said."
-    publishedDateTime: 2020-04-02T13:40:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries-11585834443162.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
-        width: 600
-        height: 338
-  - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ..."
-    publishedDateTime: 2020-04-02T04:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15723362"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg"
-        width: 400
-        height: 309
-  - title: "IBM makes AI free for answering COVID-19 questions"
-    excerpt: "IBM will make its Watson artificial intelligence software available for free, so government agencies, businesses, universities and healthcare institutions can use intelligent bots to answer citizens' queries about the unfolding COVID-19 crisis. The software will be available for free for at least 90 days, meaning organisations can use it to ..."
-    publishedDateTime: 2020-04-02T04:04:00Z
-    webUrl: "https://www.afr.com/technology/ibm-makes-ai-free-for-answering-covid-19-questions-20200402-p54ggv"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.8962%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1%2C$y_89/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/afb0ba2ba18677b2470e40260c9ca917665d8f90"
-        width: 800
-        height: 450
-  - title: "IBM trains 'Watson Assistant for Citizens' to answer COVID-19 queries"
-    excerpt: "With misinformation about novel coronavirus posing a major threat in fight against the pandemic, technology giant IBM on Thursday said it has trained its Artificial intelligence-powered virtual agent 'Watson Assistant for Citizens' to answer common queries about COVID-19. 'Watson Assistant for Citizens' leverages currently available data from ..."
-    publishedDateTime: 2020-04-02T15:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200402/3532819.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
-  - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
-    excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
-    publishedDateTime: 2020-04-02T09:11:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-launches-watson-assistant-for-citizens-to-deliver-fast-accurate-covid-19-information/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/IBM-Launches-Watson-Assistant-For-Citizens-To-Deliver-Fast-Accurate-COVID-19-Information.jpg"
-        width: 1600
-        height: 1000
+        height: 600
 
 secured: "pc5YmcumuTiO3v7Jj2KscAEcjWONs181qvpxleEDu3Ie8tn19VbriOl7fH8EE3wZW3T6qKBCPafMgJ6oYPfCnwSsCiMopMSQ5JvJ8d2nHY/kLrLvQbkUf1edfKtmM0cIMcKOTmwI7FAvjY5uNw4UQZfCBTI8d5Y5scGgRhnrqXsea5Eaysiu8w67NEXv2URrqpzDrt7CXIusbJov7IjJ6527+UCMA/kn0/Mx4GFC4BZK+WZc6HXfCkkACtFcBo+r51K+sPDUTzLuHv6gZy2td+zWpcNx9jesP5gmHj+bYhLI/B7pXUWBef5gAnuDZuIc;PYG+ZrC95xG/Vz7uDejiRA=="
 ---

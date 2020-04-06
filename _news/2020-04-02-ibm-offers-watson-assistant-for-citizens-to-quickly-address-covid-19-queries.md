@@ -26,73 +26,66 @@ images:
     title: "IBM offers ‘Watson Assistant for Citizens’ to quickly address covid-19 queries"
 
 related:
-  - title: "IBM forms Watson Assistant for Citizens to handle COVID-19 queries"
-    excerpt: "The Watson suite is available free for at least 90 days and available via online and phone formats. According to IBM, wait times for COVID-19 related queries are exceeding two hours. The use of artificial intelligence via Watson may be able to speed up responses to common COVID-19 questions. As COVID-19 data sets become more accessible ..."
-    publishedDateTime: 2020-04-02T04:01:00Z
-    webUrl: "https://www.zdnet.com/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/"
+  - title: "IBM Watson can answer all your coronavirus questions"
+    excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
+    publishedDateTime: 2020-04-02T17:28:00Z
+    webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: TechRadar
+      domain: techradar.com
     quality: 89
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/04/02/fa21d210-17be-4db8-938c-f2c60600464f/thumbnail/1200x675/3a5a416d0bb82d3169b994c176eb7a1e/img-4806.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/DWGrTNnWhJtePd4QKjQJoY-1200-80.jpg"
         width: 1200
         height: 675
-  - title: "IBM Watson Assistant for Citizens provides responses to common COVID-19 queries"
-    excerpt: "Available for no charge for at least 90 days and available to our client’s citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
-    publishedDateTime: 2020-04-03T15:22:00Z
-    webUrl: "https://www.news-medical.net/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
+  - title: "IBM Watson will now answer all your coronavirus questions"
+    excerpt: "IBM is bundling up a few of its Artificial Intelligence (AI) services and offering them to governments, healthcare firms and other companies struggling to handle the large influx of coronavirus-related phone calls. According to ZDNet, IBM is combining Watson Assistant (a question-answering computer system), the company’s Natural Language ..."
+    publishedDateTime: 2020-04-02T12:30:00Z
+    webUrl: "https://www.itproportal.com/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
+    ampWebUrl: "https://www.itproportal.com/amp/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 59
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
-  - title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-    excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ..."
-    publishedDateTime: 2020-04-02T04:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15723362"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362"
+      - url: "https://cdn.mos.cms.futurecdn.net/p7JeT9ZfjkcqrRN5NTR6qg-1200-80.jpeg"
+        width: 970
+        height: 543
+  - title: "IBM Watson can now address all your coronavirus questions"
+    excerpt: "The service will be available on both the web and on smartphones and will use IBM Research’s natural language processing technology with Watson Discovery. While helping government agencies and healthcare institutions use AI to get critical information out to their citizens remains a high priority right now, the current environment has made it ..."
+    publishedDateTime: 2020-04-03T17:00:00Z
+    webUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/"
+    ampWebUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 52
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg"
-        width: 400
-        height: 309
-  - title: "IBM makes AI free for answering COVID-19 questions"
-    excerpt: "IBM will make its Watson artificial intelligence software available for free, so government agencies, businesses, universities and healthcare institutions can use intelligent bots to answer citizens' queries about the unfolding COVID-19 crisis. The software will be available for free for at least 90 days, meaning organisations can use it to ..."
-    publishedDateTime: 2020-04-02T04:04:00Z
-    webUrl: "https://www.afr.com/technology/ibm-makes-ai-free-for-answering-covid-19-questions-20200402-p54ggv"
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/IBM-Watson.png"
+        width: 1200
+        height: 800
+  - title: "Austin deploying IBM’s tech to share coronavirus info"
+    excerpt: "... is joining a handful of organizations that will begin using IBM's artificial intelligence-enabled virtual assistant service to provide information on the coronavirus pandemic. IBM says Austin will be one of 10 organizations using the company’s new service, Watson Assistant for Citizens, to help communicate information about COVID-19."
+    publishedDateTime: 2020-04-02T21:29:00Z
+    webUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info"
+    ampWebUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
     type: article
     provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 44
     images:
-      - url: "https://static.ffx.io/images/$zoom_0.8962%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_1%2C$y_89/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/afb0ba2ba18677b2470e40260c9ca917665d8f90"
-        width: 800
-        height: 450
-  - title: "IBM trains 'Watson Assistant for Citizens' to answer COVID-19 queries"
-    excerpt: "With misinformation about novel coronavirus posing a major threat in fight against the pandemic, technology giant IBM on Thursday said it has trained its Artificial intelligence-powered virtual agent 'Watson Assistant for Citizens' to answer common queries about COVID-19. 'Watson Assistant for Citizens' leverages currently available data from ..."
-    publishedDateTime: 2020-04-02T15:01:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20200402/3532819.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 34
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200402&Category=BUSINESS&ArtNo=200409737&Ref=AR"
+        width: 3000
+        height: 1917
   - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
     excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
     publishedDateTime: 2020-04-02T09:11:00Z

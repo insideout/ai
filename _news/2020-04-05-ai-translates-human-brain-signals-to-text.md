@@ -5,8 +5,8 @@ excerpt: "Now scientists are one step closer towards a computer interface driven
 publishedDateTime: 2020-04-05T23:17:00Z
 webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202004/ai-translates-human-brain-signals-text"
 type: article
-quality: 19
-heat: 19
+quality: 17
+heat: 17
 published: false
 
 provider:
@@ -14,9 +14,8 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - Natural Language Processing
   - AI
 
-secured: "kZkSMpfJUNYeu078OcAMzjXG1uuLx9OVJSi/mDPIhGsBY6Eeeb62uDeys7h5ywI/UdQHsCNGs7ISPwhPxjd4PhxHYNxNqxXrZKoDGChrtd7WnoIc8MPuIN/zcgnJyWCswp/BnhAqs7KTlXgbq2JrWuVg/IFZNtr855jzGcsPKqHGQzHodFlAqpbYg1Ukdd4VojPeWgLFfYaMPiYr2+GmA95FcvljfTWUG31cj0MZzDQMcXVmgPv0mqbNKTj3+BbOeGNMSiu/pHFF1K9xg0P5Q8KxvY+h4oAHJIPcOlOWIGr1ioAEvrO0eXpVrEjfeKVfHZ7dJZ0c/SmEjASKn4ozSBsKWv/IBvgBrxymvNMAtX7FBuvQTQRNBk1QGpexWcm3ftdB9mkvCStEDiF1xelR3Tfw+FumxyMpgDY0oNQMf/cYUS4fHLGCg42shLrmgyjQyk6RGcf09ZrQ9Ymsm2yNGSFaR3DQ3PcZUTdCfX3H4uo=;XSUJiAasc+r9VmQVbya0qg=="
+secured: "9ArPqw7kAvrF6c0JZWVsWzKunteNtK9MIhfZ9HROZodKbENRpG82F10cPsLX/gMV8+HPLjzWLlfjcE5ocTEJFZTM4U40Lp/39lgIRd8P1/T2Orn+N+4MCRh7JX0RHqO1au1XWYjEaZtg061tzw1CAdRI5T6libayH7fs6lfE0ACY3xqJQBvPk/0r2S6iTH80SRO8LYMd9YkI7o7MzZ65mttxMYr4e0oQ9N9ja02V7bgY2kIMR77QBJCaBHR/tRTPWeu2UsAbMN3gleWj6APA5RYLvr8/7eBytpaAmgf6f0qj+6kBl2aC+eVgi+axcGOrEiwFMT35dKfgSHs5qjkrLZyRCR7c0t6FCSLG+TJqkMi/ft8Hvo8GQtSoxy6FCbtJuL/yX9cb5Ne1E7+n0lyYvxCy3HMbKmEkMI+kogsxzodU6eohP/BuS1w3DMNBIsXOESbADvbHr1O7vWOEv+ycNNHFXl3dQVzpXtfuhE/3W/E=;yF+uDvK8UFHpMwQLM1hfhg=="
 ---
 

@@ -29,6 +29,6 @@ images:
     height: 600
     title: "IBM’s AI classifies seizures with 98.4% accuracy using EEG data"
 
-secured: "Ns/hvOqmiFIz5AWtiQWwYoPpwZmiE+4hIn0vNL0jVectcEzmK5Lnj1ENQ8g/cFCArfL7aGRa4i+zIDucDkKumLlyfCZeSo12CJoHyr2GsXzxIkIDTXr+d6zM/TQ68PrOvkxIPm/VmRzcBs88W19C8O7MnV2AG2k6Jg+bVAllfUfEcicOYGq+CEpdrbAXLQygi7H+VO16oqeXaYkSkt8N2IeB9OWqdprUpml85hVeSbez1/viuKDQwDQwNNLzDVojBp978Yue77Ryg1+PoKWS61mIZ6sLI073DaJxTp4u2HtadLU5ITIbuyrbkVs7+Snt;v+Pqi3LXLz3FXsDq2m5isg=="
+secured: "8LZntMdPrPkH2/ddGVJoklVCjb+k2BoJlZIsJq8rZBpyDDeiLV30HZ/o2kNGios9ccmge3yPvxaGEcUPZ3u1NvXkQ1NE/hbUh3IfPCvwupRSufi2w4d4OEjdcRCiD3B95ZE8n+i8RhHCv46FRGCkV5v5CBAV/feG/h2iMS8upHw6nHcET+zshFjgxrqh7YnUG9+uIOD8QJn1luhXXX9wh+GtR8AbDC+Wpr7Fkq4KkkyuNxTRJjka/A+iliBi0BYhdr+CDsxZ77baoMIMOEIGFeS1gpIQVn9HaocdLUkB0M7MKt7u3Bs1BwAGnlxL4qhJ+yFCzrSU/LIfk8QI9rffEfuhpRFdlnE1IRMoF4ewJUs6SXyGri1p4gs+n+061ZTEZuMBefetrLLu5Lba/6WbhX2FIDm8OBAIchAm7fHV+1rJUrmor8SSBVKm869bwF0z7YGwOV6rzMrRscsm3liVZrWDIcIdjh4EqSaJC6EIr4g=;wpSY3OGKwNimtQE8gr3kmw=="
 ---
 

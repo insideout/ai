@@ -7,8 +7,8 @@ webUrl: "https://www.engadget.com/nvidia-joins-covid-19-consortium-170757511.htm
 ampWebUrl: "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1"
@@ -52,6 +53,6 @@ related:
       domain: cambridgenetwork.co.uk
     quality: 13
 
-secured: "AFmKxVWdJM6uV5ZrC31dj7iLSZFb7MJ43U7lnPWT6h1kgZVFFtTQeBnsZwyBORQr7oQ79ZJ1FoTXwI+dDP1Vw7kgmhqLaZ9DZrawhDhRifV8l9085Dcb6C78zZ7YocARMab57SU4kNR8EBZRE4b8YT0Nwai/SRJcfXfQkbudOT5arMqU+2MdH2GlinfY8zFnuk8n1Tfa2TpVNnnU/p1SIw0meGLyvfGbL1gBh03KuACLN2RBEjqkaHEt7iLo9jyisQu8+8tynwSfji9WFgCvU+TUDWjhdLUShP7q6x/0/hx5fQo+vj0u//Daww+YymMl;BkvyQQU7ldqrB76piqUoug=="
+secured: "Dj+nDYN/KIGwFqhZcbJArjXdkqfE/Xiv+GJtJpJszDiu4nO/VBh4Hw2hc9e+Tatq+4V9oR2T4B2TuoTUCn3h0RctNZ9x97UQiyNlYatNJO2I5ty2JhjaBOtw6IddeDTPIj0dzPPYmHIcCJG3ORSGxEFSmRqGdnCoW1HKd2GFPG1k3Xz8DnOqebCjLNeuKpRAhx7PFTFF1ogjl/xXyPic4CzE9AEzKDQZIVmY+FPXokGX9EujcstycbiKrcIqW1zo6vaV/NS4glf8ND9D9lSqgk7Kb3GIr0rNnpGHXo2faDGlZR9ZXass30aY6MYeAdIPoqsgpEL9QmKnM6eNywgOFWK0KlKBm1+byUFSyXPbTS+9bw1bxzNS6VrDKkrxQ6j8kiM+VHrvQy4W3gWtEmbyxNvPHgkZsAYT3atYSLS3COAPjHDJCQoaSwzu3tD/NW27TROX7fFNawjm2p44yupMp/07HcZ8cUm1C64aFHVYsOU=;gl+M1o0mDMfvVclrGVITgQ=="
 ---
 

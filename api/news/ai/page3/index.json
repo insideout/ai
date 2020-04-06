@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-02-google-is-using-machine-learning-to-improve-the-quality-of-duo-calls.md",
+      "title": "Google is using machine learning to improve the quality of Duo calls",
+      "excerpt": "Google says that 99 percent of Duo calls experience packet loss: 20 percent of these lose over 3 percent of their audio, and 10 percent lose over 8 percent. That’s a lot of audio to replace. Every calling app has to deal with this packet loss somehow,",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
+      "publishedDateTime": "2020-04-02T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/bfUl1jN9kFr54TYBhItgUvp4C4Q=/0x0:800x600/1400x933/filters:focal(336x236:464x364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66593465/google_duo_logo_icon.0.png",
+          "width": 800,
+          "height": 600,
+          "title": "Google is using machine learning to improve the quality of Duo calls",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-how-ai-can-determine-which-coronavirus-patients-require-hospitalization.md",
       "title": "How AI can determine which coronavirus patients require hospitalization",
       "excerpt": "This is one area where artificial intelligence can help, experts at Jvion believe ... “Which patient could do well at home, and which patient is likely to not survive no matter what therapy is offered is one of the more difficult clinical challenges. AI can definitely help in this space.” Jvion’s AI will help identify uninfected ...",
@@ -803,6 +849,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
+      "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+      "excerpt": "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15723362",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362",
+      "publishedDateTime": "2020-04-01T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg",
+          "width": 400,
+          "height": 309,
+          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries.md",
       "title": "IBM forms Watson Assistant for Citizens to handle COVID-19 queries",
       "excerpt": "The Watson suite is available free for at least 90 days and available via online and phone formats. According to IBM, wait times for COVID-19 related queries are exceeding two hours. The use of artificial intelligence via Watson may be able to speed up responses to common COVID-19 questions. As COVID-19 data sets become more accessible ...",
@@ -1139,43 +1222,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-01-predictive-oncology-reports-2019-full-year-financial-results.md",
-      "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
-      "excerpt": "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Globe Newswire/447e5e17eb9b55a2c78f4e0aaea5fa81",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-deepminds-new-ai-can-beat-humans-at-57-atari-games.md",
       "title": "DeepMind’s new AI can beat humans at 57 Atari games",
       "excerpt": "Google subsidiary DeepMind has unveiled an AI called Agent57 that can beat the average human at 57 classic Atari games. The system achieved this feat using deep reinforcement learning, a machine learning technique that helps an AI improve its decisions by trying out different approaches and learning from its mistakes. DeepMind used the same ...",
@@ -1262,51 +1308,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection.md",
-      "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-      "excerpt": "In practical terms, the partnership between the two companies included a complement of 1,250 Nvidia V100 Tensor Core GPUs designed for use in machine learning applications from a Microsoft Azure cluster, working with ImmunityBio’s existing 320 GPU cluster that is tuned specifically to molecular modeling work. The results of the collaboration ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "publishedDateTime": "2020-04-01T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/covid-19-spike-protein.png?w=1024",
-          "width": 1024,
-          "height": 561,
-          "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
