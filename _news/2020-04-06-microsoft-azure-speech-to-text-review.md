@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Microsoft Azure Speech to Text review"
-excerpt: "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ..."
+excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ..."
 publishedDateTime: 2020-04-06T13:33:00Z
-webUrl: "https://www.techradar.com/uk/reviews/microsoft-azure-speech-to-text-review"
+webUrl: "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review"
 type: article
-quality: 84
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
   name: TechRadar
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
 
 images:
@@ -42,6 +42,6 @@ related:
         width: 1200
         height: 712
 
-secured: "4rGdmWnWQzYjHQA+OTG5mYL54n+ZJoWdk1/JvzF/ftqEi/gOnjChCY2gBDIS7r83oE80tFu4JyMtBn57xZ1cOx/gABvD6mNhn0R96qU0REi5fMt4CK+6EP5XW4qi4Xy7HLVXiGjVo/WksgTQY9ov9HLDxLcikr/beMLF2mXyrLjUqVaKPcW3tlcOe8cY8bmLVB6/7PcOM49azBK572FhzvZnTFL1jxHt+dySKk6C3kDrMa6rXFgW6ngQxM16xZIQ+6dNEpS8xsGepHvw6QGpGt9tVD9WRLg7UIfWw8mulZHcRAbkRvNqtNBXYdBP2fTC;fC6UP8H7zW7wtjZkrKLxBQ=="
+secured: "7zGl7R8GsHTtOmzQUpapo37g+GsK1bR1cmXYSOIGYA0oLc5VYNj0ntlkxGinTFJGKdju66FCo+07UkQFoM2702jo+8NQR8HjyP8ETWzWYhpbaiBxH1+KVyUVUY1uD8tjW8NoMNDQsMOyb7wGeQNsrEHkS1U3Yq+Oo346JkJwETSvVRigXXN++u3bhL0Wf8FkiNC9y9wvYPYaEPmyrgrJ3Ry7WHFlZFll5Omm93IHWXlLQ5rr3CFbjhalKu/9SKdDUGdA+3YT/u7x8Thvnb3dZLVixlj8fkA11Zv/+gkyUChVoNJRd/FlEpN68FwFSh19;IwJGH3AYMK6pVJ5YV4KHLQ=="
 ---
 

@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
-      "title": "Microsoft Azure Speech to Text review",
-      "excerpt": "The key Azure Speech to Text feature is the access it grants to Microsoft’s powerful natural language processing system. Over the past few years, Microsoft’s speech AI has reached several important milestones. This means it can now complete tasks that were previously impossible for a speech recognition service, such as accurately ...",
-      "heat": 94,
+      "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
+      "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
+      "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
+      "heat": 89,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/uk/reviews/microsoft-azure-speech-to-text-review",
+      "webUrl": "https://www.fastcompany.com/90485120/microsofts-cto-wants-to-spread-big-techs-wealth-to-the-heartland",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T06:33:00-07:00",
+      "publishedDateTime": "2020-04-06T11:06:36-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Azure Speech to Text review",
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-american-dream-kevin-scott.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
           "attribution": null
         }
       ],
@@ -42,8 +42,8 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

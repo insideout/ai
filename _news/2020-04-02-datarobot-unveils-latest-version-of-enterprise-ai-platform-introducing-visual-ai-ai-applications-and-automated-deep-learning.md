@@ -39,19 +39,6 @@ related:
       - url: "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/8bdf463f-c2ea-4817-a2d1-569423f2a4f0/resize/1200x/69d9245c4ab3efbf45d8121d63f5ffd9/human-robot-team-performed-a-meal-preparation-task-in-a-simulated-kitchen-environment.png"
         width: 1200
         height: 914
-  - title: "Teaching Robots Workplace Etiquette"
-    excerpt: "In such cases any human-robot interaction (HRI) will be superficial. Yet what if humans and robots have to work alongside each other? This is a question which a group of students at MIT’s Computer Science and Artificial Intelligence Lab (CSAIL) have recently studied some answers to. In their paper on human-robot collaborative tasks (PDF ..."
-    publishedDateTime: 2020-04-02T02:07:00Z
-    webUrl: "https://hackaday.com/2020/04/01/teaching-robots-workplace-etiquette/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 39
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/04/robot-etiquette-featured.jpg"
-        width: 800
-        height: 450
 
 secured: "TkPsj0uistouyQh1wwGvwneeJc27UMz2pHPLJdwKonbpRQOkG2/s0c5rf6MwG69n3282UxSaWGm3FndpnnpJ4S0JYlUWS6xotRCko8SNpS85V+CUfbNlfFGZ3/xhUfpNKXZQYRcPq7tgTswlnbyMq6RKes9oEWHmaWlrJuU3KAS3PfXcN+/3ykZ9PnPLR8gD3M33f4V5w98UwI2ojba9Pc1I+nHJ9QZEmZtd3bxy1iGAWiFi0Gwv3TQwvOW+agbLzC/L0b3KQlpjkmeT0edmwKWJ5J/EwGjZT5qN6mxAarxnzTGzR/x5AawgCb5XsPZH;CJZYQ1zWte5y1tPLj+vsVA=="
 ---
