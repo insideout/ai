@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-03-blackbirdai-ceo-covid-19-is-the-olympics-of-disinformation.md",
+      "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
+      "excerpt": "According to a new report from Blackbird.AI, a wide range of actors are leveraging confusion around the coronavirus to dupe people into amplifying false and misleading information. With COVID-19’s almost unprecedented impact around the globe, virtually every type of player in the disinformation wars, from nations to private actors ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
+      "publishedDateTime": "2020-04-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/blackbird.png?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators.md",
       "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
       "excerpt": "Computer scientists from the University of Copenhagen are using AI to calculate which coronavirus patients need ventilators and intensive care. The system will help doctors identify the symptoms that seriously ill patients have in common. Hospitals could use the insights provided by the AI to work how many patients will need a ventilator at ...",
@@ -1059,51 +1103,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-robots-are-learning-workplace-etiquette-at-mit.md",
-      "title": "Robots are learning workplace etiquette at MIT",
-      "excerpt": "While humans learn workplace etiquette on the job, it's of course, a much different value proposition for robots. The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL).",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
-      "publishedDateTime": "2020-04-02T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/8bdf463f-c2ea-4817-a2d1-569423f2a4f0/resize/1200x/69d9245c4ab3efbf45d8121d63f5ffd9/human-robot-team-performed-a-meal-preparation-task-in-a-simulated-kitchen-environment.png",
-          "width": 1200,
-          "height": 914,
-          "title": "Robots are learning workplace etiquette at MIT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

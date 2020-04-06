@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
+      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "publishedDateTime": "2020-04-05T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-172689/social",
+          "width": 1280,
+          "height": 640,
+          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-rd-roundup-ultrasoundai-medical-imaging-assistive-exoskeletons-and-neural-weather-modeling.md",
       "title": "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling",
       "excerpt": "Another approach from Stanford applies deep learning techniques to ultrasound imagery and shows that an AI agent can recognize the parts of the heart and record the efficiency with which it is moving blood with accuracy comparable to experts. As with other medical imagery AIs, this isn’t about replacing a doctor but augmenting them ...",
@@ -1038,50 +1083,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-blackbirdai-ceo-covid-19-is-the-olympics-of-disinformation.md",
-      "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
-      "excerpt": "According to a new report from Blackbird.AI, a wide range of actors are leveraging confusion around the coronavirus to dupe people into amplifying false and misleading information. With COVID-19’s almost unprecedented impact around the globe, virtually every type of player in the disinformation wars, from nations to private actors ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
-      "publishedDateTime": "2020-04-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/blackbird.png?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-31-huawei-execs-response-to-the-us-limiting-tsmc-chip-supply.md",
+      "title": "Huawei exec’s response to the US limiting TSMC chip supply",
+      "excerpt": "In other words, this will limit the Chinese tech giant’s global chip supply which is integral to its operations since it has its own ... Editor’s Pick: Xiaomi rolls out MIUI 11.0.16.0 Stable Update for Mi 10 Pro in China, Adds AI 8K video recording Xu Zhijun read the report from Reuters and People’s Daily and thinks it endangers the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
+      "publishedDateTime": "2020-03-31T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/05/huawei-logo.jpg",
+          "width": 4122,
+          "height": 2825,
+          "title": "Huawei exec’s response to the US limiting TSMC chip supply",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-how-ai-helped-dominos-improve-pizza-delivery.md",
       "title": "How AI helped Domino’s improve pizza delivery",
       "excerpt": "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ...",
@@ -132,6 +177,43 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
+      "title": "How artificial intelligence will reshape the contact centre in 2020",
+      "excerpt": "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will allow organisations ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg",
+          "width": 350,
+          "height": 420,
+          "title": "How artificial intelligence will reshape the contact centre in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1011,96 +1093,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
-      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
-      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
-      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
-      "publishedDateTime": "2020-03-30T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 482,
-          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data.md",
-      "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
-      "excerpt": "The recent success of deep learning is the result of the marriage of big data and GPUs, significantly increasing the breadth and depth of the data used for training computers and reducing the time required for training deep learning algorithms.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
-      "publishedDateTime": "2020-03-30T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ea66a958e13498c8aaf2f2ad7a2d9d5%2F0x0.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -2,18 +2,16 @@
 category: news
 title: "Photorealistic Simulation Engine Used to Train Driverless Cars Before They Hit the Road"
 excerpt: "A simulation system invented at MIT to train driverless cars creates a photorealistic world with infinite steering ... a PhD student in the Computer Science and Artificial Intelligence Laboratory (CSAIL). “In our simulation, however, control systems can experience those situations, learn for themselves to recover from them, and remain robust ..."
-publishedDateTime: 2020-04-05T14:41:00Z
-webUrl: "https://scitechdaily.com/photorealistic-simulation-engine-used-to-train-driverless-cars-before-they-hit-the-road/"
-ampWebUrl: "https://scitechdaily.com/photorealistic-simulation-engine-used-to-train-driverless-cars-before-they-hit-the-road/amp/"
-cdnAmpWebUrl: "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/photorealistic-simulation-engine-used-to-train-driverless-cars-before-they-hit-the-road/amp/"
+publishedDateTime: 2020-04-05T18:07:00Z
+webUrl: "https://infosurhoy.com/technology/photorealistic-simulation-engine-used-to-train-driverless-cars-before-they-hit-the-road/"
 type: article
-quality: 66
-heat: 66
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: SciTech Daily
-  domain: scitechdaily.com
+  name: InfoSur Hoy
+  domain: infosurhoy.com
 
 topics:
   - AI in Autos
@@ -25,6 +23,6 @@ images:
     height: 486
     title: "Photorealistic Simulation Engine Used to Train Driverless Cars Before They Hit the Road"
 
-secured: "b7cLgGT6l1omMbBE7WI0cPamxJQPSJqUfgAMFTBz2IUjjhXd8HBOMS8StPGmCymemq11P0gYITfFnbfFpZxqagLBWoW+8AD0OHdxCBuVXSv6JqI0dZgk5SRtV8V3UZ+GIDwAp7WZq0h1SXZFgqcjVFIQcn8DyZim808qOGH4SDlg1p+AURtL4N5zSvyaYnfM1ELmHv0TRu8WLWElJllYwIXRtRCvcq6y4O2tXJPjzhHHvR6LchyPZzSi6B49P1gcJv2Wb8J94i4JCS0mPUWu4MmBMn7ds4pmY/L2yl/Ux7Ul25g/OfSylPjuEWzdGxPxQGJWOTjWAkkuJ6SZRRmCi7fmLexCwGvTClz9N7QUncsIEVhvU/9O1fcLEKXKDt22dVkeuQGh1+XdqGPjKUCXWHm0430JB8oevfMCvFr1xJhl+x+I7DAtPCVNGs8jNVw1flqtge2HvVxlT3/zxl/OnPB+Cz5ZNUdRyb0rC+rsbHk=;1H2gFOIzH3NBxLrKKid5Dw=="
+secured: "6p5KGgpZALLSpiRBVHx/oAT8FGULqBq3qcQ6TOZTzbRiGjziPwtC6yCMzr3ugEfbqczTsHxiqkxjFc2l5sSAiJ+4ZEN7FsjftHwq4HbSGBcEPIfwxo+utKeYEyRr36ni+brR7IHaooVQAf2wqhWlEdXv7bAFWXfBAg5d2XPDSRabWvEvSlHe+CN4LyEgjmMVpun/syk0QHGmSRQ55DNrY/EJW3Wh3xwUqn0Akei61j9OjgLYp0CELfVDlIMOAbHp+Pi75dTPi2dtcoFF81HllXQyo1GoOVfWfdkMpx79/yg5mUgcOE7Rbl2yLcglSjN/;LM6XE4UiTglDYijJFc6EPA=="
 ---
 

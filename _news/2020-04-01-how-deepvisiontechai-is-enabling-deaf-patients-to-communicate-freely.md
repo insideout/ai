@@ -24,19 +24,6 @@ images:
     title: "How DeepVisionTech.AI Is Enabling Deaf Patients To Communicate Freely"
 
 related:
-  - title: "How DeepTechVision.AI Startup Is Enabling Hearing Impaired People To Communicate Freely"
-    excerpt: "2) Generative Adversarial Networks (GANs) for speech/text to sign language translation and synthetic voice creation. 3) Natural Language Processing (NLP) to form sentences post interpretation of sign language signs. The solution is device-agnostic meaning it can be used across smartphone, tablet, laptop, PC, TV, Raspberry Pi, etc. The coolest ..."
-    publishedDateTime: 2020-04-01T09:32:00Z
-    webUrl: "https://analyticsindiamag.com/how-deeptechvision-ai-startup-is-enabling-hearing-impaired-people-to-communicate-freely/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 31
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/DeepTechVision-LetsTalkSign.jpg"
-        width: 854
-        height: 726
   - title: "India-based Startup DeepVisionTech.AI Empowers The Deaf To Communicate Freely Using LetsTalkSign"
     excerpt: "Also Read Top 5 AI-Based Document Processing Platforms LetsTalkSign converts sign language ... for video/image recognition to identify sign language signs/gestures Generative Adversarial Networks (GANs) for speech/text to sign language translation and synthetic voice creation; Natural Language Processing (NLP) to form sentences post ..."
     publishedDateTime: 2020-04-03T12:20:00Z

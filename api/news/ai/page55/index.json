@@ -2,6 +2,96 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-02-03-tesla-is-holding-a-super-fun-ai-partyhackathon-at-elon-musks-house.md",
+      "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
+      "excerpt": "Tesla has been known to have a presence at some AI conferences and throw parties to ... also looking for world-class chip designers to join our team, based in both Palo Alto & Austin.",
+      "heat": 219,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/",
+      "ampWebUrl": "https://electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/02/03/tesla-ai-party-hackathon-elon-house/amp/",
+      "publishedDateTime": "2020-02-03T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/07/elon-musk-nga-2017.png?w=1600",
+          "width": 1600,
+          "height": 803,
+          "title": "Tesla is holding a ‘super fun AI party/hackathon’ at Elon Musk’s house",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis.md",
+      "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
+      "excerpt": "The Leading Distributor of Market Research Reports, DeepResearchReports.com published latest report on \"Global Artificial Intelligence (AI) in Fintech Industry Report\". Artificial Intelligence (AI) in Fintech Market segment by Application.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-future-development-trends-revenue-and-key-manufacturers-analysis-2020-02-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Fintech Market: Future Development, Trends, Revenue and Key Manufacturers Analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-ai-formulated-medicine-to-be-tested-on-humans-for-the-first-time.md",
       "title": "AI-formulated medicine to be tested on humans for the first time",
       "excerpt": "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ...",
@@ -1157,94 +1247,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-would-you-take-a-drug-discovered-by-artificial-intelligence.md",
-      "title": "Would you take a drug discovered by artificial intelligence?",
-      "excerpt": "The British startup Exscientia claims it has developed the first medication created using artificial intelligence that will be clinically tested on humans. The medication, which is meant to treat ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vox.com/2020/1/31/21117102/artificial-intelligence-drug-discovery-exscientia",
-      "ampWebUrl": "https://www.vox.com/platform/amp/2020/1/31/21117102/artificial-intelligence-drug-discovery-exscientia",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/2020/1/31/21117102/artificial-intelligence-drug-discovery-exscientia",
-      "publishedDateTime": "2020-01-31T12:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Ml3lr_eBTr7k4NJZKXPuatuUN2g=/0x0:3629x2419/1400x1050/filters:focal(1525x920:2105x1500):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66228929/GettyImages_464555598.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": "Would you take a drug discovered by artificial intelligence?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation.md",
-      "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-      "excerpt": "Sequence-to-sequence AI models, which were introduced by Google in 2014, aim to map fixed-length input (usually text) with a fixed-length output where the length of the input and output might differ. They’re used in text-generating tasks including summarization, grammatical error correction, and sentence fusion, and recent architectural ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/31/google-open-sources-lasertagger-an-ai-model-that-speeds-up-text-generation/amp/",
-      "publishedDateTime": "2020-01-31T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google open-sources LaserTagger, an AI model that speeds up text generation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-02-robots-are-learning-workplace-etiquette-at-mit.md",
+      "title": "Robots are learning workplace etiquette at MIT",
+      "excerpt": "While humans learn workplace etiquette on the job, it's of course, a much different value proposition for robots. The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL).",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/robots-are-learning-workplace-etiquette-at-mit/",
+      "publishedDateTime": "2020-04-02T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/8bdf463f-c2ea-4817-a2d1-569423f2a4f0/resize/1200x/69d9245c4ab3efbf45d8121d63f5ffd9/human-robot-team-performed-a-meal-preparation-task-in-a-simulated-kitchen-environment.png",
+          "width": 1200,
+          "height": 914,
+          "title": "Robots are learning workplace etiquette at MIT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
       "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
       "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
@@ -1045,50 +1090,6 @@
           "width": 1200,
           "height": 573,
           "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
-      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "publishedDateTime": "2020-04-01T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
           "attribution": null
         }
       ],

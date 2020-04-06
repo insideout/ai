@@ -2,6 +2,96 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-01-06-blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter.md",
+      "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+      "excerpt": "Additionally, the platform will integrate the BlackBerry QNX operating system and over-the-air software update services with AWS IoT cloud services for secure connectivity and telematics, Amazon SageMaker for developing machine learning models and AWS IoT edge services for in-vehicle machine learning inference. Senior vice president and co-head ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "ampWebUrl": "https://www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/blackberry-and-aws-team-up-to-make-smart-vehicles-even-smarter",
+      "publishedDateTime": "2020-01-06T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/2mY8X5N3SSLuWtVUUnBDre-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "BlackBerry and AWS team up to make smart vehicles even smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-microsoft-research-proposes-face-swapping-ai-and-face-forgery-detector.md",
+      "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
+      "excerpt": "In a pair of academic papers published by teams at Microsoft Research and Peking University ... In June 2019, a report revealed that a spy used an AI-generated profile picture to fool contacts in LinkedIn. And just last December, Facebook discovered hundreds of accounts with profile photos of fake faces synthesized using AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/06/microsoft-researchers-propose-face-swapping-ai-and-face-forgery-detector/amp/",
+      "publishedDateTime": "2020-01-06T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/3b33aff6-35d5-414f-bb88-adb09af8b7a6-e1578332008715.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft Research proposes face-swapping AI and face forgery detector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-06-3-steps-to-implement-ethics-in-ai-for-competitive-advantage-in-2020.md",
       "title": "3 steps to implement ethics in AI for competitive advantage in 2020",
       "excerpt": "Every major company and government deploying AI at scale has publicly declared some form of statement on ethics in AI and articulated a set of guiding principles. In fact, Harvard’s Berkman ...",
@@ -1184,96 +1274,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.md",
-      "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
-      "excerpt": "Google-owned DeepMind has already used AI to read eye scans and spot neck cancer. Artificial Intelligence (AI) powered by Google's DeepMind algorithm may be more accurate at spotting breast cancer ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/02/googles-deepmind-ai-beats-doctors-in-breast-cancer-screening-trial.html",
-      "publishedDateTime": "2020-01-02T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105309601-1530639231576gettyimages-906007030.jpeg?v=1531154587",
-          "width": 5121,
-          "height": 3416,
-          "title": "Google's DeepMind A.I. beats doctors in breast cancer screening trial",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-02-artificial-neural-networks-for-blockchain-a-primer.md",
-      "title": "Artificial Neural Networks For Blockchain: A Primer",
-      "excerpt": "Artificial intelligence -- and especially neural networks -- poses a solution to these problems by using them in a new, energy-saving protocol called proof of artificial intelligence (PoAI).",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/02/artificial-neural-networks-for-blockchain-a-primer/amp/",
-      "publishedDateTime": "2020-01-02T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-7.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Neural Networks For Blockchain: A Primer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

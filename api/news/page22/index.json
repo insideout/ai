@@ -2,6 +2,80 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-17-ai-machine-learning-could-put-cell-sites-to-sleep-and-slash-energy-costs.md",
+      "title": "AI, machine learning could put cell sites to sleep (and slash energy costs)",
+      "excerpt": "And these new features incorporate tools like artificial intelligence (AI) and machine learning. In a new Ericsson white paper called \"Breaking the Energy Curve,\" the company said that machine learning can be used to make certain network features more autonomous. Two of those features, MIMO Sleep Mode and Cell Sleep Mode, are using machine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.lightreading.com/ai-automation/ai-machine-learning-could-put-cell-sites-to-sleep-(and-slash-energy-costs)/d/d-id/758249",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Light Reading",
+        "domain": "lightreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025.md",
+      "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
+      "excerpt": "Global Artificial Intelligence in the Healthcare Market was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Market is further estimated to grow at a CAGR of 48.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-03-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025.md",
       "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
       "excerpt": "Market Overview The Global Edge AI Hardware Market is anticipated to witness a CAGR of 20.3% over the forecast period 2020 - 2025. During 2018 it is estimated that about 212 million edge AI hardware was shipped and the figure is expected to reach a billion units by 2020.",
@@ -914,80 +988,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-machine-learning-technique-sharpens-prediction-of-materials-mechanical-properties.md",
-      "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-      "excerpt": "Scientists at Nanyang Technological University, Singapore (NTU Singapore), Massachusetts Institute of Technology (MIT), and Brown University have developed new approaches that significantly improve the accuracy of an important material testing technique by harnessing the power of machine learning. Nano-indentation - the process of poking a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ntu-mlt031320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T14:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226983_web.jpg",
-          "width": 720,
-          "height": 405,
-          "title": "Machine learning technique sharpens prediction of material's mechanical properties",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
-      "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-      "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fedscoop.com/coronavirus-database-natural-language-processing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fedscoop.com/wp-content/uploads/2020/03/GettyImages-1204793213.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
