@@ -52,19 +52,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png"
         width: 1920
         height: 1080
-  - title: "Microsoft Praises Washington State Stance on Facial Recognition"
-    excerpt: "Microsoft has been asking governments to regulate facial recognition for the past two years. One U.S. state is finally listening. “Washington Governor Jay Inslee has signed landmark facial recognition legislation that the state legislature passed on March 12,” Microsoft president Brad Smith writes in one of the software giant’s corporate ..."
-    publishedDateTime: 2020-04-01T12:06:00Z
-    webUrl: "https://www.thurrott.com/microsoft/233956/microsoft-praises-washington-state-stance-on-facial-recognition"
-    type: article
-    provider:
-      name: Thurrott
-      domain: thurrott.com
-    quality: 54
-    images:
-      - url: "https://www.thurrott.com/wp-content/uploads/sites/2/2020/04/facial-recognition.jpg"
-        width: 1066
-        height: 600
   - title: "New Facial Recognition Policy Signed Into Law In Washington State"
     excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
     publishedDateTime: 2020-04-01T17:16:00Z
@@ -76,19 +63,6 @@ related:
       name: pymnts.com
       domain: pymnts.com
     quality: 39
-  - title: "Washington Governor Signed Landmark Facial Recognition Law"
-    excerpt: "Washington Governor Jay Inslee has recently signed landmark facial recognition legislation. This initiative is going to be the first US state law that ultimately limits the use of facial recognition technology by law enforcement. On the contrary, the civil rights activists said the measure did not go far enough to protect marginalised groups."
-    publishedDateTime: 2020-04-01T11:03:00Z
-    webUrl: "https://analyticsindiamag.com/washington-governor-signed-landmark-facial-recognition-law/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/Washington-Governor-Signed-Landmark-Facial-Recognition-Law.jpeg"
-        width: 880
-        height: 501
   - title: "Microsoft Applauds News Facial Recognition Laws"
     excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
     publishedDateTime: 2020-04-02T00:15:00Z

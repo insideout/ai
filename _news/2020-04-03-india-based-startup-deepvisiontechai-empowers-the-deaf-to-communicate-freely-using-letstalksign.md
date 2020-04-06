@@ -24,15 +24,15 @@ images:
     title: "India-based Startup DeepVisionTech.AI Empowers The Deaf To Communicate Freely Using LetsTalkSign"
 
 related:
-  - title: "How DeepVisionTech.AI Is Enabling Deaf Patients To Communicate Freely"
+  - title: "India-based Startup DeepVisionTech.AI Empowers The Deaf To Communicate Freely With LetsTalkSign"
     excerpt: "Also Read Startup of the Week: Delhi AI startup Nube Technologies consolidates business data through machine ... 2) Generative Adversarial Networks (GANs) for speech/text to sign language translation and synthetic voice creation. 3) Natural Language Processing (NLP) to form sentences post interpretation of sign language signs."
-    publishedDateTime: 2020-04-01T11:10:00Z
+    publishedDateTime: 2020-04-02T08:17:00Z
     webUrl: "https://analyticsindiamag.com/deepvisiontech-ai-startup/"
     type: article
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 39
+    quality: 27
     images:
       - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/DeepTechVision-LetsTalkSign.jpg"
         width: 854

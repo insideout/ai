@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.ht
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html"
 type: article
 quality: 104
-heat: 124
+heat: 104
 published: true
 
 provider:
@@ -28,36 +28,6 @@ images:
     width: 600
     height: 350
     title: "Alphabet’s DeepMind AI is better than you at Atari games"
-
-related:
-  - title: "DeepMind’s Agent57 AI agent can best human players across a suite of 57 Atari games"
-    excerpt: "DeepMind’s agents have tackled board game Go, as well as real-time strategy video game StarCraft. But the Alphabet company’s most recent feat is Agent57, a learning agent that can beat the average human on each of 57 Atari games with a wide range of difficulty, characteristics and gameplay styles. Being better than humans at 57 Atari games ..."
-    publishedDateTime: 2020-04-01T12:52:00Z
-    webUrl: "https://techcrunch.com/2020/04/01/deepminds-agent57-ai-agent-can-best-human-players-across-a-suite-of-57-atari-games/"
-    ampWebUrl: "https://techcrunch.com/2020/04/01/deepminds-agent57-ai-agent-can-best-human-players-across-a-suite-of-57-atari-games/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/deepminds-agent57-ai-agent-can-best-human-players-across-a-suite-of-57-atari-games/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 98
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/unnamed.jpg?w=1024"
-        width: 1024
-        height: 450
-  - title: "DeepMind’s AI can now play all 57 Atari games—but it’s still not versatile enough"
-    excerpt: "Developed by DeepMind, Agent57 uses the same deep reinforcement learning algorithm to achieve superhuman levels of play even in games that previous AIs have struggled with. Being able to learn 57 different tasks makes Agent57 more versatile than previous game-playing AIs. What’s in a game? Games are a great way to test AIs. They provide a ..."
-    publishedDateTime: 2020-04-01T11:30:00Z
-    webUrl: "https://www.technologyreview.com/f/615429/deepminds-ai-57-atari-games-but-its-still-not-versatile-enough/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 49
-    images:
-      - url: "https://cdn.technologyreview.com/i/images/7519728240fed5371d53k.jpg?sw=1200&cx=0&cy=119&cw=2048&ch=1152"
-        width: 1200
-        height: 675
 
 secured: "oRzKAFaVrz+YEy84ywCP8U2wdGhRIkR+XNfr0Yzq2+668WcBPHH8XNuMtk3ymwCf1yEfIriBVPCjkUIFXvJtPnu489f+8OGmkUFumT5l9fCg0DGUIrsn/DJByMC9i0A4Im19Awtn8eAPFJd2Bf16x88UIzT2YJZozW+y5ni69ijUqk139zq8EduLHYP2tTOqjj2hrian83+gSrBDh88W7BYu3IxAY/Q4CZsD277zncpoqmatAqvUDK1/t6MlPqdM2pG8Eo3SOEv97ptZsLOmtdorOwySTJofxCFIjxix61yRLCRIftFBVkExVEHLEgQRiZ4yuymGX/GywjfX5saooGAwj2m6wYPfYlIndA4pZOPzBdYVUIBwOBqG7oxvvEsPX6moL7akCa3HpJRHUr6zLhgaL8oIyLsJz031Vg4OhsOJOLliF/Oz/0ap4G1/k3FQBYnxGOm/hDnNwx1gHLpun2HzDGMPu/VEv7LfA6JwFo4=;nhzSbJ3PJ55PP9F4aCJ3hg=="
 ---

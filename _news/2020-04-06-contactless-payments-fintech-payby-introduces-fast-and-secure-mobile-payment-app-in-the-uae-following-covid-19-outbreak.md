@@ -25,6 +25,6 @@ images:
     height: 222
     title: "Contactless Payments: Fintech PayBy Introduces Fast and Secure Mobile Payment App in the UAE, Following COVID-19 Outbreak"
 
-secured: "UkcjNf3kMatlfdGG7FEUwgal/vYFlMMm0cq+vaq9f76ruvMmC70xPIOmh1cSRZtY+lbxvHFqfjsNoYA74IUPEWIODz9oJOKn7/mtc1wMI+AW2CnbleTO/02MfQ486E7d9vYgRIWCC7BpVI+bCJ153/PHB3Oc+kMlP1m+G2swnbcq90zY+Hc7Sh0CcjbABG80NynrCSw+Nyc0HjbQPzoese5H+0IeD8oFSUxvTP9BNzrxbgwAAbD3uonoVMJz2l9RHLZVfe4ofpIrFZL0JFmeqectQmq3FFS4dh2DlTU9Ow+4gKr+XQ2F4LF58z6tEs3J;tyAVRSSqFiibEwQ2/ZDTeg=="
+secured: "6la4ybHejXsjwsVN3nJWDLaKYauBrAIW6P/2Y2qljyBLIe0X7fRNS+zLemSKYM3zteXZfpOaTNJFnlMu/tVxviL88Ri5JuGuMDQX0nE4VDWkfufpBr87D7Z5TmSKhrgsmY02t0RysQ/GnEiZy/4bUqFgtrqQRDrqG4/yoZzpt11Jef1+XcJce5Ka+3VNH+neW9JH9gXOcnd4Os49fEUE4ejCVLKct2yHJ0bQDKXGpmA3tB8dpCLwuVX/I5JrdB96p4ZK9Vaz5ZV9oBgrFeLcUdhnuq6Uc8/6ezYskCHrw6jxnInkwM2E+WTK9QVfDF4/vm0yYNPZ5SGk7YWkMMWGtufqlG3SRTNCQtYbn8rzRHChpTrU8Rv8h5kKqhr4sUD2Ad5U6o/I/N8gPlqUW8FFATRL5kS6ivi15T9sqxAgaLvpFbjeVEQdCLMPQodoDs/DJnrnwsSa4MP53BPNyB0Aplgyjo4Npq4HYwERF9xB8p4=;iaSvtSczLJ8mDzPaSc4Ujw=="
 ---
 
