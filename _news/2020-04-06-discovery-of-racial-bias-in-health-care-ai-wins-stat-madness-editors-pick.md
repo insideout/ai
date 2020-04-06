@@ -23,6 +23,6 @@ images:
     height: 576
     title: "Discovery of racial bias in health care AI wins STAT Madness ‘Editors’ Pick’"
 
-secured: "ofRdRIoE6gRcYQIDybV812/rBmXYWbtXM3Xm23ux7ejYMpB/PimX4t9eX7+9hhceftmWSgzEWjPOezfith69uF8i/oN8JIHrBqodggmtUaBW6CPr1khW0E5/BU5QyX4ZYnenJCa38akRgjfQ0BJjmuKlvUPLoMxC2mhDMgD4CAY3wDZL+eQLjMG+I+f04f/jsQ1Lw6uGUnIj/zQCYNEKMKm6VfxJlAjYnT/H/1GIR5p3bcExxxHWXHJhL2Z2Gd6muk9iB1a+iQherriNsFXcX/OpY2HmE0Yy9JJIILqXcAp3Q5Nz2kHFuIhdlgnq6xBz;4gHPrmb7IzfryIfq/xirPg=="
+secured: "crYRCJZKjMpN3twlgwkOFgDz6FCNN/chBn/dTPAhs4sw4jGyClyI+2xAAhwB1AevXrqrIQAdAohoHjoFY3ExJVI/PC0/5G8sQa11f386KuUxxyRA2zWt9K7EcjeTqjEI1/3VLoMx0IUV9nZkq1JVjtOshZRjHPBxkkAJBZw4wKNPZU2Lhj9hNglywvMb63XsR3ufVyOqHiCh5uQwV2eP+OEBux3BecY9FIXmS7se7ipF+9snLc0omFAeoHu7gAO+mh7VF2dgPvenLm7LU0U72jR/YMfOEAkz7UC0zlPBuX+sjJibzccINsKqIJYIcgrPqdu6Dbm2pykXiP8q+92dtZtEI3OY4bslSuLhW+pKXS0YKobjeIvNw8cN3SmrLXB9w3b+rXsBC55BflBeaklgU6baJH44MpSoo9RryBA51TJqvnh0luMq/We6K5aHJ1bDcdk9JRYEm1Zj764ViJiIYfEwI06fx9FAirg5SLb5iCo=;dA7M+USIDL7X5267o8d3hg=="
 ---
 

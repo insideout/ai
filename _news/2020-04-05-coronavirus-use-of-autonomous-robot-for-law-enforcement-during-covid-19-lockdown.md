@@ -19,6 +19,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "Autonomous & Self-Driving Car News"
+    excerpt: "Waymo has halted its entire fleet of self-driving cars due to the Caronavirus outbreak including those without human backup drivers. Aptiv and Hyundai Motor Group announced they have completed the formation of their 50/50 autonomous driving joint venture aimed at advancing the companies’ shared vision of making mobility more safe, green ..."
+    publishedDateTime: 2020-04-06T01:57:00Z
+    webUrl: "https://www.autoconnectedcar.com/2020/04/autonomous-self-driving-car-news/"
+    type: article
+    provider:
+      name: autoconnectedcar.com
+      domain: autoconnectedcar.com
+    quality: 4
+
 secured: "TJOfcIA5QYi6L4AJNvGkvPkSO1amlQEUgtcXJWKNW6qxFlpULpmatkXen0c292W5c3PueSEtialzZVFuxGC1PaXMhLdQ10X8MKbuw2g9waBdcdt9w3vxa2UmnP7kSv12EDZv5F5+1l1vutfKkJ2fjwenR0BrnUMPksaOVLM5zGh4AqM+i/ktXDPJA/1UvgN3vBiQIBw/H6e7BbVo1RGSrSSKBfiYncgFysFIsVmBPKXQ5n3Iv5gejZ1ji/x8PzUjqleAhluYLm3s7450q0cgjJEoQMkjr+DZpogTzwzWpMvbJF9358Pb/cQRlpagyWtXRWTAQwqu0FZ7BxYwfOfVpOdKeatfY9ow7Mu4qxZLgwJpKbaqtIU3XMrbZKHbQaHCjlQWSFHwuy2LvrryyqszdYkY115BsHOV98UVSiYJHmV/RqOjdTkriG9Ti5B8l9QDe75PTUOWgJfVafDpBTo8hkpn2boJboZALFLJ4kzNX2M=;Un39IbwGbnO+PFB0g1RwkA=="
 ---
 

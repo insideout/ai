@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcmag.com/news/apple-snatches-ai-startup-to-smarten-siri
 cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/apple-snatches-ai-startup-to-smarten-siri?amp=true"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     title: "Apple Snatches AI Startup to Smarten Siri"
 
 related:
+  - title: "Apple Buys AI Voice Assistant Startup To Make Siri Smarter"
+    excerpt: "Before co-founding the company, Cahill spent 15 years studying speech technology and neural networks. The startup created a voice recognition platform powered by natural language and search capabilities. Aside from headquarters in Dublin, the startup also had offices in Edinburgh and Boston. The Voysis platform utilizes WaveNets, which have ..."
+    publishedDateTime: 2020-04-06T10:37:00Z
+    webUrl: "https://www.pymnts.com/apple/2020/apple-buys-ai-voice-assistant-startup-to-make-siri-smarter/"
+    ampWebUrl: "https://www.pymnts.com/apple/2020/apple-buys-ai-voice-assistant-startup-to-make-siri-smarter/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-buys-ai-voice-assistant-startup-to-make-siri-smarter/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
   - title: "Apple acquires AI startup to make Siri better"
     excerpt: "Apple has acquired Dublin-based startup Voysis, a conversational artificial intelligence (AI) platform that enables third parties to integrate high quality voice and natural language capabilities into their products. The Cupertino-based tech giant is expected to use Voysis' technology to improve its virtual assistant Siri and the financial ..."
     publishedDateTime: 2020-04-05T05:42:00Z

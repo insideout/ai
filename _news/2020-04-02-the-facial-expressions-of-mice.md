@@ -52,17 +52,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png"
         width: 1920
         height: 1080
-  - title: "New Facial Recognition Policy Signed Into Law In Washington State"
-    excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
-    publishedDateTime: 2020-04-01T17:16:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
   - title: "Microsoft Applauds News Facial Recognition Laws"
     excerpt: "Microsoft President Brad Smith is applauding Washington state’s new facial recognition laws, GeekWire reports. “The new law requires public agencies to regularly report on their use of facial recognition technology and test the software for fairness and accuracy,” it writes. “Law enforcement agencies must obtain a warrant before using ..."
     publishedDateTime: 2020-04-02T00:15:00Z

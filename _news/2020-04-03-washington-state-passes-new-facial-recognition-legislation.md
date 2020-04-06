@@ -43,17 +43,6 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png"
         width: 796
         height: 417
-  - title: "New Facial Recognition Policy Signed Into Law In Washington State"
-    excerpt: "Washington State Governor Jay Inslee signed a bill on Tuesday (March 31) establishing specific rules – backed by Microsoft – governing facial recognition software, according to a blog by Bill Smith, president of Microsoft. “This legislation represents a significant breakthrough – the first time a state or nation has passed a new law ..."
-    publishedDateTime: 2020-04-01T17:16:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2020/facial-recognition-policy-signed-into-law-washington-state/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 39
   - title: "The facial expressions of mice"
     excerpt: "\"With our automated face recognition system, we can now measure the intensity and nature of an emotion on a timescale of milliseconds and compare it to the neuronal activity in relevant brain areas.\" One such brain area is the insular cortex, which is associated with emotional behavior and the perception of emotions in animals and humans."
     publishedDateTime: 2020-04-02T18:22:00Z

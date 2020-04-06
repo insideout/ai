@@ -38,6 +38,17 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05I7zWUEgab2mvbAzO1x3cC-2.fit_lim.size_1200x630.v_1586015093.png"
         width: 1120
         height: 630
+  - title: "Apple Buys AI Voice Assistant Startup To Make Siri Smarter"
+    excerpt: "Before co-founding the company, Cahill spent 15 years studying speech technology and neural networks. The startup created a voice recognition platform powered by natural language and search capabilities. Aside from headquarters in Dublin, the startup also had offices in Edinburgh and Boston. The Voysis platform utilizes WaveNets, which have ..."
+    publishedDateTime: 2020-04-06T10:37:00Z
+    webUrl: "https://www.pymnts.com/apple/2020/apple-buys-ai-voice-assistant-startup-to-make-siri-smarter/"
+    ampWebUrl: "https://www.pymnts.com/apple/2020/apple-buys-ai-voice-assistant-startup-to-make-siri-smarter/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/apple/2020/apple-buys-ai-voice-assistant-startup-to-make-siri-smarter/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 39
 
 secured: "ZEL/ZIuTX8EJR+CI3HkKgIRzV5jlY+0Vv5PadxkbsGZn0O8LChEKnZH0imsPpsuvoSe2M8tFREsxDkjG0xoXukqNVr1q/yozJz/5plOj/YrVoW6eVQ0lMrQ08lF0eEAOYB5KGPxuZ8cFzXBbASUFGVspD97+et+60hT5QK1KcQs2/kxPCq3J5uq1LqYrV1Ndj4O0MNELaYhR/w07J2jR7V+7hvh4ZAJKsqep4yEpROadLNBY822pFiLYL4CnwxRvqLOZLk8RrNVSs0oHKUHENo0PKm0NeOribCGUp4w9K59+E0W4Fe3w8o9REynkYM6iDLHpOKYCf5wECJhTheYD96JZYxqalwdm/eVUpXCrtBDkxXeGMQvw6G+Id1EhprU39+qN5obDTd2sHnDeX8nYs6JTGpDOmcIPFYDpV/R/so7vVIln/U3jvRzS4aiUxfL6iLELYZ3U5fl3Y7Nx1wCIpCw7JXNsmh3u81n8sYoPHQE=;tswa4jniibObeS7jibf2aw=="
 ---
