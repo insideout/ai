@@ -183,6 +183,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-02-bosch-video-management-system-joins-ranks-of-platesmart-alpr-integrations.md",
+      "title": "Bosch Video Management System Joins Ranks of PlateSmart ALPR Integrations",
+      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
       "title": "Washington state passes Microsoft-approved facial recognition laws",
       "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
@@ -1256,43 +1285,6 @@
           "width": 800,
           "height": 450,
           "title": "How to ride the third wave of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-how-embedded-vision-and-ai-can-reduce-manufacturers-costs.md",
-      "title": "How embedded vision and AI can reduce manufacturers’ costs",
-      "excerpt": "Embedding the camera and processing onto a single device allows manufacturers to sneak embedded vision into places where computer vision technology would never fit. Image processing is more accessible and can deliver savings to total system costs. Within embedded vision systems, pre-processing and advanced processing correction tasks quickly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/how-embedded-vision-and-ai-can-reduce-manufacturers-costs/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T00:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cfemedia1.wpengine.com/wp-content/uploads/2019/07/ctlx_icon_MachineVision_Slider_01-3.jpg",
-          "width": 485,
-          "height": 260,
-          "title": "How embedded vision and AI can reduce manufacturers’ costs",
           "attribution": null
         }
       ],

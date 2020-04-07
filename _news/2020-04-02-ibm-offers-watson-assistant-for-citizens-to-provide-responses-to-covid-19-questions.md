@@ -14,6 +14,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "1GnGF2BPgooNgf4C7WO2ngr7RtLDwMDc5FbogTKJ1SrHC+zfC6Lz2h8Md3jovyg0kTYECSTXa0awy6T5qa+HYJD6wT7PTpzEXKW2prpTgFGHuLZHdf9KJ1uYv5v6tJXLE9bT+GJngZscPtnBIPyfVhhWUZ7+hwQWE10/gJCu3ucVnXZB0CdA1s0qr0yDyhr8mhi3LETS6hWOSOtJjh5GSstE0WGd4OR3ZFePoyfIJptoM5vHmtA8NoLuMY2/DsWX0Skz2wwiBWzsgsTEn/eKQRgi1KhzFaSrokr4pGzR/4Zj3dr/JdMDROjf5lobSnul;bC8wgVvzhn06ZKHEeGsXdQ=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/c7/cc790e5c-84b8-5824-8dd0-7e714abf632c/5e856a9af191d.image.jpg?resize=400%2C309"
+    width: 400
+    height: 309
+    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
+
+secured: "J2FiCqf5DDaw9yqMTeZ78tNcaHxlKtqRxTgrXFu+q6DNVqlWwIgiHiNNSD3KYeaGXJVp6gsz/OQa9ifB0adWqh3zPcWksRJB85iDhuUJn9HS8GUAEyx0qLS0X5wfYVA/YsxuyrFM3eh6dQMpR0vZnl1ow+gTkfVZ9O9NO+l3PNvzwGT3BqF50YD2BTX+Qzc7OXxE9KlF74QOLSV3sm0YISBGoZ10sPBe0fXUy+z/HkPQB17lNMxNFUYtoNskF5TpIOIevXdUUTqVIB7jRDODKd8p3iGawb+jJUiojKD5WKIGLJnAPIQ/ERJ1yPk0Vu/s;9LgzncR0LFTK/s2k8OLFHA=="
 ---
 

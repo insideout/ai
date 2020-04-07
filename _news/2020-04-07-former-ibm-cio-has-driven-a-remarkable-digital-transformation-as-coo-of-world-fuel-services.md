@@ -29,6 +29,6 @@ images:
     height: 617
     title: "Former IBM CIO Has Driven A Remarkable Digital Transformation As COO Of World Fuel Services"
 
-secured: "M9K6vRkj/qHytNy+zpgdnRh/3Kben9wKSjFHzdPXm7TZpgCZewIlQOI61RW7KZv6DVOJs8j3Lur8HG/vyCrGtvzhIgLsYdYg4IUReKxJS8R9jxjARqu3nsDvMJpjmWeBx/Ns+Huwj/aCRKxj32lfes5cJnIV04y8fLEJp0H7Ijunl26ujMG/RSQrYrUCloSX3kP/EiYpBsxV86UzXg/9ioHz9C0h7faQ83luBb6e1j23ARKkq6GXjedC0HChSbCXKYeX+Y/2wmLYqLjMgq5u6sbg4GU0vBfj/V+fN5adeHf1Gra0TRktwrO5VEIzm8Fi;gVacoO1pTVi83FsnNa2F+A=="
+secured: "gS2xumfEo7uIZZtAkW0O7dwbFxJzItc0Cf6ZToX0pyRhr7CJpb/0rhS/hkywY6n2mE804EDb5LtEIIwG3bj9l+x+WxvrBraIk0p+GYFXUK8dxP6z7M8KXqfU19IrOa8QmukcZBJJGaZjggXe2OKHS0NAoNyafkWyiijeWlLnTgLpIAyqkCKRI1IA52p/XJOSCV3bXGxeaYa7XJz59On50ymfdE0VSte+PoQHr8AICV+sDoiUupYYL/6unI77PfaOZbg4uEY6NyrvWw1Wax9wOo1rpD8R84uiNa8e2Ngt2sm0nwCYvb1pL7wSw7ZA/8z7Xv4DESiTvmt6pEF8RVAm4zEHlU1zGeWyy/gVTh0a9seqIL97TTNP4ja5LxrSCz/a+C0JMso8MJs/Plps3cuYVuhtKQRoPPD43nHBGUGNeFJQy7a+rGZLnLdug4uukd+xl+bhIxJOxVEoIh2lcD8rCelef491GV3GvBtxHSnbdOU=;24L1SYzbKhNvm6y20pbaSg=="
 ---
 
