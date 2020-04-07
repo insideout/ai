@@ -55,19 +55,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 35
-  - title: "Artificial intelligence to predict corona-patients' risk of needing ventilators"
-    excerpt: "Many different factors come into play, some yet to be fully understood by doctors . As such, computer scientists at the University of Copenhagen are now developing computer models based on artificial intelligence that calculate the risk of an individual patient's need for a ventilator or intensive care. The new initiative is being conducted in ..."
-    publishedDateTime: 2020-04-02T19:47:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uoc-ait040220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
 secured: "+f/7sie3gbr3Be8iHHcC1306M5hmeGios2hyi3In+y8axECzsyXNTbu96T0eNxCI6n031DWw6veUzdgZ1U9lRyikl6NkIznbrLmqCjpK28xUkWevJjmvsLLTrc1csp5ah+XAMExsoPEGCuTmQK/muYrxpCLIttZ0LRzq+oSzHEpgHFcamnRIcErwhtDR72TnC3ez8Sie0DyIpqJ/TKx9ql6VKuZT7dm9bZPjVmXE7iMwIYhfiiX5HSfW3AiLnlNjlgAgcirWBRo4686AECw3KTdO6QgHw4y5svRwFZfmL0LG8tJG+XbnipFzxyIk5qmhWbs2u7WrzOMSKJWP/6dWchitVU4mNFX5YwLkYaw8R6Obbi+4oolotB34E0/t2J55wxUEbae7DtWFfVcejpRaem+NGB61nYRC8DgXf+NTZZQfWmdjbwPUqxNTmqnmxk5jGwxGIaw5oNp5DPsWx+vD/I0KwH/ENO4M59pMKWw/RFg=;TxW4cUq1dhOAi27LTODVeQ=="
 ---

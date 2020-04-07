@@ -8,7 +8,7 @@ ampWebUrl: "https://www.windowscentral.com/high-market-interest-brings-azure-kin
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/high-market-interest-brings-azure-kinect-dk-japan-germany-and-uk?amp"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 800
     height: 400
     title: "High market interest brings the Azure Kinect DK to Japan, Germany, and the UK"
-
-related:
-  - title: "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK"
-    excerpt: "At MWC 2019, Microsoft first announced Azure Kinect, a connected depth camera that enables organizations to build AI vision solutions. Azure Kinect features best in class depth sensor, high definition 4K camera and a microphone array (7 mics). In July 2019, Microsoft announced the general availability of Azure Kinect in the US and China."
-    publishedDateTime: 2020-04-02T20:00:00Z
-    webUrl: "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 84
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/02/Azure-Kinect-1.jpg"
-        width: 1080
-        height: 608
 
 secured: "ghHxxKwwGU45ZXhEB9D+9FLWb6mZ29ppyo6/oxAMnh5p0V0v2G+3IfNOt1RtukVSY5m2abv2x5Q8FWIXf9semuM8EbWmSTkJGeSZ2JqieoJ9pdKIhANSiyTkdFWJIdC2+J+BFKzsxpv3J+kxvEaQA0fl6PFUPZ2vyEPNjUoYWSih89MPsfjxNKD/il5krmJ831G/u+UVudvFZQlNzIXpEKDXRJdBQVyohNMS6Q6PrSGF6DS0BQw2H6p69qPxv5iI0uu18YGKx9GS8PyAv5Y4+m1/avgotCxE77gFwQI6ehj7H1iBqkifwHzOH8502iak5PVyNidBxH1nsPwO4nUm11DjqzQlAq1VsP9aBztXEXCqJ7UvJZkUoE1tFbyeYIfNMuYQXtdjct9p6dfVcIDFfypx6DYOXaAfHwRUW3xrEwJX9mcM9Ru7fk72gx6SPHp3NldaqTwZ321RTEqS5gtMqATM0KOLBKtONZAOtfCyA1k=;g/f7QSS0crci3PXsfhV92A=="
 ---

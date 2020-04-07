@@ -5,8 +5,8 @@ excerpt: "Like many AI startups, Tenstorrent draws a comparison between its arch
 publishedDateTime: 2020-04-06T15:39:00Z
 webUrl: "https://www.eejournal.com/article/tenstorrent-takes-ai-by-storm/"
 type: article
-quality: 19
-heat: 19
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,7 +16,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
-secured: "MMrml69BoPh2Ot0mlSCLVBnUiUw8ual9bBlof4M9WN074ilHvRd6ncHSYwCkItRvQ6JAAudh7SO0/VfuwIgUkl4Q2O+1vKgFfFYiq//mqUQVGQoIvXLpXvxBR6L0/GHbu3j4A0J4ecKCp1DHwlIbz+iwFHIiXuhNpKQ3LH3mxV7n58n2dE1SyWcM5x9aN3PJipJouzQWXdauZdkG4aZ1Kh2RO7rYMC4PmKayCCMKS8SBmHLd6PaGT8WE2PmPeiwFH40F0vl6Wg8AQLCCjbfe0+tbSicJpYJF8XpnuS4bqcmwLdmAgsXHMNCoA5/jK8flpa2y85YoY6j3ztkfYjLaXfaViSvXsSzBEZHOiyaIbO6/vOX8NtwZxhfrjs4LXkdMMIWUVW3XYOi3rG8lobhlfjrLc6pM/E3nk/I/E6W7tfmYb4pIioDs1I1ZqZLx8yzzfucieRFIRK4IzESryzwM3t/YG357vTNmrC9OIanirbA=;tLqFwuJzrb9ehe+A6u2LKA=="
+images:
+  - url: "https://www.eejournal.com/wp-content/uploads/2020/04/iStock-1145585734.jpg"
+    width: 1000
+    height: 1000
+    title: "Tenstorrent Takes AI by Storm"
+
+secured: "ZD/FwBszUpnL1/SyMQgTl2yE5rh44AzWyES5Rg2Sxb1A/o1HTq+VDdwRmiCUUd3UY7wrMVV6GtBxj8k2PeOSmlqDeepBCc3S8gVCPVaVLmV+BS3HnzCY6Uv8FOJYPtNHr8yB/d6OBLFz6JLqL/G/yfYbgLCIM7RdLmGpBJfHoaG52Knu2d0LfUnTQ6YGTTtFjVWDrZL3dIWPs2aYgDtoqa2lUKh5bkKwAp8XMlgaXzwulXrejbsL9I55uir6uOvemEni1f14ZcGy6VtfEJTp0Pn71gIaHKMl6B/4xkXChaqCr9bfRq8Nkj/2luBsLxKF;9pTsuAMtsHMxvZ13qlFozQ=="
 ---
 

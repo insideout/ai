@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -55,19 +55,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 35
-  - title: "Artificial intelligence to predict corona-patients' risk of needing ventilators"
-    excerpt: "Many different factors come into play, some yet to be fully understood by doctors . As such, computer scientists at the University of Copenhagen are now developing computer models based on artificial intelligence that calculate the risk of an individual patient's need for a ventilator or intensive care. The new initiative is being conducted in ..."
-    publishedDateTime: 2020-04-02T19:47:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uoc-ait040220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 33
-    images:
-      - url: "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg"
-        width: 900
-        height: 300
 
 secured: "3GF/9xVuIi3F5RnmqSu1hKR+wHPz34z8YV0X1USuQSb6c62gJYlSMFvISJyFF9SydGrlhrwb2MLqZNKNAAyVWYks/bB7KSp8JFm1oJb90IVwTNOMjhl2lYb2FhnOPk0nbTCA+aQE7NBrdRohdw+LQwmnHQaxoZ6H9//Q2HdzACmfL2BZKQ23b2IQRLORW360JJJf3nHXvTFVjd87m55BtNjj4qVM/w33M0rrAoL748LyceHgxKYHvuK0yvIDmE0L0R/a4bJxWWHlZjJTgpcavBz4svlJTIgo/CiKufvbG8agVAym/SUiH3t+hWYjxTqzpKMo2n3GVcwywv54t8t7rgfHjXd1OwSrp6izSmLPMqYn21ZMNWqzKP++h7u9uKe3WL72Ob9F0K3QogA88BQpm9yC4egdmOuWL63D0+WDQOJYZtKVsT2QUzuSbS9ySXOyVPH8xKMHvtzMm121xTE9BMbqMAG4Aj+VjInM8FqRoAo=;Jt2K3ANCNasQukoj3ylP2A=="
 ---

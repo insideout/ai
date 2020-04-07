@@ -5,8 +5,8 @@ excerpt: "London, April 07, 2020 (GLOBE NEWSWIRE) -- According to a new market r
 publishedDateTime: 2020-04-07T10:05:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027---exclusive-report-by-meticulous-researchr-2020-04-07"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

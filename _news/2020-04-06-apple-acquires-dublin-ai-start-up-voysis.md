@@ -53,6 +53,19 @@ related:
       - url: "https://www.ilounge.com/wp-content/uploads/2020/04/Siri-1024x510.png"
         width: 1024
         height: 510
+  - title: "Apple acquires AI speech recognition startup Voysis"
+    excerpt: "This time, the Cupertino giant is picking up Ireland-based AI startup Voysis. Voysis works specifically in the speech recognition domain, and develops tech that makes its easier for digital voice assistants to understand a user’s natural language. No details are available on the acquisition, with Apple issuing its usual statement."
+    publishedDateTime: 2020-04-05T07:01:00Z
+    webUrl: "https://thetechportal.com/2020/04/05/apple-ai-speech-recognition-voysis-acquisition/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 54
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2020/03/apple-store-new-the-tech-portal.jpg"
+        width: 1561
+        height: 881
 
 secured: "54G3C4DMkCDqIRz9X22hCuHvMZe9b/YmPYZpCnl46qsnsAPiViyNYh/42hJp+fYoHNDEkphOWIEIqZzLvPLrW9lilKFk/nD1l7VWUOUQD6JqkHSZLbn1KJutDouVRefQPaaTl61KQOqKshGgbIbfhylwwWqvJ0pT9SdmhbniCtScacnYdmAPhNUJ4SFpLmgjX92LbdGo46RgdC6dIxeO8ajDlZda4w7/d0i6wandnjYDZdDEpuHmxVijqs+d5ioJZkNW2+wmV6A87ycDl377o87lLFRdctAqVbU8w6yjNfXPZ2wmrEumu/9NvvaM9Z9rabpbLToTKWVdmip6E1prOmaGv8OGaOesxFteApfzXoDAj8GhFaKIvSN8s+CDDXJHdgZ6NYva+5jJH1VsLFSe9tBb1RpQgWqWUAFBWs2QcNei4sFDnQ4vx8YnxK7cCB2D3ZZzp1g1KZ2kzlIlx2GmhPFdw6CHYYalYwFj973oMjg=;h7w4lHz3tP7MZST0sVX6DA=="
 ---

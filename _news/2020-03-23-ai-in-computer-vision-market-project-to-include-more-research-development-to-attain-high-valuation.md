@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation"
-excerpt: "Mar 23, 2020 (Heraldkeepers) -- AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand for computer vision applications such as autonomous cars, robotics has masked revenue hike in the AI in computer vision market. On this, Market Research Future published a report that reveals that ..."
+excerpt: "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand"
 publishedDateTime: 2020-03-23T16:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation"
 
-secured: "RIfAtreccT30WUsAl78nc8o4vxglTmmt6XolXUboh14nEzEaUwmlqqor/DQgy+TW8LBu4bDz5cdibb2hren8R9nJ7J8Fb7PFH3gztKhY4aBip4w9IgAJmciBwViK1x//pr7mt9d0+mhqHZrrIKP7EMOGTWsbb+VxIiisxq+X1Bh2Ph4BoE2OG/wvthuZAUlepGNBpmQDi1+GF7LvzFTc7PJbBdV8fE+mSIDc/ty45qEqNnF49r14qNWy+qdPjvxJt5Xfg1xCOJfWj3HMcY61EBdkU6Vu9csm/rzs6jRnaIzD0rPZpOYq0eQabpoz3PUy;M+6i3HvGyE+Fj241cLWU2w=="
+secured: "o6uRecuaD1s26/fWKvxK6Wyc1M77F66qbKxZb0trDVs4fiqGHAzcfnyCi7akvrqdB8mfocr4Bxtd5du/8xMxyHjCAgBKpipeL7HS77QqeJaVxc6tIT8xAwJ0uSCcbT5FPuad3VDfx4ecTWLSsgfRdXFGMJ5Z1xQYTbWKtSsb/x0iIV/sBGX2havzWHLXiRZ2xVatxv0k/D4HW73Ma0VzNHiOH4iNfkg4EGcQBWYvGCmSz6Gzkol+6sv53iJl8cNQMxsIxiVBZM6yIDTq4GSSBsn1pSWTmwgWDsBCgxCrOZBh0nASBz6ZVc8FSD2SYAnl;2cQ6R3BDmwCA5s+G8/FPhw=="
 ---
 

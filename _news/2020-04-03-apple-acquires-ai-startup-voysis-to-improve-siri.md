@@ -8,7 +8,7 @@ ampWebUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysi
 cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,19 @@ related:
       - url: "https://www.ilounge.com/wp-content/uploads/2020/04/Siri-1024x510.png"
         width: 1024
         height: 510
+  - title: "Apple acquires AI speech recognition startup Voysis"
+    excerpt: "This time, the Cupertino giant is picking up Ireland-based AI startup Voysis. Voysis works specifically in the speech recognition domain, and develops tech that makes its easier for digital voice assistants to understand a user’s natural language. No details are available on the acquisition, with Apple issuing its usual statement."
+    publishedDateTime: 2020-04-05T07:01:00Z
+    webUrl: "https://thetechportal.com/2020/04/05/apple-ai-speech-recognition-voysis-acquisition/"
+    type: article
+    provider:
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 54
+    images:
+      - url: "https://thetechportal.com/wp-content/uploads/2020/03/apple-store-new-the-tech-portal.jpg"
+        width: 1561
+        height: 881
   - title: "Apple acquires Dublin AI start-up Voysis"
     excerpt: "Apple has acquired Voysis for an undisclosed sum, taking on the start-up's deep domain, brand-specific intelligent voice technology."
     publishedDateTime: 2020-04-06T08:23:00Z

@@ -7,8 +7,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence
 ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-expert-neil-sahota-says-ai-can-and-is-providing-solutions-to-covid-19-pandemic-in-five-key-areas-1029070856"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-expert-neil-sahota-says-ai-can-and-is-providing-solutions-to-covid-19-pandemic-in-five-key-areas-1029070856"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 secured: "aDJF52QiK1wKYno0D7NvGobcuhsZvz6yYzMmnoTLJ79QZSz9kxzl8bWZY0G7ewmnJZMaaTZNcSklZACoemIIG/0n+bt8OCDcChueQnsfP9GV+l2+ZTbMrtuwcBterUtFU7xElwAKs0/WBLCqkJdSDKMb4Pr9uernRQTn5KoHBSadVbX3YAzWf6Lup7SP5VefFn95EWAjtDskp/0EUFVMgAnOlRwzVT87qztH6vA1e31LuFls6BdtuopCSh5shdQI2a71735b7fh50mvLkfAzxPYmuA9RyzBpAYJJ/i/drzFvXDvXPExWUsgMcG3BYsvG;XqHYJwsEpYgU12+otgDxTg=="
 ---
