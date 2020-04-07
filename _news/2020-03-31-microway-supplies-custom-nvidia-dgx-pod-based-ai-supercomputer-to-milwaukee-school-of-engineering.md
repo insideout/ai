@@ -16,6 +16,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Robotics
 
 images:
   - url: "http://share.opsy.st/5e83c1512e40d-IMG_20190913_132721.jpg"

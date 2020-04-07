@@ -2,6 +2,95 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-01-alphabets-deepmind-ai-is-better-than-you-at-atari-games.md",
+      "title": "Alphabet’s DeepMind AI is better than you at Atari games",
+      "excerpt": "Having AI agents learn how to play simple video games is an ideal way to test their effectiveness, thanks to the ability to measure success via a score. Alphabet's DeepMind designated 57 particular Atari games to serve as a litmus test for its AI, and established a benchmark for the skills of an average human player. The company's latest system ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-04-01-deepmind-agent57-ai-atari.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
+      "publishedDateTime": "2020-04-01T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5600%252C3035%252C0%252C701%26quality%3D85%26format%3Djpg%26resize%3D1600%252C867%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-04%252F99e3f5c0-742f-11ea-b93f-3ab31fad626d%26client%3Da1acac3e1b3290917d92%26signature%3D50e87b16d59bff72a11f5cd3c3bba0eaaac088ba&client=amp-blogside-v2&signature=11dace15f5dff7bbf1c1c07bb67f847e04c238e5",
+          "width": 600,
+          "height": 350,
+          "title": "Alphabet’s DeepMind AI is better than you at Atari games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
+      "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+      "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "publishedDateTime": "2020-04-01T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
       "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
       "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
@@ -42,6 +131,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
+      "title": "ACM Prize in Computing Awarded to AlphaGo Developer",
+      "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized as a central figure in the growing and impactful area of deep reinforcement learning. Silver’s most highly publicized achievement was leading the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/acm-prize-in-computing-awarded-to-alphago-developer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/coronavirus_stonybrook.fw_-405x228.png",
+          "width": 405,
+          "height": 228,
+          "title": "ACM Prize in Computing Awarded to AlphaGo Developer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -533,43 +659,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-01-predictive-oncology-reports-2019-full-year-financial-results.md",
-      "title": "Predictive Oncology Reports 2019 Full-year Financial Results",
-      "excerpt": "Predictive Oncology Inc. (NASDAQ: POAI) (“Predictive Oncology” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/predictive-oncology-reports-2019-full-year-financial-results-1029054641",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
       "title": "Shanghai judicial courts start to replace clerks with AI assistants",
       "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
@@ -1015,96 +1104,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
-      "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
-      "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T16:30:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/pruning-models-3.gif",
-          "width": 800,
-          "height": 354,
-          "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-huawei-open-sources-tensorflow-competitor-mindspore.md",
-      "title": "Huawei open-sources TensorFlow competitor MindSpore",
-      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/au/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "publishedDateTime": "2020-03-31T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg",
-          "width": 970,
-          "height": 547,
-          "title": "Huawei open-sources TensorFlow competitor MindSpore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

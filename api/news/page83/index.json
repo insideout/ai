@@ -2,6 +2,131 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-01-20-the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn.md",
+      "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
+      "excerpt": "Although thеrе are several factors driving thе adoption оf artificial іntеllіgеnсе, thе mоѕt іmроrtаnt оnе іѕ іtѕ capability to make real and аutоmаtеd decisions. This is driven by the 3A’s of AI: Aѕѕіѕtеd,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/20/the-3-as-of-ai-a-way-out-avlbl-fr-rl-and-autmtd-dn/amp/",
+      "publishedDateTime": "2020-01-20T02:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2567f28b6cf300071c7af7%2F0x0.jpg",
+          "width": 589,
+          "height": 393,
+          "title": "The 3 A’s of AI: A Way Out Avаіlаblе fоr Rеаl and Autоmаtеd Dесіѕіоnѕ",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep.md",
+      "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
+      "excerpt": "HTF MI recently introduced latest version Global Deep Learning System Market Study 2019. It covered product Scope, Market Share, Size, Revenue, Opportunities, Growth Rate, Sales Growth, Demand, Supply,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-system-market-to-see-massive-growth-by-2025-google-graphcore-teradeep-2020-01-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-20T01:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning System Market to See Massive Growth by 2025 |Google, Graphcore, TeraDeep",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-google-ceo-calls-for-regulation-of-artificial-intelligence.md",
+      "title": "Google CEO calls for regulation of artificial intelligence",
+      "excerpt": "LONDON -- Google's chief executive called Monday for a balanced approach to regulating artificial intelligence ... then scheduled to head to the World Economic Forum in Davos, Switzerland ...",
+      "heat": 177,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ctvnews.ca/sci-tech/google-ceo-calls-for-regulation-of-artificial-intelligence-1.4774926?cache=yes%3FautoPlay%3Dtrue%3FclipId%3D104070%3FautoPlay%3Dtrue",
+      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926.html",
+      "publishedDateTime": "2020-01-20T01:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/national/sci-tech/2020/1/20/1_4774926/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google CEO calls for regulation of artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-ai-does-for-security-what-apac-firms-cannot.md",
       "title": "AI does for security what APAC firms cannot",
       "excerpt": "Artificial intelligence (AI) will increasingly play a critical role in helping Asia-Pacific businesses cope with a fast-evolving threat landscape as well as an attack surface that is fast expanding amidst a hyperconnected environment. Organisations today face several key issues brought on by the adoption of cloud, Internet of Things (IoT ...",
@@ -956,133 +1081,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-artificial-intelligence-cant-get-here-soon-enough-executives-say.md",
-      "title": "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say",
-      "excerpt": "Seven in ten executives across a range of industries wish their organizations would get more aggressive in adopting AI technology",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/",
-      "publishedDateTime": "2020-01-17T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e212af6980ca10006aa9f5b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
-      "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
-      "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making",
-      "ampWebUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
-      "publishedDateTime": "2020-01-17T19:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1579263492635.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models.md",
-      "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
-      "excerpt": "No matter the claimed robustness of AI and machine learning systems in production, none are immune to adversarial attacks, or techniques that attempt to fool algorithms through malicious input. It’s been shown that generating even small perturbations on images can fool the best of classifiers with high probability. And that’s problematic ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/baidu-details-its-adversarial-toolbox-for-testing-robustness-of-ai-models/amp/",
-      "publishedDateTime": "2020-01-17T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/Baidu-Silicon-Valley-AI-Lab-Novet-2-e1579301361248.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Baidu details its adversarial toolbox for testing robustness of AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

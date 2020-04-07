@@ -41,21 +41,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/DWGrTNnWhJtePd4QKjQJoY-1200-80.jpg"
         width: 1200
         height: 675
-  - title: "IBM Watson will now answer all your coronavirus questions"
-    excerpt: "IBM is bundling up a few of its Artificial Intelligence (AI) services and offering them to governments, healthcare firms and other companies struggling to handle the large influx of coronavirus-related phone calls. According to ZDNet, IBM is combining Watson Assistant (a question-answering computer system), the company’s Natural Language ..."
-    publishedDateTime: 2020-04-02T12:30:00Z
-    webUrl: "https://www.itproportal.com/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
-    ampWebUrl: "https://www.itproportal.com/amp/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/ibm-watson-will-now-answer-all-your-coronavirus-questions/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 59
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/p7JeT9ZfjkcqrRN5NTR6qg-1200-80.jpeg"
-        width: 970
-        height: 543
   - title: "IBM Watson can now address all your coronavirus questions"
     excerpt: "The service will be available on both the web and on smartphones and will use IBM Research’s natural language processing technology with Watson Discovery. While helping government agencies and healthcare institutions use AI to get critical information out to their citizens remains a high priority right now, the current environment has made it ..."
     publishedDateTime: 2020-04-03T17:00:00Z

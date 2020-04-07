@@ -411,6 +411,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-covid-19-spurs-offers-for-free-software-data-and-training.md",
+      "title": "COVID-19 Spurs Offers for Free Software, Data, and Training",
+      "excerpt": "DataRobot is providing its AutoML platform, including Paxata data prep software, free to folks who use it to help with the COVID-19 virus response effort and are participating in the Kaggle competition, the company announced on March 20. dotData is giving ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/04/01/covid-19-spurs-offers-for-free-software-data-and-training/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/free_keys_shutterstock_niroworld.jpg",
+          "width": 1000,
+          "height": 601,
+          "title": "COVID-19 Spurs Offers for Free Software, Data, and Training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
       "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
       "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
@@ -1269,51 +1306,6 @@
           "width": 1200,
           "height": 630,
           "title": "Research Report on Global Neural Network Software Industry 2020-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award.md",
-      "title": "dotData Receives APN Machine Learning Competency Partner of the Year Award",
-      "excerpt": "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-2020-03-25?dist=bigcharts&tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "dotData Receives APN Machine Learning Competency Partner of the Year Award",
           "attribution": null
         }
       ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.windowscentral.com/ex-apple-exec-now-microsoft-help-holo
 cdnAmpWebUrl: "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/ex-apple-exec-now-microsoft-help-hololens-ai-and-more?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -23,6 +23,21 @@ images:
     width: 800
     height: 600
     title: "Ex-Apple exec is now at Microsoft to help with HoloLens, AI and more"
+
+related:
+  - title: "Microsoft hires Apple veteran for hardware, AI division"
+    excerpt: "An Apple veteran, Caballero has joined Microsoft as Corporate Vice President Engineering - Hardware Design & Technology at its Mixed Reality and AI Division which is responsible for the development ... The next-generation AR headset is built off a Qualcomm system-on-a-chip and is targeted at enterprise, not mainstream customers."
+    publishedDateTime: 2020-04-07T04:49:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/microsoft-hires-apple-veteran-for-hardware--ai-division.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 39
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/microsoft-hires-apple-veteran-for-hardware--ai-division-2020-04-07.jpg"
+        width: 1000
+        height: 800
 
 secured: "Xi519JPC8ubeP/GXWNTx1+7Qkwn+LOjMG3HhsHcnw/QMckR6czCZVMkLIs7HGNi7JUi8Wo6OW8y59HW6/Vt2FSaX+wTe0lUawBmvqzm6KoVpuSqP+JONNwKH+Isneciy4IbqMexmv70TbHyFFDFY1BBtk9hkksXKuDHro8YOVa6sHaIwjl/Ur1qfmwdBFqlviNrR0qdXhfD/4dRsOtLe56uKORUPGQURXroAO8oVKvSmeHLttpY5RYZ0Rb1PMmTu8+Sr9fsd3PZ7PYRKZxUYoSODdJO/qNQx0Tii61oQlZ1u0bgS+8aIeTBraoD2yk+l;0eMTFsC9KxxobeNhcDhvZg=="
 ---
