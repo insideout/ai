@@ -3,7 +3,7 @@ category: news
 title: "Washington State OKs Facial Recognition Law Seen as National Model"
 excerpt: "Washington state adopted a Microsoft Corp.-backed law enshrining the most detailed regulations of facial recognition in the U.S."
 publishedDateTime: 2020-03-31T20:39:00Z
-webUrl: "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
+webUrl: "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 640
     title: "Washington State OKs Facial Recognition Law Seen as National Model"
 
-secured: "zGkCYg6k3Pcxsr40cTLzY5Pjwkw+M6+XDMtLP0sG8kc6pgUwip3vlZqRLIc3R3OMUi21kbczym4gkmBm+6jkFdv5cRG8a61uuJFmc9R4C4Ad6e95at//r6f5zbrUQGafL/EQHMqrm07d15E333ioJ2qnFYlqsO1AAgwjWWO7J/P/wRH6+VrHBWdSvARAAW1g7loUosYRvT0vT/koxbUtGshs+vGiOa4peRNgiarnKA3bWBfyPh5V1jO0DoN+kLr5080WEbvj219s3mwGlZmzAZnu5xJDODbG0u54oErQUJV16wrUL+1SVNhjoMUiOECOHshxaXm8spAULmu06RKFPO47VrsQjDQY0jzI76w6NaqL3XrPomFtywLuBFSOiARoQw0HfjcMIwNwfbIIC/WG6Vr/8yJmvqjEdeRkf3CWM3Sc04hv+5s7cZMMtczA2UGLWBhAD+KI7SSZQsczOXE5IBNun0lkpfPjwaW19LoAbA8=;FiF5lOOMrgjVbkfOkhI8ag=="
+secured: "wxOcDL4lAPnhwXdalVzxQlwsRDLLU3ngrKu5g1VRA1o6zjCNa6ozre/uwG3Nmy9GeWZeFlBj5irTMyZcezPNE9/UCp9szrkX6nMhXJTXkwgpd/AgWiktfvmB6gtkAZg36c5smD16n6RvfG2fxYs6t+jKVf+/tCalWUqlOH+dwngE1XiRrf/gMpnW0RZPQxEvt1nedKuh16bYO1pkf1SR0+oy9mm+VQWHO2duk0ap8Di30L7+TH31kaqro7Q4gVdtxGE1M3oHDle/z2GyLE+/vX+ypFfeTrR94njTNPGKY94QXSEuzq5MOhyvKT2U3XI9;28S00Myz01YafNBO1le9eA=="
 ---
 

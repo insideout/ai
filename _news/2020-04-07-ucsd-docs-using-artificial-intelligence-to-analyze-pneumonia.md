@@ -8,7 +8,7 @@ ampWebUrl: "https://patch.com/california/san-diego/amp/28680678/ucsd-docs-using-
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28680678/ucsd-docs-using-artificial-intelligence-analyze-pneumonia"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,47 @@ images:
     height: 600
     title: "UCSD Docs Using Artificial Intelligence To Analyze Pneumonia"
 
-secured: "r7IIpgqS/r5TPTJc/k6NVmXJajooSpcw2SlVncqdxR8cIqpxVxuWXo3bjZH2sigQqk+TcrH/RhqIWs1dhdOP8Mzny09NsxPbDdwXqE59lsVJxmaiSFfnyutb3CpyvQWW9bX624cmoAz7xKEjGheUXU/HE5X+jr5J3cHIpw36jf2ZtACrS8vtBw4PVCDOBApcpCok7PtJQCWIDBkJ+cTVGiczSqUljrFlZ5p2EBwLPxrCzDVtLcfl5D0ybX5p5kwmx/qfQfv8kQtXp8Brv4sAuVuwnwveQoROJu+7POMyxHL51cRDjfLyczu9S6kmKmvZ;KnzNPCkokywU4YUTKDsLtA=="
+related:
+  - title: "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis"
+    excerpt: "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ..."
+    publishedDateTime: 2020-04-07T20:15:00Z
+    webUrl: "https://www.news-medical.net/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "Artificial intelligence enables COVID-19 lung imaging analysis"
+    excerpt: "To quickly detect pneumonia—and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home—UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ..."
+    publishedDateTime: 2020-04-07T19:40:00Z
+    webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-enables-covid-lung.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-enables-covid-lung.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-enables-covid-lung.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+  - title: "Artificial intelligence enables COVID-19 lung imaging analysis at UC San Diego Health"
+    excerpt: "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence (AI) to augment lung imaging analysis in a clinical research ..."
+    publishedDateTime: 2020-04-07T16:49:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uoc--aie040720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/228699_web.jpg"
+        width: 600
+        height: 400
+
+secured: "EH1bT126cc86xGiOrkmpNGAg96QLdW5h27n1aXKnftxjbJrO/y3mQzE8dSkGFAh5oj1gouVD9ENwZRFycaOaa/1gXTANdXHMe+V/kz7yA01ZYr/s8mbfoCq+SNZIQgufcpe69qdUed0/GOuBOWhD2wgM8xLAwweDBWJgHQYWni907VaIbZ0hfOPKgwdJYxf5d/aKoVKLyCycrChgQhOkGh94j5dAR39qWVvUW/n7eM/aLPfTj1NC7q50RfrM1P/vEycJj8l/AibAjXwwTYHT65B7UpIn7wMYgqRQ6T0K1W4t3GANXGXBOzLZK24NlB9FoV/jTXiOgAJmgG8COJquiVBxHGw8TBO0frPoYM7JfuGlNGU9xmfKsZeiNjVKS4bOYXGZXRL8qGn1uLbqepbee79DHboFKwK4tx777ndpHVlNEhk66WItMcIHAdkOdJuE//qv6VcilQ9Qp8V6+KPg1Cb0LSrp+sBJOt3+LfQ7J0A=;J0srtxlfUraK++dXr6Hj6g=="
 ---
 

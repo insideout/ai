@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-te
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -60,6 +60,21 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9"
         width: 600
         height: 338
+  - title: "Self-Driving NAVYA, Beep Shuttles Used To Tranport COVID-19 Tests To Mayo Clinic In Florida"
+    excerpt: "The service began March 30 as four driverless vehicles traveled a designated route to the Jacksonville Mayo Clinic where the COVID-19 tests were placed in secure containers before being loaded onto the shuttles."
+    publishedDateTime: 2020-04-07T21:04:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F41152025%2F0x0.jpg"
+        width: 1200
+        height: 798
 
 secured: "bP0/KlWtwVe8FWsY90JeK/p243CElyeGW/BbSiSVX2tJbEztUbD/6V0q6Y2XCx0NyzEwhYf7udGo8SCBAJjKbRv+bcE6ndZW8iHqJvdL/2XEDRpnBRVPaF+5wR1Lz3YDQwAlf4NXG/zLyWM/6YGAKiWPmYPuhYM2n6H2eJXXe8roKSH3cgR36U2Kxuy5bncttfD2UVaib969XpwviBvNOB0YNoW/6k+ii2efAmyehF4n5bo6gg6jM22S1N+YxGFzMwz5sL0UMeNXpIjXdg23mcCzZd4hsCJ9lR2QB2w8GGwuZ06VW0pfBLD+E2t+OiIF;8uBkiZMiBPNxgjVD/mD9TA=="
 ---

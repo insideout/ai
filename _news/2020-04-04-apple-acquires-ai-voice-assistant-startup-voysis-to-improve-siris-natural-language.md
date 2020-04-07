@@ -19,32 +19,51 @@ topics:
   - AI
 
 related:
-  - title: "Apple Acquires AI Startup to Better Understand Natural Language"
-    excerpt: "Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Read more about the startup here: Synthesizing Realistic Human Speech Just Got a Lot Easier An Apple spokesman said the company “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”"
-    publishedDateTime: 2020-04-03T21:17:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language"
+  - title: "Apple Acquires AI Start-Up Voysis"
+    excerpt: "He served on active duty with the US Army and has a Bachelor's degree in accounting. Follow @dannyvena Apple (NASDAQ:AAPL) has acquired Voysis, an artificial intelligence (AI) start-up focused on helping systems provide better responses to voice commands. Bloomberg reported the acquisition on Friday. The most obvious application would be to ..."
+    publishedDateTime: 2020-04-07T20:12:00Z
+    webUrl: "https://www.fool.com/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-  - title: "Apple Buys Voysis, an AI Startup Focused on Voice Assistants"
-    excerpt: "Apple has bought up a number of AI-focused startups in recent years, with Turi, Xnor.ai, and Laserlike among its notable AI acquisitions. Year to date, Apple shares have fallen close to 20% amid concerns about the impact of the coronavirus pandemic on Apple's device production and sales."
-    publishedDateTime: 2020-04-03T23:11:00Z
-    webUrl: "https://www.thestreet.com/investing/apple-buys-voysis-ai-startup-focused-on-voice-assistants"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/apple-buys-voysis-ai-startup-focused-on-voice-assistants"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/apple-buys-voysis-ai-startup-focused-on-voice-assistants"
+      name: The Motley Fool
+      domain: fool.com
+    quality: 87
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F567147%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+  - title: "Apple Acquires AI Startup Voysis to Improve Siri"
+    excerpt: "Apple has purchased artificial intelligence startup Voysis with the aim of improving Siri ... The website, which is now defunct, said that the technology used client databases with AI tools that deeply understand the specifics of products, services, and vocabulary to make the user experience \"easier, faster and more intuitive.\""
+    publishedDateTime: 2020-04-03T21:55:00Z
+    webUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/"
+    ampWebUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
+    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
+      name: MacRumors
+      domain: macrumors.com
     quality: 57
     images:
-      - url: "https://content.jwplatform.com/thumbs/VsCMuntH-720.jpg"
-        width: 720
-        height: 406
+      - url: "https://images.macrumors.com/article-new/2020/04/applevoysis.jpg"
+        width: 2000
+        height: 1000
+  - title: "Apple acquires Voysis, an AI start-up for making improvements to Siri"
+    excerpt: "According to reports by Bloomberg Apple has acquired Voysis which is an AI startup for making improvements to Siri. Voysis is a platform that offers a better understanding of the natural language for digital assistants. Voysis helps online voice assistants and improves them to help users in online shopping applications. It helps to interpret ..."
+    publishedDateTime: 2020-04-05T14:04:00Z
+    webUrl: "https://www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri"
+    ampWebUrl: "https://www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri/amp"
+    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri/amp"
+    type: article
+    provider:
+      name: iLounge
+      domain: ilounge.com
+    quality: 57
+    images:
+      - url: "https://www.ilounge.com/wp-content/uploads/2020/04/Siri-1024x510.png"
+        width: 1024
+        height: 510
   - title: "Apple acquires AI startup Voysis to improve Siri’s natural language skills"
     excerpt: "The latest is an artificial intelligence startup that could help Apple improve Siri’s skill at understanding natural ... shopping phrases such as “I need a new LED TV” and “My budget is $1,000.” Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Google Assistant has a notable lead ..."
     publishedDateTime: 2020-04-03T21:56:00Z
@@ -60,21 +79,19 @@ related:
       - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/siri-how-to-set-location-based-reminders-iphone-apple-watch.jpeg?quality=82&strip=all&w=1000"
         width: 1000
         height: 500
-  - title: "Apple acquires AI startup Voysis in apparent push to bolster Siri's natural language skills"
-    excerpt: "It appears that Voysis applied the method to more accurately sample and translate human voice commands for AI systems. Prior to its acquisition, Voysis marketed its natural language solution to companies looking to improve voice assistants integrated in apps or online. The company reportedly reduced the footprint of its solution down to 25MB of ..."
-    publishedDateTime: 2020-04-03T22:04:00Z
-    webUrl: "https://appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills"
-    ampWebUrl: "https://appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/03/apple-acquires-ai-startup-voysis-in-apparent-push-to-bolster-siris-natural-language-skills/amp/"
+  - title: "Apple acquires AI speech recognition startup Voysis"
+    excerpt: "This time, the Cupertino giant is picking up Ireland-based AI startup Voysis. Voysis works specifically in the speech recognition domain, and develops tech that makes its easier for digital voice assistants to understand a user’s natural language. No details are available on the acquisition, with Apple issuing its usual statement."
+    publishedDateTime: 2020-04-05T07:01:00Z
+    webUrl: "https://thetechportal.com/2020/04/05/apple-ai-speech-recognition-voysis-acquisition/"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 49
+      name: thetechportal.com
+      domain: thetechportal.com
+    quality: 54
     images:
-      - url: "https://photos5.appleinsider.com/gallery/35237-64485-200403-Siri-l.jpg"
-        width: 660
-        height: 368
+      - url: "https://thetechportal.com/wp-content/uploads/2020/03/apple-store-new-the-tech-portal.jpg"
+        width: 1561
+        height: 881
   - title: "Apple Acquires AI Startup Voysis; Aims To Improve Natural Language Recognition For Siri"
     excerpt: "The AI startup company is based in Ireland and could reportedly help the company improve Siri Apple has not yet revealed its plan with Voysis but tech enthusiasts believe it has something to do with Apple's digital assistant Amid the COVID-19 pandemic,"
     publishedDateTime: 2020-04-05T02:21:00Z
@@ -90,19 +107,19 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/18/apples-homepod-a-smart-home-device-developed-by.jpg"
         width: 1024
         height: 705
-  - title: "Apple buys AI startup to possibly improve Siri’s natural language understanding"
-    excerpt: "Apple might employ Voysis’ expertise and resources to further improve how Siri responds to natural language, catching up with Google Assistant. Apple has acquired an Ireland-based AI startup called Voysis that works on improving the natural language understanding of an AI assistant. Voysis reportedly has expertise in improving digital ..."
-    publishedDateTime: 2020-04-05T12:42:00Z
-    webUrl: "https://pocketnow.com/apple-buys-ai-startup-to-possibly-improve-siris-natural-language-understanding"
+  - title: "Apple acquires Dublin AI start-up Voysis"
+    excerpt: "Apple has acquired Voysis for an undisclosed sum, taking on the start-up's deep domain, brand-specific intelligent voice technology."
+    publishedDateTime: 2020-04-06T08:23:00Z
+    webUrl: "https://www.siliconrepublic.com/start-ups/voysis-dublin-acquired-apple-ai-machine-learning"
     type: article
     provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 33
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
     images:
-      - url: "https://pocketnow.com/wp/../files/2020/04/siri.jpg"
-        width: 1440
-        height: 682
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/dublin.png"
+        width: 1200
+        height: 900
 
 secured: "SU/22RSm+xvuWwdZMtV1BeROCrOFTwgOc7tPFIwxwvk7EfS5m38QerjcWC1eGzHgdHeFlgfFOnEVMZKPn6Tog5aYMqj6YzgVCwpHuRJD8D+Or2cLX9nr/PHsWxXOQvDd5vpn7zL3pA956oQFdSTOjkpf11egeHA8fi44tCjOf9dsr9PTtK9o88q5BeaUvtA20938mZWdfWv60dMTE5YZYycjM+oLpP09XGg017nWgvMmzI3kChYttYUazNEwDpJDPnD0vU+1M8Efmw43GdibfHTaMYNkXQANeDCShBGOi8xk/O7GQvj5uZ7ECNTItKtAkOtrWTF83Vn/lBWGYPr1PoCM2cgK+HBOFUaN35NdYg3hCM6cX4jeecvd3FCs6vmUH61J4bVgGikQS2zHKYZybs7d2PPbXcc+ug1Xqt0dAfZ4HzLoUqbG0CKPDbSnh3hE2/ep511Q3KySkvrpn8w4tpbtfVWt3Hz0qTsLnv172BU=;0LmuPuBMtMSMeWd9srY2Hw=="
 ---

@@ -2,6 +2,80 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-17-microsoft-to-help-kubota-explore-ai-application-in-agriculture.md",
+      "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
+      "excerpt": "(RTTNews) - Tech giant Microsoft (MSFT) is set to help Japanese tractor and heavy equipment manufacturer Kubota with digital transformation. Both the companies have entered a multi-year strategic alliance,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-help-kubota-explore-ai-application-in-agriculture-2020-03-17?amp",
+      "publishedDateTime": "2020-03-17T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1260061287",
+          "width": 1024,
+          "height": 512,
+          "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-why-truly-smart-future-tech-needs-radically-new-ai-chips.md",
+      "title": "Why Truly Smart Future Tech Needs Radically New AI Chips",
+      "excerpt": "By discarding traditional computing architecture and rebuilding specialized AI chips from the ground up, future processors can break through previous limitations. New domain-specific AI chips entail massive efficiency gains over traditional architectures. Unlike standard CPUs and GPUs, such chips dispense with external memory, storing all core ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/03/17/why-truly-smart-future-tech-needs-radically-new-ai-chips/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "Why Truly Smart Future Tech Needs Radically New AI Chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-this-voice-and-motion-activated-trash-can-keeps-my-hands-free-of-germs-as-it-collects-my-garbage.md",
       "title": "This voice- and motion-activated trash can keeps my hands free of germs as it collects my garbage",
       "excerpt": "The simplehuman Touch-Free Dual Compartment Trash Can is both motion sensor and voice-activated making it completely hands-free.",
@@ -897,72 +971,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-machine-learning-to-scale-up-the-quantum-computer.md",
-      "title": "Machine learning to scale up the quantum computer",
-      "excerpt": "Machine learning is an emerging area of research which is revolutionizing almost every field of research, from medical science to image processing, robotics, and material design. A carefully trained machine learning algorithm can process very large data sets with enormous efficiency. One branch of machine learning is known as convolutional ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-03-machine-scale-quantum.html",
-      "ampWebUrl": "https://phys.org/news/2020-03-machine-scale-quantum.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-machine-scale-quantum.amp",
-      "publishedDateTime": "2020-03-17T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-intels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning.md",
-      "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
-      "excerpt": "This week, theCUBE features Casimir Wierzynski as its Guest of the Week. Wierzynski is one of the leading voices in a movement for Privacy-Preserving Machine Learning, or PPML. The goal of PPML is to combine complementary technologies so that machine learning can use data for training models without sacrificing the anonymity of personal ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/17/ntels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning-rsac-guestoftheweek/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/Wierzynski.jpg",
-          "width": 894,
-          "height": 596,
-          "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

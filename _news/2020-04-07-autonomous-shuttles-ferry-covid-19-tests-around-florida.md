@@ -60,6 +60,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Nnj7455SZMY5Bolm5BiwaXySgHI=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66611017/maxresdefault.0.jpg"
         width: 1280
         height: 720
+  - title: "Self-Driving NAVYA, Beep Shuttles Used To Tranport COVID-19 Tests To Mayo Clinic In Florida"
+    excerpt: "The service began March 30 as four driverless vehicles traveled a designated route to the Jacksonville Mayo Clinic where the COVID-19 tests were placed in secure containers before being loaded onto the shuttles."
+    publishedDateTime: 2020-04-07T21:04:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F41152025%2F0x0.jpg"
+        width: 1200
+        height: 798
 
 secured: "p9lriUBnbn+B/oOP8o8wjFMGsaRWb3PCMRhu3bMitoZmM0ut7PCh3qQlNuKYNzN2P4MB0i922+D+dGuucaZXY0NKdNLb3CE7hvZNp7V8j5/ZJammEqQHXiDyL7dUjzJikCUPds3G1HBhoFK+MNnmizBpNdlAcLk17EKkZwbvQH6+Bc+szcsiomg/1KqotPqBypjv8zGfRBPUnDXf31LiEBZQc6/1mOSTyn5Ymg/gWJPEL6uShryjWda2+r9UQNAi4pHwkL1TP5AunXp1yhXnmj9OUnnHPhNES83JnfOZnIX50u8/wi/oLdkwm//e5GyT;ULZOmuWaeANbq29gO7mkAw=="
 ---

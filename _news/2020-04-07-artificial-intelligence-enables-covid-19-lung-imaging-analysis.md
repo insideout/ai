@@ -8,7 +8,7 @@ ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-enabl
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-enables-covid-lung.amp"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,36 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis"
+    excerpt: "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ..."
+    publishedDateTime: 2020-04-07T20:15:00Z
+    webUrl: "https://www.news-medical.net/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 59
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+  - title: "UCSD Docs Using Artificial Intelligence To Analyze Pneumonia"
+    excerpt: "SAN DIEGO, CA — UC San Diego Health radiologists and other physicians are now using artificial intelligence to rapidly analyze lung imaging to detect for pneumonia - including that impacting COVID-19 patients, the medical center announced Tuesday. For most patients who have died of COVID-19, the ultimate cause of death was pneumonia ..."
+    publishedDateTime: 2020-04-07T19:05:00Z
+    webUrl: "https://patch.com/california/san-diego/ucsd-docs-using-artificial-intelligence-analyze-pneumonia"
+    ampWebUrl: "https://patch.com/california/san-diego/amp/28680678/ucsd-docs-using-artificial-intelligence-analyze-pneumonia"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/san-diego/amp/28680678/ucsd-docs-using-artificial-intelligence-analyze-pneumonia"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/shutterstock/22880694/20200407/020505/styles/patch_image/public/shutterstock-613921955___07140441204.jpg?width=984"
+        width: 800
+        height: 600
   - title: "Artificial intelligence enables COVID-19 lung imaging analysis at UC San Diego Health"
     excerpt: "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence (AI) to augment lung imaging analysis in a clinical research ..."
     publishedDateTime: 2020-04-07T16:49:00Z
