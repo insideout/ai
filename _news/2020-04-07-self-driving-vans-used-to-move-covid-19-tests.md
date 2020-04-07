@@ -24,21 +24,36 @@ images:
     title: "Self-driving vans used to move COVID-19 tests"
 
 related:
-  - title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
-    excerpt: "Video of one of the vehicles, which looks like a futuristic minibus, shows the vehicle being loaded with a cooler full of COVID-19 tests at a drive-thru testing location in Jacksonville. It then continues on a route to a nearby Mayo Clinic where the tests are then processed."
-    publishedDateTime: 2020-04-07T15:50:00Z
-    webUrl: "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html"
-    ampWebUrl: "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
+  - title: "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features"
+    excerpt: "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ..."
+    publishedDateTime: 2020-04-07T16:00:00Z
+    webUrl: "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/"
+    ampWebUrl: "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/"
     type: article
     provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 52
+      name: Electrek
+      domain: electrek.co
+    quality: 98
     images:
-      - url: "https://www.sun-sentinel.com/resizer/iYi9LMBDKD3GKRWmhpK920iZT7Y=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RHUO5ROTPRBJXAVWDTN6HF24TU.JPG"
-        width: 1200
-        height: 635
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 449
+  - title: "Volvo Splitting Self-Driving Joint Venture to Speed Autonomous Development"
+    excerpt: "Volvo is making a split with Swedish supplier Veoneer in a move that it says will help speed up Volvo’s development in new autonomous vehicle technology, focusing on bringing it to vehicles more quickly. Zenuity was the name of the 50-50 joint venture between Volvo Cars and Veoneer, a company that is developing software, hardware, and systems ..."
+    publishedDateTime: 2020-04-07T14:17:00Z
+    webUrl: "https://www.wheels.ca/news/volvo-splitting-self-driving-joint-venture-to-speed-autonomous-development/"
+    ampWebUrl: "https://www.wheels.ca/news/volvo-splitting-self-driving-joint-venture-to-speed-autonomous-development/amp/"
+    cdnAmpWebUrl: "https://www-wheels-ca.cdn.ampproject.org/c/s/www.wheels.ca/news/volvo-splitting-self-driving-joint-venture-to-speed-autonomous-development/amp/"
+    type: article
+    provider:
+      name: Wheels
+      domain: wheels.ca
+    quality: 42
+    images:
+      - url: "https://images.wheels.ca/wp-content/uploads/2020/04/158389_Autonomous_drive_technology_Complete_system_solution-scaled.jpg"
+        width: 2560
+        height: 1440
 
 secured: "QVYnuBNWxd8ntpQSWxuPVIgiMhFMDBNI4MkeCZHMBBg+nspmTfXUf9wPuxzGWXhBKGX84Ri/0AaeWsnhEcFa28ZMavLPaqnkjOCBDaAARACbhTZ4PVZsqpyYf/yEgeJWQtoqmt3ZiwuDD0n1VOZuWuiSVD9nF55M4MIHer5B8gQltuxYSUFbCaobtGDYExAAlyCDyVczfMewwuJFjkRrfjmTDADPAuaZ7CqOuha6oq50TIaZbpS22hFqhB+45sog0QGsopKR4EwcgiixF8DpLqpqxnQAwAD/JVoEG9gMwLdaqJTtH5z1Ay55ryruloMlmEasYHh2zwGlCxo+si6cKTWvb4noN5VhzON0kW3mQpahstkBY2DAkkxjq7bbx7GIlDMpk8IXIfxxKLG+qAaXveFG2VP+BDjmJqimwr6/5Nh4+dGfH/0hpEEQXjJ7ZNEuDZ8I4k676ey3nueqL0KHZX1Fj222tFPKAOm7wS3SwAM=;op/doDkil0lgDq9iRzio9w=="
 ---

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.wheels.ca/news/volvo-splitting-self-driving-joint-ventur
 cdnAmpWebUrl: "https://www-wheels-ca.cdn.ampproject.org/c/s/www.wheels.ca/news/volvo-splitting-self-driving-joint-venture-to-speed-autonomous-development/amp/"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,35 @@ images:
     title: "Volvo Splitting Self-Driving Joint Venture to Speed Autonomous Development"
 
 related:
-  - title: "Volvo to bring self-driving car development in-house"
-    excerpt: "Volvo and automotive supplier Autoliv in 2017 established the joint venture Zenuity to oversee the development of driver-assist features and a fully self-driving system. On Thursday, Volvo said Zenuity will be split, with the fully self-driving division to become a standalone company fully owned by Volvo and the driver-assist division to be ..."
-    publishedDateTime: 2020-04-03T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1103316_volvo-to-bring-self-driving-car-development-in-house"
+  - title: "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features"
+    excerpt: "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ..."
+    publishedDateTime: 2020-04-07T16:00:00Z
+    webUrl: "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/"
+    ampWebUrl: "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
+      name: Electrek
+      domain: electrek.co
+    quality: 98
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 449
+  - title: "Self-driving vans used to move COVID-19 tests"
+    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a \"first\" for the U.S. During each run made to and from the clinic, the self-driving shuttles are being trailed by an SUV driven by a human but they are at ..."
+    publishedDateTime: 2020-04-07T10:40:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/50608-self-driving-vans-used-to-move-covid-19-tests"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/volvo-drive-me-autonomous-car-pilot-project-in-gothenburg-sweden_100564950_h.jpg"
-        width: 1920
-        height: 1115
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3067ad0db5dc2799d359e0d9222c0a25_L.jpg"
+        width: 620
+        height: 413
 
-secured: "U+Try1riUOHJkxQ2jhtyy66RaaBBTS4n2vwrpfc5xfryp8ueAz6grZE9W7jchTA0t7oSD/c2WeWQcU6StRy4VsnQcPvb5nQXM6WWUf3hVZE4ocUFtRj8YRDwVG+B/ZYHJTyqnMihsvMgslm8e6x2UWPcJyk9r2tnSTs/4yNbGK4hLZ+4lmx6563i9xCblM8YAhUt1ySn1tNN13ooHfrmEnp+l8Pobd2x7B/j09Hto0VmY8hlt3ctOb+sN6a05JLxt16N2HvlYmY+6+kp/5vLljKZYm4zEWTry1l64YbZ9mOuw5nf/fQb2vJhn6+CT+fS;K0KH84FWGUyzFzoVKdF8BA=="
+secured: "5Izw0dtRn/r9XLMjiainPMb6venZg2TDJOlHWhcIxquFOGWdnWP9bUY3PqA9qexVPITDlP9jK+fxRHLct2S0kYxZ+nxIW8Pn2LMp4VSw/hcR3cnFOJGUsyzKx3BH4p+a3yzYGeZjiPjOfahQD/A38o092zzjRJ/in/4+BDPhYObk/99L0A7Z+fly2yIh3SRuZ2P39oRbMYKkJxvo7hPHVHEA5VuRYbAlCgXUaNSRLtySG2xAPVxHp6uenuVK6pRuL7crJWlr1/XJ0aEm438xYSsPHfwE3L+rYdGAFIVLevjrLF8IWwQPNKaj2dkL8UzwGltPJIR4YD/I+80FXjjvp5pLIynpimpxyTaa1K5rtIHHWNaUSj33wFmfJHmR2PNgp0N0CdlsVUuH5Ltwvf7dtWR/bjZI8s3eqYOK3QnlrGTe4W54hvk8ywmwat/AjMJ+/KsiJtUpaAW6HbXIb6cV7GtvFIB+Bv3TWd5bLus2IzE=;qKh8x+/sGvQzFCFWB6lRLQ=="
 ---
 

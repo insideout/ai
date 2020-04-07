@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-art
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -21,6 +21,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Healthcare
 
 images:
   - url: "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg"
@@ -28,6 +30,6 @@ images:
     height: 798
     title: "5 practical reasons to embrace artificial intelligence"
 
-secured: "WCCbjYZQDBWRtRYwtdaBIlDiXJWsaz3XPK2ul7g+7ieovUquLgUJDSp8ZgqUiHgO0uU7X2kXWDd04k99KbyhIZwcU7vD0wX2lIdcBxz4IMjwhfzcRcMu42Me11ZjF99ATzSuOAKckWD6u0i3vEPz9SR/i6tfhEjA01uEJPAGTXLw1yfGLiuXyz5qgPaf1PoghOLG2piO2XWdH+SACCXwIt7dYR5q7P0DyTEQLg1LAqyfBDj9I+whS15S63dqoQluIoXGl4RZHPmldgnYR3Xl4JYDWwhxwNanfLH4jWZ03lR6IdbCE/iNkhHJqGFH5Eor;/kE2KpmsF9qfnOXg1OZ7lQ=="
+secured: "Zk0u/JAwxrWHEYGzq2hNRfVVCZfOh9rrAuogYbfsqSHLBLz/lLGbUXRU3CGsMz0dNOZOyCbDlC1FHVdUGkzJwQ0PPHueVjtJmy2eEYfnBWmNkE+/UUCCQEcwYyoRz5R+Nt+yu1eBDpdRBx9Rp15B0PGcK4ybR61nA2sr6BUtrfAHQzGbcaGLVyUbsEUYIrV52AUA/KSjN717CwWm6rxZJFtkel7j+lNNcS7Ya7F+X5n86cS7s/Gt/30kASO2M/cxPEKk3DHtNV/TSOkuKmuZ/d0X+TIP1n/IINnyH1sY39fsFaZqA0vFxKRx4jBEVzYe52GgE+WAFIzoTY0KIAX2osGE6fs7x43VIDYgsqhILOP8yLN1igFQmIDouqikQHR0OSD65xAZMpbBEUFd0HiDM8w4aMUGXDcZ6qEEn3L8bq8VQw1EfS3PblY7rxBqGAUehdi4J+H3RzwgystfdG92N7VusljUtU+ss/3NGGcKoyM=;q7i5Pu2iBzDB2GzaErkOCw=="
 ---
 

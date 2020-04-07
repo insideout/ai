@@ -23,17 +23,6 @@ images:
     height: 600
     title: "New Research Suggests Speech Recognition Technology May Be Racist"
 
-related:
-  - title: "Face Recognition Technology Market"
-    excerpt: "The report attempts to offer a professional and in-depth study on the various aspects of Face Recognition Technology Market that includes growth, latest trends, opportunities, capacities, competition landscape, cutting edge technologies, product offerings of key players, and on the dynamic structure of the market. Besides this, it contains a ..."
-    publishedDateTime: 2020-04-03T00:00:00Z
-    webUrl: "https://www.openpr.com/news/1997472/face-recognition-technology-market-2020-growth-facors"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 19
-
 secured: "iLYf9rJgukrOlCUS58kvpE0vpot5U7YSn9VscqY9gubOoqlKurbPxhcniPgdIU4i5IzoY8TdR8exPPiIw7yiRp36Lv5LYBDRlMR/B1f6XFAG4O97FqnKUXyB18ER6NqJRHmk+LyJtsuhoEuQwj6vECDBFSOrK1bYyMFKHbzNzW9Fw6SZV48nhOepozs8VmKN8+CLlJOg9iY11dC9n82s+QpOIZueaXppCPS5j6bGS2qO1B8zsXQlWSp9lBuClrepIDDdqizfmMvEa0/rVmUc/e1kZmKb9Prov8RHfiTE+OoGEJu3bOP2cVHcqqaonflDb0pOKE8FNpqVMPfXOxqIXK6YsxeUNBlruPXmHymuPGMdbSZy/WiNS4Gci1uVxMW7xQmWoFX7R5OK+82sjgC0NKfSm62YPKTOGdWSsqZR28QMgsH5gmt/Y5fotyUCnzTJUErPjb89i2vrI6LbZq7PgWhTia7Wi3Z0+cQJEHZkjzo=;XVKf7zWKOpvMJxeS+Z0Ssw=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 457
     title: "New CEO Arvind Krishna Needs To Revitalize IBM’s Channel Strategy: Partners"
 
-secured: "yFa8bJDg1/+MkSIggmVc5bFSwvGsmIbuTbwdHCq799Q4tqrQlTqlZwkT/xm4SabJTeXRk8x5J4afE70x3k+khDpnM6yLCiheRb9IOZysfmn+YAkj40znQ+e9TFrNeNpbfV3ZWUuRCtAKfHm3zgCWTKeaujbwky3/mJXz/PuwW8WYU6wYeqYpYPJ1IX2zzBMZBmihoV+hQMOMxDpv+eiNaRGPlo+gRi/Zx8ihK9K5vA8ph2Kih+yvb+bGYAZkQ5pgBL+YujdtBZsMMFLCinQ/s+W6TxiZ/fJ2BY8faEmD9x4Rv+z0wpG0fH8vH7RRfzZu;Px55xoHKNCadlhg2wSdByw=="
+secured: "SXSmz3aMNw1r/aoimTIQdAi+pfnykY8qbNu03NZQFLTQchsp/KRxLblPgQaAdALf1J4p8vWAP9x2YlvWATYGg2gxL7ywPpxDvqha6vTgjcHDFqJU++3HpbmNJEq2EqklTrEgRo5TdUtlf/vt2M46BQSkn/5m922vGYpXd0xbC/nmQFHwEYxO88FPKt4jF6eK4Tjlu6tciMByYpi4T99ee/YJC5lOA05vQyD/nFAEWnINSwKmEgf4ErsRN9z+uqyVOYeAu2fUEcXeUdrU3XUFTVaN/xJD3/ucStMg6jqOIc02Nsg5T24Wo3U4oxoozLcjcakBSiiYX7cmb+9kJfohJ6f6FMTgIAn87EF1uNz7gAQrcCuhuM9gMdngDDYYDqipWGCBFv7PczDMzDzeVOWi5qostB1XqoU2k8Din7VsTAgv4Y0Yr0DSNvYjaM92CWGpo9XbEyUsKauGRPSyGYcPd0vk/3Gf3wQdNqD1Za/gBMU=;DbCerTZ7YSqqWwbw2bQQqA=="
 ---
 

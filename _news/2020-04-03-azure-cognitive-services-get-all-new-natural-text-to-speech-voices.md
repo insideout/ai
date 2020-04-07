@@ -8,7 +8,7 @@ ampWebUrl: "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-ne
 cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 1280
     height: 720
     title: "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices"
-
-related:
-  - title: "Microsoft’s Azure Cognitive Services gets new voice styles"
-    excerpt: "“Today it’s Microsoft’s turn to move the yardstick with its text to speech abilities.” Azure Cognitive Services is rivaled by Google LLC’s WaveNet system, which offers a total of 57 different voice styles, including 31 AI-synthesized voices and 24 standard ones. Amazon Web Services Inc. meanwhile, offers a service called Brand Voice ..."
-    publishedDateTime: 2020-04-02T23:45:00Z
-    webUrl: "https://siliconangle.com/2020/04/02/microsofts-azure-cognitive-services-gets-new-voice-styles/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1.png"
-        width: 718
-        height: 400
 
 secured: "hY5OkyGbM24e5rW3kzZqDF92CITAtfSgkBsRk+cTpvvbNVzltQ5LudsHDPMXtffhdIVYNtU4wOBkZLaGY7fycO6lQGjQyJQohjxfJrbBAOls0V1pUYaYNBpJJP7uGXPWOf/Dx+YYcFb3waMX8Hktfrd9GwvyVKwVphIpQR5mOgZSPhaY8yUuaKq5C68/0IKextqFay70SyVuUQt0LFSDJx8GZg8WaWMLSmeMJXOSf1hMYONzL7e1PLkNGOBiDFXJ/i9oklQT4Nv8YnxOY5Mi2+YU2fssS1hZRJ3kkGMlQYvw7KT52Ao9TczWfw24misRrKOV8Fi+3DF2gWPUDaQSZKELZJLBDwh3SrZrBGI0gTqKPNlFi4N6VxRHmVsmJnoaJ9y8UczuWN0FpO5rmPJoxsTDCwRdRYAxWhPn/Zm4mJi6qlTHTHGD8wIXyQPrvHIJYYhqLwQGmJb3PPY9eeclGAf1k8RM6wIapL5Fg3Ta054=;J/u2MgzsbtU4VyyzGJ5L2A=="
 ---

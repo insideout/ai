@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/07/microsoft-hires-apple-5g-chief-to-de
 ampWebUrl: "https://venturebeat.com/2020/04/07/microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/microsoft-hires-apple-5g-chief-to-develop-new-hololens-and-ai-products/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2019/12/IMG_6883D-e1579196959488.jpeg?fit=1990%2C995&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 995
     title: "Microsoft hires Apple 5G chief to develop new HoloLens and AI products"
 
-secured: "GxSks6LNfZzFNKwx61S8PAIF9Y1OHYAAZgeSvsFejTmUbvt1qI+3Ja5M9fdr1jM6H10ejdYaWonTx8nZl5RWvwpoJUrhajnpeMRum0waN+2VOovJC1IDqCROJYUGON50xGfeqlD9zYpZsIrWmSMjJqT9whdVTD2LG09tqlq7Sj0qpAHVefyS1VuwXm7XpRGLUGlsCQWJfIeQfhi3sCowPYRMVZnVAbvIrIxtFdZh0mLNcbqAIiBW9GRlhcBL3bq68hqtUNrG6AAk04zlrmRprSpeiQZu7tePllieAtlGWTjVU5rn7t4DgVRHtaaVPpfU;VIwmfovzI5b85IxTfPo/BA=="
+secured: "7OnU3UPTosmpxOR6wOGWiWa4F1Y6/+3xtsy4uOIOZwHPJ4kXBH8tQOe44TuDifgCQs/KDkmaYP7DvtyXXk7Tzu+pVBCbQN8J0kOkYTeM3BAD+k0sBXP9Q1duGeJEv1hfNZgVkz24JsYRuo0RVM5JSsfU8eweZbKQYiMkvGICcO00ja6xYQ07AHUw/uJK4ZCyxV/cuQeuijWM+GRxodd6qDXTUnxCzctABGZhJ4Gf03YkSNhEW2C650Ov3iLzbU3lPzKMOAoLF37Rc9KYtjZ/dniKIA6W5UkEsjrPpa/vcST7bHAJsAMgq3DjcHOCCqcI552AMujftNZ/JeT9OMV0ufFybOMQakar4SOnT0m6Nysg8m6rwiRo7DOHQtBazPctPS4Q+X6tRshZLMv5efsybeEWhoZ3FXvCb8J/2bpsQcFynBOiF1SjIRHXgtV6MHs2LgxgrnapNkKBHbK1dTjzfQ6OfiD72o+A45nkCxcl9pY=;dPj3lvKQYB8zQwW0TlrY9Q=="
 ---
 

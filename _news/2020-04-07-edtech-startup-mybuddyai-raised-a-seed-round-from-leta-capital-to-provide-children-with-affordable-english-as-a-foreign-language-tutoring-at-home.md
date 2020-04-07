@@ -23,6 +23,6 @@ images:
     height: 627
     title: "EdTech Startup MyBuddy.ai Raised a Seed Round From LETA Capital to Provide Children With Affordable English as a Foreign Language Tutoring at Home"
 
-secured: "od3J3II/iP5Aj/j7rAlsNbszzXwOzd+dpO4+DR9j9ncMDeI7V0hqAwJ9UMTDYKLdRDecXoAqfezB4Hol2sGHgdZilp8X5r/KXGlkGjdaza6LuBx0cHAi8uK+j1SL/wDqxYKFudzoB9f4ksbEaaDInMXfdV//A/xR0yD5r6/eStmP3iv7icbcZkY7ARTMsx/56LGJuSqWz+oeHNt2Di+M/wgzhq6hiy0CfMhYHubVa0Ys4gFZmXBAczxdKVA7Ul4dzsw/qmEzxeKNOUnlkSs4ILYGMO5O+mavA3RpbDt1OBPYnsZGvkJLR2BCe81Ok/TM;R+nlwcXPPL7+br2xmYYOxQ=="
+secured: "J9kKkzUeHT3uGYlwZ0MOEpA6817Jwt/56iABLwEo6x/pilWCmVsQXgaFgAfyX6oRk5cTK05qyPSMh+U1EI5+tsSJW8R7jXXuEFWiekEPRan+2ieP/rA+DelxAVh3OBYBm1suXcpODXqVGlAAnVfQiiVZ2a0mK7tYZmbuyDMWCpl+StFPFqhrfH9GQwMQS6+E7SBZUkV1JMrQAdBMpe5TGkSV0NYvC1DSFSW8nKMT/A+3PR+heq9hpw2hawcSq41KJBe+weKZZmbiUR/ov8yXWIjbDsvbRt5Mn7yuRz3uzm0ibXDMwESGh0FymUrvNAbg0BssCBjKv+fsRYClwjZNqcu0VI5xwlOayxB2TDA3RXgMrkkriKZ4xjGiwOB+WVmVfzLaGEW0R28i+fQ3YoDaJFJyMsc5Ido705YslPIAVKftJqTwwuCEziZdWaXrRt/Z06oSlPLLGH3LO1SY9E/ZILp+N+wA69206GkDkmSa2tA=;XV8CPHYo5XC9xGdoYOfc6g=="
 ---
 

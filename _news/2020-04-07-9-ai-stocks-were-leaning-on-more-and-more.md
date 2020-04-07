@@ -7,8 +7,8 @@ webUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-
 ampWebUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
 cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
@@ -25,6 +26,6 @@ images:
     height: 900
     title: "9 AI Stocks We’re Leaning on More and More"
 
-secured: "8pB5xRIA51kWoHbIrfLb9zO5Mdyd0ketcsEdQsFR/6e1S3nf6GMQN6U5YY5lKoXBZnDejIVfXBx/SGIriUPAZOUmsBi6V68RI3akKC1+V1smq9JtY8ve2HIDbgD17sw/MV9b9wun8OvHDH/I/d+gnw1jcPVUOHHkogwv38IWSx+r8SSM06DwDQxq/tr06MukYgocE0TxVIwb0wwz++dcgPI7ZNfzI1JXwKqKWy7CRJOAt17FkB1llaioR4z2nmUSRdb5BmbDZkDoCdFjwYbpEnCw5y+e7eeiKl3t85+w+pNOX6W08y0/f1c60RCdHMNn;F8NpUVeiPRxjKrWR9YrjJA=="
+secured: "CawcapPnLGo/5tkYyboNDh3+i4J3wOZjIIS8B55U3TGyio2O65ik2MfjPpLqk3TCbCMeZm7/bpFfu+7y/tFViqP7JRwJgVSXs6aynIhKNwfCR5KWadpdIvUijPXXVejIK3sE22qrejxHotOnBo65sW+xDn+wsH7GKSXSDM9lNMRTuLcjtVeVfQYJHcYggup9GRFzaTDv9g8haubW895SFEn1f4OE783S7qHdrKWYXoeqLp91vZ76S4sBeM27S3B1a/Amj3sM+PyFAJIJJdLrI1qDnC+jCVuM4S27xxo/qxRlPed7A7C1m4T6pM3skH2cW2ZwCT7yMvd7JTai/0bU7M2gTfx00LTAenLtDxYhgpbY42qNSDc8HiLdm1LxhboFGOSuK+osa/5qRBsL1DfkvGobssOryNRVGE1NdeitStuXn9UjoxjnbXTlvdcELwKPxkvcMVo3DBOJTiWRQr/L05SGfBYyGWjQtdSFdp3gphE=;j21CsVyBxBI8BEYodok8EA=="
 ---
 

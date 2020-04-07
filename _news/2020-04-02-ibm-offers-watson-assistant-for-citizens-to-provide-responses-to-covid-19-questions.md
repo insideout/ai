@@ -1,25 +1,25 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "With Watson Assistant for Citizens, IBM is helping government agencies, healthcare organizations and academic institutions use AI to put trusted data and information into the hands of their ..."
-publishedDateTime: 2020-04-02T04:12:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions/article_cfc92023-2c3e-5cc2-b30f-7bb4a0be50ca.html"
+excerpt: "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ..."
+publishedDateTime: 2020-04-02T04:38:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/c/c7/cc790e5c-84b8-5824-8dd0-7e714abf632c/5e856a9af191d.image.jpg?resize=400%2C309"
-    width: 400
-    height: 309
+  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+    width: 1650
+    height: 864
     title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 
-secured: "J2FiCqf5DDaw9yqMTeZ78tNcaHxlKtqRxTgrXFu+q6DNVqlWwIgiHiNNSD3KYeaGXJVp6gsz/OQa9ifB0adWqh3zPcWksRJB85iDhuUJn9HS8GUAEyx0qLS0X5wfYVA/YsxuyrFM3eh6dQMpR0vZnl1ow+gTkfVZ9O9NO+l3PNvzwGT3BqF50YD2BTX+Qzc7OXxE9KlF74QOLSV3sm0YISBGoZ10sPBe0fXUy+z/HkPQB17lNMxNFUYtoNskF5TpIOIevXdUUTqVIB7jRDODKd8p3iGawb+jJUiojKD5WKIGLJnAPIQ/ERJ1yPk0Vu/s;9LgzncR0LFTK/s2k8OLFHA=="
+secured: "HfG3NB2WOMvHismGLYcJRjXA6poIBfHcWFn0+x+DjrXYHqTBckk3mvMhnqryUzgmfPzsm8RhbMIyx57REkVwEKRk4QGd3ltI1UmsQ6hD6rTQHCyJ2mSSSUf0pllWDfR7JUau0jXz3w/c1Y6GgFZSl1cTa/H0KHAzwp6itHed3FuxdmcLS/QpPBn7h0AqMH0W0hiVNlN1I9u4XLU8L0a18VIgjP1kiYsa1OKNg2kPmphxjVQlPZrEeMYsgM/JojCwqjGWz5539kUwTRxhJqHZSIZBTsMyBHdVw7aUsQ0c1+I4DFQ/SLK5Ykx8gr2UUQmB;z9uuEKpOrpYTHi/9kBqaAw=="
 ---
 
