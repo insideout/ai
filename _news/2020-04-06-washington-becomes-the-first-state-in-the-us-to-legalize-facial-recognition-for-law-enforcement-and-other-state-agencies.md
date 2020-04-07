@@ -25,6 +25,6 @@ images:
     height: 382
     title: "Washington becomes the first state in the US to LEGALIZE facial recognition for law enforcement and other state agencies"
 
-secured: "fgl4pksAqdG1Aq63nIOoDR/2dmHI5IDaNKxmbyc+ls2HCUxzOuA6vajVAMIG+QoUjDNIIaLmsWgIpxmYx8AsA5we2K9mzLsMedaAZAqOg+qi1HI18aiaENSGP84jCTi+yGMHCpgzFGlnyQMSo8mMmobJMxPqNLVnk0Tu2iUspeY0JIhCMrJDyovHbUJtQqk/yP813PLReXxbK7aNkcjWw1hiLBk9OM3wAsz8iGOvYXOcrp/5xriyyazlkAXpbMJ6+VVnrVItjoSr4QuiKQRvJ1+ksNfaFTaXcQgNnBCiLogBfhtDE+Y2VmvYiw+lwBGd;cRMDzgoP6Li79Dy+bm91IA=="
+secured: "t+411V7p7vZkObqYdNKBdIvA1+Uw1O6uxIjCf0ULaYaYxmku/EC2s7DIzuC5D0xU+VKcgwC/HrYuBrCLKSz5JAgczbtF5cmzITAvJymmB9hJlsiVEcSIDd3AcTsCeQIxJrn//qO9UJmHvONJPynievZZXY5BlHDLVhenZJ+cjQoPzjAF+a5UzReyynuVbfRQ//hgiva4eFtafVMcSVGzgvrsBp0WjK0MsMD3YIAYyNn+C5S3kq1VIOfdgD5p5sa6AgzYyI7q0DK4IeqGPP38Z0ATmQku8rLb+M22l2gsMHIUB3w8LJ9guJypFRcYi2myCTme+cWnPTwAJAIVHPfkDFZv/BuE+y1SwfsOWmbku08v6FB2LUjYNx6tDF+bKT+QySV96B3NAEoDnqfp5yYTGb1udWVYKWgYgMkuJBrY1uYlVOV6WdXTftoKNL3ns2OCCWmi8fMASL53HYWsR+m9L2EPHrqbml19DJxVnSDTeGs=;wIxD/mfDk6E1njnK3NX4tQ=="
 ---
 

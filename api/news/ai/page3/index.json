@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-02-microsoft-expands-the-availability-of-azure-kinect-to-japan-germany-and-the-uk.md",
+      "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
+      "excerpt": "At MWC 2019, Microsoft first announced Azure Kinect, a connected depth camera that enables organizations to build AI vision solutions. Azure Kinect features best in class depth sensor, high definition 4K camera and a microphone array (7 mics). In July 2019, Microsoft announced the general availability of Azure Kinect in the US and China.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/",
+      "ampWebUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/",
+      "publishedDateTime": "2020-04-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2019/02/Azure-Kinect-1.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibm-watson-offers-free-service-to-answer-covid-19-questions.md",
       "title": "IBM Watson offers free service to answer COVID-19 questions",
       "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, natural language processing capabilities from IBM Research, and enterprise artificial intelligence (AI) search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19, IBM said. \"While helping government agencies ...",
@@ -1271,52 +1308,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
-      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
-      "publishedDateTime": "2020-04-01T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

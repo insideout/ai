@@ -2,6 +2,125 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-12-deep-north-closes-257-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform.md",
+      "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
+      "excerpt": "/PRNewswire/ -- Deep North, a pioneer in computer vision and AI- powered video analytics, has closed a $25.7 million Series A funding round, led",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/deep-north-closes-25-7-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform-301021818.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1122876/Deep_North_Logo.jpg?p=facebook",
+          "width": 707,
+          "height": 371,
+          "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-intel-starts-using-facial-recognition-technology-to-id-workers-visitors.md",
+      "title": "Intel starts using facial recognition technology to ID workers, visitors",
+      "excerpt": "This may be the largest implementation of facial recognition in the workplace anywhere in the country. Intel has 20,000 employees in Oregon and roughly 50,000 nationwide. It comes as public ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html",
+      "ampWebUrl": "https://www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/silicon-forest/2020/03/intel-starts-using-facial-recognition-technology-to-scan-workers-visitors.html?outputType=amp",
+      "publishedDateTime": "2020-03-11T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Oregonian",
+        "domain": "oregonlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/BAIVJF6SGVCARACVWYB77KNGYA.jpg",
+          "width": 3022,
+          "height": 2014,
+          "title": "Intel starts using facial recognition technology to ID workers, visitors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-video-analytics-isr-and-intelligent-video-surveillance-americas-market-to-experience-significant-growth-during-the-forecast-period-in-2020.md",
+      "title": "Video Analytics, ISR And Intelligent Video Surveillance Americas Market To Experience Significant Growth During The Forecast Period In 2020",
+      "excerpt": "Mar 12, 2020 (AmericaNewsHour) -- By the end of 2014, the North America & Latin America markets for Object Recognition, Video Analytics, Intelligent Video Surveillance & ISR products and services ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/video-analytics-isr-and-intelligent-video-surveillance-americas-market-to-experience-significant-growth-during-the-forecast-period-in-2020-2020-03-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Video Analytics, ISR And Intelligent Video Surveillance Americas Market To Experience Significant Growth During The Forecast Period In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-intels-facial-recognition-will-track-employees-and-visitors.md",
       "title": "Intel’s Facial Recognition Will Track Employees and Visitors",
       "excerpt": "Intel’s Portland office will begin using facial recognition to identify “high risk individuals.” The company touts the tech as being used for safety, but many are concerned about privacy and ...",
@@ -997,133 +1116,6 @@
           "width": 800,
           "height": 450,
           "title": "We Found Clearview AI's Shady Face Recognition App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures.md",
-      "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
-      "excerpt": "The company is rolling out a new software update for the Galaxy Note10 series carrying the version number N97xFXXU2BTB5 that improves face recognition and full-screen navigation gestures on it. Despite improving full-screen navigation gestures though ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures",
-      "ampWebUrl": "https://www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/samsung-galaxy-note10-update-improves-face-recognition-and-full-screen-gestures/",
-      "publishedDateTime": "2020-02-27T19:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/08/1565208998_samsung-galaxy-note10-2_story.jpg",
-          "width": 760,
-          "height": 537,
-          "title": "Samsung Galaxy Note10 update improves face recognition and full-screen gestures",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-facial-recognition-company-says-entire-client-list-was-stolen.md",
-      "title": "Facial recognition company says entire client list was stolen",
-      "excerpt": "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-27T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition company says entire client list was stolen",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
-      "title": "ICE warrantless facial recognition searches trigger Maryland bill",
-      "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
-      "publishedDateTime": "2020-02-27T16:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
-          "width": 2215,
-          "height": 1353,
-          "title": "ICE warrantless facial recognition searches trigger Maryland bill",
           "attribution": null
         }
       ],

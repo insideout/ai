@@ -24,6 +24,6 @@ images:
     height: 630
     title: "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation"
 
-secured: "NmfRLSj0ZrAiPwOdWkIZu57/gTesX77mDTGNpvuLEUuDNkxCuB6X/p2dzs3E9Iodh9Lh16kv0x2paKuVyVDJQqXlorbY2o3iwwvOXruMvywjbXuO7A6hfYeBd+bI/6p5i0Okhp8g9Nzq6S8IxI7eqgwE4TJS/dYiB4QYSZvbkbSBOfq+VrRx31bUVuEyw7r9dBwaqnYmiu5acn30o/Bo6Pib1iooHEoM39xqiGm4a9Fpuxdp5gJMVgk+9ip2/zNrj3zyaO2AkEckPJr4zVnP/7DrGRCcjwh9X48F+BcLjDgi0Ge6AedRwFGSk3rrd9sf;TqRp6eUMdIrgPC8VfrZUgQ=="
+secured: "RIfAtreccT30WUsAl78nc8o4vxglTmmt6XolXUboh14nEzEaUwmlqqor/DQgy+TW8LBu4bDz5cdibb2hren8R9nJ7J8Fb7PFH3gztKhY4aBip4w9IgAJmciBwViK1x//pr7mt9d0+mhqHZrrIKP7EMOGTWsbb+VxIiisxq+X1Bh2Ph4BoE2OG/wvthuZAUlepGNBpmQDi1+GF7LvzFTc7PJbBdV8fE+mSIDc/ty45qEqNnF49r14qNWy+qdPjvxJt5Xfg1xCOJfWj3HMcY61EBdkU6Vu9csm/rzs6jRnaIzD0rPZpOYq0eQabpoz3PUy;M+6i3HvGyE+Fj241cLWU2w=="
 ---
 

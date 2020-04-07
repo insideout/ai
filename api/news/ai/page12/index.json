@@ -2,6 +2,88 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-24-nvidia-azure-and-aws-offer-free-resources-to-fight-against-covid-19.md",
+      "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
+      "excerpt": "However, for these machine learning models to work, they need tremendous amounts of computational power ... NVIDIA Parabricks’ pipelines have been tested on Dell, HPE, IBM, and NVIDIA servers at Amazon Web Services, Google Cloud, and Microsoft Azure. NVIDIA advises users to start with a small server for a small number of samples and then ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/nvidia-aws-google-cloud-free-gpu-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/nvidia-gpu-covid.png",
+          "width": 680,
+          "height": 383,
+          "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024.md",
+      "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
+      "excerpt": "Global “Artificial Intelligence (AI) ChipsMarket“ Report 2020report recorddetailed estimation to improvement a",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024-2020-03-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-miso-robotics-deploys-ai-screening-devices-to-detect-signs-of-fever-at-restaurants.md",
       "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
       "excerpt": "Miso Robotics, a startup developing robots that can perform basic cooking tasks in commercial kitchens ... can boost productivity by working with humans as opposed to wholly replacing them. Miso AI, Miso’s eponymous cloud-based platform, orchestrates the prep of over a dozen food items, including chicken tenders, chicken wings, tater ...",
@@ -208,6 +290,43 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ram-shankar-siva-kumar.md",
+      "title": "Ram Shankar Siva Kumar",
+      "excerpt": "Ram is a Data Cowboy in Azure Security at Microsoft, working in the intersection of Machine Learning and Security. At Microsoft, his primary focus is modeling massive amounts of security logs to surface malicious activity. For instance, how do you detect ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://cyber.harvard.edu/people/ram-shankar-siva-kumar",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cyber.harvard.edu/sites/default/files/2018-08/20170929_184334.jpg",
+          "width": 533,
+          "height": 711,
+          "title": "Ram Shankar Siva Kumar",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1167,132 +1286,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
-      "title": "How AI Makes Big Data Smarter",
-      "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
-      "publishedDateTime": "2020-03-23T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-54-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Makes Big Data Smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-brainchip-and-socionext-provide-a-new-low-power-artificial-intelligence-platform-for-ai-edge-applications.md",
-      "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
-      "excerpt": "... an advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. This innovative, event-based, neural network processor is inspired by the event-based nature of the human brain.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-brainchip-socionext-provide-new-low-power-artificial-intelligence-/2020/03/23/9119201.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
-          "width": 252,
-          "height": 335,
-          "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-is-voice-the-next-big-thing-to-transform-consumer-behavior.md",
-      "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
-      "excerpt": "Voice is an untapped channel that can provide an opportunity for deeper engagement with our customers — and we can't afford to leave that opportunity on the table.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
-      "publishedDateTime": "2020-03-23T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F03%2Fa-52.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

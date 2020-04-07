@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-13-ai-in-healthcare-market-exploring-future-growth-2019-2030-and-key-players-nvidia-intel-general-electric.md",
+      "title": "Ai in Healthcare Market Exploring Future Growth 2019-2030 and Key Players - NVIDIA, Intel, GENERAL ELECTRIC",
+      "excerpt": "AI in healthcare is used to perform complex cognitive tasks and to analyze large amounts of patient data quickly & effectively. Artificial Intelligence makes use of number of different algorithms and decision-making capabilities,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-healthcare-market-exploring-future-growth-2019-2030-and-key-players---nvidia-intel-general-electric-2020-03-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Ai in Healthcare Market Exploring Future Growth 2019-2030 and Key Players - NVIDIA, Intel, GENERAL ELECTRIC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
       "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
       "excerpt": "BENGALURU, India, March 13, 2020 /PRNewswire/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services report 2020. Infosys emerged as ...",
@@ -1093,35 +1139,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-04-how-ibm-makes-money.md",
-      "title": "How IBM Makes Money",
-      "excerpt": "Major competitors include Alphabet Inc. (GOOGL), Cisco Systems Inc. (CSCO), Microsoft Corp. (MSFT ... IBM sells IT services, cloud and cognitive offerings, and enterprise systems and software.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.investopedia.com/how-ibm-makes-money-4798528",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T13:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investopedia",
-        "domain": "investopedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

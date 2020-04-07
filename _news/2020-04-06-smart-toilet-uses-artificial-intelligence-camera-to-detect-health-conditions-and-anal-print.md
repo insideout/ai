@@ -5,8 +5,8 @@ excerpt: "Researchers at Stanford University built the device using an upward-fa
 publishedDateTime: 2020-04-06T22:35:00Z
 webUrl: "https://www.independent.co.uk/life-style/gadgets-and-tech/news/smart-toilet-camera-artificial-intelligence-cancer-disease-ai-anal-print-health-a9450901.html"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/04/06/18/smart-toilet-ai-camera-health.jpg"
@@ -22,6 +23,6 @@ images:
     height: 475
     title: "Smart toilet uses artificial intelligence camera to detect health conditions and ‘anal print’"
 
-secured: "Y2xpzQDgd6+iYM3Q2jF1RlpraAgOv2+j2Jiljs7qztTaYe2NqUbcsThcsLdToZtcLjkc5mp8K+zjoKE2D0GqSZZ3qS8FvhpXLkzl5pvfHFUrWAlAM7RFYe1CXYp1nxzN5ot1RRl4wBYjEyettbIDTNTcSWEwF2MXjN/i2lfnazdgcVTHRR5X5vtOBnGf36TmAtX9/XL9XHyQCfQ6WIh+5sXuEc0m0oo8f3uY/faTz9AN0E1LtWC5Z+bMqGtQAkBAAJML39rfWAWd0DdA4CEzuXxYZhd/KcJ2RpmJatENMni90R7/dxXjdjpTjbsRDyU1;4aGUulodw3jaIbaS7A+xbg=="
+secured: "nrqcUK0OtVIfq2HfHu8VSUXT0CluRAIKnH6jD8KfrtQC4CjpliUt7GRbvt2HFs6uWBr7DQ8a6V52LFOV7qcqfbUZpoFHkc8Ou2pGowPM5/w754KnbruDU30j8eDrfSt5Lm9Ra0YAVtcIvSwnXL/ZjXzyohH6uqWz8Oj9B18MoskMTvMFaBE4WaqI7fT7l4YRyYFxZnW7kS9hfd9jFEac6gpIJSDe2Pdag7XSv0FYRtxZjzBkEAOklVctj2YIseqSFgDodNOW9hA1BccrgryJhPmMgOAoY7Fmv/Hc/1df91xpdCMgdLSA0Jo1IhdJ+Dsco4YJzhpaL9TNcb3Rv0uf9ZEIaM12guSNwkI9/gtRW+8tlADERdFsp9cp8t8ifKmgd6GwtJCsNYMjfHEPCnGa7whVueKG69ESTb180THux54FUlL4YFe9hbr0vus+CyGjTZ3ZjdAH1CKSjXUao5oYUsHKe8AeuIK0OblOdPWUP0w=;o5WNLZl1Y933vvgPO4Lb0Q=="
 ---
 
