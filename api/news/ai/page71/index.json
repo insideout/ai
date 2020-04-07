@@ -2,6 +2,230 @@
   "page": 71,
   "value": [
     {
+      "path": "_news/2020-01-17-pfizer-has-tied-up-with-a-biotech-startup-to-leverage-its-ai-tools-to-identify-drug-targets.md",
+      "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
+      "excerpt": "Pfizer teamed up with AI biotech firm Insilico Medicine to leverage Insilico's technology to identify drug targets for a variety of diseases",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/pfizer-insilico-medicine-partner-to-identify-drug-targets-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T09:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e21c48162fa8132960b1932?width=1200&format=jpeg",
+          "width": 800,
+          "height": 400,
+          "title": "Pfizer has tied up with a biotech startup to leverage its AI tools to identify drug targets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025.md",
+      "title": "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025",
+      "excerpt": "The AI In Medical Imaging Market recently Published Global Market research study with more than 100 industry informative desk and Figures spread through Pages and easy to understand detailed TOC on \"AI In Medical Imaging Market\".",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-enhancement-latest-trends-growth-and-opportunity-during-2019-to-2025-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Medical Imaging Market Enhancement, Latest Trends, Growth and Opportunity during 2019 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-google-says-yes-to-no-code-acquires-appsheet.md",
+      "title": "Google Says Yes To No-Code, Acquires AppSheet",
+      "excerpt": "and some of its innovations fail to ever gain enough traction to survive (such as Google Wave, Google Answers and Google +).",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/01/17/google-says-yes-to-no-code-acquires-appsheet/amp/",
+      "publishedDateTime": "2020-01-17T09:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/640x374/https://specials-images.forbesimg.com/imageserve/5e21d179980ca10006aaab8e/960x0.jpg?fit=scale",
+          "width": 640,
+          "height": 374,
+          "title": "Google Says Yes To No-Code, Acquires AppSheet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies.md",
+      "title": "World Economic Forum launches toolkit to help corporate boards build AI-first companies",
+      "excerpt": "The value of building data-driven businesses with AI at their core is well known today, and business executives are rushing to implement the technology into their operations and gain a competitive advantage, but it’s not as simple as creating a data lake and creating AI models. A large number of AI companies attempting to implement more AI ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/world-economic-forum-launches-toolkit-to-help-corporate-boards-build-ai-first-companies/amp/",
+      "publishedDateTime": "2020-01-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/world-economic-forum.jpeg?fit=1200%2C800&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": "World Economic Forum launches toolkit to help corporate boards build AI-first companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-sensetimes-ai-generates-realistic-deepfake-videos.md",
+      "title": "SenseTime’s AI generates realistic deepfake videos",
+      "excerpt": "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/",
+      "publishedDateTime": "2020-01-17T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepfake_sensetime-e1579279865680.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SenseTime’s AI generates realistic deepfake videos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-heres-what-bosch-hopes-to-learn-from-deploying-autonomous-cars-in-san-jose.md",
       "title": "Here’s what Bosch hopes to learn from deploying autonomous cars in San Jose",
       "excerpt": "German supplier Bosch is notably moving full speed ahead with its quest to make driverless cars a reality. Kay Stepper, Bosch’s senior vice president of automated driving, sat down with Digital Trends to talk about the state of autonomous driving in 2020, and what’s next for the artificial intelligence technology that powers the prototypes ...",
@@ -1062,204 +1286,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-ai-and-robots-could-be-the-future-of-agriculture-strictly-robots.md",
-      "title": "AI and robots could be the future of agriculture — Strictly Robots",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/farmwise-ai-robots-farming/",
-      "ampWebUrl": "https://mashable.com/video/farmwise-ai-robots-farming.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/farmwise-ai-robots-farming.amp",
-      "publishedDateTime": "2020-01-16T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F16%252Ffb%252F4ce1af61f56d418791bd1943a0e241bf.d3358.png%252F1200x630.png?signature=2_OfVvw_btp4UlWKx25cVJvrcxI=",
-          "width": 1200,
-          "height": 630,
-          "title": "AI and robots could be the future of agriculture — Strictly Robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-nrf-2020-for-retailers-voice-recognition-is-a-major-untapped-opportunity.md",
-      "title": "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity",
-      "excerpt": "Still, most retailers have struggled to harness voice recognition. That needs to change, Gauthier argued. People are increasingly demanding the ability to communicate digitally without using their hands, and retail brands that get in front of the trend will benefit greatly. “We learn to talk before we learn to type,” Gauthier said.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/01/nrf-2020-retailers-voice-recognition-major-untapped-opportunity?amp",
-      "publishedDateTime": "2020-01-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202001/voice%20shopping%20hero.jpg?itok=0JeW9_e_",
-          "width": 1440,
-          "height": 500,
-          "title": "NRF 2020: For Retailers, Voice Recognition Is a Major Untapped Opportunity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai.md",
-      "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
-      "excerpt": "AI and privacy needn’t be mutually exclusive. After a decade in the labs, homomorphic encryption (HE) is emerging as a top way to help protect data privacy in machine learning (ML) and cloud computing. It’s a timely breakthrough: Data from ML is doubling yearly. At the same time, concern about related data privacy and security is growing ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/meet-the-new-twist-on-data-encryption-that-promises-better-privacy-and-security-for-ai/amp/",
-      "publishedDateTime": "2020-01-16T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-654683563.jpeg?fit=1906%2C953&strip=all",
-          "width": 1906,
-          "height": 953,
-          "title": "Meet the new twist on data encryption that promises better privacy and security for AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas.md",
-      "title": "EU mulls five-year ban on facial recognition tech in public areas",
-      "excerpt": "The European Union is considering banning facial recognition technology in public areas for up to five years, to give it time to work out how to prevent abuses, according to proposals seen by Reuters.",
-      "heat": 429,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-eu-ai/eu-mulls-five-year-ban-on-facial-recognition-tech-in-public-areas-idUSKBN1ZF2QL?feedType=RSS&feedName=technologyNews",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZF2QL",
-      "publishedDateTime": "2020-01-16T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "EU mulls five-year ban on facial recognition tech in public areas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-cornerstone-acquires-clustree-for-its-ai-powered-skills-engine.md",
-      "title": "Cornerstone acquires Clustree for its AI-powered skills engine",
-      "excerpt": "Cornerstone On Demand, which makes human capital management (HCM) software, on Thursday announced it is acquiring Clustree, a French technology company with an AI-powered skills engine and an extensive skills ontology. Cornerstone is paying $18.5 million in all cash, and the deal is expected to close this quarter. Cornerstone plans to ...",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cornerstone-acquires-clustree-for-its-ai-powered-skills-engine/",
-      "publishedDateTime": "2020-01-16T13:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://mspoweruser.com/ibm-watson-address-all-your-coronavirus-ques
 cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-watson-address-all-your-coronavirus-questions/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 1200
     height: 800
     title: "IBM Watson can now address all your coronavirus questions"
-
-related:
-  - title: "IBM Watson can answer all your coronavirus questions"
-    excerpt: "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ..."
-    publishedDateTime: 2020-04-02T17:28:00Z
-    webUrl: "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    ampWebUrl: "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/DWGrTNnWhJtePd4QKjQJoY-1200-80.jpg"
-        width: 1200
-        height: 675
-  - title: "Austin deploying IBM’s tech to share coronavirus info"
-    excerpt: "... is joining a handful of organizations that will begin using IBM's artificial intelligence-enabled virtual assistant service to provide information on the coronavirus pandemic. IBM says Austin will be one of 10 organizations using the company’s new service, Watson Assistant for Citizens, to help communicate information about COVID-19."
-    publishedDateTime: 2020-04-02T21:29:00Z
-    webUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info"
-    ampWebUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
-    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 44
-    images:
-      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200402&Category=BUSINESS&ArtNo=200409737&Ref=AR"
-        width: 3000
-        height: 1917
 
 secured: "0zSyberC6JuvEGFSh3bdA9deG35R9dfmdGecuyEwUUUXXvKF7e1mysCgH6pAL4PHYC75kTGCXOAqu+l45dTSvTmR+S/7p+SYxrbZ1FJzn8Tjj+6w99DAXdfoFGOpg//Ok/HeE9IWeNbfP+HQGXEx7R+rTw5iET7eWXw9bs/obQmAzrKw2Vq97YFcLUyX0ONIbXQEqGQVCMADcEwOwhHPKPESEsz5yiT9pFWtNSsi0XH3vL6a9ReuM5B7UVGeDt5QNHjWfBHOvzO7We9ZhfVL43ajF8ohqYRB2wcGZSorcUIlw/E9HU9U5V/GdeBB5+8BRlsEqIT8Sr2k5+FxWWxVqOuiCQehobhwATNE3/Ubu48M4UMFw+KK+rEE0OLuAt3+puTtq/CzcKwfGVc72ZQynYmNK40y6GNd9vMPm6iNE0sch/OS14vQprrY5KfyfBuzYhrR2/7Bxh5oHsuOAGizwewZGHNF7dIWo8fKYbCL0F8=;X3cBJf4TSqxGEl1a/YY7Dw=="
 ---

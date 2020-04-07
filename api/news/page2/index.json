@@ -2,6 +2,139 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
+      "title": "Why AI startups’ economics will likely improve over time",
+      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
+      "publishedDateTime": "2020-04-06T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Why AI startups’ economics will likely improve over time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
+      "title": "Microsoft Azure Speech to Text review",
+      "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/reviews/microsoft-azure-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft Azure Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans.md",
+      "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
+      "excerpt": "AI has revealed that mice have a range of facial expressions that show they feel — offering fresh clues about how emotional responses arise in human brains. Scientists at the Max Planck Institute of Neurobiology in Germany made the discovery by recording the faces of lab mice when they were exposed to different stimuli, such as sweet flavors ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
+      "publishedDateTime": "2020-04-06T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design51-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
       "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
       "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
@@ -940,140 +1073,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars.md",
-      "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-      "excerpt": "Some of you might be familiar with a parable that many refer to as the Upstream Parable or alternatively the River Story. Attributed to various originating sources, some believe it was initially brought up in the 1930s by Saul Alinksy,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F502060284%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D385%26cropY2%3D4523",
-          "width": 1200,
-          "height": 675,
-          "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service.md",
-      "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-      "excerpt": "98point6, a telemedical startup whose platform pairs clinicians with AI to provide text-based care, today announced that it secured $40 million in financing. CEO Robbie Cape, a former Microsoft executive and the founder of the family organization company Cozi, said the capital would be used to hire three times more physicians by the end of April.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "publishedDateTime": "2020-04-03T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-experimental-covid-19-test-attempts-to-use-your-voice-to-check-for-symptoms.md",
-      "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
-      "excerpt": "That’s why a research team at Carnegie Mellon University developed a cheaper, more accessible way to potentially detect signs of the virus: voice detection (h/t: Futurism). The team has been working on this solution for a while, and now it has released an early version of a web app called the COVID Voice Detector. The app uses an in-house ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/",
-      "ampWebUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
-      "publishedDateTime": "2020-04-03T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Pixel-4-XL-back-in-hand-2-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

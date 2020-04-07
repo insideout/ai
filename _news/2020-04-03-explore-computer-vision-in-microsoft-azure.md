@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-03T05:26:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,23 +27,6 @@ images:
     width: 800
     height: 400
     title: "Explore computer vision in Microsoft Azure"
-
-related:
-  - title: "Microsoft Azure Text to Speech service now offers natural-sounding voice and emotion styles"
-    excerpt: "Microsoft Cognitive Services’ Text to Speech service converts text to speech for more natural interfaces. Developers can make use of this service to build apps and services that speak naturally. Thanks to breakthrough research in speech synthesis technology, Microsoft’s Text to Speech service already delivers fluid, natural-sounding speech ..."
-    publishedDateTime: 2020-04-02T18:30:00Z
-    webUrl: "https://mspoweruser.com/azure-text-to-speech-voice-and-emotion-styles/"
-    ampWebUrl: "https://mspoweruser.com/azure-text-to-speech-voice-and-emotion-styles/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/azure-text-to-speech-voice-and-emotion-styles/amp/"
-    type: article
-    provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 64
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
-        width: 918
-        height: 516
 
 secured: "fe61Wj7ClSXfU2bZ1M1Nq7E29eHoeb/WY/x8W5WhvELCB5WLLYiOJxUH8U3OaXNWDpTqHWrDLit5BKbVNYzyOyxOryUPizuKZGSF5QEFw+kksw2NFlg5Duhjks8yIIFNYKTMrlcsrk7T3KRBtcLdb5I6ShLR83WskGr01ZBwneanvDYFY7B0RVzN0T65UsTp6XQCXYVw8CDLa372CHaDxRrwxjcYdxI+csArZPwcB04AddWA0px1UiV4/+gEZOY225zKEOW6CRqfa+JpceCb8ms99AKCpThSq9ZzL4WsCVIjA4ELGEEJNd+iOpNcv2JR;2msbVlv3X0afV5nMCeYUYQ=="
 ---

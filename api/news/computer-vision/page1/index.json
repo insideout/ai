@@ -140,7 +140,7 @@
       "path": "_news/2020-04-03-explore-computer-vision-in-microsoft-azure.md",
       "title": "Explore computer vision in Microsoft Azure",
       "excerpt": "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ...",
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "type": "article",
       "webUrl": "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/",

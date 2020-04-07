@@ -2,6 +2,180 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
+      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "publishedDateTime": "2020-03-31T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "TensorFlow",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ai-lifecycle-management-startup-cnvrgio-launches-free-community-tier.md",
+      "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
+      "excerpt": "Cnvrg.io, a data science startup headquartered in Jerusalem and New York, today released a community version of its machine learning automation platform designed to help enterprises manage and scale AI. CEO Yochay Ettun says the release was motivated in part by the influx of social distancing and remote work stemming from the COVID-19 pandemic ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
+      "publishedDateTime": "2020-03-31T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?fit=1000%2C600&strip=all",
+          "width": 1000,
+          "height": 600,
+          "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-niantic-acquires-spatial-mapping-startup-6dai.md",
+      "title": "Niantic Acquires Spatial Mapping Startup 6D.ai",
+      "excerpt": "A machine readable 1:1 digital copy of the world, anchored exactly to it, might be the most valuable asset in computing.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/03/31/niantic-acquires-spatial-mapping-startup-6dai/amp/",
+      "publishedDateTime": "2020-03-31T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e814e8a08eb0800065223a5%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1566%26cropY1%3D0%26cropY2%3D880",
+          "width": 1199,
+          "height": 674,
+          "title": "Niantic Acquires Spatial Mapping Startup 6D.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years.md",
+      "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
+      "excerpt": "Recent quantitative assessments of the impact of AI highlight the precarious nature of the future of work (long after the coronavirus pandemic ends), the continuing mixed attitudes of consumers about data privacy,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e82b806cff6b00007a45dfa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
       "title": "Perceive emerges from stealth with Ergo edge AI chip",
       "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
@@ -1141,185 +1315,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsofts-ai-powered-editor-can-generate-rewrite-suggestions.md",
-      "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
-      "excerpt": "Microsoft’s writing assistant for Microsoft 365 users is coming to Chrome and Edge browser extensions as well as Outlook.com and is getting new AI-powered features like Rewrite Suggestions, which lets you highlight a sentence then right-click for AI-generated revision ideas. AI editor can also now review text for more gender-related ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsofts-ai-powered-editor-can-generate-rewrite-suggestions/amp/",
-      "publishedDateTime": "2020-03-30T08:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/01/microsoft-e1527266497382.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features.md",
-      "title": "Microsoft 365 bundles Office 365 with AI and cloud-powered features",
-      "excerpt": "Microsoft today announced that on April 21, Office 365 will become Microsoft 365, or “the subscription for your life.” The new suite takes Office 365 and adds “new AI, rich content and templates, and cloud-powered experiences.” On April 21, Microsoft 365 Personal and Microsoft 365 Family subscriptions (up to six people) will replace ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/microsoft-365-bundles-office-365-with-ai-and-cloud-powered-features/amp/",
-      "publishedDateTime": "2020-03-30T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/microsoft-365-for-consumers.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft 365 bundles Office 365 with AI and cloud-powered features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
-      "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
-      "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/microsoft-365-ai-tools/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T08:33:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/03/Microsoft-365-AI-Sumit-Chauhan-Mira-Lane_1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral.md",
-      "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-      "excerpt": "Reports claim that Tesla Autopilot might soon get a red light auto-stopper feature, which causes some to worry.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
-      "publishedDateTime": "2020-03-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39403725%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

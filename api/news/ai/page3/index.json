@@ -2,6 +2,135 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-03-azure-cognitive-services-get-all-new-natural-text-to-speech-voices.md",
+      "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
+      "excerpt": "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/",
+      "ampWebUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
+      "publishedDateTime": "2020-04-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025.md",
+      "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
+      "excerpt": "New York, April 03, 2020: The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025-2020-04-03",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-explore-computer-vision-in-microsoft-azure.md",
+      "title": "Explore computer vision in Microsoft Azure",
+      "excerpt": "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Explore computer vision in Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
       "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
       "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
@@ -306,6 +435,51 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors.md",
+      "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
+      "excerpt": "Machine learning experts working at Google Health have published a new study in tandem with the University of California San Francisco (UCSF)’s computational health sciences department that describes a machine learning model the researchers built that can anticipate normal physician drug prescribing patterns, using a patient’s electronic ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
+      "publishedDateTime": "2020-04-02T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-457969068.jpg?w=1024",
+          "width": 1024,
+          "height": 778,
+          "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1150,187 +1324,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations.md",
-      "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
-      "excerpt": "Today, it’s taking another step in that trajectory with a tech acquisition: the company has acquired Geomagical Labs, an AI imaging startup based out of Mountain View. Geomagical Labs has a number of computer vision-based technologies in the works right now, but its first product — which allows a user to quickly scan a room using any ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
-      "publishedDateTime": "2020-04-02T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Decorated-room-Pic2.png?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-transform-your-photo-in-the-style-of-an-iconic-artist.md",
-      "title": "Transform your photo in the style of an iconic artist",
-      "excerpt": "From the bold, swirling movement in Vincent van Gogh's paintings, to the surreal, confident brushstrokes of Frida Kahlo, many famous artists have instantly recognizable styles. Now you can use these styles to transform your own photos. With Art Transfer, a new feature in the Google Arts &amp; Culture",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
-      "publishedDateTime": "2020-04-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Art_Transfer_mosaic.max-1300x1300.png",
-          "width": 1300,
-          "height": 515,
-          "title": "Transform your photo in the style of an iconic artist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
-      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "publishedDateTime": "2020-04-02T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
-          "width": 640,
-          "height": 449,
-          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-train-a-deep-learning-image-classification-model-with-mlnet-and-tensorflow.md",
-      "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-      "excerpt": "Image classification takes an image as input and categorizes it into a prescribed class. This sample shows a .NET Core console application that trains a custom deep learning model using transfer learning, a pretrained image classification TensorFlow model and the ML.NET Image Classification API to classify images of concrete surfaces into one ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-transfer-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-07-from-artificial-intelligence-to-smart-pens-technological-advancements-in-diabetes-care.md",
+      "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+      "excerpt": "By creating an interface through which the pen can keep a track of insulin doses, store the data in an app and share the data with users, care givers and health care professionals ... For the past few years, artificial intelligence has been touted to be the game changer in diabetes care, but somehow AI has not lived up to its initial promise.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348861",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348861",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348861",
+      "publishedDateTime": "2020-04-07T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160126153527-sugar-glucose-test-diabetic-diabetes-insulin-blood-test-glucometer.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-coronavirus-could-be-catalyst-for-healthcare-ai-advances.md",
       "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
       "excerpt": "Just as the U.S. government significantly invested to put Neil Armstrong and others on the moon by 1969 – $200 billion in today’s dollars by his estimate – Scott said similar funding in artificial intelligence technology could be a difference-maker for our nation’s battered health care system. Scott, 48, whose new book about AI will be ...",
@@ -1154,43 +1199,6 @@
           "width": 1200,
           "height": 630,
           "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic-partnership-agreement-for-cancer-therapy.md",
-      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
-      "excerpt": "BEIJING and HONG KONG, March 16, 2020 /PRNewswire/ -- Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence co",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-a-strategic/article_f1f14c38-3185-59c4-98d5-ea651d7859ab.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/75/9752459f-59a6-563c-9b63-499429e40144/5e716f6361d59.image.jpg?resize=400%2C225",
-          "width": 400,
-          "height": 225,
-          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into a strategic partnership agreement for cancer therapy",
           "attribution": null
         }
       ],

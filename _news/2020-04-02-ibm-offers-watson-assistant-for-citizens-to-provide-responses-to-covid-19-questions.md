@@ -1,27 +1,19 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ..."
-publishedDateTime: 2020-04-02T04:13:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15723362"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362"
+excerpt: "With Watson Assistant for Citizens, IBM is helping government agencies, healthcare organizations and academic institutions use AI to put trusted data and information into the hands of their ..."
+publishedDateTime: 2020-04-02T04:12:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions/article_cfc92023-2c3e-5cc2-b30f-7bb4a0be50ca.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg"
-    width: 400
-    height: 309
-    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-
-secured: "JNYKgLT+LmPxJDK1byzNAeY4/hUwBdsXBth+l6Lej5zzmAVLp/Ho7vh4a3sGOlT1ic8oxJ9ED/ck4Ul0m8+UgGWs7vjZFmXQNQBAO1q6hvgGOwQcix/zeAJ5e/6hY02ia4deRYukXzxD9CjGw7XecglUQUftK+eKLAxRqBCTfDDwn8J1w0kylAb2beBvTWiyuoaHPasfo06PrkFxYRwVEiXzrGZjlhixMEpluQAn1e9JGfphtIOWCCM1Myuc84DhoRoLx8hVJ6E7p9IsvkPICj24njVsWiKTyHeHvCnM48zpaR19ycnrFypxBb/1hSDE;kN7GYCbE9xLODB5qB7Yq5g=="
+secured: "E2JYmABUi7/Lr2L0h2YVLqeRil+ceVuEimW2c/Dt1m9fvDO0xtVhQ0sljs1bqu6bn4xwRvv4RAFEPg+Xad9srUsVAJEyQ5fVJsin1u9joHOXAQlu1i4CvaOCjs4Pnak+2YwQmRJGGhO7YL/LWZ2fCrDgsz/w3ik1EHLs8bPh1LKSIR2mo5K8n4rL4TlDi+jvCCpmASXZMwqoHYWYlpONLn7GxFhVaQrUJmGhzWXVW6ky32yZ6rmLkT1knkK+hjANCND8aEkrrujfiJDilyQmj1ITg81NPKcEeTUApSNmyfe8u43OsMFXQDF4v5tetbY+;37G0wGPn5vxlSKXpeRJHQw=="
 ---
 

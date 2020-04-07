@@ -406,32 +406,32 @@
     },
     {
       "path": "_news/2020-03-26-c3ai-microsoft-and-leading-universities-launch-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute",
-      "excerpt": "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ...",
+      "title": "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute",
+      "excerpt": "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary collaboration ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:12:00-07:00",
+      "publishedDateTime": "2020-03-26T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/coronavirus_stonybrook.fw_-405x228.png",
+          "width": 405,
+          "height": 228,
+          "title": "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

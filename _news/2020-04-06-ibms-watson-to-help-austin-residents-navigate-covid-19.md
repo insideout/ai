@@ -8,7 +8,7 @@ ampWebUrl: "https://www.govtech.com/products/IBMs-Watson-to-Help-Austin-Resident
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/IBMs-Watson-to-Help-Austin-Residents-Navigate-COVID-19.html?AMP"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 986
     height: 630
     title: "IBM’s Watson to Help Austin Residents Navigate COVID-19"
+
+related:
+  - title: "Austin deploying IBM’s tech to share coronavirus info"
+    excerpt: "... is joining a handful of organizations that will begin using IBM's artificial intelligence-enabled virtual assistant service to provide information on the coronavirus pandemic. IBM says Austin will be one of 10 organizations using the company’s new service, Watson Assistant for Citizens, to help communicate information about COVID-19."
+    publishedDateTime: 2020-04-02T21:29:00Z
+    webUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info"
+    ampWebUrl: "https://www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/business/20200402/austin-deploying-ibms-tech-to-share-coronavirus-info?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 44
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=TX&Date=20200402&Category=BUSINESS&ArtNo=200409737&Ref=AR"
+        width: 3000
+        height: 1917
 
 secured: "dSgR/c34/qaP4670Icfl8zlg7si1FB7MocXL3cus5FKMw3jO6g6AJ116W2l9i4ZrSJrbIr45eZ2PZWH4kXCOrYgX5lLDAbgVxOVy0yQTkFrRI76I26zQJXBiVxcgI9SesQK0Xy9sA3BPIgykY8fe4XxTeSC5AJnnwmuc16QM8PYufo3TkImy2u94sONuyqvzvNZZd1XjOKggDSZaaUEPIBL+AhRwpoyaNJG5MHVIAgOJfeQWfo/Hr1UYu3zhQsU/76J5PDS984Upo1S/Ea9vV2uXnd8ChATAeoe22VWOlpMhZILEhwK3271wrOWr+KtBj9xbsy9BAyXSLya43BBlR54Ad8wrTlVDH5sxYIdlKTvu21GESgfzdKfA8zRbA18KFZ3F5ZPzhz2R81N/OGI7Qj7pCznKci272AiQOv/gwKwvTwkbJB9SYjt1+GBI3ZPO666SxhcZSyx4UO+clFTS7nMEHdbmdf0b/XjK8vB6Rr8=;6r40HJk63DOHdBVU1iydfg=="
 ---

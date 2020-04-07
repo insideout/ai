@@ -1,23 +1,25 @@
 ---
 category: news
-title: "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute"
-excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ..."
-publishedDateTime: 2020-03-26T10:12:00Z
-webUrl: "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
+title: "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute"
+excerpt: "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary collaboration ..."
+publishedDateTime: 2020-03-26T15:05:00Z
+webUrl: "https://www.hpcwire.com/off-the-wire/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/"
 type: article
 
 provider:
-  name: Microsoft
-  domain: microsoft.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - AI Ethics
   - AI
 
-secured: "cxxvWyOY4w2uHuD+BjrJCq4E+pF0HA290YfZqA+6ndI9tyNocoQ00owyQlZ2kHZzVqeXaQ9cByvohsH8lheZpi8hPawLfqrrHDvOetrsbP6blQFAztfhk3hxnztqYr4y0Udx9nnbCo8GcJFEv/DbBYEBBeMCO91x7C1yQlLmHK+YiBBw8VFdvk3zLTv+fdUNNbx0iU0V1vcFWC6WREa08/SStbIplHr//E359OChZxKXrJ3NTvpFDCVjL8+0UBksQ9u8zrZld+QuI07qEf+tWMqsNV3/uQKS0h6VMC1QAcli8lTOOOxN2FRJckvUgS40;KPcww4Ftzu3lVBo9Gftnfg=="
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/coronavirus_stonybrook.fw_-405x228.png"
+    width: 405
+    height: 228
+    title: "C3.ai, Microsoft, and Leading Universities Launch C3.ai Digital Transformation Institute"
+
+secured: "2bU5cgCaqxCa81ybMx1N0VKUZjNvMgjVY0jR575hnpH7hPYy/2JoncK7brhdk7Fsk0FRgxEg88Ag4X56MGMMs4welbk+mcjv0sBIAuFEP9DkyMVTqMypjPz1qL+RaAPbuzAeuRfO8z9R5Mr3pBRoYP1r8hThs9GHjZLiqxzCDNgxF2F4j+7jU6tQzXgeZqY2hOUqoHBtqA/6t4zg9lETeNv6GDoZ1fmS6OXJYUCjoaMXIzw8kK6jVvuFCMVps0MkwnXwbnNtu2WVTcaLOmqXT5Yl5CATD8se8aa60jmNjiwIIFWj31c+eqf3naz9L+Mq;1ZSVy1/WA6pcv4Wtsm6FJA=="
 ---
 

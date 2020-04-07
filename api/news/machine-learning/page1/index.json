@@ -273,6 +273,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-02-google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors.md",
+      "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
+      "excerpt": "Machine learning experts working at Google Health have published a new study in tandem with the University of California San Francisco (UCSF)’s computational health sciences department that describes a machine learning model the researchers built that can anticipate normal physician drug prescribing patterns, using a patient’s electronic ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
+      "publishedDateTime": "2020-04-02T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-457969068.jpg?w=1024",
+          "width": 1024,
+          "height": 778,
+          "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-google-is-using-machine-learning-to-improve-the-quality-of-duo-calls.md",
       "title": "Google is using machine learning to improve the quality of Duo calls",
       "excerpt": "Google says that 99 percent of Duo calls experience packet loss: 20 percent of these lose over 3 percent of their audio, and 10 percent lose over 8 percent. That’s a lot of audio to replace. Every calling app has to deal with this packet loss somehow,",
@@ -1261,51 +1306,6 @@
           "width": 1200,
           "height": 675,
           "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-research-report-on-global-neural-network-software-industry-2020-2025.md",
-      "title": "Research Report on Global Neural Network Software Industry 2020-2025",
-      "excerpt": "Market Overview. The Neural Network Software Market was valued at USD 8.30 billion in 2019 and is expected to reach USD 50.66 bil",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/research-report-on-global-neural-network-software-industry-2020-2025-2020-03-25",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Research Report on Global Neural Network Software Industry 2020-2025",
           "attribution": null
         }
       ],

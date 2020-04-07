@@ -2,6 +2,199 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-08-facial-recognition-technology-is-getting-out-of-control.md",
+      "title": "Facial recognition technology is getting out of control",
+      "excerpt": "Facial recognition is a more pressing concern than aerial surveillance. Thanks to technology like that developed by Clearview, anyone who has uploaded photos of themselves to social media is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
+      "publishedDateTime": "2020-03-08T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e62a399fee23d57f8269b25?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Facial recognition technology is getting out of control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change-the-game.md",
+      "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
+      "excerpt": "A Tucson avionics startup working to bring artificial intelligence to cockpits is one example of how the Old Pueblo is jumping on the AI development train.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.html",
+      "ampWebUrl": "https://tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
+      "cdnAmpWebUrl": "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/business/tucson-tech-artificial-intelligence-tech-developed-locally-looks-to-change/article_51cad541-d40a-5d56-a3e6-a1e5d9b0d957.amp.html",
+      "publishedDateTime": "2020-03-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arizona Daily Star",
+        "domain": "tucson.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/ea/9ea46bb3-c5fe-5b34-80a0-ddb58b4f239e/5e5ff45fa24e6.image.jpg?resize=1024%2C715",
+          "width": 1024,
+          "height": 715,
+          "title": "Tucson Tech: Artificial intelligence tech developed locally looks to change the game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-introduction-to-natural-language-processing.md",
+      "title": "Introduction to Natural Language Processing",
+      "excerpt": "Natural Language Processing or simply abbreviated as NLP is a highly specialized branch of Artificial Intelligence and Machine Learning that deals with understanding the human natural language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/analytics-vidhya/introduction-to-natural-language-processing-3c9cb9104b5e",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*FGHtb_niL0g-kbK3",
+          "width": 1200,
+          "height": 600,
+          "title": "Introduction to Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-self-driving-cars-can-easily-mimic-human-drivers-claim-researchers.md",
+      "title": "Self-driving cars can easily mimic human drivers, claim researchers",
+      "excerpt": "With the help of an improved sight-correcting system, self-driving cars could learn just by observing human operators complete the same task, researchers have found. The team implemented imitation learning,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L.html",
+      "ampWebUrl": "https://m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "cdnAmpWebUrl": "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/self-driving-cars-can-easily-mimic-human-drivers-claim-researchers/story-CKxP4LH2lnflsVZVIOrP2L_amp.html",
+      "publishedDateTime": "2020-03-08T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "LONDON -- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/painted-faces-artists-fight-facial-recognition-tech-69465610",
+      "publishedDateTime": "2020-03-08T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_36a7c88465f14c438470ac0ae6bc7d4e_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-07-automatic-image-classification-with-amazon-sagemaker-ground-truth.md",
       "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
       "excerpt": "Source: Amazon Web Services Source: Amazon Web Services 3. Navigate to SageMaker Ground Truth — Labelling Jobs. As we can see, previous labelling jobs are also visible. Click “Create Labelling ...",
@@ -786,183 +979,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-its-like-you-have-a-hand-again-ultra-precise-mind-controlled-prosthetic-developed.md",
-      "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
-      "excerpt": "The scientists tapped faint, latent signals from arm nerves and amplified them to enable real-time, intuitive, finger-level control of a robotic hand. To achieve this, they developed a way to tame ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1251194/science-news-telepathic-mind-controlled-prosthetic-hand-amputees/amp",
-      "publishedDateTime": "2020-03-05T02:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/science-news-telepathic-mind-controlled-prosthetic-hand-amputees-1251194.jpg?r=1583402891475",
-          "width": 590,
-          "height": 350,
-          "title": "‘It’s like you have a hand again’: Ultra-precise mind-controlled prosthetic developed",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-cisco-and-microsoft-partner-on-cloud-iot-stuff.md",
-      "title": "Cisco and Microsoft partner on cloud IoT stuff",
-      "excerpt": "The thinking is that Microsoft’s Azure IoT platform is great at the datacenter ... global connectivity, advance analytics, and cognitive services for analyzing IoT data.” “This partnership between Cisco and Azure IoT will significantly simplify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502899/cisco-and-microsoft-partner-on-cloud-iot-stuff/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91",
-          "width": 300,
-          "height": 250,
-          "title": "Cisco and Microsoft partner on cloud IoT stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-scientists-devise-prosthetic-arm-controlled-by-mind.md",
-      "title": "Scientists devise prosthetic arm controlled by mind",
-      "excerpt": "Scientists have devised a mind-controlled prosthetic arm that is so dexterous it ... The messages are sent to a robotic hand, allowing the correct finger or thumb to move in the intended way. Scientists believe that it could change the way that amputees ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thetimes.co.uk/article/scientists-devise-prosthetic-arm-controlled-by-mind-89532xsvn",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times",
-        "domain": "thetimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2Fe9fde808-5e50-11ea-9891-dcb2edabd2b0.jpg?crop=1557%2C876%2C0%2C81&resize=685",
-          "width": 685,
-          "height": 385,
-          "title": "Scientists devise prosthetic arm controlled by mind",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-a-new-model-of-vision.md",
-      "title": "A new model of vision",
-      "excerpt": "Researchers have developed a computer model of face processing that could reveal how the brain produces richly detailed visual representations so quickly. When we open our eyes, we immediately see ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200305002834.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-platesmart-recognized-with-fifth-govies-award.md",
-      "title": "PlateSmart Recognized with Fifth Govies Award",
-      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newswiretoday.com/news/172515/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

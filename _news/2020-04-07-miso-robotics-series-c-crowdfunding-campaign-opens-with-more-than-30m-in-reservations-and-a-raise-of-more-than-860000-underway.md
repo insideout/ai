@@ -23,6 +23,6 @@ images:
     height: 315
     title: "Miso Robotics' Series C Crowdfunding Campaign Opens, with more than $3.0M in Reservations and a Raise of More than $860,000 Underway"
 
-secured: "sEnOMVjyc6/mbS0qMX8lYt7XPjrl+lwEhLIpNFVm42wui5KLVHmlMlzOPRKQ0K7+RRx4TNNma5DampHmV4MvMJ/AuffN5eIT+qXLGxIG0tPi+BmrEg0xtOlyHu/f0xv1rkQ0vPDiTFhbeLh1ROzI7MrKgWiypZIaXRErabBXsZctMpHBTScLf9Y/JiqnoHFPeiia1xNZIleT3vkGIm+N+eeDKCPcOhFgks7CwY6vwFxxVjiUIavN9ESehPkjbaKXdLFHxS4Gi4r/ABexYpJmG/6r7sSF+dyn9kgYZMXVdEO2Pd+YWqXwffzTmpgGYIna;Zs9dyXRPBDIdyrQSP9vtiQ=="
+secured: "BusTGxe8NQjNq7EaWPuRToOtx/Y1nNIOZlNyIVEXdovgfarEFWwGcOzZgChMMdNkhrUCacf5rPF7Ow7P5vXpxrVcWVUCDW7LFwM0rjQlHg2yaT7oF1pYgrVVPGjPPRtaDp2UmtsI01u7b0b90wN+uHYZFCFRYpGWa4eSKZzWj+8H6woc0dAU/caO9DJzP3qEDyqmQzVkye906dkPyMPy1NyUMyLcl9/ARvGZzARGXnlMdAFTlp4q03Ga3jCt28joyo14SBqjAblUPYA0FGBvX9dwcDWwQd/UhofEZQOVeqk0TL+x/nZS+nTT6jK0mLSF;XaUvj3BOB53F3fKIm+ITrg=="
 ---
 

@@ -2,6 +2,183 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-17-osaro-recognized-as-top-global-ai-startup-by-cb-insights-ai-100-cnbcs-upstart-100.md",
+      "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
+      "excerpt": "\"Each year, CNBC scans the globe looking for the 100 venture-backed start-ups that have the potential to transform industries ... Since 2015, OSARO's wider mission has been to build hardware-agnostic AI software that enables robots to function in a variety of environments and perform a diverse set of tasks. OSARO systems are compatible with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-osaro-recognized-as-top-global-ai-startup-cb-/2020/03/17/9116494.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005221/en/780161/4/Osaro-Pick-heroImage_%281%29_%281%29.jpg",
+          "width": 480,
+          "height": 385,
+          "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service.md",
+      "title": "Moven and the Saudi Digital Payments Company (STC Pay) announce Agreement to Collaborate on new Fintech Banking Service",
+      "excerpt": "Ahmed Alenazi, the CEO of STC Pay added, \"we have strived to create the best FinTech service in the Kingdom and the MENA region in Oct 2018 ... Movencorp leads banking-as-a-service innovation in AI/ML driven smart-banking technologies in order to drive financial wellness and smart day-to-day banking capabilities. Movencorp, Inc is the only ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "publishedDateTime": "2020-03-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-machine-learning-to-scale-up-the-quantum-computer.md",
+      "title": "Machine learning to scale up the quantum computer",
+      "excerpt": "Machine learning is an emerging area of research which is revolutionizing almost every field of research, from medical science to image processing, robotics, and material design. A carefully trained machine learning algorithm can process very large data sets with enormous efficiency. One branch of machine learning is known as convolutional ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://phys.org/news/2020-03-machine-scale-quantum.html",
+      "ampWebUrl": "https://phys.org/news/2020-03-machine-scale-quantum.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-machine-scale-quantum.amp",
+      "publishedDateTime": "2020-03-17T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-intels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning.md",
+      "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
+      "excerpt": "This week, theCUBE features Casimir Wierzynski as its Guest of the Week. Wierzynski is one of the leading voices in a movement for Privacy-Preserving Machine Learning, or PPML. The goal of PPML is to combine complementary technologies so that machine learning can use data for training models without sacrificing the anonymity of personal ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://siliconangle.com/2020/03/17/ntels-innovative-approach-to-data-encryption-could-advance-ai-and-machine-learning-rsac-guestoftheweek/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/Wierzynski.jpg",
+          "width": 894,
+          "height": 596,
+          "title": "Intel’s innovative approach to data encryption could advance AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
+      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
+      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "publishedDateTime": "2020-03-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
+          "width": 940,
+          "height": 627,
+          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-moodys-analytics-vince-il-regtech-innovation-award-ai-fintech-breakthrough-awards.md",
       "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
       "excerpt": "LONDRA--(BUSINESS WIRE)--Moody’s Analytics, fornitore globale di intelligence finanziaria, ha vinto il premio RegTech Innovation Award ai 2020 FinTech Breakthrough Awards. Il riconoscimento ha premiato le nostre soluzioni tecnologiche normative software-as-a-service (SaaS). L'anno scorso abbiamo vinto un riconoscimento per Best Wealth ...",
@@ -706,200 +883,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-whats-driving-the-gpu-market-growth-amd-amazon-web-services-dassault-systmes-google-ibm-intel-corporation-microsoft.md",
-      "title": "What's Driving the GPU Market Growth? AMD, Amazon Web Services, Dassault Systmes, Google, IBM, Intel Corporation, Microsoft",
-      "excerpt": "Ever increasing demand for advanced graphics processing across several sectors is majorly driving the GPU market trends GPUs play a key role in running graphics intensive applications such as gaming image processing 3D visualization VFX animations and many more among",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970446/what-s-driving-the-gpu-market-growth-amd-amazon-web-services",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace.md",
-      "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide gain access to Cyber Infrastructure's implementation service to take advantage of agility of Azure to drive app development. SAN JOSE, CA, USA, March 17, 2020 /EINPresswire.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ai-machine-learning-could-put-cell-sites-to-sleep-and-slash-energy-costs.md",
-      "title": "AI, machine learning could put cell sites to sleep (and slash energy costs)",
-      "excerpt": "And these new features incorporate tools like artificial intelligence (AI) and machine learning. In a new Ericsson white paper called \"Breaking the Energy Curve,\" the company said that machine learning can be used to make certain network features more autonomous. Two of those features, MIMO Sleep Mode and Cell Sleep Mode, are using machine ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.lightreading.com/ai-automation/ai-machine-learning-could-put-cell-sites-to-sleep-(and-slash-energy-costs)/d/d-id/758249",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025.md",
-      "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
-      "excerpt": "Global Artificial Intelligence in the Healthcare Market was valued at USD 856.42 Million in the year 2017. Global Artificial Intelligence in the Healthcare Market is further estimated to grow at a CAGR of 48.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-healthcare-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2025-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in the Healthcare Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025.md",
-      "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
-      "excerpt": "Market Overview The Global Edge AI Hardware Market is anticipated to witness a CAGR of 20.3% over the forecast period 2020 - 2025. During 2018 it is estimated that about 212 million edge AI hardware was shipped and the figure is expected to reach a billion units by 2020.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
