@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-cu
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png"
         width: 796
         height: 417
+  - title: "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot"
+    excerpt: "The University of Sydney says it has used Microsoft cognitive services to build an AI-infused bot in “double-quick time” that responds to student enquiries about COVID-19 and provides instant answers to many of their questions. According to Microsoft, the bot has been tackling between 200 and 400 individual student inquiries daily ..."
+    publishedDateTime: 2020-04-07T01:18:00Z
+    webUrl: "https://www.itwire.com/health/microsoft,-university-of-sydney-collaborate-to-build-ai-infused-corona-chatbot.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 50
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/d3fc9082cdb7c699769ec4932d2f1b6f_M.jpg"
+        width: 375
+        height: 250
 
 secured: "nM1CYxji0/nHloGVxVAB1bkTRQr3T5+CLmkiqP2S+sFv/6yjeQzZk0erIu6vpnUpxQoT4+jziPTV70MqrulXQONsv2gken1UuEztITKCtD6JFtT+PW5UuWlx6+DNrkJkZ0a+BjO422kJwTs9LUjR+9kD9EB+3Vwr5Ra9cxkI0iRYIA5iwnb8vqW8oFBZXu0n5zfTK9wtbK0wA0mcF0SV1tRxjXU8oR+rqDhTZg+S+0Z04HgsP/R2j7B0elaNmJ35hAjlGDMyqMWI9tk/BK43yJGl6/65HZc1kDBtFXrD1Sj2dnn2d1DN7DmUMifCt0fyOnLrxj9vXSZeyW/umhYnrHDY+SajFiaOrRx0GwD/jrAjDiF6B/YLcIMmpE+sWLgMtdmldOoFO8JNSXqhy657IzSc95R9ofNkidQBI/cY7Ko8WgZwkGr9euQE3xnkLU9kxc0j/uP1koztUcvkI2Pc3lFni4matmGchv/N5XVN2xk=;2v602QOcmuO3FeuNvqBu0A=="
 ---

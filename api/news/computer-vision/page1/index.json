@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-07-pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update.md",
+      "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
+      "excerpt": "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/",
+      "ampWebUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
+      "publishedDateTime": "2020-04-06T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/google-pixel-4-30.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-three-ways-computer-vision-is-transforming-marketing.md",
       "title": "Three Ways Computer Vision Is Transforming Marketing",
       "excerpt": "Below are three cutting-edge computer vision techniques, based on my experience investing in computer vision companies, that can provide some answers and potentially transform the marketing landscape.",
@@ -1231,43 +1276,6 @@
           "width": 2000,
           "height": 2000,
           "title": "Fingerprint locks and smart home facial recognition launched to growing consumer biometrics market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-facebooks-own-facial-recognition-app-could-show-employees-connections-to-their-friend-list.md",
-      "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
-      "excerpt": "Facebook built a facial recognition tool that could be used by employees to scan faces of their friends who had certain features activated on the social media giant, according to a new report. Motherboard published screenshots and details about the company’s internal facial recognition tool on Wednesday. The app was created by the company ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/",
-      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/?amp",
-      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition/?amp",
-      "publishedDateTime": "2020-03-18T10:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Dot",
-        "domain": "dailydot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.dailydot.com/wp-content/uploads/2020/03/zuckerberg-clearview-ai-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
           "attribution": null
         }
       ],

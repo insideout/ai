@@ -86,19 +86,6 @@ related:
       - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
         width: 600
         height: 338
-  - title: "IBM Launches Watson Assistant For Citizens To Deliver Fast & Accurate COVID-19 Information"
-    excerpt: "The company is making its Watson suite available free for citizens for at least 90 days and is available via online and phone formats. According to IBM spokesperson, the lag between COVID-19 related queries and its response time is exceeding more than two hours. With the use of artificial intelligence-based technologies via Watson, IBM may be ..."
-    publishedDateTime: 2020-04-02T09:11:00Z
-    webUrl: "https://analyticsindiamag.com/ibm-launches-watson-assistant-for-citizens-to-deliver-fast-accurate-covid-19-information/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 29
-    images:
-      - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/IBM-Launches-Watson-Assistant-For-Citizens-To-Deliver-Fast-Accurate-COVID-19-Information.jpg"
-        width: 1600
-        height: 1000
 
 secured: "VySY+vuo/eE5xt16qpU/dCOu2mUdWYRq/aDuiNEdOJ7+SFlyxPWVoWEHYJvCa+dCl6LxdIH9/R57IJFAeHg6tESBHglQUVKxV0xnGLKRsDnDKkWm/6fg+4XGuHzH9rXn2jwEzWZY228ukxmf0J8FQ9XE4KxB3PwmoHkLfYvHSh1yGQvCKcKo0wuYG0HbY9aehJS+CByFG4OfJmYgpRiCr4AwM6Eza8LQ8yOZhdG5U8UsnqQG35xBC/oDuHbPE01N7pfxaWxElJxXgML9HBOOCnPfa/gDfjzE5M90LmqABo/pjO0fFV0OFnCHcsQTDsXQ/XfSRL76pUBvm7hIhgRkoydDxdKATwTzq0tp4jcxVMbsdPlEZ2JJUCJxjoBjfPiL4qg27L3FD/nOqOZa8lH2gl9ceotb+qwK20q5B7jvk4T8O3mL9Dr9oFAXMqyxfQYrWlm0A9ktTUZIS8/DH4fw6lr9HxPrrN1PfwQrSN47dbo=;aYXl+0zb9wYaC0WcPm0XQg=="
 ---

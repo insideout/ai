@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-12-aclu-sues-for-records-on-facial-recognition-use-at-airports-border.md",
+      "title": "ACLU sues for records on facial recognition use at airports, border",
+      "excerpt": "The lawsuit, filed on Thursday, argues that the public has a right to know how these US agencies have been using facial recognition, citing concerns about surveillance and privacy. \"Over the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
+      "publishedDateTime": "2020-03-12T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/k89SXv9Mmf4VLv5BUGzTuxgTjOo=/756x567/2020/03/11/ad4aacfb-49cc-4708-b0ad-2eecbcb1c682/gettyimages-819622666.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "ACLU sues for records on facial recognition use at airports, border",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-deep-north-closes-257-million-series-a-to-globalize-its-computer-vision-and-ai-powered-analytics-platform.md",
       "title": "Deep North Closes $25.7 Million Series A To Globalize Its Computer Vision and AI-Powered Analytics Platform",
       "excerpt": "/PRNewswire/ -- Deep North, a pioneer in computer vision and AI- powered video analytics, has closed a $25.7 million Series A funding round, led",
@@ -1071,51 +1116,6 @@
           "width": 1020,
           "height": 573,
           "title": "Face recognition tech at centre of hack was used by Edmonton police but no data lost: EPS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-we-found-clearview-ais-shady-face-recognition-app.md",
-      "title": "We Found Clearview AI's Shady Face Recognition App",
-      "excerpt": "A face recognition app used by thousands of law enforcement agencies, which has drawn considerable scrutiny in past weeks over its creator’s dubious data collection methods, contains code hinting at an unreported range of potential features, based on a version of the app discovered by Gizmodo. Reporters were able to download the most recent ...",
-      "heat": 504,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772?rev=1582861547126",
-      "ampWebUrl": "https://gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/we-found-clearview-ais-shady-face-recognition-app-1841961772/amp",
-      "publishedDateTime": "2020-02-27T19:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--JQ99mafj--/c_scale,f_auto,fl_progressive,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "We Found Clearview AI's Shady Face Recognition App",
           "attribution": null
         }
       ],

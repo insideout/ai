@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-te
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -28,6 +28,23 @@ images:
     width: 600
     height: 350
     title: "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic"
+
+related:
+  - title: "Supervised self-driving shuttles are moving COVID-19 tests in Florida"
+    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a “first” for the US."
+    publishedDateTime: 2020-04-06T20:33:00Z
+    webUrl: "https://www.theverge.com/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 74
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Nnj7455SZMY5Bolm5BiwaXySgHI=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66611017/maxresdefault.0.jpg"
+        width: 1280
+        height: 720
 
 secured: "bP0/KlWtwVe8FWsY90JeK/p243CElyeGW/BbSiSVX2tJbEztUbD/6V0q6Y2XCx0NyzEwhYf7udGo8SCBAJjKbRv+bcE6ndZW8iHqJvdL/2XEDRpnBRVPaF+5wR1Lz3YDQwAlf4NXG/zLyWM/6YGAKiWPmYPuhYM2n6H2eJXXe8roKSH3cgR36U2Kxuy5bncttfD2UVaib969XpwviBvNOB0YNoW/6k+ii2efAmyehF4n5bo6gg6jM22S1N+YxGFzMwz5sL0UMeNXpIjXdg23mcCzZd4hsCJ9lR2QB2w8GGwuZ06VW0pfBLD+E2t+OiIF;8uBkiZMiBPNxgjVD/mD9TA=="
 ---

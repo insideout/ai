@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-18-facebooks-own-facial-recognition-app-could-show-employees-connections-to-their-friend-list.md",
+      "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
+      "excerpt": "Facebook built a facial recognition tool that could be used by employees to scan faces of their friends who had certain features activated on the social media giant, according to a new report. Motherboard published screenshots and details about the company’s internal facial recognition tool on Wednesday. The app was created by the company ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/",
+      "ampWebUrl": "https://www.dailydot.com/debug/facebook-facial-recognition/?amp",
+      "cdnAmpWebUrl": "https://www-dailydot-com.cdn.ampproject.org/c/s/www.dailydot.com/debug/facebook-facial-recognition/?amp",
+      "publishedDateTime": "2020-03-18T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Dot",
+        "domain": "dailydot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.dailydot.com/wp-content/uploads/2020/03/zuckerberg-clearview-ai-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Facebook’s own facial recognition app could show employees connections to their friend list",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
       "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
       "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
@@ -1112,51 +1149,6 @@
           "width": 878,
           "height": 500,
           "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-aclu-sues-for-records-on-facial-recognition-use-at-airports-border.md",
-      "title": "ACLU sues for records on facial recognition use at airports, border",
-      "excerpt": "The lawsuit, filed on Thursday, argues that the public has a right to know how these US agencies have been using facial recognition, citing concerns about surveillance and privacy. \"Over the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/aclu-sues-for-records-on-facial-recognition-use-at-airports-border/",
-      "publishedDateTime": "2020-03-12T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/k89SXv9Mmf4VLv5BUGzTuxgTjOo=/756x567/2020/03/11/ad4aacfb-49cc-4708-b0ad-2eecbcb1c682/gettyimages-819622666.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "ACLU sues for records on facial recognition use at airports, border",
           "attribution": null
         }
       ],
