@@ -56,21 +56,6 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/IBM-Watson.png"
         width: 1200
         height: 800
-  - title: "IBM offers ‘Watson Assistant for Citizens’ to quickly address covid-19 queries"
-    excerpt: "BENGALURU: IBM is offering its AI platform ‘Watson Assistant for Citizens’ free of cost for at least 90 days, which will provide reliable information on covid-19 related queries, it said Thursday. With a flood of information requests from citizens, waiting time in many areas to receive answers can exceed two hours, the company said."
-    publishedDateTime: 2020-04-02T13:40:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries-11585834443162.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/ibm-offers-watson-assistant-for-citizens-to-quickly-address-covid-19-queries/amp-11585834443162.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 55
-    images:
-      - url: "https://images.livemint.com/img/2020/04/02/600x338/ibm_1559620540561_1585834565577.jpg"
-        width: 600
-        height: 338
 
 secured: "VySY+vuo/eE5xt16qpU/dCOu2mUdWYRq/aDuiNEdOJ7+SFlyxPWVoWEHYJvCa+dCl6LxdIH9/R57IJFAeHg6tESBHglQUVKxV0xnGLKRsDnDKkWm/6fg+4XGuHzH9rXn2jwEzWZY228ukxmf0J8FQ9XE4KxB3PwmoHkLfYvHSh1yGQvCKcKo0wuYG0HbY9aehJS+CByFG4OfJmYgpRiCr4AwM6Eza8LQ8yOZhdG5U8UsnqQG35xBC/oDuHbPE01N7pfxaWxElJxXgML9HBOOCnPfa/gDfjzE5M90LmqABo/pjO0fFV0OFnCHcsQTDsXQ/XfSRL76pUBvm7hIhgRkoydDxdKATwTzq0tp4jcxVMbsdPlEZ2JJUCJxjoBjfPiL4qg27L3FD/nOqOZa8lH2gl9ceotb+qwK20q5B7jvk4T8O3mL9Dr9oFAXMqyxfQYrWlm0A9ktTUZIS8/DH4fw6lr9HxPrrN1PfwQrSN47dbo=;aYXl+0zb9wYaC0WcPm0XQg=="
 ---

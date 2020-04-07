@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-03T05:26:00Z
 webUrl: "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Microsoft
@@ -29,34 +29,21 @@ images:
     title: "Explore computer vision in Microsoft Azure"
 
 related:
-  - title: "Microsoft brings new voice styles to Azure Cognitive Services"
-    excerpt: "Microsoft today announced the launch of new neural text-to-speech (TTS) capabilities in Azure Cognitive Services, its suite of AI-imbued APIs and SDKs, that enable developers to tailor the voice of their apps and services to fit their brand. Each of three new styles — newscast, customer service, and digital assistant — offer fluid and ..."
-    publishedDateTime: 2020-04-02T14:05:00Z
-    webUrl: "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/"
-    ampWebUrl: "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/"
+  - title: "Microsoft Azure Text to Speech service now offers natural-sounding voice and emotion styles"
+    excerpt: "Microsoft Cognitive Services’ Text to Speech service converts text to speech for more natural interfaces. Developers can make use of this service to build apps and services that speak naturally. Thanks to breakthrough research in speech synthesis technology, Microsoft’s Text to Speech service already delivers fluid, natural-sounding speech ..."
+    publishedDateTime: 2020-04-02T18:30:00Z
+    webUrl: "https://mspoweruser.com/azure-text-to-speech-voice-and-emotion-styles/"
+    ampWebUrl: "https://mspoweruser.com/azure-text-to-speech-voice-and-emotion-styles/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/azure-text-to-speech-voice-and-emotion-styles/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 64
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all"
-        width: 1200
-        height: 573
-  - title: "Microsoft’s Azure Cognitive Services gets new voice styles"
-    excerpt: "“Today it’s Microsoft’s turn to move the yardstick with its text to speech abilities.” Azure Cognitive Services is rivaled by Google LLC’s WaveNet system, which offers a total of 57 different voice styles, including 31 AI-synthesized voices and 24 standard ones. Amazon Web Services Inc. meanwhile, offers a service called Brand Voice ..."
-    publishedDateTime: 2020-04-02T23:45:00Z
-    webUrl: "https://siliconangle.com/2020/04/02/microsofts-azure-cognitive-services-gets-new-voice-styles/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/microsoft2-1.png"
-        width: 718
-        height: 400
+      - url: "https://mspoweruser.com/wp-content/uploads/2019/01/Azure-Cloud.jpg"
+        width: 918
+        height: 516
 
 secured: "fe61Wj7ClSXfU2bZ1M1Nq7E29eHoeb/WY/x8W5WhvELCB5WLLYiOJxUH8U3OaXNWDpTqHWrDLit5BKbVNYzyOyxOryUPizuKZGSF5QEFw+kksw2NFlg5Duhjks8yIIFNYKTMrlcsrk7T3KRBtcLdb5I6ShLR83WskGr01ZBwneanvDYFY7B0RVzN0T65UsTp6XQCXYVw8CDLa372CHaDxRrwxjcYdxI+csArZPwcB04AddWA0px1UiV4/+gEZOY225zKEOW6CRqfa+JpceCb8ms99AKCpThSq9ZzL4WsCVIjA4ELGEEJNd+iOpNcv2JR;2msbVlv3X0afV5nMCeYUYQ=="
 ---

@@ -29,6 +29,19 @@ related:
       name: Phys.org
       domain: phys.org
     quality: 24
+  - title: "The facial expressions of mice"
+    excerpt: "\"With our automated face recognition system, we can now measure the intensity and nature of an emotion on a timescale of milliseconds and compare it to the neuronal activity in relevant brain areas.\" One such brain area is the insular cortex, which is associated with emotional behavior and the perception of emotions in animals and humans."
+    publishedDateTime: 2020-04-02T18:22:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/m-tfe033120.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 24
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/228182_web.jpg"
+        width: 1440
+        height: 698
 
 secured: "TO3xCM7hFw8DDgdzbdXB61KIWahtOoVx1sK1DjKU3aYlwVngpm0Uk9ts7qBx6tXbr16DzJg9daoP6RoF4AqAXScAZ1ftGDBAiIySo7JOw8zBTCmoCng2kjwlnotZXyss9xzP+wGF/OB1TSwI0A2syys+NQtr/SrpiRsOMrD7H5PQVOSCVpQ6Bs8iGmKcPJdSSseau4pXisYvb3SwUTJ+v9vbY/QW6Nn5i6hwy2qVWdGYjOpCnkAT/eChquzw1bOYpjvqrUQ4LUFaFY7B6yc+VwiwNPtyHG3w/j9k2MYip0pmyn1PxJjwuDIuwkXIF2Fqe1Ld4PufPmdk+FH/7iln1QJVDGlsnDZ2ZtKD3pqF6roxsKa1owec9nyCCNJ17FDSSpkGM0j9OnPkZZiTknqFQcieYvQ7f0HK/vfrAVyEsLlF0yFJcK4V1LTV46It0DicYQ65pU+h3oWtxBGsrOz1qHAjlUFrIvWFNA8CeTO+4FY=;XUsFXU9fI/IqBw6hpeh2GQ=="
 ---

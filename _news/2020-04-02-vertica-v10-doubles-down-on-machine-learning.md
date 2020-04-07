@@ -5,8 +5,8 @@ excerpt: "“For all the hype that there is around it, this is real,” Mahony s
 publishedDateTime: 2020-04-02T15:30:00Z
 webUrl: "https://siliconangle.com/2020/04/02/vertica-v10-doubles-machine-learning-verticabdc/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - AI in Finance
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/Colin-Mahony.png"

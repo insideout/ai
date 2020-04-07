@@ -24,34 +24,21 @@ images:
     title: "Microsoft’s Azure Cognitive Services gets new voice styles"
 
 related:
-  - title: "Microsoft brings new voice styles to Azure Cognitive Services"
-    excerpt: "Microsoft today announced the launch of new neural text-to-speech (TTS) capabilities in Azure Cognitive Services, its suite of AI-imbued APIs and SDKs, that enable developers to tailor the voice of their apps and services to fit their brand. Each of three new styles — newscast, customer service, and digital assistant — offer fluid and ..."
-    publishedDateTime: 2020-04-02T14:05:00Z
-    webUrl: "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/"
-    ampWebUrl: "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/"
+  - title: "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices"
+    excerpt: "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ..."
+    publishedDateTime: 2020-04-03T10:53:00Z
+    webUrl: "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/"
+    ampWebUrl: "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/"
+    cdnAmpWebUrl: "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 119
+      name: winbuzzer.com
+      domain: winbuzzer.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all"
-        width: 1200
-        height: 573
-  - title: "Explore computer vision in Microsoft Azure"
-    excerpt: "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ..."
-    publishedDateTime: 2020-04-03T05:26:00Z
-    webUrl: "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 71
-    images:
-      - url: "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png"
-        width: 800
-        height: 400
+      - url: "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg"
+        width: 1280
+        height: 720
 
 secured: "2QNtdBdVOjs/L6XZRWo6LrgQYpHOf9lmcn3eulY862E6njvR+zRTLZ+yv6NmHheRGS4c+ou88twqSKF1irKRkZ73fPh+ViVIYm208VY0j60m2G9Fdus9+/xbPm4gjg41Hq9JogYdQ3YvXXI04T9Phy0s2ulVh+7rMP5KwnhFhEq0JnNHIGa8aGlDLGu/zBBqkMT5GVa0F1t3lZ4hO0G+JAaVEBJI9/PpYbRZmLbljdt4ABxQn36XTbIjdxqBn9PCE/4XNgENKRYe2l/9VRPHuZmykZYYKxZ46eUuvLvyhvEgXu3+7DDzw1zLXe+5cd4mrWIU4TQCAclVz/fNmZgLefgYzXtB+a7C3TnVFgWBRJwKPkhb7LI1gguUnOZlvmZ6S7+feCDY1rivLoHPWjCuk/FJJo0rUvZlHbvdBnGM1tXXRYHARblEWC+IwsEzTWYE0dfaoDAAI6FcP1TGF6yY5p2+W6iyDQG3mqGe9W4dUfk=;iDd49GXHT8cRBq2ca/LFpw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-03T16:39:00Z
 webUrl: "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: SD Times
@@ -28,34 +28,15 @@ images:
     title: "Washington state passes new facial recognition legislation"
 
 related:
-  - title: "Washington state passes Microsoft-approved facial recognition laws"
-    excerpt: "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ..."
-    publishedDateTime: 2020-04-02T14:17:00Z
-    webUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/"
+  - title: "Washington State Legalizes Restricted Use of Facial Recognition Technology"
+    excerpt: "A bill permitting the use of facial recognition technology with certain restrictions has been signed into law in Washington State. Governor Jay Inslee signed the new bill on March 31 after it was passed by the Washington State House of Representatives on March 12 by a vote of 27 to 21 in favor. The new law will come into effect next year."
+    publishedDateTime: 2020-04-03T16:02:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/washington-state-facial/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 89
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png"
-        width: 796
-        height: 417
-  - title: "The facial expressions of mice"
-    excerpt: "\"With our automated face recognition system, we can now measure the intensity and nature of an emotion on a timescale of milliseconds and compare it to the neuronal activity in relevant brain areas.\" One such brain area is the insular cortex, which is associated with emotional behavior and the perception of emotions in animals and humans."
-    publishedDateTime: 2020-04-02T18:22:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/m-tfe033120.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 24
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/228182_web.jpg"
-        width: 1440
-        height: 698
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "SyYST+1gA8W/Pe9n9r/If8G3HFEYeGneWE8T6ZOLpM9JSVO0l8AVJQZoo9V1chozkQMi4gv13uVq3aXAY58nXrwzPZ7yBJ1wIgiZsrER07LDg55ar06tJYeRwbS3bxekP8ApuVKNeCCaNEH6iEZsc7QE8Pn9X2TDlKDz8rAFddBm/28XCQGfPosbUiK3hply6tHkOJ6a+EWlWxk3GMn4KjdhKw3qRlavKyGA5i3iwrbSCogc5qfQmK05JIjPXSJgGXAJnm9bJnHPg0IsAvjX5Vd+Ntz2aQmVcO76513WcGdNtslW72SX1rhj5LcPE1EGBF9y55yxVsRMtBi4TyfCfvgHai7rmOkotKdhZ89m3h/c/BbzEkDSnjh0bDtmhrfjkdcSoGUneEVvAmnOPTwAb9MhTumGQSwxRZVimxDKamcCfGlHXsCwNGYS/qqka84/7jVhF0SQuHEHtdY1Oauv9IqMe7IJwNM57VdjgDAih98=;AE0yQb7alCvODsMk7JRAWQ=="
 ---
