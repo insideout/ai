@@ -18,6 +18,19 @@ topics:
   - AI
 
 related:
+  - title: "Deep Learning Chipset Market Outlook, Geographical Segmentation, Industry Size & Share, Comprehensive Analysis to 2024"
+    excerpt: "According to latest research on Deep Learning Chipset Market 2020 report provides comprehensive analysis of Deep Learning Chipset Production, Supply, Sales and Demand of the Deep"
+    publishedDateTime: 2020-04-06T15:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-outlook-geographical-segmentation-industry-size-share-comprehensive-analysis-to-2024-2020-04-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Educational Robots Market Assessment and Outlook 2020-2025 - ResearchAndMarkets.com"
     excerpt: "The emerging trend of digitization, along with the increasing utilization of artificial intelligence and machine learning (AI/ML) technologies in the education sector, is one of the key factors driving the growth of the market. Owing to their effective interactive capabilities, educational robots are rapidly being adopted in K-5 and K-12 ..."
     publishedDateTime: 2020-04-06T14:30:00Z

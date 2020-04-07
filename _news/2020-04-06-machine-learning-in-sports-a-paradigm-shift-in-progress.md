@@ -7,8 +7,8 @@ webUrl: "https://techent.tv/2020/04/06/aws-machine-learning-in-sports/"
 ampWebUrl: "https://techent.tv/2020/04/06/aws-machine-learning-in-sports/amp/"
 cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/04/06/aws-machine-learning-in-sports/amp/"
 type: article
-quality: 44
-heat: 44
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://i1.wp.com/techent.tv/wp-content/uploads/2020/04/sports-ai.png?fit=1024%2C680&ssl=1"

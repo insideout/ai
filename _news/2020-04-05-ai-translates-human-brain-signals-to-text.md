@@ -3,10 +3,12 @@ category: news
 title: "AI Translates Human Brain Signals to Text"
 excerpt: "Now scientists are one step closer towards a computer interface driven by human thoughts. Neuroscientists at the University of California, San Francisco (UCSF) published a study last week in Nature Neuroscience that shows how their brain-computer interface (BCI) is able to translate human brain activity into text with relatively high accuracy and at natural-speech rates using artificial intelligence (AI) machine learning."
 publishedDateTime: 2020-04-05T23:17:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202004/ai-translates-human-brain-signals-text"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202004/ai-translates-human-brain-signals-text"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202004/ai-translates-human-brain-signals-text?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202004/ai-translates-human-brain-signals-text?amp"
 type: article
-quality: 17
-heat: 17
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -14,8 +16,9 @@ provider:
   domain: psychologytoday.com
 
 topics:
+  - Natural Language Processing
   - AI
 
-secured: "9ArPqw7kAvrF6c0JZWVsWzKunteNtK9MIhfZ9HROZodKbENRpG82F10cPsLX/gMV8+HPLjzWLlfjcE5ocTEJFZTM4U40Lp/39lgIRd8P1/T2Orn+N+4MCRh7JX0RHqO1au1XWYjEaZtg061tzw1CAdRI5T6libayH7fs6lfE0ACY3xqJQBvPk/0r2S6iTH80SRO8LYMd9YkI7o7MzZ65mttxMYr4e0oQ9N9ja02V7bgY2kIMR77QBJCaBHR/tRTPWeu2UsAbMN3gleWj6APA5RYLvr8/7eBytpaAmgf6f0qj+6kBl2aC+eVgi+axcGOrEiwFMT35dKfgSHs5qjkrLZyRCR7c0t6FCSLG+TJqkMi/ft8Hvo8GQtSoxy6FCbtJuL/yX9cb5Ne1E7+n0lyYvxCy3HMbKmEkMI+kogsxzodU6eohP/BuS1w3DMNBIsXOESbADvbHr1O7vWOEv+ycNNHFXl3dQVzpXtfuhE/3W/E=;yF+uDvK8UFHpMwQLM1hfhg=="
+secured: "juEEHGIpNfyrdMyGAXjWafrlqXgV5A4oM3+owwoYWZ1nUGt8YJNzaF1Zs4vC4R6L6sKT/J/Pkj+qLqkpkzhNg5/O64FvRKIpH5S2w84wFi27W8ELS6RURHmtSycH2OmGxv2zALuMMauLMUTPn9p2SJ2f+fJ/vkE0Jjb4lGlDR6g+6eDgI/09uPFiWGK1G0Dbb6DyHPl34YhSrw1lTHA2EuhyOSEke5dWZHi3ceC27CY34ozBd1KlbyLlxExqzQYjEDPr6I5/pDO4z4NU19HbgbHGHEIUE2NJNFm2TBQGysFkzLOo68gXCBoLzoQqT4tPuewHdbuk26tc1dwBE943eRWeSgI7fZort1csyxlc3yrW7UEsQGzdXZSXmuAP2QyqCyIOxQY+3ZjnQdwvnoD7VBKcdgAYdYOA/7VKnKBY3nAyljnxZiLm9bLLhKEIsD8vyHa3tDLrA3YQRDnpmEhFUm1LVw7Wck0cAZ/TdqJLxAk=;woiXDk0IbgeNinNq9NZYgQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-06T14:30:00Z
 webUrl: "https://www.businesswire.com/news/home/20200406005534/en/Educational-Robots-Market-Assessment-Outlook-2020-2025--"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Educational Robots Market Assessment and Outlook 2020-2025 - ResearchAndMarkets.com"
 
 related:
+  - title: "Deep Learning Chipset Market Outlook, Geographical Segmentation, Industry Size & Share, Comprehensive Analysis to 2024"
+    excerpt: "According to latest research on Deep Learning Chipset Market 2020 report provides comprehensive analysis of Deep Learning Chipset Production, Supply, Sales and Demand of the Deep"
+    publishedDateTime: 2020-04-06T15:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-outlook-geographical-segmentation-industry-size-share-comprehensive-analysis-to-2024-2020-04-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Artificial Intelligence Chips Market Current Trends and Future Aspect Analysis 2020-2025 | AMD , NVIDIA, Google, Intel"
     excerpt: "The most advanced study released by AMR on the Artificial Intelligence AI Chips market comprising key market segments such as Type Application Sales Growth Comprises details of companies manufacturing field production volume capacities value chain product specifications raw material sourcing"
     publishedDateTime: 2020-04-06T08:16:00Z
