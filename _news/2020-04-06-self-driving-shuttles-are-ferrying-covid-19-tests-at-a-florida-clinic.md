@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-te
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -45,6 +45,21 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/Nnj7455SZMY5Bolm5BiwaXySgHI=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66611017/maxresdefault.0.jpg"
         width: 1280
         height: 720
+  - title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
+    excerpt: "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ..."
+    publishedDateTime: 2020-04-07T14:47:00Z
+    webUrl: "https://www.entrepreneur.com/article/348874"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/348874"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
 
 secured: "bP0/KlWtwVe8FWsY90JeK/p243CElyeGW/BbSiSVX2tJbEztUbD/6V0q6Y2XCx0NyzEwhYf7udGo8SCBAJjKbRv+bcE6ndZW8iHqJvdL/2XEDRpnBRVPaF+5wR1Lz3YDQwAlf4NXG/zLyWM/6YGAKiWPmYPuhYM2n6H2eJXXe8roKSH3cgR36U2Kxuy5bncttfD2UVaib969XpwviBvNOB0YNoW/6k+ii2efAmyehF4n5bo6gg6jM22S1N+YxGFzMwz5sL0UMeNXpIjXdg23mcCzZd4hsCJ9lR2QB2w8GGwuZ06VW0pfBLD+E2t+OiIF;8uBkiZMiBPNxgjVD/mD9TA=="
 ---

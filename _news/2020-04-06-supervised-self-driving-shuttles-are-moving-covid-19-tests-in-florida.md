@@ -45,7 +45,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97"
         width: 600
         height: 350
+  - title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
+    excerpt: "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ..."
+    publishedDateTime: 2020-04-07T14:47:00Z
+    webUrl: "https://www.entrepreneur.com/article/348874"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/348874"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
 
-secured: "pdzy3Zh/zUXzUVtVFzbDiyhuQG0vvWvhq23tIpgISh78A8XCGNVjRiOmzCJWiAzcDz5ASZRcUF2PuZIvQwD/0+fP6d9EZyk4XA+pwYHqGjO4umGsDvM1fVZBcIKwLyiwLmOqb4YjiJ+IYBWud3fJnRXif5vYQHjF7WJ46Iph+KNZj7VF4Y2WsfceiJvJZ3QEk/kniwLm6+FNT2TZF5ru/n6grV6E1sxXwj9Iv5iMYGA6saAfGw2TupOK5FDTtSFnIUku4KwLOhnwYJWgD/IiLfZSL8QvqAnMCc2hVtjgCyz3yYpq+gQf2TzwcHTQTKct;VkfH+eqkmczNLCHERhemmQ=="
+secured: "n6IJWE9KlU46o9GYEd75PEwSGPwyw+96NMnl8BJ2VzCpR014nIpH+7DntAsAiL3Ua7s0Bzm/9ojj3IwUaLMe1KQWTZxwVunPp4ck/yd2C5mEr9uOz6/0ERu5kY765WH/Myoe+6Ydbb6F+srmoXnBITfW0pw6qsd3/xPJIVAHBHkK0BiddEyP3WVhWbqyaYSfG1w954mWwjn2NZjxbM7uQunYe1oW6G1c4uvo3l2i8nl0P81dGroEUhNOjpXpC5aNMstNAwWwBJ/oqysDE4did8eMjOMEYIaPMZfrgHczyf1tfk5Zg5t7rubSK8SsW4kSeisHSkWAO/PMHqbOGIx5DJZk7bQnMPbZBs9Mpuyl4/l0szlhT9zi6Gi9duyUz0akpD+cGAzcEDMOLgA62WIeUREAFihQRFgymNpKui5PXfxMyBv7tR6AbqqKABTVSFkwYXLOmwV4TucsCTgHBmv7bqodBw12I7TU2POSTCcC43U=;S6dd5Hzr/hLxzCgE970tCQ=="
 ---
 
