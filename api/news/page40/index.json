@@ -2,6 +2,87 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-02-28-pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology.md",
+      "title": "Pontifical Academy for Life, tech companies, call for ethical use of AI technology",
+      "excerpt": "“Algor-ethics,” according to the text, is the ethical use of artificial intelligence according to the principles of transparency, inclusion, responsibility, impartiality, reliability, security, and privacy. The signing of the “Rome Call for AI Ethics” took place as part of the 2020 assembly of the Pontifical Academy for Life, which was ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.catholicnewsagency.com/news/pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology-77167",
+      "ampWebUrl": "https://www.catholicnewsagency.com/amp/news/pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology-77167",
+      "cdnAmpWebUrl": "https://www-catholicnewsagency-com.cdn.ampproject.org/c/s/www.catholicnewsagency.com/amp/news/pontifical-academy-for-life-tech-companies-call-for-ethical-use-of-ai-technology-77167",
+      "publishedDateTime": "2020-02-28T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Catholic News Agency",
+        "domain": "catholicnewsagency.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.catholicnewsagency.com/images/St_Peters_Basilica_Credit_Bohumil_Petrik_CNA.jpeg?w=375&h=250",
+          "width": 375,
+          "height": 250,
+          "title": "Pontifical Academy for Life, tech companies, call for ethical use of AI technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50.md",
+      "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
+      "excerpt": "A recent survey of over 10,000 office workers by a U. S. tech firm found respondents were wasting more than 40% of their day on repetitive data work.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/",
+      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/02/28/how-this-ai-engineer-turned-ceo-is-reshaping-the-way-we-work-for-society-50/amp/",
+      "publishedDateTime": "2020-02-28T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5946917a00980007347bb4%2F0x0.jpg",
+          "width": 876,
+          "height": 586,
+          "title": "How This AI Engineer-Turned CEO Is Reshaping The Way We Work For Society 5.0",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-the-pope-is-getting-on-the-ai-bandwagon.md",
       "title": "The Pope is getting on the AI bandwagon",
       "excerpt": "The tech giants signed the Vatican's “Rome Call for AI Ethics” pledge which asserts that technology should respect privacy, work reliably and do so without bias. It also says that AI technology should consider “the needs of all human beings” and operate transparently. The document reflects growing concerns among businesses and ...",
@@ -1010,88 +1091,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-facial-recognition-company-says-entire-client-list-was-stolen.md",
-      "title": "Facial recognition company says entire client list was stolen",
-      "excerpt": "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/now/video/facial-recognition-company-says-entire-client-list-was-stolen-79580229780",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-27T17:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media14.s-nbcnews.com/j/MSNBC/Components/Video/202002/ott_now_facial_200227_1920x1080.nbcnews-fp-1200-630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Facial recognition company says entire client list was stolen",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
-      "title": "ICE warrantless facial recognition searches trigger Maryland bill",
-      "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
-      "publishedDateTime": "2020-02-27T16:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
-          "width": 2215,
-          "height": 1353,
-          "title": "ICE warrantless facial recognition searches trigger Maryland bill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

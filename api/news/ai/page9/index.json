@@ -2,6 +2,86 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
+      "title": "iPad trackpad support is just the start of iOS 13.4's great features",
+      "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/how-to/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ipad-trackpad-support-is-just-the-start-of-ios-13-4s-great-features/",
+      "publishedDateTime": "2020-03-28T05:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/XqDWvrZY6CVOCKok-tNg7jlqgi4=/756x567/2019/09/19/58acf163-3d55-4bdb-8353-4fc0dd83527d/memoji-stickers.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "iPad trackpad support is just the start of iOS 13.4's great features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-how-artificial-intelligence-can-aid-eye-testing.md",
+      "title": "How artificial intelligence can aid eye testing",
+      "excerpt": "From diagnostics to drug development, artificial intelligence (AI) today has become a valuable extension of the medical field. A new addition to its long list of uses is a hi-tech screening tool developed by Google and an international team of researchers for detecting diabetic retinopathy a diabetic complication in the eye. A study conducted ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
+      "publishedDateTime": "2020-03-28T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/science/bxexes/article31192454.ece/ALTERNATES/LANDSCAPE_615/29TH-SCIFUNDUSpng",
+          "width": 615,
+          "height": 384,
+          "title": "How artificial intelligence can aid eye testing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
       "title": "Microsoft to divest AnyVision stake, end face recognition investing",
       "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
@@ -1213,88 +1293,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech.md",
-      "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
-      "excerpt": "Self-driving truck startup TuSimple is partnering with automotive supplier ZF to develop and produce autonomous vehicle technology, such as sensors, on a commercial scale. The partnership, slated to begin in April, will cover China, Europe and North America. The two companies will co-develop sensors needed in autonomous vehicle technology such ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
-      "publishedDateTime": "2020-03-26T16:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
-      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

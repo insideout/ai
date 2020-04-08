@@ -25,6 +25,6 @@ images:
     height: 401
     title: "Self-driving delivery startup wins California permit, plans test runs in Bay Area"
 
-secured: "+1m0iIWmNGVZl+wgEx25xkoq0brr12TN3AnjVirgW5qyRnMjs0ZdJD/iSy6NL3IeI0ZBZaENqrLGiIX/YPZ41cybwRy0yY1fSMw6Cox55mJIyOeOGLSRwcYxyJTKY8OdXbLrTImG0TAv5g0cZ30MlB9p/v8999jIFmey0+og8d2zvUf1+A0+qTeXLHC/u/KRDFLcgWlGxUOlSfRXWwvW2tAO0VRgJGPmYDAsq4TDgtaF6dSrGFWyIV8k+3euHx6uWJ+fmtkjmUxuklusIZRsMdOjr/IVk69A9a7Hgar4HcmNaTUTESEXjU05QV7K7PRe;OJD2LfBinqWkoY0+d7iR2Q=="
+secured: "KpYTx0THqtIsYKY25BcH4if4Nh6nsyOtAmDmVDHe/P6EhqaxyBPvEwEgJPy/Pls8w8/955sZnKOkQ8lIhQ/lp8KR2mthXNGfVFfhH7z8Q441+mrSv/DXj4zA//vi/Wy96aXp88OW9bejzAqQP/wx7J+hZTS0HyjMUo2sUeDtTrmeF3G+/24EYAkpF0BamcEWQctGgWw27IsnNq+PAPLLxOWDAVkdCBrPcndaYpb1wc+x1S6SWtSxDjB5EYPUifaAYN/FafgJUV6unwdWCbQUf7gokW0//YmihNrbSMYJ65JyGsgTQD3iUZJWalYz+mSsboBmkrcSVhBAg3IzrKBZzQqgkrPANnbLuieAD6z8LNSDo26pSP9dXAVjlndSvnp/EVcwa4RRwY1vvc2zfaLeoiF3NJBTYXS17Z5bbgwuzrC5Ku1M7AuEw9PfuYUSiElAp70Zh1wm0NHdx+eI34P1I7ZN0/pd9cHGk6wwZ38L2UM=;EnnpuRpIF6rZMUTKVSB4HQ=="
 ---
 

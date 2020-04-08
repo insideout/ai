@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-06-how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home.md",
+      "title": "How Mobile Technology And Deep Learning Brings The IKEA Showroom To Your Home",
+      "excerpt": "IKEA Retail Business chief digital officer explains how its latest acquisition leverages the power of cloud-based deep learning to audition new furniture and change room layouts without leaving your home.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/oisinlunny/2020/04/06/how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home/",
+      "ampWebUrl": "https://www.forbes.com/sites/oisinlunny/2020/04/06/how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oisinlunny/2020/04/06/how-mobile-technology-and-deep-learning-brings-the-ikea-showroom-to-your-home/amp/",
+      "publishedDateTime": "2020-04-06T16:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8aee9ab0a4e4000746c895%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "How Mobile Technology And Deep Learning Brings The IKEA Showroom To Your Home",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious.md",
       "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
       "excerpt": "It increases the output resolution and extends the battery life. DLSS 2.0 uses dedicated AI processors called Tensor cores. Max-Q Dynamic boost showing the power shift on an RTX 2080 Super laptop, 90W GPU power limit, ... [+] Witcher 3, Max settings, Core i7, 16GB of RAM. Not all laptops will support Max-Q GPUs, but for those laptops that do ...",
@@ -875,7 +920,7 @@
       "path": "_news/2020-04-05-rd-roundup-ultrasoundai-medical-imaging-assistive-exoskeletons-and-neural-weather-modeling.md",
       "title": "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling",
       "excerpt": "Another approach from Stanford applies deep learning techniques to ultrasound imagery and shows that an AI agent can recognize the parts of the heart and record the efficiency with which it is moving blood with accuracy comparable to experts. As with other medical imagery AIs, this isn’t about replacing a doctor but augmenting them ...",
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/",
@@ -1261,45 +1306,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
-      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
-      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
-          "width": 367,
-          "height": 496,
-          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

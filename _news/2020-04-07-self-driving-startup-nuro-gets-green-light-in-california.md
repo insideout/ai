@@ -23,6 +23,6 @@ images:
     height: 600
     title: "Self-driving startup Nuro gets green light in California"
 
-secured: "/hocfUwkVHfnfs1F1+S17gsSXVxrT+AqrWjCJeUxVjy5EK+k89sqIRble6cVFHy6Xa16LZA2gm1mPZlRqvjHXUEuehOev3+9gjn4A2jzWmL8kyC43qhqVdfl2WGf7mcLlvTXXsjo5uV295Xq1vqhX31OAGXt8LVGoy8TVG1mVUatAlEHtzNj9++J2S3OO7x4H4+KgWoniDid/fyuM8zuUnXJGRhNHjue+jIkaSawUZeywsJU0tSB4OeyxpZrskSbf3xz0itFrwHOP0ub/oenrSna/q9O/1sy9uD2FURbf6wm3y1el0bqNic2ST6h9+AH;Ph9GVN6GXNztxAQtZMe3XA=="
+secured: "1P+S7jMa+t6S0mipgrAz29p2EQO7ef5taB3caY7cQRQ0lrF6470VE4hcV3F/ad8MvNAZ1D3XsJ5Msu7xrPnemFGft6Fd4j9E2tfl/bbd12no/4mmID0Z7kgVh/n1NKd0JFCTjgDh3A6DJYjCksuv5D1onP1VwMySz4ySrbdr/qQpEmhR/codfBnDEn/jUZcxUP+VfD+t+3Z15VRZvvPC+jLTkBLCHqyct1q64SKP+PXGbwCfMeN8uMsLPKe3Gc4dXFQT1WEhEwtrvMU1q9sp7qTjIDupPcyEzUl/SxtpvliozSBlk5/J0d5OoU4uqBjWpBgjv60Rf9YUu1ajZXwpvlORE87k/6O3uQD57DG3MChniTjUrwiy48Mt0rbfcUPfCwC2hKW/WKXF24NHydB/eT+k9/pzF59wF9rBISJBhVcCMAqGGUq+6z5LFjg3BLfzaSRQ6jjzmygCz6cu5gatJOtiqEJWFL6QR9Li3Q6RRr0=;Rhv5rjEVSICc3ssxxijdQQ=="
 ---
 

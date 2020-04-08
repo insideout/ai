@@ -2,10 +2,55 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
+      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "publishedDateTime": "2020-04-05T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-172689/social",
+          "width": 1280,
+          "height": 640,
+          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-rd-roundup-ultrasoundai-medical-imaging-assistive-exoskeletons-and-neural-weather-modeling.md",
       "title": "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling",
       "excerpt": "Another approach from Stanford applies deep learning techniques to ultrasound imagery and shows that an AI agent can recognize the parts of the heart and record the efficiency with which it is moving blood with accuracy comparable to experts. As with other medical imagery AIs, this isn’t about replacing a doctor but augmenting them ...",
-      "heat": 76,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/",
@@ -1039,51 +1084,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-seattle-machine-learning-startup-octoml-raises-15m-from-amplify-and-madrona.md",
-      "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
-      "excerpt": "Founded by a group of computer science experts, the company aims to help companies deploy machine learning models on various hardware configurations. OctoML is led by the creators of Apache TVM, an open source “deep learning compiler stack” that started as a research project at the UW’s Paul G. Allen School of Computer Science ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-machine-learning-startup-octoml-raises-15m-amplify-madrona/",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-machine-learning-startup-octoml-raises-15m-amplify-madrona/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-machine-learning-startup-octoml-raises-15m-amplify-madrona/amp/",
-      "publishedDateTime": "2020-04-03T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

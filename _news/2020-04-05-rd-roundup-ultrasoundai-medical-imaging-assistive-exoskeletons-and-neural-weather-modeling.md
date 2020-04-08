@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/amp/"
 type: article
 quality: 75
-heat: 76
+heat: 75
 published: true
 
 provider:

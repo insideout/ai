@@ -2,6 +2,80 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-01-viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care.md",
+      "title": "ViewRay and VieCure Announce Strategic Collaboration to Accelerate Adoption of Personalized Cancer Care",
+      "excerpt": "PRNewswire/ -- (Nasdaq: VRAY) announced today a strategic collaboration with VieCure, an artificial intelligence (AI) informatics company with a leading point-of-care clinical decision support",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care/article_f9a5bfb7-0282-532b-ae64-06fe7b4ce58b.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
+      "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
+      "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/",
+      "ampWebUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
+      "publishedDateTime": "2020-04-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-enterprise-artificial-intelligence-along-with-telehealth-and-teleconferences-can-help-in-fighting-covid-19.md",
       "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
       "excerpt": "In the fight against COVID-19, enterprise artificial intelligence (AI) is not getting the same attention as teleconferencing and telehealth technologies. A massive shift to working from home to avoid spreading the virus means virtual collaboration companies like Zoom Video Communications are in the headlines. The same dynamic is playing out in ...",
@@ -358,7 +432,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1238,87 +1313,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
-      "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-      "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "publishedDateTime": "2020-03-31T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/thumbnail/1200x675/c021471ff96cdf363eebc4f21f68ea4f/facerecognitionistock-1180902227.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an-ai-driven-predictive-model-of-ovarian-cancer.md",
-      "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
-      "excerpt": "MINNEAPOLIS, March 31, 2020 (GLOBE NEWSWIRE) --  (NASDAQ: POAI ) (“POAI” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bakersfield.com/ap/news/poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an/article_423a4c72-6993-5f2a-9e02-8f7e925d7d5c.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
-          "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }
