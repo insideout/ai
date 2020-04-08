@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,23 +28,6 @@ images:
     width: 1200
     height: 600
     title: "IBM makes AI tools and resources available to coronavirus researchers"
-
-related:
-  - title: "IBM Watson Assistant for Citizens provides responses to common COVID-19 queries"
-    excerpt: "Available for no charge for at least 90 days and available to our client’s citizens online or by phone, IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand ..."
-    publishedDateTime: 2020-04-03T15:22:00Z
-    webUrl: "https://www.news-medical.net/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200403/IBM-Watson-Assistant-for-Citizens-provides-responses-to-common-COVID-19-queries.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
-        width: 620
-        height: 480
 
 secured: "WbtN6RPiJhx+TEK3342va7kLESpHywseKrX4FtKC69qs79bcOjIl1EUsLsF25ws9PTIGMiETr3zfwT3cQ+CHat1nHMk4EaPMAvaskwKWWnKFRZTLChDeUynSyV0pp/ysBDnvBMLWAU4tsKtvnRMHK0QoX1Kpae0mKys//VNImGvKELDdhARQiwmKk6i74scyxFAQcDTBeTIZyvwv4YYDIMGPIucElqQkpv8xvqVviyL516RsewRGlEV1n8DxzN5gFGcsOXc8SE2iZqL56KoSn1WY9l75novpqwNmmoX8u/kOpOsoELKDVG3TncwW2M7yClLMltqooVnBXR25M8eeADpGUmu1MZGawlLRR3oFejEoAOSeg6N/490K9oszEQZ2aOgOFzzRP5Xv9zIr2Hmhe33R+e8pYgUX6/wczMUuD46NE5RUeWWEsaUb8mF0zRrFJNkbmCKSfVTnphTXWwxcTaRddWdO5AESrbFTXOPgDqM=;qB7IbKll+g/K9jGtMkMLcQ=="
 ---

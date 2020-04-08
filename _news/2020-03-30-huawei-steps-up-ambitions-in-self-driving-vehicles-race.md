@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Huawei steps up ambitions in self-driving vehicles race"
-excerpt: "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ..."
+excerpt: "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ..."
 publishedDateTime: 2020-03-30T09:36:00Z
-webUrl: "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race"
+webUrl: "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 512
     title: "Huawei steps up ambitions in self-driving vehicles race"
 
-secured: "MFJvmmMc1VaqkDEGUisqbqI2rabP51zlqFcXpa9PgwJUJKXMgp9X1CmCnofS55xJ64x9AC5yJh4LsHG0aJ2x7WYbbQTo0mPngKFobXFeT05bhycfXgYy4riE78m001U/CbnM52g8zG1waZxqarEpRMhcXegy0JiF+6qKn4DYvs7AHWRfL2QRNEOa/Eof0rW7C8vl8anDiK5usotPa7SU+nv6iohOxqPJYszkkx4MV1jkDntoC6GAV6+jgC9VKptKVOZLuhtmiffmQ0ZF62rYy8EzgcMFpPvh85BR4lDEn5YvBF4j3PGNV6H/gPPSEWGcKQinBuM+0aIbdrG6tf1n6eogwGzvr9MWRbwFYjgOdVoI/enWPi7r067JIjvs/J6cAoB2bmHdIx4W92epgwv21ujKylP1ggdusZ7+fsVjXy9pb/TSLK1BD86vpWSrn3rDeMhEDqtInp7QEN9j4oudQOi7cWS0Xgj0ttUllx01CT8=;+xXR3Zv5ENNpc01LxPDIEQ=="
+secured: "+04U+toAuj3BmNZg1rt5JiZT7F5892KxowTFuaIWLSyaJa/ACn8LuTiBy2ygcOoZVDmL4vI5CgjGmZfHF4VFwZPyhQBw3c990sjcMzt7MdHPI7J0yYfkpeFI4hs1USh2lGZrj/mAt9lJmOOWmoTA0nVJFh96aX297NjTnDlEhR9ZrRYKrj9wAfQjGdnQ1Vwf6RKLkdxy9jMc/aWnTKG/5scMsqMmDBh3dy2sYK+x3AGSuI6DD8+7/scRFKLjTb6JslOhBMBVYsl+t6XvlA3xKOTMJQGaQtmw1VCm0QbIA83FSwD1ccJqQa5W3pS1/xw0;4WbK18pCsz5fTOGBYSfOXA=="
 ---
 

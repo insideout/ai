@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-08T05:57:00Z
 webUrl: "https://www.marketwatch.com/press-release/healthcare-information-technology-hcit-market-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,21 @@ images:
     width: 1200
     height: 630
     title: "Healthcare Information Technology (HCIT) Market Global Analysis, Opportunities And Forecast To 2025"
+
+related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,"
+    publishedDateTime: 2020-04-08T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 81
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "T8FmLzxzl7tUvYl0t4fAyQNDIIL5gI/rry0Ds3QVHOftiIrAsKaW30qpiegefY5a5JkslszqVLkUNKB+1nJQmEQS/7VWlnI8BllbtxwgIFoB4OXs2cgKW7RS2/M++Xg0NLvIaSmbycKQJ/Csd3iDkfZINyHJm16qiyMWEEIpp1DNVIXKnw4U6goW0XJibW8yWfSOP2e2mbYmzUR5GP4dGSp1YEsX25LpNK9HYcx2i84PYTLV2nNyVqgWDuayoSX8+IlG6ZwLXw2407H0/dHHLJfW4PWPmKIVTr6US+VI4Ytri4qo+Jq95mQtBypEn2Du;8++26yjEOXrv1DXXIvKU3g=="
 ---
