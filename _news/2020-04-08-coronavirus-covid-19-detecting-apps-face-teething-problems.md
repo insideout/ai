@@ -25,6 +25,21 @@ images:
     height: 576
     title: "Coronavirus: Covid-19 detecting apps face teething problems"
 
+related:
+  - title: "Thermal Detection, Computer Vision Could Help Curve the Coronavirus Pandemic"
+    excerpt: "Rather than surveying unsuspecting carriers about their recent travels, authorities like the Transportation Security Administration could have benefitted greatly from the use of AI-enabled computer vision technologies capable of detecting symptoms associated with COVID-19 – such as fevers and abnormal respiratory patterns – with high ..."
+    publishedDateTime: 2020-04-08T21:47:00Z
+    webUrl: "https://www.embedded-computing.com/guest-blogs/thermal-detection-computer-vision-could-help-curve-the-coronavirus-pandemic"
+    type: article
+    provider:
+      name: Embedded Computing Design
+      domain: embedded-computing.com
+    quality: 36
+    images:
+      - url: "http://share.opsy.st/5e8e4300aeec1-Picture1.png"
+        width: 812
+        height: 541
+
 secured: "Nr9gVn9TSdl3JCClcydg0MA7KthsIwaVvxiwUeMHHjKWzNYFMfJFc885y5M1vkqvmgC4VpEAXReym4reR+QeQumDRYGGY2F4VE/+sYXW5m8pQM2z7fwyrkW5Yw454YIiDV+o3Du0aeVmh8KGA5gZ3bSjM3Bz4ABOrY/PsJy2ntyUVtnWzBt3uwLOdrozRMjP+BNtAGaADqeMsR3MFymdeDOcbYGSEbtBj2yfv2nStPxbvbEVabQWeZhDL/oF48ZdiKI7qNRidr658QKq21sXIT+cFyGGl4mUf209OzLU99GEN5Eerh9s05XmeMfP7lnw;BdQSK4Pff17MDJjIOLfPDA=="
 ---
 

@@ -5,8 +5,8 @@ excerpt: "ACM, the Association for Computing Machinery, today named Maria Florin
 publishedDateTime: 2020-04-08T12:22:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-04/afcm-bnr040720.php"
 type: article
-quality: 30
-heat: 30
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/228741_web.jpg"
@@ -38,6 +39,6 @@ related:
         width: 300
         height: 300
 
-secured: "aytSCmiSFx9jW5HNAa0vwaaEiyhvUWa7hSEQqF9u9qP4g3pIcC1qc4L4vIf2a8fZLMoYsFiSratleLhVMngH/MoED7W6fGPp84DtbBI1iFFzasVVc44Axw8w6ZkW8a8guRG3FpbzBFeqfcL3KOKTv+UCBvnouigbSZYrmPT2B0U8SYs7nCrdjqPXop05UfnOnngZsRQdmz4FXcsNV+nxP0BiIpc1g4DTjRkomBpJcy3fp9N8UvAFmUiM6ys5vtkyuu4ctLv+nHmlFEZF3b4QQzPXx1yQkDRLBm6d/ilea8ZJl9g7UFfyyRysgeU1595u;guodiA0JJ1ss48Nx89nkSQ=="
+secured: "h3GBDlv5YT8NDc9XXhDh08QTKuzjaaokIfaBKdM8gygeyG5r4YIyI8kE/k+2qQ6sgZCSS4Gz1wA8/8qgVGTIJI+xP9rEYRSFLlJJdkfZWKSWSF6aQcjfasKQDN6MHK3gT5bXX4w4KCdLzsIBNepPL6fus1rp9igcromz7crZAmp9itgOc4XjzlAmy9oj+WRhzXmWVROy3NsDjWUL0oAw4o3IpU40LLDayu7yQDmK2rpJP48ld7PkbfgRZ0DvGY3va6oOGrWkHQaVsYzxAQ4ZeZiuqMotZCF4tkKMu9bkE4IqPsrVbBB5UhmuUrQ3Q4FPvuvSHv1cZnC9j7w+56z8na6qgynSOUCQ9q8ooyOs8+iGlwJXSaoDHGjbUOnkZtXD+TTanH2xNZNUMoPcVFnUiZxf/z/yagt5XbkCeNFf2dKTgRaSm0Rdeh1+ique8gwNcNqM3PnRn1Cp14UbbuuW7TNJt43GbqUv+KwcUCCTgZM=;XlnzKLLW5MZRoohK/ND/Yw=="
 ---
 

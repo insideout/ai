@@ -28,6 +28,6 @@ images:
     height: 1037
     title: "Storytelling & Diversity: The AI Edge In LA"
 
-secured: "xTuwOlPN+q+ygt2mMwWU+vs+Iuor6jA67JjzlXumCg/TtwFLIUJFy8GhCd0i+9VfWdvNO+zcSPrJSJiTJ7LO25g3vG/x7bF4Vlt6j4ShIr8a1gZmfEyjwW5qQB73fz9qs86/3E/ROAWaNULP8P2LQA+5mDhvEaC1MvIQbkJrbhhVWINg5sE+6ulWVpwlXulQoUnyVZ+c2bo9UZX6XDN1/np/OAvYRcg+bRuvGCBugkJH/qbUd/ncKdDh1A0uKobcIa+hKWBStFQKx1JaQp5HBnpZlh8GxnKCrLiylXGSqv240CMX5WH7X1+eyJvC2j1k;WNBdq81Ggx9Mu9mKpQY5cw=="
+secured: "BkskjofH7/HnqKnzwPrKWInYsss8Uak4SlO1iGleSUXh+i7e1X66qbGOz51hE6Qha0RhM+SXkyrUk9ww/r/28DnL+jvGGp4YYHV9NHnyNLKBbvAM7Puuf/Z31FzsXcNUaJfSoJrFALs2Th1s29wTCLRtQBWbTfOfomqqMWCepI36TP/2XKB1wNi9CwqLf88c5/urXdS83PVlFFwaL+S0ISKqm8+m2KyKomiuyMp3EEKrxb8yFXvOLaengSD239ueCod94tA7nLLrPrrE9+q1KWMYZ8IZr55qSoP+PO1MrDZovOyqIezEQ3YoOOsAf+6h+CIvXsdOypyJQmj3AG6RB1NZZL6hgrTOcOnoFzpryuby9b6w/SbyqEMOscSwsCYGPsO0++Ho+4R31pBFpHxWTZXko9ujzrVYSv1bDim7+7dvKMJpSm/s/YdfMNpsPp6DPiN59YNVDa0hwkL2yNVs9tSS4kJo5EN0UkehtyorRAk=;PFf7JfCiQ5KnIeJwB7JJVg=="
 ---
 

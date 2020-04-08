@@ -1,21 +1,21 @@
 ---
 category: news
 title: "How AI Is Helping in the Fight Against COVID-19"
-excerpt: "Alex Wong, chief scientist at DarwinAI, says there are subtle differences between COVID-19 and other infections that radiologists might not notice when examining chest X-rays. “The hope here with COVID-Net is that we can leverage AI (specifically, deep ..."
-publishedDateTime: 2020-04-08T15:22:00Z
-webUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19"
-ampWebUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
-cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
+excerpt: "The final report is sent out to BlueDot’s customers, such as governments and businesses. In addition to hotspots, the AI can also predict the spread of infectious and contagious diseases using flight data and movement patterns. BlueDot successfully predicted several cities where COVID-19 would first spread, after it surfaced in Wuhan."
+publishedDateTime: 2020-04-08T14:51:00Z
+webUrl: "https://www.entrepreneur.com/article/348941"
+ampWebUrl: "https://www.entrepreneur.com/amphtml/348941"
+cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348941"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
-  name: PC Magazine
-  domain: pcmag.com
+  name: Entrepreneur
+  domain: entrepreneur.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/04pW8GvHEUrDEqDfx9OnW9G-1.fit_lim.size_1200x630.v_1586193798.jpg"
-    width: 1120
-    height: 630
+  - url: "https://assets.entrepreneur.com/content/3x2/2000/20200408145111-coronavirus.jpeg?width=600&crop=16:9"
+    width: 600
+    height: 338
     title: "How AI Is Helping in the Fight Against COVID-19"
 
 related:
@@ -39,25 +39,12 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 74
+    quality: 91
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg"
         width: 630
         height: 420
-  - title: "Video: Microsoft is using AI machine learning to find Covid-19 antibodies, says CTO"
-    excerpt: "Video: Microsoft is using AI machine learning to find Covid-19 antibodies, says CTO Kevin Scott, Microsoft chief technology officer, discusses how Microsoft is helping with internet access and in the healthcare arena during the Covid-19 crisis."
-    publishedDateTime: 2020-04-08T07:47:00Z
-    webUrl: "https://www.arabianbusiness.com/video/444583-video-microsoft-is-using-ai-machine-learning-to-find-covid-19-antibodies-says-cto"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 48
-    images:
-      - url: "https://www.arabianbusiness.com/public/styles/fb_share_style_image/public/images/2020/04/08/Kevin-Scott_Microsoft.jpg?itok=66MHkhi8"
-        width: 1200
-        height: 630
 
-secured: "mK1eNgdpmgJMpEq1lzPP3b674CNTnVdbsaMwxqsc5KtQRfur4nnwd9I65DMT8lZz0wJ2+8ZJ82JbrCEkdghDczyBfn4MW2+RlS1/iOsc4s+MTTaZSxYLVcjqWgeBykm3lNBqKu2I8OANd5PtbhiNQy1CBoXgM3JpQgHyEe55J4bgRwZWmeZYZbbtgyL5tisurMv9D+eMwvFYdUuaYjnZEgOw+h8sQnavM/nSHaPQ20OsR8Tw9ENM3h5XCHt9XUOdLw9QhVokmxMlhKPNV9cWQtIFCFRpnrE+mpdbaDGcKH3kAPvsqXH7829VeNeNU+0/;OVSHw4RwJTWzJtyWbla0gQ=="
+secured: "J84pkm5/acT9AGILMP/h2/Awz/WTkd1E2lQNdecSL5umE5/+ZJH+bBPNda1IeWQdK8zn4F6AXnEkusYNQwlFv1fyJQ+aM6uUHWF8Y/lhMpvjPm7CYwZValgVW+uBILXGrIx1hoCRmEPjrrI/GU4lbT0Lec+K4NNw12OEluJ8wY+NOXcEEN3SSiBEBHloml4SlBnQYeMpC8HaYHPbNuwYA42XPmNRt3uNP5YRzSoJqSWsUqCt2MahyrlQxIpzGQm9hdR3D2wiLq038f/swzMmVgPFcpVERxD8QImigH44wQeiMir0sQdnC2VvdHiGCppe;iatlknYCv3q+GnXAbJzQXA=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://futurism.com/self-driving-car-company-lays-off-human-safety-
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-car-company-lays-off-human-safety-drivers/amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,23 @@ images:
     width: 600
     height: 315
     title: "Self-Driving Car Company Lays Off All Its Human Safety Drivers"
+
+related:
+  - title: "Nuro cleared to test self-driving delivery vehicles in California"
+    excerpt: "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,"
+    publishedDateTime: 2020-04-08T21:03:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg"
+        width: 1200
+        height: 630
 
 secured: "0EZK737CyKcU+lZVfUC+8Ai0wn1TYWt6GQCh351pBmbkqrcAXAr+oN1riPd545/VLrnfcZ9Kx5NZFZ9Npm0hFXbrX4RmkYIvcrwOiVPgNy6GjhrtvlNVz57h0dbvsN3WhQX5HK+KZnnMdvJ86Qw/D/NcMISUFWRqzZMUl1wbXhDPCZt4/BtZNLNSRDiEQgPdYs5yfp96AwIT5FLEpuAeM7Pq0pQm3Poil5WvP9x4s1KgLVvxn1cE+eBRyM3pEeomLHm3oN4GIXQnj1RCH2NjY+k+4nMpDz6l3bbA+ylCwB9Iw/G0DyHwHGHBRlABmrL0fH58oxi2aCQw7JzGoYKqt7V/WWOH83RbGEGEHv+ZAGq0yM0ql+UAQpBCNjAYgRfj8eTMmhoiKjRZXCUTmoe6CacBgh1o1bV/9Y3cLy2j/kJz6xx8p1ZzxZfYiOEo+JsQY71TVJ6XOSIdu3y+FXGw3gDq5+XqD+ap6LuQtI5oX4Q=;i8tk8TXObhaqcoJ4dsTv0Q=="
 ---

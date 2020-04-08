@@ -7,9 +7,9 @@ webUrl: "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robo
 ampWebUrl: "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 91
+heat: 101
+published: true
 
 provider:
   name: GeekWire
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg"
@@ -30,34 +31,21 @@ images:
 
 related:
   - title: "How AI Is Helping in the Fight Against COVID-19"
-    excerpt: "Alex Wong, chief scientist at DarwinAI, says there are subtle differences between COVID-19 and other infections that radiologists might not notice when examining chest X-rays. “The hope here with COVID-Net is that we can leverage AI (specifically, deep ..."
-    publishedDateTime: 2020-04-08T15:22:00Z
-    webUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19"
-    ampWebUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
+    excerpt: "The final report is sent out to BlueDot’s customers, such as governments and businesses. In addition to hotspots, the AI can also predict the spread of infectious and contagious diseases using flight data and movement patterns. BlueDot successfully predicted several cities where COVID-19 would first spread, after it surfaced in Wuhan."
+    publishedDateTime: 2020-04-08T14:51:00Z
+    webUrl: "https://www.entrepreneur.com/article/348941"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/348941"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348941"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 87
     images:
-      - url: "https://i.pcmag.com/imagery/articles/04pW8GvHEUrDEqDfx9OnW9G-1.fit_lim.size_1200x630.v_1586193798.jpg"
-        width: 1120
-        height: 630
-  - title: "Video: Microsoft is using AI machine learning to find Covid-19 antibodies, says CTO"
-    excerpt: "Video: Microsoft is using AI machine learning to find Covid-19 antibodies, says CTO Kevin Scott, Microsoft chief technology officer, discusses how Microsoft is helping with internet access and in the healthcare arena during the Covid-19 crisis."
-    publishedDateTime: 2020-04-08T07:47:00Z
-    webUrl: "https://www.arabianbusiness.com/video/444583-video-microsoft-is-using-ai-machine-learning-to-find-covid-19-antibodies-says-cto"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 48
-    images:
-      - url: "https://www.arabianbusiness.com/public/styles/fb_share_style_image/public/images/2020/04/08/Kevin-Scott_Microsoft.jpg?itok=66MHkhi8"
-        width: 1200
-        height: 630
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200408145111-coronavirus.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
 
-secured: "10sDO/RH+9YAYESI7KrkLYbZJccsAvwL3XRx0j7XjHrOrv4sWHkQM0L3eSB5gED5I+/SAmS4iPJO0ZXkKVwxk/LavkzdNRrC7UNKGtOinupMBQdQ5rhHcRFKRCLBdtxVhrzm0kJaDuhKE/DaQpKtJIHNsexJnuAQVE92j1iuo1V0di4dMvDcs0l/EEQATRoKYZ8ziqJgBi8vs3OCQGnH21GurpOmDhsrB3lpUwItwmskHbMDcibwLqZMFdzsXra2HtCyOIVzRZJqiNYIwx3az8NsItVfWIPyMxj5IfODPVglzAhxlsLPdCElL9I6sbyP;5YPYWPrM3lp25uc1pQbUeA=="
+secured: "dXQBiwTjvKCiVkZ4Dx6LiBSMShU6KgZSBW23HO6ThpIrceSaj6b4H4D4A7H0IyuS8xY2Q4tG9r37ufjOY0URCBZB2DHbv1m2qlFeGvYYlqsPxNFcNwNqJfwTtQcgNx5aSp2Waqx4uTsGhERBaGwzvShfg8/W5D5FWRP4Vp8wBUy54IlpQTp8X4wNyR4V7MhBZjl0Dl+bfIAwe53+zjZyqC3JXx3enbQK0TU8GjXZysuf2qLKbvV9b56mbz0arouQ3uI0qkhlYQIXRD5yH42LmLL+aIHLD+O8RmBoHkL9MIhKyoXs5oeL9B/dNI3W9yMLIDwc9ehLew5wJmWrvbmxlAUAMfTZnfdCH8zehO2pfEA2Gll7r+n4Nts0/z99EwcC8F3ZLxSz0AIaBs56qiIduUofppu6B7OJp2D52pU/S9oXXK5I1Yxo07LXA5ES1sjSmjZArP5nM0eQ3TvD8dPKh2HR03a7JUci29UKX+hNJCw=;uBSoMYCtOQILTBalUNABiw=="
 ---
 
