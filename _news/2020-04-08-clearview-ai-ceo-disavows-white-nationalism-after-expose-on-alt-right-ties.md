@@ -28,6 +28,6 @@ images:
     height: 933
     title: "Clearview AI CEO disavows white nationalism after exposé on alt-right ties"
 
-secured: "q2+GQeC/xh3QNV7+KaAENxRi0mYEw9ncrTkE3BYbk1LLzhXP1hMU1igO9Xq4tqrqCNZ5WQWouFPiWjHthu8eDvvVNA78wLJnbl+DjccNyntWWVMWfY1mdNZMu0AgVvYMjtNwiObMt+IyNRY0BcU39N22FksYqa/fTkBSmytExqgfrQtf2Z2CTBroyP/u+QuTBpfBtZXTL8a6zj9l0OtQjmJTKwwUhs5r6waJ+iy1UEgF5ipi/SllE3WZxONXkdHMcsVfjG+2e8J4xqzgfmp2aXsyW2YJ4oiFklnGn8ScCZvyBHti+njbZdWq08SFU3vd;rUtrAgHYDQ572pdnJqGwGA=="
+secured: "FnK0agMe6ro5ifFF/onhjxHgSiaP1zD4bYxcDPm9fxIX7phoCDBdr7V08u0+e2UqZ35f08RGgkYqeVLKl0SDBTU+o+j8W+gYAt6yyP8gj3/TNxnUN3xuTC/NUXsNap0aqYG3CSYAbOzDhlM/KEY+000VOtruJWV0QvYLiCLyySs0Vv7c9O6hYNC32p+KExDgNroJwTPLhlto1fzX+zJSqgTdjpSCGXaiZ/uEB5fD0n61pxn+BH3K2aHTeldmCZPmFEbELp77lMsKN3QCZvy70U/JAbDUygq41yGlHBPCXSPRCwV6AKLFhs15/MgmaO5nMV4VmTFarkYlem/7GZUN0uSRLi3H7S4V2qyWmO+N6ebH4qGHtayZieJQkNDYE+d72PY5DbavUYcbboUs3axqhYq1GP3D7bQTKFF45aNyhkgS0Wk19rfvQ/p8p97r8Jzzkn1LP+ffVovTeFQnwCXBwwtJbfc0KHfUjGShkWZa1LY=;Oz2yF9+oMaYruHGMRO4aFA=="
 ---
 

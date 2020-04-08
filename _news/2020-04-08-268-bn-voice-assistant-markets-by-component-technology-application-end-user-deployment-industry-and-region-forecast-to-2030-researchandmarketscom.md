@@ -23,6 +23,6 @@ images:
     height: 627
     title: "$26.8 Bn Voice Assistant Markets by Component, Technology, Application, End-user, Deployment, Industry and Region - Forecast to 2030 - ResearchAndMarkets.com"
 
-secured: "o227OOGCxJ5a4WamuWHk5suuq4R3ro8WqeJRh+tUnARRP7KSm4PRlR8dPc2vfP5Ve4t7SQfnFzj7BdS+g3vZOYVU2ZWVy0zWAPJdQOsn/2AyaZxKzsYZK+84kw2g/U0oVXwyLEEORCCeMKAuOooQy6u92G0xCB2q3GFaRO2CM42rRgOoNym2OZTAT2xdKRBOZDKpPxwL8ER40HOuT82vV1tgVD+IVU4NMVbadiSk5yrmaGt2y7x8CatIuakS6pfMTjTM3Fbl+Jarr8kaKg1yK1tCyfq2omauBZj2wUgU0+Pbkx66derJfitH8JFc5nRC;WGU4R57urJH18UD09whByg=="
+secured: "KS4/m8ybl0ai5b+st19zP1a1uytJEG+A7WDZ7OZUR3kUHAagsB/bikPU5gaBVS2PSmL/Ndf8PkpwVPL2JKf8Ize6zY1EteMBMC0IrJU/ajgHin/XbIkcOnNBGH2+b0HOkgDLbtK07ZldC6oIuTrYIy5Sv6I5+LtAybRBYe7DC1kAtlhugQKT67IlBh/jPTIrvqYURXvqXsONS9kew7/PhEH8LEhcWc/qO9WK3QuofGAieG+I4L64WWXwxgN0bhiBF6gp2A4xpjCbGLyEVEhLzI9z28l9KgyyAEq9nQtf4N6+jzG8zZZogHNHv+2cYYEHr0EyjZpBhwRti3s3Lp0j7p1HQTSg4UDCqPu1Xe/qJ+sgFwGB9zMrbm5GIgCDbDUvzgFW9qjf7ilSNEZODGi6hKHQCy5VeTsthOh4fEl+xpEOm7fbw7a+BQTVlPcW9MP2309YsR5pMAzYkn52M5Qap/79Fl3T5gyvM551NXCFm+4=;Z7vis1HNU6S7P7k86iq5fg=="
 ---
 

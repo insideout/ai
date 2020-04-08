@@ -28,6 +28,6 @@ images:
     height: 575
     title: "Builder.ai launches pre-packaged apps for small businesses hit by COVID-19"
 
-secured: "HFLKPy/muIx4uJbdLRE7P11jI5vsrO1qzn2uWGWjuit1Q0GFmFp6H1h32egFBF/8Q/lwWMOXZeLa9qz1ITWD2YJsC3EVSe5lp3n8gy7BGr2slkBbKa7s/WWPox4/HWLXAPs/U2wTeHUB/5QkDNrCNhpeL1QDeSYBR/bM5VFvcb+2ok7wcPh/lvw8eczW/e36UKGYgBcsI6OZAHwB+9tNbnK2mra+0o9V7waGNjXZx/YXEGwpE0Myvs+pFtN6jq5OH8P6IsF40ljIylzSSPDQWO1EIVWe6eFDWWHV41zUWrLUTH/s/Q05xZE/cQsdXwdV;ndYrwhKe1dVZmqqmQpVBEQ=="
+secured: "J3SccdXUFhLYBtxabfT7ZgKxKs65YOx9mDq4t716sMIezfnMYAJlnv5bFubgGfOBbLzdoz44+Bbmqe1Q5zp8AQXV9I1hqSV9hoI+sNRgaAdrZJ9MwK4thCGv+/tD65x9NwNehFYizEEdWEw3q/d9ku1Axbmep3qpvAdWw4KOe+mh9i5BJL0Wi0lGBamFxNG6QfyLT8yTL3HgpwTOflty3w0ngTYLzRRzCtpP5t6cgxEPLKKzSvti+R+HZRN7nxiG5kg8O6UxoODQhWa0WkP/bjB4aU0iAKkAuqscqar7aDEYvw0xdntqx6Cr1e7JsnA9f/XacUYI0ueN1DxovPbYOzALnz0EEOb8KenakZ6OOfKU4TD78FtaCbUL0/KHOHSDBcqPy0mCfe7RYDmC9vQ3p/HycDuZoYwEAGOjSGqcJBBVBXcZwZF87iGY26L/QpuBZvo7AcuAp9ox0ZTcE+33rYjbtZfnsCEr150Pz9TLbDY=;X6WKeJtLjH9C08Wty0hWWg=="
 ---
 

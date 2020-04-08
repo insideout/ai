@@ -23,6 +23,6 @@ images:
     height: 337
     title: "VOS Digital Media Group and EVNTL Artificial Intelligence Collaborate on Leading B2B / B2C AI-Powered Media Technology to Accelerate Revenue"
 
-secured: "gZxyanD9/p/eLEWsAgtkCM/042ayCeV5TSygMJ+2fx1RNYc5+C8rczWW3a1i/1p2Y6hdkrtXXnh6nVE1lnWcnnGeDFTFJZkphmUE87zJu43mZme4IwptdIv0D9dbb80euboykKMgDj0Z/qcoSyux5Xab/sUrh+EkiI+2e600+RkQa2Ex5kXNYJIQjsURADuHTH6fS9vHefBGCzSYbp8KFTklegrUmosVA7FjSrxVVBlLniDEv78BXzfX2iybP01E+lpZtQblXrVKPZxxyqbZzQLENz1tqCJNQ3f/XzaoLBfXyFJ/t383hQEbwY8ePWZj;deIbJ76XrtDl7CwJKUkszA=="
+secured: "WIQU7vpZs+3na91BxKnB+FAHo9OaqtDy3g2UI5oo9rDpW18R/gABEVclWFBKq0a2+qgJHxGAIeIj3Ua75WGIh1FKMs+9wdDL+HBrBYbA4NBkcd7fF42P/WxZR/G2ZbkWRmlNScKGeS+qDJth8AqhqlO3kjIkIIZBsObQtlwR1nY1eGDctzxG+KP7C74r1g2yjrM9zSt7t827YKJUWvAKLkehZDQ0On0mjCX77y4fdc6/YcaXLRgLBCOrzRnrkSpJOi5RIiD6caaa9EdZCG1TZuoSxKfnimNPEbHL5RplS+ouy0yUM5GBs3EtfhyFWKHyUHY/VF8M4jS1AIaKf/6Yw9vgR2/d/nC7kisWDXpz4cMkCvlFX9D+AADfsykrmZu57A+HzDXFgfj7syU0UO9KXfJwZD0ZGtnBO+8WbSu0ZjK+v1WUtyM2ljm7Ht6d6OdZpf4okrMxHDKs73+w3jWtgu8SmInvSc9AWQpE4fpJAQ0=;+DmK0Hcnd1svCYorf1oEqw=="
 ---
 
