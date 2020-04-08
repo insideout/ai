@@ -44,6 +44,15 @@ related:
       - url: "https://mms.businesswire.com/media/20200406005534/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+  - title: "Global Educational Robots Market, Forecast to 2025 - Widespread Adoption Teaching Robots, Digital Whiteboards and Flip Classrooms"
+    excerpt: "The \"Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-04-06T10:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-educational-robots-market-forecast-to-2025---widespread-adoption-teaching-robots-digital-whiteboards/article_d32b3356-11c2-588c-85b1-0d032099229d.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "Vas+Vkr/khxYhxuWVtrSfDzHXoOdaBTDXg0E/brXMiTlEwK5SsUA7onW3jNlxBilUUiPzTbZFFSNjEpcwfu61ys32kOd2480/ntNdkdFTMDnqiho5/XgF8qH2Sk0gE6jEaeJja8KjlpFUH5k2fkXe5yNCXOno0WtjKgWlOjYRBVOT48FKSljIatOACVLmGI/n2fFhj/UBE6g08GSbtAjvoFx7tAly/cSmyBNu/8X1BovrO+fpEULnE7MSWfYxPSihiVbN5iVWFy2y1OVEIMb/8R1l8M6EjIYsMehoTjqSpbC4KcQgf2O3NUSQS5tr6HcZG/XiTn31XNkxYuQ1yVaPzFxqg47eq9sVt93EeLeepWymm2oVKjsQ1kvLTydRpQppux/hsMnTAQ9fHT+IbXUa3Q4aFTClUHi9qr2dVJgeQC+X6EpqYGpimSn18ebVM88wyDxE0Lj6eOwy/0D7rNQTWFjkbQD6jpoLYsCg1rTz94=;nrGUdbcmXwkeKNy/cUXIDA=="
 ---

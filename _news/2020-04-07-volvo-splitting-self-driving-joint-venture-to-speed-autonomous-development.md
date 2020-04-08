@@ -54,6 +54,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/3067ad0db5dc2799d359e0d9222c0a25_L.jpg"
         width: 620
         height: 413
+  - title: "Self-driving vehicles set to become common"
+    excerpt: "A driver participates in a test for buses supported by Haylion's autonomous driving system in Shenzhen, Guangdong province. [Photo/Xinhua] Self-driving vehicles may soon be a common sight in China and the industry could see rapid growth as the COVID-19 outbreak has underlined the importance of such vehicles during an epidemic, industry experts ..."
+    publishedDateTime: 2020-04-08T01:11:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202004/08/WS5e8d24a9a310aeaeeed50a6a.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202004/08/5e8d24a9a310aeae9537c54b.jpeg"
+        width: 707
+        height: 471
 
 secured: "5Izw0dtRn/r9XLMjiainPMb6venZg2TDJOlHWhcIxquFOGWdnWP9bUY3PqA9qexVPITDlP9jK+fxRHLct2S0kYxZ+nxIW8Pn2LMp4VSw/hcR3cnFOJGUsyzKx3BH4p+a3yzYGeZjiPjOfahQD/A38o092zzjRJ/in/4+BDPhYObk/99L0A7Z+fly2yIh3SRuZ2P39oRbMYKkJxvo7hPHVHEA5VuRYbAlCgXUaNSRLtySG2xAPVxHp6uenuVK6pRuL7crJWlr1/XJ0aEm438xYSsPHfwE3L+rYdGAFIVLevjrLF8IWwQPNKaj2dkL8UzwGltPJIR4YD/I+80FXjjvp5pLIynpimpxyTaa1K5rtIHHWNaUSj33wFmfJHmR2PNgp0N0CdlsVUuH5Ltwvf7dtWR/bjZI8s3eqYOK3QnlrGTe4W54hvk8ywmwat/AjMJ+/KsiJtUpaAW6HbXIb6cV7GtvFIB+Bv3TWd5bLus2IzE=;qKh8x+/sGvQzFCFWB6lRLQ=="
 ---

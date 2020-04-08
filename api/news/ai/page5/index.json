@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
+      "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
+      "excerpt": "IBM today announced the launch of Watson Assistant for Citizens, a new chatbot solution available to government agencies, health care institutions, and academic organizations free of charge for 90 days. The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19 ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
+      "publishedDateTime": "2020-04-01T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
       "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
       "excerpt": "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ...",
@@ -1230,50 +1275,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-setting-the-ai-standard-what-it-could-look-like-in-australia.md",
-      "title": "Setting the AI standard: What it could look like in Australia",
-      "excerpt": "Deliberation, consensus, and communication are necessary when conversations about what Australia's artificial intelligence (AI) standards should look like, according to the country's national standards body. Special Feature: Managing AI and ML in the Enterprise This ebook, based on the latest ZDNet / TechRepublic special feature, advises CXOs ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/setting-the-ai-standard-what-it-could-look-like-in-australia/",
-      "publishedDateTime": "2020-04-01T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/19/06ed6b48-07ac-4738-b4d3-5931007c86ec/thumbnail/1200x675/0088023ff5320e1eb054bf8ffc215ebd/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Setting the AI standard: What it could look like in Australia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

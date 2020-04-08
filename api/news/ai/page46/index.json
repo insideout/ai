@@ -2,6 +2,51 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-02-15-video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars.md",
+      "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+      "excerpt": "Uber driver on wild chase opts to \"kidnap\" his passengers, which brings up interesting lessons for AI self-driving cars.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-02-15T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3921-000053%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5140%26cropY1%3D206%26cropY2%3D3096",
+          "width": 1200,
+          "height": 675,
+          "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-15-are-robots-better-investors-than-humans.md",
       "title": "Are Robots Better Investors Than Humans?",
       "excerpt": "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds.",
@@ -1238,52 +1283,6 @@
       ],
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-deepminds-alphastar-ai-crushes-pro-starcraft-players.md",
-      "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
-      "excerpt": "There’s no stopping Google’s DeepMind AI. Earlier this year the artificial intelligence platform recently shut out two professional StarCraft players in a 5-0 defeat. And now a report on The ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepminds-alphastar-ai-crushes-pro-starcraft-players-1771485/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-13T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2019/01/alphastar-9.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind’s AlphaStar AI Crushes Pro ‘StarCraft’ Players",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
         "Natural Language Processing"
       ]
     }

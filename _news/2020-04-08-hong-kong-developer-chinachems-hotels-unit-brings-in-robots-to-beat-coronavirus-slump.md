@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump"
 
-secured: "qIqh/mK8xkfoy+DiXoRx9+ZepSFUJ+UBjkTjVGgQd93Rg2EZr2TE+uR7/qzqeutdYQ9zbBBfI/iWBoUNOhQdb1OCgGdDY+s+I0EVf3fzTnM9r+MHxKj9UlxBgyl3NVNobpkqCJL8qXKNJnfwO+MLVHWHK4YDDa+kXcbvsk44IqDvqc5utTG8x7Y/uFKH8yKSKsTgrab6EwvTcJHwqahkNeTwyMkz6fZsIYsL8IFk3BwxMNqc/fm+YDQNHcA/kobRTd7lH4zSnd3n/6Z3U4ydV3BY6jvHXuOXPcNAyjMTFh2hM0c5+SmdED1fVjHc+1/G;G/AkW4lO1WK1+aJ4pIgRMQ=="
+secured: "wkhZbREGE8Wbv0qLCbQL96KpHptQorbBpHyTXQdCWrriP9FKFYpfrVt414XZrwW3C2TfBCSkjVcTKhuAtH7MNw/H3wBO6JsNvtq/kkQnDH3VXxXWt31TP9NMiWUjEgP2YKXCoj9D/ZOzqTWm1imal5mdDOr4tDWTkvx94i8m62wMjX2fSlN4b5SxtKr+1be2oJgQwIADY6fgNqor7xGG6MlK+gjznsBbRl0Mn+4SCJOw+pR7yVHa+Qb3vKMvaKFbgsQ32wb+A8rkRCkTbmZ0QZprH/rZ/M4BSQrsnpXPFEC6XASzr561I3ImqHS9xhY4OarGrM5TWB7ZhS5rPPsasc7DTb5ouqWdWIM+HXHXLSDF5fKpzk3cXjh+xFekRhH2k7kAvvBAEOV71cbM/mU3CbqMB6fL/eIygI8EnMDwvjEWCFg0LKX6uFRxIhuzAk2169i5fTawVMqJEndbZfDG/yzxOKtvplU0DFpZbzT+uH4=;lpNe5EllkfUbcMAVpmurCw=="
 ---
 

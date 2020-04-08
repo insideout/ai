@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/04/07/tesla-increase-price-full-self-drivin
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/"
 type: article
 quality: 98
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -58,6 +58,19 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/3067ad0db5dc2799d359e0d9222c0a25_L.jpg"
         width: 620
         height: 413
+  - title: "Self-driving vehicles set to become common"
+    excerpt: "A driver participates in a test for buses supported by Haylion's autonomous driving system in Shenzhen, Guangdong province. [Photo/Xinhua] Self-driving vehicles may soon be a common sight in China and the industry could see rapid growth as the COVID-19 outbreak has underlined the importance of such vehicles during an epidemic, industry experts ..."
+    publishedDateTime: 2020-04-08T01:11:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202004/08/WS5e8d24a9a310aeaeeed50a6a.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202004/08/5e8d24a9a310aeae9537c54b.jpeg"
+        width: 707
+        height: 471
 
 secured: "osn3MrsHq86oZIVqWCV9kQ4wtY2iqwEznehreLC2gkIOgcybRtfR/BapKTOONCU7carUlXnoW1u91m2qwqsEwxfGjLyljDdfpksvij2WxHacNhKpcDJ/LccDQwpmC8aTIl93gJbW0+6PcNL9MPjrBOvzhMIK6ziXsUKWI2e6FYHIH2U1UaihovxsdBoj/gfrOxJmF5cGZQJl5e9SXtfcGanc30dAKw6gNWqTr/OnOMG+plAa/T9jWx6IfVzg6OspniXtr3rUgphsY7eoMD5Nwdn66ro+so98hVXd2IvMDQ5x5QJVyNQHFxUZPYlIrAj5/ET5uUXbftmSX0LH9K5H1TQvSQ35o5E3gI2GMch2KMevtLOMUp6yLZb2fL+P8G30AoeoKmthyR0+YtrNLAj8t+cNLx94+au4zHD77/JUXh/YIlY9U7fJlNyjazuBkhtknjs4TOXWccBjrS86MTRCdXd/PyX9uCYWRPE2ejAmBYg=;ktvGEqAfBcOsRtnE6sLy8w=="
 ---

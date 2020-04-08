@@ -2,6 +2,43 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2020-01-07-on-semiconductor-ponyai-team-up-to-boost-machine-vision.md",
+      "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
+      "excerpt": "ON Semiconductor ON announced its partnership with Pony.ai — a leading autonomous driving technology company — to develop next-generation image sensing and processing technologies for machine vision.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07",
+      "ampWebUrl": "https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp",
+      "publishedDateTime": "2020-01-07T06:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture.md",
       "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
       "excerpt": "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ...",
@@ -1030,51 +1067,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-05-is-venture-capital-investment-in-ai-excessive.md",
-      "title": "Is Venture Capital Investment In AI Excessive?",
-      "excerpt": "Not only are startups raising increasingly eye-opening amounts of money, but venture capital funds themselves are raising skyrocketing levels of new capital if they focus their portfolios on AI and related areas.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/05/is-venture-capital-investment-for-ai-companies-getting-out-of-control/amp/",
-      "publishedDateTime": "2020-01-05T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F541851156%2F0x0.jpg",
-          "width": 1200,
-          "height": 1125,
-          "title": "Is Venture Capital Investment In AI Excessive?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

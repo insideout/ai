@@ -2,6 +2,50 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-02-28-ai-weekly-us-and-eu-strike-contrasting-tones-on-ai-regulatory-policy.md",
+      "title": "AI Weekly: U.S. and EU strike contrasting tones on AI regulatory policy",
+      "excerpt": "Earlier this month, the European Commission (EC) published a major set of proposals for its strategy on AI. Both of these follow AI principles and regulations proposed in May 2019 by the multi-nation Organization for Economic Co-operation and Development (OECD), which includes the U.S. and European countries. Despite that shared international ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/28/ai-weekly-u-s-and-european-governments-strike-contrasting-tones-on-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/28/ai-weekly-u-s-and-european-governments-strike-contrasting-tones-on-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/ai-weekly-u-s-and-european-governments-strike-contrasting-tones-on-ai/amp/",
+      "publishedDateTime": "2020-02-28T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/michael-kratsios-venturebeat-blueprint-mar-2019.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: U.S. and EU strike contrasting tones on AI regulatory policy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure.md",
       "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
       "excerpt": "Identify Sales forecasts to help your business keep adequate inventory, create an actionable plan with latest edition released by AMA on Global Cloud Machine Learning Market to regulate the balance of demand and supply.",
@@ -1041,50 +1085,6 @@
           "width": 1200,
           "height": 801,
           "title": "Can Machines And Artificial Intelligence Be Creative?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy.md",
-      "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
-      "excerpt": "Recent surveys of the progress and impact of AI highlight the confusion and contradictory attitudes of consumers about the privacy of their data, the impact of AI on jobs, and the race for AI supremacy.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/02/27/ai-stats-news-consumers-have-very-mixed-attitudes-about-data-privacy/amp/",
-      "publishedDateTime": "2020-02-27T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F844039488%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI Stats News: Consumers Have Very Mixed Attitudes About Data Privacy",
           "attribution": null
         }
       ],

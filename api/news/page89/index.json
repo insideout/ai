@@ -2,6 +2,51 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2020-01-16-cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-361-billion-by-2025.md",
       "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
       "excerpt": "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ...",
@@ -1059,51 +1104,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech.md",
-      "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
-      "excerpt": "For autonomous service providers or a service provider that owns its conventional vehicles, every mile and minute incurs a cost.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/why-creating-an-av-business-is-10000-times-harder-than-building-self-driving-tech/amp/",
-      "publishedDateTime": "2020-01-15T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-21-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Creating An AV Business Is 10,000 Times Harder Than Building Self-Driving Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-07T13:18:00Z
 webUrl: "https://www.businesswire.com/news/home/20200407005228/en/Dataiku-7-Enhances-Integration-Microsoft-365-Real-Time"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     title: "Dataiku 7 Enhances Integration With Microsoft 365 for Real-Time AI Collaboration at Scale"
 
 related:
+  - title: "Dataiku 7 enhances integration with Microsoft 365 for real-time AI collaboration"
+    excerpt: "this enables customers using Teams to directly track and share changes made to their AI projects. Available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis and ..."
+    publishedDateTime: 2020-04-08T03:41:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1829726"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 49
+    images:
+      - url: "https://www.bernama.com/storage/photos/90ac5c37cdd2e6780ca8ed5992cc5bef5e8d472157aeb"
+        width: 1368
+        height: 896
   - title: "UCL collaborates with IBM to use virtual reality to tackle loneliness"
     excerpt: "It uses Watson voice recognition capability – a part of Watson Speech services ... These projects are part of a wider international educational collaboration that makes use of IBM technologies such as IBM Cloud, IoT and AI to enable students to work on problems faced by real-world organisations. UCL said that having students work on ..."
     publishedDateTime: 2020-04-07T11:13:00Z

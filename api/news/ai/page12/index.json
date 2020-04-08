@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
+      "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+      "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
+      "publishedDateTime": "2020-03-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-17-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
       "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
       "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
@@ -1213,51 +1258,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-speech-recognition-technology-is-racist-study-finds.md",
-      "title": "Speech recognition technology is racist, study finds",
-      "excerpt": "New evidence of voice recognition’s racial bias problem has emerged. Speech recognition technologies developed by Amazon, Google, Apple, Microsoft, and IBM make almost twice as many errors when transcribing African American voices as they do with white American voices, according to a new Stanford study. All five systems produced these error ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/24/speech-recognition-technology-is-racist-study-finds/amp/",
-      "publishedDateTime": "2020-03-24T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design35-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Speech recognition technology is racist, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

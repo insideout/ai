@@ -20,6 +20,19 @@ topics:
   - AI
 
 related:
+  - title: "Dataiku 7 enhances integration with Microsoft 365 for real-time AI collaboration"
+    excerpt: "this enables customers using Teams to directly track and share changes made to their AI projects. Available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis and ..."
+    publishedDateTime: 2020-04-08T03:41:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=1829726"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 49
+    images:
+      - url: "https://www.bernama.com/storage/photos/90ac5c37cdd2e6780ca8ed5992cc5bef5e8d472157aeb"
+        width: 1368
+        height: 896
   - title: "Dataiku 7 Enhances Integration With Microsoft 365 for Real-Time AI Collaboration at Scale"
     excerpt: "Released on March 18 and available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis, and row-level explainability to promote white-box AI. “Dataiku understands ..."
     publishedDateTime: 2020-04-07T13:18:00Z

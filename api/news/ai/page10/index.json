@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
+      "title": "Human Compatible: A timely warning on the future of AI",
+      "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
+      "publishedDateTime": "2020-03-27T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Human Compatible: A timely warning on the future of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
       "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
       "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
@@ -1243,36 +1288,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-coronavirus-india-update-robots-artificial-intelligence-will-be-taking-care-of-patients-in-isolation-wards.md",
-      "title": "Coronavirus India Update: Robots, Artificial Intelligence will be taking care of patients in Isolation Wards",
-      "excerpt": "Amidst the lockdown and disrupted economy look at some clever way in which Artificial Intelligence i.e Robots are becoming a part of the fight to slow down Coronavirus and help healthcare workers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/",
-      "ampWebUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
-      "publishedDateTime": "2020-03-25T23:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
