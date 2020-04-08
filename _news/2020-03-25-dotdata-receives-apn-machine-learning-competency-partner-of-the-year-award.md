@@ -1,25 +1,29 @@
 ---
 category: news
 title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
-excerpt: "SAN MATEO, Calif., March 25, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that Amazon Web ..."
-publishedDateTime: 2020-03-25T04:26:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dotdata-receives-apn-machine-learning-competency-partner-of-the-year/article_55172511-3105-57be-b800-ee633ae23d67.html"
+excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ..."
+publishedDateTime: 2020-03-25T00:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-2020-03-25?dist=bigcharts&tesla=y"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "CWJO3oqY74rPcl7FoyYglQCq3wbbiUJqp3lucaOZj9vA9e1RjOg1OjGwem2SECjiCKfAfZrXetIG+S8ZTHGmF0dWp1qXSuNU40mmpDMz5mWQlSnH2LDpX1ZHa+F8kotgL5sffAgPZ/hwIAJ6+M6yGEHYrv7ijGKBJIAWR7OISAXAEX8gsl8YpsZTGkrNS1HWDvc9u9vBSxeGOuQ9EZ305gu2DPX8vq2aTIBOnOQ28DtPtDVPLf2Rc9tpp4POCRqHCWZMgeuJjqC16Shwyn3XMnhLiFrM9Kg/yW7+lCZsSOjcm4dPwb1uWZhQogL6ykZO;wvHSYDUkV7p2gStsNUro8Q=="
+secured: "nGk/mZR5X1V2T4TXAwb8ryE19kYLeXxgx6MuQv4ZF6ZrW41jG11OeAlzn4ngSSXUkkROnkkd+eqSSQNOHSLK5omGcIOKsod79fcyArPfnbztygElPjW0cEkjkPGg0lkl3eMeRRdlijs1n5PXDjPrESPGLCnKNKBSPWR/yhZ2GiaLG/XWMRXD3SJIEcxHGPBe4DMxupz4u4fim4pvihGQ9tLEo1jPDsKKH+IghBuraC09/tO4pfe5eA2hamKeeZvoC+4R2AVlbzQuSRDJrcyh52eXmF6amX2N97ad0OF/GqgCHucqc7RbsDm75ftvnqSq;wGxLAeCb6V35+VclTlJrwQ=="
 ---
 

@@ -66,6 +66,17 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 41
+  - title: "Artificial Intelligence Used For COVID-19 Lung Imaging Analysis"
+    excerpt: "\"AWS has partnered with us on multiple projects in the past,\" said Michael Hogarth ... early diagnoses of COVID-19 and other infections.\" Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Coronaviruses infect animals, humans, and birds."
+    publishedDateTime: 2020-04-08T13:48:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
 
 secured: "eEgxgkjFbMjGCh8QbGDEZCP6Jn0MNZCQMjFtuAk+4GDoZmwvYj0OQv1S64jvdeXMkvfrz8whY0Y71IrPhK6i/YbINrjlWbgaBD8aPS9WtBuTAr3vFfMEzDeNvt0yr/MF6thALEmpL7n9IwhPGe/g164a4eKU+Zd3lfwgBRO2GPscj0pVgE8lx86iw+JajQYNC5oDndPRDqN2kWSP3tXUa7PaHXoP8GFXwQHim61bs3XeH24ovreut5K9vbL6ynU3xtOWVeKFJY1MRjbA1e+MTxPE5rAUxKLvrE7NsbSxeIdR30sBCydixQqf2E70LVOL4TrDCz8o2mAZjv9H3wHOf92fDGntgZdNF2+2HguOb3oBKT8U5Ei4dqexdMUEIFlBUoadL34luPJgc7FpIeFwHXQ5cg4i6Z+V1/DnCJIa+bDDJ2p+O7hGkrur9pveUZR13H7lut1SBEd6pedC854GEXLVMzHoQRX4qD9DH1O2kcQ=;YoHyxBVMaFAVrAXrRNjjEw=="
 ---

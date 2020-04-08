@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-13-aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports.md",
+      "title": "ACLU sues US government over its use of facial recognition at airports",
+      "excerpt": "The American Civil Liberties Union is suing the US government over its failure to reveal details about the use of facial recognition at airports. On Thursday, the ACLU and the New York Civil Liberties Union filed a lawsuit asking a federal court to order a range of federal agencies to hand over their records about the tech’s usage at airports.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/13/aclu-sues-us-government-over-its-use-of-facial-recognition-at-airports/amp/",
+      "publishedDateTime": "2020-03-13T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design21-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "ACLU sues US government over its use of facial recognition at airports",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
       "title": "ACLU Sues For Government Facial Recognition Records",
       "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
@@ -1107,43 +1152,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-a-new-model-of-vision.md",
-      "title": "A new model of vision",
-      "excerpt": "Researchers have developed a computer model of face processing that could reveal how the brain produces richly detailed visual representations so quickly. When we open our eyes, we immediately see ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200305002834.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

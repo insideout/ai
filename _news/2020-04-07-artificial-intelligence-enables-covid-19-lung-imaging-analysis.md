@@ -51,6 +51,17 @@ related:
       - url: "https://patch.com/img/cdn20/shutterstock/22880694/20200407/020505/styles/patch_image/public/shutterstock-613921955___07140441204.jpg?width=984"
         width: 800
         height: 600
+  - title: "Artificial Intelligence Used For COVID-19 Lung Imaging Analysis"
+    excerpt: "\"AWS has partnered with us on multiple projects in the past,\" said Michael Hogarth ... early diagnoses of COVID-19 and other infections.\" Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Coronaviruses infect animals, humans, and birds."
+    publishedDateTime: 2020-04-08T13:48:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Artificial intelligence enables COVID-19 lung imaging analysis at UC San Diego Health"
     excerpt: "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence (AI) to augment lung imaging analysis in a clinical research ..."
     publishedDateTime: 2020-04-07T16:49:00Z

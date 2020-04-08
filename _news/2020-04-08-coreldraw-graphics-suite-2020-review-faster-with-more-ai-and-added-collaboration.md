@@ -28,6 +28,6 @@ images:
     height: 500
     title: "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration"
 
-secured: "OEuWeUAYaHeaexy1tXh4j7hEfq8sErk16IF/D7ELAW3p/a1YmWlghJQY48qsise/wN/sMwbeCm9CcbjO2wTeh+QeboOrBE3SLa//s4bU0bqqK3hNmG8EFjo4C6Dm6cRppp/aFUnbVyKKYEkWlBPskJywXhC8iQcKVHwHWKOu7N7RIhdNKVqGYOTQ67bIqMyuicOOJbdtUGX77MXMaQkKfLxZtWSka4J9LxN7MEouFvlECZXOUgWXN5wpS5BPAfxbjjBx5dmtEx+Akt2zAbbTL5CListmzn+UPa7S2wcZ/gceyZadsgAqtZtAHSb7hMMg;KUnMb4yVE6KmHYht6K2hNQ=="
+secured: "z/VqpGpYJ0XoVS5YDwO3ZGo1mIfjDyFzmpxGojF6hc5YdNlNWuu8+2iORJpQpACaYOoxbgmVf9Bx/Artfnd6b8ea3qb4GPAF3o89oZVF7lW/fhYdlpDcY+I22Z37k9RYmCTFh1EXgTjm5XgT0BvliJwChBpmeHS2QnW/NDM4ja/fzM/iOmp4pd2J7xYGdYFaovwfATQQUlbeOzwHJ0RtTzrxO5OvPl8qQEO+u0EKgFSFk6n+B1O1fwI/QAi82HN79ZbBeXkI7VAp7tZsxobsir4iC+GPnORZbjl+A+ch+aLXri+ddJrxHSKwQN6Z5mm//bkEo7dYcDsxQZfge8u2eb57Pq1nPrg1vfiwRCDY8C6Rm+bKqIJ3Nc9UR9kxsbaFsn6nGJE1YHog1cwmH6VSd/CkUO6ck/NaSQpSWrnZLreXuAjq75OntZm5WNyfiXhpn5r8CEWRmp41WQbjjV+e8FvXuibf8TQTzCqPcXY5LSQ=;ZlKxHMf59nZXFAE6icRj2Q=="
 ---
 

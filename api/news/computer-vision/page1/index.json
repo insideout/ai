@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-08-facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast.md",
+      "title": "Facial recognition is no match for face masks, but things are changing fast",
+      "excerpt": "But it could also throw a wrench in a number of facial recognition applications, including those used to unlock smartphones. Less than a year old, Google’s facial recognition system on Pixel 4 smartphones is built to recognize a person even if they’ve shaved their beard or are wearing sunglasses, but Face Unlock for Pixel 4 is rendered ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/08/facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/facial-recognition-is-no-match-for-face-masks-but-things-are-changing-fast/amp/",
+      "publishedDateTime": "2020-04-08T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/facial-recognition-face-mask.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Facial recognition is no match for face masks, but things are changing fast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
       "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
       "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
@@ -1242,51 +1287,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation.md",
-      "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-      "excerpt": "AI in Computer Vision Market Research Report- Forecast till 2023 Market Highlights A boom in the increasing demand",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-project-to-include-more-research-development-to-attain-high-valuation-2020-03-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

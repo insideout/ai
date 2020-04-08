@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-03-moscow-court-case-challenges-citys-facial-recognition-use-after-launch.md",
+      "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
+      "excerpt": "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-02-could-ontario-police-start-using-facial-recognition-cameras.md",
       "title": "Could Ontario police start using facial recognition cameras?",
       "excerpt": "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ...",
@@ -1231,51 +1276,6 @@
           "width": 1028,
           "height": 578,
           "title": "Facial-Recognition Technology Doesn't Have to Destroy Privacy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-the-changing-face-of-the-cashier.md",
-      "title": "The Changing Face Of The Cashier",
-      "excerpt": "Convenience is king, and today's consumers are demanding a frictionless, omnichannel in-store experience that is personalized and efficient.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/the-changing-face-of-the-cashier/amp/",
-      "publishedDateTime": "2020-01-22T04:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1152642020/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "The Changing Face Of The Cashier",
           "attribution": null
         }
       ],

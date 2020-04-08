@@ -178,7 +178,7 @@
       "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
       "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
       "excerpt": "The self-driving vans reduce overall potential exposure to the virus and free up healthcare workers.",
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
@@ -748,11 +748,11 @@
     {
       "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
       "title": "Huawei steps up ambitions in self-driving vehicles race",
-      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-30T02:36:00-07:00",
@@ -1135,6 +1135,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-26-global-hd-map-market-report-2020-special-focus-on-the-chinese-industry.md",
+      "title": "Global HD Map Market Report 2020 - Special Focus on the Chinese Industry",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-hd-map-market-report---special-focus-on/article_c90dd8b8-080b-5bcb-862c-83710da58b38.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Global HD Map Market Report 2020 - Special Focus on the Chinese Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-coronavirus-india-update-robots-artificial-intelligence-will-be-taking-care-of-patients-in-isolation-wards.md",
       "title": "Coronavirus India Update: Robots, Artificial Intelligence will be taking care of patients in Isolation Wards",
       "excerpt": "Amidst the lockdown and disrupted economy look at some clever way in which Artificial Intelligence i.e Robots are becoming a part of the fight to slow down Coronavirus and help healthcare workers.",
@@ -1244,44 +1281,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down.md",
-      "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
-      "excerpt": "Similarly, though, it didn’t turn out as planned. Although he still lauds his team for their efforts, he lamented that the self-driving space was overwhelmed with the unmet promise of AI to focus on a practical solution. Added to this is the recession in trucking for the past 18 months. The hardest part of building AI is how it deals with ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/self-driving-dream-eludes-yet-again-as-starsky-robotics-shuts-down/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/starsky.png",
-          "width": 1600,
-          "height": 1066,
-          "title": "Self-Driving Dream Eludes Yet Again As Starsky Robotics Shuts Down",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

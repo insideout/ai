@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Global HD Map Market Report 2020 - Special Focus on the Chinese Industry"
-excerpt: "The \"Global and China HD Map Industry Report, 2019-2020\" report has been added to ResearchAndMarkets.com's offering. HD map industry study:"
-publishedDateTime: 2020-03-26T16:45:00Z
-webUrl: "https://www.prnewswire.com/news-releases/global-hd-map-market-report-2020---special-focus-on-the-chinese-industry-301030343.html"
+excerpt: "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application."
+publishedDateTime: 2020-03-26T12:45:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-hd-map-market-report---special-focus-on/article_c90dd8b8-080b-5bcb-862c-83710da58b38.html"
 type: article
-quality: 23
-heat: 23
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "Global HD Map Market Report 2020 - Special Focus on the Chinese Industry"
 
-secured: "Ubysf58qRUBjsW8tCuBkdsFo6xyGElbZeJbMp706kpzcR8OGV2QO7+1gfnJwkgz/BElbT8vYSgN3BpVpI5Vx39JDkZCKRjS5GREjgKQBA1QNaICZBE9PQKDFscVtd5SA4qH4kv0SNIoDOSlNL4OD6JBUJXKMwPNCwSsGmAJdfG/+Illy9T94IW8RLPKjP0uerxVRzXOY1O+3Fgt7MlauBFyyzYYuwoIVLj+FcrKbkP2bBQ3wqk9yPtz3qmvEG3IPSJOs/TCcISG69gFcH5lPGbdACSGj+mUxDNwnmgXEeNw4MlYRh7b6A+JovNtZIvEbqauSmFkD1RP70YO/bRbo9phF+dR+hC31cUaAfVMGDclkjaIM9RYSOBDJl2vqiv0+0daBQwq9vY89hB8OMqrUcRZQkxQdKd5bzSrmnKlk6iIdj/7K8Qxe1nkM7RZhxp1J1K35F4bwIuTyNe94f3bv08dSgwo65+JSz0PX89eyFvI=;EEzV+2Rqf7l05fbBd2WsHA=="
+secured: "mcj0S4gliXgqKTmoujYqOqEH/gie2Nw0miCDb6UB5BKJD19PbCSdJINOGtQlAM3OO+i4wJjZPc2ObPSDwzrNRam6hr1K4f+bJIYp1kB6+RAw9eiKVk2Y1nBW1o3k7K2VMWWQ4qWnslQl31aKtScQ8NPbVmFDrKB38/gglrzLVZ1PY/AkHhWkJVUwMgWYOZE5uC9hVvAbuAjjPJCFXgo8k3mAaLsx3Tcqm23UgJhXdWGhCCJtpgFHqcxIHeblXjPvrlapvxKg9Iez2AbFpalonxScVr0BHzvv8572B+F+Aw9dLilyKpXeYcXv5BJrUsso;RE1sxsl3Fj9QlYfmVsWsvA=="
 ---
 

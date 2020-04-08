@@ -2,6 +2,335 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-01-10-self-driving-car-market-revenue-of-usd-17315-bn-by-2023.md",
+      "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
+      "excerpt": "The global self-driving car market is expected to expand at a CAGR of 36.2%, leading to global revenue of USD 173.15 Bn by 2023. A self-driving car, also known as an autonomous car or driverless car,",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-revenue-of-usd-17315-bn-by-2023-2020-01-10",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-09T22:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving car market revenue of USD 173.15 Bn by 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-amazons-autogluon-produces-ai-models-with-as-little-as-3-lines-of-code.md",
+      "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
+      "excerpt": "AutoGluon’s debut follows on the heels of major upgrades to Amazon Web Services’ (AWS’) SageMaker, a toolkit for continuously training and deploying machine learning models to cloud and edge environments. AWS SageMaker Studio is a model training and workflow management tool that collects all the code, notebooks, and folders for machine ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/09/amazons-autogluon-produces-ai-models-with-as-little-as-three-lines-of-code/amp/",
+      "publishedDateTime": "2020-01-09T15:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon’s AutoGluon produces AI models with as little as 3 lines of code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-the-trump-administration-wants-to-regulate-artificial-intelligence.md",
+      "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
+      "excerpt": "To prevent the United States from falling behind competitor nations like China, when it comes to the development of artificial intelligence-based ... In the case of self-driving cars, there was—and continues to be—a clear lack of regulation at the ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.popularmechanics.com/technology/a30430579/trump-artificial-intelligence-ai-guidelines/",
+      "ampWebUrl": "https://www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/",
+      "cdnAmpWebUrl": "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/technology/amp30430579/trump-artificial-intelligence-ai-guidelines/",
+      "publishedDateTime": "2020-01-09T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Mechanics",
+        "domain": "popularmechanics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/trump-ai-1578605274.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 1200,
+          "height": 600,
+          "title": "The Trump Administration Wants to Regulate Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-microsoft-announces-canadian-azure-availability-zone-and-azure-expressroute-in-vancouver.md",
+      "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
+      "excerpt": "Azure ExpressRoutes, a service that provides a private connection between an organization ... Users will be able to enter questions about the city’s services and receive immediate answers in a conversational format. Ottawa will begin piloting its new 311 AI chatbot in the first quarter of 2020. Sanders also said the city is experimenting ...",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-new-azure-availability-zone-and-azure-expressroute-in-vancouver/425868?amp=1",
+      "publishedDateTime": "2020-01-09T13:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/01/Microsoft-envision-alysa-e1578600806775-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft announces Canadian Azure Availability Zone, and Azure ExpressRoute in Vancouver",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-ai-for-ai-evaluating-the-opportunity-for-embedded-ai-in-data-productivity-tools.md",
+      "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
+      "excerpt": "This is the only comment that mentions ethics; otherwise, it has nothing to do with the topic. I just wanted to point out fifty-nine out of sixty prognosticators overlooked the one thing is going to be red-hot in 2020. Yaffa Cohen-Ifrah, CMO and Head of Corporate Communications, Sapiens: AI enables insurers to better utilize the troves of data ...",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools",
+      "ampWebUrl": "https://diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-ai-evaluating-opportunity-embedded-ai-data-productivity-tools?amp",
+      "publishedDateTime": "2020-01-09T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2014-11/magnifying-glass.jpg",
+          "width": 1694,
+          "height": 1122,
+          "title": "AI for AI - evaluating the opportunity for embedded AI in data productivity tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-canon-wants-to-ease-pain-of-culling-photos-in-lightroom-with-this-ai-plug-in.md",
+      "title": "Canon wants to ease pain of culling photos in Lightroom with this A.I. plug-in",
+      "excerpt": "That’s the concept behind Canon’s upcoming Photo Culling Plugin, a Lightroom add-on that uses the Canon Computer Vision A.I. Engine to sort through all those photos. The plug-in smartly doesn ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/",
+      "ampWebUrl": "https://www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/photography/canon-photo-culling-plugin-ces-2020/?amp",
+      "publishedDateTime": "2020-01-09T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/adobe-lightroom-imac-person-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Canon wants to ease pain of culling photos in Lightroom with this A.I. plug-in",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-intels-first-discrete-gpu-is-built-for-developers.md",
+      "title": "Intel's first discrete GPU is built for developers",
+      "excerpt": "It also promised \"double digit\" CPU performance increases with Tiger Lake, and \"massive\" AI improvements. Apart from that, it again revealed no additional performance data. As we've already noted in our AMD vs. Intel CES 2020 explainer, AMD has unveiled very specific products and plans, while Intel has just announced upcoming products and been ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/09/intel-xe-d1g-software-development-vehicle/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/09/intel-xe-d1g-software-development-vehicle/",
+      "publishedDateTime": "2020-01-09T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D2560%252C1440%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C900%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252Fe2f080e0-32c5-11ea-8f6f-37137cd1d902%26client%3Da1acac3e1b3290917d92%26signature%3Da06d205743b2b87fd7053dfb965a6a535c1f922a&client=amp-blogside-v2&signature=c3c0854f900a4547e7c71aeea1722fbf77cd645c",
+          "width": 600,
+          "height": 350,
+          "title": "Intel's first discrete GPU is built for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-facial-and-voice-recognition-in-cars-sounds-like-a-privacy-nightmare.md",
+      "title": "Facial and voice recognition in cars sounds like a privacy nightmare",
+      "excerpt": "Even pushing down on the seat triggers the car to react. To power facial or voice recognition systems, cars need to collect information on what your face or voice looks like. Geotab fleet data ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces/",
+      "ampWebUrl": "https://mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-voice-recognition-biometric-data-ai-ces.amp",
+      "publishedDateTime": "2020-01-09T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F01%252F09%252F05%252F398230a2d9e84a0986a7acd0a7ac7861.8483c.jpg%252F1200x630.jpg?signature=FM7sSz88mzg3SnzEEsgj0xxogC8=",
+          "width": 1200,
+          "height": 630,
+          "title": "Facial and voice recognition in cars sounds like a privacy nightmare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-what-its-like-to-ride-in-a-self-driving-lyft.md",
       "title": "What it’s like to ride in a self-driving Lyft",
       "excerpt": "At CES, the consumer electronics trade show in Las Vegas this week, I hit the jackpot: getting picked up in a self-driving Lyft. A few days ago, when I arrived in the city and opened the Lyft app ...",
@@ -956,334 +1285,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-microsoft-releases-nni-v13-for-automl-algorithms-and-training.md",
-      "title": "Microsoft Releases NNI V1.3 for AutoML Algorithms and Training",
-      "excerpt": "Automated machine learning (AutoML) aims to change that — making it easier to build and use ML models by running systematic processes on raw data and selecting models that pull the most relevant ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/microsoft-releases-nni-v1-3-for-automl-algorithms-and-training-9f6eb57476e0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-07T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/632/1*hOyYrXiDL5v965xIq8PTIQ.jpeg",
-          "width": 632,
-          "height": 343,
-          "title": "Microsoft Releases NNI V1.3 for AutoML Algorithms and Training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-demystifying-debit-4-trends-in-consumer-fintech.md",
-      "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
-      "excerpt": "F intech is turning traditional banking on its head. The global fintech market value projects to surpass $300 billion by the end of 2022. In December, major consumer fintech company Bill.com surged a whopping 60% on the day of its IPO.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07",
-      "ampWebUrl": "https://www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/demystifying-debit%3A-4-trends-in-consumer-fintech-2020-01-07?amp",
-      "publishedDateTime": "2020-01-07T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Demystifying Debit: 4 Trends in Consumer Fintech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-waymo-self-driving-vehicles-cover-20-million-miles-on-public-roads.md",
-      "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
-      "excerpt": "(Reuters) - Waymo, the self-driving unit of Alphabet Inc (GOOGL.O), said its vehicles had covered more than 20 million miles (32.2 million km) on public roads since its creation in 2009.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-autonomous-waymo-idUSKBN1Z61RX",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1Z61RX",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1Z61RX",
-      "publishedDateTime": "2020-01-07T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200107&t=2&i=1473349659&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG0617G",
-          "width": 817,
-          "height": 545,
-          "title": "Waymo self-driving vehicles cover 20 million miles on public roads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-on-semiconductor-ponyai-team-up-to-boost-machine-vision.md",
-      "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
-      "excerpt": "ON Semiconductor ON announced its partnership with Pony.ai — a leading autonomous driving technology company — to develop next-generation image sensing and processing technologies for machine vision.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07",
-      "ampWebUrl": "https://www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/on-semiconductor-pony.ai-team-up-to-boost-machine-vision-2020-01-07?amp",
-      "publishedDateTime": "2020-01-07T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "ON Semiconductor & Pony.ai Team Up to Boost Machine Vision",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture.md",
-      "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-      "excerpt": "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture",
-      "ampWebUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "publishedDateTime": "2020-01-07T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-ai-chip-company-syntiant-joins-qualcomm-extension-program.md",
-      "title": "AI Chip Company Syntiant Joins Qualcomm Extension Program",
-      "excerpt": "Syntiant, an AI chip company providing custom always-on voice solutions at the edge, today announced that it is now a member of the Qualcomm Extension Program, offering OEMs and ODMs accelerated integration of its ultra-low-power neural network technology with Qualcomm Bluetooth audio platforms and SOCs.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-chip-company-syntiant-joins-qualcomm-extension-program-2020-01-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI Chip Company Syntiant Joins Qualcomm Extension Program",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-ibms-watson-uses-ai-to-optimize-commercial-creative.md",
-      "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
-      "excerpt": "IBM launched a new product, Advertising Accelerator with Watson, which uses artificial intelligence to predict which creative elements will result in the highest engagement and conversion for a targeted audience. IBM said the product, introduced at CES In ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.broadcastingcable.com/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
-      "ampWebUrl": "https://www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
-      "cdnAmpWebUrl": "https://www-broadcastingcable-com.cdn.ampproject.org/c/s/www.broadcastingcable.com/.amp/news/ibms-watson-uses-ai-to-optimize-commercial-creative",
-      "publishedDateTime": "2020-01-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Broadcasting & Cable",
-        "domain": "broadcastingcable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.broadcastingcable.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTY5NTIxMDI2MTIyNjU1MDA5/ibm-watson.png",
-          "width": 619,
-          "height": 556,
-          "title": "IBM’s Watson Uses AI to Optimize Commercial Creative",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media.md",
-      "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-      "excerpt": "Hence the new policy bans deepfake content that involves the use of AI technologies ... to produce more research and open source tools to detect deepfakes”. While says Facebook has been working ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/07/facebook-bans-deceptive-deepfakes-and-some-misleadingly-modified-media/amp/",
-      "publishedDateTime": "2020-01-07T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/09/gettyimages-487867268.jpg?w=1024",
-          "width": 1024,
-          "height": 663,
-          "title": "Facebook bans deceptive deepfakes and some misleadingly modified media",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -39,21 +39,6 @@ related:
       - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F567147%2Fgirl-using-a-smart-phone-voice-recognition.jpg&w=1200&op=resize"
         width: 1200
         height: 800
-  - title: "Apple Acquires AI Startup Voysis to Improve Siri"
-    excerpt: "Apple has purchased artificial intelligence startup Voysis with the aim of improving Siri ... The website, which is now defunct, said that the technology used client databases with AI tools that deeply understand the specifics of products, services, and vocabulary to make the user experience \"easier, faster and more intuitive.\""
-    publishedDateTime: 2020-04-03T21:55:00Z
-    webUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/"
-    ampWebUrl: "https://www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
-    cdnAmpWebUrl: "https://www-macrumors-com.cdn.ampproject.org/c/s/www.macrumors.com/2020/04/03/apple-acquires-ai-startup-voysis/amp/"
-    type: article
-    provider:
-      name: MacRumors
-      domain: macrumors.com
-    quality: 57
-    images:
-      - url: "https://images.macrumors.com/article-new/2020/04/applevoysis.jpg"
-        width: 2000
-        height: 1000
   - title: "Apple acquires Voysis, an AI start-up for making improvements to Siri"
     excerpt: "According to reports by Bloomberg Apple has acquired Voysis which is an AI startup for making improvements to Siri. Voysis is a platform that offers a better understanding of the natural language for digital assistants. Voysis helps online voice assistants and improves them to help users in online shopping applications. It helps to interpret ..."
     publishedDateTime: 2020-04-05T14:04:00Z
@@ -69,21 +54,6 @@ related:
       - url: "https://www.ilounge.com/wp-content/uploads/2020/04/Siri-1024x510.png"
         width: 1024
         height: 510
-  - title: "Apple acquires AI startup Voysis to improve Siri’s natural language skills"
-    excerpt: "The latest is an artificial intelligence startup that could help Apple improve Siri’s skill at understanding natural ... shopping phrases such as “I need a new LED TV” and “My budget is $1,000.” Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Google Assistant has a notable lead ..."
-    publishedDateTime: 2020-04-03T21:56:00Z
-    webUrl: "https://9to5mac.com/2020/04/03/apple-acquires-ai-startup-voysis-to-improve-siris-natural-language-skills/"
-    ampWebUrl: "https://9to5mac.com/2020/04/03/apple-acquires-ai-startup-voysis-to-improve-siris-natural-language-skills/amp/"
-    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/04/03/apple-acquires-ai-startup-voysis-to-improve-siris-natural-language-skills/amp/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 55
-    images:
-      - url: "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/siri-how-to-set-location-based-reminders-iphone-apple-watch.jpeg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 500
   - title: "Apple Acquires AI Startup Voysis; Aims To Improve Natural Language Recognition For Siri"
     excerpt: "The AI startup company is based in Ireland and could reportedly help the company improve Siri Apple has not yet revealed its plan with Voysis but tech enthusiasts believe it has something to do with Apple's digital assistant Amid the COVID-19 pandemic,"
     publishedDateTime: 2020-04-05T02:21:00Z

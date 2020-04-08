@@ -2,6 +2,325 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-26-coronavirus-india-update-robots-artificial-intelligence-will-be-taking-care-of-patients-in-isolation-wards.md",
+      "title": "Coronavirus India Update: Robots, Artificial Intelligence will be taking care of patients in Isolation Wards",
+      "excerpt": "Amidst the lockdown and disrupted economy look at some clever way in which Artificial Intelligence i.e Robots are becoming a part of the fight to slow down Coronavirus and help healthcare workers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/",
+      "ampWebUrl": "https://www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/coronavirus-india-update-robots-artificial-intelligence-will-taking-care-patients-isolation-wards/amp/",
+      "publishedDateTime": "2020-03-25T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-megvii-makes-deep-learning-ai-framework-open-source-as-china-moves-to-reduce-reliance-on-us-platforms.md",
+      "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
+      "excerpt": "Chinese artificial intelligence (AI) start-up Megvii Technology announced on Wednesday that it would make its deep learning framework open-source, as China steps up the development of home-grown AI and makes the technologies more accessible. Initially developed in 2014, MegEngine is part of Megvii’s proprietary AI platform, Brain++ ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
+      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3077023/megvii-makes-deep-learning-ai-framework-open-source-china-moves",
+      "publishedDateTime": "2020-03-25T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/26/7d1776f4-6e7d-11ea-b0ed-5e14cf8eb9e1_image_hires_090437.jpg?itok=gFifpPde&v=1585184684",
+          "width": 1200,
+          "height": 630,
+          "title": "Megvii makes deep learning AI framework open-source as China moves to reduce reliance on US platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-ai-revolutionizing-the-museum-experience-at-the-smithsonian.md",
+      "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+      "excerpt": "(Disclosure: I’m a host of the AI Today podcast). SoftBank Robotics Pepper robot(Photo by Joan Cros/NurPhoto via Getty Images ... interactions that people seem to have with Pepper is when they first approach the bot, they typically start off standing further away because they aren't exactly sure how to interact. However, since Pepper is ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1127839788%2F0x0.jpg",
+          "width": 1200,
+          "height": 1803,
+          "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
+      "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+      "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "publishedDateTime": "2020-03-25T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2015/10/29/f5c9599b-804a-4829-9f04-6a58f753506f/thumbnail/1200x675/f8d4a0c55c206203f8f657a373484a70/australian-passport.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-helmai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai.md",
+      "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
+      "excerpt": "Helm.ai will put the $13 million in seed funding toward advanced engineering and R&D and hiring more employees, as well as locking in and fulfilling deals with customers. Helm.ai is focused solely ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/25/helm-ai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai/amp/",
+      "publishedDateTime": "2020-03-25T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/helm-ai-interior.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
+      "title": "IBM’s AI generates videos of chairs, golfers, and more",
+      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "publishedDateTime": "2020-03-25T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI generates videos of chairs, golfers, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
+      "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
+      "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
+      "publishedDateTime": "2020-03-25T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-168010/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-artificial-intelligence-model-can-detect-covid-19-on-chest-ct.md",
+      "title": "Artificial intelligence model can detect COVID-19 on chest CT",
+      "excerpt": "(HealthDay)—Artificial intelligence allows coronavirus ... a deep learning model COVID-19 detection neural network was developed. To test the robustness of the model, CAP and other nonpneumonia ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
+      "publishedDateTime": "2020-03-25T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-ibm-launches-an-interactive-dashboard-to-track-coronavirus-on-phone-and-the-web.md",
       "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
       "excerpt": "IBM’s dashboard runs on the IBM public cloud and uses IBM Watson to access and analyze data from the World Health Organization and multiple national, state and local governments. The dashboard has the following features: An AI-enhanced interactive “Incidents Map” of COVID-19 data and stats, including confirmed cases and more by U.S. state ...",
@@ -676,340 +995,6 @@
         "AI Ethics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-next-generation-of-ai-processors-featured-at-linley-spring-processor-conference.md",
-      "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
-      "excerpt": "The Linley Group Principal Analyst, Linley Gwennap, will present “The Next Generation of AI Processors.” “The virtual format allows us to deliver ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200325005079/en/Next-Generation-AI-Processors-Featured-Linley-Spring-Processor",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200325005079/en/708301/23/Linley_logo_lrg.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai.md",
-      "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
-      "excerpt": "and her team to select the specific subjects that they felt were pivotal to understanding AI and its role in how the world operates today. “The 26 topics chosen are by no means an exhaustive list, but they are a great place for first-timers to start,” the guide’s FAQ section explains. “The team carefully balanced their selections across ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
-      "publishedDateTime": "2020-03-25T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Feat-3.png?fit=1383%2C794&strip=all",
-          "width": 1383,
-          "height": 794,
-          "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-the-ai-paradox-four-benefits-we-didnt-see-coming.md",
-      "title": "The AI Paradox: Four Benefits We Didn't See Coming",
-      "excerpt": "Research firm IDC predicts the total spent on AI systems could reach almost $98 billion three years from now — more than 2.5 times the estimated $37.5 billion spent in 2019. While some business leaders have gone all-in and quickly embraced AI,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
-      "publishedDateTime": "2020-03-25T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-20-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The AI Paradox: Four Benefits We Didn't See Coming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
-      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
-      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
-          "width": 620,
-          "height": 431,
-          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
-      "title": "Cars Will Transform Before AI Drives Them",
-      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
-      "publishedDateTime": "2020-03-25T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Cars Will Transform Before AI Drives Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
-      "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-      "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
-      "heat": 113,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
-      "publishedDateTime": "2020-03-25T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-17-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
-      "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-      "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/",
-      "ampWebUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "publishedDateTime": "2020-03-25T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/031820c.jpg",
-          "width": 768,
-          "height": 489,
-          "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
-      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "publishedDateTime": "2020-03-25T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
