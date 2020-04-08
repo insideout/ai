@@ -26,6 +26,19 @@ images:
     title: "Boosting productivity and differentiation with RPA"
 
 related:
+  - title: "Impact of the Data Protection Bill on fintech and aligning financial laws with it"
+    excerpt: "Fintech companies are providing an increasing number of services to customers (neobanks ... The absence of an adequate data protection law has led to the creation of huge databases, which are subjected to analytics using AI/ML, become the object of data trades/sales, enable revenue generation via cross-selling and upselling of financial ..."
+    publishedDateTime: 2020-04-08T06:09:00Z
+    webUrl: "https://www.medianama.com/2020/04/223-personal-data-protection-bill-fintech/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 19
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/payments-shopping-fintech-free.jpg?fit=552%2C321&#038;ssl=1"
+        width: 552
+        height: 321
   - title: "Machine Learning: Making Sense of Unstructured Data and Automation in Alt Investments"
     excerpt: "Here, we explore how Machine Learning (ML) paired with a better operational workflow ... The issue is even more pronounced in information-intensive industries such as financial services, as valuable employees are also required to spend needless hours every day processing and synthesizing unstructured data. Transformational change, however ..."
     publishedDateTime: 2020-04-08T01:26:00Z

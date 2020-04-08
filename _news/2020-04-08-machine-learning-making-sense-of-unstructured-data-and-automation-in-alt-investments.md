@@ -40,6 +40,19 @@ related:
       - url: "https://www.itweb.co.za/static/pictures/2019/07/Gary-de-Menezes-NetApp.jpg"
         width: 405
         height: 305
+  - title: "Impact of the Data Protection Bill on fintech and aligning financial laws with it"
+    excerpt: "Fintech companies are providing an increasing number of services to customers (neobanks ... The absence of an adequate data protection law has led to the creation of huge databases, which are subjected to analytics using AI/ML, become the object of data trades/sales, enable revenue generation via cross-selling and upselling of financial ..."
+    publishedDateTime: 2020-04-08T06:09:00Z
+    webUrl: "https://www.medianama.com/2020/04/223-personal-data-protection-bill-fintech/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 19
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/payments-shopping-fintech-free.jpg?fit=552%2C321&#038;ssl=1"
+        width: 552
+        height: 321
 
 secured: "WJt4xT99s5qI8+ZZPCQCVe6GltNwXDzt/aqkEOHOgoCdXYKb/oHncbuqxeDOk33YZQFUm/HahID1VitFpy/1LhD2EtmaWWGef3z2nRqe/o7S/nRIrS5P4hIIhE5wGAg5tfcUSLb+o8fILwxHOhM6b8N5pDd0vhvrmxxfVqGd2DLIvJ11AnkKPMUTZsML5ZtiaWRJmhJr5oIePmbK+n2/xpKPdVRu2JRnOCGAZ7j6pdcUdSmNHinUjROO0FBRelXTuGsScKMH2qV8bVNFL6KLhLHvQhZI+/Ox67D+dRFnbS7Joc+S6TpH3bZbYbuXtsEw;MTRPy5bcReJonD+TyierIQ=="
 ---
