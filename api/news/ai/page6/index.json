@@ -2,6 +2,139 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
+      "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+      "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "publishedDateTime": "2020-04-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/4a082aa2-73ef-11ea-ab8f-988daf8efd6f_image_hires_215024.JPG?itok=j8en0PIv&v=1585749033",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-actioning-individual-customer-context-with-artificial-intelligence.md",
+      "title": "Actioning Individual Customer Context With Artificial Intelligence",
+      "excerpt": "The current capabilities of ML and AI allow not only the complete context of the customer to be gathered instantly, but also to serve the experience most likely to drive customers lower down the funnel.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-04-01T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F158.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Actioning Individual Customer Context With Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-ai-led-operations-a-way-for-enterprises-to-scale-with-foresight.md",
+      "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
+      "excerpt": "Things move quickly in business today. And organizations are increasingly using data to move their businesses forward. IT systems are generating a growing variety, velocity and volume of data. This both creates challenges and opens up new opportunities.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/",
+      "publishedDateTime": "2020-04-01T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-49.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care.md",
       "title": "ViewRay and VieCure Announce Strategic Collaboration to Accelerate Adoption of Personalized Cancer Care",
       "excerpt": "PRNewswire/ -- (Nasdaq: VRAY) announced today a strategic collaboration with VieCure, an artificial intelligence (AI) informatics company with a leading point-of-care clinical decision support",
@@ -1172,139 +1305,6 @@
           "width": 1199,
           "height": 674,
           "title": "Niantic Acquires Spatial Mapping Startup 6D.ai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years.md",
-      "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
-      "excerpt": "Recent quantitative assessments of the impact of AI highlight the precarious nature of the future of work (long after the coronavirus pandemic ends), the continuing mixed attitudes of consumers about data privacy,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
-      "publishedDateTime": "2020-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e82b806cff6b00007a45dfa%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
-      "title": "Perceive emerges from stealth with Ergo edge AI chip",
-      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
-      "publishedDateTime": "2020-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Perceive emerges from stealth with Ergo edge AI chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
-      "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
-      "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
-      "publishedDateTime": "2020-03-31T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/wOD2pqt5YiE48j8erpa0ii9An9w=/756x567/2019/07/25/48f277d2-b011-4181-9cec-22c857bd0a68/screenshot-2019-07-25-at-12-12-02.png",
-          "width": 756,
-          "height": 567,
-          "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
           "attribution": null
         }
       ],

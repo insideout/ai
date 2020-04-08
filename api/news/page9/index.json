@@ -2,6 +2,140 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-30-take-your-ai-project-from-concept-to-concrete-roi.md",
+      "title": "Take your AI project from concept to concrete ROI",
+      "excerpt": "Why do so many AI projects fail before they deliver actual ROI? Learn how to go from abstract business problem to concrete AI solution. Get business analysts and data scientists working together from start to finish. Get started with this free eBook to develop AI projects with real business impact. Download now! You’ll learn:",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
+      "publishedDateTime": "2020-03-30T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/woman-at-computer-through-glass.jpg?fit=6720%2C4480&strip=all",
+          "width": 6720,
+          "height": 4480,
+          "title": "Take your AI project from concept to concrete ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
+      "title": "Key Takeaways From AMD's Financial Analyst Day",
+      "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
+      "publishedDateTime": "2020-03-30T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78f91810380d0006fbdc78%2F0x0.jpg",
+          "width": 1016,
+          "height": 610,
+          "title": "Key Takeaways From AMD's Financial Analyst Day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "publishedDateTime": "2020-03-30T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
       "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
       "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
@@ -840,11 +974,11 @@
     {
       "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
       "title": "Huawei steps up ambitions in self-driving vehicles race",
-      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-30T02:36:00-07:00",
@@ -962,142 +1096,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
-      "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
-      "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
-      "publishedDateTime": "2020-03-29T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg",
-          "width": 1000,
-          "height": 733,
-          "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software.md",
-      "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
-      "excerpt": "The video was remastered to 4K from a DVD source using Gigapixel AI from Topaz Labs, and the episode above had ... with Richard claiming that it took him around six hours to process the work from start to finish. As stated before, five episodes have ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software",
-      "ampWebUrl": "https://www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
-      "publishedDateTime": "2020-03-29T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1585544391_kch5d8x_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-distributed-training-with-azure-machine-learning.md",
-      "title": "Distributed training with Azure Machine Learning",
-      "excerpt": "In this article, you learn about distributed training and how Azure Machine Learning supports it for deep learning models. In distributed training the workload to train a model is split up and shared among multiple mini processors, called worker nodes. These worker nodes work in parallel to speed up model training. Distributed training can be ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/machine-learning/concept-distributed-training",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-29T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Distributed training with Azure Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

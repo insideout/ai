@@ -2,6 +2,133 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-07-self-driving-vans-are-delivering-food-and-disinfecting-streets-in-china.md",
+      "title": "Self-driving vans are delivering food and disinfecting streets in China",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus/",
+      "ampWebUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
+      "publishedDateTime": "2020-04-07T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F07%252F8a%252F1bd7e389d2a6478ca53b9a6e24e3697f.9ab8b.jpg%252F1200x630.jpg?signature=MAIYeu2PrROrVIOpyuCaPa2od8U=",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving vans are delivering food and disinfecting streets in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-from-artificial-intelligence-to-smart-pens-technological-advancements-in-diabetes-care.md",
+      "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+      "excerpt": "By creating an interface through which the pen can keep a track of insulin doses, store the data in an app and share the data with users, care givers and health care professionals ... For the past few years, artificial intelligence has been touted to be the game changer in diabetes care, but somehow AI has not lived up to its initial promise.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348861",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348861",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348861",
+      "publishedDateTime": "2020-04-07T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160126153527-sugar-glucose-test-diabetic-diabetes-insulin-blood-test-glucometer.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
+      "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+      "excerpt": "The self-driving vans reduce overall potential exposure to the virus and free up healthcare workers.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp",
+      "publishedDateTime": "2020-04-07T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e8c3f97b3b0922413616ca4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-emil-miso-robotics-launches-crowdfunding-campaign-for-autonomous-kitchen-robots.md",
       "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
       "excerpt": "Today marks the official start of Miso Robotics‘ series C equity crowdfunding campaign ... On the software side, it benefits from improvements to Miso AI (Miso’s cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken wings, tater tots, french fries and waffle fries ...",
@@ -952,139 +1079,6 @@
           "width": 2545,
           "height": 1273,
           "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
-      "title": "Why AI startups’ economics will likely improve over time",
-      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "publishedDateTime": "2020-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Why AI startups’ economics will likely improve over time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
-      "title": "Microsoft Azure Speech to Text review",
-      "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/reviews/microsoft-azure-speech-to-text-review",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft Azure Speech to Text review",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans.md",
-      "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
-      "excerpt": "AI has revealed that mice have a range of facial expressions that show they feel — offering fresh clues about how emotional responses arise in human brains. Scientists at the Max Planck Institute of Neurobiology in Germany made the discovery by recording the faces of lab mice when they were exposed to different stimuli, such as sweet flavors ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
-      "publishedDateTime": "2020-04-06T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design51-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
           "attribution": null
         }
       ],

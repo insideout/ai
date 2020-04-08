@@ -20,6 +20,6 @@ images:
     height: 864
     title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 
-secured: "PcnPnUbsfzH81kBEcncJkB6v9qZ+yrrvjV1vTutZNHDlfR34PXk39Dj+AY4qpFpKA/6WTZ20tcZ0l2h+E5xwfValEPie8IGYJlIpJGFaZscY2QhS5FxLixdXCxLXFxs6EQYVpE4SotuxKbEPF+DezZNsuc+fhbvEiWV7LLLWrOo/gtwXG4WnwMHnuUAxaBACkHQ3v8Gz1dA8he2k+aTCSVpkWhUSZ8v7etIfLA3DmDAo4AuikwC06IX4zI4R+rFLLcCOO8PYeRnFM4qXzy2QRM15aGjLJiAFIl6FYBdOjujGO62tnh9+7o6z5O1iciMf;wc5cqHi6mKPV4CETV384qg=="
+secured: "q50X6vMQcQVS+0LeZ75Cwgg2By6viomgh5BNTD9NJhdPxzlJril2LxrKBlsm7JisEj39OgMTBTs8U0MgFijzUZI0+spaeqw/oJ6xplRPpXV38sgfIB1Ypyamc5j1NtbijTv2Qtsahknc8qT/wHyiihAxoriqSgvUOojx40mq4YN8801Jp1pyu8DLzUtCYC8VNEvZKiJec6b7qrz3Ywg64IbqhOfbivW9ktklfNgh3l/JPSWlv27PKPg5vSkzsfJkOGf5bfhvE4+F1e1Ty0IY35Sjxl+RfdIvRUX1EF5Zccj4iUht87PczOrbKGEyaGMe;BsYQ6bXLkf/TKGbPlQ37lw=="
 ---
 

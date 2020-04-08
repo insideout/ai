@@ -2,6 +2,88 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-08-hong-kong-developer-chinachems-hotels-unit-brings-in-robots-to-beat-coronavirus-slump.md",
+      "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+      "excerpt": "The company, which is wholly owned by property developer Chinachem Group, will have three artificial intelligence robots called Genie delivering meals and drinks to guests ... Last week, InterContinental Hong Kong hotel, also in Tsim Sha Tsui, opted to start a lengthy renovations process earlier than scheduled and let go of about 500 staff ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "publishedDateTime": "2020-04-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/07/c95fc976-77c9-11ea-9479-e3cad17ef2b4_image_hires_172711.jpg?itok=yRHzUuTY&v=1586251637",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-strategic-elements-turns-primary-focus-to-robotics-ai-and-automation-shares-up.md",
+      "title": "Strategic Elements turns primary focus to robotics, AI and automation, shares up",
+      "excerpt": "SOR’s fully-owned artificial intelligence and robotics company Stealth Technologies is working with Honeywell to build experimental autonomous robotic vehicles. Robotic vehicles have a role to play in helping protect critical infrastructure Strategic Elements Ltd (ASX:SOR) is increasing its focus on opportunities in robotics, artificial ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/916869/strategic-elements-turns-primary-focus-to-robotics-ai-and-automation-shares-up-916869.html",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/916869",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/916869",
+      "publishedDateTime": "2020-04-07T17:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.proactiveinvestors.com.au/thumbs/upload/News/Image/2020_04/1200z740_1586306954_2020-04-08-10-49-14_db8c3de50fe04b48ce8d305771eaa76f.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": "Strategic Elements turns primary focus to robotics, AI and automation, shares up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
       "title": "5 practical reasons to embrace artificial intelligence",
       "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
@@ -1170,80 +1252,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-starsky-robotics-failed-does-that-mean-automated-trucking-is-dead.md",
-      "title": "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?",
-      "excerpt": "Axmacher’s Medium post about the company's failure has energized the rest of the truck Automated Driving Systems industry. They emphatically do not agree. The consensus is that investors didn't abandon all of truck ADS,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/amp/",
-      "publishedDateTime": "2020-03-24T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2FFEX_004%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
-      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
-      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
-      "publishedDateTime": "2020-03-24T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

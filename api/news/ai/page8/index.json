@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-30-coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral.md",
+      "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
+      "excerpt": "Reports claim that Tesla Autopilot might soon get a red light auto-stopper feature, which causes some to worry.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
+      "publishedDateTime": "2020-03-30T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39403725%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
+      "title": "Huawei open-sources MindSpore, a framework for AI app development",
+      "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
+      "publishedDateTime": "2020-03-30T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4430f3df-d46f-46c6-9767-ec2c36d7d8ef-e1585576947747.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Huawei open-sources MindSpore, a framework for AI app development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware",
+        "Google AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai.md",
+      "title": "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI",
+      "excerpt": "Shri Santhanam came to the world of AI and analytics first in serving clients as a consultant at Mercer and Oliver Wyman. Next, he co-founded OW Labs an AI and analytics practice. Now he is doing the same at a bigger scale at $5 billion Experian,",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/",
+      "publishedDateTime": "2020-03-30T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81fd11ae2ff90006b5bcaf%2F0x0.jpg",
+          "width": 1200,
+          "height": 686,
+          "title": "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-aitxd-artificial-intelligence-technology-solutions-inc.md",
       "title": "AITXD Artificial Intelligence Technology Solutions Inc",
       "excerpt": "Dividend History information is presently unavailable for this company. This could indicate that the company has never provided a dividend or that a dividend is pending.",
@@ -390,11 +527,11 @@
     {
       "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
       "title": "Huawei steps up ambitions in self-driving vehicles race",
-      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-30T02:36:00-07:00",
@@ -1170,140 +1307,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-to-become-main-way-banks-interact-with-customers-within-three-years-accenture.md",
-      "title": "AI to become main way banks interact with customers within three years: Accenture",
-      "excerpt": "Artificial intelligence (AI) will become the primary way banks interact with their customers within the next three years, according to three quarters of bankers surveyed by consultancy Accenture ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
-      "publishedDateTime": "2020-03-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103456053-516780641.jpg?v=1529470912",
-          "width": 2000,
-          "height": 1294,
-          "title": "AI to become main way banks interact with customers within three years: Accenture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
-      "title": "In artificial intelligence, enterprises still not minding their data",
-      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "publishedDateTime": "2020-03-28T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "In artificial intelligence, enterprises still not minding their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
-      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
-      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "publishedDateTime": "2020-03-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,140 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-28-ai-to-become-main-way-banks-interact-with-customers-within-three-years-accenture.md",
+      "title": "AI to become main way banks interact with customers within three years: Accenture",
+      "excerpt": "Artificial intelligence (AI) will become the primary way banks interact with their customers within the next three years, according to three quarters of bankers surveyed by consultancy Accenture ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
+      "publishedDateTime": "2020-03-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103456053-516780641.jpg?v=1529470912",
+          "width": 2000,
+          "height": 1294,
+          "title": "AI to become main way banks interact with customers within three years: Accenture",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
+      "title": "In artificial intelligence, enterprises still not minding their data",
+      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "publishedDateTime": "2020-03-28T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "In artificial intelligence, enterprises still not minding their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
+      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "publishedDateTime": "2020-03-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
       "title": "iPad trackpad support is just the start of iOS 13.4's great features",
       "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
@@ -1168,132 +1302,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
-      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "publishedDateTime": "2020-03-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autonomous-vehicles-researchandmarketscom.md",
-      "title": "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com",
-      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application. In addition to HD map services for third parties, more companies applied in 2019 to be the eligible providers of electronic navigation mapping with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200327005137/en/Global-China-HD-Map-Industry-Report-2019-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200327005137/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-why-transparency-is-key-to-promoting-trust-in-artificial-intelligence.md",
-      "title": "Why transparency is key to promoting trust in artificial intelligence",
-      "excerpt": "As AI gets more and more embedded in our lives and helps make decisions that are increasingly significant to us, we’re rightly concerned about transparency. When big new stories like the Cambridge Analytica scandal or ongoing discussion around inherent biases in facial recognition hit the headlines, we are concerned about bias (intentional ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
-      "publishedDateTime": "2020-03-27T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1585240726/itpro/2020/03/shutterstock_AI_understanding_unlock.jpg",
-          "width": 9000,
-          "height": 5063,
-          "title": "Why transparency is key to promoting trust in artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

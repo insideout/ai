@@ -2,6 +2,152 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2020-01-14-the-us-leads-in-world-changing-startups.md",
+      "title": "The U.S. Leads in World-Changing Startups",
+      "excerpt": "A new report shows the U.S. dramatically leads with new companies focused on emerging technologies. The United States enters 2020 on a favorable technology setting, with 23 of 36 of what CB Insights labels \"game-changing\" tech startup companies this year being based in the country.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world",
+      "ampWebUrl": "https://www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-countries/articles/2020-01-14/the-us-has-the-most-startups-that-could-change-the-world?context=amp",
+      "publishedDateTime": "2020-01-14T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-rights-group-says-china-is-trying-to-silence-critics-abroad.md",
+      "title": "Rights group says China is trying to silence critics abroad",
+      "excerpt": "He warned that if human rights aren’t defended, the world could face “a dystopian future in which no one is beyond the reach of Chinese censors” and a global rights system so weakened that ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://kvia.com/news/us-world/2020/01/14/rights-group-says-china-is-trying-to-silence-critics-abroad/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-14T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-2020-the-year-of-seeing-clearly-on-ai-and-machine-learning.md",
+      "title": "2020: The year of seeing clearly on AI and machine learning",
+      "excerpt": "Late last year, I complained to Richard Socher, chief scientist at Salesforce and head of its AI projects, about the term \"artificial intelligence\" and that we should use more accurate terms such as machine learning or smart machine systems, because \"AI\" creates unreasonably high expectations when the vast majority of applications are ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2020-the-year-of-seeing-clearly-on-ai-and-machine-learning/",
+      "publishedDateTime": "2020-01-14T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2018/11/30/eb36294b-a7fb-4514-ab2b-8f58d536211a/20140909-idf-56.jpg",
+          "width": 640,
+          "height": 574,
+          "title": "2020: The year of seeing clearly on AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars.md",
+      "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
+      "excerpt": "Astronauts also have to deal with the unique physical strains of space travel—including ... stunted by a lack of emotional intelligence, says Tom Soderstrom, CTO at NASA’s Jet Propulsion Laboratory. That’s why JPL is now working with Australian tech firm Akin to develop an AI that could one day provide emotional support for astronauts ...",
+      "heat": 166,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/",
+      "ampWebUrl": "https://www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615044/an-emotionally-intelligent-ai-could-support-astronauts-on-a-trip-to-mars/amp/",
+      "publishedDateTime": "2020-01-14T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/gettyimages-1168361504-web.jpg?sw=600&cx=0&cy=0&cw=3000&ch=1688",
+          "width": 600,
+          "height": 337,
+          "title": "An emotionally intelligent AI could support astronauts on a trip to Mars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-facebook-taught-its-ai-to-speak-math.md",
       "title": "Facebook taught its AI to speak math",
       "excerpt": "My numerical idiocy aside, Facebook has trained an AI to solve ... Essentially the research team taught the AI to unpack mathematical equations much in the same way that we do for complex phrases ...",
@@ -1087,185 +1233,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-linkedin-blockchain-beats-ai-and-cloud-computing-for-hottest-skill-in-2020.md",
-      "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
-      "excerpt": "“Which means that you don’t have to be in financial services to be seeking new hires who have background and expertise in putting blockchain to use.” The Microsoft-owned company then urged recruiters ... How one behaves, how they think, and their cognitive skills are all examples of soft skills. While soft skills are difficult to measure ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/",
-      "ampWebUrl": "https://thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/hardfork/2020/01/13/blockchain-linkedin-solidity-ethereum-cryptocurrency-jobs-recruitment/amp/",
-      "publishedDateTime": "2020-01-13T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/05/cryptocurrency-blockchain-development-programming-ethereum-solidity-javascript-java-796x450.jpg",
-          "width": 796,
-          "height": 450,
-          "title": "LinkedIn: Blockchain beats AI and cloud computing for hottest skill in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-the-emerging-meta-learning-oligopoly.md",
-      "title": "The Emerging Meta-Learning Oligopoly",
-      "excerpt": "Meta-learning — special cases of which have lately been called AutoML (automatic machine learning) — is, simply put, learning how to learn. A major aspect of the transition from today's narrow ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/13/the-emerging-meta-learning-oligopoly/amp/",
-      "publishedDateTime": "2020-01-13T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-74.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Emerging Meta-Learning Oligopoly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-skyqraft-a-startup-using-ai-and-drones-for-electricity-power-line-inspection-raises-505k.md",
-      "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
-      "excerpt": "Skyqraft, a Swedish startup using AI and drones for electricity power-line inspection, has picked up $505,000 in early backing. Leading the round is “startup generator” and investor Antler, with participation from a number of angels, including Claes Ekström and Tomas Kåberger. Founded in March 2019 and launched that September, Skyqraft ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/13/skyqraft/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/13/skyqraft/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/13/skyqraft/amp/",
-      "publishedDateTime": "2020-01-13T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/SkyqraftTeam.jpg?w=1024",
-          "width": 1024,
-          "height": 799,
-          "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-brazil-is-emerging-as-a-world-class-ai-innovation-hub.md",
-      "title": "Brazil is emerging as a world-class AI innovation hub",
-      "excerpt": "After the U.S., Brazil has the largest number of social media users on Facebook, Twitter ... and the private sector boosting investment in AI research, that skills gap will begin to close.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/12/brazil-is-emerging-as-a-world-class-ai-innovation-hub/amp/",
-      "publishedDateTime": "2020-01-12T14:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design11.jpg?fit=1200%2C850&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": "Brazil is emerging as a world-class AI innovation hub",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

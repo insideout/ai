@@ -2,6 +2,141 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
+      "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
+      "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkang/2020/04/01/30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses/amp/",
+      "publishedDateTime": "2020-04-01T14:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e709bc5e1e61700080f01bc%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-ai-supported-sales-reps-how-to-make-it-work.md",
+      "title": "AI-Supported Sales Reps: How To Make It Work",
+      "excerpt": "AI can help salespeople do more of what they do best, but most efforts to enable reps with AI fail. Here's why, and how to make it work for your organization.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/",
+      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
+      "publishedDateTime": "2020-04-01T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912559%2F0x0.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": "AI-Supported Sales Reps: How To Make It Work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-an-interview-with-microsoft-president-brad-smith.md",
+      "title": "An interview with Microsoft President Brad Smith",
+      "excerpt": "The post An interview with Microsoft President Brad Smith appeared first on The AI Blog.\n",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.microsoft.com/en-us/research/blog/an-interview-with-microsoft-president-brad-smith/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T13:06:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/03/Research_Podcast_Smith_Social_1200x627.png",
+          "width": 1200,
+          "height": 627,
+          "title": "An interview with Microsoft President Brad Smith",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-googles-deepmind-agent57-ai-masters-classic-atari-games-like-pitfall-and-solaris.md",
       "title": "Google's DeepMind Agent57 AI Masters Classic Atari Games Like Pitfall And Solaris",
       "excerpt": "We’ve seen Alphabet/Google’s DeepMind AI crush human opponents in games like StarCraft II, but now the team is going back in time to tackle games from 4 decades ago. Dubbed Agent57, this new AI is gaining attention for learning how to play a total of – you guessed it – 57 Atari 2600 games. The DeepMind team often looks to existing games ...",
@@ -947,139 +1082,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
-      "title": "Shanghai judicial courts start to replace clerks with AI assistants",
-      "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
-      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
-      "publishedDateTime": "2020-04-01T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/4a082aa2-73ef-11ea-ab8f-988daf8efd6f_image_hires_215024.JPG?itok=j8en0PIv&v=1585749033",
-          "width": 1200,
-          "height": 630,
-          "title": "Shanghai judicial courts start to replace clerks with AI assistants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-actioning-individual-customer-context-with-artificial-intelligence.md",
-      "title": "Actioning Individual Customer Context With Artificial Intelligence",
-      "excerpt": "The current capabilities of ML and AI allow not only the complete context of the customer to be gathered instantly, but also to serve the experience most likely to drive customers lower down the funnel.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-04-01T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F158.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Actioning Individual Customer Context With Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-led-operations-a-way-for-enterprises-to-scale-with-foresight.md",
-      "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
-      "excerpt": "Things move quickly in business today. And organizations are increasingly using data to move their businesses forward. IT systems are generating a growing variety, velocity and volume of data. This both creates challenges and opens up new opportunities.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/",
-      "publishedDateTime": "2020-04-01T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-49.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

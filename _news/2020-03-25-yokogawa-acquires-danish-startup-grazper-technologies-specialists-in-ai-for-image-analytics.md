@@ -1,28 +1,19 @@
 ---
 category: news
 title: "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics"
-excerpt: "Grazper has developed advanced artificial intelligence (AI) technologies for analyzing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Recent advances in deep learning and related technologies have enabled the practical application of AI in industry ..."
-publishedDateTime: 2020-03-25T02:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200324005287/en/Yokogawa-Acquires-Danish-Startup-Grazper-Technologies-Specialists"
+excerpt: "Grazper has developed advanced artificial intelligence (AI) technologies for analysing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Why 100% Accurate Technical Translation Is a ... circuit design in the hardware language About Yokogawa Founded in ..."
+publishedDateTime: 2020-03-25T15:41:00Z
+webUrl: "https://www.manufacturingtomorrow.com/news/2020/03/25/yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics/15024/"
 type: article
-quality: 28
-heat: 28
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Manufacturing
+  domain: manufacturingtomorrow.com
 
 topics:
+  - Natural Language Processing
   - AI
-  - AI in Robotics
 
-images:
-  - url: "https://mms.businesswire.com/media/20200324005287/en/564757/23/Logo_YB1.jpg"
-    width: 1200
-    height: 627
-    title: "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics"
-
-secured: "S0sEAET6jtWmHafB7pRUhr98rOGbE8C/LkPrlryD3f9t6TVunZBJPss/O8lFLeywsdXHcTsqKGm8+b4v/b25bY7MCfv6zD//gipGv8MmrW86mrux+uvhWCiJKV1tSBxhPZQcBMMTQIqWrJEBCL1NOZXTPImDvp/YvR0bGPQ7EfJEGC8MNDlXusMDXTiSbfQXVqI2sjmNwfHi7+UnL+R/gVq1VwOfcOBTElDga73p0ooAWff0Hu43cawtoOYwNtW/ArX4o0aPgHFlW7DCrVjMG5+SxjMWXF3v9SvbFnfyuuI2cDNuPnfTWdZvjEbchIDzKOgu7rZcCoLeMq5Be2ceVL+5aoZigooZNeTHFwIDu9cjcfb5aK6O5T3L9t2Vz3zM0LMwhd1toJJCexUj1QbSjmmjApy76JtBYHNGep6QJXU8KCFNiIXfqAV5zDOeOPlso1VdIE0ENvqJwTHgF61Hyv4YuLQP2GHvp3r9zR0UlTk=;LZSE2s+wsrhptFaJDm6+sw=="
+secured: "g6p4HC7yStVtmXQcaVx79JOZT7fKE6YEgZZK+wJUX72yHFBf1t7ReMPaiJFreIx0tgSxu5lfdZl5TLUpRQ6YmGY52AeS+mDYc1DSs/wT5oiifysuVCesTmXqxR1+jgUjMT9ZQgLEbPHcoqcJDPRwi/BMmYJ0H6It/zjAzVEj/2isxNhocqhvkpJ8BPwD9cvSQFx1v3lCR8pFQ+tBg0neN+sRdT5umaWr0fCRDtfKoxZAnzSjGhcAQ+VI+Wtj7HOkgmszZnemgBlbv5iz8LfUiVIiq7KdiXdiwnLL4SLSgsZaBP0CFCbRTs9pmYM9n15t;nwJSSqk/PK9gCl8nnedKmg=="
 ---
 

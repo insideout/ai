@@ -23,6 +23,6 @@ images:
     height: 383
     title: "How artificial intelligence can enable rapid COVID-19 lung analysis at UCSD Health"
 
-secured: "QShQdTLk/fRguC1arSX5JAMwQxNR+Kd6YXnI7rO5vbJDW+F0I6afn+7M7N0qeB1m+Ca7m681uwp+lXObNEWurqvjEATApDhkUmJnN5LaQm52/ASGJKR9LJB0lasrKy6t1GKKAgONjJNERewOac76EZ0/haE53JGFQoZzVtC3UOUknVe+UzvGhkcsDuob4DHo1Mpz9n+p8y4kVh7VL8dImS/1YYFGqe0yAuwVU3kRfh5VSo/k6LwJFQ6ideeOAgs+nYirnAmqEWvPv8/dWybWKTRheZX8hHlhmG6232TTj81w+xbns8n2hufj56IEDAFS;+j1L2LVqoZMoOf5I5QJ4rg=="
+secured: "gVr/DAYNwISr19s1WYkOM/dCNnWWy0ieu0uu0sE077NGVhiFWHKbYX9Oi1PvEvtcynBw2kGR4g7EDLzF6aONbUSjkST7S2f6FobxwSI8MBELX6oTxQ4xq5Z+JnGYFu8W1rTKa9VDvIceMUdBMchefCWwkXOOzq7KfcGzYGYI9STaOfi+H95Y5zGAoG9lIjd3rsRUzTKvlkjGJO0jVStD+xfU+dX/kZEHeOi6SVQX50FBem1YQ2mjpWSKr0gBNyHbtjB81RGV3qz/2PTxqe29Dehk+mEOoqsQ1ZUyVnWnVbXPWOFfUYH+yFZy935CI54GATOZ4oynhQxL082bEqsi/08nVvn0+PzYjymNNYQRWWjzvQFBkmrFdZfR1KhZnqA015FJ9nBjRLav8s2U2GWcjGiDSU8V+oQXGRPJtD2gn3k36T3GKo5WLs4Z0lqxlnokuTJPmpFv0UiSz+zpanrUkjmHtlBpU3psZd+QxMLkihM=;TpcnonywNyZMTLPfL+GqSA=="
 ---
 

@@ -25,6 +25,21 @@ images:
     height: 305
     title: "Boosting productivity and differentiation with RPA"
 
+related:
+  - title: "Machine Learning: Making Sense of Unstructured Data and Automation in Alt Investments"
+    excerpt: "Here, we explore how Machine Learning (ML) paired with a better operational workflow ... The issue is even more pronounced in information-intensive industries such as financial services, as valuable employees are also required to spend needless hours every day processing and synthesizing unstructured data. Transformational change, however ..."
+    publishedDateTime: 2020-04-08T01:26:00Z
+    webUrl: "https://www.tradersmagazine.com/am/machine-learning-making-sense-of-unstructured-data-and-automation-in-alt-investments/"
+    type: article
+    provider:
+      name: Traders Magazine
+      domain: tradersmagazine.com
+    quality: 19
+    images:
+      - url: "https://www.tradersmagazine.com/wp-content/uploads/2019/12/Depositphotos_95137986_s-2019.jpg"
+        width: 1000
+        height: 833
+
 secured: "qif2FeWsX8Joj1dMR6jujqOUctRondI8byCEifWFEYbDrDLMc/19XtRMK+DSZbFEfbbQL91oPj8Bi6lJfO2xAu5Zve0A6og0MNBWVFGafloruqVtWfqYnMU5gPAix8dQ0Dvk4aM+7mLR8yhwEQQVNtRjd3rBPE/Te9XGv7Ul2Ks06OOZPxgWPTQTwVq5ajzhZD1ChBgduAEFBOWuCbCxDDRgP/z49+MCYI6MQFxFTP5QjgreQ5N4OqKPdxJDrFvZdT360oNKXgnHyJPxZ08HgS3eiTaBdXe6Wplh1H+UEJCr0iMKKHpSzpzhZDgSkrwP;6MnjC/zplfL+g1g2GbON8w=="
 ---
 

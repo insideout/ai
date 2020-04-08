@@ -2,6 +2,134 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-03-31-niantic-acquires-6dai-which-is-mapping-the-world-in-3d.md",
+      "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
+      "excerpt": "Niantic has acquired 6D.ai, an augmented reality company that is building a 3D map of the world using only smartphone cameras. CEO John Hanke said in a blog post that the dynamic, 3D map of the world could enable new kinds of planet-scale AR experiences. “This means we’re even closer to an AR platform that will unlock the ability for any ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/",
+      "publishedDateTime": "2020-03-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/6d.jpg?fit=1200%2C515&strip=all",
+          "width": 1200,
+          "height": 515,
+          "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process.md",
+      "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
+      "excerpt": "As global economic grows each year, firms work tirelessly to recruit the best talent available on the market. Kerry and Anna Wang understood the canonical problem in acquiring talent and built Searchlight.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
+      "publishedDateTime": "2020-03-31T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7fdebce3d3600007fb3de0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
+      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
+      "publishedDateTime": "2020-03-31T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "TensorFlow",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-ai-lifecycle-management-startup-cnvrgio-launches-free-community-tier.md",
       "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
       "excerpt": "Cnvrg.io, a data science startup headquartered in Jerusalem and New York, today released a community version of its machine learning automation platform designed to help enterprises manage and scale AI. CEO Yochay Ettun says the release was motivated in part by the influx of social distancing and remote work stemming from the COVID-19 pandemic ...",
@@ -963,140 +1091,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-take-your-ai-project-from-concept-to-concrete-roi.md",
-      "title": "Take your AI project from concept to concrete ROI",
-      "excerpt": "Why do so many AI projects fail before they deliver actual ROI? Learn how to go from abstract business problem to concrete AI solution. Get business analysts and data scientists working together from start to finish. Get started with this free eBook to develop AI projects with real business impact. Download now! You’ll learn:",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
-      "publishedDateTime": "2020-03-30T14:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/woman-at-computer-through-glass.jpg?fit=6720%2C4480&strip=all",
-          "width": 6720,
-          "height": 4480,
-          "title": "Take your AI project from concept to concrete ROI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
-      "title": "Key Takeaways From AMD's Financial Analyst Day",
-      "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
-      "publishedDateTime": "2020-03-30T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78f91810380d0006fbdc78%2F0x0.jpg",
-          "width": 1016,
-          "height": 610,
-          "title": "Key Takeaways From AMD's Financial Analyst Day",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
-      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
-      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "publishedDateTime": "2020-03-30T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],
