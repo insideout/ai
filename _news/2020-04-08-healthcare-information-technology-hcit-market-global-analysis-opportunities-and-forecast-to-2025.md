@@ -41,6 +41,17 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence Solutions Market 2020 Global Trend, Segmentation and Opportunities Forecast To 2026"
+    excerpt: "New Study Reports “Artificial Intelligence Solutions Market 2020 Global Market Opportunities, Challenges, Strategies and Forecasts 2026” has been Added on WiseGuyReports. For over a decade, Benzinga has lead the way when it comes to investor access to information."
+    publishedDateTime: 2020-04-08T15:55:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15768090/artificial-intelligence-solutions-market-2020-global-trend-segmentation-and-opportunities-forecas"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15768090"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15768090"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 19
 
 secured: "T8FmLzxzl7tUvYl0t4fAyQNDIIL5gI/rry0Ds3QVHOftiIrAsKaW30qpiegefY5a5JkslszqVLkUNKB+1nJQmEQS/7VWlnI8BllbtxwgIFoB4OXs2cgKW7RS2/M++Xg0NLvIaSmbycKQJ/Csd3iDkfZINyHJm16qiyMWEEIpp1DNVIXKnw4U6goW0XJibW8yWfSOP2e2mbYmzUR5GP4dGSp1YEsX25LpNK9HYcx2i84PYTLV2nNyVqgWDuayoSX8+IlG6ZwLXw2407H0/dHHLJfW4PWPmKIVTr6US+VI4Ytri4qo+Jq95mQtBypEn2Du;8++26yjEOXrv1DXXIvKU3g=="
 ---
