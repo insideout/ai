@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-19-natural-language-processing-things-you-need-to-know.md",
+      "title": "Natural Language Processing — Things you need to Know.",
+      "excerpt": "Specific applications of Artificial Intelligence include expert systems, Natural Language Processing (NLP), Speech recognition and machine vision. ML is a branch of artificial intelligence where ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/natural-language-processing-things-you-need-to-know-43eeb87da177",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/freeze/max/480/1*1h9L7znh-eIvyy0T7LAqJw.gif",
+          "width": 480,
+          "height": 366,
+          "title": "Natural Language Processing — Things you need to Know.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-natural-language-processing-market-industry-size-share-business-strategies-major-segments-and-key-manufacturers-revenue-forecast.md",
       "title": "Natural Language Processing Market Industry Size & Share, Business Strategies, Major Segments and Key Manufacturers Revenue Forecast",
       "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest revenue by 2026.Fortune Business Insights™ in its latest report published this information.",
@@ -1130,51 +1175,6 @@
           "width": 400,
           "height": 400,
           "title": "Learn the basics of speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-introduction-to-natural-language-processing.md",
-      "title": "Introduction To Natural Language Processing",
-      "excerpt": "Natural Language Processing or simply abbreviated as NLP is a highly specialized branch of Artificial Intelligence and Machine Learning that deals with understanding the natural human language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/introduction-to-natural-language-processing-a39168c69c86",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*v1h6A7-ufXZo4l1Y",
-          "width": 1200,
-          "height": 600,
-          "title": "Introduction To Natural Language Processing",
           "attribution": null
         }
       ],

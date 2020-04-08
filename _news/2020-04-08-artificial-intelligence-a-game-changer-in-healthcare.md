@@ -23,6 +23,6 @@ images:
     height: 628
     title: "Artificial Intelligence: A Game Changer in Healthcare"
 
-secured: "UutOrKn2xV2vczULuj1eTo/NTLU9dOn4S4IxcQwP8itmq9wbvmn5cDuJTK7rFO3NIMgKrMTQLO2ToOg9Y/c1CQOqHDuhXMtHsvsiwfd7W8d2Wj0s0aMgwv/N4KdEa5hA/zrR8uokIMHWm04owSqN1St5HAgDIL0/P6L0A4mdNQKwduBOSc/pQkmeG1XpAng8fp6Xh96vpLRU/z8EPMKwwtJ2Aylt/Vx0CvBIXkUaePIP9ZPxT3UjZEDts9irinyvGB5iD2kdIK3/tf0/A789jL7o6o+q5bGCi34NcV/xXwfYiKqJw0qWm6HsKdkTT0np;VgufatGuIVjXb0pdY4LvTQ=="
+secured: "BWtwRuTO1Nvz3/p46rhlLbFGlv3HKd8x/m30hpqIK55Bmc4ZUqN/toiYQ/n4Stfc7bwQIcsziJwn5Wp8lmUUhs5mzrbWVMOqEQxVDCQHc2iALqG4PJiHtHEU9nM5Bstitaon9HbEbpmGS9Kac4CUbmH7ymUi1kCqC3nnfJLgtODnAsFxEWGN8rqtu0AYoFAtZzVLE/tRtd+JEDdLwlQIuUGoV+WvOpfPA1xf9kn1lKaU2hyyAloFFFsDkK/fGxc3MpBd7ghDfg64dKoGw+agnwIT/q3Rg8WLor6SZe8haRkFaj+0nUI/H2CmPvzOchoxFR22ln366XqWPRJ8gM78rsoDF1WlUC6y+Pv6TbitMvJybLHsLtJdwiS9rw6QDMrmqQAjzRp+WVVXmXu/xzC7hIkn/upsuPwNi1Jlqr1YJIGjLJ/ADziQLWLZPlrTa7cePoug+8yofrJ7zBC8/wsfjO+J5r8F/LY/ziHY6JhhCIU=;qaWqMghNRDaucZczC6CCaQ=="
 ---
 

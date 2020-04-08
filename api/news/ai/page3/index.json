@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-06-apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test.md",
+      "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
+      "excerpt": "Instead of a top-to-bottom refresh of the service, Apple has spent nearly a decade making small improvements to various features, and now another one’s coming: The company has acquired an Irish voice AI company called Voysis to help fix one of Siri’s most glaring issues. While Siri has scored pretty well on Loup Ventures’ annual Digital ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/amp/",
+      "publishedDateTime": "2020-04-06T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/voysis2.jpg?fit=2545%2C1273&strip=all",
+          "width": 2545,
+          "height": 1273,
+          "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
       "title": "Why AI startups’ economics will likely improve over time",
       "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
@@ -1261,51 +1305,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-seattle-machine-learning-startup-octoml-raises-15m-from-amplify-and-madrona.md",
-      "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
-      "excerpt": "Founded by a group of computer science experts, the company aims to help companies deploy machine learning models on various hardware configurations. OctoML is led by the creators of Apache TVM, an open source “deep learning compiler stack” that started as a research project at the UW’s Paul G. Allen School of Computer Science ...",
-      "heat": 116,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/seattle-machine-learning-startup-octoml-raises-15m-amplify-madrona/",
-      "ampWebUrl": "https://www.geekwire.com/2020/seattle-machine-learning-startup-octoml-raises-15m-amplify-madrona/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-machine-learning-startup-octoml-raises-15m-amplify-madrona/amp/",
-      "publishedDateTime": "2020-04-03T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/10/ceze-profile-%402x-300x300.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

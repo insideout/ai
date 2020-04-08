@@ -444,7 +444,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897?mod=newsviewer_click",
+      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
       "ampWebUrl": "https://www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
       "publishedDateTime": "2020-03-31T13:39:00-07:00",
@@ -966,6 +966,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-27-computer-vision-in-healthcare-market-growth-ongoing-trends-technological-innovation-opportunities-and-forecast-to-2026.md",
+      "title": "Computer Vision in Healthcare Market Growth, Ongoing Trends, Technological Innovation, Opportunities and Forecast to 2026",
+      "excerpt": "The global Computer Vision in Healthcare market report scope includes detailed study covering underlying factors influencing the industry trends. The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1988080/computer-vision-in-healthcare-market-growth-ongoing-trends",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
       "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
       "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
@@ -1248,51 +1277,6 @@
           "width": 1200,
           "height": 630,
           "title": "AI in Computer Vision Market Project to Include More Research & Development to Attain High Valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
-      "title": "Google taps computer vision to improve robot manipulation performance",
-      "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
-      "publishedDateTime": "2020-03-20T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google taps computer vision to improve robot manipulation performance",
           "attribution": null
         }
       ],

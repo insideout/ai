@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence Market Research Report- Forecast till 2023 Mar
 publishedDateTime: 2020-04-07T14:19:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-opportunities-industry-leaders-competitive-landscape-and-regional-forecast-2020-04-07"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

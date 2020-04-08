@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
+      "title": "Google taps computer vision to improve robot manipulation performance",
+      "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "publishedDateTime": "2020-03-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google taps computer vision to improve robot manipulation performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-how-to-ride-the-third-wave-of-ai.md",
       "title": "How to ride the third wave of AI",
       "excerpt": "Object recognition is the same. Vehicles are now pretty good at recognising other vehicles and pedestrians as part of their advanced driving assistance. However, how effective it is depends on ...",
@@ -1087,51 +1132,6 @@
           "width": 796,
           "height": 417,
           "title": "ACLU sues US government over its use of facial recognition at airports",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-aclu-sues-for-government-facial-recognition-records.md",
-      "title": "ACLU Sues For Government Facial Recognition Records",
-      "excerpt": "The American Civil Liberties Union and New York Civil Liberties Union are challenging federal law enforcement’s use of facial recognition surveillance tech. A lawsuit was filed Thursday against the U.S. Department of Homeland Security (DHS), Customs and Border Protection (CBP), Immigration and Customs Enforcement (ICE), and Transportation ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/aclu-sues-for-government-facial-recognition-records-1820222/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2020/03/face-detection-geraltPixabay.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "ACLU Sues For Government Facial Recognition Records",
           "attribution": null
         }
       ],
