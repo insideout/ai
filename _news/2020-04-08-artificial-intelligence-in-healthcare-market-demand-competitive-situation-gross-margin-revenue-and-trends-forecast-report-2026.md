@@ -5,8 +5,8 @@ excerpt: "In 2019, the global Artificial Intelligence in Healthcare market size 
 publishedDateTime: 2020-04-08T11:38:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-demand-competitive-situation-gross-margin-revenue-and-trends-forecast-report-2026-2020-04-08"
 type: article
-quality: 38
-heat: 38
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

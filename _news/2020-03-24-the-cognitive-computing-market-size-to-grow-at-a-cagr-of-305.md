@@ -1,28 +1,19 @@
 ---
 category: news
 title: "The cognitive computing market size to grow at a CAGR of 30.5%"
-excerpt: "The cognitive computing market size is projected to grow from USD 20.5 billion in 2020 to USD 77.5 billion by 2025, at a Compound Annual"
-publishedDateTime: 2020-03-24T18:15:00Z
-webUrl: "https://www.prnewswire.com/news-releases/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-301029046.html"
+excerpt: "NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive ... are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services ..."
+publishedDateTime: 2020-03-24T19:15:00Z
+webUrl: "https://www.finanzen.net/nachricht/aktien/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-8666692"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Finanzen
+  domain: finanzen.net
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "The cognitive computing market size to grow at a CAGR of 30.5%"
-
-secured: "nI+SxkZQU9vMfT1o6WeUbP5oRo01yultruJSHgQ2xUktsS6c0rS9xOzLgRc19jQ+/hNa6b3jfJl3irPy7FPrBiBoAvr6jkiFUzm49rZEKsDZeeBM85wobqE50+aFr+N1i3cS3U+F2sumvDaAYhb3Nm9k1vAB3eHUorby8gFP3yb9gNItS0kEPMxcLIpXOUKxYKjhUU1EJkXgRPhlZIBP8lM7Norb/o9mvuolNGFjioFj9ak7miHOQ4r30kgaXZ8iY0POz89kw5jl8Q/SRxK+o/O+Q0wIq0cQjrwPs62M0KATK4LDvSINpdrRUUmB3Bcv;FNHzIYwqa2wK2B1CklDeRQ=="
+secured: "bBsFM0Fz3M5gdQE6DfD19dKW19oFealVxxryhdRpppddSqgMQTGrm4SEjO4E5sWepXGvbwNZCUhHfu1VROl8Ea26kVpn4AkbWnOQF11SIENbBzCVCzCHvUO6ckgGzOBj4TLQn8PLZaqiWNkZ84sRouPsa7DcPJ3fauawMMaJJ1OQ5U9SPOTBHoBVC30IshCQ4KTpabEaXTznURohuXZs5dSKhoYpjO8m9eyYA6X8kxp6BtfkKjLOjqyfCAsJLMDYXq4kdODa2vwjxYPNu1GLsEB6wCJQ2XqAsEMFEFtuo8EegKF6CaasUacaKhkKYfSl;d6o+1FbP98ely7qTuESG7Q=="
 ---
 

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Miso Robotics' Series C Crowdfunding Campaign Opens, with more than $3.0M in Reservations and a Raise of More than $860,000 Underway"
-excerpt: "Miso Robotics announced today the official start of their Series C equity crowdfunding campaign, following SEC approval. The company"
-publishedDateTime: 2020-04-07T09:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/miso-robotics-series-c-crowdfunding-campaign-opens-with-more-than-3-0m-in-reservations-and-a-raise-of-more-than-860-000-underway-301036372.html"
+excerpt: "PRNewswire/ -- announced today the official start of their Series C equity crowdfunding campaign, following SEC approval. The company has already secured over"
+publishedDateTime: 2020-04-07T09:31:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/miso-robotics-series-c-crowdfunding-campaign-opens-with-more-than-3-0m-in-reservations-and/article_8af25b11-6404-5b28-b069-9f90e96b1228.html"
 type: article
 quality: 38
 heat: 38
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "Miso Robotics' Series C Crowdfunding Campaign Opens, with more than $3.0M in Reservations and a Raise of More than $860,000 Underway"
 
-secured: "FnA8jHNyPKuyaLBlTEGrzMuBZWCExbxbtmG7NZOPgB2+VU7GZb3zmUSr5cjQoUWQADwOxg6ONwXNqSNlPsipdxNUrqLqRd6LI8BSSq/CwoqAx5+dI8YqjC3X11yli+oC1HJykQDUsyGWMa27rHikUicVl/xtVYNakZe8UWAYh5II97SoNv5+j+nRDJHyRqLqumMAppY0yAsZNjcyW/vzMYNEUBpCrRuXkbaBpJ+FGf4YBM5sMSXoiuw++tgIpRI92yrb7uDyqQfLcmGw/vRK3v+Ib2vCApUMHhjKujCbRxPrL0z5KNHjPl7pO/mHXe00;mupLlUW84Q0sN8Zt2uWnSA=="
+secured: "nH6W/f7LQgx3qWNc7oDIIkUlcR6fMjrxWc+7k9GUQdStMejUgkWZg8mulaG+usxuuQfLNVV9VgTUZ4HCmAhVc3QgXxeVfwoznRclZxa6UMTpd/shfle9xI6U0lc3WRWjaTsLC4i5/6DCM1Bor4U98SKux8b8BapFaxGtMI4sloDWOdTgAdoxlaV/YREVnvZ2a4yDPaiyD5eJNfCtnsC7kFqdiDHM7TqaQt1BGAaZbpdfPJtUQIegm6pGzWJeeaJQWIa8lqyBwg8/OW5pQiuHBe37zq1jd2/QYHIuST2xg8AjIDDXcstUsSTZsmETRBmc;qbGRRRDXhcbI5+2LLp5TLg=="
 ---
 

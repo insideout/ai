@@ -5,8 +5,8 @@ excerpt: "via Joris Laarman for MX3D According to The Economist, 47% of the work
 publishedDateTime: 2020-04-08T11:37:00Z
 webUrl: "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.adsttc.com/media/images/5e8b/bf98/b357/6565/bb00/027c/large_jpg/Es_Devlin.jpg?1586216846"
@@ -23,6 +24,6 @@ images:
     height: 1333
     title: "When Machines Design: Artificial Intelligence and the Future of Aesthetics"
 
-secured: "JtQ0XLSVjh2pTJc8mPYATv6L3UgpJ/+WyV3hH6HAARBICjd56MKRfG/iQsKbv30KXcN3ksJnq06dxv8yf1cKVVyYe0Om8/vGJpfLILTu2Iawuxsv7tD9O+893kecwBF3732+K+UrVTuHz8ytDKj/af4qsyv7CFc0J2btJ3avWw9k29ulz9jhhAufY0qdjYbLAyQFTMMK6folg8uhj7E9Dmt9y/mQV9JYV5AVB4GhVE1P9zTW1ohm4FsohQqg7wKEt8CjaDgiLNN5PizGtnQWx71Hs8v3nD++C9lqjDCnhxpxK51m17AcDw/xNx/BSi0Q;Y4fuKJRfV5ZYnD+fZ9/zbQ=="
+secured: "ax8vQSIc2nlVfyUf/PpB3D+OPRRdOUoHItCvcmUIj4sFPg6320EH5Qj6Uy5ZBKehPn9RJEenOMqc6mZCKY4wjh11KGV2fIqQ51tuoVJznkUiysUSS9QExci/9irC+CQai0OzNl2SmU1WfYgdNMQVqdZDQXMG9qgKFMXZE4KjXy95doNWp1yi3b1MDZ+TQNnVVUa4lRZF3R9VMciBjoNZ4S7Ptg5M76u4c2mYIcALAswTsBTFmNpkFT13DEVnS9heD7ZiSPt0zQqQBPntNGhG4i29x3xS9ut9RNuqk2ReJaj3rLjoVjS34D9j2te75hZ0ASXDFgg72k6pw+UzzJWSelgkL59k0vYDB2nP932KED7YJnVRqgeXGSGQR6ksEzg+TJI8hQubfo3teiKRkNF/FPfhg46o/ChWUXKsU1p2Wd6sR7WhMu+riTChRtpJr+XtxQvQKVbshNLndhPL6LmOn+V5kwuflDndX2jw6K/4DLs=;hE1SeRFufumzl6EgNqvKbQ=="
 ---
 
