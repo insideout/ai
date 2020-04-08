@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -44,17 +44,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1165649734-e1585940050791.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
-  - title: "Artificial intelligence to predict which COVID-19 patients need ventilators"
-    excerpt: "Experts at the University of Copenhagen, Denmark, have begun using artificial intelligence to create computer models that calculate the risk of a corona patient's needing intensive care or a ventilator. As coronavirus patients are hospitalized, it is difficult for doctors to predict which of them will require intensive care and a respirator."
-    publishedDateTime: 2020-04-03T11:37:00Z
-    webUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-covid-patients-ventilators.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-04-artificial-intelligence-covid-patients-ventilators.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-artificial-intelligence-covid-patients-ventilators.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 35
 
 secured: "3GF/9xVuIi3F5RnmqSu1hKR+wHPz34z8YV0X1USuQSb6c62gJYlSMFvISJyFF9SydGrlhrwb2MLqZNKNAAyVWYks/bB7KSp8JFm1oJb90IVwTNOMjhl2lYb2FhnOPk0nbTCA+aQE7NBrdRohdw+LQwmnHQaxoZ6H9//Q2HdzACmfL2BZKQ23b2IQRLORW360JJJf3nHXvTFVjd87m55BtNjj4qVM/w33M0rrAoL748LyceHgxKYHvuK0yvIDmE0L0R/a4bJxWWHlZjJTgpcavBz4svlJTIgo/CiKufvbG8agVAym/SUiH3t+hWYjxTqzpKMo2n3GVcwywv54t8t7rgfHjXd1OwSrp6izSmLPMqYn21ZMNWqzKP++h7u9uKe3WL72Ob9F0K3QogA88BQpm9yC4egdmOuWL63D0+WDQOJYZtKVsT2QUzuSbS9ySXOyVPH8xKMHvtzMm121xTE9BMbqMAG4Aj+VjInM8FqRoAo=;Jt2K3ANCNasQukoj3ylP2A=="
 ---

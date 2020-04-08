@@ -37,6 +37,19 @@ related:
       - url: "https://www.bernama.com/storage/photos/90ac5c37cdd2e6780ca8ed5992cc5bef5e8d472157aeb"
         width: 1368
         height: 896
+  - title: "Dataiku 7 Enhances Integration With Microsoft 365 for Real-Time AI Collaboration at Scale"
+    excerpt: "Released on March 18 and available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis, and row-level explainability to promote white-box AI."
+    publishedDateTime: 2020-04-08T04:28:00Z
+    webUrl: "https://www.bernama.com/en/press/news.php?id=1829740"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 45
+    images:
+      - url: "https://www.bernama.com/storage/photos/e97305a74cef8dfea556fa46981f0c835e8d50596adc7"
+        width: 1100
+        height: 720
   - title: "UCL collaborates with IBM to use virtual reality to tackle loneliness"
     excerpt: "It uses Watson voice recognition capability – a part of Watson Speech services ... These projects are part of a wider international educational collaboration that makes use of IBM technologies such as IBM Cloud, IoT and AI to enable students to work on problems faced by real-world organisations. UCL said that having students work on ..."
     publishedDateTime: 2020-04-07T11:13:00Z

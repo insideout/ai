@@ -37,6 +37,19 @@ related:
       - url: "https://mms.businesswire.com/media/20200407005228/en/783642/23/Dataiku_MSFT.jpg"
         width: 1200
         height: 627
+  - title: "Dataiku 7 Enhances Integration With Microsoft 365 for Real-Time AI Collaboration at Scale"
+    excerpt: "Released on March 18 and available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis, and row-level explainability to promote white-box AI."
+    publishedDateTime: 2020-04-08T04:28:00Z
+    webUrl: "https://www.bernama.com/en/press/news.php?id=1829740"
+    type: article
+    provider:
+      name: bernama.com
+      domain: bernama.com
+    quality: 45
+    images:
+      - url: "https://www.bernama.com/storage/photos/e97305a74cef8dfea556fa46981f0c835e8d50596adc7"
+        width: 1100
+        height: 720
   - title: "UCL collaborates with IBM to use virtual reality to tackle loneliness"
     excerpt: "It uses Watson voice recognition capability – a part of Watson Speech services ... These projects are part of a wider international educational collaboration that makes use of IBM technologies such as IBM Cloud, IoT and AI to enable students to work on problems faced by real-world organisations. UCL said that having students work on ..."
     publishedDateTime: 2020-04-07T11:13:00Z
@@ -49,6 +62,6 @@ related:
       domain: computerweekly.com
     quality: 24
 
-secured: "eL5kUtB2lPQ3b3X+/9Q6xOWjLdRm1zNn7q1e/HlkNHMqLIHrYcrJ6PZK/ZWSNbuLUwkpCdEnoz6OihgT23D9JjBi7ert+w/D7iwfZ3NeieOHFBVObUrHCsSobZt4oMjowoL0mUXYtRardcigrQkz7G+Ww7I1coizExFqI/8VmCmAgba/ySNHiqF7qAXtKqqIDEdXSBM1/FfVw3T2Wk9KTqkBwZfgRcW6GPJREg88w6DXJa+xR4xaB7H6BWu/xWkEDDzNkoOeBDgTXho/pTCeqpAM8nQNSwLh9u9V/m2aMwlZ6B5ux9KfoF3BQLohOFjz;8guxEAkvWExo8XCzuVRpfg=="
+secured: "PP9Xr9/100IZnVQUzi28teqjh4GoAH7X4C4b10EFySPeyOt+VIpBeyW0/OuwPXi90yJFhphxeztwgCZzgBXGZm40D2HR8AYJUBN/qc0JKB/QeLNNPUZPHoDFJk4DMqNLkaPmWK0LGfZjFPCsnZRiFzLnwNfOKXatvKmDsZU/s8bhRpaJbniKPHWfCschW6OQHa/EqGL5Bze5igtCBjkAxnXsFp7DQeUs0+mIniLam5JM/kbRBy9NWoTgrFEejXUgZl0Ogdic10kEtbq50xoEvYNCCSVq0voFSHFuwXaiGLZ3+JDbUsWvGlQiu6sB5yhpj6AVMf/GAz7sTF8PKYf8ebz0tqr5+8eUyL5c0I/HKrok+kx2V4xW4MQ5RwnRWth9KcR9GuP5RRfcuH+pNJ6QIyOrB7T8qOSWYf7KxgkAVQO3opCkNiloALRQ5UmLD5PbFaX43M/XIOANsIy54WwkE2UXu6vYlsTdCqfOzTc7kHY=;4AO/A0OuqjHVB9If2HD1Bw=="
 ---
 
