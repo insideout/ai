@@ -18,32 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Machine-Learning Experts Delve Into 47,000 Papers on Coronavirus Family"
-    excerpt: "Hundreds of machine-learning experts are volunteering their time and expertise to help get medical researchers insights from around 47,000 scholarly papers going back decades on the family of coronaviruses, including the novel strain now traumatizing the world."
-    publishedDateTime: 2020-04-08T11:38:00Z
-    webUrl: "https://www.wsj.com/articles/machine-learning-experts-delve-into-47-000-papers-on-coronavirus-family-11586338201"
+  - title: "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak"
+    excerpt: "The coronavirus outbreak has forced retailers to focus more on sanitation while they are struggling to restock shelves and hire more employees. Some grocery stores are turning to floor cleaning robots for additional help."
+    publishedDateTime: 2020-04-09T03:14:00Z
+    webUrl: "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/"
+    ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://images.wsj.net/im-173977/social"
-        width: 1280
-        height: 640
-  - title: "Self-driving cars proving helping during coronavirus lockdowns"
-    excerpt: "While it may be more than a decade before self-driving cars become a common sight on public roads ... The shuttles run along routes isolated from pedestrians and general traffic and are still monitored remotely for safety. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge ..."
-    publishedDateTime: 2020-04-08T17:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1127745_self-driving-cars-proving-helping-during-coronavirus-lockdowns"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/self-driving-car-used-to-transport-medical-supplies-at-mayo-clinic-in-jacksonville-florida_100741899_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e71b1b4aaaa0006eceb13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3999"
+        width: 1200
+        height: 800
 
 secured: "ZPP7aatsvrSuuEHCLuezWZwAz4iLpT7cLacO0j8gLqU/idNTktpzAooyTiQDFWRQhv2PrB3VHT/nFdaxcmZsPApAW1H3Py7kIo9p6DmHsL4hGVypf8MKVU5sg52k2lRKN/O27xkjVqqkyIEu6Pb8Xo4DpQ87xSAtDTXsq0JhEUO5kXnQdJdXXNK/PhLOlRJmJFwu00BvS+0vtHjJmEWMd8B9IpZqllgNS5Rum1Swyv0nvpdpFzgoeyEFBeWhS3kolL4EDpDKFC3l01m6MgsVQxYZVltFWwwqmv0Z4kZDQAPcdx9zi4765r2vIkFhc1MW;Vzg7z5bwsH1HrjLdmOq1AA=="
 ---

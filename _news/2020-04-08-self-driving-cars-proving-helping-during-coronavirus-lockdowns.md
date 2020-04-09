@@ -37,15 +37,6 @@ related:
       - url: "https://images.wsj.net/im-173977/social"
         width: 1280
         height: 640
-  - title: "How Hospitals Are Transforming in Coronavirus Fight"
-    excerpt: "Stanford researchers and clinicians are exploring whether artificial intelligence could help manage a potential surge of COVID-19 patients ... Talkspace is donating 1,000 months of free online therapy to U.S. health care workers who are on the front lines responding to the COVID-19 outbreak. Jump Technologies has opened its inventory management ..."
-    publishedDateTime: 2020-04-08T21:08:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2020-04-08-how-hospitals-are-transforming-coronavirus"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 4
 
 secured: "VhpfiDUp4iml1Zpi/iRUpvzNxSDyfeoBaU7MP6CPWZMRCloCygoL5UXNPqMN3zb0KjazzFCdppyiUCYO25V+2uN0bXWdrkZmW0eU5sREg54IFCF/0Kwb3i2/Boj0eipZdaIcQCkMjNFWV0UDJ9NueyzzhCOWoeikR1bG3bl83Kgnddev0c7eoJErgDvSPJUWJ241ZKcSc7hhE8baBafcZVGMa81n5YIj8ZZX+FWvGxjIf4a/yp/1bvS8jYWWfMlU/cdZjvh5QnC5F5/xKGV9+v/lmMDOtnOJAKysvyfA+lCXf3Uz/4UBF8oSRiWfL5VzOSx+8/SSjL3jmftHJTAAB2H4NOx2IWfTp+XiCFIg6OyJJG32qZjY3n8ZJa0FrWkwg8TigGQx/cLUB4r+ci6gMPFX3sIrekdHHpWsdFIzeXYXMCCmO3CF+A35uXhG5hkdjrgcqL2+gytyofgE1OJDz0ELijLpYUElDWw8wbRdnt4=;h+kkdNCLin+qzv/Lrp2uAw=="
 ---

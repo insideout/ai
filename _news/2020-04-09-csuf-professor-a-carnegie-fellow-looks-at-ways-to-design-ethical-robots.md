@@ -25,6 +25,6 @@ images:
     height: 575
     title: "CSUF professor, a Carnegie fellow, looks at ways to design ethical robots"
 
-secured: "ZtcRI66xmdp2vKgPELac5ah5U5LMjRt9SdAcAOMO2u3DsmRmOTueoAeWuzdT1SWMyEKFyyOdW4GYwTOgYpytpu3sNkdMnvRm3t+bwxNVte4+g0zlslUro20Bk1CGBARJLMgeixRvX8JzekBylAzgX2HcWDJSIKMXypkxdUmb864LVkffZVjlRCgAAGUvGTDAoskg7XJld8VRdbuS1TmDSW9sFK82Urs9q6b2HGvhuZ/DWoJFoj6AaL+ZFjUwq95mdS6QtcWb7Jr2YTwALphvPBWnv5NidexMSSz/b5csSnzCsAnaa2FRdaIjtOM4aaCy;FDGkAW/efOA/e90MC6noBw=="
+secured: "iVh77ER+kr6Jz6FagBnsOMvvK/MkX45aoz1dq17fM6UXvb61Tgnxh9obm0AGBvbcYM4Aya/rhp9QcIbUA5tAyxRlllw8cKhZ2AP+J4B23UHw111T7lTlE6yLdwGkgdxFxJJE/CUHjxlFeN688CsTBTsjWC8wdlF3nC42F6g46Z+7PZQyDLTfmxDojWqtF7yV9rwEgnyd9SKklGPc6a0CIhLNw3FH/Iq/8hL2yyrS4yZntczqNrsx+NhwvwS3+Lnhqzn/toNCwwf2XWaOc7/NaWZ1lhwuZIjY8VKHl6pPBO/IbPcIjYRzIlCBCp3/69IeD4nN1n0rcsag+gvkaZ7p//MBGNaf0oCNJBMQgE/j1+7NxTBP2Bw+UIjJSyb+vDas4Wb7hmr+hpC0d4uecShbUj66rcZqADZeoVHvGdUhGdwXHPAQPC8YDWaaJ81BhY7NEQbVb4avolRU5gqb7+EpgLJvYVwVS9brCJvKZ/TY6/I=;z/SjP4H2YfnGC5bWSqDLhw=="
 ---
 
