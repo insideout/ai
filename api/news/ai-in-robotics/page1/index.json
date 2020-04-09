@@ -2,30 +2,30 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-09-robots-hailed-as-heroes-in-war-on-coronavirus.md",
-      "title": "Robots hailed as heroes in war on coronavirus",
-      "excerpt": "Long maligned as job-stealers and aspiring overlords, robots are being increasingly relied on as fast, efficient, contagion-proof champions in the war against the deadly coronavirus.",
-      "heat": 84,
+      "path": "_news/2020-04-09-robots-may-become-heroes-in-war-on-coronavirus.md",
+      "title": "Robots may become heroes in war on coronavirus",
+      "excerpt": "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ...",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.thestar.com.my/news/regional/2020/04/09/robots-hailed-as-heroes-in-war-on-coronavirus",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T20:53:00-07:00",
+      "webUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/",
+      "ampWebUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/",
+      "publishedDateTime": "2020-04-09T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/04/09/637323.jpg",
-          "width": 400,
-          "height": 267,
-          "title": "Robots hailed as heroes in war on coronavirus",
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/04/Coronavirus-Robot-with-Hospital-Staff.jpeg",
+          "width": 640,
+          "height": 379,
+          "title": "Robots may become heroes in war on coronavirus",
           "attribution": null
         }
       ],

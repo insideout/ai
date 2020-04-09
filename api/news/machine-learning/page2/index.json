@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
+      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
+      "publishedDateTime": "2020-03-27T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
       "title": "Google releases Semantic Reactor for natural language understanding experimentation",
       "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
@@ -1166,43 +1212,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
-      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
-      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mandarin",
-        "domain": "themandarin.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
-          "width": 795,
-          "height": 530,
-          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Nuro cleared to test self-driving delivery vehicles in California"
 
 related:
+  - title: "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California"
+    excerpt: "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ..."
+    publishedDateTime: 2020-04-09T13:32:00Z
+    webUrl: "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california"
+    ampWebUrl: "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg"
+        width: 1120
+        height: 630
   - title: "Self-Driving Car Company Lays Off All Its Human Safety Drivers"
     excerpt: "The self-driving car startup Zoox just laid off all 120-something of its human safety drivers — and announced that it’s suspending all driving tests because of the coronavirus pandemic. Zoox has been testing its autonomous cars on the streets of California and Las Vegas, but can’t safely continue given California’s stated shelter-in ..."
     publishedDateTime: 2020-04-08T15:57:00Z

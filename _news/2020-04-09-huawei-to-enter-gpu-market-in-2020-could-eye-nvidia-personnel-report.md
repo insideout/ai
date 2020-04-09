@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bgr.in/news/huawei-to-enter-gpu-market-in-2020-could-eye
 cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/huawei-to-enter-gpu-market-in-2020-could-eye-nvidia-personnel-report-885012/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 456
     title: "Huawei to enter GPU market in 2020, could eye Nvidia personnel: Report"
 
-related:
-  - title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
-    excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), and by End User - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. This report carries out ..."
-    publishedDateTime: 2020-04-09T11:22:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15773783"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 17
-
-secured: "/6EG/Gwyx9WHfI3SB5XRlpTuQh9W39gXS3JFI6pxVRagidwOu0ywINLzH0/90bAW3ttGv2MYfuCzc4TbXWBSI9MjIpoItRV13qGz22VQyPpJ0NqTiwYF+w4dmqEF0Hr6oRCSSD/t/EgloHSJmD3k+P20/LQOxhdeahF2T5Pf8BbKpZaHeRzf8Xoryv4LtDk0ixlm+BYzP0bV8WPfurcUGM1nlMGY6sES0vEbHbAF1g5numzMFoGOy3/XhZwBjU4JKAhxf2sdu7TL58ZP39pUwZQ/Wai9yi7jvDrsn9kC5pd7k9c7Nr7+2wwQPOvG8y0l;n8zny34gZveiqjotDvw2mw=="
+secured: "0itNZ5M9gD0CEQZkWRmg74K1yaeNxnPm+CMvLzZ+e3rYsYuDwsG68USBiCyee15loKBPZP7iMws2je9rIPbFN8OiK/bwF7YXWLxZCfWGi5t1CsvRKEKu1xTWRDDi0DAbTd8D3Ea5ODjHTsUbAUwsFLjBMVTJm12mxrUWyaX7CWWt8frkmzdGBcnMprlPkZRwhYHzZjIHIB0lA1KVTBmLl995JR5Yri6QwfmS6Co39GEnnZtljxpbqq261oS71xkJR9lffEdDaT+LyQzIFThuFOlTJSuzUmAypP4o6o++ycW7e+60Qr6PO/iSbNk+VcGKKio5ncnbGVIETkUNFUsaLNeyhW65V0QllblullmL2Xx8DsErk5qLTFxGkDXXyPlW5G6voGnb0cjVGKiUX86M/mLAp8KlNS5sq9CnfhNOD3p8f8SEbwyL/E+IRhWEK2TNP4p6W4Stp00U6qsndGPzeKqSe0768QxevvnS/tgqc30=;T4xZbqA6aPcRvHH8/pnPBQ=="
 ---
 

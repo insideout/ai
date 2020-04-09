@@ -2,6 +2,139 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
+      "title": "Why AI startups’ economics will likely improve over time",
+      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
+      "publishedDateTime": "2020-04-06T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Why AI startups’ economics will likely improve over time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
+      "title": "Microsoft Azure Speech to Text review",
+      "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft Azure Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans.md",
+      "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
+      "excerpt": "AI has revealed that mice have a range of facial expressions that show they feel — offering fresh clues about how emotional responses arise in human brains. Scientists at the Max Planck Institute of Neurobiology in Germany made the discovery by recording the faces of lab mice when they were exposed to different stimuli, such as sweet flavors ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
+      "publishedDateTime": "2020-04-06T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design51-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
       "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
       "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
@@ -1172,138 +1305,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-blackbirdai-ceo-covid-19-is-the-olympics-of-disinformation.md",
-      "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
-      "excerpt": "According to a new report from Blackbird.AI, a wide range of actors are leveraging confusion around the coronavirus to dupe people into amplifying false and misleading information. With COVID-19’s almost unprecedented impact around the globe, virtually every type of player in the disinformation wars, from nations to private actors ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
-      "publishedDateTime": "2020-04-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/blackbird.png?fit=1200%2C601&strip=all",
-          "width": 1200,
-          "height": 601,
-          "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators.md",
-      "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
-      "excerpt": "Computer scientists from the University of Copenhagen are using AI to calculate which coronavirus patients need ventilators and intensive care. The system will help doctors identify the symptoms that seriously ill patients have in common. Hospitals could use the insights provided by the AI to work how many patients will need a ventilator at ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/",
-      "publishedDateTime": "2020-04-03T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design50-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
-      "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-      "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "publishedDateTime": "2020-04-03T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103262515-GettyImages-468904608.jpg?v=1450870935",
-          "width": 4000,
-          "height": 2667,
-          "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

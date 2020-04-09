@@ -2,6 +2,125 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
+      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
+      "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+      "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.salon.com/2020/03/15/aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology_partner/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.salon.com/2014/09/surveillance_camera.jpg",
+          "width": 620,
+          "height": 412,
+          "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan.md",
+      "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+      "excerpt": "Furthermore, AMD-centric nodes will also be upgraded to speed up artificial intelligence (AI) and machine learning (ML) workloads, for extensive research, analysis, and computing technology that will be beneficial to NNSA endeavors. ‘The El Capitan supercomputer will benchmark on HP’s next-gen AMD EPYC CPU and Radeon Instinct GPU to enhance ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://happygamer.com/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "ampWebUrl": "https://happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "cdnAmpWebUrl": "https://happygamer-com.cdn.ampproject.org/c/s/happygamer.com/amp/amd-epyc-cpu-partners-with-radeon-instinct-gpu-in-conjunction-with-llnl-to-build-the-fastest-of-supercomputers-el-capitan-58697/",
+      "publishedDateTime": "2020-03-15T03:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HappyGamer",
+        "domain": "happygamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://happygamer.com/wp-content/uploads/2020/03/45af85dee2cfbe420edf4ac7c8a435b0.jpg",
+          "width": 1990,
+          "height": 1098,
+          "title": "AMD EPYC CPU Partners With Radeon Instinct GPU In Conjunction With LLNL To Build the Fastest of Supercomputers; El Capitan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-tra-attains-cips-corporate-ethics-mark-reinforcing-the-organizations-commitment-to-ethical-sourcing-and-supplier-management.md",
       "title": "TRA attains CIPS Corporate Ethics mark, reinforcing the organization's commitment to ethical sourcing and supplier management",
       "excerpt": "This mark is highly regarded as an indicator of key global practice in the procurement and supply profession, especially in dealing with suppliers and partners while ensuring transparency and professional ethics. Commenting on this ... of the Fourth Industrial Revolution (4IR) and Artificial Intelligence (AI). Our success depends mainly on ...",
@@ -1071,134 +1190,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-the-evolution-of-artificial-intelligence-and-future-of-national-security.md",
-      "title": "The Evolution of Artificial Intelligence and Future of National Security",
-      "excerpt": "Artificial intelligence is all the rage these days. In the popular media, regular cyber systems seem almost passe, as writers focus on AI and conjure up images of everything from real-life Terminator robots to more benign companions. In intelligence circles, China’s uses of closed-circuit television, facial recognition technology, and other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nationalinterest.org/feature/evolution-artificial-intelligence-and-future-national-security-133032",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/2019-12-23T111943Z_1_LYNXMPEFBM0MR_RTROPTP_4_CHINA-INTERNET.JPG.jpg",
-          "width": 1386,
-          "height": 924,
-          "title": "The Evolution of Artificial Intelligence and Future of National Security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-robotics-vs-artificial-intelligence-what-is-the-difference.md",
-      "title": "Robotics Vs. Artificial Intelligence: What is the difference?",
-      "excerpt": "We answer this fundamental question. Robotics and artificial intelligence serve very different purposes. However, people often get them mixed up. A lot of people wonder if robotics is a subset of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@nanduribalajee/robotics-vs-artificial-intelligence-what-is-the-difference-6adad236d997",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/600/0*AnavoMeuzBPQbLHE.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Robotics Vs. Artificial Intelligence: What is the difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill.md",
-      "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-      "excerpt": "Scientists at the Massachusetts Institute of Technology and Harvard last month described in the scholarly journal Cell how they used a deep learning neural network to identify a molecular compound that's different from most antibiotics. They showed that when the compound is injected in mice, it fights bacteria that no existing drug can eliminate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "publishedDateTime": "2020-03-13T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/03/13/b98e832c-157c-4938-8c1e-6b692877d498/mit-chemprop-building-representations.png",
-          "width": 1766,
-          "height": 1207,
-          "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,10 +2,142 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-09-google-releases-simclr-an-ai-framework-that-can-classify-images-with-limited-labeled-data.md",
+      "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
+      "excerpt": "A team of Google researchers recently detailed a framework called SimCLR, which improves previous approaches to self-supervised learning, a family of techniques for converting an unsupervised learning problem (i.e., a problem in which AI models train on unlabeled data) into a supervised one by creating labels from unlabeled data sets.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
+      "publishedDateTime": "2020-04-09T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai.md",
+      "title": "Ferrum raises $9 million to prevent medical mistakes with AI",
+      "excerpt": "Ferrum, a startup developing an AI patient safety platform to prevent medical errors, today announced that it secured $9 million in seed funding. According to CEO Pelu Tran, who’s also a technology pioneer at the World Economic Forum, the plan is to use the capital infusion to refine the company’s product as Ferrum makes engineering ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/09/ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/09/ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/ferrum-raises-9-million-to-prevent-medical-mistakes-with-ai/amp/",
+      "publishedDateTime": "2020-04-09T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Ferrum raises $9 million to prevent medical mistakes with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-will-product-designers-survive-the-ai-revolution.md",
+      "title": "Will product designers survive the AI revolution?",
+      "excerpt": "Did you know TNW Conference has a track fully dedicated to exploring new design trends this year? Check out the full ‘Sprint’ program here. “Our intelligence is what makes us human, and AI is an extension of that quality.” ― Yann LeCun The human species has performed incredible feats of ingenuity. We have created beautiful sculptures ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
+      "publishedDateTime": "2020-04-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-14-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Will product designers survive the AI revolution?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
       "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
       "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
-      "heat": 90,
+      "heat": 142,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
@@ -28,13 +160,59 @@
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
       ],
       "topics": [
         "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-robots-may-become-heroes-in-war-on-coronavirus.md",
+      "title": "Robots may become heroes in war on coronavirus",
+      "excerpt": "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/",
+      "ampWebUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/",
+      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/",
+      "publishedDateTime": "2020-04-09T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Raw Story",
+        "domain": "rawstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rawstory.com/wp-content/uploads/2020/04/Coronavirus-Robot-with-Hospital-Staff.jpeg",
+          "width": 640,
+          "height": 379,
+          "title": "Robots may become heroes in war on coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -168,43 +346,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-hailed-as-heroes-in-war-on-coronavirus.md",
-      "title": "Robots hailed as heroes in war on coronavirus",
-      "excerpt": "Long maligned as job-stealers and aspiring overlords, robots are being increasingly relied on as fast, efficient, contagion-proof champions in the war against the deadly coronavirus.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com.my/news/regional/2020/04/09/robots-hailed-as-heroes-in-war-on-coronavirus",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T20:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/04/09/637323.jpg",
-          "width": 400,
-          "height": 267,
-          "title": "Robots hailed as heroes in war on coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -390,7 +531,7 @@
       "path": "_news/2020-04-08-nuro-cleared-to-test-self-driving-delivery-vehicles-in-california.md",
       "title": "Nuro cleared to test self-driving delivery vehicles in California",
       "excerpt": "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,",
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
@@ -952,132 +1093,6 @@
           "width": 1024,
           "height": 575,
           "title": "Builder.ai launches pre-packaged apps for small businesses hit by COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
-      "title": "Researchers teach robots to move more like animals",
-      "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/",
-      "ampWebUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
-      "publishedDateTime": "2020-04-08T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/robot-motion.jpg",
-          "width": 1280,
-          "height": 608,
-          "title": "Researchers teach robots to move more like animals",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-blackrock-and-microsoft-partner-to-host-aladdin-on-azure.md",
-      "title": "Blackrock and Microsoft Partner to Host Aladdin on Azure",
-      "excerpt": "The Microsoft Azure platform helps support the increasing need institutions currently have ... in understanding the impact of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financemagnates.com/institutional-forex/technology/blackrock-and-microsoft-partner-to-host-aladdin-on-azure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2016/03/BlackRock.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Blackrock and Microsoft Partner to Host Aladdin on Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-coreldraw-graphics-suite-2020-review-faster-with-more-ai-and-added-collaboration.md",
-      "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
-      "excerpt": "Since moving to annual updates, CorelDRAW has been getting one or two strong features in each release. In the 2020 release, which costs £299 a year or £599 as a one-time purchase, that includes using machine learning to improve several features. This isn't an attempt to deliver automatic designs, but to make designers more productive. Expert ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/coreldraw-graphics-suite-2020/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
-      "publishedDateTime": "2020-04-08T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/08/a05bd86c-08f6-40c9-93cc-b4cfbf01484d/coreldraw-gs-2020-powertrace.jpg",
-          "width": 770,
-          "height": 500,
-          "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
           "attribution": null
         }
       ],

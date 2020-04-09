@@ -2,6 +2,131 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
+      "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+      "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "publishedDateTime": "2020-04-01T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
+      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
+      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
+      "publishedDateTime": "2020-04-01T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
+      "title": "ACM Prize in Computing Awarded to AlphaGo Developer",
+      "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized as a central figure in the growing and impactful area of deep reinforcement learning. Silver’s most highly publicized achievement was leading the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/off-the-wire/acm-prize-in-computing-awarded-to-alphago-developer/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/coronavirus_stonybrook.fw_-405x228.png",
+          "width": 405,
+          "height": 228,
+          "title": "ACM Prize in Computing Awarded to AlphaGo Developer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-terrifying-things-happen-when-an-ai-generates-fake-faces-synced-to-music.md",
       "title": "Terrifying Things Happen When an AI Generates Fake Faces Synced to Music",
       "excerpt": "We’re still trying to figure out the best applications for neural networks, machine learning, and all the recent advancements in artificial intelligence. Amongst all the practical research being conducted, there’s also lots of frivolous experimentation being done with results that walk the line between fascinating and terrifying. Automated ...",
@@ -1179,140 +1304,6 @@
           "width": 1200,
           "height": 600,
           "title": "Babylon Health claims its AI appropriately triages patients in 85% of cases",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-ibm-ai-brandvoice-4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience.md",
-      "title": "IBM AI BrandVoice: 4 Steps Financial Services Firms Can Take With AI To Improve Customer Experience",
-      "excerpt": "AI promises nothing short of a CX revolution ... summoned cleansed and well-structured data from its inception. Powered by IBM Watson Assistant, Red was originally designed to help with basic ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
-      "ampWebUrl": "https://www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/amp/",
-      "publishedDateTime": "2020-03-31T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8357cc2814680006860b23%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1120%26cropY1%3D0%26cropY2%3D630",
-          "width": 1121,
-          "height": 630,
-          "title": "IBM AI BrandVoice: 4 Steps Financial Services Firms Can Take With AI To Improve Customer Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-perceive-claims-20-100x-ai-efficiency-at-the-edge.md",
-      "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
-      "excerpt": "Analyst Karl Freund examines Perceive Corporation's recently unveiled Ergo chip and what it could mean for AI processing at the edge.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
-      "publishedDateTime": "2020-03-31T12:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839a3c458d700006815131%2F0x0.jpg",
-          "width": 1200,
-          "height": 680,
-          "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-niantic-buys-a-3d-mapping-startup-to-enable-planet-scale-ar.md",
-      "title": "Niantic buys a 3D mapping startup to enable 'planet-scale' AR",
-      "excerpt": "6D.ai could lead to advanced 'Pokémon Go' and 'Harry Potter' experiences. As much as Niantic might be focused on making its location-based games more playable at home, it's also thinking about its future. The developer has bought 3D mapping startup 6D.ai to help it develop \"planet-scale\" augmented reality. The relative newcomer's work on 3D ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html",
-      "publishedDateTime": "2020-03-31T12:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3036%252C2024%252C0%252C437%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252Fd04640c0-737e-11ea-9dff-176976237dce%26client%3Da1acac3e1b3290917d92%26signature%3D05f6e5bee53c87fa7782f5bd30e54e16214bca60&client=amp-blogside-v2&signature=1130282829e8ab78a03f3096b28b109465fbdf37",
-          "width": 600,
-          "height": 350,
-          "title": "Niantic buys a 3D mapping startup to enable 'planet-scale' AR",
           "attribution": null
         }
       ],

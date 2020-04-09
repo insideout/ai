@@ -2,6 +2,132 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-researchers-teach-robots-to-move-more-like-animals.md",
+      "title": "Researchers teach robots to move more like animals",
+      "excerpt": "Some of the things they’re able to do are very impressive. A group of researchers at the Berkeley Artificial Intelligence Research (BAIR) laboratory at Berkeley are trying to teach robots to move like animals. The scientists say that they have presented a framework for learning robotic locomotion skills by imitating animals. Using a reference ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/",
+      "ampWebUrl": "https://www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/researchers-teach-robots-to-move-more-like-animals-08615942/amp/",
+      "publishedDateTime": "2020-04-08T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/robot-motion.jpg",
+          "width": 1280,
+          "height": 608,
+          "title": "Researchers teach robots to move more like animals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-blackrock-and-microsoft-partner-to-host-aladdin-on-azure.md",
+      "title": "Blackrock and Microsoft Partner to Host Aladdin on Azure",
+      "excerpt": "The Microsoft Azure platform helps support the increasing need institutions currently have ... in understanding the impact of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financemagnates.com/institutional-forex/technology/blackrock-and-microsoft-partner-to-host-aladdin-on-azure/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2016/03/BlackRock.jpg",
+          "width": 880,
+          "height": 400,
+          "title": "Blackrock and Microsoft Partner to Host Aladdin on Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-coreldraw-graphics-suite-2020-review-faster-with-more-ai-and-added-collaboration.md",
+      "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
+      "excerpt": "Since moving to annual updates, CorelDRAW has been getting one or two strong features in each release. In the 2020 release, which costs £299 a year or £599 as a one-time purchase, that includes using machine learning to improve several features. This isn't an attempt to deliver automatic designs, but to make designers more productive. Expert ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/product/coreldraw-graphics-suite-2020/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/coreldraw-graphics-suite-2020/",
+      "publishedDateTime": "2020-04-08T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/08/a05bd86c-08f6-40c9-93cc-b4cfbf01484d/coreldraw-gs-2020-powertrace.jpg",
+          "width": 770,
+          "height": 500,
+          "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19.md",
       "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
       "excerpt": "The AI company Black Swan Data has turned its skills to help clinicians, researchers and the medical community in their work on analysing COVID-19.",
@@ -945,143 +1071,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-tenstorrent-launches-ai-chip-with-conditional-execution.md",
-      "title": "Tenstorrent Launches AI Chip With Conditional Execution",
-      "excerpt": "Analyst Karl Freund gives his take on the Cambrian Explosion of new AI chips and how the bar will continue to creep higher. The latest entrant to emerge from Stealth is Canada’s Tenstorrent, who has some aggressive optimizations that make them stand out in the crowd.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
-      "publishedDateTime": "2020-04-07T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8cacf5e9952f0006c612e3%2F0x0.jpg",
-          "width": 563,
-          "height": 291,
-          "title": "Tenstorrent Launches AI Chip With Conditional Execution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-machine-learning-marketmarket-size-market-status-top-key-players-and-forecasts-2017-2023.md",
-      "title": "Machine learning market:Market Size, Market Status, Top key players, and Forecasts 2017-2023",
-      "excerpt": "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-marketmarket-size-market-status-top-key-players-and-forecasts-2017-2023-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine learning market:Market Size, Market Status, Top key players, and Forecasts 2017-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-north-america-machine-learning-market-analysis-by-top-companies-driver.md",
-      "title": "North America Machine Learning Market Analysis by Top Companies, Driver",
-      "excerpt": "The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-machine-learning-market-analysis-by-top-companies-driver-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "North America Machine Learning Market Analysis by Top Companies, Driver",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

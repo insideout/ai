@@ -41,6 +41,21 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg"
         width: 1200
         height: 630
+  - title: "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California"
+    excerpt: "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ..."
+    publishedDateTime: 2020-04-09T13:32:00Z
+    webUrl: "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california"
+    ampWebUrl: "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 74
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg"
+        width: 1120
+        height: 630
 
 secured: "0EZK737CyKcU+lZVfUC+8Ai0wn1TYWt6GQCh351pBmbkqrcAXAr+oN1riPd545/VLrnfcZ9Kx5NZFZ9Npm0hFXbrX4RmkYIvcrwOiVPgNy6GjhrtvlNVz57h0dbvsN3WhQX5HK+KZnnMdvJ86Qw/D/NcMISUFWRqzZMUl1wbXhDPCZt4/BtZNLNSRDiEQgPdYs5yfp96AwIT5FLEpuAeM7Pq0pQm3Poil5WvP9x4s1KgLVvxn1cE+eBRyM3pEeomLHm3oN4GIXQnj1RCH2NjY+k+4nMpDz6l3bbA+ylCwB9Iw/G0DyHwHGHBRlABmrL0fH58oxi2aCQw7JzGoYKqt7V/WWOH83RbGEGEHv+ZAGq0yM0ql+UAQpBCNjAYgRfj8eTMmhoiKjRZXCUTmoe6CacBgh1o1bV/9Y3cLy2j/kJz6xx8p1ZzxZfYiOEo+JsQY71TVJ6XOSIdu3y+FXGw3gDq5+XqD+ap6LuQtI5oX4Q=;i8tk8TXObhaqcoJ4dsTv0Q=="
 ---

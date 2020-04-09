@@ -1,42 +1,27 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
-excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language Processing), Application (Warehouse, Fleet, Inventory Management), and by End User - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. This report carries out ..."
+excerpt: "11. Company Profiles (Business Overview, Financial Overview, Product Portfolio, Strategic Developments)"
 publishedDateTime: 2020-04-09T11:22:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15773783"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783"
+webUrl: "https://www.heraldstandard.com/business_ap/global-artificial-intelligence-in-supply-chain-market-2020-to-2027---by-component-technology/article_74cc3c04-1e8b-5e26-b959-62675d76a006.html"
 type: article
-quality: 17
-heat: -1
+quality: 13
+heat: 13
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Herald-Standard
+  domain: heraldstandard.com
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI in Healthcare
 
-related:
-  - title: "Huawei to enter GPU market in 2020, could eye Nvidia personnel: Report"
-    excerpt: "As per reports straight out of South Korea, Huawei is currently setting up a new department to enter the GPU market. The market is currently dominated by US-based Nvidia. The report adds that with AI and cloud computing being worked on, GPUs are the company’s next target. Further, it even suggests the brand may be looking forward to ..."
-    publishedDateTime: 2020-04-09T11:28:00Z
-    webUrl: "https://www.bgr.in/news/huawei-to-enter-gpu-market-in-2020-could-eye-nvidia-personnel-report-885012/"
-    ampWebUrl: "https://www.bgr.in/news/huawei-to-enter-gpu-market-in-2020-could-eye-nvidia-personnel-report-885012/amp/"
-    cdnAmpWebUrl: "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/huawei-to-enter-gpu-market-in-2020-could-eye-nvidia-personnel-report-885012/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: www.bgr.in
-    quality: 59
-    images:
-      - url: "https://st1.bgr.in/wp-content/uploads/2020/01/Huawei.jpg"
-        width: 805
-        height: 456
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg"
+    width: 1200
+    height: 630
+    title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
 
-secured: "/uUwPE5EF0rBwmsxriobP2H1GQtJxuOjOFssIurxehMMO2k+RyX5eRWjHwFH6072ozj5snglCPjbP8qXaCOfC7ndyEUlRs3rfVmh8p/+FDefKx8C6HYPojeY296IR+meeebTO9w4Ds7/3eYLGX2UEBygTL1hSJ04NnMSg8ucv5cn+CbAmYXj3L2UnBhl+htubOSgCChGQi73nmEGe26aQPG/eFjb8AOfyIg/yDxWd3y++6qTKRViy2qotcXOuLoLn0+nOKC2YertotNZmbuUDqMGBQvjGhYnZ84ruLvaThuQT+uxN4L88QQcEeH5QkIk;WaDATI+VKFDTERJfkxt7QA=="
+secured: "zSoGLPT873+ct3B3IhDeFaTUphMIMuGv61u6FU4T0Tr1q3DuVMFgS+Zk3k2e06sqwDqsX73f2omll4VyNJkflSqvPVlzt2j9PteRAhmdAy1g5GsB0PLD44I6TiG1AaE/9/5Dv3WKrP9ObBj/X4waqj3gd9ngYkif2+PWxaISwV/Bt/3jTcrubk7p3b+TmdyCB63O5z2km4+2XPOXhvv+OhdWaukPxbwjXyPTDl/i2iwcZAcki3da5XbiX0xmMIgaFc5pAbgH2EiGVToUx2Z8uvttiy1bOseC1vb2y/RLqPZ271Dxj11wmGblffp7gXrb;QL2g7fuigPL8YrayRS+CrQ=="
 ---
 

@@ -34,7 +34,52 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 80
+    quality: 102
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png"
+        width: 1200
+        height: 675
+  - title: "Coronavirus: Google Duplex AI arrives in UK to ask about opening hours"
+    excerpt: "Google’s AI phone assistant Duplex is contacting businesses across the UK and asking them what their coronavirus business hours are. It is using the responses to update company listings shown on Google Search and Google Maps. The Duplex AI assistant can be used by people in the US and New Zealand to make restaurant bookings and other ..."
+    publishedDateTime: 2020-04-09T13:30:00Z
+    webUrl: "https://www.bbc.com/news/technology-52232121"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-52232121"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52232121"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 87
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A106/production/_111722214_google_assistant_button.jpg"
+        width: 1024
+        height: 576
+  - title: "Open-source AI tool aims to help identify coronavirus infections"
+    excerpt: "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold."
+    publishedDateTime: 2020-04-09T13:49:00Z
+    webUrl: "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg"
+        width: 1200
+        height: 675
+  - title: "The ethics of developing COVID-19 treatments and vaccination"
+    excerpt: "One strategy to expedite the vaccine process for COVID-19 is turning to the power of artificial intelligence (AI). London's colleague, Carnegie Mellon professor David Danks, looks at the intersection of ethics and machine learning. He's seeing no shortage of worldwide suggestions of how AI may play a role in helping to find quick treatments and ..."
+    publishedDateTime: 2020-04-09T13:35:00Z
+    webUrl: "https://medicalxpress.com/news/2020-04-ethics-covid-treatments-vaccination.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-04-ethics-covid-treatments-vaccination.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-ethics-covid-treatments-vaccination.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
 
 secured: "91D3NX39bcXQfpngg/sR68hE/V910exdjiIUE/2rSC5LB/bjds6K2CqyJP4hGOBRKG5HIiLYqxUiSJ5YURTIYlTiZoe+pusUdHsoOSruIngjVdbj5C15eh/lQvHt2eFx/G8K05PTr2fH7ZK7+y9fuhXZLTcgJ2SpnOmERBQmkJg7NK/KqdEZqZw3r8SvqcYioB5gC4LWI0fb1v5f0G2Gq0tX6emfff7BaDp8cLx1avHGzGb49bmVJGR0aVpa22XL9d1cy0XbfNVlJP4mQuFiaxK4mRPOdJ+L+b5y74wcsAYlkdJeZzFfBBF68hotNqH5PRfeZAfIvk/UTmHHHUh7X0zmO+okSAqmhS4prwnevuFOY/B6Abp3y+8DHsed5Bt8ffp8tZfpVlWNTW9yG1VoElVr6JRRIXhJdbSQyhALTF/LX2athDg3abe/grhd0sSiOq7AKuSo+Xf0vFIYMueoOwZ1Q22q+VMpiepKjMywXO0=;Rvh0r1CCs7x7JeldtnPQ3A=="
 ---
