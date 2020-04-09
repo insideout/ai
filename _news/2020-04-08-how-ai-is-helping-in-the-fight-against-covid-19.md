@@ -1,21 +1,21 @@
 ---
 category: news
 title: "How AI Is Helping in the Fight Against COVID-19"
-excerpt: "The final report is sent out to BlueDot’s customers, such as governments and businesses. In addition to hotspots, the AI can also predict the spread of infectious and contagious diseases using flight data and movement patterns. BlueDot successfully predicted several cities where COVID-19 would first spread, after it surfaced in Wuhan."
-publishedDateTime: 2020-04-08T14:51:00Z
-webUrl: "https://www.entrepreneur.com/article/348941"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/348941"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348941"
+excerpt: "Alex Wong, chief scientist at DarwinAI, says there are subtle differences between COVID-19 and other infections that radiologists might not notice when examining chest X-rays. “The hope here with COVID-Net is that we can leverage AI (specifically, deep ..."
+publishedDateTime: 2020-04-08T15:22:00Z
+webUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19"
+ampWebUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
+cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
 type: article
 quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
+  name: PC Magazine
+  domain: pcmag.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/20200408145111-coronavirus.jpeg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://i.pcmag.com/imagery/articles/04pW8GvHEUrDEqDfx9OnW9G-1.fit_lim.size_1200x630.v_1586193798.jpg"
+    width: 1120
+    height: 630
     title: "How AI Is Helping in the Fight Against COVID-19"
 
 related:
@@ -45,6 +45,6 @@ related:
         width: 630
         height: 420
 
-secured: "jazmChrlx1cATSYEimdmrYPjw6Ve+OXmAHnLGzGyI3pdwddyn7sxfdnd0is17VcALOTmLTN2UTCXhebcAqt3Wn2aUqaGTCx65/w9Ki3dF73XGCq8lW1c2WhxpRMm8FitHJtInBS2YbpOc/mEziDaPLJuir7K+0vn7TKinGlwN/B31aQqSzGL1fkCS/ERWcUAbKroAKptwhQrMRvZ09rtnkDy5faTh07hzbXZrdWgOU6Uu166fZhdQAdt+497rL/XxUfYEbGMBixAd46Nrxldt5WurEgPBqqdg0VU4oZcaarwM4GML8UC2IUWdZPsO0qkMxbv454vmjgN21BNBjp58u4KcpLHJc1/3sNVtSSVELdJTeVLb4lrQxNOb/Loxj7dQqwQz6z44LValZr4+6qMKpcvbNH5D4rN8W6VhfHWVUx6LFRqTN/5Z6FpSMRmCNupLtdBMGqXAFVkqlL7zM1OQ3o9/x3a5QHE5N3libO7Mo8=;QyTApOjaSiWjR2rORWhejw=="
+secured: "QKrXiYqeyWjP4rnLr/nvvI2pZlGi3gniRzZevOLFGGfeCCnbBvUckg9afaQrgdj+WDRH/px3thSk/8nx/lTPej/P9YqAdvcpFOvjs5C2VtwUnws+BPmpLKqJcVi+aa//+/eKHxxurhdDFIA9PhzzZI99uRYNYU9XjaH1QSNxZbmnBfgwVQKHCetrs9wlrdQNJlXOgCHQCCu93pdi+jmnbhfwxyj3Zk+dfjAwDmbdVLepb/mwCuzg3hpXz7zYJOPMhJiEJ1T4HQny9jAgZJB6jqw+cTO6NY9sdB70yIEDiAY4r5TnAid9iaYkpPPsdCp3;ruwZkJaLSm60xuIGQPXm3A=="
 ---
 

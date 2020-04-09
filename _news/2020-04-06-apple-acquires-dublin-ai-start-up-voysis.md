@@ -81,17 +81,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/18/apples-homepod-a-smart-home-device-developed-by.jpg"
         width: 1024
         height: 705
-  - title: "Apple acquires AI voice assistant startup Voysis to improve Siri’s natural language"
-    excerpt: "Dublin, Ireland-based Voysis focused on improving digital assistants inside online shopping apps, so the software could respond more accurately to voice commands from users."
-    publishedDateTime: 2020-04-04T07:06:00Z
-    webUrl: "https://www.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
 
 secured: "54G3C4DMkCDqIRz9X22hCuHvMZe9b/YmPYZpCnl46qsnsAPiViyNYh/42hJp+fYoHNDEkphOWIEIqZzLvPLrW9lilKFk/nD1l7VWUOUQD6JqkHSZLbn1KJutDouVRefQPaaTl61KQOqKshGgbIbfhylwwWqvJ0pT9SdmhbniCtScacnYdmAPhNUJ4SFpLmgjX92LbdGo46RgdC6dIxeO8ajDlZda4w7/d0i6wandnjYDZdDEpuHmxVijqs+d5ioJZkNW2+wmV6A87ycDl377o87lLFRdctAqVbU8w6yjNfXPZ2wmrEumu/9NvvaM9Z9rabpbLToTKWVdmip6E1prOmaGv8OGaOesxFteApfzXoDAj8GhFaKIvSN8s+CDDXJHdgZ6NYva+5jJH1VsLFSe9tBb1RpQgWqWUAFBWs2QcNei4sFDnQ4vx8YnxK7cCB2D3ZZzp1g1KZ2kzlIlx2GmhPFdw6CHYYalYwFj973oMjg=;h7w4lHz3tP7MZST0sVX6DA=="
 ---

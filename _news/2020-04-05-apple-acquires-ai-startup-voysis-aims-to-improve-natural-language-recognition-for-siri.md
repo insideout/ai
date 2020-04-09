@@ -81,17 +81,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/dublin.png"
         width: 1200
         height: 900
-  - title: "Apple acquires AI voice assistant startup Voysis to improve Siri’s natural language"
-    excerpt: "Dublin, Ireland-based Voysis focused on improving digital assistants inside online shopping apps, so the software could respond more accurately to voice commands from users."
-    publishedDateTime: 2020-04-04T07:06:00Z
-    webUrl: "https://www.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
 
 secured: "Mxca6FGDF+rlRkx2jpPEEd9NBvZ7cf+t27zxi6INtot9+MTwOe81CTIXkTUxzToKecqv1X2sbJBI+q1SqQ19Q1nwUyB9qKSc8S9iVCFBUutU6/MGY3N+bNNHnB+B4WrBmbMytwWji4uO3grvdREp1/qdQ0MFSrlhBPu/aemtXVDa0ivI+GsAWd/l8lGl2ueHurdZpn7jottAxejKzmm+mqnoCWajmRyVcE4vnl+qDFQuKV0YAI6EWj5Ok03kngXavBGeO6p67tz1cKV4S+SM+S8gKo0DnwRispQbY1ILqgQFduiZRWCXQSwWyrfV1mjHjTAYP+28/2IA5gb9p6M4GYoTNYWrBZMD+IVsMXpH6BBdbXOs7Ya8CZIYd3cT6n1kXOWJbplUvmZAbNmRFj6wrrkDNXb9Ixnjfh4k7B6ljc2W+WI8Xfin3F2q4z5y+X45hkx1Mkq7DhSJRkwK5GOUOi/W0H6aUFTkB1tXJwqtcGk=;zfU4UEMBrPEGbglUAx7GnQ=="
 ---

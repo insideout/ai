@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-star
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -85,17 +85,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/dublin.png"
         width: 1200
         height: 900
-  - title: "Apple acquires AI voice assistant startup Voysis to improve Siri’s natural language"
-    excerpt: "Dublin, Ireland-based Voysis focused on improving digital assistants inside online shopping apps, so the software could respond more accurately to voice commands from users."
-    publishedDateTime: 2020-04-04T07:06:00Z
-    webUrl: "https://www.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/apple-acquires-ai-voice-assistant-startup-voysis-to-improve-siri-s-natural-language/story-Sd8T2gTpctb7iVLb4vHmVI_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 31
 
 secured: "OVC8QSHnRzCJpupXvJfpkwclUhaLxiyt+F9w/QeiIz+VAmtkAJgabgqawO9r1Fnpd41MsU8DY/6H1lb8HQyYIlQrzPHVPgYIYQb7HR6l5LoWEgfjpCd1WCQBGpRA5ghxYO77cdSkrApG+316bQbLIt5WGumBobWbqslb8uUglv4W4qHuCnvRuewetpdj2XPZ3XSBLzj7y4niJAhX1IQyDdguiBtYGFlz1sSpGRCZ0BzZ0abd7w/xEDfHpb8QofZXejvkC0Ed1Cdmy/28JSlwfqz5IMQzkzyruEVHig0epNhdLsfLsZsw9+pfYc136OdF46xARtkyW8kEqMdCrwNHP+Jb8ilSu1c3hWL016uMSmWpLs7NoUF5ekIXttKbHHgqIkMbhlTCISW88gP5iY23ph8IC1Y3EygCPsgbssdcEkja1dX19qB2v+1Gw0eavUg+KQaqN6mOa1v9Lvzm4MZB0xdVbRQTxrT6XJjgc5hVREM=;kbY7hotGj67t0N6ycUljZQ=="
 ---
