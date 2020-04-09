@@ -5,7 +5,7 @@ excerpt: "Rather than surveying unsuspecting carriers about their recent travels
 publishedDateTime: 2020-04-08T21:47:00Z
 webUrl: "https://www.embedded-computing.com/guest-blogs/thermal-detection-computer-vision-could-help-curve-the-coronavirus-pandemic"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "http://share.opsy.st/5e8e4300aeec1-Picture1.png"
@@ -40,6 +41,6 @@ related:
         width: 1024
         height: 576
 
-secured: "quvK0uw2jnJYmXTOGMjdSqpXajkFTPnDBNkwzJN+Cc3lEItw8l5uLtRkGezPmeHF8yO3JKD3FLiGrkWpIX3vKkpM4UlTnqu3jZ9PdKHGVdEjs42Odcmh0IBVMZOqDy2JNn5+pz93hPI6lxrK3NDK7yJNi+t9HoaY5DutHYubcH9/GAlrg/GzQRBIRHyjwj1vO9YY0cdVSECaWhee5SH3EM3nwWZQVsY3q1cQQCXwJ2ZNLg9SqAQrRvX4dMVQF+WCB4hzZyBKc6ShGZtTsIunvXfTo2Xnx5w8RKjc22Yzj0/zOcA2Wvyv4XOWXNlE0MHg;SquZn+U6SbFltnUclyu5Vg=="
+secured: "X4AktP5riykgS0bFEIc+eG6Xqjq452fS2RKBe20CX/bj+AtZ41yrVkgS4nYYECioQr39zj/ReZV7QhxuDdigQygAh7ubVhwiBqmQjkrA+9K2t0pk0r1rQZ7EpkxLOhn1moTpmUzb6XE/9+B1ttnpDCHEycXFKRH041PWf/aMRG6G2n7eMKowFwQKdyuxVBh897UUxyo1mu8DsW95WJBorJszd70u+ryc6vhT5SyjTFjSy5/QlNSBEYf5QWi489OdXi4xzoKMxXH9iokjw6+gX+wa7DJ13Wf5+1iKbaMh8SPRQOJXpfwd+2mJJCV5I3DB2JHt6Kh+jZrsVFNVsRUnbju//MgVGXXyJrB1dzxg9GdpOV5QXGqBTaRHWzH+WXGCREeGNbPcb7AZy/eS9xqf/lYsWgn3kD5xyE/3cqUKP8FTlWjFdCtPTupfRo8Mx/4RXCCp862LdRWcTGGibHW5eD+a4g7fteeE3HGx9NGJeIE=;dI+68poN4PZN2vkYj92v2Q=="
 ---
 

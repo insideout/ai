@@ -34,7 +34,7 @@ related:
     provider:
       name: Embedded Computing Design
       domain: embedded-computing.com
-    quality: 36
+    quality: 38
     images:
       - url: "http://share.opsy.st/5e8e4300aeec1-Picture1.png"
         width: 812
