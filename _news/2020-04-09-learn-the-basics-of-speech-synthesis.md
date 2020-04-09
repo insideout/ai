@@ -5,8 +5,8 @@ excerpt: "we encourage you to kick the tires and try speech recognition out for 
 publishedDateTime: 2020-04-09T05:14:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/text-to-speech-basics"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
