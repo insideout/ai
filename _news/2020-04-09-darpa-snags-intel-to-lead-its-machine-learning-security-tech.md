@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,23 @@ images:
     height: 682
     title: "DARPA snags Intel to lead its machine learning security tech"
 
-secured: "mkYyLKWESmGU/zXUy8PAYX53aFF5nQ/1t5Rh6U1rvPcPCeNtFMrPAZCxgIJwpO354tuwrq/mFcWUr52osUHgCB4ZUAOnoArXsxBnWDnlBDJJUP4rAkr/SBJJc2YmmKZD+okDZqWwAC58Y5yDPNBvawDE5p9CK9wmLR5Bbv0Q9lwqPBkg1zFcpEvdqBavg2L3swR+r8z6ZTtO5J9aqpk4HHQK8rETqM5oLJmDAlpoCbapIzPgZO7S9gnno9vlL913Jy0M/cOTQOBZGffXsU/G4o9jmOuVo2sflxIUnHnQZxfiLgnoKNKzmtQZ3B4iFeND;J5ezbYC2B0wby5AVn5539A=="
+related:
+  - title: "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'"
+    excerpt: "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks."
+    publishedDateTime: 2020-04-09T19:32:00Z
+    webUrl: "https://www.techspot.com/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 85
+    images:
+      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg"
+        width: 800
+        height: 560
+
+secured: "x+OTAH+Unu14Al6ORCUnGcSDHZ1PY2uFQ4eyJcxAYrJlU90sf7hRerZ3PioYGBC5tnRUxWkjV7dlmnf5fTbPwl3JfP74W+PoBuETIq436Rgp/9r61XDz+STf+MvFV1bCK5TVskXY6Az3bvWl4aLI/Lmr8fP+a7WZpI3bJ3/bnUhRjZaKb2CzRn/NMG4v13tO+ZOp5f5XnnugauJeOKPWkJswo4wyHJpJqANJ2H/5OXyXXCd59l0MMdrJ2goarfrmFWiJ2omkn7ZH/HOm9T8pW5q7mZmR8uKByZGLo3C8dyaHFG9i45Zr0rN1D7NK4Dok6awUe4cGEq6M1LEJWNdyJC7G8gX3/i1yLnANb3Qitg0P6OG/KTXEb6hTyRARSXL7wVUSDKASteGOEH5jOXxPMuStXa5py3gqsKfO9DRkey6rbsVkBUgaoxrjMNdK2FDIycLhghA+KNupFKm9Lf8xqC3/3QguAhjN+hofoJBOnqM=;/JhRDaiFoympciENLxD7FA=="
 ---
 

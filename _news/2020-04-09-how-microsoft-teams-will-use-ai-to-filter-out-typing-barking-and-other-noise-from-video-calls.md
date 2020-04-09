@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-
 ampWebUrl: "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/"
 type: article
-quality: 94
-heat: 94
+quality: 96
+heat: 96
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - Facebook AI
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/microsoft-teams-real-time-noise-suppression-chips.png?fit=2000%2C1000&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 1000
     title: "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls"
 
-secured: "aMtuX+wguP5ozszD4I92j6RFOdxVFmzhsc09dY3dw2F5Ts3xXzE3/pJaMmooTBdBrhQmCECmazXRkqG6zpwaw+MTDgaCg0qaQZwnlSuGetcHAh67qNqdiGQIFtQdm4V0juLCVulTmoFyRW9KQ4xwRlrUdO72v1hJe3HTKHa0wa/WfEW+wX/NNEeMTnzii5RHfz+v+JcPXZMzpigOm1AYoUx9BmCDYcuAvIfdAuMp9U/npqiM3PxIeKv/7cVNWL7gNwQ97QMY+ieYqTabXhGavdQmMZjN2awCSu7oEuOuF6HhkciumQ0SWqPMXMCfXEKo;XXOtIKL/2D4qJoFVhdmGHQ=="
+secured: "xsGwUD+2aSCIULfGYoQlkhO7QGOaJo/MSCiCnBEdMME72EWmDLlooxlQARXco6VKAsZXq0Q29HyUVbgXaGRDXPwmWAGYKbjjxMrAny+/wPZLfOrVOy81pJeNGkUjK/9Kyb3ewhgW5WdHoU+rOALPsRdGY/RyVlGaoKVKaLxxKuU85K1zKIYpEjuTcTE0mUdLsh/BfvAZ8LdZHYzYwyvlUg1XH9sWRkEtBsXORYXE+rGW6W5lEMwGcAXhm7IjUqHM3o+csb/HO/KLWk8lwPXNpD/EsQSAodGU50nhnOA6cnW+sW6G85n12pD1IpFYR8upYGVsJ1QwsnqS3PO5T3ke/N844hX/9twbW/hAK6hjaz15c/D3RV0ZOwT1d8g8Ldq22QWMe/znsZ1klFLyxoOSh4d56djHnS65eCaPkf6HlleLCWmVtO9WiQq8G6RLogmaEK20Amfjd9EcJmgBaBeW+TFXdLIesL82/3bjLhS2taQ=;wS09tuAc976+ZC1Z+L4K8A=="
 ---
 

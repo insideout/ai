@@ -94,7 +94,7 @@
       "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
       "title": "DARPA snags Intel to lead its machine learning security tech",
       "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
@@ -183,7 +183,7 @@
       "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
       "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
       "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/",
@@ -222,7 +222,8 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI Hardware"
       ]
     },
     {
@@ -978,7 +979,7 @@
       "path": "_news/2020-04-08-how-ai-is-helping-scientists-in-the-fight-against-covid-19-from-robots-to-predicting-the-future.md",
       "title": "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future",
       "excerpt": "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ...",
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/",
@@ -1016,7 +1017,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI Ethics"
       ]
     },
     {

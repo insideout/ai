@@ -39,6 +39,15 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/04/09/01/26975694-0-image-a-31_1586390435961.jpg"
         width: 636
         height: 382
+  - title: "Counterpoint: MIT scientists translate coronavirus protein structure into music"
+    excerpt: "MIT's Markus Buehler specializes in developing AI models to design new proteins and is perhaps best known for using sonification ... Through music, we can see the SARS-CoV-2 spike from a new angle, and appreciate the urgent need to learn the language of proteins. According to Buehler, gaining a better understanding of these vibrational patterns ..."
+    publishedDateTime: 2020-04-09T18:04:00Z
+    webUrl: "https://arstechnica.com/science/2020/04/counterpoint-mit-scientists-translate-coronavirus-protein-structure-into-music/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 30
 
 secured: "8IXe5Q79sNScWY0fZy376aJnrRR3XaV+H78rB4UiIpcmv9o1h2wFkiOAyMHgoXED6iZ2uAonFjG3Ywwe7t9nx/i9puGKwFnOAlq+D7t+t7RCjNPx4tij+0Lskbo+aKVGw5+s60xMJ2nDTST4QL/XfOWo17Hmosk10kR5nC18O3zJZ0nkZz7vmVC6k5nr3i5qSvDhXVLpDq/2UGXREou6wr7SYlQfRarmBMhcGl5RYF7naPfD4XhA7+WIl5t+o+ca5xx3YpTF7SiSvnhsDkafihjZL1W7ZQu/PlqdF2AkmpuaPV9EODTyvXD/KJjxFjxCCWvJw7aYCNqZjBVZ27f9Gmz3yxZ5xL7uHr9+wIKgfD95UABiaEw77kr2uxoBMdBPhLTkh3p8SiOdxcd4ehjBSTk9lHQO/iYRJKjy+8c+pP+qubyrHFitxlo7Prx6XpmW0SwMQfgF1l0owkyIUjkQF1EBkRIZFZty6Zvzo9MbbOM=;EDrr6ooo7gr1OyNkvrWMOw=="
 ---

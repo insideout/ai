@@ -26,6 +26,15 @@ images:
     title: "MIT researchers translate coronavirus protein structure into music with haunting 109 minute score"
 
 related:
+  - title: "Counterpoint: MIT scientists translate coronavirus protein structure into music"
+    excerpt: "MIT's Markus Buehler specializes in developing AI models to design new proteins and is perhaps best known for using sonification ... Through music, we can see the SARS-CoV-2 spike from a new angle, and appreciate the urgent need to learn the language of proteins. According to Buehler, gaining a better understanding of these vibrational patterns ..."
+    publishedDateTime: 2020-04-09T18:04:00Z
+    webUrl: "https://arstechnica.com/science/2020/04/counterpoint-mit-scientists-translate-coronavirus-protein-structure-into-music/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 30
   - title: "Self-driving cars proving helpful during coronavirus lockdowns"
     excerpt: "While it may be more than a decade before self-driving cars become a common sight on public roads ... The shuttles run along routes isolated from pedestrians and general traffic and are still monitored remotely for safety. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge ..."
     publishedDateTime: 2020-04-08T17:00:00Z

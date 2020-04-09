@@ -23,6 +23,6 @@ images:
     height: 627
     title: "The LSU Health Network Partners With Ninety One Inc. to Bring Artificial Intelligence and Precision Medicine to Cardiology in the Fight Against Covid-19"
 
-secured: "nFSorwIgpvxY+Fs5GSYQihGMokkAZqK75semWvf+FbhL2j8PhV0DAw9DNLAtVc5yOH8o2WCSwHW9w1GvrwMtQsTlcma7iVyVDVvB6IoHG17ItWYUE1EbSxgczwZFYGYEKmyfvALK64tRfH4y3l1mXoHCBo370kkzhCcYVpVPM6ELG5YehuHd10jnbE6JiFlUaJAfK8DUohDieUsjEQYfjeWUOkNMI3CGE/Ltx4iko20+UL7woeqZwFzx5KXrl+RHH4VbatxNhr8p7Y0N+Dkr5Gw6AlvDcvXk00l4yhEKi3ZOTDX/t0cuofkt9wfqVmGd;87FlsRmkK2Eiiuzpj5aWXw=="
+secured: "K6eZcQytz947Y/F/C8UR7MjTUB6h/jd/zpMv+1WXt00W1G98wtAsNPF36mvb6+kdgvpcL7/VUGtBIb/p5ZHez5i7/Omg/Ma5rOsJ88lQRq3VuOPx7UYP0zQAQVAQSh7k1QNUoARgZaUdzu3eIKtx1S2gl1/cqsZLUTPdf8iIURXnPfMGECb9uUIKACHpqfJD2YM/Ns/snhXQwFZ216AzhQlue9o22btdjqLBHbnfKfFt/kUUFlBJeg+GiNlD8jxD9KaQ3pS4kOnsnWTC8EG697ng7SGJ8P9sXGGJVV7CvJv9BsR3TfdCp+79bKrZljFvWsTZE7B4wsxb3joELfddoO+4i8yWkifYt1Msn+m/86re3c+lNEhTYN2I5VCBwTdw1+7QwIqn7Cv8udmtsRtYFULJ3Vxz5ZZT4GJ6CQ4jotEedrSF8AFcYs1d2+qJ9vzg7XLq3LG9fENMXOBto2Rcb2KdvA8IQs/8on+wPTJO9Ro=;Ngn/Bl2iAB9bQBOU4mkDYw=="
 ---
 

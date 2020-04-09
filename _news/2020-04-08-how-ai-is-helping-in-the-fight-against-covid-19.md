@@ -39,7 +39,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg"
         width: 630

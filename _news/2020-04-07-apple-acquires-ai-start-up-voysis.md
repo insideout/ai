@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-star
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -57,21 +57,6 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/03/apple-store-new-the-tech-portal.jpg"
         width: 1561
         height: 881
-  - title: "Apple Acquires AI Startup Voysis; Aims To Improve Natural Language Recognition For Siri"
-    excerpt: "The AI startup company is based in Ireland and could reportedly help the company improve Siri Apple has not yet revealed its plan with Voysis but tech enthusiasts believe it has something to do with Apple's digital assistant Amid the COVID-19 pandemic,"
-    publishedDateTime: 2020-04-05T02:21:00Z
-    webUrl: "https://www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659"
-    ampWebUrl: "https://www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/apple-acquires-ai-startup-voysis-aims-improve-natural-language-recognition-siri-2952659?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 49
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/12/18/apples-homepod-a-smart-home-device-developed-by.jpg"
-        width: 1024
-        height: 705
   - title: "Apple acquires AI startup to make Siri better"
     excerpt: "Apple has acquired Dublin-based startup Voysis, a conversational artificial intelligence (AI) platform that enables third parties to integrate high quality voice and natural language capabilities into their products. The Cupertino-based tech giant is expected to use Voysis' technology to improve its virtual assistant Siri and the financial ..."
     publishedDateTime: 2020-04-05T05:42:00Z

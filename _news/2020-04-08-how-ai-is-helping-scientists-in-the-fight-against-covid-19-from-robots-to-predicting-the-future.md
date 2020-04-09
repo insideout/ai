@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robo
 ampWebUrl: "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/"
 type: article
-quality: 91
-heat: 101
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg"

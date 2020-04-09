@@ -26,18 +26,16 @@ images:
 related:
   - title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
     excerpt: "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ..."
-    publishedDateTime: 2020-04-09T17:40:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php"
+    publishedDateTime: 2020-04-09T18:20:00Z
+    webUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 15
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg"
-        width: 720
-        height: 878
 
-secured: "O/kS1kilVxdytYqa60GBSIzSEHcjrK7OCcYYcMxLbio5LQfUAiCiLVjmJZhDDfEM83hKxhiRq/vzxWwKSQa8kb5hlQ8JTklnSE5V5ZwINAwvwABTxJL9GEMpxXJ10LKYFv0U7e0ym78geyN47Fl70mDps/PErSZxb9Bpmqtl79JtQEwK8m5CJtOn4IhjofSNAIJhUtM+ueDbfsFQh/viBfXmjTcptRjPVXpgAedA4Zq3WnKOEpJxs/mlx1UysN9K6VT356BaG71PywAqLP2XSmVKnP5uCW4STGHDZm75Bi6G9LHeZDRupac2PpcAaezv;zE+30YkmWicJqD5lO+Qu2g=="
+secured: "b8As17AX+5Fym2x35i0qNPj3jXBs5Y1KwQhG2tRrKuQHYuDlQknyo6kmQethaKEk8+Urfo+0xIpfiFdlMSRRaKvLCUPu8s50eWlkFk1tc4MQY3e6rlilOc2D0yAHv7mdKyOHA8NwWPOjsqb8/wqysH2PwQwtPxpnMSbe0uMXJ/NbwM3WKJrK+0uOzSNAT5VhGiwNG4bC1Bzg/Da18cum6p2jXj8AKk7lkh641Q5EWvGIdiqsCnmfVyZDA8bnJvg2mjS1VXXApT14HGfRBD6qHOWLyVYR7Zaer8s1pPAIGKjAZeX/bRvOBeHudmdD/HREDMI6gGQogOzkP6Dkqth+zJLNEUHYduIXjUkFynL0TLIK7UpLaOWTUXP82QGSLlSitz61DnavaZiXa6ToWDqoH7+T4U8bjUNwscm0k2r6Ir3mNrTQbywsY9/hHAxE9OpzjLT7kR7i/3slkwo8uXSHvEqQRRW5FcMRrtstqEUmvp0=;lqtAgdf+rEUWfY5riztqlQ=="
 ---
 
