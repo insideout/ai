@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Natural language processing for structuring clinical text data on depression using UK-CRIS"
-excerpt: "Natural language processing (NLP) methods can be used to automatically extract clinically relevant information. Objective Our aim is to use natural language processing (NLP) to capture real-world data on individuals with depression from the Clinical Record Interactive Search (CRIS) clinical text to foster the use of electronic healthcare data ..."
+excerpt: "Natural language processing (NLP) methods can be used to automatically extract clinically relevant information. Objective Our aim is to use natural language processing (NLP) to capture real-world data on individuals with depression from the Clinical Record ..."
 publishedDateTime: 2020-04-05T13:46:00Z
-webUrl: "https://ebmh.bmj.com/content/23/1/21"
+webUrl: "https://ebmh.bmj.com/content/23/1/21?rss=1"
 type: article
 quality: 9
 heat: 9
@@ -17,6 +17,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "cWxXAK1GRE55RqQSQ6Rz2sRNRfuspexYIvX52BRqHGfLczlLjSCp1HLEEPP3aOmgDlTfTgW+WY2hNL6pI7SN8763tB6U+tLGxXeTUcRUoDD4su7g/qjc+G/UKmLu7ot3NJTIzONTg5VGeSaPG6Mh6juUF0a2M6X+avRZCdssa+/6MMyc7mYsczA0RlYl4H+rcXeAyNkR1siqXg6gR6MKj6DebVvMOuke8JPdJyo/YKO/fUp6b9KM8cAKBdsXKudks3bHQaluDro0hLqANkfWeW4+TYdjYWeEUAbxqLYJ5Bx1eXguAzlFgx9M45LVeKy55o94Ay5NFQNUHK6Y026f7fV5pDOkH7jy3Pu6dBvjPH/Dy+s/qGcUH1nXYzAtMPoDSdvqUbD7wnLtOo54jUyTgA0ElegS6gZN0YoP8gKaJ8dE4/5iWj3QOGDoe4/evWojNY2w3W/z2EXNV1ah40LoRBnBjz86qufav7ks4/WuheU=;y8BTq0cXPC/Oh2yiEYgXxA=="
+secured: "pektiEM9G6ScPwMiihNEjadri1GKgsElS3pU+UcCLcIwFX1ffmLqQI2+x+YTOwMFAbAZEWeernpBLAez3gx+DlpA90b0uw4xyo63kgrgO5DHyda0apLp4YsXqD0+CMpCTOmu5ck4EI76NoRH0M3fiiZWkvdtasHY69Whl8sLZnCEl41mJSlbYTc3d0yDhomsKUcdCwIiNMw4EpLNFPB6BWovICyzS9huOyFmz/19HrfiIyMoRnaWj4XmJ/w/D8XhMJ2s2UCdilhVz4rMFs5V1DozDhkIBIefhPckIjMgSqnih1ZSsGnkQo8cCjBuSx3xWCVnUExE8xaSAiQ5v31oGDgg3XpEyrHBBpu+8yJ0RvVmQU6r8kXvG72eH2x7BhpyIRNlnVdd+mKdX9a2ZoBOXEr1J60LcwGRAMql3T+YZbMPYfnK6SyC5gE9Ltq5mfts51rL1m54x5LW1jHtBHyaxp7E32hCTtd3i2hjbXUDGhw=;uzwz+M/hEFP2uZiitnz9wg=="
 ---
 

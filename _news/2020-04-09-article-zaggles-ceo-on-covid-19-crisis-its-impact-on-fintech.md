@@ -23,6 +23,6 @@ images:
     height: 350
     title: "Article: Zaggle’s CEO on COVID-19 crisis & its impact on fintech"
 
-secured: "7Lt/XXyjjsM6Hm3Knu8Cyc607uQef1K+lNI3gn7AUA+QJGDmaRJ940Ldd3PXONYaQTBFe1OQUyhbiVFQUdxO5Mixgq/QV4blQVx2ZGBl3ve2gdsP5d17SKeWOojkRSIRvdAkkCb00PB6xMUrNkvzfbMYV5wOH0wlTznZA4YH0HABuXN5oyiFl48u2xF2eeQlJye3BZL6vlm8nyotgoaS17q/E5LemByuzFUNBF5LmxGLOFXDijePY1kA6bh755oYxn/rr+E+w3v1hZ9FBEdHLG0+Dh1XiMqwxj/jySzprPUXaJiO9csgS6qWLhx21RRE;N3JJofFbxXfxOGR61F8nnA=="
+secured: "gJhPLsabZMAlxZ6s/TCxYxowzZKpupAKyo8j3mVYq13HM5mO1DU6bfOHyjAXRoF4DT83Udw2+bZg5LFbjL+rbFiyKAjX9L+ZbcCJPJMUWNdDCiv29mQqSXebJjtgN8kQ/r9xNzlCvQ/PSpuNAwaZptzY3/fvGMQGPVlIvmLIqf7a9nEUe7YLYFwplfPa+blnX8EIzBMBuGwkwWvm4g9e0TrRnaKMcTwP7Zm8TX/9QLvZAczUsMiI7yPafiEe+Q8BErr7p0dpDqsksgkayYrLV+6XJNY5XOYBrpPHU6YO5Px7rBTBdFOAeQNC28FvdhTIY+qP5QMCt+nElfZ9H+Op7dW0wiljtXtUTae7dHpLzSotiRAFzBS90ZULgg89o2fQjv99a3nGgfQpUj1WQNIlg6lbyhobBnpjCE1WM7sMl5YCI7M5QK1Sm40064GS4Shc+w/pr6Nlzt5hMvjUbqrpY1AC8F3OM1oYWKi0WEYs2wg=;d+TpWp/5e53vPd5HGm5STQ=="
 ---
 

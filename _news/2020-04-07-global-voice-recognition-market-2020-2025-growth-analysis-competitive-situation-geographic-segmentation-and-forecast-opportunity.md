@@ -28,15 +28,15 @@ images:
     title: "Global Voice Recognition Market 2020-2025 Growth Analysis, Competitive Situation, Geographic Segmentation and Forecast Opportunity"
 
 related:
-  - title: "Outlook on the Global Smart Cities Industry to 2027 - Emergence of Artificial Intelligence Presents Lucrative Opportunities"
-    excerpt: "The global smart cities market is expected to witness significant growth in the upcoming years due to growing government initiatives for overpopulation and urbanization management"
-    publishedDateTime: 2020-04-07T10:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/outlook-on-the-global-smart-cities-industry-to-2027---emergence-of-artificial-intelligence-presents-lucrative-opportunities-2020-04-07"
+  - title: "Deep Learning Market 2024: Global Size, Share, Key Manufacturers, Upcoming Trends, Growth and Regional Forecasts Research"
+    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Global Deep Learning Market 2020-2024. The report has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR ..."
+    publishedDateTime: 2020-04-07T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2024-global-size-share-key-manufacturers-upcoming-trends-growth-and-regional-forecasts-research-2020-04-07?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

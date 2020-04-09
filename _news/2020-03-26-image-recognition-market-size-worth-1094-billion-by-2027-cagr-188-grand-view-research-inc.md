@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Image Recognition Market Size Worth $109.4 Billion by 2027 | CAGR: 18.8%: Grand View Research, Inc."
-excerpt: "The global image recognition market size is expected to reach USD 109.4 billion by 2027, according to a new report by Grand View Research,"
+excerpt: "The global image recognition market size is expected to reach USD 109.4 billion by 2027, according to a new report by Grand"
 publishedDateTime: 2020-03-26T08:35:00Z
-webUrl: "https://www.prnewswire.com/news-releases/image-recognition-market-size-worth-109-4-billion-by-2027--cagr-18-8-grand-view-research-inc-301030211.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/03/n15669680/image-recognition-market-size-worth-109-4-billion-by-2027-cagr-18-8-grand-view-research-inc"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15669680"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15669680"
 type: article
-quality: 10
-heat: 10
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
-  - Facebook AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook"
-    width: 1400
-    height: 733
-    title: "Image Recognition Market Size Worth $109.4 Billion by 2027 | CAGR: 18.8%: Grand View Research, Inc."
-
-secured: "ugDxoQW5CAEGMH2BtZA5LOiSj0ahNIMR6MiaLyaq2z/V9QL/j260fNIk/aQlqyssUVCB/sjMF187hEhUi4MMRXAPwZWz56ajTm/j1BshYQAKC/7Smv8yYbj2VTNsvbVsM4AQNtmmNoNvBYxzLo+vmKQLQG6n01rVlt7gc0Zo+93TJDC2bV1hEuVL32zT0NKG0/vhy8RNn0xzXOsiBaBt6b5ds6giOmxIm6errVbyLmywk3gNHgzZUzQAMg2wMEtcugOQTYlfQW+N8TFApvEO3nUDVQY7vD8tKkpZDUOyKR8cUmI6o5lK9J61i7Co+O8T+HXoA+ietzVNbfv1ZNE2b7tcJTIykJdqN06tE9fLP8hPHkqEPn1s2lVORs0NmyTjhoC/Zdqd2V5nvoFOYmCd7z7M3VmxIkCsrsfsXxSvH55ylBwTJtXPRSfTDNEUNf3k9Dn4CpuvmDATCJOm3Cd0kQyZ9Zo/uJi5pZzG5KfLmIQ=;OJJ4qUSIkIki1+bY1QAASw=="
+secured: "F4BRVS8lpidKoQehHTO3N7vMAByR5EWgcsW7sE98hn9RYwXasPKW98g2/kXul4SCMOzU4paMVC9/UWhSeFAsN0cfL73rNMIhNvdVWy6RzJq768PwB2GisLtRbXdgjEER9fk/cYtOiO/OHJedIBdkYRQU2/ILyBjBezesUeYtPt3m6ZRsQXlk1bbynMzb8yiuhyCFVYFxjzjYYVRGq3mcYt4hP7mX2T4zYH5F20kJiUE5osu1tcs6Dr+FBUF5EA1hXSyGjnxoK4gG/J0VKpk1wTye3YzNry9ExSdMyh7O77DFw33T7afzfS2EfxcB+E0L;9LLcA7Qrr5F5W3MUulndvw=="
 ---
 
