@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc"
-excerpt: "QR/Barcode Recognition, Object Recognition, Facial Recognition, Pattern Recognition, Optical Character Recognition. Segmentation on the basis of component: Hardware, Software, Service, Segmentation on the basis of application: Augmented Reality ..."
-publishedDateTime: 2020-03-26T05:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc-2020-03-26"
+excerpt: "The leading vendors included inside the reports are: Catchoom Technologies S.L, Slyce Inc, Honeywell International Inc, Wikitude GmbH, Attrasoft Inc, Google Inc, Qualcomm Incorporated, Ltd, LTU Technologies, NEC Corporation and Hitachi Market Segmentation: Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition ..."
+publishedDateTime: 2020-03-26T09:58:00Z
+webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc-2020-03-26?mod=mw_quote_news"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
   name: MarketWatch
@@ -27,6 +24,6 @@ images:
     height: 630
     title: "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc"
 
-secured: "4skXpW1wn9PruhRWZHmIL2n9nXKZ8Jo9IT4xNa+SO5vExUNj5AeEVvh6nKtqOV8P9tEFFb00xgnbe1wqy2Q+vuEHd9YrTEL9Px+Istvs+ouD9xTKGEy4mRsD1mxMUSlUAcamWs/YCbQc+SLQ66J8LaUjXeP3ApCz5NhZ4QRG+M14dXNq/LAdGJ09CxmlUOoWPSibSafcpILMF9RLDWqveimvA9+NPJVMzO9RIhnk5D9jNfnjnTmuGo1a6Mi3CfPWVBPTqZum1eMJtQdAWL19WA/hE44iys6MZL+PHZ0vFfl0XpvwDDEs3Y+pqo3oWCcW;ir5N9b4T8JOkwvYKU5T0SQ=="
+secured: "joEmqAXnPzwqXoHts1HNnZjhgiolgcKer5njb7rguzsVemrqyIZVOb4O85U4zAb/mzZ5I853FvHGZyf9w/dnpWZCaIlWouyA4+QIT5lQyPpZAjY1IqVXX8V4Qm2uuiNNuBbArBEa1M9vkhTw+5PMCXdh+l/Uk28mCJyaN0vZG+2xZGE11kDsw6b5A0MVG4zjS+oCWayh0I3P0NxEWb9W/rdJPo0pRPOqMa/obeDUR4xl2d7KvbLwo/oOmNKh2I7AP/f3NXen3azmYSUJxZmtT9m7lsEmPWrFrRQ4ToP2mUnHuvMO82t6N9uAwlPky02C;BBtXLcj2tTbji8zJiHt+Hg=="
 ---
 

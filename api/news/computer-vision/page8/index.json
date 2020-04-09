@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-10-the-best-computer-reading-glasses-to-help-reduce-eye-strain.md",
+      "title": "The best computer reading glasses to help reduce eye strain",
+      "excerpt": "These Truvision Readers may not be prescription, but their anti-reflective coating and blue-tinted lenses will help you filter out blue light and avoid computer vision syndrome without having to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/",
+      "ampWebUrl": "https://www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/health-fitness/computer-reading-glasses/?amp",
+      "publishedDateTime": "2020-01-09T23:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://icdn2.digitaltrends.com/image/digitaltrends/computer-glasses-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "The best computer reading glasses to help reduce eye strain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-canon-wants-to-ease-pain-of-culling-photos-in-lightroom-with-this-ai-plug-in.md",
       "title": "Canon wants to ease pain of culling photos in Lightroom with this A.I. plug-in",
       "excerpt": "That’s the concept behind Canon’s upcoming Photo Culling Plugin, a Lightroom add-on that uses the Canon Computer Vision A.I. Engine to sort through all those photos. The plug-in smartly doesn ...",

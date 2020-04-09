@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts.md",
       "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
       "excerpt": "essential as it adopts new technologies such as AI, as well as more funding support for deep-tech startups and SMBs. Read More Funded by the country's Financial Sector Development Fund, the SG$125 million package focused on three components comprising workforce training and manpower costs, digitalisation and operational resilience, and fintech ...",
@@ -1041,50 +1078,6 @@
           "width": 770,
           "height": 500,
           "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19.md",
-      "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
-      "excerpt": "The AI company Black Swan Data has turned its skills to help clinicians, researchers and the medical community in their work on analysing COVID-19.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/",
-      "ampWebUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
-      "publishedDateTime": "2020-04-08T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8daa7c2b720000076d7b44%2F0x0.jpg",
-          "width": 1019,
-          "height": 734,
-          "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
           "attribution": null
         }
       ],

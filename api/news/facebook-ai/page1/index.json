@@ -227,6 +227,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-31-ai-in-fashion-market-next-big-thing-major-giants-microsoft-ibm-google-aws-sap.md",
+      "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
+      "excerpt": "Mar 30, 2020 (AB Digital via COMTEX) -- Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF ... IBM (US), Google (US), AWS (US), SAP (Germany), Facebook (US), Adobe (US), Oracle (US), Vue.ai (US ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-next-big-thing-major-giants--microsoft-ibm-google-aws-sap-2020-03-30?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
       "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
       "excerpt": "This month, under the strain millions of people self-quarantined by COVID-19 have placed on broadband infrastructure, Netflix, Facebook, Disney, Microsoft ... and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast, CenturyLink, and Fiber ...",
@@ -1204,51 +1249,6 @@
           "width": 1400,
           "height": 869,
           "title": "Facebook threw some petty cash at misinformation research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers.md",
-      "title": "The future of AI journalism is less hyperbole and smarter readers",
-      "excerpt": "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "publishedDateTime": "2020-02-25T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": "The future of AI journalism is less hyperbole and smarter readers",
           "attribution": null
         }
       ],

@@ -66,18 +66,18 @@ related:
         width: 1416
         height: 829
   - title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
-    excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
+    excerpt: "Please log in, or sign up for a new account to continue reading. Give us a call at 423-581-5630 ext. 366 to be set up for free, unlimited access. Please log in, or sign up for a new account and purchase a subscription to continue reading. You will receive full, ad-free access to CitizenTribune.com as well as full access to the Electronic ..."
     publishedDateTime: 2020-04-07T20:15:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200407005781/en/BlackRock-Microsoft-Form-Strategic-Partnership-Host-Aladdin"
+    webUrl: "https://www.citizentribune.com/news/business/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin/article_e8b47377-4463-5faf-8e2c-c13f2f94ea1f.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Citizen Tribune
+      domain: citizentribune.com
     quality: 22
     images:
-      - url: "https://mms.businesswire.com/media/20200407005781/en/783707/23/ALA_eng_black_rgb.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/citizentribune.com/content/tncms/custom/image/9e99fbb8-cc4a-11e6-91dc-0b1813f59513.jpg"
         width: 1200
-        height: 627
+        height: 630
 
 secured: "yxQiJsnEkOpnPp5V1oANK3JRZeRRr+BvYF3MY1uJfh0oFl28tCLUQVfSV+vZkDp0iJXCdiJ/iQg8Ot+lZS85ptd3iuLyqf7JkHTCxlsE56HB8lDE0J82vhe6fJCO4WMXK3RbT7R7CA+Ri7kV3Dol43jnQBVJP287xmi+PWuYnC/ApBgaPEZzOJSYMLGVftPDKVzrcMH1DBGCcoIlPnpyApKkBLjnUlXbyqYKf9qKW94cjJG1AaJSQTUubZocAug+CXHR5Z+RC3gZBK2BKYVtSt+JzZcnpGRv7YLfp1PN/hpwOpPCzT01aPlbubN0hEkM;qNzZLr9Fa+ROZ6oQJ4AATw=="
 ---

@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
+      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
+      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
+      "publishedDateTime": "2020-04-09T04:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-singapore-dangles-70m-package-to-help-fintech-fsi-firms-drive-digital-efforts.md",
       "title": "Singapore dangles $70M package to help fintech, FSI firms drive digital efforts",
       "excerpt": "essential as it adopts new technologies such as AI, as well as more funding support for deep-tech startups and SMBs. Read More Funded by the country's Financial Sector Development Fund, the SG$125 million package focused on three components comprising workforce training and manpower costs, digitalisation and operational resilience, and fintech ...",
@@ -1266,50 +1303,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-telstra-uses-ai-as-first-hurdle-for-prospective-hires-to-clear.md",
-      "title": "Telstra uses AI as first hurdle for prospective hires to clear",
-      "excerpt": "Telstra has said it has been using artificial intelligence (AI) to filter through the 19,000 applications it received for its extra 1,000 temporary call centre positions in Australia that was announced by the telco last month. Group executive of transformation and people Alex Badenoch said the telco had been able to move from screening to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "publishedDateTime": "2020-04-08T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/10/17/e4ac0eaa-1191-4650-ba6d-dfefa8816d88/thumbnail/1200x675/0cbfe385425f1f51ffa4c8788617645c/sky-and-space-nano-satellite.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Telstra uses AI as first hurdle for prospective hires to clear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

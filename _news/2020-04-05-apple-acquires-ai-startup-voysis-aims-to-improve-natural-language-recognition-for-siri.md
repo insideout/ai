@@ -68,6 +68,19 @@ related:
       - url: "https://thetechportal.com/wp-content/uploads/2020/03/apple-store-new-the-tech-portal.jpg"
         width: 1561
         height: 881
+  - title: "Apple acquires AI startup to make Siri better"
+    excerpt: "Apple has acquired Dublin-based startup Voysis, a conversational artificial intelligence (AI) platform that enables third parties to integrate high quality voice and natural language capabilities into their products. The Cupertino-based tech giant is expected to use Voysis' technology to improve its virtual assistant Siri and the financial ..."
+    publishedDateTime: 2020-04-05T05:42:00Z
+    webUrl: "https://www.dailypioneer.com/2020/technology/apple-acquires-ai-startup-to-make-siri-better.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/apple-acquires-ai-startup-to-make-siri-better-2020-04-05.jpg"
+        width: 1000
+        height: 800
   - title: "Apple acquires Dublin AI start-up Voysis"
     excerpt: "Apple has acquired Voysis for an undisclosed sum, taking on the start-up's deep domain, brand-specific intelligent voice technology."
     publishedDateTime: 2020-04-06T08:23:00Z

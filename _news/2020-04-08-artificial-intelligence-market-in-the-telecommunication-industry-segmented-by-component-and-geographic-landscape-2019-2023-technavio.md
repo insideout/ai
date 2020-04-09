@@ -37,9 +37,9 @@ related:
         width: 1200
         height: 630
   - title: "Global Computer Vision Market 2020, by Services, Software, Application, Trends, Revenue, Industry Vertical and Business Opportunities to 2026"
-    excerpt: "The Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection and automation,"
+    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 08, 2020 (Daily Market Journal via Comtex) -- The Global Computer Vision market is accounted for $11.04 billion in 2017 and is expected to reach $23.78 billion by 2026 growing at a CAGR of 8.9% during the forecast period. Increasing need for quality inspection ..."
     publishedDateTime: 2020-04-08T12:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-by-services-software-application-trends-revenue-industry-vertical-and-business-opportunities-to-2026-2020-04-08"
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-by-services-software-application-trends-revenue-industry-vertical-and-business-opportunities-to-2026-2020-04-08?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

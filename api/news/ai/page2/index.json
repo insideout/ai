@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-telstra-uses-ai-as-first-hurdle-for-prospective-hires-to-clear.md",
+      "title": "Telstra uses AI as first hurdle for prospective hires to clear",
+      "excerpt": "Telstra has said it has been using artificial intelligence (AI) to filter through the 19,000 applications it received for its extra 1,000 temporary call centre positions in Australia that was announced by the telco last month. Group executive of transformation and people Alex Badenoch said the telco had been able to move from screening to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
+      "publishedDateTime": "2020-04-08T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/10/17/e4ac0eaa-1191-4650-ba6d-dfefa8816d88/thumbnail/1200x675/0cbfe385425f1f51ffa4c8788617645c/sky-and-space-nano-satellite.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Telstra uses AI as first hurdle for prospective hires to clear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-dubais-dewa-shapes-the-future-of-utilities-using-artificial-intelligence.md",
       "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
       "excerpt": "This achieves the National Artificial Intelligence Strategy 2031. Dewa collaborated with Smart Dubai to apply the AI Ethics and Principles in all its projects and initiatives, and Smart Dubai AI Lab. Dewa launched Digital Dewa as its digital arm, with four pillars, making Dewa the world's first digital utility to use autonomous systems for ...",
@@ -378,7 +422,7 @@
       "path": "_news/2020-04-07-apple-acquires-ai-start-up-voysis.md",
       "title": "Apple Acquires AI Start-Up Voysis",
       "excerpt": "He served on active duty with the US Army and has a Bachelor's degree in accounting. Follow @dannyvena Apple (NASDAQ:AAPL) has acquired Voysis, an artificial intelligence (AI) start-up focused on helping systems provide better responses to voice commands. Bloomberg reported the acquisition on Friday. The most obvious application would be to ...",
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
@@ -1259,50 +1303,6 @@
           "width": 1200,
           "height": 600,
           "title": "Glassbox raises $40 million to track customer journeys with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-adoption-is-on-the-rise.md",
-      "title": "AI Adoption Is On The Rise",
-      "excerpt": "Company resources, processes and bottom lines will be constantly scrutinized and re-prioritized more than ever. That's why 2020 is a key window for AI adoption and acceleration to take place across the world.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
-      "publishedDateTime": "2020-04-07T04:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "AI Adoption Is On The Rise",
           "attribution": null
         }
       ],

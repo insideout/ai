@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-09T07:20:00Z
 webUrl: "https://www.siliconrepublic.com/start-ups/covid-19-startup-solutions-coronavirus-entrepreneurs"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 1100
     height: 825
     title: "8 start-ups turning their solutions towards Covid-19"
+
+related:
+  - title: "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19"
+    excerpt: "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ..."
+    publishedDateTime: 2020-04-09T11:03:00Z
+    webUrl: "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
 
 secured: "91D3NX39bcXQfpngg/sR68hE/V910exdjiIUE/2rSC5LB/bjds6K2CqyJP4hGOBRKG5HIiLYqxUiSJ5YURTIYlTiZoe+pusUdHsoOSruIngjVdbj5C15eh/lQvHt2eFx/G8K05PTr2fH7ZK7+y9fuhXZLTcgJ2SpnOmERBQmkJg7NK/KqdEZqZw3r8SvqcYioB5gC4LWI0fb1v5f0G2Gq0tX6emfff7BaDp8cLx1avHGzGb49bmVJGR0aVpa22XL9d1cy0XbfNVlJP4mQuFiaxK4mRPOdJ+L+b5y74wcsAYlkdJeZzFfBBF68hotNqH5PRfeZAfIvk/UTmHHHUh7X0zmO+okSAqmhS4prwnevuFOY/B6Abp3y+8DHsed5Bt8ffp8tZfpVlWNTW9yG1VoElVr6JRRIXhJdbSQyhALTF/LX2athDg3abe/grhd0sSiOq7AKuSo+Xf0vFIYMueoOwZ1Q22q+VMpiepKjMywXO0=;Rvh0r1CCs7x7JeldtnPQ3A=="
 ---

@@ -163,19 +163,27 @@
     {
       "path": "_news/2020-03-24-the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305.md",
       "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
-      "excerpt": "NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive ... are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services ...",
+      "excerpt": "The cognitive computing ... computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-8666692",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T12:15:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-1029028235",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-1029028235",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-30-5-1029028235",
+      "publishedDateTime": "2020-03-24T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
