@@ -39,6 +39,21 @@ related:
       - url: "https://i.insider.com/5e8c3f97b3b0922413616ca4?width=1200&format=jpeg"
         width: 1200
         height: 600
+  - title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
+    excerpt: "Driverless vehicles are being used in northeast Florida to transport COVID-19 ... An accompanying vehicle, driven by a person, follows it, according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge autonomous vehicle technology and frees up staff ..."
+    publishedDateTime: 2020-04-07T17:23:00Z
+    webUrl: "https://www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html"
+    ampWebUrl: "https://www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
+    quality: 52
+    images:
+      - url: "https://www.orlandosentinel.com/resizer/iYi9LMBDKD3GKRWmhpK920iZT7Y=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RHUO5ROTPRBJXAVWDTN6HF24TU.JPG"
+        width: 1200
+        height: 635
   - title: "Self-driving vans are ferrying coronavirus tests from drive-thru sites to a Mayo Clinic campus"
     excerpt: "Self-driving vans are ferrying coronavirus tests from drive-thru locations in Florida to the Mayo Clinic campus in order to minimize exposure of the virus and free up healthcare workers."
     publishedDateTime: 2020-04-07T15:41:00Z

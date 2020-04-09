@@ -32,6 +32,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
+    excerpt: "This is attributed to the increasing adoption of automotive AI components for implementation of AI solutions. Energy-efficient System-on-Chips (SoCs) and dedicated AI GPUs are assisting enterprises in deploying highly sophisticated onboard computers with robust computing power. In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip ..."
+    publishedDateTime: 2020-04-09T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Healthcare Information Technology (HCIT) Market Global Analysis, Opportunities And Forecast To 2025"
     excerpt: "Healthcare Information Technology (IT) Market will exceed USD 441.8 billion by 2025; as per a new research report. Emergence"
     publishedDateTime: 2020-04-08T05:57:00Z

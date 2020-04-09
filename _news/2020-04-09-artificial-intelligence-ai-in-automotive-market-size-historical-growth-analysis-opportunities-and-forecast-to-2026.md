@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,"
-publishedDateTime: 2020-04-08T09:06:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
+title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
+excerpt: "This is attributed to the increasing adoption of automotive AI components for implementation of AI solutions. Energy-efficient System-on-Chips (SoCs) and dedicated AI GPUs are assisting enterprises in deploying highly sophisticated onboard computers with robust computing power. In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip ..."
+publishedDateTime: 2020-04-09T05:58:00Z
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
 type: article
-quality: 81
-heat: 111
-published: true
+quality: 60
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,25 +18,25 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - AI Hardware
   - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
-    title: "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "This is attributed to the increasing adoption of automotive AI components for implementation of AI solutions. Energy-efficient System-on-Chips (SoCs) and dedicated AI GPUs are assisting enterprises in deploying highly sophisticated onboard computers with robust computing power. In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip ..."
-    publishedDateTime: 2020-04-09T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
+  - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025"
+    excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,"
+    publishedDateTime: 2020-04-08T09:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,6 +66,6 @@ related:
       domain: benzinga.com
     quality: 19
 
-secured: "uBh9NEyX/zaiL0PvNtyweWCz4LaenGkUCxiel8XPDFecUaEiFqIrHAAOpa1O1mP0EmV3YsL8fpZhIPj32ma7wEyq2G8rFS8yC0VVHOPca3ia6tNYJkT1WRKuYWr6JUSZRnHT+uIGBZApLsPJDjutH1lHUbcGaJfZvQVWVmMh347ea0sr4aeMTQp5r6UafPTAdYYrBJrYHbxg0LEFmRpAO7hiNSHO3wL3ZihS628QaRgXIpdvAOjPLnVaXzzDTwgYME5vyhlNNBENYnk8sC5rx/9pDPgxgr0G9NQaf7SoeapDr18jh5WaCCqRw8CvBbRD;ULtPlfLjTe4olRs8spcq0A=="
+secured: "y0LVSdso8LXx/L1dWMGWLJQjY0WuexceO5Mft3YCP8Rg+zMME41PZNtSL5YeEVOCAqjY+A+f8IWmN2EXGV+SC7SnRu02fEBslDxrXSGXREEGChMKsD+5AaNaZGWrz3VvjcG36LH7lPrumlTQUMgkyP1Qq8KefA4pmM5LHuPbuIsHuxvAesD2Tx55VS6o2ibsbXUbcml2z6kOH360+SH+8xQoe/9CFinHg9lzWDiMuTO3VuT6ylg/AxZV4lx6GIntLn1bsJ222wrTCFMP0m4euLbWdJFeGiksPqeIyAK0+vaDKnZkkdclSDDaK2F8+/QI;COIjj2WYyAQbrXtz7XXvJg=="
 ---
 
