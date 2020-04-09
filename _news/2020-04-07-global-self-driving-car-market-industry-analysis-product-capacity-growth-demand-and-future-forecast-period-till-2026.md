@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026"
-excerpt: "The report provides rational insights along with historical and forecast data to aid in better understanding of"
+excerpt: "Key players of the global Self-Driving Car market are included as given below: The major players in the market include Tesla Motors, Audi, Ford, Toyota, Google, Volvo, Nissan, Baidu, Apple, Daimler, Dutch Automated Vehicle Initiative (DAVI), BMW, Volkswagen, etc."
 publishedDateTime: 2020-04-07T16:05:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07"
+webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-market-industry-analysis-product-capacity-growth-demand-and-future-forecast-period-till-2026-2020-04-07?mod=mw_quote_news"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -27,21 +27,6 @@ images:
     height: 630
     title: "Global Self-Driving Car Market Industry Analysis, Product Capacity, Growth Demand and Future Forecast Period Till 2026"
 
-related:
-  - title: "Machine learning market:Market Size, Market Status, Top key players, and Forecasts 2017-2023"
-    excerpt: "The Global Machine learning market report provides an in-depth analysis of the Global Machine learning market during"
-    publishedDateTime: 2020-04-07T16:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-marketmarket-size-market-status-top-key-players-and-forecasts-2017-2023-2020-04-07?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-
-secured: "1qlyXCcDJMGZcEYeAbSKIwCIXIO6BksR5IsED+W9BbR0N5xbKVxU8sO5Ok0xOAUcElt0w7Fm3t8TB9EgUGrqlN6I29VsgYkqiFN1o3d7S9EYe5hxTfbaIQsb5rJVIPeaSA0SEyDe1GbQqzbH4GmwwTDwpkQiaD2QjFTVhAcVyUtsfnSNIxS1+foSou8Ud3H8m+A5UalG23JrL7ThEOeUBIDLaJ4ieagScr93rDYIhkdce2RNirOZdYRfrSaTQshNOBqg5XQu3hEZ6m7vlQ9rDS457OsI7SdaSpVwuvjqyUhBJu4JJLqPvh9Cye+HtnUf;nc9lBRIr+MxoAccpzMTyrg=="
+secured: "VUwOJ3wBLSgEt0voge02p3IUv8lRK5xYuLpLS/oDiUMtNU7ZloOMUfYJEzJhh50W0XnS9K3yXmVTBZAwMgADCYrNLPM5BLyZdaB+RB6YrhJOo2a0QYLP62a++6bd2GhqjsFqJtJsEk0dL/7OuIBmJb0n4DoFsW/sx+mozk/6dy4IS18wyE9NIwlzpwTTbMM0ZgLkwJYZScMcUQvndvbZQveQC1Q88n/MSy/o8V9TROYB2oajAjq8a5f+26wTpHRhGY7fdg/7W5KqanKgPJNxI+HTMIT+WvfPyXyh4mLs0+GWPxAVk5328LkIpBpwRAk9;FHO1Lh9RbZCDmIfeJTrdMg=="
 ---
 

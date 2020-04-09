@@ -3,21 +3,17 @@ category: news
 title: "Coronavirus: Google Duplex AI arrives in UK to ask about opening hours"
 excerpt: "Google’s AI phone assistant Duplex is contacting businesses across the UK and asking them what their coronavirus business hours are. It is using the responses to update company listings shown on Google Search and Google Maps. The Duplex AI assistant can be used by people in the US and New Zealand to make restaurant bookings and other ..."
 publishedDateTime: 2020-04-09T13:30:00Z
-webUrl: "https://www.bbc.com/news/technology-52232121"
-ampWebUrl: "https://www.bbc.com/news/amp/technology-52232121"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52232121"
+webUrl: "https://www.bbc.co.uk/news/technology-52232121"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52232121"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52232121"
 type: article
-quality: 87
+quality: 57
 heat: -1
 published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -59,6 +55,21 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg"
         width: 1200
         height: 675
+  - title: "UPMC seeks to speed up clinical trials on COVID-19 treatments with the help of artificial intelligence"
+    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” He compares the REMAP approach to a chef offering a prix fixe menu ..."
+    publishedDateTime: 2020-04-09T16:22:00Z
+    webUrl: "https://www.fox43.com/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 43
+    images:
+      - url: "https://media.tegna-media.com/assets/WPMT/images/071249cd-4235-4539-b33d-45b9138af828/071249cd-4235-4539-b33d-45b9138af828_750x422.jpg"
+        width: 750
+        height: 422
   - title: "The ethics of developing COVID-19 treatments and vaccination"
     excerpt: "One strategy to expedite the vaccine process for COVID-19 is turning to the power of artificial intelligence (AI). London's colleague, Carnegie Mellon professor David Danks, looks at the intersection of ethics and machine learning. He's seeing no shortage of worldwide suggestions of how AI may play a role in helping to find quick treatments and ..."
     publishedDateTime: 2020-04-09T13:35:00Z
@@ -84,6 +95,6 @@ related:
         width: 1100
         height: 825
 
-secured: "547Dgohau74EoNwAUgrNOT7CsDpzLl/3eq8pNEvbsEQf4oaq6B6FbODEFMVz2p7rB0VgrqBhqNCKN+DEbnAZcCvo5WsY9KKZysrvqlli6nOA/tXg8WgoeEabJtyRL/PC/Exirx/JI6LcUQVExdy1id9Lxx+mZ/up265gbKHjuRFn4I8+i7NUPVw4MbTCKytIU8UxZ3f5HrtsdMkYDZN0hoZ4LP9roFi01wfymjuaJYd52WXtKIus+s26TRCVLVCmUcuhmi2jNip+YT4KtyORdzVfijoJXZH1FAGboPNayk7ZnBgol65O+HlSAlPyDDdu;iKSs5QHWQYsYHspQ4OApxg=="
+secured: "PRxF5EMJZw0ifanZHKSIPY45n3UGVmI08SDzfZZtjHxIXkiXWoKq2sTC8T06tNcEp4imTcbaFA279a62IvfX/aLDOCHjMM1j1O/8p66b4D1TyJJjHIhDwqkVpLMkFFCjwQG96Rb3S0Pf+73gUicUyx1n9S+0npDD9CRl6q9kyoT0Tulty5cGmyoUS0+gAi8ExAltxei3mssWmou3fnSSQEYGhI5rmDj9W4/VHso1VHsSnHGm6W7VcZJSXYZ1n0Z2Bzg4Y+bnTRwt46dLz7QquSQGjiFG+wsawXMdGZG8XI3s6CbAa2dD+nyfXZ3VzxJv;+4bWQzGl14U9sEzU1ddbzw=="
 ---
 

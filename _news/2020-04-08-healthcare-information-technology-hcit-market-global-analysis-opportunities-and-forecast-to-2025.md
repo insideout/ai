@@ -29,9 +29,9 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,"
+    excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value, market share, upcoming trend, market size, growth rate, trends analysis, segment and predictions from 2020 to 2025. The Artificial Intelligence ..."
     publishedDateTime: 2020-04-08T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
@@ -65,6 +65,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 19
+  - title: "Time Series Analysis Software"
+    excerpt: "This intelligence report provides a comprehensive analysis of the Global Time Series Analysis Software Market This includes Investigation of past progress ongoing market scenarios and future prospects Data True to market on the products strategies and market share of leading"
+    publishedDateTime: 2020-04-08T22:33:00Z
+    webUrl: "https://www.openpr.com/news/2004405/time-series-analysis-software-market-will-hit-big-revenues"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 4
 
 secured: "T8FmLzxzl7tUvYl0t4fAyQNDIIL5gI/rry0Ds3QVHOftiIrAsKaW30qpiegefY5a5JkslszqVLkUNKB+1nJQmEQS/7VWlnI8BllbtxwgIFoB4OXs2cgKW7RS2/M++Xg0NLvIaSmbycKQJ/Csd3iDkfZINyHJm16qiyMWEEIpp1DNVIXKnw4U6goW0XJibW8yWfSOP2e2mbYmzUR5GP4dGSp1YEsX25LpNK9HYcx2i84PYTLV2nNyVqgWDuayoSX8+IlG6ZwLXw2407H0/dHHLJfW4PWPmKIVTr6US+VI4Ytri4qo+Jq95mQtBypEn2Du;8++26yjEOXrv1DXXIvKU3g=="
 ---

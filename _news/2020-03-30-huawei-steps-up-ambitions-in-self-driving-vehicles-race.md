@@ -20,6 +20,6 @@ images:
     height: 512
     title: "Huawei steps up ambitions in self-driving vehicles race"
 
-secured: "0P3HjHqjO/yxU6tpq3UX+G7LVze6BMRwnRxiyeIQuuP3drlUHqeU3oy8skBIjyp9DWrebaahEypp+UqSd9vhQRSfYR5/w3NQjObofBzlrS12RivBPaRsUosL2GT48TSCQeZ68ROj9UvS2F+CoVg5u4elvKDU0MYG+rCsX4pvMRB1r18Gfi/JMrisjcg/Z7PrDuJZPgJe4uu3tAjYDQXJf5ruQCKmmn3oejbrqt6KZmgk632Whka8PwF3EvRqSESXwd0S7/48vuDYBRVdnPMu3mOLXfu+oftY2y+Dm9Wce//zxy4lRhElgVHiUxEsoQwh;aWNeHOcDwjD2gRH5EqDfxg=="
+secured: "dNIjkPAWGi+4hzRVZ/8YOvQc4QI0whYoVwU2dvH86pPx/Qbj0YatFX/2W4zbgtq5rEi4L/IxHmLAt6MchOvvlZb0oXSGlMvkUqlfTrBQrnAKjBZPa+xPE3GOhBRfhxthcw9Af+jtfRj/ovf2VK6oQbSWy7FqJsJ0H5AeTcEw3qSuSJtKPCSms4soa9jSwjNeFGwhyNobC+6ZEq7eDDHudljt0SJJEfJTI/6T12tR1I8ghsP0kg6PwFt3+qPJzGqZ612Crsoog6ycPqN4oAtTOPITWYWXZ6v4I5RezVa+4aCU6auAmYhmNUXSMNSD/iB6;Zb4YZLkYxONPE6+vwc+/3g=="
 ---
 

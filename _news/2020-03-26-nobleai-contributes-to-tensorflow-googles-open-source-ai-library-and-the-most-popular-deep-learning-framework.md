@@ -1,44 +1,20 @@
 ---
 category: news
 title: "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework"
-excerpt: "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to"
-publishedDateTime: 2020-03-26T18:52:00Z
-webUrl: "https://www.prnewswire.com/news-releases/nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework-301030567.html"
+excerpt: "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more than 140,000 stars and 80,000 forks of the codebase."
+publishedDateTime: 2020-03-26T19:37:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/noble-ai-contributes-to-tensorflow-google-s-open-source-ai/article_8d105830-c076-5896-94dc-e71794a8c369.html"
 type: article
-quality: 50
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Machine Learning
-  - AI
   - TensorFlow
+  - Google AI
+  - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1138197/Noble_AI_Logo.jpg?p=facebook"
-    width: 1721
-    height: 903
-    title: "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework"
-
-related:
-  - title: "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning"
-    excerpt: "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ..."
-    publishedDateTime: 2020-03-30T00:32:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 75
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg"
-        width: 304
-        height: 430
-
-secured: "ZIoExGMEbArI6wmcZ0FumMFk2LJRPAopP+r710tZXHCgHQ5BrcErIt3AgNT/REaygwwCcU5ocwSpCiZvyNvryr1xFTfexMyggJ2L+fY63Eo1/xU73KhKBf2ziue6E6P1FIbQIiMJHnIHjLTp5URKXTp4fGGG3xMlhOB9sG1AIpKGrH6673PuEXlRe5dYUpRiscYcFhRsjgNSQkGgYpHZ+oJaLUwSm/jFsm1KOsXUtMDa3W4f3mYZWI+yONiD4YevJJI9Zj00Mlj30e8NjCMJEkRd5gqWbAFyZUyTTo3JaP7+Ov/mP7kbRLs2Jh0RiE2G;k9PQDz3tF4HNDuXuuDIdGw=="
+secured: "eJIe4RWfZDbIgCc7aET88XLESKppBObz04BFFQFKj63+o0QKlbulLcyxYf+uSu/j1ZLiX0eWW2DotbmSwJnVLR9ftFeRHJEdh72QRni5D54FIIdXQt85egYAyQxJ5NXb2C/n5dTIAlxIMLcON3mel651OSHu4Qm7iqo+mDew32/+VxfILkdc/U8ULhsVI0y2tXErZSNPmTGeQpaRJBuLaUnLAjmSQZDqakSCUcwH+mcLdFLGgXiyyqT75qKnJ7jzq8tbs+ielk5LJqWKdq9XrsHRKT/hnHX7Rqc4d0bujOHiT1uxq56iH30mwQXHBOvw;uAeaIgZrmJP3G8U1aaLAbA=="
 ---
 

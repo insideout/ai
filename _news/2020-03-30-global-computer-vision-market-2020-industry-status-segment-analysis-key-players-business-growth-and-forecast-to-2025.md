@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025"
-excerpt: "MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a global level regarding demand,"
+excerpt: "Mar 30, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a ..."
 publishedDateTime: 2020-03-30T16:29:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30"
+webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30?mod=mw_quote_news"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025"
 
-secured: "S1KEU82TCp31utbH/Vz7+8KbU2o5tvDc1nhUM1RxE69Vw7H7mDdKq9enCFYqmKdMYGBTfY2PuOqnF/SMNTP2N+iak8LdLFTergsO4b9uUDzkVlyINJ8ubn00qIYwtuLgwBaU4NkuEmIIrRwNJgjODisv9x5eesvzU2ooGnNQnwF/Ay0P4b8x6zB8Kepjql7/HrP/Au2W8n0V5cgUGW0BuNHK+FiBum6uzktQDeQySdUnworNy9J2/OG/BsX7rSGj5YZJAD8f4VkIiB7eOi6JTQE2q7MmCyHPYGdc9ybKgt95AJDMCZKtf9bbcE1gs7A5;9+gPPw0H8bHov+gYs8St9g=="
+secured: "wj+6096Gaw2nB/WXV5zSgFn1U7VYANEyo6BBNla1z5nqacKY5IMWPXlvLbPJW1gF72vrTSmsxh0b2GgBdO1yOjezCDMC08PorJMBhV1x3BrH1TIKoDk7SWScSwAgJS0bAU4X6PNFwnYMHeQ7nQfPR0DjBZhypdcJzmphPEHJ4jBjklwRN18csjqa0mNALbSZ6fNScmRGqOz+S/IoxLop9A6SCRkSr9/qviPwHNPYAFlQm1YyyYkSsoDTTFCbWp+rAKyBBuXvFgS0s9RpwWrzsHalKvItEGp4qHlUhn2BaIAUBfatmUb0TvNQ5f7rK9hv;BDAJb+XQUjwV4jVj+qSqvQ=="
 ---
 

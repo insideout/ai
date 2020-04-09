@@ -65,6 +65,19 @@ related:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
         width: 1416
         height: 829
+  - title: "BlackRock to host Aladdin platform on Microsoft cloud"
+    excerpt: "BlackRock will also adopt Microsoft Azure’s network of data centres globally to meet the localised needs of the Aladdin platform’s clients. They are both also planning a new initiative aimed at expanding sustainability data and analytics using the latest technologies such as big data, machine learning and artificial intelligence."
+    publishedDateTime: 2020-04-08T12:15:00Z
+    webUrl: "https://www.thetradenews.com/blackrock-host-aladdin-platform-microsoft-cloud/"
+    type: article
+    provider:
+      name: The TRADE
+      domain: thetradenews.com
+    quality: 39
+    images:
+      - url: "https://www.thetradenews.com/wp-content/uploads/2019/02/iStock-966932508-300x225.jpg"
+        width: 300
+        height: 225
   - title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
     excerpt: "Please log in, or sign up for a new account to continue reading. Give us a call at 423-581-5630 ext. 366 to be set up for free, unlimited access. Please log in, or sign up for a new account and purchase a subscription to continue reading. You will receive full, ad-free access to CitizenTribune.com as well as full access to the Electronic ..."
     publishedDateTime: 2020-04-07T20:15:00Z

@@ -25,6 +25,19 @@ images:
     title: "Balcan named recipient of ACM Grace Murray Hopper Award for machine learning innovations"
 
 related:
+  - title: "Maria Balcan to Receive Grace Murray Hopper Award for Significant Contributions to Machine Learning"
+    excerpt: "Today ACM named Maria Florina Balcan of Carnegie Mellon University the recipient of the 2019 ACM Grace Murray Hopper Award for foundational and breakthrough contributions to minimally-supervised learning. Balcan’s influential and pioneering work in machine learning has ... single recent major technical or service contribution."
+    publishedDateTime: 2020-04-09T15:26:00Z
+    webUrl: "https://insidehpc.com/2020/04/maria-balcan-to-receive-grace-murray-hopper-award-for-significant-contributions-to-machine-learning/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 27
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2020/04/maria-florina-balcan2.jpg"
+        width: 500
+        height: 500
   - title: "Maria Balcan Named Recipient of ACM Grace Murray Hopper Award for Significant Innovations to Machine Learning"
     excerpt: "The latest episode of the This Week in HPC podcast features Carlo Cavazzoni, a senior staff member at CINECA, one of the leading supercomputing organizations in Europe. Intersect360 Research's Addison Snell spoke to Cavazzoni to discuss both CINECA's work using supercomputing to combat COVID-19 and Cavazzoni's personal experience living near ..."
     publishedDateTime: 2020-04-08T14:36:00Z

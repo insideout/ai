@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-figh
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
 type: article
 quality: 102
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -31,21 +31,6 @@ images:
     title: "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19"
 
 related:
-  - title: "Coronavirus: Google Duplex AI arrives in UK to ask about opening hours"
-    excerpt: "Google’s AI phone assistant Duplex is contacting businesses across the UK and asking them what their coronavirus business hours are. It is using the responses to update company listings shown on Google Search and Google Maps. The Duplex AI assistant can be used by people in the US and New Zealand to make restaurant bookings and other ..."
-    publishedDateTime: 2020-04-09T13:30:00Z
-    webUrl: "https://www.bbc.com/news/technology-52232121"
-    ampWebUrl: "https://www.bbc.com/news/amp/technology-52232121"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52232121"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 87
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A106/production/_111722214_google_assistant_button.jpg"
-        width: 1024
-        height: 576
   - title: "Open-source AI tool aims to help identify coronavirus infections"
     excerpt: "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold."
     publishedDateTime: 2020-04-09T13:49:00Z
@@ -61,6 +46,36 @@ related:
       - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg"
         width: 1200
         height: 675
+  - title: "Coronavirus: Google Duplex AI arrives in UK to ask about opening hours"
+    excerpt: "Google’s AI phone assistant Duplex is contacting businesses across the UK and asking them what their coronavirus business hours are. It is using the responses to update company listings shown on Google Search and Google Maps. The Duplex AI assistant can be used by people in the US and New Zealand to make restaurant bookings and other ..."
+    publishedDateTime: 2020-04-09T13:30:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-52232121"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52232121"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52232121"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 57
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A106/production/_111722214_google_assistant_button.jpg"
+        width: 1024
+        height: 576
+  - title: "UPMC seeks to speed up clinical trials on COVID-19 treatments with the help of artificial intelligence"
+    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” He compares the REMAP approach to a chef offering a prix fixe menu ..."
+    publishedDateTime: 2020-04-09T16:22:00Z
+    webUrl: "https://www.fox43.com/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 43
+    images:
+      - url: "https://media.tegna-media.com/assets/WPMT/images/071249cd-4235-4539-b33d-45b9138af828/071249cd-4235-4539-b33d-45b9138af828_750x422.jpg"
+        width: 750
+        height: 422
   - title: "The ethics of developing COVID-19 treatments and vaccination"
     excerpt: "One strategy to expedite the vaccine process for COVID-19 is turning to the power of artificial intelligence (AI). London's colleague, Carnegie Mellon professor David Danks, looks at the intersection of ethics and machine learning. He's seeing no shortage of worldwide suggestions of how AI may play a role in helping to find quick treatments and ..."
     publishedDateTime: 2020-04-09T13:35:00Z
@@ -86,6 +101,6 @@ related:
         width: 1100
         height: 825
 
-secured: "SQGe1gmQymEPzOOOKQBVUHm3AkZUPDsgIUnvD33nKNQPw7hIu69fJfgTpfeGrYvJ1mkPtjfSxskc+IP1X+NOi3WWOTRfWghgCyAHP0pcCitOYU3Q3e6MlWVQdB77/xS/ilC/mHZ1RGzsO3/fMx2xCNs46Jp/ZjpetBycl/pTH5bOPn/F6mv3F1KGr2GJ+PhxEJxhrnPgBlCQDZ1MrO21UGRHcRmWGDoPBRN7FGlK9F/oDuyciAKSB6r51GUbZejk5UG5XqR01wjz/eYsJteQ3S435wG1xqu2kyHk8Ilufu2mpRbNbfLwGoK8jCorAbt9;x2qoiGff++CpAXFRss6BVg=="
+secured: "EQpvLHHpHl+N8zC7VFlbvD2eA1zFaaVBPfkeLoI9w9dYxa4vJ/Muzz6EwcsSczsLJnZE+mzHv+dXrgUGLwuI4lhBLSL3HSk5u0yDnhkafWIYwRtmC4A73o/nleAr0Z1FFUbv7UIxyDedawwbC4BPPLh6dCSjlvp4fiNJtZby7ZYyjr2Pa1LFITFh7Lb/xB1fry359JvcsRwcU+cGBHyN0qsF6jNxEIPwqxc5wS/e6/5a6XeINk8Smz2roNecjyEKQZbADoWH525W+r9vVbaJxJjlwywZOHw04qard/2wSsnNqZ6HnnThorFuzoAnfrhCZby3pFYxl23Zcws5V0Z9tMoKnB/r6I3iGR10oCZVirzThoS1VUFLmyVUT/v3IBRB5ElLC/RPSPN5wNORuCxOWRTGO//KLnrXMncAdUsAwmnpJlVSfC1sdne0DUGh81CCreaBhFDR6zWP+cMEIy7wtcPsO1OORfhp7bxy25wkQws=;1+FoCehNVtiQMwxein3oGw=="
 ---
 

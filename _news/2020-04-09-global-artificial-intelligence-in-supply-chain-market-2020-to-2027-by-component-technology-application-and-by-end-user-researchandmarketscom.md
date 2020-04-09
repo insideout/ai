@@ -5,8 +5,8 @@ excerpt: "11. Company Profiles (Business Overview, Financial Overview, Product P
 publishedDateTime: 2020-04-09T11:22:00Z
 webUrl: "https://www.heraldstandard.com/business_ap/global-artificial-intelligence-in-supply-chain-market-2020-to-2027---by-component-technology/article_74cc3c04-1e8b-5e26-b959-62675d76a006.html"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: 15
 published: false
 
 provider:
@@ -15,6 +15,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg"
