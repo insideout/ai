@@ -28,6 +28,19 @@ images:
     title: "Deep Learning Market 2024: Global Size, Share, Key Manufacturers, Upcoming Trends, Growth and Regional Forecasts Research"
 
 related:
+  - title: "Speech and Voice Recognition Technology Market Size, Technology, Development, Analysis And Outlook 2020-2026"
+    excerpt: "Apr 07, 2020 Xherald -- The Market Research Intellect has recently added an extensive report to its repository titled Speech and Voice Recognition Technology market. The latest market study provides a lucid understanding of the Speech and Voice Recognition Technology sector and the report scrutinizes the data by using primary and secondary ..."
+    publishedDateTime: 2020-04-07T22:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-technology-development-analysis-and-outlook-2020-2026-2020-04-07?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Global Voice Recognition Market 2020-2025 Growth Analysis, Competitive Situation, Geographic Segmentation and Forecast Opportunity"
     excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
     publishedDateTime: 2020-04-07T07:08:00Z

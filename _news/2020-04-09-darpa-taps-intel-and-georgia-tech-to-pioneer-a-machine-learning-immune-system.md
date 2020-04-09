@@ -7,7 +7,7 @@ webUrl: "https://www.techspot.com/news/84769-darpa-taps-intel-georgia-tech-pione
 ampWebUrl: "https://www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg"
@@ -40,12 +41,12 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024"
         width: 1024
         height: 682
 
-secured: "smB4Hwxsd0GS+SYLqNaC39PAAPDr3fbLE5UA5I67mi6NEEWf/Uw2PQ9fv4VTOZ0VvfLTWbIh28xFykS6PkZ80jiNVn04xW7bglKxnvyL4WU0AaQMkrxQveVcTh9s4OPs1wUHzLSLCI+VnU10bZ0Z8VqbioeEzg2aX/pPkAeWbyUsdpNVNHTZ2+PSgg8vbtHEZHotuJ7tIFCbE9Or9R+Twaag9ueTD5bb0QPfstQ6At0cNbDsljyPl0qEobmLuEuAsUg1Gx2ILzZ+U2rt3ywS5EbbvdVATW0unUQ2/RwfSIbxLqw8e+7RcL37gMBKxn1X;0HzltpS5kHvX2MwmjHVXaw=="
+secured: "BHWCCT+jkP0j7Th4GUQraKst0hq3RZ74LJ8gna7E/AGwY0C8+qXwxok8vZ51axnamQhmP/NC6relgCGCPpAIlEK6wCfhjyIKdp3+vWig76Y5dSlwzrY86pqYji5DE8eFmpuzl9p1ReQijyYs0vhVrETi48R/qc/bFMCYBj6iFk5mGWmEbivSjVgfTaF3CzaunyZtBxAQCfIKNlYRYeC36FUuAceoY2Db+6uwaGhUN7z/zkz9bdkzpLs9S60nJuRDVFy4dp65th2Zq+AV4ag014BUaS+YlIR8f3cNXaiRJ/Ow5rJhTzMFCrfJcOZUak5Wu/a690yCeVulzhkPlCeZ6CrYvFEEKehQrQgEBVvSY5w4Fs6J2XJzkA2qO0lyNcmPJFMsNvNjYd4mM3MftuVsPgzs80NMSBmVK7E9z0bcaZCFdNMXoVy8eBx/GcDPJ7WZnqGKM8AtofQZsSZDWMS1EJICwQe/wTuHYAyRJ+7bo4Q=;cNioDK2EIfQimtz8oOYoCA=="
 ---
 

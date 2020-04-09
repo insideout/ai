@@ -41,6 +41,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Speech and Voice Recognition Technology Market Size, Technology, Development, Analysis And Outlook 2020-2026"
+    excerpt: "Apr 07, 2020 Xherald -- The Market Research Intellect has recently added an extensive report to its repository titled Speech and Voice Recognition Technology market. The latest market study provides a lucid understanding of the Speech and Voice Recognition Technology sector and the report scrutinizes the data by using primary and secondary ..."
+    publishedDateTime: 2020-04-07T22:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-technology-development-analysis-and-outlook-2020-2026-2020-04-07?mod=mw_quote_news"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "vC2iQRy02NVaUFtKG18Q+XrIKMnzz9VG17zQYXhugJVpb1XjIBpUb2CTiHgBaUFKzemIROOwcH/4xk+ev67YQBlJw/yPkGz8u6ctt5tC1dkoE3x3Rohu+qf0ZLtcGYa3a3zrohAJtU0LIsGK/PCgrEC+wES/Yam+KR4aCKb3E7rWfRlbsFTElSV20LjRYr4QkKGS/6hwtaws+mK4wd84+G0wZ548KR+7P41oZRMUKfqWLiC6VbbR0zir5iC0QIl/l1o/DqRt8Aqa0+8egjq0l59fP4wrdpBjldJ4tdqhx2UhBhYLXJngCkFgpYGtbEFY;mdYYhWLdSfWo3rayTuOEUw=="
 ---

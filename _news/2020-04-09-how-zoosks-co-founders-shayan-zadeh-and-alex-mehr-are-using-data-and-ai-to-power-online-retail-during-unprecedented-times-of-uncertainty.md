@@ -22,6 +22,6 @@ images:
     height: 1333
     title: "How Zoosk's Co-Founders, Shayan Zadeh and Alex Mehr, Are Using Data and AI to Power Online Retail During Unprecedented Times of Uncertainty"
 
-secured: "MI77BXUx3kkXDh0HlEKi3VmozJqGNjl57ImCKiTEb8QFRELH+fzNJUNXiADhiMAUyJEeRrKYR4fLx2n3s0csDcxuoDdgeR0j/YAf/q2DopA7VfLGNo+WHcfZhZ7ucHFPYrQu/OoHETUGJDIaPa5aypW7p8X2XVaJMYN8puwbvfzj4F024r4LH9pn2za+8dstWchbeclQvbuVU38k4z0Nu0bYYQUlnCQz8QOznjRL8GFF08N21/udDvg6bOAaDKhScQfZktOdev2sLelUVJV3mjM2lwo6/OgPhHArgduCxvFLlPdIjTiRzqAgUt8LEzJ1;DrPc8Yj13/8tkfmn53M9/g=="
+secured: "S7IfnyS/A+qh2JAWh+B78ASjyLt24uACSlkCGtMQFhW1dKklIAL8wDy0Sq4k8r4io8jhSUu0pQ9bKOjKPgxpyrDwLSWIoyYZp6SjcNgVQJvLXw1c9u3DJ2STkyqIC9Q4EkRvrmPFRV/F/f2uEt/dg0+jmLqHYhMZ6zxD0zY8Pzd4JzFOTOzrVfAEqhNKFFVs5wjTewXkQPwFAQ/s5YPPyhVV+0ZhtpB04aFuEu+QKx46uZLy7PNtd0rTXSZ9XlEInIBDuc5XtH6Rh6dvx5bY2BCCeT89t3DMJxybfQtn5bXnUyiJsHyQ6sX0uHeoQ6O1wAgKYQOYHB5F43sJyW9FcrMNEmiAYNd3ZU8ItBPvnSJZvIP42rlpWPlXbwBVicKzsj21qP/D1l4POhH3c6Oir+G2DbX4Rw6AvnJvdMLRgtsXGCz24xZFTze8YE/LEzdVTW2ittA/cVhdCKxoBdLoW6Sil9dEdo7/Br5IZldOXyk=;YE9dRROEZsymVJnhw9t9Yg=="
 ---
 

@@ -7,8 +7,8 @@ webUrl: "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/"
 ampWebUrl: "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024"
@@ -40,12 +41,12 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg"
         width: 800
         height: 560
 
-secured: "x+OTAH+Unu14Al6ORCUnGcSDHZ1PY2uFQ4eyJcxAYrJlU90sf7hRerZ3PioYGBC5tnRUxWkjV7dlmnf5fTbPwl3JfP74W+PoBuETIq436Rgp/9r61XDz+STf+MvFV1bCK5TVskXY6Az3bvWl4aLI/Lmr8fP+a7WZpI3bJ3/bnUhRjZaKb2CzRn/NMG4v13tO+ZOp5f5XnnugauJeOKPWkJswo4wyHJpJqANJ2H/5OXyXXCd59l0MMdrJ2goarfrmFWiJ2omkn7ZH/HOm9T8pW5q7mZmR8uKByZGLo3C8dyaHFG9i45Zr0rN1D7NK4Dok6awUe4cGEq6M1LEJWNdyJC7G8gX3/i1yLnANb3Qitg0P6OG/KTXEb6hTyRARSXL7wVUSDKASteGOEH5jOXxPMuStXa5py3gqsKfO9DRkey6rbsVkBUgaoxrjMNdK2FDIycLhghA+KNupFKm9Lf8xqC3/3QguAhjN+hofoJBOnqM=;/JhRDaiFoympciENLxD7FA=="
+secured: "uQS689ti+UyuLGkKCPYndp4tA0RZPT22gosocJAIFgyNRlrfS/60NFoJ5uxOsjKfljd0VB8vAM3kJDMY3N8zunIAScJYyCipvHxoFEcOH/1KTCaAJ2MIV4ZAFAfaYYXsOpVHZ0Ia8MbT6D/rTkBFonObCImqBOilZkKVGQHeJciDSHwuCX5VCloOO8euzpJYkFkqhXSiAegAs+YBh1wEHZIypkPj57lATYdvUsnlvG/a9CAmqnaamDRu1wU2yvaYWL6NbHE1Nk4MqrlWMrJ1cgXzneJhnTYBJ8XmcY+ypMCzLwSFcfZ2o7hnD0235QlxkhaNVp4mT/1qc01vgKoYMEESUnXHbzAcCfouvs5NzDlkeKu3cdfyFSuxIOvJ5wmkvX6h+z2ZN7+Tfz3Aw4lcEfPFT7b6Pqdej2ivvtETckoMJ4LHU5nOpmSGRYTmokSPQ8D3kPCUbGCY4zwDLtTR74M0VdEKkw8AJfncOkcDXRA=;EQOR2ezq/wAO8rwgBwdQeQ=="
 ---
 

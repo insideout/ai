@@ -82,6 +82,19 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
+  - title: "UPMC Uses AI To Accelerate Testing Of Coronavirus Treatments"
+    excerpt: "There is no shortage of potential treatments for the coronavirus—the real shortage is the time to figure out which ones work best. But UPMC says it plans to use artificial intelligence to accelerate the timetable for winnowing out approaches that don’t work. And among the first drugs to be tested will be anti-malarial medication ..."
+    publishedDateTime: 2020-04-09T15:35:00Z
+    webUrl: "https://www.wesa.fm/post/upmc-uses-ai-accelerate-testing-coronavirus-treatments"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 39
+    images:
+      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202004/anguspic.png"
+        width: 728
+        height: 470
   - title: "8 start-ups turning their solutions towards Covid-19"
     excerpt: "he has shifted Akara’s focus to creating robots that could potentially bathe a room in UV light to kill bacteria and limit the spread of the virus. After raising $56m in in October 2019, Healx has now turned some of its attention to the ongoing Covid-19 crisis. The Cambridge University-based AI start-up typically uses its technology to ..."
     publishedDateTime: 2020-04-09T07:20:00Z
@@ -95,6 +108,19 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/ppe.png"
         width: 1100
         height: 825
+  - title: "UPMC and Pitt are leading a global effort to fast-track coronavirus therapies. “This is an unprecedented pandemic and we"
+    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” Before COVID-19 was even a threat, Angus was working with ..."
+    publishedDateTime: 2020-04-09T20:23:00Z
+    webUrl: "https://www.nextpittsburgh.com/latest-news/upmc-and-pitt-are-leading-a-global-effort-to-fast-track-coronavirus-therapies-this-is-an-unprecedented-pandemic-and-we-need-an-unprecedented-response/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 0
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/04/09120159/4-09-20_COVID_19_Press_Conference-1-scaled-e1586448157245.jpg"
+        width: 750
+        height: 500
 
 secured: "TsTapxGYosRzRxa7eezA+BeJ209wfq4W4m7YLGmtIGaV7Dt+RkW+Bzi+2sg6LbBLpu90fb4FjfPMMmiTRXsGN2iNJXF8aA+p5FuBj1Q2cSr7aosGDUBHZAw+X6Kzy570hz2pvQ6+5llPzZKcuXCQ5k0nuFiScenbU+NITWjJgW3rnYvMgOPttVrQOwNq/yaU/y+LPrL8ivkiH+fTSjdJASIHVHPbPvLY/6ZJXuPRN7I6arqfDcklgRSonMO7JMYYo250i4LuSPCYKI3dfMz+xgUbpSiw2oWfVcGBksVqM8wL885jwY6A11tf5JkEepsIFZoOjmdqtm+cSNJrkbYVnm/rSsesX1cHQTkQnAN1v02KL1VmiSbb3kkySlBZ2V3X3zBRRkDVJR4Y2+UbNPl8fnZqyqWKW8hi9Zvw6BKPhr1OpJSRttTEOFbeunxewVe8psN+HDIMwFVGV87/kMqk6huuomuO5eDHQdp+l5ghv+E=;2vif9psOZDvdQbCDioSpww=="
 ---

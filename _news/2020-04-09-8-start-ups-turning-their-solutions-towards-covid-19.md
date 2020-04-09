@@ -95,6 +95,32 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
+  - title: "UPMC Uses AI To Accelerate Testing Of Coronavirus Treatments"
+    excerpt: "There is no shortage of potential treatments for the coronavirus—the real shortage is the time to figure out which ones work best. But UPMC says it plans to use artificial intelligence to accelerate the timetable for winnowing out approaches that don’t work. And among the first drugs to be tested will be anti-malarial medication ..."
+    publishedDateTime: 2020-04-09T15:35:00Z
+    webUrl: "https://www.wesa.fm/post/upmc-uses-ai-accelerate-testing-coronavirus-treatments"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 39
+    images:
+      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202004/anguspic.png"
+        width: 728
+        height: 470
+  - title: "UPMC and Pitt are leading a global effort to fast-track coronavirus therapies. “This is an unprecedented pandemic and we"
+    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” Before COVID-19 was even a threat, Angus was working with ..."
+    publishedDateTime: 2020-04-09T20:23:00Z
+    webUrl: "https://www.nextpittsburgh.com/latest-news/upmc-and-pitt-are-leading-a-global-effort-to-fast-track-coronavirus-therapies-this-is-an-unprecedented-pandemic-and-we-need-an-unprecedented-response/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 0
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/04/09120159/4-09-20_COVID_19_Press_Conference-1-scaled-e1586448157245.jpg"
+        width: 750
+        height: 500
 
 secured: "91D3NX39bcXQfpngg/sR68hE/V910exdjiIUE/2rSC5LB/bjds6K2CqyJP4hGOBRKG5HIiLYqxUiSJ5YURTIYlTiZoe+pusUdHsoOSruIngjVdbj5C15eh/lQvHt2eFx/G8K05PTr2fH7ZK7+y9fuhXZLTcgJ2SpnOmERBQmkJg7NK/KqdEZqZw3r8SvqcYioB5gC4LWI0fb1v5f0G2Gq0tX6emfff7BaDp8cLx1avHGzGb49bmVJGR0aVpa22XL9d1cy0XbfNVlJP4mQuFiaxK4mRPOdJ+L+b5y74wcsAYlkdJeZzFfBBF68hotNqH5PRfeZAfIvk/UTmHHHUh7X0zmO+okSAqmhS4prwnevuFOY/B6Abp3y+8DHsed5Bt8ffp8tZfpVlWNTW9yG1VoElVr6JRRIXhJdbSQyhALTF/LX2athDg3abe/grhd0sSiOq7AKuSo+Xf0vFIYMueoOwZ1Q22q+VMpiepKjMywXO0=;Rvh0r1CCs7x7JeldtnPQ3A=="
 ---
