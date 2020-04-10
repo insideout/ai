@@ -2,6 +2,72 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-17-tyler-technologies-micropact-global-alliance-members-secure-major-vocational-rehabilitation-and-employment-contract.md",
+      "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+      "excerpt": "The completed project will be hosted on Amazon Web Services (AWS) and will feature 2,500 seats of Tyler’s Entellitrak ® solution ... Chainbridge Solutions leverages technologies such as Artificial Intelligence, Robotic Process Automation, and Machine Learning to deliver the next generation of case management solutions.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200317005053/en/Tyler-Technologies’-MicroPact-Global-Alliance-Members-Secure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005053/en/257505/23/tyler_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Tyler Technologies’ MicroPact Global Alliance Members Secure Major Vocational Rehabilitation and Employment Contract",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-rpa-and-artificial-intelligence-five-questions.md",
+      "title": "RPA and Artificial Intelligence – Five Questions",
+      "excerpt": "Indico CEO Tom Wilde sees a shifting landscape ahead for AI and RPA users as enterprises look to move their process automation efforts forward. Some of the major themes he’s watching include: RPA’s adoption problem;",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/17/2001931/0/en/RPA-and-Artificial-Intelligence-Five-Questions.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-computer-vision-and-image-analysis-online-course-offered-by-microsoft.md",
       "title": "Computer Vision and Image Analysis online course offered by Microsoft",
       "excerpt": "Computer Vision is the art of distilling actionable information from images. In this hands-on course, we'll learn about Image Analysis techniques using Python packages like PIL, Scikit-Image, Open CV, and others. You'll then explore machine learning for computer vision, including deep learning techniques for image classification, object ...",
@@ -841,80 +907,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-russia-enforces-quarantines-with-deportations-jail-terms-and-face-recognition-tech.md",
-      "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
-      "excerpt": "To enforce compliance, Moscow city authorities are using CCTV cameras equipped with facial surveillance technology to monitor individuals ordered to self-isolate. They are also carrying out daily raids in crowded places and at the residences of recent arrivals from China. “Police officers are conducting raids in hospitals, hostels ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnsnews.com/article/international/dimitri-simes/russia-enforces-quarantines-deportations-jail-terms-and-face",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T22:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNSNews.com",
-        "domain": "cnsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mrc.org/U/W-ADS/2020/SupportMRC/MRCPandemicMessage_300x600.png",
-          "width": 300,
-          "height": 600,
-          "title": "Russia Enforces Quarantines With Deportations, Jail Terms and Face Recognition Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
-      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
-      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
-      "publishedDateTime": "2020-03-16T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Exchange 4 Media",
-        "domain": "exchange4media.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
-          "width": 730,
-          "height": 395,
-          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

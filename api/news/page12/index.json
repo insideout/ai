@@ -2,6 +2,97 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "publishedDateTime": "2020-03-30T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
+      "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
+      "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
+      "publishedDateTime": "2020-03-30T11:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-via-raises-200-million-to-optimize-ride-sharing-routes-with-ai.md",
       "title": "Via raises $200 million to optimize ride-sharing routes with AI",
       "excerpt": "Transportation startup Via today announced that it’s raised ... Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction ...",
@@ -997,96 +1088,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
-      "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
-      "excerpt": "Within the Azure Stack portfolio, Azure Stack Edge is uniquely positioned for its form factor and the ability to run ML and AI models. The hardware supports FPGA and GPU for hardware-accelerated machine learning inference. It can run applications on virtual machines, containers, or Kubernetes clusters. It also doubles up as a cloud-storage ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/?ss=ai",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
-      "publishedDateTime": "2020-03-29T23:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg",
-          "width": 1000,
-          "height": 733,
-          "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software.md",
-      "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
-      "excerpt": "The video was remastered to 4K from a DVD source using Gigapixel AI from Topaz Labs, and the episode above had ... with Richard claiming that it took him around six hours to process the work from start to finish. As stated before, five episodes have ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software",
-      "ampWebUrl": "https://www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software/",
-      "publishedDateTime": "2020-03-29T22:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1585544391_kch5d8x_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

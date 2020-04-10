@@ -2,6 +2,80 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-25-manitoulin-robotics-teams-compete-at-first-ontario-district-event.md",
+      "title": "Manitoulin robotics teams compete at FIRST Ontario district event",
+      "excerpt": "Teams had to use their robots to pick up soft yellow balls (serving as power cells) scattered about the playing surface and for the first 15 seconds, they had to operate autonomously—yes, these high school students had to program a form of artificial intelligence into their robots. Following the self-driving portion, drivers take over for a ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/",
+      "ampWebUrl": "https://www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/amp/",
+      "cdnAmpWebUrl": "https://www-manitoulin-ca.cdn.ampproject.org/c/s/www.manitoulin.ca/manitoulin-robotics-teams-compete-at-first-ontario-district-event/amp/",
+      "publishedDateTime": "2020-03-24T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manitoulin.ca",
+        "domain": "manitoulin.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.manitoulin.ca/wp-content/uploads/IMG_4312.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Manitoulin robotics teams compete at FIRST Ontario district event",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award.md",
+      "title": "dotData Receives APN Machine Learning Competency Partner of the Year Award",
+      "excerpt": "SAN MATEO, Calif., March 25, 2020 /PRNewswire/ -- dotData, focused on delivering full-cycle data science automation and operationalization for the enterprise, today announced that Amazon Web ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/dotdata-receives-apn-machine-learning-competency-partner-of-the-year/article_55172511-3105-57be-b800-ee633ae23d67.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "dotData Receives APN Machine Learning Competency Partner of the Year Award",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
       "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
       "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
@@ -1184,79 +1258,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-eplane-taps-ai-to-match-aerospace-sellers-with-buyers.md",
-      "title": "ePlane taps AI to match aerospace sellers with buyers",
-      "excerpt": "ePlane taps AI to pair buyers with sellers based on needs, available inventory, past transactions, and required timeframe, and to automatically send requests for quotes (RFQs) to the appropriate third-party service providers. Its marketplace facilitates the loaning and exchanging of parts, components, chemicals, oils, and repair services ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/eplane-taps-ai-match-aerospace-parts-services-sellers-with-buyers/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/eplane-taps-ai-match-aerospace-parts-services-sellers-with-buyers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/eplane-taps-ai-match-aerospace-parts-services-sellers-with-buyers/amp/",
-      "publishedDateTime": "2020-03-24T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/175c4abc-c5c2-4f8b-8d35-17d02490d38e-e1584995162778.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "ePlane taps AI to match aerospace sellers with buyers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-clinical-ai-leader-jvion-launches-covid-community-vulnerability-map.md",
-      "title": "Clinical AI Leader Jvion Launches COVID Community Vulnerability Map",
-      "excerpt": "The map identifies populations likely to experience severe outcomes once infected and the socioeconomic drivers for that risk, helping community leaders and healthcare providers deploy interventions and allocate resources",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005564/0/en/Clinical-AI-Leader-Jvion-Launches-COVID-Community-Vulnerability-Map.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

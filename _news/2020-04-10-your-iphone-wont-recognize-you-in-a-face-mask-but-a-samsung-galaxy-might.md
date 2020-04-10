@@ -25,6 +25,21 @@ images:
     height: 675
     title: "Your iPhone won't recognize you in a face mask – but a Samsung Galaxy might"
 
+related:
+  - title: "Tricks to unlock your smartphone in coronavirus face mask"
+    excerpt: "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. Continue Reading Below Unlocking smartphones with facial recognition became more difficult once health officials began urging everyone to wear face masks to slow the spread of COVID-19. Naturally, scores of videos have surfaced online to try and help ..."
+    publishedDateTime: 2020-04-10T18:00:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/smartphone-face-masks"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 24
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/mask-phone-iStock.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
+
 secured: "vqV1c4N72PYTjn5rueDtMBZ9EAnUaNwacdDb8TG08SIRfSEEN6TBjwBobndmDUxZUWZBkFthjj0m8Cfgtg0Yhw1Vsqq278jPC0Vlsr3HnXUn6KrHONGxWXfyMNb8Gj1dJJAXs1ZzBScu3KIrjwKL+vYZIzbcWoPRUKyEFRrBz5iO0A6kUtD1mAfTRkuuVeF24idTlLhkFx0HjjNuPBKxsQYLZfqY25ruW1ELaAYYegPXGYBGTgjprRv45Ukb1MsEL2YCF5bDmJn8BJpzacH9fqdPdCeMBLCTJe9XsFuhqsFXebo6jIwn5y3nXWhtZAKk;t/jMC2mH4AzS84DEvAaNRQ=="
 ---
 

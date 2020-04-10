@@ -7,8 +7,8 @@ webUrl: "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-ana
 ampWebUrl: "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more"
 cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984"
@@ -25,6 +26,6 @@ images:
     height: 578
     title: "Infragistics Adds Predictive Analytics, Machine Learning and More"
 
-secured: "C1F1eviLFQfNsxe2aAf4Re1T2cR6JJNt+qeJoc+YOkmPairAdim2RcsLxhzxhAY2m+ufeZWfoVC0CTAZOHs8PEiFo9xbhKT6tagyhE9GsGiuDg0MP6Ev6m33rP2G98GnXBFKC+/eMvo6PK2O74dn8NpNPquS0Yc/HET+SD6T7V/54SDwc5hoNUKkuuIBt5qb1UE8aU4AdkEzDhqZqL4Ioba735KgNwnFH77IAUxombPnpZeWQ5kUPihNWrW7XgeQ2LJpvK1CF+rV8uNqxxEUtDTg9fPhfOeHCPrGd4Gln7p4nNjE/5q9fn4TlaesracE;M6Ojjm2jPCHG8ULRPYAVqw=="
+secured: "/E9sk+6pF9U/cIaNVjLmGYCKLPLmZaEVJE5IGhUPqWr0vFvdyYwELhKiXUGmOZ4lW4WHhUaK4nl8jIv9N1+y14wPtVrE7rOrk52XMEmQxLk50LsA3MDkJ8/BiCXBcT5bxy/Nr4DAQVrlv2rZf2Xs8V8KVpzczYUBgVcTFQLGSoW1irJ/iZ6GjstBI2ECte47k2dtxCF41x6UlQT0YiXPhnG+5b5LpD8VJB8Y2n/Gh1yK7Cik0DL8IrLGPGS13hvEBw+0v65jVrPEkwI/VQ1uHtmu8eQhjh9rEW4sYRacomtGSAA5VbdhNMS9jGwVdylGZf4JdnUG1pfsAoV86fxN/of5IsaK8yjzrohw2n9zVIOZeTRuaWVVC43RilK2Ynu60QL00Il+LSTqcdkBf+u7BPNI1h69gbFS30oU+pDuhxxOA0wlSjKn1Z4okLJi5kuVJm6nJRAKd4lyz+nh/60N/KXHPSWNFNdiH/AePAThV+c=;uJ2IoM8rxyvR0eSpOoDLBQ=="
 ---
 

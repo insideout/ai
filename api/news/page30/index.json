@@ -2,6 +2,80 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
+      "title": "Roboy the robot is fully compliant, soft, and huggable",
+      "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/videos/roboy-the-robot-is-fully-compliant-soft-and-huggable/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/16/e7e28fc1-a205-412e-9fe0-76fc29086f0a/thumbnail/770x578/6562c9429e0a748d1b522ac17b0a91a6/20200224-kaufmann-dan.jpg",
+          "width": 770,
+          "height": 578,
+          "title": "Roboy the robot is fully compliant, soft, and huggable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-botz-the-roboticsartificial-intelligence-etf-is-not-a-bargain-buy-even-after-recent-crash.md",
+      "title": "BOTZ: The Robotics/Artificial Intelligence ETF Is Not A Bargain Buy Even After Recent Crash",
+      "excerpt": "For the Global X Robotics & Artificial Intelligence ETF (BOTZ), its bear market actually started in 2018 when BOTZ stumbled back to earth from its 80+% meteoric rise in the preceding year: Source: WingCapital Investments Prior to the market turmoil, BOTZ had struggled to retrace towards its all-time high, even as the broader technology sector ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://seekingalpha.com/article/4332230-botz-robotics-artificial-intelligence-etf-is-not-bargain-buy-even-after-recent-crash",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans.md",
       "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
       "excerpt": "Then they used a Microsoft Azure Kinect depth camera to compile a data set to train an AI model to classify a hand holding an object into one of those categories, specifically by showing an example image of a hand grasp to the subject and recording the subject performing similar poses from 20-60 seconds. During the recording, the person could ...",
@@ -810,80 +884,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-kubota-announces-strategic-alliance-with-microsoft-to-accelerate-its-digital-transformation.md",
-      "title": "Kubota announces strategic alliance with Microsoft to accelerate its digital transformation",
-      "excerpt": "Microsoft will leverage its extensive knowledge and advanced technologies available within Azure Machine Learning to support Kubota’s AI initiatives. Furthermore, the companies will also explore innovative projects for a more sustainable future that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/2020/03/16/kubota-announces-strategic-alliance-with-microsoft-to-accelerate-its-digital-transformation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-15-middlesex-health-using-artificial-intelligence-making-patients-more-comfortable.md",
-      "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
-      "excerpt": "Middletown, Conn. (WTNH) Middlesex Health is the first healthcare system in the northeast to use artificial intelligence-powered software to Improve PET scans for patients. Typically a PET, or positron emission tomography scan, would take 24 minutes or longer. The tests are frequently done on Cancer patients to see if treatments are working or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/",
-      "ampWebUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
-      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
-      "publishedDateTime": "2020-03-15T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTNH",
-        "domain": "wtnh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2020/03/Annotation-2020-03-15-152535.png?w=620&h=352&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

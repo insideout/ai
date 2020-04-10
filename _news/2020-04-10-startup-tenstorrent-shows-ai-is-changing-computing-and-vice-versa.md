@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/startup-tenstorrent-and-competitors-show-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/10/a686787a-3ce9-4cfe-9343-4aa9033454f1/tenstorrent-grayskull-schematic-april-2020.png"
@@ -28,6 +29,6 @@ images:
     height: 870
     title: "Startup Tenstorrent shows AI is changing computing and vice versa"
 
-secured: "MEbm1HV1v08mgV2Us4xkwzsarLEOQtrvJgM4q1ub8XBmGjiETY4asAzithpTQs0VulqMD+mmanuGSVzbdE4PKEy3BTzRBkEd5PBeYl2CzUqZyg08Nawj7Y3XV30wX+htsTzDDGBkus8k+wNWce83RUw0A3MYTQ1oMt9yqNWVqK1TJEBw/LonNevWwJZ358mH7oLh8yAUDDgOxM5paTqD+q/D6lr2atGV+MroTHvFz1OlDaSmDMieAu+4BofOJEWRyjlskBWd81dmzLVFKdHxMm/x/2tSGsZZLB5sMi/AZv8fBV+jebzBmPnwdL/+uKra;8A8lyOypwuP4d+Jq5RGyNw=="
+secured: "FM3X4kU63U4woEzBsTcMnvCNdVeHG8rrxJI3yFdy02jnvPec7Btw/WQLhue0DJa/6k8/aiPxk6NBV01OwzLFWeFwqxrJOIUsghBI7Zm+cpJXnje3waVJjQWJO/ryXvGzsIZ1TGi2EN43IH6uFI4qvhyWNdPM5waLTD7Ey4BQfp8IHe6qE5d5vdQVhbNdRV6kBXeGMTBCRigHQwbxXccWSeE1DieoSzseqwKDPy32ZPjtUBVcDmfPZSzk2c9b9aNftu3dubGBHxO8wZHSOv0/4hAPoGJuwQQEV3W1lhz1esmO0QiaorCar8g6SIjnhv+m65ScTVXmSSmZ4JqFCE27Geznbwz9BuEhQn793P5yWx0479v2t2/zIx3g4cYLYxY/7CuxZZpZ739HF5eLHqevQw8Mx0e1JjXEAI9FXeNICE1JbOltDO9kgVymngQHIfBXtblxxNQIp7ypjdLXRd0bwmXZ7PoTjy3KNb+bP3DXLS8=;PpxGlHfA+QmYXdu+Va8+TA=="
 ---
 

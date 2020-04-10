@@ -2,6 +2,88 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-26-tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech.md",
+      "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+      "excerpt": "Self-driving truck startup TuSimple is partnering with automotive supplier ZF to develop and produce autonomous vehicle technology, such as sensors, on a commercial scale. The partnership, slated to begin in April, will cover China, Europe and North America. The two companies will co-develop sensors needed in autonomous vehicle technology such ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/tusimple-partners-with-supplier-zf-to-mass-produce-self-driving-truck-tech/amp/",
+      "publishedDateTime": "2020-03-26T16:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/TuSimple-Self-Drving-Truck-5.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "TuSimple partners with supplier ZF to mass produce self-driving truck tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
+      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
+      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
+          "width": 800,
+          "height": 600,
+          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
       "title": "Will this crisis help set autonomous AI on the right course?",
       "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
@@ -557,27 +639,27 @@
     {
       "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
       "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
-      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions. Services segment to grow at a higher CAGR during the forecast period The ...",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.pressofatlanticcity.com/business/insights-on-the-worldwide-cognitive-computing-market-to--/article_36af8e93-6024-594d-b885-36a0ae67e956.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T07:45:00-07:00",
+      "publishedDateTime": "2020-03-26T07:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg",
+          "url": "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 627,
           "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
           "attribution": null
         }
@@ -966,87 +1048,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-virtual-patient-care-using-ai.md",
-      "title": "Virtual Patient Care Using AI",
-      "excerpt": "Healthcare systems need to start focusing on using AI in the patient care life cycle, incorporating conversational AI into their core strategy in order to scale successfully and make an impact.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/26/virtual-patient-care-using-ai/amp/",
-      "publishedDateTime": "2020-03-26T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-35.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Virtual Patient Care Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-the-globus-pallidus-orchestrates-abnormal-network-dynamics-in-a-model-of-parkinsonism.md",
-      "title": "The globus pallidus orchestrates abnormal network dynamics in a model of Parkinsonism",
-      "excerpt": "Oscillatory changes between basal ganglia nuclei occur in Parkinson’s disease. Here the authors determine that the globus pallidus is the source of beta oscillation generation in a rodent model of the disease.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41467-020-15352-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-020-15352-3/MediaObjects/41467_2020_15352_Fig1_HTML.png",
-          "width": 685,
-          "height": 577,
-          "title": "The globus pallidus orchestrates abnormal network dynamics in a model of Parkinsonism",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
