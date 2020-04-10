@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-02-how-ai-will-impact-the-future-of-patient-care.md",
+      "title": "How AI Will Impact The Future Of Patient Care",
+      "excerpt": "While the promise of AI in medicine is huge and will lead to many exciting breakthroughs, it’s important for the medical community and regulators to be wary of its use.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/amp/",
+      "publishedDateTime": "2020-04-02T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-75.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Will Impact The Future Of Patient Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-robots-and-the-autonomous-supply-chain.md",
       "title": "Robots And The Autonomous Supply Chain",
       "excerpt": "Autonomous robots have an increasing role to play in supply chains. They are being used in warehouses, on interstates, for last mile deliveries, and even in stores.",
@@ -1229,43 +1273,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-nokia-stirs-telco-space-with-5g-backed-automated-operations.md",
-      "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
-      "excerpt": "Nokia Corporation NOK recently unveiled an out-and-out AI-backed service offering that helps communication service providers (CSPs) to support future network evolution, and optimize enterprise and cloud services on a global scale.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
-      "publishedDateTime": "2020-04-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1421883099",
-          "width": 1024,
-          "height": 512,
-          "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-cal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 600
     title: "ProBeat: Microsoft Teams video calls and the ethics of invisible AI"
 
-secured: "EbkKiwh3GxKbs9PEFLcK3DHMpABtNUTz5BV3615TOVFvfuXygBt+9DHvyB4a/LIYuU6pXpg6xuOvn+sNj9hW1MhB4bsflRSBLpu4qe7IDVIAikK80tyqD3aoMQOBjFuFy8SVZECsj5uZ9Ld1vB70rBnEHS2eqVHyJxFFOyRwzL5n2Icg+adY/o3HnrmE5gRqN7qj0wp1HYhMobA4jNASLhqmTIhdqHtCY/+Lakmz4xcDB3QpE+rvVSRcZaCyeSTWE7ri+dPSQ0tV7coMPgJCoDpM/TAtedmbYXPo8JJCwv87U8Hylsx/+4QdYOnqfBigA1Uow/kq8Zu7AtivOmU/EAN7CKW/XNfsMxJeeeW5zY+VmSkN9XtpUdg8yBpvgAYoSEj+TZG/oO76v570DBNHqMSKLgDiSo8IyRKtj6/ur+smqaQl6MkQa2H3JVqcozookxbipV4dguh5JjS0IKCehGAi3Qm0iV7QmyY8q8NGeao=;pyxrcEOEHmaqxEYBf3oz7A=="
+secured: "vQh0QXmF1d9q8fxCR3o9PH2G6G91W6B3GuhMGEAw8wvTUpSQPrw3YjbwPG+IDjm590HtM05tRu9DoImaTN6qPGNCEATrUdZOnbtUf6rAjeQLbzeLd/+K/HwuiIDuCLgL4OQ5SfhLh3o7f8Qa/fKA7VrikTUhddbIT45vVIX0QXD4ajIVKhOL/XvZP+nl0SQowPFBOtL2MshpJzuOzJIpbycrQq/LkfYAYvWAMuX1gbOQdqMiDIaLbD12ZYNjQrXo7rN7FGs9Ul8tE/Ivsu0GmqbPflFeVo3b0PhzmzOEDUhw+Jda/grIOO38yTR+Mh0PiMqm1JuiXU8vK0SwISFB6TalPLPIJOGdKUOBgLRKMPYqVtcRiPICYKhPGAXL8esYYYxBrPyWMORaHHgmclLwbK8or4EExTeXGMC/jckH+54+R9H5ha3meDlybnytb9Ayvw6AYqxKF6MZyCpReAVAKXus3hRYnBwmgboGu5TthDI=;g8gILrqCvrl73v8uByA7SQ=="
 ---
 

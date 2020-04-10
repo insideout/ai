@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-03-azure-cognitive-services-get-all-new-natural-text-to-speech-voices.md",
+      "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
+      "excerpt": "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/",
+      "ampWebUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
+      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
+      "publishedDateTime": "2020-04-03T03:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025.md",
       "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
       "excerpt": "New York, April 03, 2020: The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by",
@@ -1045,43 +1082,6 @@
           "width": 1200,
           "height": 914,
           "title": "Robots are learning workplace etiquette at MIT",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus/",
-      "ampWebUrl": "https://mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/vicarious-rent-robot-warehouse-coronavirus.amp",
-      "publishedDateTime": "2020-04-02T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F02%252F3c%252Ff7b8f42a453041b9aa48e8a0173d8bba.dc6de.jpg%252F1200x630.jpg?signature=V6tKc6zRaNLeJbzAlP-3zZ1zzMU=",
-          "width": 1200,
-          "height": 630,
-          "title": "This AI startup rents out robots that can do human jobs amid the coronavirus pandemic",
           "attribution": null
         }
       ],

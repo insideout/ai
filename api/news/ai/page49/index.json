@@ -2,6 +2,88 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-02-15-are-robots-better-investors-than-humans.md",
+      "title": "Are Robots Better Investors Than Humans?",
+      "excerpt": "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds.",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans",
+      "ampWebUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
+      "cdnAmpWebUrl": "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
+      "publishedDateTime": "2020-02-15T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InsideHook",
+        "domain": "insidehook.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853",
+          "width": 1280,
+          "height": 853,
+          "title": "Are Robots Better Investors Than Humans?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-15-why-bill-gates-thinks-gene-editing-and-artificial-intelligence-could-save-the-world.md",
+      "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
+      "excerpt": "(GeekWire Photo / Alan Boyle) Microsoft co-founder Bill Gates has been working to improve the state of global health through his nonprofit foundation for 20 years, and today he told the nation’s premier scientific gathering that advances in artificial intelligence and gene editing could accelerate those improvements exponentially in the years ...",
+      "heat": 203,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/",
+      "ampWebUrl": "https://www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/bill-gates-thinks-gene-editing-artificial-intelligence-save-world/amp/",
+      "publishedDateTime": "2020-02-14T18:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/200214-gates1-630x420.jpg",
+          "width": 630,
+          "height": 420,
+          "title": "Why Bill Gates thinks gene editing and artificial intelligence could save the world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-15-demis-hassabis-interview-the-brains-behind-deepmind-on-the-future-of-artificial-intelligence.md",
       "title": "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence",
       "excerpt": "Demis Hassabis interview: the brains behind DeepMind on the future of artificial intelligence He is a chess prodigy turned games designer whose company, DeepMind, is leading the race to develop ...",
@@ -1203,88 +1285,6 @@
         "AI",
         "Google AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-us-risks-trailing-china-others-on-self-driving-cars-congresswoman-warns.md",
-      "title": "US risks trailing China, others on self-driving cars, congresswoman warns",
-      "excerpt": "While the benefits of self-driving cars are vast, she said, they will be transformational in a lot of ways. CLICK HERE TO READ MORE ON FOX BUSINESS “When you think about 37,000 individuals that were killed on our roadways last year largely due to human error, you think about the movement of goods and people, all the congestion in America.",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/us-china-autonomous-cathy-mcmorris-rodgers.amp",
-      "publishedDateTime": "2020-02-13T14:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://media.foxbusiness.com/BrightCove/854081161001/202002/3442/854081161001_6132318472001_6132305520001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "US risks trailing China, others on self-driving cars, congresswoman warns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-shell-aims-to-enroll-thousands-in-online-artificial-intelligence-training.md",
-      "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
-      "excerpt": "The oil company is expanding an online program that teaches its employees artificial-intelligence skills, part of an effort to cut costs, improve business processes and generate revenue.",
-      "heat": 198,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/shell-enrolls-thousands-in-online-artificial-intelligence-training-11581622566",
-      "publishedDateTime": "2020-02-13T13:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-154203/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Shell Aims to Enroll Thousands in Online Artificial-Intelligence Training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
