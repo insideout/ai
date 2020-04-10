@@ -41,6 +41,21 @@ related:
       - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
         width: 620
         height: 480
+  - title: "UPMC launches clinical trial for COVID-19 therapies"
+    excerpt: "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is ..."
+    publishedDateTime: 2020-04-10T09:24:00Z
+    webUrl: "https://www.goerie.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
+    ampWebUrl: "https://www.goerie.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+    cdnAmpWebUrl: "https://www-goerie-com.cdn.ampproject.org/c/s/www.goerie.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+    type: article
+    provider:
+      name: Erie Times-News
+      domain: goerie.com
+    quality: 44
+    images:
+      - url: "https://www.goerie.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
+        width: 6720
+        height: 4480
 
 secured: "9NAfz3yZ2olPvE5UYTtGc8RLNxQlAwtlnIH88tP8PhJlQZH3gLelcwGsW2ipl6waAS2wlulJAiRQlCk9kW4e5dPeUA526QJ4eCTBq2AjfUXw9rSACoYIAYGDWabUKbaQS/SAIKaIWthq1vsWzqyRmcpe+Qt/ZMzQ4Y617G74SR0AHaAsFRhayJAPe/hEDbuOw+DMXq5q434Pprzn17Gp6jLnVLC+V2ak1AWBAOC4Qbq6uaV4pfpFnNeOriUAri4RNZe8hPGpyIHPYJudl+e4wm2PC/PDO9EtwLe2SAK4Abhe7DLFXBfJ3T35+9Rjy361588qhaLg3Uchn78Y/w31FZwmSbVUwOpIYE5gjc/ye/g/2xY0xP1x33kJU/0GTd+rVJONO+2Au8rJVshAeN47JQU12SVM3wIfwSs5n7Ihel20UaY4IHZbCFvCiv/4/5Td78VBV8j6GCp38RTASjquRHC6F68BS8zzJX4eA9BCbtY=;ZZANuv4lzyOERy5vdmGOWg=="
 ---

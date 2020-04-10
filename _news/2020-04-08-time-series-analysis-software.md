@@ -32,9 +32,9 @@ related:
         width: 1200
         height: 630
   - title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 09, 2020 Xherald -- Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of the industry with brief analysis, data charts, figures, statistics that help take business decisions ..."
+    excerpt: "Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of"
     publishedDateTime: 2020-04-09T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
     type: article
     provider:
       name: MarketWatch

@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 09, 2020 Xherald -- Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of the industry with brief analysis, data charts, figures, statistics that help take business decisions ..."
+excerpt: "Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of"
 publishedDateTime: 2020-04-09T05:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
 type: article
 quality: 60
 heat: -1
@@ -18,8 +18,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -75,6 +75,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "dj3vyE2ct77ByY7P1gJ4Pktizzv4JI7ppBrN76v/MO4YoZS/PzUJEXlr1TXR0lIJnXbgnhpe8OmJciHlh0tvSZe84GyiTjAxNl2PF2H4H2FHNdrmKsBjzmPdMdslNgcv14iiGgdmmCtlhP6IoLHiPgDKI5TK+eNrICHlWzs+gTojK6FhEhfm6rMMES+19VbAqtNcUvTUX8BF1AONx1oXVGEhBow2FrD3UhTxYzJGvGDJJLabmcotCYlOUWQb/TfnyFhB/+9xqh9IRl0tZZQ1XVisGp/RRycqdIHldIr+E7g8sMVcyhJ06zpHMM8HpMRd;RTJFteoCFRXuukQMLDuJow=="
+secured: "5r8yUiT3PIg+ZwPaR1XBKKLkU5x3xf7uFx7MjCFIuyMekZN6leJMTCoff0j+DmWAg0Bmv6CNWa+4bnTLvtTLt/nV0v33ZYYeW8DALLXtJAfnB8e6leMYADDLLt7Mb8T3ehaWmx2h6O95VO2MStbMI9Qc+eRG88TvYJnCpkVilKdl2diV6mYvBgXSj+yzqjUKfYCKhIV5bZ5Au+qn2/dwz3bmIqzza4VyX77VJbaXdNrvzMeyZ6EKSTk6i8QfvPBKVS3s6Mr06E4HDwRpo39No/HzGdWy5EIV8RzkHL600cgeRoaDtI7M44ZCX5NZNcAg;34oi4HQgrz05uf3fDJorGw=="
 ---
 
