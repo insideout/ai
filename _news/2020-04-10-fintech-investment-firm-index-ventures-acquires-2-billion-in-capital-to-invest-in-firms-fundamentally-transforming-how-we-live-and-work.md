@@ -25,6 +25,6 @@ images:
     height: 295
     title: "Fintech Investment Firm, Index Ventures, Acquires $2 Billion in Capital to Invest in Firms “Fundamentally Transforming How We Live and Work”"
 
-secured: "Vm8ouA7xwKALb7V45lj4xFzj7N0PbhFKArRVh6F/qXk3cUYY4RAT0F5C4ptFjXAiaC6m5idJk01qvb2yRm+/EXvFcgYLXMimxsR9K24+xr/kOMjY49SxmFnzzs/NDJEkZeZv2hrCkelNFPTq1MZxDaTPVSln3VS8qgU8qa//KkCsX0FXnhEZW7f0AvQdZPJFaSVfSuI0t2SDf78z5iDL7en7jN9Y67UrjHmGcIwQ/TmhYlLOMgVZZ+63EJeAxiR6dCSFBYvo54uZmU1BhR0ztmu6t6JBTicPWpFSqeIUI4ROFxZCbHaFLYuaPAH174I0;LKgS+lfu8i6Bccys7DaL9A=="
+secured: "YalXHDLtx95J0muYd2FcTdidfFLNjeaZnsI0ZJbeTkqK1BxIWYihEtNKS8OGjdWaiv6v5+6X4gGxQG8ph1fhxhZt53Brh0jM2SaDL1v4v2rKIpEGSX4MJp5/fJAQW6o+Zc2JLXwxPX7/HU9tA6e09RTQyDn+CbY92+JmwEAt6tVUxMyndOevYNAhVtUWNNAbjKwKL56/fRrq04Ta71LQ4TcAT6HUqBQyI6tzheAjRNqfTwFQY7q4NOV+dLXpLuWt1hKWQ4iIWJvhFyaAlIbbuMiWBEBP5ajJ5GxGCcHoWMOXxegUrgxgfE4rP58Ehrk1nfzDef92NdnIKsPRNJbUVJe9+RWhRfGrBbUIpKdTkaLbcopCGslk7dVQExkU6oLqV/QtEjgTaN4biGElqF2Jrdk+BCMF1pTxTMhn52kqeRRA69524xSa2pzn8b8/MeYZxrUoc/JFV+ANGuXIfWx3wo5Nsw8XhnU01LYTMlXVJRU=;J25ZSLddSBo/GIH+WHbdbg=="
 ---
 
