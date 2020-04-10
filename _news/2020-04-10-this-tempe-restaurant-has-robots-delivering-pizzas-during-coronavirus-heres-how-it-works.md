@@ -25,6 +25,6 @@ images:
     height: 675
     title: "This Tempe restaurant has robots delivering pizzas during coronavirus. Here's how it works"
 
-secured: "Sa1Obg9kJzFXwp7OTpRt8aUhd5mvhx58aNNG55n8wsjMUrMswVVrNW/SSXwcdCLuaitw/gtTZi5N8PIVJJmSLhIZc4ed8H72A32rxKwx8XMDsXOiX8TcUd7MknHiTr/+f4K96AuGOx18mUTV8UpXIjLP67J+D/uw3VFM9wv0ARmXCH/wdwAzQwODitwCL0rpkE9XHBenyZNzoxB4u9lWAibZuM88Yu9Dx6u4eiBh4Cj2Up3oVB5heZUxjFdOoapFjsTW/ANvVRKPgy5oORwp9Fo71zBxE3X+VVI2POnBZszcK2nvV5kz5Y5PzosASwHh;c5R7fifZviign+pgTO579w=="
+secured: "5hrPmvELLkO4+MIdRK0nKNRWv8WMWNKdm1Q9Stmfhgwpwg0WNAFla4JIZUeUZnXtIcraANMziVIl3PvzQZzU/6fPm4Bj0+7Ypl/UHwf4NG8MOmEPCw/b3VYiJ71/yE0X3IIDH+9x1+5rQa6UsVsO5wFnVbz5CJV9zYK8zxtPQRAxxZT8KOMLvTaTBg3z51/YxX+NIwOS9JaQVqc/T+WZpLzt7vre9RmmWeRhQjd3gAxnRXwDymq7FJrcVOQI0OxJpJ6VgI8ko+L7f1veFcjnAf/tnYR4zxiWaJXjBfQ5hnQZUdLHlQPw86R+8l1AC+oytGPx4l/UCofCR8cF4yE3Ddck3QhEUTivJpK/r1YgxxabFabEAgPG93gEa+kNn3rWwvSFRwg/QDuUc9+g48ALTWyxydn8ZF0bOG0wV3eoFwL/1qduyCujKbirKMauEqFklG2IcpsRyu4Yl3dJUpdl+zje8BHrMT+hNmFPO3OAFm8=;LUeS3TsB8BarfDqWmfYtBg=="
 ---
 

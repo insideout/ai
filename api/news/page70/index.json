@@ -2,6 +2,133 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-05-best-speech-to-text-software-in-2020-free-paid-and-online-voice-recognition-apps-and-services.md",
+      "title": "Best speech to text software in 2020: Free, paid and online voice recognition apps and services",
+      "excerpt": "Here then are the best in speech-to-text recognition programs, which should be more than capable for most situations and circumstances. Should you be looking for a business-grade dictation ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/best-speech-to-text-app",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6s4wiJpNLiXjuTChGeH4X8-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "Best speech to text software in 2020: Free, paid and online voice recognition apps and services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-european-parliament-insists-it-will-not-use-facial-recognition-tech.md",
+      "title": "European parliament insists it will not use facial recognition tech",
+      "excerpt": "Statement comes after leaked memo on use of technology in security provoked outcry",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "publishedDateTime": "2020-02-05T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c",
+          "width": 600,
+          "height": 360,
+          "title": "European parliament insists it will not use facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation.md",
+      "title": "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation",
+      "excerpt": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-welfare-surveillance-system-violates-human-rights-dutch-court-rules.md",
       "title": "Welfare surveillance system violates human rights, Dutch court rules",
       "excerpt": "Government told to halt use of AI to detect fraud in decision hailed by privacy campaigners",
@@ -939,133 +1066,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you.md",
-      "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
-      "excerpt": "It's not going to work. It can turn into a big food fight.\" Retailers are increasingly realizing the value of artificial intelligence and machine learning as a way to churn through troves of data collected from customers through e-commerce sites. While these tools require the kind of digital base that both Mitchell-Keller and Colaneri mentioned ...",
-      "heat": 239,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-machine-learning-robots-and-marketing-tech-coming-to-a-store-near-you/",
-      "publishedDateTime": "2020-02-04T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/01/15/cede3a51-32c8-47dc-8928-b8c18295dde9/resize/1200x/9f06c8112c21a809abb2fc0b6a7e4b11/retail-ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "AI, machine learning, robots, and marketing tech coming to a store near you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training.md",
-      "title": "Labelbox raises $25 million to grow its data-labeling platform for AI model training",
-      "excerpt": "Labelbox today announced the close of a $25 million Series B funding round to grow its data-labeling platform made to suppy customers with labeled data necessary to train AI systems. The funding round was led by Andreessen Horowitz with participation from Google’s AI-focused fund Gradient Ventures, Kleiner Perkins, and First Round Capital.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/labelbox-raises-25-million-to-grow-its-data-labeling-platform-for-ai-model-training/amp/",
-      "publishedDateTime": "2020-02-04T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Labelbox-co-founders.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Labelbox raises $25 million to grow its data-labeling platform for AI model training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-governments-ai-adviser-calls-for-crackdown-on-social-media-targeting.md",
-      "title": "Government’s AI adviser calls for crackdown on social media targeting",
-      "excerpt": "the government’s artificial intelligence (AI) adviser has warned. A report published today by the Centre for Data Ethics and Innovation (CDEI) called for tighter regulation of online targeting systems, which use personal information about users to decide which posts, videos and adverts to show them. An analysis of public attitudes towards ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/",
-      "ampWebUrl": "https://www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/governments-ai-adviser-calls-for-crackdown-on-social-media-targeting/amp/",
-      "publishedDateTime": "2020-02-04T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2020/02/1172808215.jpg",
-          "width": 1024,
-          "height": 659,
-          "title": "Government’s AI adviser calls for crackdown on social media targeting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

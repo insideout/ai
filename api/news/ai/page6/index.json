@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-03-in-coronavirus-fight-oft-criticised-facebook-data-aids-us-cities-states.md",
+      "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
+      "excerpt": "Facebook and the researchers leading the project say they have overcome those ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
+      "publishedDateTime": "2020-04-02T18:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/03/6e6a9e96-754a-11ea-ab8f-988daf8efd6f_image_hires_093454.JPG?itok=sfzYo3cq&v=1585877702",
+          "width": 1200,
+          "height": 630,
+          "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
+      "title": "Amazon stands for nothing. That almost makes it beautiful",
+      "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/co/1364409/amazon-stands-for-nothing-that-almost-makes-it-beautiful/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qz-news.imgix.net/1364409/thumbnail?auto=compress",
+          "width": 1400,
+          "height": 786,
+          "title": "Amazon stands for nothing. That almost makes it beautiful",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-using-ai-responsibly-to-fight-the-coronavirus-pandemic.md",
       "title": "Using AI responsibly to fight the coronavirus pandemic",
       "excerpt": "Mark Minevich is president of Going Global Ventures, an advisor at Boston Consulting Group, a digital fellow at IPsoft and a leading global AI expert and digital cognitive strategist and venture capitalist. Irakli Beridze is head of the Centre for AI and Robotics at the United Nations Interregional Crime and Justice Research Institute (UNICRI).",
@@ -1048,6 +1138,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-02-brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-virtual-conference.md",
+      "title": "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
+      "excerpt": "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15726504",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15726504",
+      "publishedDateTime": "2020-04-02T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-how-ai-will-impact-the-future-of-patient-care.md",
       "title": "How AI Will Impact The Future Of Patient Care",
       "excerpt": "While the promise of AI in medicine is huge and will lead to many exciting breakthroughs, it’s important for the medical community and regulators to be wary of its use.",
@@ -1177,141 +1296,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-transform-your-photo-in-the-style-of-an-iconic-artist.md",
-      "title": "Transform your photo in the style of an iconic artist",
-      "excerpt": "From the bold, swirling movement in Vincent van Gogh's paintings, to the surreal, confident brushstrokes of Frida Kahlo, many famous artists have instantly recognizable styles. Now you can use these styles to transform your own photos. With Art Transfer, a new feature in the Google Arts &amp; Culture",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
-      "publishedDateTime": "2020-04-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Art_Transfer_mosaic.max-1300x1300.png",
-          "width": 1300,
-          "height": 515,
-          "title": "Transform your photo in the style of an iconic artist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
-      "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
-      "excerpt": "New York, April 02, 2020: The Automated Material Handling Equipment Market is expected to exceed more than US$ 50 Billion",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T01:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
-      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "publishedDateTime": "2020-04-02T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
-          "width": 640,
-          "height": 449,
-          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,16 +2,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-09-microsoft-dedicates-20m-from-ai-for-health-program-to-coronavirus-data-analysis.md",
-      "title": "Microsoft dedicates $20M from AI for Health program to coronavirus data analysis",
-      "excerpt": "Click on the graphic for an interactive version. (Microsoft Graphic) Microsoft says it’s immediately putting $20 million from its AI for Health program toward artificial intelligence tools that can help researchers and public health officials get a handle on the coronavirus pandemic. John Kahan, Microsoft’s chief data analytics officer ...",
-      "heat": 99,
+      "path": "_news/2020-04-10-microsoft-dedicates-20m-from-ai-for-health-program-to-covid-19-data-analysis.md",
+      "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
+      "excerpt": "John Kahan, Microsoft’s chief data analytics officer, said AI for Health “will collaborate with nonprofits ... which is marshaling supercomputers and cloud platforms such as Microsoft Azure to support coronavirus research. Microsoft also highlighted its partnerships with the University of Washington’s Institute for Health Metrics ...",
+      "heat": 111,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/",
       "ampWebUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
       "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
-      "publishedDateTime": "2020-04-09T10:21:00-07:00",
+      "publishedDateTime": "2020-04-09T18:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "GeekWire",
@@ -33,7 +33,7 @@
           "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/200904-chart2-630x355.jpg",
           "width": 630,
           "height": 355,
-          "title": "Microsoft dedicates $20M from AI for Health program to coronavirus data analysis",
+          "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
           "attribution": null
         }
       ],
@@ -42,8 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Microsoft AI"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

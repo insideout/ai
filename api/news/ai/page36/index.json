@@ -2,6 +2,134 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-02-how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-solution.md",
+      "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+      "excerpt": "Candidates design and implement AI apps and agents that use Microsoft Azure Cognitive Services and Azure Bot Service. Candidates can recommend solutions that use open source technologies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@caiomsouza/how-to-prepare-for-microsoft-azure-certification-ai-100-designing-and-implementing-an-azure-ai-af60b92b8068",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1024/1*9ry80VYyy-_OEsrsqdR5Kw.png",
+          "width": 1024,
+          "height": 531,
+          "title": "How to prepare for Microsoft Azure certification AI-100: Designing and Implementing an Azure AI Solution?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-are-chinas-self-driving-cars-overtaking-us-peers.md",
+      "title": "Are China's self-driving cars overtaking US peers?",
+      "excerpt": "Is this proof that Baidu's self-driving car is better than Google's? Both companies say no. \"Waymo's position from the start -- and a growing industry consensus -- is that disengagements are not ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/Are-China-s-self-driving-cars-overtaking-US-peers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F4%2F8%2F9%2F0%2F25280984-6-eng-GB%2FCropped-1583135322apollo.png?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Are China's self-driving cars overtaking US peers?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services.md",
+      "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
+      "excerpt": "Amazon’s investment in developer kits such as DeepLens, DeepRacer, DeepComposer is working in its favor. Google is one of the first to offer AI and AutoML services to developers and businesses.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/02/key-takeaways-from-the-gartner-magic-quadrant-for-ai-developer-services/amp/",
+      "publishedDateTime": "2020-03-02T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5ca4d2765d4500072d9aef%2F0x0.jpg",
+          "width": 1000,
+          "height": 854,
+          "title": "Key Takeaways From The Gartner Magic Quadrant For AI Developer Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-a-dozen-microsoft-apis-for-web-developers.md",
       "title": "A Dozen Microsoft APIs for Web Developers",
       "excerpt": "The Microsoft Face API provides a slew of functionality that can be useful. The most basic part of the Face API is that it can detect faces within an image or video. You can use this information to recognize people. For example, you could capture an image ...",
@@ -1178,141 +1306,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-forget-chessthe-real-challenge-is-teaching-ai-to-play-dd.md",
-      "title": "Forget Chess—the Real Challenge Is Teaching AI to Play D&D",
-      "excerpt": "This kind of spontaneous yet coherent storytelling is extremely difficult for artificial intelligence, even as AI has mastered more constrained board games such as chess and Go. The best text-generating AI programs too often produce confused and disjointed prose. So some researchers view spontaneous storytelling as a good test of progress ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/",
-      "ampWebUrl": "https://www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/forget-chess-real-challenge-teaching-ai-play-dandd/amp",
-      "publishedDateTime": "2020-02-28T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Forget Chess—the Real Challenge Is Teaching AI to Play D&D",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-      "excerpt": "Market Highlights Artificial intelligence (AI) chipset are silicon-based chips that are integrated with devices",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-share-key-players-growth-drivers-business-opportunities-and-industry-forecast-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T01:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chipset Market Size, Share, Key Players, Growth Drivers, Business Opportunities, and industry Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-this-ai-company-is-trying-to-fix-physician-burnout-an-interview-with-dr-nathan-gunn-coo-of-sukiai.md",
-      "title": "This AI Company Is Trying To Fix Physician Burnout - An Interview With Dr. Nathan Gunn, COO Of Suki.ai",
-      "excerpt": "The National Academy of Medicine found 50% of the country’s doctors and over 60% of the country’s medical students and residents experience substantial symptoms of burnout.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/this-ai-company-is-trying-to-fix-physician-burnoutan-interview-with-dr-nathan-gunn-coo-of-sukiai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/this-ai-company-is-trying-to-fix-physician-burnoutan-interview-with-dr-nathan-gunn-coo-of-sukiai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/this-ai-company-is-trying-to-fix-physician-burnoutan-interview-with-dr-nathan-gunn-coo-of-sukiai/amp/",
-      "publishedDateTime": "2020-02-28T01:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e58d76b7a009800073472f1%2F0x0.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "This AI Company Is Trying To Fix Physician Burnout - An Interview With Dr. Nathan Gunn, COO Of Suki.ai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -1,28 +1,21 @@
 ---
 category: news
-title: "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
-excerpt: "Mankar’s presentation will introduce product details of the AKD1000, BrainChip's first event-based neural-network IP and NSoC device ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. The solution is high ..."
+title: "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
+excerpt: "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of"
 publishedDateTime: 2020-04-02T12:05:00Z
-webUrl: "https://www.businesswire.com/news/home/20200402005259/en/BrainChip-Introduces-Company’s-Event-Based-Neural-Network-IP-NSoC"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15726504"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15726504"
 type: article
-quality: 17
-heat: 17
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200402005259/en/782937/23/BrainChip-Logo_tagline_full_color_header_retina.jpg"
-    width: 1200
-    height: 627
-    title: "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
-
-secured: "AzYvRTTENVQo24eAYIhG8t6BueCpvJI3ERSa2HqaXLWK9ycXI7B2x54M3CkoqxOB54vjD3JZGn13RxFS3zaujCO9hhGQMe2pyunlZo9EFPFBuOyhxK/fwPPkORdxi/PCOROCpywk1hwruD0WOYJ3VRzSEnZfrwDPfuV+YU/x7fPcDkRwEEdECdMkPuCa2M+FDrZJgEpdhn+UNcmgnps2975KnMOXkNyZn1khT/1s2RSdom2c98VrD0BC3raCPVxSyxLmwAFdvfr5uImVFCw3H1i/qwIoGiglX6NNV4efKfun+UW8jVxYQJKJCf2dI/+C;8MxTexbMYAAJUxPRKx2FxA=="
+secured: "9SS4/gwaICJ82mlFWAuMUsxsWYZrJSQc5pIo1KtcSkI+oSLOPTrkU2CvJc7B4pTZLPHJJsCKAtqLwIABeEE1NcZC9KEgy1RStbevp2ii3jbdNjdQwxTzfRuCP0XpAqyiWdCJeuJLJWcigzRXaqN/L4H18ebazuxmc9MgJ7URMAkRzN89FyNIqrhQQUlRwOzHAgd0Gxl1xdFdQROtkn6aMnA7l8pyMnqGvQIfR7+yinkfC/Hxk/CaUk8C/BEWhNRhK03Cpj08h0VZEeBg57azJp9gcfVAu7M2hrP7HX9XpRqkz3s2Yu6ZJ6XGK8uYABC+;GRBr77+zglHtwS/wpb1I9A=="
 ---
 

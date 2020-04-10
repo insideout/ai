@@ -2,6 +2,125 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-26-ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025.md",
+      "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
+      "excerpt": "Mar 26, 2020 (AmericaNewsHour) -- Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025-2020-03-26?tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-amds-processors-to-power-microsoft-azure-virtual-machines.md",
+      "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+      "excerpt": "AMD recently announced that its second generation EPYC processors and Radeon Instinct MI25 GPUs have been adopted by Microsoft’s MSFT Azure division to power its NVv4 virtual machines (VMs). AMD’s hardware will enable Azure to provide customers with a cloud based virtual desktop capable of handling memory and graphics intensive as well as high-performance computing workloads.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "publishedDateTime": "2020-03-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1371717012",
+          "width": 1024,
+          "height": 512,
+          "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions. Services segment to grow at a higher CAGR during the forecast period The ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pressofatlanticcity.com/business/insights-on-the-worldwide-cognitive-computing-market-to--/article_36af8e93-6024-594d-b885-36a0ae67e956.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-tesla-model-y-is-equipped-with-a-radar-heater-to-weather-proof-autopilotself-driving.md",
       "title": "Tesla Model Y is equipped with a radar heater to weather-proof Autopilot/Self-Driving",
       "excerpt": "Tesla Model Y wiring schematics reveal that the electric SUV is equipped with a radar heater to weather-proof Autopilot and its future self-driving capability. One of the most common arguments against self-driving is that a computer won’t be able to handle different weather conditions as well as humans, like heavy snow. Not only is driving ...",
@@ -1089,117 +1208,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-introducing-finis-lanevision-the-worlds-first-ai-computer-vision-swim-training-technology.md",
-      "title": "Introducing FINIS LaneVision: The World’s First AI & Computer Vision Swim Training Technology",
-      "excerpt": "The Aspiricx team is a unique blend of people with a passion for technology (AI, computer vision, data science, etc.) and for swimming. Natalie Coughlin, a 12-time Olympic medalist and 20-time World Championship medalist, holds the title of chief aspirer; her role is to bridge the gap between the two worlds and introduce all swimmers to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.athleticbusiness.com/industry-press-room/introducing-finis-lanevision-the-world-s-first-ai-computer-vision-swim-training-technology.html?_escaped_fragment_=/ccomment",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Athletic Business",
-        "domain": "athleticbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19.md",
-      "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
-      "excerpt": "Image used courtesy of BlueDot Artificial intelligence can help to chart the course of epidemics and advise epidemiologists as to where and when the novel coronavirus will spread next. It is also implemented on MCUs, allowing the host device to make ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.allaboutcircuits.com/news/ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/BlueDot_Feature.jpg",
-          "width": 800,
-          "height": 435,
-          "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again.md",
-      "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
-      "excerpt": "Robotics, which exists at the intersection of fields as diverse as mechanical engineering, computer engineering, machine vision, artificial intelligence, and biomechanics has long been particularly challenging to fund outside of certain prescribed industrial use cases. With some notable exceptions, including Moxi, the socially intelligent ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
-      "publishedDateTime": "2020-03-25T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/25/73eb45b4-7df9-43d5-ac2f-ebab6fe9bd7c/moxi.jpg",
-          "width": 4000,
-          "height": 2666,
-          "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

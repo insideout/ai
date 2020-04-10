@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-07-sourceday-raises-125-million-for-ai-that-predicts-on-time-delivery-risk.md",
+      "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
+      "excerpt": "SourceDay applies AI and machine learning to drive risk awareness of on-time deliveries and predict risk when it comes to material availability and other factors. Baird Capital led this latest funding round in SourceDay, with participation from existing investors Silverton Partners, ATX Ventures and Draper Associates. It brings the startup’s ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/sourceday-raises-12-5-million-for-ai-that-predicts-on-time-delivery-risk/amp/",
+      "publishedDateTime": "2020-04-07T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/SourceDay-Featured-Image-Navy-e1586206669976.png?fit=1198%2C601&strip=all",
+          "width": 1198,
+          "height": 601,
+          "title": "SourceDay raises $12.5 million for AI that predicts on-time delivery risk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
+      "title": "5 practical reasons to embrace artificial intelligence",
+      "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/5-practical-reasons-to-embrace-artificial-intelligence/",
+      "publishedDateTime": "2020-04-07T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/07/b9096b1a-0696-4267-a3f0-1ee3c61fe529/resize/1200x/ef5bf98b81cf782d65908c237d3d27b5/drone-garden.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": "5 practical reasons to embrace artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
       "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
       "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
@@ -1006,96 +1096,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
-      "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
-      "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90485120/microsofts-cto-wants-to-spread-big-techs-wealth-to-the-heartland",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T11:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-american-dream-kevin-scott.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
-      "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-      "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "publishedDateTime": "2020-04-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

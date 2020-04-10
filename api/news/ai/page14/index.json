@@ -2,6 +2,117 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-25-introducing-finis-lanevision-the-worlds-first-ai-computer-vision-swim-training-technology.md",
+      "title": "Introducing FINIS LaneVision: The World’s First AI & Computer Vision Swim Training Technology",
+      "excerpt": "The Aspiricx team is a unique blend of people with a passion for technology (AI, computer vision, data science, etc.) and for swimming. Natalie Coughlin, a 12-time Olympic medalist and 20-time World Championship medalist, holds the title of chief aspirer; her role is to bridge the gap between the two worlds and introduce all swimmers to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.athleticbusiness.com/industry-press-room/introducing-finis-lanevision-the-world-s-first-ai-computer-vision-swim-training-technology.html?_escaped_fragment_=/ccomment",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Athletic Business",
+        "domain": "athleticbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19.md",
+      "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
+      "excerpt": "Image used courtesy of BlueDot Artificial intelligence can help to chart the course of epidemics and advise epidemiologists as to where and when the novel coronavirus will spread next. It is also implemented on MCUs, allowing the host device to make ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.allaboutcircuits.com/news/ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "All About Circuits",
+        "domain": "allaboutcircuits.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/BlueDot_Feature.jpg",
+          "width": 800,
+          "height": 435,
+          "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again.md",
+      "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
+      "excerpt": "Robotics, which exists at the intersection of fields as diverse as mechanical engineering, computer engineering, machine vision, artificial intelligence, and biomechanics has long been particularly challenging to fund outside of certain prescribed industrial use cases. With some notable exceptions, including Moxi, the socially intelligent ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/roboticists-weve-missed-the-mark-for-pandemic-busting-robots-yet-again/",
+      "publishedDateTime": "2020-03-25T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/25/73eb45b4-7df9-43d5-ac2f-ebab6fe9bd7c/moxi.jpg",
+          "width": 4000,
+          "height": 2666,
+          "title": "Roboticists: We've missed the mark for pandemic busting robots ... yet again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-the-covid-19-pandemic-is-a-crisis-that-robots-were-built-for.md",
       "title": "The Covid-19 Pandemic Is a Crisis That Robots Were Built For",
       "excerpt": "Ever more sophisticated robots and AI are augmenting human workers, rather than replacing them entirely ... argue a dozen roboticists in an editorial out today in the journal Science Robotics. Perhaps “people start to reflect that for situations such as this, how robots can be used not only to help with in terms of social distancing, but ...",
@@ -1077,142 +1188,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
-      "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
-      "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
-      "publishedDateTime": "2020-03-24T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-starsky-robotics-failed-does-that-mean-automated-trucking-is-dead.md",
-      "title": "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?",
-      "excerpt": "Axmacher’s Medium post about the company's failure has energized the rest of the truck Automated Driving Systems industry. They emphatically do not agree. The consensus is that investors didn't abandon all of truck ADS,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/03/24/starsky-robotics-failed-does-that-mean-automated-trucking-is-dead/amp/",
-      "publishedDateTime": "2020-03-24T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2FFEX_004%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-aws-delivers-sessions-online-at-nvidia-gtc-digital.md",
-      "title": "AWS delivers sessions online at NVIDIA GTC Digital",
-      "excerpt": "Starting Tuesday, March 24, 2020, NVIDIA GTC Digital is offering courses for you to learn AWS best practices to accomplish your ML goals faster and more easily. Registration is free, so register now. The following sessions are available from AWS: \nS22492: Train BERT in One Hour Using Massive Cloud Scale",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-delivers-sessions-online-at-nvidia-gtc-digital/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T17:57:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "AWS delivers sessions online at NVIDIA GTC Digital",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

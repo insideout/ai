@@ -2,6 +2,141 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-02-transform-your-photo-in-the-style-of-an-iconic-artist.md",
+      "title": "Transform your photo in the style of an iconic artist",
+      "excerpt": "From the bold, swirling movement in Vincent van Gogh's paintings, to the surreal, confident brushstrokes of Frida Kahlo, many famous artists have instantly recognizable styles. Now you can use these styles to transform your own photos. With Art Transfer, a new feature in the Google Arts &amp; Culture",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
+      "publishedDateTime": "2020-04-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Art_Transfer_mosaic.max-1300x1300.png",
+          "width": 1300,
+          "height": 515,
+          "title": "Transform your photo in the style of an iconic artist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
+      "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+      "excerpt": "New York, April 02, 2020: The Automated Material Handling Equipment Market is expected to exceed more than US$ 50 Billion",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
+      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "publishedDateTime": "2020-04-02T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
+          "width": 640,
+          "height": 449,
+          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
       "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
       "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
@@ -1131,144 +1266,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech.md",
-      "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
-      "excerpt": "What's more: algorithmic bias is only one side of the problem: the 'ethics of AI' picture is indeed a multifaceted one. To mitigate the unwelcome consequences of AI systems, governments around the world have been working on drafts, guidelines and frameworks designed to inform developers and help them come up with algorithms that are respectful ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech/",
-      "publishedDateTime": "2020-04-01T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
-      "title": "AI vs your career? What artificial intelligence will really do to the future of work",
-      "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "publishedDateTime": "2020-04-01T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/04/657acd78-13b6-4989-8ecf-673fb8d38d60/thumbnail/1200x675/ab7a6c328b2d02457d5800ac6d49ad7f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI vs your career? What artificial intelligence will really do to the future of work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-and-ml-move-into-financial-services.md",
-      "title": "AI and ML move into financial services",
-      "excerpt": "\"At the highest level, by utilizing machine learning, financial services organizations can pinpoint their most effective offerings, change how they attract and keep customers by identifying patterns in their behaviors/interactions with the institution, and [create] opportunities for engagement beyond just financial services.\" Machine learning ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-ml-move-into-financial-services/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-ml-move-into-financial-services/",
-      "publishedDateTime": "2020-04-01T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/27/a57f5328-54c9-4429-a05f-165bfe54dfed/thumbnail/1200x675/cff661fe04c50b47434ccd8665b9dfc3/mastercard-keeping-humans-in-the-loop-of-5e7d26ca80c7260bd0dee6fd-1-mar-27-2020-24-01-06-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and ML move into financial services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

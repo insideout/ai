@@ -2,6 +2,96 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
+      "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
+      "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90485120/microsofts-cto-wants-to-spread-big-techs-wealth-to-the-heartland",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T11:06:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-american-dream-kevin-scott.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
+      "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
+      "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
+      "publishedDateTime": "2020-04-06T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-cvg-becomes-first-us-airport-to-have-autonomous-robots-cleaning.md",
       "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
       "excerpt": "Cincinnati/Northern Kentucky International Airport is the first U.S. airport to use a certain type of robot to clean its floors, a practice that started earlier this year but has become even more useful given the COVID19 crisis.",
@@ -969,94 +1059,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
-      "title": "Google’s AI teaches robots how to move by watching dogs",
-      "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
-      "publishedDateTime": "2020-04-03T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI teaches robots how to move by watching dogs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices.md",
-      "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
-      "excerpt": "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/",
-      "publishedDateTime": "2020-04-03T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1165649734-e1585940050791.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

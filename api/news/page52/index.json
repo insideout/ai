@@ -2,6 +2,141 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-02-21-ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment.md",
+      "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
+      "excerpt": "The on-going evolution of technologies like artificial intelligence (AI) and machine learning (ML) brings in disruption and innovation in the AI Logistics and Supply Chain Ecosystem. AI is transforming global logistics and supply chain management.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-how-israel-became-a-technology-startup-nation.md",
+      "title": "How Israel Became A Technology Startup Nation",
+      "excerpt": "Why should Israel have shown its mettle in the tech market? What drove this region to become a software-centric startup nation of young companies vying for a place on the global tech map?",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/21/how-israel-became-a-technology-startup-nation/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/21/how-israel-became-a-technology-startup-nation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/21/how-israel-became-a-technology-startup-nation/amp/",
+      "publishedDateTime": "2020-02-21T01:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f93217a0098000733e260%2F0x0.jpg",
+          "width": 640,
+          "height": 380,
+          "title": "How Israel Became A Technology Startup Nation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-how-much-worth-natural-language-processing-market-will-generate-by-2026.md",
+      "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
+      "excerpt": "Feb 21, 2020 (The Expresswire) -- Top Players in Natural Language Processing Market are 3M Company, Adobe Systems Inc., Amazon Web Services Inc., Apple Inc., Google (Alphabet Inc.), Hewlett-Packard Enterprise Company, Intel Corporation, International Business Machine (IBM) Corporation , Microsoft Corporation, SAS Institute Inc The overall ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/how-much-worth-natural-language-processing-market-will-generate-by-2026-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T00:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "How much Worth Natural Language Processing Market will Generate by 2026?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-microsoft-launches-entrepreneurship-program-targeted-at-social-entrepreneurs.md",
       "title": "Microsoft launches entrepreneurship program targeted at social entrepreneurs",
       "excerpt": "Under the program, which will be available in 140 countries, qualifying social enterprises will receive access to free Microsoft cloud technologies, including up to $120,000 in Azure credits, along with technical ... and Zindi's web platform has been created to host machine learning and AI competitions online in Africa.",
@@ -908,135 +1043,6 @@
         "AI",
         "AI Ethics",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-the-zacks-analyst-blog-highlights-microsoft-applied-materials-sap-se-lam-research-and-tencent.md",
-      "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
-      "excerpt": "Chicago, IL – February 20, 2020 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
-      "publishedDateTime": "2020-02-20T06:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
-      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
-      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
-      "publishedDateTime": "2020-02-20T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
-          "width": 960,
-          "height": 541,
-          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
-      "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
-      "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/insider-risk-management-microsoft-365/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-20T05:59:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/02/insider-risk-04_1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

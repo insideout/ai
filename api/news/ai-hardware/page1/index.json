@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
+      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "publishedDateTime": "2020-04-10T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
       "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
       "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
@@ -1276,52 +1322,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers.md",
-      "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
-      "excerpt": "SAN JOSE, Calif., March 24, 2020 /PRNewswire/ -- GTC DIGITAL -- Super Micro Computer, Inc. SMCI, a global leader in enterprise computing, storage, networking...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/supermicro-accelerates-ai-and-deep-learning-from-the-data-center-to-the-edge-with-new-nvidia-ngc-ready-servers-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Supermicro Accelerates AI and Deep Learning from the Data Center to the Edge with New NVIDIA NGC-Ready Servers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

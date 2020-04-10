@@ -2,6 +2,142 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
+      "title": "Will this crisis help set autonomous AI on the right course?",
+      "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
+      "publishedDateTime": "2020-03-26T15:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": "Will this crisis help set autonomous AI on the right course?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
+      "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
+      "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology-2020-03-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
+      "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
+      "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
+      "publishedDateTime": "2020-03-26T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework.md",
       "title": "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework",
       "excerpt": "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more than 140,000 stars and 80,000 forks of the codebase.",
@@ -421,27 +557,27 @@
     {
       "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
       "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
-      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions. Services segment to grow at a higher CAGR during the forecast period The ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--",
+      "webUrl": "https://www.pressofatlanticcity.com/business/insights-on-the-worldwide-cognitive-computing-market-to--/article_36af8e93-6024-594d-b885-36a0ae67e956.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T07:46:00-07:00",
+      "publishedDateTime": "2020-03-26T07:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg",
           "width": 1200,
-          "height": 627,
+          "height": 630,
           "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
           "attribution": null
         }
@@ -911,134 +1047,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-c3ai-microsoft-and-leading-universities-launch-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft, and leading universities launch C3.ai Digital Transformation Institute",
-      "excerpt": "“We believe this Institute has the potential to make tremendous contributions by including ethics, new business models, and public policy to the technologies for transforming societal scale systems globally.” “The C3.ai Digital Transformation Institute, with its vision of cross-institutional and multi-disciplinary ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/2020/03/26/c3-ai-microsoft-and-leading-universities-launch-c3-ai-digital-transformation-institute/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.md",
-      "title": "TensorFlow deepens its advantages in the AI modeling wars",
-      "excerpt": "TensorFlow remains the dominant AI modeling framework. Most AI (artificial intelligence) developers continue to use it as their primary open source tool or alongside PyTorch, in which they develop most of their ML (machine learning), deep learning, and NLP (natural language processing) models. In the most recent O’Reilly survey on AI ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3534474/tensorflow-deepens-its-advantages-in-the-ai-modeling-wars.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T03:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/01/compet_strategy_win_chess_advantage-100746028-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "TensorFlow deepens its advantages in the AI modeling wars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc.md",
-      "title": "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc",
-      "excerpt": "The leading vendors included inside the reports are: Catchoom Technologies S.L, Slyce Inc, Honeywell International Inc, Wikitude GmbH, Attrasoft Inc, Google Inc, Qualcomm Incorporated, Ltd, LTU Technologies, NEC Corporation and Hitachi Market Segmentation: Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc-2020-03-26?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

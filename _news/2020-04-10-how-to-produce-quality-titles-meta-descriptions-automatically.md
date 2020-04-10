@@ -5,8 +5,8 @@ excerpt: "That changed recently with the introduction of the transformers pipeli
 publishedDateTime: 2020-04-10T13:46:00Z
 webUrl: "https://www.searchenginejournal.com/titles-meta-descriptions-automatically-python-javascript/360108/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2020/04/how-to-produce-quality-titles-and-meta-descriptions-automatically-5e8f898bafa5a.png"

@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
+      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "publishedDateTime": "2020-04-10T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-startup-tenstorrent-shows-ai-is-changing-computing-and-vice-versa.md",
+      "title": "Startup Tenstorrent shows AI is changing computing and vice versa",
+      "excerpt": "The new chips coming out suggest, as ZDNet has reported in past, that AI is totally changing the nature of computing. It also suggests that changes in computing are going to have an effect on how artificial intelligence programs, such as deep learning neural networks, are designed. Case in point, startup Tenstorrent, founded in 2016 and ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/",
+      "publishedDateTime": "2020-04-10T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/04/10/a686787a-3ce9-4cfe-9343-4aa9033454f1/tenstorrent-grayskull-schematic-april-2020.png",
+          "width": 1013,
+          "height": 870,
+          "title": "Startup Tenstorrent shows AI is changing computing and vice versa",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference.md",
       "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
       "excerpt": "In an academic paper published this week on the preprint server Arxiv.org, a team of Princeton, Microsoft, the nonprofit Algorand Foundation, and Technion researchers propose Falcon, an end-to-end framework for secure computation of AI models on distributed systems. They claim that it’s the first secure C++ framework to support high-capacity ...",
@@ -130,7 +220,7 @@
       "path": "_news/2020-04-10-janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form.md",
       "title": "Janelle Shane explains AI with weirdness and humor, in book form",
       "excerpt": "And also very accessible. And I thought that sounded fantastic. I know this all started with AI Weirdness. Why did you start that blog? How did that come about? Janelle Shane: I saw someone else named Tom Brewe who had used one of these text-generating neural nets to do cookbook recipes. It was one of these situations where I’m laughing so ...",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/",
@@ -167,7 +257,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -298,6 +389,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-microsoft-dedicates-20m-from-ai-for-health-program-to-covid-19-data-analysis.md",
+      "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
+      "excerpt": "John Kahan, Microsoft’s chief data analytics officer, said AI for Health “will collaborate with nonprofits ... which is marshaling supercomputers and cloud platforms such as Microsoft Azure to support coronavirus research. Microsoft also highlighted its partnerships with the University of Washington’s Institute for Health Metrics ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
+      "publishedDateTime": "2020-04-09T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/200904-chart2-630x355.jpg",
+          "width": 630,
+          "height": 355,
+          "title": "Microsoft dedicates $20M from AI for Health program to COVID-19 data analysis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge.md",
       "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
       "excerpt": "Michael Kearns and Aaron Roth, professors at the University of Pennsylvania, suggest that the solution is to \"embed precise definitions of fairness, accuracy, transparency, and ethics at the algorithm's design stage ... as well as designating trained people to examine and audit AI output. \"Have scientists and engineers who know this area ...",
@@ -384,51 +520,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-microsoft-dedicates-20m-from-ai-for-health-program-to-coronavirus-data-analysis.md",
-      "title": "Microsoft dedicates $20M from AI for Health program to coronavirus data analysis",
-      "excerpt": "Click on the graphic for an interactive version. (Microsoft Graphic) Microsoft says it’s immediately putting $20 million from its AI for Health program toward artificial intelligence tools that can help researchers and public health officials get a handle on the coronavirus pandemic. John Kahan, Microsoft’s chief data analytics officer ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-dedicates-20m-ai-health-program-coronavirus-data-analysis/amp/",
-      "publishedDateTime": "2020-04-09T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/200904-chart2-630x355.jpg",
-          "width": 630,
-          "height": 355,
-          "title": "Microsoft dedicates $20M from AI for Health program to coronavirus data analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1227,94 +1318,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-researchers-open-source-state-of-the-art-object-tracking-ai.md",
-      "title": "Researchers open-source state-of-the-art object tracking AI",
-      "excerpt": "A team of Microsoft and Huazhong University researchers this week open-sourced an AI object detector — Fair Multi-Object Tracking (FairMOT) — they claim outperforms state-of-the-art models on public data sets at 30 frames per second. If productized, it could benefit industries ranging from elder care to security, and perhaps be used to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
-      "publishedDateTime": "2020-04-08T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers open-source state-of-the-art object tracking AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-storytelling-diversity-the-ai-edge-in-la.md",
-      "title": "Storytelling & Diversity: The AI Edge In LA",
-      "excerpt": "LA is known as the land of storytellers, but when it comes to its own story, the entertainment business is still front and center. In fact, LA has been at the core of a flourishing AI scene for decades.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/08/ai-edge-la/amp/",
-      "publishedDateTime": "2020-04-08T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e1eabfc5d3f00067c5eba%2F0x0.jpg",
-          "width": 978,
-          "height": 1037,
-          "title": "Storytelling & Diversity: The AI Edge In LA",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

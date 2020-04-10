@@ -28,6 +28,6 @@ images:
     height: 595
     title: "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference"
 
-secured: "cw92DwWBjlklav4kT1NPW+SRBt/hoA58NgO8rJlEhOhC+IL+uexhUsqHXs89trPP24QhmpSLmYMKK5sGRVqwR+w2+WucZZsEDka6bXjMZlRwUukZ38YwhWeJm11PltnaGu2mwlrfWmyz6oGjuzxAHs7wJR5jyTTuo8we3+ivr1MNIw9SfbXX/ikyIL6AeWK5GcAAeaFKbvfwTiRhXxnI1S3REo+kB4JW0GSQ/aSFC4pu7y10bfo5yTrnS4unfkoSgn90Nz6GKelV28TNw46LCR+mmpULdLlYAWfQNZJiItPhVDv/dFy+LJIGsPodKtuw;F48cC6wVqtKJT34VlXIXqg=="
+secured: "2Cnxz7mA7V2p2yZphhS/kSyiskqInASE3oEYAjfwbPA0DoA5q7pxFq6DjPEIM+5aROXafRwHwpwTODz8vDR9zO5amnFQ+N4kLOXA0obv8+mbl2Q+TgU+EsM2vUiRSZRdDy99B4TIB58XXdgWR0xPKvyql+2js6u27vU9ZG4CNBWtz/A5jYZHJUFEXw3HdOm0TBhrrZM2Dll+jGkciVHFLP5+tnfHiDSCZQ3GYhvUXXh9cWiHMnpViXGLizOAY6v/tL8fTAMqC5AmVl2//K1emCfEojhCnRZasx+25a4IW45DvgEKhwd11cjocm8Qtt2ifNgdpYzSJf2gurduWlhh7g2gHpjHv/gyq6SfZolfJo4Xn/LEz+i90CpIAzgGshyAdfGcHqO9tgYYD4lEq2H63k9StmpNdP4UDYA+8BCNE6A0jEg+XU5AjDWarQ/3sKvlqhBt4ILLHCjBIZ11Z7w0/IXYG+bQwHal6+oHKZ+QA9E=;5k1rAWeD3sqZ5onxUVahtQ=="
 ---
 

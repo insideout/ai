@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
+      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "publishedDateTime": "2020-04-10T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge.md",
       "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
       "excerpt": "Michael Kearns and Aaron Roth, professors at the University of Pennsylvania, suggest that the solution is to \"embed precise definitions of fairness, accuracy, transparency, and ethics at the algorithm's design stage ... as well as designating trained people to examine and audit AI output. \"Have scientists and engineers who know this area ...",
@@ -1193,51 +1239,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too.md",
-      "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-      "excerpt": "AI ethics is a hot trending topic these days. And, so it should be. With the rise of AI systems popping up here and there, and virtually everywhere, there is a rightfully emerging concern that these computer-based systems are being thrown into the world without much thought given to the societal impacts that they can produce.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/12/ai-ethics-principles-are-laid-out-by-dod-for-all-to-see-applies-to-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-12T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e680526e1e61700080e7020%2F0x0.jpg%3FcropX1%3D339%26cropX2%3D5849%26cropY1%3D0%26cropY2%3D4133",
-          "width": 1200,
-          "height": 900,
-          "title": "AI Ethics Principles Are Laid Out By DoD For All To See, Applies To Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
