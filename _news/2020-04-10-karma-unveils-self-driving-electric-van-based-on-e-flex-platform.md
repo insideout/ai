@@ -23,6 +23,6 @@ images:
     height: 1182
     title: "Karma unveils self-driving electric van based on E-Flex platform"
 
-secured: "027Eavb2FGL4A69JOnR4xjEvJvIXwMHFysQhEiLwPrR5E87I29cuKfhcWUx7IHC3vWlbG5g5AmBRRYwRc+GCl3BCkCnelzdBQ+9uV0PV1EDpD8KMY4Dt8ezXhu1FNIqhGMYAn2tqhMyPIhGHiy+FTRh3YsQbHWXoP1DQVyjizTae05vsZ9vB8GQ/Fa2ASWo7dIq9T78JezC7zaE7QiYSEQcUAKf9FrlbUgz5/RUUA16EnmHNaAlHI/pmWAkg1Kla21uFHiwrvdb+PE6Zk+Kj2Nozn8gjXUG9TB91lERSolHiZYDpLdMA805Cq0Slz31o;zlq9+BOz/c/wup03TVweZQ=="
+secured: "RilgLi08yNO/hAPTc/4N7d00SAFMsXnNt438n1Yn/msAQr2ATclU8UfjmAoIu9oOhdoX2vu5NJAwXMYd9py3iqc/rPfaWA+MW2/rLuB1LCI2/WCic+MHPRSaW/Q6g6LunepD1ee5eYnOkv/x86fFbPfo9pPJJl9cw7ewrCdjU4u28n40IYv0KsRPPNnWzfbCU39xF2n8rcTp7rmhlWOzl6iqlhJcOA2JlRdR9M/Z2mUMia/fffipsMKI+Yf7TCDYnwt49GmxpzcuXo8Rs7TdvC2QQLZJB5bw8AHDw/1y+NnfmUHKnVTCpRaRAh0fhoz/fZhb+qIBfb39AIEo+HG2Zf0DKCQURKPN2UoQDVHbphlcjNVvv/iTereH3hPYNRX7gyugdwhrgakYRZGakJcPezLAVXogWhHpzZXGQQmntTT/6AQIaEj80b/JDRdbOeh3YHLIINEy0FRrgm8Eix2UerD8rJ3whD9pRzxTT3dz27k=;t2A4++r9HYHqVKUZTam80w=="
 ---
 

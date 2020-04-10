@@ -23,6 +23,6 @@ images:
     height: 600
     title: "COVID-19 robotics resources – ideas for roboticists, users, and educators"
 
-secured: "U1Lv1CXN9m9xQoL9fpgq9nLDQUPwffatX+6GnTi7C1J+brqd2gI4JZGjJisHiSEIc747Tx5xGdB71FioITRKrbCm98kvjJKa7IciS14nB6sOvXEI94VP+QT7feRn1tkcsID0CRPMC42b/PgSFB+2dn11fLOFNicXUrxYFaVLT+JSJB2HY2EMrP+soIp3OEX4WZqcXu85I/UaWHMRF2z3IYML9A1gmZ6nLBYWXrwgfKeEynhw+tAjc33P8GISG/umXOBVFYEsPCKfqtUoIa62Nd/I5u7RoODa21q9ukSEAJ5pCuUIx26/fNNqlDDAVaHB;FuNW5tNkT3m3vmSslRuRMg=="
+secured: "fnVR+/iO01AIo7LQ4fPakZHWXVmnfyG678YlVsydK3r5fiihphhiD/6ay2+MA/QZZnoajcQn2y9n+RktIiFScFKybTq3LBNknSO3Uh1ENWjWEB6qjKuqANqkQV1yyYwh63yE1R+Wx8HUfKy33gK4PSUHlW5lAc4VN5pOAvfIUlbfiHTj/kkDOg2SIDsnHXd1hY+0w+6LhBPOJqFMkqOcmbOQfXRUo9w5zswuYhpWm/UEyvhMBB9ZLQkQUlvzfRAxHFkDmRm/2Lh/We4HoyxaU8TajrZ+do/EG+uPIp7B90u+QvXd3b8NuM5+biVnq97s84189vqRKZabB/B2NmpFO19FwenyX767krL2YHo5FncS+JtoztCgVUa76B1VgOKuOb8VNZdO+0RnLjGsaR+8miBJE/yw4tUC5YoqzpNi04eni4e6pdsppMA8f45MuUSF+kLw43M+ry0lSG9BZnVKYKZvdTbytR2FLyp8VhwPYMY=;NoKJ/UZen7n1oBiaFDJc/A=="
 ---
 

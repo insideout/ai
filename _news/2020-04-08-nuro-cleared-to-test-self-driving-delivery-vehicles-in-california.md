@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,21 @@ related:
     images:
       - url: "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg"
         width: 1120
+        height: 630
+  - title: "Nuro will start self-driving delivery vehicle services in California"
+    excerpt: "Nuro to test its self-driving delivery car in the state, the company announced on Tuesday. Keep track of the coronavirus pandemic. Crucially, it could be a big step to show Nuro's strengths as the company said it can deliver groceries and supplies to areas stricken by the coronavirus pandemic."
+    publishedDateTime: 2020-04-09T20:27:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg"
+        width: 1200
         height: 630
   - title: "Self-Driving Car Company Lays Off All Its Human Safety Drivers"
     excerpt: "The self-driving car startup Zoox just laid off all 120-something of its human safety drivers — and announced that it’s suspending all driving tests because of the coronavirus pandemic. Zoox has been testing its autonomous cars on the streets of California and Las Vegas, but can’t safely continue given California’s stated shelter-in ..."
