@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-17-get-ready-for-ai-as-a-service.md",
+      "title": "Get Ready For AI As A Service",
+      "excerpt": "Artificial intelligence is not for the faint-hearted, as it requires investments, expertise, and lots of hand-holding. That’s why most enterprises will turn to as-a-Service offerings, leaving back-end processing,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-03-16T20:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177213691%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Get Ready For AI As A Service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-nvidia-researchers-use-ai-to-teach-robots-how-to-hand-objects-to-humans.md",
       "title": "Nvidia researchers use AI to teach robots how to hand objects to humans",
       "excerpt": "Then they used a Microsoft Azure Kinect depth camera to compile a data set to train an AI model to classify a hand holding an object into one of those categories, specifically by showing an example image of a hand grasp to the subject and recording the subject performing similar poses from 20-60 seconds. During the recording, the person could ...",
@@ -1114,36 +1159,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
-      "title": "Looking at How AI Can Improve Computer Vision",
-      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

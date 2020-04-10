@@ -133,28 +133,65 @@
     {
       "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
       "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
-      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other ...",
+      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.pressofatlanticcity.com/business/insights-on-the-worldwide-cognitive-computing-market-to--/article_36af8e93-6024-594d-b885-36a0ae67e956.html",
+      "webUrl": "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T07:45:00-07:00",
+      "publishedDateTime": "2020-03-26T07:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/custom/image/bae1e730-3e34-11e6-9bc5-8f83ee7a0e54.jpg",
+          "url": "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 627,
           "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-microsoft-announces-several-new-azure-products-for-hybrid-computing.md",
+      "title": "Microsoft announces several new Azure products for hybrid computing",
+      "excerpt": "This will allow for data processing at the edge and acceleration of the workload of Machine Learning through a Field Programmable Gate Array which is powered by Azure Machine Learning and Intel ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/04/azure_01-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft announces several new Azure products for hybrid computing",
           "attribution": null
         }
       ],
@@ -1140,51 +1177,6 @@
           "width": 1200,
           "height": 578,
           "title": "Setting up a CI/CD data pipeline based on Azure DevOps, Azure Data Factory and Azure Databricks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-get-ready-for-ai-as-a-service.md",
-      "title": "Get Ready For AI As A Service",
-      "excerpt": "Artificial intelligence is not for the faint-hearted, as it requires investments, expertise, and lots of hand-holding. That’s why most enterprises will turn to as-a-Service offerings, leaving back-end processing,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
-      "publishedDateTime": "2020-03-16T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177213691%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Get Ready For AI As A Service",
           "attribution": null
         }
       ],

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-07-facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks.md",
+      "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+      "excerpt": "Facebook’s AI moderators claimed another innocent victim this week when an algorithm blocked content on DIY coronavirus masks. The system threatened to ban mask makers in Pennsylvania, Illinois, and California, The New York Times reports. These groups were set up to fill a gap in protective gear that has forced hospital staff to don ski ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
+      "publishedDateTime": "2020-04-07T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design54-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-tenstorrent-launches-ai-chip-with-conditional-execution.md",
       "title": "Tenstorrent Launches AI Chip With Conditional Execution",
       "excerpt": "Analyst Karl Freund gives his take on the Cambrian Explosion of new AI chips and how the bar will continue to creep higher. The latest entrant to emerge from Stealth is Canada’s Tenstorrent, who has some aggressive optimizations that make them stand out in the crowd.",
@@ -1277,51 +1321,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-nvidia-is-contributing-its-ai-smarts-to-help-fight-covid-19.md",
-      "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
-      "excerpt": "NVIDIA will add to this by providing expertise in AI, biology and large-scale computing optimizations. NVIDIA is also providing access to its own SaturnV supercomputer, but the primary focus is on its AI experience. The company likened the Consortium’s efforts to the Moon race. Ideally, this will speed up work for scientists who need ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/nvidia-joins-covid-19-consortium-170757511.html",
-      "ampWebUrl": "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
-      "publishedDateTime": "2020-04-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1",
-          "width": 600,
-          "height": 400,
-          "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

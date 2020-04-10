@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-08-hong-kong-developer-chinachems-hotels-unit-brings-in-robots-to-beat-coronavirus-slump.md",
+      "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+      "excerpt": "The company, which is wholly owned by property developer Chinachem Group, will have three artificial intelligence robots called Genie delivering meals and drinks to guests ... Last week, InterContinental Hong Kong hotel, also in Tsim Sha Tsui, opted to start a lengthy renovations process earlier than scheduled and let go of about 500 staff ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "ampWebUrl": "https://amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/article/3078765/hong-kong-developer-chinachems-hotels-unit-brings-robots-beat-coronavirus",
+      "publishedDateTime": "2020-04-07T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/07/c95fc976-77c9-11ea-9479-e3cad17ef2b4_image_hires_172711.jpg?itok=yRHzUuTY&v=1586251637",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong developer Chinachem’s hotels unit brings in robots to beat coronavirus slump",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-bring-your-own-model-for-amazon-sagemaker-labeling-workflows-with-active-learning.md",
       "title": "Bring your own model for Amazon SageMaker labeling workflows with active learning",
       "excerpt": "With Amazon SageMaker Ground Truth, you can easily and inexpensively build accurately labeled machine learning (ML) datasets. To decrease labeling costs, SageMaker Ground Truth uses active learning to differentiate between data objects (like images or documents) that are difficult and easy to label.",
@@ -177,7 +222,7 @@
       "path": "_news/2020-04-07-apple-acquires-ai-start-up-voysis.md",
       "title": "Apple Acquires AI Start-Up Voysis",
       "excerpt": "He served on active duty with the US Army and has a Bachelor's degree in accounting. Follow @dannyvena Apple (NASDAQ:AAPL) has acquired Voysis, an artificial intelligence (AI) start-up focused on helping systems provide better responses to voice commands. Bloomberg reported the acquisition on Friday. The most obvious application would be to ...",
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx",
@@ -1064,43 +1109,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-self-driving-vans-are-delivering-food-and-disinfecting-streets-in-china.md",
-      "title": "Self-driving vans are delivering food and disinfecting streets in China",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus/",
-      "ampWebUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
-      "publishedDateTime": "2020-04-07T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F07%252F8a%252F1bd7e389d2a6478ca53b9a6e24e3697f.9ab8b.jpg%252F1200x630.jpg?signature=MAIYeu2PrROrVIOpyuCaPa2od8U=",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving vans are delivering food and disinfecting streets in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

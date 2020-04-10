@@ -93,6 +93,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
+      "title": "AI & Blockchain: Transforming the banking sector",
+      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "publishedDateTime": "2020-04-06T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
+          "width": 378,
+          "height": 213,
+          "title": "AI & Blockchain: Transforming the banking sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025.md",
       "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
       "excerpt": "New York, April 03, 2020: The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by",
@@ -299,6 +336,43 @@
           "width": 1016,
           "height": 610,
           "title": "Key Takeaways From AMD's Financial Analyst Day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-fintech-company-payby-launches-mobile-payment-services-in-the-uae.md",
+      "title": "Fintech Company PayBy Launches Mobile Payment Services in the UAE",
+      "excerpt": "PayBy is a fintech company with world-class payment infrastructure that provides a fast, secure, AI-powered, one-stop payment solution. The company is committed to offering unified and inclusive financial services for everyday work and life, connecting with people around the world. PayBy collaborates with a variety of leading institutions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Fintech_Company_PayBy_Launches_Mobile_Payment_Services_in_the_UAE-ZAWYA20200330093210/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200330093210/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200330093210/",
+      "publishedDateTime": "2020-03-30T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Fintech Company PayBy Launches Mobile Payment Services in the UAE",
           "attribution": null
         }
       ],
@@ -1079,73 +1153,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east.md",
-      "title": "Fintech Firms, Aion Digital and Qarar, Team Up to Accelerate Development of Online Lending Platforms in the Middle East",
-      "excerpt": "Two major Fintech companies, Aion Digital and Qarar ... As mentioned in the announcement, the platform integrates artificial intelligence (AI) capabilities to assist banks in improving their decision-making processes. Qarar’s deep analytics engine helps financial institutions make risk-managed, consistent business decisions by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
-      "publishedDateTime": "2020-03-16T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
-      "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-      "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553894/deep-learning-and-a-i-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553894",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553894",
-      "publishedDateTime": "2020-03-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583454645.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

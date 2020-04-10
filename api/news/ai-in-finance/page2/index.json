@@ -2,6 +2,73 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-16-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east.md",
+      "title": "Fintech Firms, Aion Digital and Qarar, Team Up to Accelerate Development of Online Lending Platforms in the Middle East",
+      "excerpt": "Two major Fintech companies, Aion Digital and Qarar ... As mentioned in the announcement, the platform integrates artificial intelligence (AI) capabilities to assist banks in improving their decision-making processes. Qarar’s deep analytics engine helps financial institutions make risk-managed, consistent business decisions by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158827-fintech-firms-aion-digital-and-qarar-team-up-to-accelerate-development-of-online-lending-platforms-in-the-middle-east/amp/",
+      "publishedDateTime": "2020-03-16T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
+      "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
+      "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553894/deep-learning-and-a-i-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553894",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553894",
+      "publishedDateTime": "2020-03-13T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583454645.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing.md",
       "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
       "excerpt": "“Deltec Bank” Deltec Bank, Bahamas – \"From robo-advisers to virtual assistants, financial services have seen massive growth.” Understanding",
@@ -1103,97 +1170,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
-      "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
-      "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/346215",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346215",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215",
-      "publishedDateTime": "2020-02-11T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
-      "title": "Top 5 companies using Machine Learning in 2020",
-      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
-          "width": 800,
-          "height": 445,
-          "title": "Top 5 companies using Machine Learning in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
         "AI in Finance"
       ]
     }

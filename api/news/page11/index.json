@@ -2,6 +2,96 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-31-the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them.md",
+      "title": "The Challenges Of Applying AI To Healthcare And How To Address Them",
+      "excerpt": "Though the AI health market is rapidly growing, implementing technology for medical purposes still entails a range of challenges.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/31/the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/31/the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/31/the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them/amp/",
+      "publishedDateTime": "2020-03-31T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-32-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Challenges Of Applying AI To Healthcare And How To Address Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-huawei-execs-response-to-the-us-limiting-tsmc-chip-supply.md",
+      "title": "Huawei exec’s response to the US limiting TSMC chip supply",
+      "excerpt": "In other words, this will limit the Chinese tech giant’s global chip supply which is integral to its operations since it has its own ... Editor’s Pick: Xiaomi rolls out MIUI 11.0.16.0 Stable Update for Mi 10 Pro in China, Adds AI 8K video recording Xu Zhijun read the report from Reuters and People’s Daily and thinks it endangers the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
+      "publishedDateTime": "2020-03-31T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/05/huawei-logo.jpg",
+          "width": 4122,
+          "height": 2825,
+          "title": "Huawei exec’s response to the US limiting TSMC chip supply",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-how-ai-helped-dominos-improve-pizza-delivery.md",
       "title": "How AI helped Domino’s improve pizza delivery",
       "excerpt": "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ...",
@@ -1003,96 +1093,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-ai-sentiment-models-say-these-are-top-stock-ideas.md",
-      "title": "AI Sentiment Models Say These Are Top Stock Ideas",
-      "excerpt": "After last week's sharp rally in US stocks, we ask our AI Sentiment Models to tell us what are the best ideas for the upcoming week.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/qai/2020/03/30/ai-sentiment-models-say-these-are-top-stock-ideas-ahead-of-market-open/",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/03/30/ai-sentiment-models-say-these-are-top-stock-ideas-ahead-of-market-open/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/03/30/ai-sentiment-models-say-these-are-top-stock-ideas-ahead-of-market-open/amp/",
-      "publishedDateTime": "2020-03-30T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e814fcba1a0ef0007d898b8%2F0x0.jpg",
-          "width": 1200,
-          "height": 566,
-          "title": "AI Sentiment Models Say These Are Top Stock Ideas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr.md",
-      "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
-      "excerpt": "Portland, March 30, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global deep learning chip market was pegged at $2.81 billion in 2018 and is estimated to reach $29.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr-2020-03-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T07:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

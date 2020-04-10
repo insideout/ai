@@ -7,8 +7,8 @@ webUrl: "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artifici
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
 type: article
-quality: 102
-heat: 172
+quality: 104
+heat: 174
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png"

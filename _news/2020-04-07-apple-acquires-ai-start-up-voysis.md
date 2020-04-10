@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-star
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -29,21 +29,6 @@ images:
     title: "Apple Acquires AI Start-Up Voysis"
 
 related:
-  - title: "Apple acquires Voysis, an AI start-up for making improvements to Siri"
-    excerpt: "According to reports by Bloomberg Apple has acquired Voysis which is an AI startup for making improvements to Siri. Voysis is a platform that offers a better understanding of the natural language for digital assistants. Voysis helps online voice assistants and improves them to help users in online shopping applications. It helps to interpret ..."
-    publishedDateTime: 2020-04-05T14:04:00Z
-    webUrl: "https://www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri"
-    ampWebUrl: "https://www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri/amp"
-    cdnAmpWebUrl: "https://www-ilounge-com.cdn.ampproject.org/c/s/www.ilounge.com/news/apple/apple-acquires-voysis-an-ai-start-up-for-making-improvements-to-siri/amp"
-    type: article
-    provider:
-      name: iLounge
-      domain: ilounge.com
-    quality: 57
-    images:
-      - url: "https://www.ilounge.com/wp-content/uploads/2020/04/Siri-1024x510.png"
-        width: 1024
-        height: 510
   - title: "Apple acquires Dublin AI start-up Voysis"
     excerpt: "Apple has acquired Voysis for an undisclosed sum, taking on the start-up's deep domain, brand-specific intelligent voice technology."
     publishedDateTime: 2020-04-06T08:23:00Z

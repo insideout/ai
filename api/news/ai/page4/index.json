@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-06-nvidia-is-contributing-its-ai-smarts-to-help-fight-covid-19.md",
+      "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
+      "excerpt": "NVIDIA will add to this by providing expertise in AI, biology and large-scale computing optimizations. NVIDIA is also providing access to its own SaturnV supercomputer, but the primary focus is on its AI experience. The company likened the Consortium’s efforts to the Moon race. Ideally, this will speed up work for scientists who need ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/nvidia-joins-covid-19-consortium-170757511.html",
+      "ampWebUrl": "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
+      "publishedDateTime": "2020-04-06T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1",
+          "width": 600,
+          "height": 400,
+          "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
       "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
       "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
@@ -431,13 +476,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
+      "title": "AI & Blockchain: Transforming the banking sector",
+      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "publishedDateTime": "2020-04-06T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
+          "width": 378,
+          "height": 213,
+          "title": "AI & Blockchain: Transforming the banking sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
       "title": "Microsoft Azure Speech to Text review",
       "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
       "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review",
+      "webUrl": "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-06T06:33:00-07:00",
@@ -1214,88 +1296,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report.md",
-      "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
-      "excerpt": "The Algorithmic Justice League has released a spoken word and visual project called “Voicing Erasure” to protest the demographic discrepancies or “bias” identified in popular speech recognition systems on the market, following its recent study of algorithmic bias, AI, and technology, writes VentureBeat. The Algorithmic Justice League ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202004/algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
-          "width": 900,
-          "height": 499,
-          "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
-      "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
-      "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/kevin-scott-reprogramming-the-american-dream/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T11:04:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/04/kevin-scott-reporgramming-the-american-dream-rural-virginia_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

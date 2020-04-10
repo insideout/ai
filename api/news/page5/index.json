@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-06-apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test.md",
+      "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
+      "excerpt": "Instead of a top-to-bottom refresh of the service, Apple has spent nearly a decade making small improvements to various features, and now another one’s coming: The company has acquired an Irish voice AI company called Voysis to help fix one of Siri’s most glaring issues. While Siri has scored pretty well on Loup Ventures’ annual Digital ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/amp/",
+      "publishedDateTime": "2020-04-06T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/voysis2.jpg?fit=2545%2C1273&strip=all",
+          "width": 2545,
+          "height": 1273,
+          "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
       "title": "Why AI startups’ economics will likely improve over time",
       "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
@@ -46,13 +90,50 @@
       ]
     },
     {
+      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
+      "title": "AI & Blockchain: Transforming the banking sector",
+      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "publishedDateTime": "2020-04-06T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
+          "width": 378,
+          "height": 213,
+          "title": "AI & Blockchain: Transforming the banking sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
       "title": "Microsoft Azure Speech to Text review",
       "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
       "heat": 94,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review",
+      "webUrl": "https://www.techradar.com/reviews/microsoft-azure-speech-to-text-review",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-06T06:33:00-07:00",
@@ -991,88 +1072,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
-      "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-      "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "publishedDateTime": "2020-04-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6146265.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-artificial-intelligence-ai-challenge-regulators-and-induce-recovery.md",
-      "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
-      "excerpt": "Artificial intelligence with machine learning is expected not only to enhance the processes and transparency but also to improve the relationship between financial advisors with clients. This will be done because the overriding feature of artificial intelligence is that it will be able to provide services for all clients at a low cost.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fxstreet.com/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "publishedDateTime": "2020-04-03T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/taking-his-business-global-gm528981107-54255008_Small.jpg",
-          "width": 320,
-          "height": 217,
-          "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
