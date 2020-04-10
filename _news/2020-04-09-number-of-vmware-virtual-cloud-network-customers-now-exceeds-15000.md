@@ -23,6 +23,6 @@ images:
     height: 430
     title: "Number of VMware Virtual Cloud Network customers now exceeds 15,000"
 
-secured: "FjFrytMzCdox/mYKpxjQ+k3XLEJoenAhXF7BrSlQ8rUkd0Xtuo/G1yPBE4NCxIueQhErP5vJe/0DMb5M74MA86gh2HY6AFg/ENb70IaSeeNNmHOblu+UVJO75CAM63CVBUHXUYT/dxQGKU1PGSyae0nCjs1sthHvlVK/z5dswvi6+dOHEJKt3K+8NaCpHjyJrerCa2AtZwjPpHhGFB2+8nO5NAECFxe4+tcqaUECCkhaRx9MhQoFPND/Xuoo3yp+K7Wz5gDGOYaRx68do7nxf+032SdBFbJ5PrKh3Ntt0aGlqPF8uu6pnnm3jbJXB1Rm;oDBWtq+sYXZQ0YvxcyVGeA=="
+secured: "iiTdKyjlyzJo31L0V+2KEEXinsV080/oQx/G8FbJVUKihwQ+igyct173mWd4fNslPiiIrx3CSv0HhigSl2omGyw9xQcxrkaJIf4iIhott1AAuJmAtANQHBRYCXvqVxPQogM+poUy+BTSN0xYqTm94FXYEVFVGE0czufcQWjXapl6hDRJ61raQhvk8DR5NVTQO7/a/UgfqT/oy/W6hAS/lAEo2v1KETmym78GFbln29ER490BMhCXTSR7GUbhHBTf+zgGiipza3cKBdM5BemDBTzym6brGANE9GyIOQVslj0kcPM62F3RWlUAtYFZAla5STgFtGfIu++42vz7kQZ0iNGr1GD8xgeDkEI+5qhSi1/wA1RsWJB9JqGvAHGVbW7fHqMugwLcgJMOj6LTP28ER+zJ8az01lkspGRAFaWA8ieHqbR/ZBluRFfvB8LvXN9/KNSYTh4J0gGmsY53WipfOv4r6OpGeoLzUOu4NZ3DJPg=;66uEdhjBhwNp68V/4H9NDQ=="
 ---
 

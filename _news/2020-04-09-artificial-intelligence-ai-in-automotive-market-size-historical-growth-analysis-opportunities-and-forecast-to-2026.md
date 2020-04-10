@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-excerpt: "This is attributed to the increasing adoption of automotive AI components for implementation of AI solutions. Energy-efficient System-on-Chips (SoCs) and dedicated AI GPUs are assisting enterprises in deploying highly sophisticated onboard computers with robust computing power. In July 2019, Intel launched Pohoiki Beach, a new AI-enabled chip ..."
+excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 09, 2020 Xherald -- Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of the industry with brief analysis, data charts, figures, statistics that help take business decisions ..."
 publishedDateTime: 2020-04-09T05:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09?mod=mw_quote_news"
 type: article
-quality: 60
+quality: 58
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -75,6 +74,6 @@ related:
       domain: openpr.com
     quality: 4
 
-secured: "y0LVSdso8LXx/L1dWMGWLJQjY0WuexceO5Mft3YCP8Rg+zMME41PZNtSL5YeEVOCAqjY+A+f8IWmN2EXGV+SC7SnRu02fEBslDxrXSGXREEGChMKsD+5AaNaZGWrz3VvjcG36LH7lPrumlTQUMgkyP1Qq8KefA4pmM5LHuPbuIsHuxvAesD2Tx55VS6o2ibsbXUbcml2z6kOH360+SH+8xQoe/9CFinHg9lzWDiMuTO3VuT6ylg/AxZV4lx6GIntLn1bsJ222wrTCFMP0m4euLbWdJFeGiksPqeIyAK0+vaDKnZkkdclSDDaK2F8+/QI;COIjj2WYyAQbrXtz7XXvJg=="
+secured: "dj3vyE2ct77ByY7P1gJ4Pktizzv4JI7ppBrN76v/MO4YoZS/PzUJEXlr1TXR0lIJnXbgnhpe8OmJciHlh0tvSZe84GyiTjAxNl2PF2H4H2FHNdrmKsBjzmPdMdslNgcv14iiGgdmmCtlhP6IoLHiPgDKI5TK+eNrICHlWzs+gTojK6FhEhfm6rMMES+19VbAqtNcUvTUX8BF1AONx1oXVGEhBow2FrD3UhTxYzJGvGDJJLabmcotCYlOUWQb/TfnyFhB/+9xqh9IRl0tZZQ1XVisGp/RRycqdIHldIr+E7g8sMVcyhJ06zpHMM8HpMRd;RTJFteoCFRXuukQMLDuJow=="
 ---
 

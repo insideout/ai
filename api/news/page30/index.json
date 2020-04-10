@@ -2,6 +2,75 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
+      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
+      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-processors-best-suited-for-embedded-vision-applications.md",
+      "title": "Processors best suited for embedded vision applications",
+      "excerpt": "Plus, there’s only so much real estate inside your device. Manufacturers have had to make processors smaller and smaller so you can bring embedded vision along for the ride. Computer vision technology typically uses a central processing unit (CPU) and a graphics processing unit (GPU). Manufacturers have realized that there is a need for ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/processors-best-suited-for-embedded-vision-applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cfemedia1.wpengine.com/wp-content/uploads/2019/07/ctlx_icon_MachineVision_Slider_01-3.jpg",
+          "width": 485,
+          "height": 260,
+          "title": "Processors best suited for embedded vision applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-tensorflow-gets-its-quantum-of-solace-lid-lifted-on-all-seeing-crime-detecting-ai-upstart-and-more.md",
       "title": "TensorFlow gets its quantum of solace, lid lifted on 'all-seeing crime-detecting' AI upstart, and more",
       "excerpt": "Now, the price to attend the digital conference has dropped down to $50 for students and $100 for non-students. New TensorFlow library! If you’re bored at home and ‘social distancing’ from all your friends, family, and colleagues then try this: TensorFlow’s latest library that allows you to build quantum AI models. Your brain will ...",
@@ -866,96 +935,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-is-coming-for-your-most-mind-numbing-office-tasks.md",
-      "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-      "excerpt": "Such reservations seem unlikely to dampen believers’ enthusiasm, though. Guy Kirkwood, the chief evangelist at UiPath, says the vision is for software robots to be a lot more like the AI of science fiction, eventually taking over how they are programmed from start to finish. “The direction of travel—and we’re not there yet—is that we ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/",
-      "ampWebUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
-      "publishedDateTime": "2020-03-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-this-stance-detecting-ai-will-help-us-fact-check-fake-news.md",
-      "title": "This stance-detecting AI will help us fact-check fake news",
-      "excerpt": "However, while those techniques have been efficient for some tasks such as machine translation, they have had limited success on ... time- and labor-intensive data-labeling work that goes into most contemporary AI work. “The beauty of bidirectional transformer language models is that they allow very large text corpuses to be used to obtain ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
-      "publishedDateTime": "2020-03-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-8-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This stance-detecting AI will help us fact-check fake news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

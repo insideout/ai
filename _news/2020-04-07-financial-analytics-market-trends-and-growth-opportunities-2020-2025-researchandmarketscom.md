@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Financial Analytics Market Trends and Growth Opportunities, 2020-2025 - ResearchAndMarkets.com"
-excerpt: "Furthermore, the integration of machine learning (ML) and artificial intelligence (AI) with FA is also providing a boost to the market growth, as they offer enhanced accuracy and resilience of financial decisions ... Based on the component, services currently hold the majority of the market share. Based on the vertical, BFSI currently holds ..."
+excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/7loj62"
 publishedDateTime: 2020-04-07T16:08:00Z
-webUrl: "https://www.businesswire.com/news/home/20200407005684/en/Financial-Analytics-Market-Trends-Growth-Opportunities-2020-2025"
+webUrl: "https://www.galvnews.com/news_ap/business/article_0fc13b0d-f912-5896-9504-079f5999b750.html"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200407005684/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/2e61b71c-1cd3-11e7-bf48-cf98bcac2fb6.png?resize=600%2C600"
+    width: 600
+    height: 600
     title: "Financial Analytics Market Trends and Growth Opportunities, 2020-2025 - ResearchAndMarkets.com"
 
 related:
@@ -51,6 +51,6 @@ related:
         width: 1200
         height: 627
 
-secured: "Nv4XcChSJF1SSocY9jk+QgXm5Bhl7f7UDh80edTPrOCGZ+Vfia+7aOvCCdILqoX5CyZz7Jweo/AUaaQguhvnZxnOuhqvx2mnBh3fxOrXd2opXEPdbGen37Y9N42fI0SdslcrNoBfuce/pViBmO7CwekkZHyJLjEB4YU3mQZ9bo+Cjhh4T4p0xTWodadzlJy781DzfQZROO1AzCZT9Pv92SMMBlA185hdKHhXFxVLsLifag6aAMFj5ihdVHi8+JlI9Y5YFHRqLlOzgjoh41mc/WfM3lhoPTktXbFHm4MdM7n/b1oz7dffwc+laNElY3p0BkYn7V7pEuhnMwhyfCz41UrE61OgYw75OKbxQj3HzNf5V4+8jHlMu4lD7VhuNt12LeOE3jrc4SEO7sh0sjIquejUXM/9CWHw7cdyZjatoDqdY5MIYTtipwEyu4U5ApHlBpw6P6pK8Kd+m5WbtdXZOU1KsCehs3fm5MoTRD6kANM=;nCOXALXj4F3MnUI1ZVhKeA=="
+secured: "vVcPARGfFdATme7OnHerD2hF3nrcOUjnb7enS4dRoqV1OU/XfMofz/+bvsjqVs38riiNNm36rUAd4Gh01ULpmWkL93UE5R74Onbx4SfcE6NnBnlCt8pAyznhEeYcYwdPktq5E4JDPWwLAF0cB8sXy9FFJEYUGgT3VvYo9nI+hpcFkS5NJ0g0rmrL7fy8yr8jS5rpZue4imitcZ0cwGMomqF8+IRybJCWwGCeUpGl8GSZKyMkoALJGFSZEbQpjo5/5BtxSlh5S1AzCbS7vJkWNdV+kt6hGERtjLoCB0S7VJ7Y88V6ZS8PxAXevYpaerIp;d3De1fEG3G9+C4kTNb7zjw=="
 ---
 

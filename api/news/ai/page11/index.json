@@ -2,6 +2,95 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
+      "title": "In artificial intelligence, enterprises still not minding their data",
+      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
+      "publishedDateTime": "2020-03-28T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "In artificial intelligence, enterprises still not minding their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
+      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "publishedDateTime": "2020-03-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ipad-trackpad-support-is-just-the-start-of-ios-134s-great-features.md",
       "title": "iPad trackpad support is just the start of iOS 13.4's great features",
       "excerpt": "Apple released the latest iPhone and iPad software update with iOS 13.4 and iPadOS 13.4. It adds new features that let you use the trackpad to control the iPad, share iCloud files and make new Memoji,",
@@ -1213,80 +1302,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-computer-vision-in-healthcare-market-growth-ongoing-trends-technological-innovation-opportunities-and-forecast-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Growth, Ongoing Trends, Technological Innovation, Opportunities and Forecast to 2026",
-      "excerpt": "The global Computer Vision in Healthcare market report scope includes detailed study covering underlying factors influencing the industry trends. The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1988080/computer-vision-in-healthcare-market-growth-ongoing-trends",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
-      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "publishedDateTime": "2020-03-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

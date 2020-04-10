@@ -29,18 +29,18 @@ images:
 
 related:
   - title: "Financial Analytics Market Trends and Growth Opportunities, 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "Furthermore, the integration of machine learning (ML) and artificial intelligence (AI) with FA is also providing a boost to the market growth, as they offer enhanced accuracy and resilience of financial decisions ... Based on the component, services currently hold the majority of the market share. Based on the vertical, BFSI currently holds ..."
+    excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/7loj62"
     publishedDateTime: 2020-04-07T16:08:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200407005684/en/Financial-Analytics-Market-Trends-Growth-Opportunities-2020-2025"
+    webUrl: "https://www.galvnews.com/news_ap/business/article_0fc13b0d-f912-5896-9504-079f5999b750.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Daily News
+      domain: galvnews.com
     quality: 12
     images:
-      - url: "https://mms.businesswire.com/media/20200407005684/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/2e61b71c-1cd3-11e7-bf48-cf98bcac2fb6.png?resize=600%2C600"
+        width: 600
+        height: 600
   - title: "Insights on the Worldwide E-Learning Service Industry to 2025 - Major Players and Strategy Analysis - ResearchAndMarkets.com"
     excerpt: "On the basis of end-user, the global e-learning service market is segmented as corporate, academic, and government. Technological advancements such as AR & VR devices, AI platforms, big data, and machine learning provide a great opportunity for the growth ..."
     publishedDateTime: 2020-04-07T15:38:00Z

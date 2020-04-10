@@ -2,6 +2,96 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
+      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
+      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "publishedDateTime": "2020-03-30T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 482,
+          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data.md",
+      "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+      "excerpt": "The recent success of deep learning is the result of the marriage of big data and GPUs, significantly increasing the breadth and depth of the data used for training computers and reducing the time required for training deep learning algorithms.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
+      "publishedDateTime": "2020-03-30T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ea66a958e13498c8aaf2f2ad7a2d9d5%2F0x0.jpg",
+          "width": 1200,
+          "height": 669,
+          "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-10-details-about-voice-activated-tech-every-user-should-know.md",
       "title": "10 Details About Voice-Activated Tech Every User Should Know",
       "excerpt": "Successful CIOs, CTOs & executives from Forbes Technology Council offer firsthand insights on tech & business. Share to Facebook  Share to Linkedin Between Siri, Alexa and Google Assistant, the world seems to have a lot of voice-activated assistants these days.",
@@ -227,11 +317,11 @@
     {
       "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
       "title": "Huawei steps up ambitions in self-driving vehicles race",
-      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-30T02:36:00-07:00",
@@ -393,7 +483,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1006,95 +1097,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-to-become-main-way-banks-interact-with-customers-within-three-years-accenture.md",
-      "title": "AI to become main way banks interact with customers within three years: Accenture",
-      "excerpt": "Artificial intelligence (AI) will become the primary way banks interact with their customers within the next three years, according to three quarters of bankers surveyed by consultancy Accenture ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/ai-to-become-main-way-banks-interact-with-customers.html",
-      "publishedDateTime": "2020-03-28T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103456053-516780641.jpg?v=1529470912",
-          "width": 2000,
-          "height": 1294,
-          "title": "AI to become main way banks interact with customers within three years: Accenture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-in-artificial-intelligence-enterprises-still-not-minding-their-data.md",
-      "title": "In artificial intelligence, enterprises still not minding their data",
-      "excerpt": "Data is the raw material that fuels artificial intelligence and machine learning initiatives, but it actually can't be that raw. It needs to be as accurate, timely and well-vetted as possible -- or else AI will deliver erroneous or biased results. At this stage, most enterprises haven't quite locked down the viability of the data employed ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/in-artificial-intelligence-enterprises-still-not-minding-their-data/",
-      "publishedDateTime": "2020-03-28T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/21/ffaaa061-1d64-489d-98f9-38cb143052f5/thumbnail/1200x675/8ae851cbe6e0af0b1eb6fbc3d05f3288/building-observation-deck-world-trade-center-one-photo-by-joe-mckendrick.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "In artificial intelligence, enterprises still not minding their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

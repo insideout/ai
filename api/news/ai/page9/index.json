@@ -2,6 +2,87 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
+      "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
+      "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
+      "publishedDateTime": "2020-03-31T05:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/thumbnail/1200x675/c021471ff96cdf363eebc4f21f68ea4f/facerecognitionistock-1180902227.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an-ai-driven-predictive-model-of-ovarian-cancer.md",
+      "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
+      "excerpt": "MINNEAPOLIS, March 31, 2020 (GLOBE NEWSWIRE) --  (NASDAQ: POAI ) (“POAI” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an/article_423a4c72-6993-5f2a-9e02-8f7e925d7d5c.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models.md",
       "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
       "excerpt": "ModelOp, a startup developing AI software and development services for enterprises, today announced that it has raised $6 million. It plans to use the capital to support demand for its products in a market that IDC anticipates will be worth $8 billion by 2022. The term ModelOps refers to the process of cycling analytical models from data ...",
@@ -1244,78 +1325,6 @@
         "AI Hardware",
         "Google AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai.md",
-      "title": "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI",
-      "excerpt": "Shri Santhanam came to the world of AI and analytics first in serving clients as a consultant at Mercer and Oliver Wyman. Next, he co-founded OW Labs an AI and analytics practice. Now he is doing the same at a bigger scale at $5 billion Experian,",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/peterhigh/2020/03/30/experian-sharpens-focus-on-developing-a-game-changing-offering-using-analytics-and-ai/amp/",
-      "publishedDateTime": "2020-03-30T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81fd11ae2ff90006b5bcaf%2F0x0.jpg",
-          "width": 1200,
-          "height": 686,
-          "title": "Experian Sharpens Focus On Developing A Game-Changing Offering Using Analytics And AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-aitxd-artificial-intelligence-technology-solutions-inc.md",
-      "title": "AITXD Artificial Intelligence Technology Solutions Inc",
-      "excerpt": "Dividend History information is presently unavailable for this company. This could indicate that the company has never provided a dividend or that a dividend is pending.",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/market-activity/stocks/aitxd/dividend-history",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

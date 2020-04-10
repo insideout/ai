@@ -883,11 +883,11 @@
     {
       "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
       "title": "Huawei steps up ambitions in self-driving vehicles race",
-      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "excerpt": "as well as Baidu, the Chinese search engine giant. Huawei, which is due to report its annual results on Tuesday and declined to comment, is specifically interested in developing its autonomous driving platform, the key integrated electric system that serves as the \"brain\" for a self-driving vehicle. U.S. rivals like Tesla, Waymo, Nvidia ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "webUrl": "https://asia.nikkei.com/Spotlight/Huawei-crackdown/Huawei-steps-up-ambitions-in-self-driving-vehicles-race",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-30T02:36:00-07:00",
@@ -1100,23 +1100,31 @@
     {
       "path": "_news/2020-03-27-global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autonomous-vehicles-researchandmarketscom.md",
       "title": "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com",
-      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
+      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application. In addition to HD map services for third parties, more companies applied in 2019 to be the eligible providers of electronic navigation mapping with ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15680177/global-and-china-hd-map-industry-report-2019-2020-market-burgeoning-with-the-roll-out-of-l3-autono",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15680177",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15680177",
-      "publishedDateTime": "2020-03-27T02:29:00-07:00",
+      "webUrl": "https://www.heraldstandard.com/business_ap/global-and-china-hd-map-industry-report---/article_1507ad7f-3c7e-5fba-830f-6590b7abfdcd.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T02:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Herald-Standard",
+        "domain": "heraldstandard.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/heraldstandard.com/content/tncms/custom/image/9fc2a2c6-5890-11e5-bdf5-47a82848b584.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Global and China HD Map Industry Report, 2019-2020 - Market Burgeoning with the Roll-out of L3 Autonomous Vehicles - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

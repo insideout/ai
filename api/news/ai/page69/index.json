@@ -2,6 +2,96 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
+      "title": "Amazon explores a way to preserve privacy in natural language processing",
+      "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
+      "heat": 188,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "publishedDateTime": "2020-01-23T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon explores a way to preserve privacy in natural language processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-nhs-to-inject-more-robots-into-healthcare-with-uwe-bristol-partnership.md",
+      "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
+      "excerpt": "in developing robotics and other healthcare technology for one of the UK’s leading medical centres, Southmead Hospital. The partnership will explore how artificial intelligence (AI), machine learning, and socially and physically assistive robots could be employed to better support patients. One of the anticipated robotic systems is CHIRON ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe",
+      "ampWebUrl": "https://www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/business-strategy/digital-transformation/354620/nhs-to-inject-more-robots-into-healthcare-with-uwe?amp",
+      "publishedDateTime": "2020-01-23T08:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/v1579797035/unnamed.jpg",
+          "width": 1295,
+          "height": 736,
+          "title": "NHS to inject more robots into healthcare with UWE Bristol partnership",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-maximizing-nlp-model-performance-with-automatic-model-tuning-in-amazon-sagemaker.md",
       "title": "Maximizing NLP model performance with automatic model tuning in Amazon SageMaker",
       "excerpt": "The field of Natural Language Processing (NLP) has had many remarkable breakthroughs in the past two years. Advanced deep learning models are raising the state-of-the-art performance standards for NLP tasks. To benefit from newly published NLP models, the best approach is to apply a pre-trained language",
@@ -1184,94 +1274,6 @@
           "width": 1200,
           "height": 676,
           "title": "Disruption 2.0: How IoT And AI Are Breaking Up The Business World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
-      "title": "GitHub now uses AI to recommend open issues in project repositories",
-      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
-      "publishedDateTime": "2020-01-22T11:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "GitHub now uses AI to recommend open issues in project repositories",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-researchers-use-ai-to-deblur-human-faces-in-photos.md",
-      "title": "Researchers use AI to deblur human faces in photos",
-      "excerpt": "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
-      "publishedDateTime": "2020-01-22T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers use AI to deblur human faces in photos",
           "attribution": null
         }
       ],

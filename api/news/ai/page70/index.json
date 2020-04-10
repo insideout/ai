@@ -2,6 +2,94 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-01-22-github-now-uses-ai-to-recommend-open-issues-in-project-repositories.md",
+      "title": "GitHub now uses AI to recommend open issues in project repositories",
+      "excerpt": "The initial version, which launched in May 2019, surfaced recommendations based on labels applied to issues by project maintainers. But an updated release shipped last month incorporates an AI algorithm that Github says surfaces issues in about 70% of repositories recommended to users. Github says it’s the first deep-learning-enabled product ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/github-now-uses-ai-to-recommend-open-issues-in-project-repositories/amp/",
+      "publishedDateTime": "2020-01-22T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/github-1-e1579720491957.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "GitHub now uses AI to recommend open issues in project repositories",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-researchers-use-ai-to-deblur-human-faces-in-photos.md",
+      "title": "Researchers use AI to deblur human faces in photos",
+      "excerpt": "In search of a solution, scientists at the Inception Institue of Artificial Intelligence in the United Arab Emirates, the Beijing Institute of Technology, and Stony Brook University developed an AI system that removes blur from images in post-production. They note in a paper that it’s human-aware, meaning it’s able to deblur human faces ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/researchers-use-ai-to-deblur-human-faces-in-photos/amp/",
+      "publishedDateTime": "2020-01-22T09:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/7ec55bc5-ac3d-48a4-8a26-82fe8db7356a-e1579715708955.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers use AI to deblur human faces in photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-clearview-ais-facial-recognition-app-is-a-nightmare-for-stalking-victims.md",
       "title": "Clearview AI’s facial-recognition app is a nightmare for stalking victims",
       "excerpt": "The latest example of Silicon Valley’s hubris is the facial-recognition app Clearview AI. The small startup’s app is so powerful that someone could walk up to you on the street, snap your photo, and quickly find out your name, address, and phone number ...",
@@ -1183,94 +1271,6 @@
           "width": 756,
           "height": 567,
           "title": "There's nowhere to hide anymore: This AI can see around corners",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust.md",
-      "title": "Singapore releases latest AI Framework edition to improve governance and trust",
-      "excerpt": "Almost a year to the day since the Singapore government released its first edition of the Model AI Governance Framework, a second edition has been announced at the 2020 World Economic Forum (WEF), aimed at improving consumer trust on the use and governance of artificial intelligence (AI). The updated version [PDF] of the Model AI Governance ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-releases-latest-ai-framework-edition-to-improve-governance-and-trust/",
-      "publishedDateTime": "2020-01-21T20:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/22/0d371627-35ec-44a9-83fe-7238305ce185/singapore-model-ai-governance-framework-second-edition-compendium-of-use-cases-pdf1.png",
-          "width": 913,
-          "height": 582,
-          "title": "Singapore releases latest AI Framework edition to improve governance and trust",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-ibm-announces-partnership-with-williams-ai-startup-at-davos.md",
-      "title": "IBM announces partnership with will.i.am's AI startup at Davos",
-      "excerpt": "will.i.am's tech company, I.AM+, and IBM have created a global partnership to ensure enterprise-level security for customer data as AI adoption speeds up and pushes further into the mainstream. Human-like conversational experiences are at the forefront of I.AM's Omega AI platform, and speed and security are priorities for its worldwide ...",
-      "heat": 127,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-announces-partnership-with-will-i-ams-ai-startup-at-davos/",
-      "publishedDateTime": "2020-01-21T20:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/13/3c7764b3-0c4d-4013-852c-47a48205a2b6/thumbnail/1200x675/dd4e6645aefafbe56471a7db5ec4cde2/20200113-ibm-jamie-teena.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM announces partnership with will.i.am's AI startup at Davos",
           "attribution": null
         }
       ],

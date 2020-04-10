@@ -3,24 +3,24 @@ category: news
 title: "VMware Surpasses Major Virtual Cloud Network Milestones"
 excerpt: "VMware vRealize Network Insight 5.2 introduces flow-based application discovery across multiple VMware platforms using machine learning to better understand categorized applications ... Virtual Cloud Networking for Azure Edge Zones: VMware is working with Microsoft to offer SD-WAN solutions for Azure Edge Zones, which deliver Azure services ..."
 publishedDateTime: 2020-04-08T15:01:00Z
-webUrl: "https://www.businesswire.com/news/home/20200408005200/en/VMware-Surpasses-Major-Virtual-Cloud-Network-Milestones"
+webUrl: "https://www.valdostadailytimes.com/news/business/vmware-surpasses-major-virtual-cloud-network-milestones/article_eca315d9-b6f9-5b01-8326-706d6ad8b0d5.html"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Valdosta Daily Times
+  domain: valdostadailytimes.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200408005200/en/782362/23/4284573_300DPIxVMware-logo-grey_highres_.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg"
+    width: 640
+    height: 336
     title: "VMware Surpasses Major Virtual Cloud Network Milestones"
 
 related:
@@ -40,6 +40,6 @@ related:
         width: 1024
         height: 1024
 
-secured: "njl8WovNH0x4ewAr9LiM9ZBpTKTeMTGoPcABdCk4FBaG1diX9C/f4V6kw5tYSieUGSFMFTYwe7ej7vZ6d96wUBQMWrA4C+kISnwKQJRt78QGtz7imHaxAsLUQpVODnAwTHhZfQQf/A2zWh5VOidB1EV6WT5FapcYA1FX1XXYVlA6caJW9mC98KwbDgO2X0wGonAvTr+fECNUr6meVrBE+coPg4+A+BnG0bn2u25Z1D/rshIc7vPcTBb/vwq1/BHCS1F245/Aj9W+/PT7NSRfTj1381SYGOrWKydK8g4/h9RTa2XCfK1p9mKViP1G18lM;XIwwUUJrYPPt1ppyK37taA=="
+secured: "6XJyxQrrKX8hRATWJkZxc5G7MjN9lzeKxsccTSduUmYbQwwJ9t6hxsZxG+28WpaInviQ/+ytOZ+0fK5iypWztlHKcaouSh720UlsLQTfGwRUEa89gfpr5opbTkn+vxijJpZLJ1oV02yWKgfsuWcWwEVTOD09Xi1XfxgGPX1NGLVWInVLqv/Zq+jrWDOfwlNgWhqJMYL5pHdLLZLL7E6QQKeZEjyrd8TKAt8cLyRXoQHw/oWt30k0JCNwHpxhKDtH8xpBCyxODp/lnOAs9AOhjwUf/jt/u1rnPGEuKBWfoh46XHljyA41W2oRQvwiZPwF;yKSlETdpE+UOZWmdqKVgCw=="
 ---
 
