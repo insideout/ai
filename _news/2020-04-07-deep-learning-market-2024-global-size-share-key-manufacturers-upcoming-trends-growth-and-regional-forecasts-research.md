@@ -42,9 +42,9 @@ related:
         width: 1200
         height: 630
   - title: "Global Voice Recognition Market 2020-2025 Growth Analysis, Competitive Situation, Geographic Segmentation and Forecast Opportunity"
-    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
+    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems, voice-enabled virtual assistant system, and voice-enabled devices is driving the market growth, owing to the rising ..."
     publishedDateTime: 2020-04-07T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-2025-growth-analysis-competitive-situation-geographic-segmentation-and-forecast-opportunity-2020-04-07"
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-2025-growth-analysis-competitive-situation-geographic-segmentation-and-forecast-opportunity-2020-04-07?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch

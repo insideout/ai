@@ -23,6 +23,6 @@ images:
     height: 574
     title: "Intel and Georgia Tech join DARPA program to thwart attacks against machine learning"
 
-secured: "F7R04G676vvkhIyTbqfQ2oZJRT3hF6fL3uBsEdhNlpZcSe2/X6QwGb/HqE75DN9ZOS4GRBvJB0Sn6HGk0Tgsuwrn4y9M//fvfa1AVcx+3zG5cgPgJW/51of2dTaBAj8JKx/q6xiY66UTXf2nhDezK42srnnw3ooW/qCHu+J37+4oZ7dWw2+cxucieLkZoF9wOY8rja8rkOboC+sQwbGukcUBhEKw5DppCOs9CqRRKEOTKVH7hj/aOTM97Vl/YU+Qd90knUJTHd2HmBbYUBxKGLjZi92gu1o/O+OxMYsI9QYgFLeoUjVBetPc0MlcJIjC;L2DwALP+JeOJuVjl5dko3A=="
+secured: "6+y6T6tYSJ+nXrii/eR0rFakv/4p6d7WHO3HEzwQzGVXLadVT1iYBoNtMO2B4RhC1FBwfGXvcu/yn6khXoVWjsEFkIdWhZosQ0Cb56ZXaOqoFui3NRDbVlM07ax1V2koCqyMg31svkG/KF8Sv4XmMCfL3C+N996DcZfiUzbYSZ3IF+mtQma4zA8nIUaqfjJWYjBMUP2M5kmkPE0t4d5KYyQ9FD/gQXSVJ/ffbA3W79IzhLHKWPONH6u+0Z+xW1jcLkOCvsYyGN6jnqDT6hIsQdwHq+h7+9sm6MQdXK7KlorXwa1R7NlOZzQrXRK4twV+kJBNVZYxqGWyv3bpLWZtyptsly9n/0uyO67IRArf4aJ/ahjfR7QTPOpwAFEsX73SkfISHXTYXIkopl+ehZNGcpOVuvw5boHBKUkN/rZ0J5MzDvAWcjDic2SkYe/iRR5obPeXhIqiNlmugkSgICvgNgeb8d86KJ7SY+XRnuOvOWI=;zIEiR0pEFkDqbxU6Z66YRg=="
 ---
 
