@@ -2,6 +2,89 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2020-01-27-machine-learning-system-uses-images-to-teach-itself-morse-code.md",
+      "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
+      "excerpt": "The blog entry by the delightfully callsigned [Mauri Niininen (AG1LE)] reads like a scientific paper, with good reason: [Mauri] really seems to know a thing or two about machine learning. His method uses curated training data to build a model, namely Morse snippets and their translations, as is the usual approach with such systems. But things ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hackaday.com/2020/01/27/machine-learning-system-uses-images-to-teach-itself-morse-code/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/01/shutterstock_1210526857.jpg",
+          "width": 2395,
+          "height": 1349,
+          "title": "Machine Learning System Uses Images To Teach Itself Morse Code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
+      "heat": 171,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-27T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-general-motors-to-build-cruise-origin-electric-self-driving-shuttle-in-detroit.md",
       "title": "General Motors to build Cruise Origin electric self-driving shuttle in Detroit",
       "excerpt": "The facility has been earmarked to build several all-electric models, starting with a pickup in late 2021. The plant was previously the home of the discontinued Chevrolet Volt plug-in hybrid and currently produces the Cadillac CT6 and Chevrolet Impala, which will bill both end production in February. Batteries for all of the vehicles will be ...",
@@ -1011,88 +1094,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-26-ai-robot-will-replace-managers-by-2024.md",
-      "title": "AI robot will replace managers by 2024",
-      "excerpt": "In the coming times, new technologies such as Artificial Intelligence (AI) can make everyday tasks easier ... It further states that restaurants are implementing AI robotics technology so that paralyzed employees can also control robotic waiters from remote locations. Due to technologies like Braille readers and virtual reality, institutions ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.newstracklive.com/news/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/69-percent-of-routine-work-of-managers-taken-by-artificial-intelligence-by-2024-sc86-nu-1065539-1.html",
-      "publishedDateTime": "2020-01-25T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.newstracklive.com/uploads/technology-news/gadgets-news-info/Jan/26/big_thumb/sdtyfstyfsf_5e2d2d0e90399.JPG",
-          "width": 1122,
-          "height": 675,
-          "title": "AI robot will replace managers by 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-26-apples-dismissal-of-200-self-driving-car-employees-points-to-a-shift-in-its-ai-strategy.md",
-      "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-      "excerpt": "Apple dismissed 200 employees from its self-driving car unit on Wednesday. Apple said some employees have been reassigned to work more broadly on artificial intelligence and machine learning at ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/01/26/apple-car-layoffs-signal-focus-on-ai.html",
-      "publishedDateTime": "2020-01-25T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105107156-rsz_gettyimages-849703458.jpg?v=1545329379",
-          "width": 2000,
-          "height": 1334,
-          "title": "Apple's dismissal of 200 self-driving car employees points to a shift in its AI strategy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

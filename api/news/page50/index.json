@@ -2,6 +2,79 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-02-24-met-police-chief-facial-recognition-technology-critics-are-ill-informed.md",
+      "title": "Met police chief: facial recognition technology critics are ill-informed",
+      "excerpt": "Cressida Dick defends tech after civil liberties groups raise fears over accuracy and privacy",
+      "heat": 708,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/24/met-police-chief-cressida-dick-facial-recognition-technology-critics-ill-informed",
+      "publishedDateTime": "2020-02-24T07:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6527a5db37946bab14375a67ded41e294359749b/109_407_2779_1667/master/2779.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8db0391fdb6cc0f6fc84eadbd17fff8d",
+          "width": 600,
+          "height": 360,
+          "title": "Met police chief: facial recognition technology critics are ill-informed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-new-york-artificial-intelligence-company-behavox-raises-100-million.md",
+      "title": "New York artificial intelligence company Behavox raises $100 million",
+      "excerpt": "Behavox, a New York-based artificial intelligence company, said Monday it has raised $100 million. The funding came from SoftBank Vision Fund 2, according to Behavox, which describes itself as \"the world’s only end-to-end data operating platform.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.html",
+      "ampWebUrl": "https://www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/newyork/news/2020/02/24/behavox-raises-100-million.amp.html",
+      "publishedDateTime": "2020-02-24T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11611878/behavox-ceo*600xx1829-1219-164-0.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "New York artificial intelligence company Behavox raises $100 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-applications-of-photodetectors-in-robotics.md",
       "title": "Applications of Photodetectors in Robotics",
       "excerpt": "For now, security robots aren’t able to adequately replace a human security guard ... In 2017, the US Department of Defense launched Project Maven, an initiative to leverage artificial intelligence to classify and analyze massive amounts of surveillance video. The project has been working on AI software that can flag people, vehicles ...",
@@ -973,95 +1046,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-take-advantage-of-tensorflow-object-detection-api-part-1.md",
-      "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
-      "excerpt": "Description-The following is the step by step Tutorial for taking advantage of the Tensorflow Object Detection API-Part 1 (setting up models repository environment) series. Note: I have followed these steps on Ubuntu 16.04 and Ubuntu 18.04 systems. but before proceeding for actual process our system must have some required libraries as follows ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@Sahilchachere/take-advantage-of-tensorflow-object-detection-api-99041cd9bb27",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-21T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*fMK7Y6XKoeHlJ5o9wGrMVQ.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Take Advantage of “Tensorflow Object Detection API”- Part 1!!!",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-21-ai-nightmares-in-the-uncanny-valley.md",
-      "title": "AI Nightmares In The Uncanny Valley",
-      "excerpt": "San Francisco's de Young museum looks at what it means to be human in the age of AI with its newest exhibition, Uncanny Valley, presented by the Andy Warhol Foundation, Charles Schwab, Chronicle Book's founder Nion McEvoy,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/martineparis/2020/02/21/dirty-data-predictive-policing-and-other-ai-nightmares-in-the-uncanny-valley/",
-      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/02/21/dirty-data-predictive-policing-and-other-ai-nightmares-in-the-uncanny-valley/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/02/21/dirty-data-predictive-policing-and-other-ai-nightmares-in-the-uncanny-valley/amp/",
-      "publishedDateTime": "2020-02-21T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f28a0765d4500072cd574%2F0x0.jpg",
-          "width": 968,
-          "height": 632,
-          "title": "AI Nightmares In The Uncanny Valley",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

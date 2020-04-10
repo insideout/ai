@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
+      "title": "Glassbox raises $40 million to track customer journeys with AI",
+      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
+      "publishedDateTime": "2020-04-07T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Glassbox raises $40 million to track customer journeys with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-ai-adoption-is-on-the-rise.md",
       "title": "AI Adoption Is On The Rise",
       "excerpt": "Company resources, processes and bottom lines will be constantly scrutinized and re-prioritized more than ever. That's why 2020 is a key window for AI adoption and acceleration to take place across the world.",
@@ -1035,51 +1079,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid.md",
-      "title": "DeepMind’s AI models transition of glass from a liquid to a solid",
-      "excerpt": "In a paper published in the journal Nature Physics, DeepMind researchers describe an AI system that can predict the movement of glass molecules as they transition between liquid and solid states. The techniques and trained models, which have been made available in open source, could be used to predict other qualities of interest in glass ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid/amp/",
-      "publishedDateTime": "2020-04-06T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind’s AI models transition of glass from a liquid to a solid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

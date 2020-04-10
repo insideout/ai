@@ -2,6 +2,95 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-25-google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai.md",
+      "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
+      "excerpt": "and her team to select the specific subjects that they felt were pivotal to understanding AI and its role in how the world operates today. “The 26 topics chosen are by no means an exhaustive list, but they are a great place for first-timers to start,” the guide’s FAQ section explains. “The team carefully balanced their selections across ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/google-and-the-oxford-internet-institute-explain-artificial-intelligence-basics-with-the-a-z-of-ai/amp/",
+      "publishedDateTime": "2020-03-25T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Feat-3.png?fit=1383%2C794&strip=all",
+          "width": 1383,
+          "height": 794,
+          "title": "Google and the Oxford Internet Institute explain artificial intelligence basics with the ‘A-Z of AI’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-the-ai-paradox-four-benefits-we-didnt-see-coming.md",
+      "title": "The AI Paradox: Four Benefits We Didn't See Coming",
+      "excerpt": "Research firm IDC predicts the total spent on AI systems could reach almost $98 billion three years from now — more than 2.5 times the estimated $37.5 billion spent in 2019. While some business leaders have gone all-in and quickly embraced AI,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
+      "publishedDateTime": "2020-03-25T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-20-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The AI Paradox: Four Benefits We Didn't See Coming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
       "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
       "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
@@ -938,95 +1027,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
-      "title": "How 5G is enhancing business productivity",
-      "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/how-5g-is-enhancing-business-productivity/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "publishedDateTime": "2020-03-24T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/24/b89d0c18-f127-4489-a85e-3b812da03063/native-1333x750-3.jpg",
-          "width": 1333,
-          "height": 750,
-          "title": "How 5G is enhancing business productivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-ai-events-and-conferences-moving-online.md",
-      "title": "AI Events And Conferences Moving Online",
-      "excerpt": "It simply is not life-as-usual for event and training organizers who need to satisfy the still-strong hunger for information, connection, education, marketing, and networking that customers, technology providers,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
-      "publishedDateTime": "2020-03-24T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a48ae10380d0006fbfb0a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Events And Conferences Moving Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

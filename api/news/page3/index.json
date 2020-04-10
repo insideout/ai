@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
+      "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
+      "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604",
+      "ampWebUrl": "https://gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/creepy-face-recognition-firm-clearview-ai-sure-has-a-lo-1842740604/amp",
+      "publishedDateTime": "2020-04-07T21:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wsdk7maoovzoxtowgnhs.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-strategic-elements-turns-primary-focus-to-robotics-ai-and-automation.md",
       "title": "Strategic Elements turns primary focus to robotics, AI and automation",
       "excerpt": "SOR’s fully-owned artificial intelligence and robotics company Stealth Technologies is working with Honeywell to build experimental autonomous robotic vehicles. Strategic Elements Ltd (ASX:SOR) is increasing its focus on opportunities in robotics, artificial intelligence (AI) and automation, which are likely to see a big increase in ...",
@@ -1058,50 +1103,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
-      "title": "Glassbox raises $40 million to track customer journeys with AI",
-      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "publishedDateTime": "2020-04-07T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Glassbox raises $40 million to track customer journeys with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
