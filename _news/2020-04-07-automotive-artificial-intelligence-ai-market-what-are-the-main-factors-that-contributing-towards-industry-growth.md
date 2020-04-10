@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Automotive Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?"
-excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 07, 2020 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period ..."
 publishedDateTime: 2020-04-07T15:45:00Z
-webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-04-07"
+webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-04-07?mod=mw_quote_news"
 type: article
-quality: 61
+quality: 59
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
 
 topics:
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -42,6 +41,6 @@ related:
         width: 1200
         height: 630
 
-secured: "VNNqD0lxMdtMwqGIgfh73YZKhuvHWbcUbCR4kvSICfyTMqi3BKWoMpgY3/QWS6nqEai9Z1VLzF613jDn7jfuTXjveB7ah52vt37TMSdZXR8ONqh9MQJ1zBH8mXnLrQjnCL/gmZ1GV7qJzH7FczQ9HhVXmtG8SmutA/H+K7+cVbpoZYc1qXYCVKzwBUcCD7wxLGj3uR4JGdYZLmQJqVxzjcB0DlYcshW43LUa8BfIbym95FtG+FRigdkPpBQkfuIhbziOTyLSDqvkiK+hKo4B8/veK4B1sogoLhh/AEKSZj2u3+JbX/1IuTmb2OuGgtef;HLs0hGbQeOx0lztXvB+mQw=="
+secured: "B7kTuHtOQLcxvRMemS+DKC0MV16SCnPXE0CrfaVYffJbADwTnT9Fld8gSiodMZBNSXbxyGWooXjACMmNDCKE86G18S+Jf/PNTwTm//4ctr+w4csW8mYQfYmzHaP+hLYe1woY7aJgc3oUluIWRvW8IhCxFy28pB4PiQibZYam7Vbx9fEST4lXv+1/D8dPhSckzkBAUCjMAtGUBeAWhjiewBaWPQPp9DFA0mDtXKuab7uTJxAmxD5NIVYpePIwPq4nrdVTf/LWu/3iAxYCabQALHP0QHhtXJIiRYu0m38tXXOG2nt6f+TfkMzFOY1P79zM;RvigEQMi5iEBwYBqe3rtDw=="
 ---
 

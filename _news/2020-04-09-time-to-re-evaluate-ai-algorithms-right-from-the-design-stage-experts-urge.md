@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "Time to re-evaluate AI algorithms right from the design stage, experts urge"
 
-secured: "RRHWjenARARij0/xa9X4ApmcUifnkJ6AL4ow2JckPn+tPgYGnGNt3ZrmZDmwa2Endz60N0G5dKAxGvy95U7MkupxNkba/HRZ/NyJr9QrgCILV6Fg6lQQzv9MAXCUOtFhVQ6Hc8sCzxIixUGNQynpax66SM59TCbwClWvvbqRWNrDh5q8W5rEfZUg0US6HCcnDAchhPKwj4UBCXn0fZUtBwYV9GF/7rqhk9FQvtNH/2S+T4EQdMl789T7aq1VOC3DstwaSo4C5csjoVuv+ppqHVAgzFYXlSwqSVn+SeVR8sEMBBUxIHapoHQPyzYwDGDbvARZNQVaqFeb8QL3sJxDVD7PDZkDXqT8hRoNqyTDdk25lxyY9rR1klqu+EYsT6iB1WmbGiqogBjPibp1WeJRoMaIgJT27QkV0hpqBw17G3is7WQV/xEvOWNaHId3ZTgOVGICJWSz7D82shdLstVnHaW3NGyh1RXkif1c70nXww8=;f+VV4RaG2EDheGs/ryl22w=="
+secured: "5+eZ3OTdQ3XHJuFA6vUs+OsKT1kvhbfbkWgigBNTTg3KsYBDsoh2FjnOVKsgffpNYfJS3ZIipz3U1E/YEDu6qDxQ92fbDcQgMIC3PyjKlkF2Z5EUgVcttLq6VuNHHHRA82RCb83Ox3UQ2nyIs/fWPzDXJ9goY/6T91E+A0IY1GpjjB9iDY9WBH2S1FS1JS8BQXwIpsjk6b7+CaDatqFtrnBHOvL+Y2t5cjM6dJQtLtA+uZm9ic4lZkP6ro+efDpmPDt086ORVpO61VmWU9W3FZNVlds6faoecTKusOJ9pOGMAo3/n0g27zWY7/X3/qVzJLG4iemAkzmJAs3qLeVaZ05wBNGvi0AlBDgdw0P4Qce4fcMvQ7M8thL4kqhEunSh5+hiMmuip22vQ9yM9qypak4XTzQMowwMhZc++k//i98f7mdLikT4E1jrKeIxnMUUr3QL9MaDWskHBS1BOUX25sxPfoUluu5NDaCt7upZtNE=;Lgz+emhB4i5LPJ5+U68JCQ=="
 ---
 

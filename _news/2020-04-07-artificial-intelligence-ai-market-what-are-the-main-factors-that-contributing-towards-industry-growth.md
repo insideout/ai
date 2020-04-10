@@ -29,14 +29,14 @@ images:
 
 related:
   - title: "Automotive Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?"
-    excerpt: "Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to"
+    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 07, 2020 (AmericaNewsHour) -- Global Automotive Artificial Intelligence (AI) Market valued approximately USD 641 billion in 2016 is anticipated to reach up to USD 10.8 billion by 2025 grow with a healthy growth rate of more than 39% over the forecast period ..."
     publishedDateTime: 2020-04-07T15:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-04-07"
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market---what-are-the-main-factors-that-contributing-towards-industry-growth-2020-04-07?mod=mw_quote_news"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

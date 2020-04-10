@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) Market Size, Share, Opportunities, Industry Leaders, Competitive Landscape and Regional Forecast"
-excerpt: "Artificial Intelligence Market Research Report- Forecast till 2023 Market Highlights The surfeit of opportunities offered"
+excerpt: "The segmentation of the artificial intelligence market is carried out on the basis of system type, services, application, and regions. Based on the system type, the segments of automotive robotics system, digital assistant system, artificial neural networks, and embedded system are included in the artificial intelligence market. The artificial ..."
 publishedDateTime: 2020-04-07T14:19:00Z
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-opportunities-industry-leaders-competitive-landscape-and-regional-forecast-2020-04-07"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-size-share-opportunities-industry-leaders-competitive-landscape-and-regional-forecast-2020-04-07?mod=mw_quote_news"
 type: article
 quality: 57
 heat: 57
@@ -18,7 +18,7 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
 
 images:
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) Market Size, Share, Opportunities, Industry Leaders, Competitive Landscape and Regional Forecast"
 
-secured: "DNaZvuJqxcAwCGNrZHD7FVgUWCzN5cToqGuj4ddQxRLjWDy1GQfvyDdT99Nj812ruPoe0hktcLxQTHZ4QHF9PteAdzoHCThERXGnS2JEX1HsiOv2wLmCxuc6w0HxPAiT8rnZ9KfWI4IPb9iNgPqJJk9Fg0CUiEUejVbxdvjetsehcC4HfwP40N6lyUEv0bsPXkrl+/W6RA8FGP1jy76M8ZWKnshA26ataJqkXH2yBfm0fcevd7LDwW2DTkfeK5VBzW1kerDuXwDQWmKoaQyGGIEb47Ejbsx/8UezygHbqlunWe8QENCcfY2/+osAOHY/;Enf0LvMKHHgj5NsDQz0IIw=="
+secured: "Gutxq8wpHZu3M695BBTWJgVBRDjtgqMVTT8UHc1r6cAnZb+9vq1Khz2dqYNJT4aZweKSHxhSYCRyn9XmUxIpl0KiR/duvRU6swPrMDRTavU6bIlMV6INAIwRwpTDYKM6vuvU9opa1aghQ4KMtQxdvQAfRZlKD4O0iFegopg/zwtJcqKE0L8bAQ6raD+4DQLGMQJz9sPQpLaSjqOSo51h22v30ljpFSmXkKYehjMmLQBPf+kUKgT+bu3WsxDNPxqt6/S8iIlTNI2dSLUvA5CFhcaTpGlOyL2jGxALV1OWHSPE6HVJ6nxzc5723ZLpkW6+;b6rT4feQhZTGTrzAahyf2w=="
 ---
 

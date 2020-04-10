@@ -23,6 +23,17 @@ images:
     height: 627
     title: "Global Facial Recognition Market Size, Share & Trends 2020-2027 - Facial Analytics Expected to Portray a Lucrative CAGR of 20.8% Over the Forecast Period - ResearchAndMarkets.com"
 
+related:
+  - title: "Gesture Recognition Market are Booming So Rapidly? Microsoft, Sony, Microchip Technology Inc., Intel Corporation"
+    excerpt: "A detailed study on Gesture Recognition Market formulated by Brande puts together a concise analysis of the growth factors impacting the current business scenario across assorted regions Significant information pertaining to the industry s size share application and"
+    publishedDateTime: 2020-04-10T05:38:00Z
+    webUrl: "https://www.openpr.com/news/2006195/gesture-recognition-market-are-booming-so-rapidly-microsoft"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 0
+
 secured: "ezMScFOMXDdoGaPOqHGUEEOmS8qZCssDJh+xH2dCqjrsLgzSS8XnVIYaEmUP8IgZZBbO0dy6ZS9M4SBx/0AyJhmXQMGJvgd4OJ6vupurg0A7SR9Ue3lN2v8982jwntDhPiwRpLr5oa3/BnZ6vNwvzzb/yDQ3vFAApPNUYwtDgavkh7WYzz44Vjzp+mFKi8EtTh7l0mJlpiiBNeUYjmkRp8O+Q+AI3ujbDlULhs8V8we9NhUxqx5ypWF473NETk1qHJLKEgNcrco4U87quWc2dT78jKdfN0+vLTJcc5aaZndmMdCaVrnRlG46SKBAqpi4;Y8B6da9dR3ixgiM/AGtBlg=="
 ---
 
