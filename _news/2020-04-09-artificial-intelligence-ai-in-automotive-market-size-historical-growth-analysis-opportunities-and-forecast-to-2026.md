@@ -5,7 +5,7 @@ excerpt: "The MarketWatch News Department was not involved in the creation of th
 publishedDateTime: 2020-04-09T05:58:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09?mod=mw_quote_news"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

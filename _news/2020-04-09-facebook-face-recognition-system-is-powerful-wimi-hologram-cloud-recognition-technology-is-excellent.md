@@ -7,8 +7,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15780928/facebook-face-r
 ampWebUrl: "https://amp.benzinga.com/amp/content/15780928"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15780928"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.ibb.co/HhzNkrZ/1.png"

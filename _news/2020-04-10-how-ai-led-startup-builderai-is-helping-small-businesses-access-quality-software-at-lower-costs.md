@@ -24,6 +24,6 @@ images:
     height: 400
     title: "How AI-led startup Builder.ai is helping small businesses access quality software at lower costs"
 
-secured: "sja0vY+GHH8GJcP6CuToWJPV+mIDN8aAoqlYsZrUVeu/z18OMefOfv57uMEiINQZTNb6IFrAeAJO/UZFVaBnKXoTlnjtC0cqLRMARq2qRqURiri3s51dFK8UdCF+W6APK4Wm9MpK1QObU3Cr0DFxh4r5rMkqKvbzKUzfqA5oQ8PfpImbfwuehX1gSf0Er1L2l2bEegNeF+VsavDywfI51lNy7f85/fgi/ISbvw2Nn3NlkjScXt/rUzllIgoxWAGYkx49CYEdMlQdIPVvZ9KDsrVvm+jkN+OH2BNR0bXYYnhdnp6I1xx1QWejSw5QaTdD;hkl1Mst/YQU8jlGg2sPjdw=="
+secured: "Pb+z9K1TJZ4w/RL6sb++cl6K4BTJjpdEyUEU3lOWwB9O2cVWC0kPBcD+pAfZ8eH0fbx8TXJJc5J+UXVASi7qodK+KLFFyH3UDVI0XGbWSa3SBvqj20ARZCIL3xL13ALOYikq41RE9j7aQ1H6UT7e2XX9ymefAyIZ/IuNE/ZXXpPW/4oKQ/e4k/kFJjfv3cveJXxBe7uLrvHbxbalIgZi1rKBv4oebmNGdoaByDXpfSHXOwoMPMDdqo1ZjCuzeEbxPEAPoTWBSj1kzysucYY3nwnwwfm87qL0pqHQkiZJ2nxtvriuo87veS7fkNLUkFhp+oarnI2n2EeRoOoz9rPwBXMF/VY/ZOEqmaIlTZ7a5KgXKdnOaCOgmEPodHKmcJTaOp205vGaVI+yrC4DZCxXUE0dyE2++tzMGpGqzLRuIL/qW8sGqvQw3qqUyFAoAPiYV5pWR4SmzpqGpIZHkeO/raZr9DLgif4pltomXghmC+M=;laHUeH1iPc1sv2iexd2MXw=="
 ---
 

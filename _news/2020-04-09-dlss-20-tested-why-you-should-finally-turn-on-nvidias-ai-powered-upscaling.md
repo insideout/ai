@@ -25,6 +25,6 @@ images:
     height: 675
     title: "DLSS 2.0 tested: why you should finally turn on Nvidia's AI-powered upscaling"
 
-secured: "ZG1vrx6CyYvl/VmwHFFgewKMRq2TRjjCg0kHjTQwPczCu89XaPK35xxIDy0Cfsbaq24saYOjyMCTdeS5BnZx3+0FFxpJnWY72h4OfPpJDkSl8ZpnGhBvV4v5xwBAz8MIvvpX8IJfcvQ44bBGYJ9hX7OWWKOCBdf+4+HimMlXbsHmcu44yM+xLLwLUaP9YEj8SKhSSwAgZCvpoLRXA+7c+U+MYxbzIuMRXnnX9+tYGhjSxuGTVhbTLRHZK+NFb4JQSrnHN93FkEm07ycRbm+QGZWkW21FhuAS1XUsxpT5mfPwjZFQ7cEFELYLsd3BYu+8;lII8tPqC5iDdIdTpxv4fbA=="
+secured: "uiuZFW+8uR3UiV2hAKLlQIeWFIx5YhXu7wa6LEZpfccvLiNJmuQVQrSfn/My2dyi1GVFAAo0RXBO+tpqRhrJpLrJbqBp0HIfhV9MwB2GQ/hlmB47/8RbKwclrj9X+AQ72sjQab5gLjLkuIVvZg9+ijuh5kk1SgNrhJyjnrarv7yGLShTLWX4kb+EWVLJ+sTiB+snBl7jaVA5wRVEmhyo67Gm6yTdQG/Gj7qtAphbLSpQyJHSPh4qe4A76N1kb2ca2gNGrUoEyBdaKNbpjzxbRAVwcnS+sCCT6PAtniw7rGRwX2nLrD7ByXAoEyn9IDYq+/29J2cKN39bUbELZCC5FcTjme2RhlTu/0MpjAKYqUN+V6WLRlIEGKF3gumZ+yC1jvF39Y20vGbdxrJCuOR2wYYik+2cai3RinOcihwZACUvkVBflU/0S/5hU+/2UBOCjZrPAJCFTmCEN4d4u9bUJaYh6fgni3NYDC5xApPFseg=;xZLNHhXMllUrz1kcgQB41Q=="
 ---
 

@@ -25,6 +25,23 @@ images:
     height: 4480
     title: "UPMC launches clinical trial for COVID-19 therapies"
 
+related:
+  - title: "Novel clinical trial fast tracks testing of COVID-19 therapies"
+    excerpt: "We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Derek Angus, M.D., M.P.H., professor and chair, Department of Critical ..."
+    publishedDateTime: 2020-04-10T02:01:00Z
+    webUrl: "https://www.news-medical.net/news/20200409/Novel-clinical-trial-fast-tracks-testing-of-COVID-19-therapies.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20200409/Novel-clinical-trial-fast-tracks-testing-of-COVID-19-therapies.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200409/Novel-clinical-trial-fast-tracks-testing-of-COVID-19-therapies.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 44
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+
 secured: "9NAfz3yZ2olPvE5UYTtGc8RLNxQlAwtlnIH88tP8PhJlQZH3gLelcwGsW2ipl6waAS2wlulJAiRQlCk9kW4e5dPeUA526QJ4eCTBq2AjfUXw9rSACoYIAYGDWabUKbaQS/SAIKaIWthq1vsWzqyRmcpe+Qt/ZMzQ4Y617G74SR0AHaAsFRhayJAPe/hEDbuOw+DMXq5q434Pprzn17Gp6jLnVLC+V2ak1AWBAOC4Qbq6uaV4pfpFnNeOriUAri4RNZe8hPGpyIHPYJudl+e4wm2PC/PDO9EtwLe2SAK4Abhe7DLFXBfJ3T35+9Rjy361588qhaLg3Uchn78Y/w31FZwmSbVUwOpIYE5gjc/ye/g/2xY0xP1x33kJU/0GTd+rVJONO+2Au8rJVshAeN47JQU12SVM3wIfwSs5n7Ihel20UaY4IHZbCFvCiv/4/5Td78VBV8j6GCp38RTASjquRHC6F68BS8zzJX4eA9BCbtY=;ZZANuv4lzyOERy5vdmGOWg=="
 ---
 
