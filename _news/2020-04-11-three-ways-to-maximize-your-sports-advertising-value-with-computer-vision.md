@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Three ways to maximize your sports advertising value with computer vision"
 
-secured: "nTxIHiONaUESBSl67hbXgHnxkbM+QkRy6mb+pNkgVKl/qstVI1T/jTCRzjKaaWj9BzsyA3vNqSPUp7U7zHdx7A90HiiGwsfbFvkFshNP7Y5NOQ6f5LrWlQsr/ilMkiEqeWWFVKyUfkkA6YYSf/FrNAMe5QapLv1J1k3DNOAR84Qz7SV7Y+vqpF8BA7+gzfzw/OW0vFxGU9IcPgZuEOcXQ9VONgbNwTQv+HKd3E2FQfl/aZxlCmyo+72uygPO+z5kPX2EEor7+usNBuACUt7swSy3gJbiupbNzRve6d7pEsWkUEMi6FFEcZE28saWJ8PC;is13Zl4ZF6GzEI2V/WuV8Q=="
+secured: "ahwKMxjeNSD9qFKPoC9UHkQzp5Sc//x+PseqyUBwRkRGldQgBM3y2yLB4Ep2RWj0XtXhLiuNnT2ztAWpG2LAMbrEkMp1vfRbDt8iHx23qQn/5WK2n0TYCujumd7lc+4ouj3LmfKMGsSV/Suoqjgxe5y37IiN+IjAh2c41oLBymkIbMJJn6bQpHqCNTzcU/5/E7Z+dzu7YmtyfvPfOg7wTZaPFgovvaGzPRZ+DB+Vd1RKA5pfXQalo4twOkZRcvRC8ulpEmLK/o1jYCJbwyHxNzp2+Su+AbN3uAYVpQyjB58e5gh23++Pe/lgik4y+PmFlCHg0YfftKsYFb1nEszdr5wFPtF4ReebgmdbY4C/bqIlgEjDb+WlHACr9TaqVfazo2KbifaTDuXON0QbmENNyHf0R9SfHLfYyRb/WB65OTOJPeO8z4jW7rIjDqgXAhO1eOJlvnLR/gD+UNKEONPoAMQ08A/KT5VWO18C9dXu4LU=;R//Kuvof1jbKwzKRnWUKHQ=="
 ---
 

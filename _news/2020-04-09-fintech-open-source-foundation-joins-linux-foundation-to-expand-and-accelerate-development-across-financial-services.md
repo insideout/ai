@@ -24,19 +24,21 @@ images:
     title: "Fintech Open Source Foundation Joins Linux Foundation to Expand and Accelerate Development Across Financial Services"
 
 related:
-  - title: "QC Ware Wins BPIFrance Concours d'Innovation i-Nov Award to Accelerate Quantum Machine Learning in France"
-    excerpt: "QC Ware has worked extensively with institutions in the financial ... focus on Quantum Machine Learning, involving creating software tools for classical data scientists, with capabilities for classification, clustering and reinforcement learning. This research will go toward adding features to Forge, QC Ware's cloud service."
-    publishedDateTime: 2020-04-09T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/qc-ware-wins-bpifrance-concours-dinnovation-i-nov-award-to-accelerate-quantum-machine-learning-in-france-301037988.html"
+  - title: "Fintech Open Source Foundation joins Linux Foundation"
+    excerpt: "Both large and small fintech firms have been leveraging open source to innovate on new technologies, ranging from cloud computing to decentralized networks and blockchain to AI and ML."
+    publishedDateTime: 2020-04-11T18:57:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/fintech-open-source-foundation-joins-linux-foundation-5135521.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-open-source-foundation-joins-linux-foundation-5135521.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-open-source-foundation-joins-linux-foundation-5135521.html/amp"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 24
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 44
     images:
-      - url: "https://mma.prnewswire.com/media/974472/qcware_logo_blue_twoline_Logo.jpg?p=facebook"
-        width: 1182
-        height: 619
+      - url: "https://static-news.moneycontrol.com/static-mcnews/2017/03/post-378x213.jpg"
+        width: 378
+        height: 213
 
 secured: "30t4t7ARpyaeOxhpTazd9IwrAIVWULdforSl1kxVAly9/2Kt/yjKefpoHRGZp6kDJauSP+L7tp3Az+GKLfJXb2pN/6AcvC+NaFC/yX2sHyzukoNCEzbNCUUAo5tOCFW0/w92x6OKaqmVSeKILG++Bias+KlZobZYNpDOcF+o/Nbq7RsDeTwlPjmN93HwuJDfjDJ9bNBunfKjc81QgRELkV7+hVoFYgXzKEcGhUAblsx4Q/kKMpI7qKJ/S75SY23GcH7PUriINHDOnYKLWtjTstOumpvRQUK92HtLiRDpEspphxuRDGprxMdRIJuGpNzF;iLO1K/6N/cCg3rvx0vJWUA=="
 ---

@@ -1,27 +1,25 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ..."
-publishedDateTime: 2020-04-02T04:13:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15723362"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362"
+excerpt: "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ..."
+publishedDateTime: 2020-04-02T04:38:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg"
-    width: 400
-    height: 309
+  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+    width: 1650
+    height: 864
     title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 
-secured: "l+RhP6+MuGX379K4QwhxQPKaavaEAuYDKRDcqP9kFQpCTpg1M8w+g4Ss6vZ8PScEWdFrDQmLryWtT4tF9hqJi80nhVXbsfghFGApnDJ0vtrlVLxybAaiF+wos/DgGI0Fsj5cE1UvG5B94mIkdt3Hd8jOvxgV0/kFArNPhum4Vcw6it7drP5ewa9FbC0pr6r6W5LrGU5lKMJsWetIx/OgyHUuLRtHqG3lVMx7ZTw3dBKzL1bXvcyd7vGoU3MCuV3EhFaDR8AokKurCTytjP3Soi3J3+hgXdQWPSICvCduZwGbQh4iDU0iCS+4MEumvr2l;2yR9HALdWANmPrgyUwr3gw=="
+secured: "E9RUVcdSOakhY6IdsrwwsMI0W5GIkukGf0mae8uv4rdUeoqa8ima2Xn41zthV0U8saUoC045UDBVcWILhvTvpPGh3Ma5cgU8FbEWbQXTsTofVggF4d5A0p3B+I+oD3ouxQI78nAUZwqyV0Zkdh1tplaj/dCUaLx9ON5ElZ2reo3SsfzhdUpdZkO7H+lxlelfZDJ+WnvGA+K+X2YE6qEHORhE9JWi6lD9e0p+/1ibU2bmF26tkQWH2rPO6vyl/i0rfDewnmwbrVHWYZ7cZG4J3Joj1gc2vezh2DzJrR6ogIXty9c6mPhBFGit6uXMxvAn;WJ0GyZSeWN5HHo+YDmyMfQ=="
 ---
 

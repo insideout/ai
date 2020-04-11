@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-07T13:28:00Z
 webUrl: "https://www.thurrott.com/mobile/android/234373/google-updates-pixel-4-to-require-open-eyes-for-face-unlock"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 1066
     height: 599
     title: "Google Updates Pixel 4 to Require Open Eyes for Face Unlock"
-
-related:
-  - title: "Pixel 4 Face Unlock can finally require eyes to be open in April update"
-    excerpt: "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ..."
-    publishedDateTime: 2020-04-07T02:57:00Z
-    webUrl: "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/"
-    ampWebUrl: "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://scdn.slashgear.com/wp-content/uploads/2020/04/google-pixel-4-30.jpg"
-        width: 1280
-        height: 800
 
 secured: "V0KQ4VFPzyy6LQvMP0ozXBHPARb1HMVOa86N4vlLwnR40Ic6/cFP+RT5z9zdOApIsrDiwfbCKOzs7agqlqqohtMLSrHyDujm+svxT8d2io4TfzDG9tv6KUJ5g9KyoQqZQ5MTQIPKFWkNahjCLipd+gyRUfseH46ey7J+yHzojUSqcWLmaAgKxgtP64h5EaxApGhLJmUpFAk8FRzlCD/jTrpcBcFJwSU+6rjcdtSRXpleU+o4SaI6cBl3hnyc8hE7seaL5kAY/xyi6YmtaL9SHofZISJzEU2nHq8cEk2UqX7xQpQogKndfJ/sPAgX2sGhqlhwOZQU40OPNyHrLhbQOgtOcBMEKauSgsh+xP4c6sg25vrsYgXi02fbkmf76nkn7eAt4XnY68cO+DWOsQEISoVpoa/sTU7ab/TuQdUOYecsKutQS4NxZFwL1yjcbdHkqzo5V/AvDsPulY5rcqhcTOzgOpkQ6WqMA8n8tSEWxC4=;0N0v0Crv6atIFsXvfCDa1g=="
 ---

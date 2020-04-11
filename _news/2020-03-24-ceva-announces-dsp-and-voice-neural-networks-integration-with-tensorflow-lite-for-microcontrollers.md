@@ -1,22 +1,25 @@
 ---
 category: news
 title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-excerpt: "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced"
-publishedDateTime: 2020-03-24T11:48:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15648647"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647"
+excerpt: "CEVA's holistic approach to AI at the edge ensures that customers using TensorFlow Lite for Microcontrollers can utilize a unified processor architecture to run both the framework and the ..."
+publishedDateTime: 2020-03-24T11:57:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-secured: "zF9IvnrkBqRIaerGA9jzIEeR1h+HgP89t///aP5mwAjhHvWZ0E8JQSH91YnAkmV1clQYkdYUpzBtJo96mxc6SsoLG9843IcIvZJjzlkE5Dp68IZtDWLsHgTC0XhDWG970WZflH4XEiFiCYbqaif7sooKNY9Wr/O9ZxjTNhx7/v9ODLxhSeIl9wT/B0e0E7n3klKul1AlLRzW6P149FhXZEJ0kIptqnRI2wb1++JxHGrxVuOLOldBYcm6hfGRGcjZG/sQUNB5f9xPmDehHjyl9Fxpp5eUYuk0fMGUjQH2gDUArGSpwMBCcDW03+1zOXNx;IlnzbeVUGjMwe8J/SOLCdg=="
+secured: "Cs3kN/jOvgjXEZdZxR2X/ZhFS7azE9ikcDlz66KXcREtxsCrv2LFa1uyMxDyMMHOg6diFdDnHeGktZeaf0AX9S+F3zZ/x4RVJkol9oR85swsuCcQTdUAJIeEtfxTC8fV+4fE+8ZYom455HXrwf6pOKbTBcPCMpsfDwwIz+RyG7Uhf+FRxShV3JG0Gmw9RABuveZ3hF4TvDWBcjvCRIDhmBmtgQ+4YtfAWjWDpT1llBWVk1WwaDZVnpAWP7Ei2MHfZYu5ebLdE1LYdkKkv0eeiUqkX96FSW/cp44faemVPA/FumhZbwVh51e60cE0+NPi;UwiofO+ukYpT1C7LFBctfQ=="
 ---
 
