@@ -39,15 +39,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1"
         width: 600
         height: 400
-  - title: "Healx uses artificial intelligence to find combination drug treatments for COVID-19"
-    excerpt: "Healx’s AI is being used to discover drug combinations to target the virus and improve immune response to COVID-19 Healx is using its powerful AI platform to support vulnerable rare disease patients by applying drug repurposing expertise to target COVID-19 Combination therapy candidates will be available in May for external testing in ..."
-    publishedDateTime: 2020-04-06T08:38:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/healx-uses-artificial-intelligence-find-combination-drug-treatments-covid-19"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 13
 
 secured: "xQfVs4OIHMDNT1NpRyfo0mxX+KSvXYwBm9RSlpgUWFHeA5RK7ZTgPQtlmg7AWT/lWkQ9M5tbCJt8SIUcztMXZRnrfUoZa7XEMImvusjvKwuq0e3OccoIM72hP5Fh+/sQJQbFQgjR9p8E/VT+rib1sLiinPqX2OYqzEVhxqlSEInEU2DhbBA61XRq3bF8JC0AMTYeeWj/1QeIiFbe0heJSZeP0ksTXEGH+9HFCdKKFM6zikz4bBmFaDCMKvaTjSq2eRPs7Rlq32AWeJwprROErLFtUN4nEb0SEU5c0Ol6c4jqtSa+3VNER44LAyp5YyKLlS6V8X8pzxzP4uNKgxIuN4FVFjEX2EhUNKfW9YZEa6Gl6i33kdcWiJ3iEwHoOopcv+9nRKryLx3UT0n5HJwjugCs0VagkiFYhVrf6tSmDpKmouBwtTQMcY2mw+7T4XHtFeA66zTQIWyAwOpV9sjEb+/iAnX1/tdVjhCZtnL719M=;T8+t/0/fXQqGZJ/f3B4qrg=="
 ---

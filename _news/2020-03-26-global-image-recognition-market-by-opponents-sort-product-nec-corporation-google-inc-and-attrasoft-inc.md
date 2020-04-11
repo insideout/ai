@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc"
-excerpt: "The leading vendors included inside the reports are: Catchoom Technologies S.L, Slyce Inc, Honeywell International Inc, Wikitude GmbH, Attrasoft Inc, Google Inc, Qualcomm Incorporated, Ltd, LTU Technologies, NEC Corporation and Hitachi Market Segmentation: Segmentation on the basis of technique: QR/Barcode Recognition, Object Recognition ..."
+excerpt: "Global Image Recognition Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis, Market Attractiveness,"
 publishedDateTime: 2020-03-26T09:58:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc-2020-03-26?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/global-image-recognition-market-by-opponents-sort-product-nec-corporation-google-inc-and-attrasoft-inc-2020-03-26"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Global Image Recognition Market By Opponents, Sort, Product| NEC Corporation, Google Inc and Attrasoft Inc"
 
-secured: "joEmqAXnPzwqXoHts1HNnZjhgiolgcKer5njb7rguzsVemrqyIZVOb4O85U4zAb/mzZ5I853FvHGZyf9w/dnpWZCaIlWouyA4+QIT5lQyPpZAjY1IqVXX8V4Qm2uuiNNuBbArBEa1M9vkhTw+5PMCXdh+l/Uk28mCJyaN0vZG+2xZGE11kDsw6b5A0MVG4zjS+oCWayh0I3P0NxEWb9W/rdJPo0pRPOqMa/obeDUR4xl2d7KvbLwo/oOmNKh2I7AP/f3NXen3azmYSUJxZmtT9m7lsEmPWrFrRQ4ToP2mUnHuvMO82t6N9uAwlPky02C;BBtXLcj2tTbji8zJiHt+Hg=="
+secured: "US1nxkD4bdfWQx/p0+LwGVcNYzAIVZqTvl/M4G6ncCvVCiDT7wfXbL/tN2ioJRFh3nSckAOLRwlFDtbvsXBHabccJa3ynEOLiYXo+VLD1dLxaRormbnixBF+P86gsbm1XSFvHQIgxgpTqumsl9YsMJlncRbtFS2dO3h4xnZbrFozAy2+HMSYYPbAG8dMF5/V4KFsecq2nB5IqqbfyCJjosgkok1JDbktheTLDxhXtZk/J/TITNgvMZUUGS/cEQ2HoOoJF1d/6KIJ085WO3Z3QLKTEkrhW2gCVlDmy+Od65Ju7lcXzSydAIzvkhacxvca;hqhf5ZdEpaoBarhhp5fZIQ=="
 ---
 

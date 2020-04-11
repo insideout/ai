@@ -2,13 +2,13 @@
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 excerpt: "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ..."
-publishedDateTime: 2020-04-02T04:32:00Z
-webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-884893590.html"
+publishedDateTime: 2020-04-02T04:38:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - IBM AI
@@ -20,6 +20,6 @@ images:
     height: 864
     title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
 
-secured: "AfjUwFufBW3OZQOZRiZynatwmxxS7g9/FrE30bnUUh9reTyMQ4gyoHZ4pubJ7IFv8WUcLnmWM4hE2uCe3+OTBXfNKPeCf2hLy4uZBvqPqk9li7WVBdhstAe9Qx+4RINwGPMXN2dp6rJBYHSKm1N5v4rsIkXayRU8hFkEErwC58mrQDF/EztnxW5LjGtoPYXCl0GkZrgUQrjbvV9j1ARXW2tztktwrflVFBZBhaezUwpIewJGAvjwOQl4hnx9zxNtSHcYxzmzIrkrKLYQcnuI+pWvCgqeAQl9EY2qTbTyhsyqddEfLYOIhGEV6VHyvhBx;t4RujH9G6irr58i/WOquOw=="
+secured: "aAtC9dlLspph29OkRKzhx/E+sAfD/E1UiAceADozBBtG3o4X7D6ccj2QCnTWSZ81lMid35NHSOHCRB3j6ek0QCtSDQi+mtwgbsuVHUCIGEpcA86EKMKMSz+meTL0jUAcGG6wLeCEhU3WK69X9v71sajD07Brk3a9nfH/RtK7FPP9au69NNHnQs4ETYA7yYL8Pu3o0jmGpW5XtPiTf6l2+qjOGjvITIDuTEjfK2gNLsmfbT74Nyqh5XoMqVau+Y3494uYgI6bCVvwe9YBkAT8Poo7g1P+tlu3K5x1sKx3Ll3xCa+KnRBEx3sjul1rilUG;5hAhVL9B5VOek3PjsDMMQw=="
 ---
 

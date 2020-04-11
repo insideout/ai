@@ -19,6 +19,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e818dad08eb080006522520%2F0x0.jpg"
@@ -26,6 +27,6 @@ images:
     height: 733
     title: "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge"
 
-secured: "jzq07QHVrRHuol5TIu7yZHzeOriNNT9H2InGk5ZhMudjrLY0BDiRLTkL8D/AT7l8HY40nz53RP1YmSU5v3GIXIJsaIfXa5obD2F0zsUh5MPwb640jI1yfqy28BjfzvCMeuBgw7PdKOllBvAP4M67XjvZnJ4QohilUBvq2AL6BII1q6buFgQvH49bzV7NGa9Z0SRnIeyXwoQ9ZABx/TFziaut4WHyS3P+wLpPV6SXmL8PJZ+EldmrihjFbHdjc1xgGXuSZ77w1XzGkZn1Uc0lXOeUNdJd/qczw1StODrIxc5wBa23N6Fy6pdiuD+3XqGW;FgJNqLlT6FV4J0vIV69+ww=="
+secured: "ZIMmRi+ZhW6chxgKUfTDIuTmpLR4nSGN4V2siNtTbK3eMuNgTUnqcAn3UiRf+LJQGb8I0XHIcjUA6MA44Mc1OL3e2CRbjxAtDSWcHglUQZW122drIA9jRDrGtMvrWDvmvJVj3/KgnwjbRWNxa9gZ7MuANUtnr73fKA833GPpMtOCqNe8EZaWHbv0/G7skpydd+6avho5vJA2CGi0eaulev31laEUO//jdG7+9K1VrnpYhfPuzu5ZYZFxbcIhvWIhbVs3QHMshtfP9Or76kpV5jGyk1heVari71PK8dsTeXGx1KPttq0mhiP5Fk7WUMhuXBFE8WbrMUUaF52SAGbPpXXWoTX/yjIrkDN7nrAq+kjbhkjbt8GVKu95ek09VX7f/nxbwIqynI+feZnWRuFB3GIWaslMwquJ3b9/IX/FWluhTvWz50MC5UEC6tDgekKrGNGqmAxjZnYouEpKGPNuzJbFRclIP/nIjajSJT41kPA=;nK+3xwTBzxpndxHZ0iriCg=="
 ---
 

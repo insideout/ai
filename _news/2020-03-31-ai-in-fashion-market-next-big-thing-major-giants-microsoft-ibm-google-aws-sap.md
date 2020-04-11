@@ -1,9 +1,9 @@
 ---
 category: news
 title: "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP"
-excerpt: "Mar 30, 2020 (AB Digital via COMTEX) -- Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF MI evaluating the market ... in the study are Microsoft (US), IBM (US), Google (US), AWS (US), SAP (Germany), Facebook (US), Adobe (US), Oracle (US), Vue.ai (US), Lily AI (US), Syte (Israel), mode.ai ..."
+excerpt: "Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support."
 publishedDateTime: 2020-03-31T02:55:00Z
-webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-next-big-thing-major-giants--microsoft-ibm-google-aws-sap-2020-03-30?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-fashion-market-next-big-thing-major-giants--microsoft-ibm-google-aws-sap-2020-03-30"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP"
 
-secured: "Dd9fd7C9Qfndxa9/2+7vv2qMIl7RWmhoAsPprSonU1Ad5ZFOGDPXkEMmW0L9y/huVAzLJkqfvro/qAP+4tNtdutVLhfxSGu190WEIknwMJMtD0N4Onyba5AUi98sLW6vUCHLXaJqi08weoM4y4XWW5vaCDna8Ki5wqw2bGqKZ9Ck/4YS5R7h1ADvj93E+tsVmHoG2iL2CgwWH9BVERWarcM0y7DyFONUI1geT++Gg7xjwnbqzXR88jG2RfZbzG/b4lg1Cp8s9JF6KZ2aDJAwILghlgezQdTjHFfU3zGj0UgwvZ3ixOGbTGwrhgkFTZhx;usejAIg8/lhl4x4eEVU+9Q=="
+secured: "OMlrDqomVjUSdML+Dr3EHKQwWiYk6pbaxRDYQBgqXlcHSwxee0r1h+wg19O4J1cXvwTBmYGPT8WaQcwDjHiyHnC2623HhxPSOcsjh5esjh6JOUvY9dsGFGEGzt62Ss8kxg/fLSAi6MMOk8Gpv3R4uwqgG1fUrZ5/IV2sptBaaYoUk1XnYNq8q59rxfGjifKcn3DztSWG4gwEMlCRp0OOVYLAWJsyb4aKtSEvlriMyU9GV20khXHts6mrk3zg1idWkyXkS6VRHnCFMWmI/bV2qz3C+/7muBrQU5j1MvgNcnX4HVEfRI+f28/LOOcFngAv;e30CrvZui4GRmH62lIEhjQ=="
 ---
 

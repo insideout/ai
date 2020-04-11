@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The cognitive computing market size to grow at a CAGR of 30.5%"
-excerpt: "... computing technologies to gain a competitive edge in the market.The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other database solutions."
+excerpt: "Read the full report:  NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive computing market size is projected to grow from USD 20.5 billion in 2020 to USD 77.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 30."
 publishedDateTime: 2020-03-30T11:10:00Z
-webUrl: "https://www.marketwatch.com/press-release/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305-2020-03-24?mod=mw_quote_news&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305-2020-03-24"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "The cognitive computing market size to grow at a CAGR of 30.5%"
 
-secured: "FCz7P99fhPs+RcyXJH40EnyHH1a0nsCE5BUDnlycPSUMqoIdsK7hqVVQ3AZEuEGoY+loBeb/cyzkYDDHROHmaMgI79gHh7eh2CsFL6Bimz53tDpRf0nhMGCbnZUSc4RsK1q2dSgnqGwtkYHDgu9hUGAhn0u/qMuBlN3aGZqYwPVpQVnepfL/Dx4VFtJnn/pqCm60Iy0H3PUUuKRTfozbyVAOryr3Ub7S2ueUrr3ja/YiEVm+idNtMKED4/HOI3EwmJOq2d3uPTcrmariX9y4/aQ+gHW7tuEJCbF7QpKRu4MZxUVF8twCZadksXqK3USG;M4NVkR80IPM2cu+WbjWiEA=="
+secured: "AbdOvlYdmnKjcBZM2UVoGBo9g4oGiUQebt9ZVXe2lHUr6JELP3tV1+sG+BWiHEFdQ7B6NTvlqy1ngJRCQhDGFGVxICSJohWaj96Dgrew08kRTW0htLdjtimdLCfn7XT0LEpHnKBbNdStnjmFYAow+wVaaljfrEobG3hXp3K6gk/ar3+R/WexZKh3LMJNvyUaAvDG5WyBsKCcLDTIub+CYQdyo3+ag/GngfVOVFRtaDr7g+AHab+mrLwrGnbKjhKstnFZFLdT65Nra5JBu+wBGTEHVr3QiZ7IJ/lw89MD6GozwQpXVndjOWfG04VJzbSL;W2OXa0lGPZh+aj1ItjAYvQ=="
 ---
 

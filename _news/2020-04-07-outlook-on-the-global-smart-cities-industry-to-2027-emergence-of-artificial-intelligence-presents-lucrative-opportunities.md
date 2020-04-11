@@ -27,6 +27,21 @@ images:
     height: 630
     title: "Outlook on the Global Smart Cities Industry to 2027 - Emergence of Artificial Intelligence Presents Lucrative Opportunities"
 
+related:
+  - title: "Global Voice Recognition Market 2020-2025 Growth Analysis, Competitive Situation, Geographic Segmentation and Forecast Opportunity"
+    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
+    publishedDateTime: 2020-04-07T07:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-2025-growth-analysis-competitive-situation-geographic-segmentation-and-forecast-opportunity-2020-04-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+
 secured: "Vu2sdI7dHbE9OtLySFWYk6Rwz/ZHXxenz3zw1J5o5GJsGKYqGccnQ18yjXzPwaFzjJ32Q55hhAWMlK8UnxM3yUt+bhwDo5ZNsyk4/59XcoGuVbKRDBD7kf+J9WhqFEHnOHdX9srV/WQNrmqz28fqNJtrnYc26vJsVLOO3+tztJ/AErU5rMIlXcLwgNeHbeenn8cJ5JO9TJkCCfgs8DhmOZ6bqiaAILIbq01EdK/GoCdM9FCpjhssR1EAq2AhR6xSr4S89qG22wakA6FukejwAG9TY2tK/NwgI3cxWQM0EtuRxrVCtqnwRCdM++wpoByt;YF4nsioKLw9aD6T7WnNXNA=="
 ---
 

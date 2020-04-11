@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-star
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/07/apple-acquires-ai-start-up-voysis.aspx"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,21 +27,6 @@ images:
     width: 1200
     height: 800
     title: "Apple Acquires AI Start-Up Voysis"
-
-related:
-  - title: "Apple acquires Dublin AI start-up Voysis"
-    excerpt: "Apple has acquired Voysis for an undisclosed sum, taking on the start-up's deep domain, brand-specific intelligent voice technology."
-    publishedDateTime: 2020-04-06T08:23:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/voysis-dublin-acquired-apple-ai-machine-learning"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/dublin.png"
-        width: 1200
-        height: 900
 
 secured: "OVC8QSHnRzCJpupXvJfpkwclUhaLxiyt+F9w/QeiIz+VAmtkAJgabgqawO9r1Fnpd41MsU8DY/6H1lb8HQyYIlQrzPHVPgYIYQb7HR6l5LoWEgfjpCd1WCQBGpRA5ghxYO77cdSkrApG+316bQbLIt5WGumBobWbqslb8uUglv4W4qHuCnvRuewetpdj2XPZ3XSBLzj7y4niJAhX1IQyDdguiBtYGFlz1sSpGRCZ0BzZ0abd7w/xEDfHpb8QofZXejvkC0Ed1Cdmy/28JSlwfqz5IMQzkzyruEVHig0epNhdLsfLsZsw9+pfYc136OdF46xARtkyW8kEqMdCrwNHP+Jb8ilSu1c3hWL016uMSmWpLs7NoUF5ekIXttKbHHgqIkMbhlTCISW88gP5iY23ph8IC1Y3EygCPsgbssdcEkja1dX19qB2v+1Gw0eavUg+KQaqN6mOa1v9Lvzm4MZB0xdVbRQTxrT6XJjgc5hVREM=;kbY7hotGj67t0N6ycUljZQ=="
 ---

@@ -3,20 +3,26 @@ category: news
 title: "Samsung Demonstrates World’s First MCPTX Video Call on AWS"
 excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ..."
 publishedDateTime: 2020-04-06T14:03:00Z
-webUrl: "https://www.dailyamerican.com/ap/business/samsung-demonstrates-world-s-first-mcptx-video-call-on-aws/article_729629e0-48ec-5a7d-8709-abb06aeb6fea.html"
+webUrl: "https://www.businesswire.com/news/home/20200406005496/en/Samsung-Demonstrates-World’s-MCPTX-Video-Call-AWS"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Daily American
-  domain: dailyamerican.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "bszfVGxB3rlevHylBbgICW0S5eRPXiK+s6o4ZIKPpEgnMA6ntLqdVdBQjIiwIVslumQlI7/ab8laBQq2mhnw1pp4lZV/DB1P+pvZ/QSm828QaDDOFCa5ds0CMkYdi0nZ8e86dqGWjevrjF6uygH5Q6Ou295rPhaWljTYNU0w/AOwliHZMXAy3l3HS5vR82JPeSJPpoQDO+G6OvS6DTww80temrS4/rNbxIn4GmSnEtf32M6cNEV/g+bj1CCn7UevFUip29Z9XEqecr+EjcR6tLMrSM+Sx1BTVzC9Bq+4cj5W/w4JnnBV6lh2GS8W64zr;SV2w7hu1oWKGMAavB91CsA=="
+images:
+  - url: "https://mms.businesswire.com/media/20200406005496/en/783465/23/Samsung_logo.jpg"
+    width: 1200
+    height: 627
+    title: "Samsung Demonstrates World’s First MCPTX Video Call on AWS"
+
+secured: "f+3d12e4DPWC0FgcxHe8u45nZP/KNQJB7fUoZi9n4wYOEASAFC/r/wBsRQgBBwt7UuG7T5c7FeI4wbEPWESOn0NP7XQ672LbLs3UCttuuYmwXYTRMnQ6rVa+5dcf3UAKIMoRkj7QREKFSVpNImyse236X2UfrBtF23OyTB6APeFoXsxbmE1sAL1MNMrNVpGvr1p5mxga7CaSDxGXXx/46sBG+zvRC2aew2s5O+yioEwaVm2MvDaOKkfahWgmb6sYDl7MlSND1cbtAUxE6fQ3JKSb73fYoyvvH2G5x9gqpIwyAsxddrp866ItNcwRDkMe;DnMcjIL6AbZACkArx3zElA=="
 ---
 

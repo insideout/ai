@@ -37,28 +37,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Deep Learning Market 2020: Company Profiles, Emerging Technologies, Global Segments, Landscape and Demand by Forecast to 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 06, 2020 (Heraldkeepers) -- Deep Learning Market Highlights: The need to enable more function in devices and machines are anticipated to motivate the deep learning market 2020. The information & communication technology industry reports are created by Market ..."
-    publishedDateTime: 2020-04-06T11:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2020-company-profiles-emerging-technologies-global-segments-landscape-and-demand-by-forecast-to-2023-2020-04-06?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence Chips Market Current Trends and Future Aspect Analysis 2020-2025 | AMD , NVIDIA, Google, Intel"
-    excerpt: "The most advanced study released by AMR on the Artificial Intelligence AI Chips market comprising key market segments such as Type Application Sales Growth Comprises details of companies manufacturing field production volume capacities value chain product specifications raw material sourcing"
-    publishedDateTime: 2020-04-06T08:16:00Z
-    webUrl: "https://www.openpr.com/news/1999768/artificial-intelligence-chips-market-current-trends-and-future"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 10
   - title: "Global Educational Robots Market, Forecast to 2025 - Widespread Adoption Teaching Robots, Digital Whiteboards and Flip Classrooms"
     excerpt: "The \"Educational Robot Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-04-06T10:00:00Z

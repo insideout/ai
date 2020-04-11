@@ -28,28 +28,15 @@ images:
     title: "Global Voice Recognition Market 2020-2025 Growth Analysis, Competitive Situation, Geographic Segmentation and Forecast Opportunity"
 
 related:
-  - title: "Deep Learning Market 2024: Global Size, Share, Key Manufacturers, Upcoming Trends, Growth and Regional Forecasts Research"
-    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Global Deep Learning Market 2020-2024. The report has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024, progressing at a CAGR ..."
-    publishedDateTime: 2020-04-07T08:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2024-global-size-share-key-manufacturers-upcoming-trends-growth-and-regional-forecasts-research-2020-04-07?mod=mw_quote_news"
+  - title: "Outlook on the Global Smart Cities Industry to 2027 - Emergence of Artificial Intelligence Presents Lucrative Opportunities"
+    excerpt: "The global smart cities market is expected to witness significant growth in the upcoming years due to growing government initiatives for overpopulation and urbanization management"
+    publishedDateTime: 2020-04-07T10:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/outlook-on-the-global-smart-cities-industry-to-2027---emergence-of-artificial-intelligence-presents-lucrative-opportunities-2020-04-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Speech and Voice Recognition Technology Market Size, Technology, Development, Analysis And Outlook 2020-2026"
-    excerpt: "Apr 07, 2020 Xherald -- The Market Research Intellect has recently added an extensive report to its repository titled Speech and Voice Recognition Technology market. The latest market study provides a lucid understanding of the Speech and Voice Recognition Technology sector and the report scrutinizes the data by using primary and secondary ..."
-    publishedDateTime: 2020-04-07T22:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-size-technology-development-analysis-and-outlook-2020-2026-2020-04-07?mod=mw_quote_news"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

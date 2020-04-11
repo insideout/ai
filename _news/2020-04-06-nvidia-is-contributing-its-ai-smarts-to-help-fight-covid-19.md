@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/04/covid.jpg"
         width: 1082
         height: 1008
-  - title: "Healx uses artificial intelligence to find combination drug treatments for COVID-19"
-    excerpt: "Healx’s AI is being used to discover drug combinations to target the virus and improve immune response to COVID-19 Healx is using its powerful AI platform to support vulnerable rare disease patients by applying drug repurposing expertise to target COVID-19 Combination therapy candidates will be available in May for external testing in ..."
-    publishedDateTime: 2020-04-06T08:38:00Z
-    webUrl: "https://www.cambridgenetwork.co.uk/news/healx-uses-artificial-intelligence-find-combination-drug-treatments-covid-19"
-    type: article
-    provider:
-      name: Cambridge Network
-      domain: cambridgenetwork.co.uk
-    quality: 13
 
 secured: "Dj+nDYN/KIGwFqhZcbJArjXdkqfE/Xiv+GJtJpJszDiu4nO/VBh4Hw2hc9e+Tatq+4V9oR2T4B2TuoTUCn3h0RctNZ9x97UQiyNlYatNJO2I5ty2JhjaBOtw6IddeDTPIj0dzPPYmHIcCJG3ORSGxEFSmRqGdnCoW1HKd2GFPG1k3Xz8DnOqebCjLNeuKpRAhx7PFTFF1ogjl/xXyPic4CzE9AEzKDQZIVmY+FPXokGX9EujcstycbiKrcIqW1zo6vaV/NS4glf8ND9D9lSqgk7Kb3GIr0rNnpGHXo2faDGlZR9ZXass30aY6MYeAdIPoqsgpEL9QmKnM6eNywgOFWK0KlKBm1+byUFSyXPbTS+9bw1bxzNS6VrDKkrxQ6j8kiM+VHrvQy4W3gWtEmbyxNvPHgkZsAYT3atYSLS3COAPjHDJCQoaSwzu3tD/NW27TROX7fFNawjm2p44yupMp/07HcZ8cUm1C64aFHVYsOU=;gl+M1o0mDMfvVclrGVITgQ=="
 ---

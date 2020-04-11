@@ -5,8 +5,8 @@ excerpt: "The report provides a holistic summary of basic, secondary and advance
 publishedDateTime: 2020-04-08T09:06:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
 type: article
-quality: 64
-heat: 104
+quality: 81
+heat: 121
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
