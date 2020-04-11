@@ -27,21 +27,6 @@ images:
     height: 630
     title: "Deep Learning Chipset Market Outlook, Geographical Segmentation, Industry Size & Share, Comprehensive Analysis to 2024"
 
-related:
-  - title: "Educational Robots Market Assessment and Outlook 2020-2025 - ResearchAndMarkets.com"
-    excerpt: "The emerging trend of digitization, along with the increasing utilization of artificial intelligence and machine learning (AI/ML) technologies in the education sector, is one of the key factors driving the growth of the market. Owing to their effective interactive capabilities, educational robots are rapidly being adopted in K-5 and K-12 ..."
-    publishedDateTime: 2020-04-06T14:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200406005534/en/Educational-Robots-Market-Assessment-Outlook-2020-2025--"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 33
-    images:
-      - url: "https://mms.businesswire.com/media/20200406005534/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-
 secured: "LYY32nLlgtJvLBqs+l87kWLNkxot/Bi0SoVJmDXG0ZVAhutJpak2VKdYkljjkh9bCvUQ/XAdkZx/QO8fIVN+Tkh4zMP6C8OoLF8zdRLU3UgY7MJYzRiYPse/KfFfHjRlJPmRMxf1Y2R90ckGPs/MnymtSKwc7yJPFZJYUukM9Srni6ARLxme718gsUFO6yl/ZOlPp+40benu6obf3y12Tf+MSpnpW5hOQeTolIHCJ+Gz1sxsTRzCd1LYq/9Tbv6mFyu19k+ZG9OnxL8VoCSfPiIWuSXuBB7hX1zr08L0gs2DuTiAgn9h7NtC+t7g84Rt;wC7q7HpfCVUoqhNfhVDvQQ=="
 ---
 

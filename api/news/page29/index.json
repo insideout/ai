@@ -2,6 +2,80 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
+      "title": "Why SD-WANs Need Artificial Intelligence",
+      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why SD-WANs Need Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-knives-out-tech-tackles-violent-crime.md",
+      "title": "Knives out: tech tackles violent crime",
+      "excerpt": "“This means that in a crowded environment like a train station or shopping centre, video-recognition systems that are enhanced by AI-powered threat-object recognition software can be used to identify and flag forbidden objects such as knives,” he says.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/03/knives-out-tech-tackles-violent-crime/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/10910/gettyimages-175224409-2048x2048_440107723754523852.jpg?crop=0.0000000000000013895057943753,0.27276577721304568,0,0.22691656077932973&cropmode=percentage&width=1200&height=450&rnd=132288417420000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Knives out: tech tackles violent crime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries.md",
       "title": "Venture Capitalist Tim Draper: Bitcoin, decentralization and artificial intelligence could transform global industries",
       "excerpt": "WELCOME We use cookies to enhance your experience like remembering your Time Zone. We have updated our privacy policy please check our Terms&Conditions Accept and Continue Industries that could be transformed using decentralization,",
@@ -865,88 +939,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-get-ready-for-ai-as-a-service.md",
-      "title": "Get Ready For AI As A Service",
-      "excerpt": "Artificial intelligence is not for the faint-hearted, as it requires investments, expertise, and lots of hand-holding. That’s why most enterprises will turn to as-a-Service offerings, leaving back-end processing,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/16/get-ready-for-ai-as-a-service/amp/",
-      "publishedDateTime": "2020-03-16T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1177213691%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Get Ready For AI As A Service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-how-to-switch-career-into-ai-in-2020.md",
-      "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-      "excerpt": "Artificial Intelligence, a division of computer science empowers on creating smart machines that are highly specialized and share common traits with a human brain. In other words, we are developing machines that can think and work like humans. Ranging from speech recognition, facial identification, robotics surgery to the self-driving cars ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020",
-      "ampWebUrl": "https://yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/artificial-intelligence-switch-career-2020/amp",
-      "publishedDateTime": "2020-03-16T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/users/e1d73f90-14f3-11ea-be83-85120a427c93/profile_image_1575284828775.png",
-          "width": 512,
-          "height": 512,
-          "title": "Artificial Intelligence – How to Switch Career into AI in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

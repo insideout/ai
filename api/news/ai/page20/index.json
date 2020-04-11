@@ -2,6 +2,80 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-03-19-ai-models-could-struggle-to-handle-the-market-downturn.md",
+      "title": "AI models could struggle to handle the market downturn",
+      "excerpt": "However, these models introduce significant fair lending risk, reputational risk and credit risk. Many newly established fintech and nonbanks entering the credit market late in the cycle favor the use of AI and ML underwriting methods that focus on thin file and near-prime borrowers. Additionally, established banks face pressure to grow.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.americanbanker.com/opinion/ai-models-could-struggle-to-handle-the-market-downturn",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/c11ac70/2147483647/strip/true/crop/4368x2293+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F67%2Fa7%2F4ae3a940490ba684093d832a2c74%2Fhousing-market-10635702-adobe.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "AI models could struggle to handle the market downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-playstation-5-vs-xbox-series-x-which-is-better.md",
+      "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
+      "excerpt": "Microsoft has talked up some AI capabilities of the Xbox Series X based on its ability to handle 4-bit and 8-bit integers. It’s not clear if Sony’s RDNA2 GPU has a similar ability. Sony’s claims about the PS5’s more nimble GPU are interesting, but they need to be demonstrated in head-to-head comparisons. Sony has the not-inconsiderable ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.extremetech.com/gaming/307903-playstation-5-vs-xbox-series-x-which-is-better",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2020/03/Xbox-Die-Feature.jpg",
+          "width": 1179,
+          "height": 651,
+          "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-iot-and-machine-learning-technology.md",
       "title": "IoT and Machine Learning Technology",
       "excerpt": "And if the MCA Connect team were to wager on the next massive breakthrough in computing, they would be putting favorable odds on the development of artificial intelligence and machine learning technologies. Machine Learning Drives the Future of Artificial Intelligence Modern machines harness Artificial Intelligence (AI) to perform functions ...",
@@ -1062,88 +1136,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
-      "title": "Scientists linked artificial and biological neurons in a network — and it worked",
-      "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.themandarin.com.au/127951-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T22:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mandarin",
-        "domain": "themandarin.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.themandarin.com.au/content/uploads/2020/03/neurons.jpg",
-          "width": 795,
-          "height": 530,
-          "title": "Scientists linked artificial and biological neurons in a network — and it worked",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-transforming-surgery-with-data-ai-and-cloud.md",
-      "title": "Transforming surgery with data, AI, and cloud",
-      "excerpt": "In the future, there are plans to deploy Azure SQL Database, Azure Storage, and Azure App Services to realize a serverless environment. And later, AI technologies such as Microsoft Cognitive Services and Azure Machine Learning will be applied. Dr. Takeshita’s specialty is gastrointestinal surgery. With the database in place, he sees an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/apac/features/transforming-surgery-with-data-ai-and-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T21:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/43/2020/03/hero-1600x758.jpg",
-          "width": 1600,
-          "height": 758,
-          "title": "Transforming surgery with data, AI, and cloud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

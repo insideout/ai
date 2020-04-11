@@ -8,8 +8,8 @@ ampWebUrl: "https://www.engadget.com/amp/google-duplex-ai-uk-australia-canada-06
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-duplex-ai-uk-australia-canada-065647926.html"
 type: article
 quality: 85
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -27,6 +27,23 @@ images:
     width: 600
     height: 350
     title: "Google expands its conversational Duplex AI to the UK, Australia and Canada"
+
+related:
+  - title: "Google expands AI calling service Duplex to Australia, Canada, and the UK"
+    excerpt: "Google’s automated, artificial intelligence-powered calling service Duplex is now available in more countries, according to a support page updated today. In addition to the US and New Zealand, Duplex is now available in Australia,"
+    publishedDateTime: 2020-04-09T00:24:00Z
+    webUrl: "https://www.theverge.com/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 86
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/6QA2AXffPO1DJM2OwDoTCFXEYsc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66625892/acastro_180510_1777_google_assistant_0003.0.jpg"
+        width: 1400
+        height: 933
 
 secured: "XL+w54D+hF2pOtyAke9I21EcCeflaY6qfS9b1u/qvLD3dZs5b7zOlWLmyNMaNqrpAFvEpBLrJXpqSJ8AtNx2o2dmFJotODwzLVi37fyrR2qfrCsRuo8m0q3/kVtcu2ARVkSrUND0FQ40KnSzsYSiLG6gXfQ82yEe3tynqMRR3VZXXjxymJrMjGqPHEkvqTcPvVpvyMSfg6ZyWPQJtoIi3MftPJDDRZfAHNIMq51zqFcOqwP6v32CRjUNMwIGMU8jyulpj+RHLqxZIZ0r0FF9G/sUE2xtirCIkVz/E4SAYbg+J7aGLuVLFCBvFF3CjFi0mq5l+FuQbCrcr3aHTIRfM6xXgbt2XDw/j9di61+nGiovjwNxpnjO1x9mmrV6PimW8PA8g00wjd4opIVS3RTh4V/L0Z6WUL0v2cgoPcFrOEk0WDW3CVQxc302C1DxuW2+ZuvX/zYDGlizRN1wiujzNCQHCR+eaYJq2GPm4mtW+uc=;ZNaFOiqPeAmSNmc1cnv9Pw=="
 ---

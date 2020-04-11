@@ -2,6 +2,96 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-03-washington-state-passes-new-facial-recognition-legislation.md",
+      "title": "Washington state passes new facial recognition legislation",
+      "excerpt": "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Washington state passes new facial recognition legislation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars.md",
+      "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
+      "excerpt": "Some of you might be familiar with a parable that many refer to as the Upstream Parable or alternatively the River Story. Attributed to various originating sources, some believe it was initially brought up in the 1930s by Saul Alinksy,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-04-03T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F502060284%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D385%26cropY2%3D4523",
+          "width": 1200,
+          "height": 675,
+          "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service.md",
       "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
       "excerpt": "98point6, a telemedical startup whose platform pairs clinicians with AI to provide text-based care, today announced that it secured $40 million in financing. CEO Robbie Cape, a former Microsoft executive and the founder of the family organization company Cozi, said the capital would be used to hire three times more physicians by the end of April.",
@@ -1224,95 +1314,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-how-ai-can-determine-which-coronavirus-patients-require-hospitalization.md",
-      "title": "How AI can determine which coronavirus patients require hospitalization",
-      "excerpt": "This is one area where artificial intelligence can help, experts at Jvion believe ... “Which patient could do well at home, and which patient is likely to not survive no matter what therapy is offered is one of the more difficult clinical challenges. AI can definitely help in this space.” Jvion’s AI will help identify uninfected ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/ai-can-help-manage-hospital-resources-during-the-coronavirus-crisis-syndication/amp/",
-      "publishedDateTime": "2020-04-02T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-3-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "How AI can determine which coronavirus patients require hospitalization",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-uses-ai-to-enhance-video-call-audio.md",
-      "title": "Google uses AI to enhance video call audio",
-      "excerpt": "Google is hoping to end low quality video calls by deploying artificial intelligence to \"fill in\" audio gaps caused by bad connections. WaveNetEQ works by using a library of speech data to realistically continue short segments of conversations.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-52138100",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-52138100",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-52138100",
-      "publishedDateTime": "2020-04-02T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/14E94/production/_111525658_whatsubject.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Google uses AI to enhance video call audio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

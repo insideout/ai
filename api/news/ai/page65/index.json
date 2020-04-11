@@ -2,6 +2,96 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2020-01-29-machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354.md",
+      "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
+      "excerpt": "The overall machine learning as a service market worldwide was valued at US$ 1,117.9 Mn in 2018 and is set to grow with a CAGR of 35.4% during the forecast period. Rapid technological advancements and the growing adoption of cloud-based technologies worldwide are primarily driven by the Machine Learning As A Service market.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis-report-2019-2027-growing-cagr-354-2020-01-29",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning As A Service Market Analysis (Report 2019-2027): Growing CAGR 35.4%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-getting-started-with-aws-deepracer-2020-edition.md",
+      "title": "Getting Started with AWS Deepracer (2020 edition)",
+      "excerpt": "Since the last time, I wrote a blog on how to win at Deepracer? a LOT has changed on the Deepracer Console. You could read that to know the very basics of Deepracer and Reinforcement Learning.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/vaibhav-malpanis-blog/getting-started-with-deepracer-2020-edition-a7896dd07c48",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-29T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/0*70d1mypOZTlJ0xsF.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Getting Started with AWS Deepracer (2020 edition)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-7-observations-about-ai-in-2019.md",
       "title": "7 Observations About AI In 2019",
       "excerpt": "Facebook turned 15 in 2019 ... the sequel to her seminal history of the early years of AI research, Machines Who Think (first published in 1979 and then updated in 1984). It is a fascinating ...",
@@ -1196,78 +1286,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-cisco-adds-ai-transcription-to-webex-meetings.md",
-      "title": "Cisco adds AI transcription to Webex Meetings",
-      "excerpt": "Cisco has added new AI capabilities to Webex Meetings, following the company’s acquisition of Voicea last year. Voicea’s Enterprise Voice Assistant (EVA) speech recognition tech has been integrated into Cisco’s Webex Meetings videoconferencing platform. New features include automated recording and transcription of conversations ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.html",
-      "ampWebUrl": "https://www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3516593/cisco-adds-ai-transcription-to-webex-meetings.amp.html",
-      "publishedDateTime": "2020-01-28T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/01/cisco-100784903-large.jpg",
-          "width": 700,
-          "height": 498,
-          "title": "Cisco adds AI transcription to Webex Meetings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-servicenow-to-acquire-small-conversational-ai-startup-in-mountain-view.md",
-      "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
-      "excerpt": "ServiceNow said the purchase would advance the Santa Clara software giant’s deep learning AI capabilities as it seeks to support all widely spoken languages across several products.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.html",
-      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/01/28/servicenow-passage-ai-acquisition.amp.html",
-      "publishedDateTime": "2020-01-28T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/10466072/servicenowhq*600xx1080-720-100-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "ServiceNow to acquire small conversational AI startup in Mountain View",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

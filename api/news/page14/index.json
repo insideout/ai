@@ -2,6 +2,95 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-28-12-thought-provoking-quotes-about-artificial-intelligence.md",
+      "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
+      "excerpt": "The hope is that these quotes will help illuminate the scope of the field, the contours of the challenges ahead, and the enormity of the stakes.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-03-28T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F520714001%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3568%26cropY1%3D746%26cropY2%3D2753",
+          "width": 1199,
+          "height": 675,
+          "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-microsoft-pulls-out-of-facial-recognition-startup-anyvision.md",
+      "title": "Microsoft pulls out of facial recognition startup AnyVision",
+      "excerpt": "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "publishedDateTime": "2020-03-28T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft pulls out of facial recognition startup AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
       "title": "Microsoft pulls its smaller investments in facial recognition tech",
       "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
@@ -1011,89 +1100,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-study-finds-racial-bias-in-voice-recognition-software-used-by-largest-tech-companies.md",
-      "title": "Study Finds Racial Bias in Voice Recognition Software Used by Largest Tech Companies",
-      "excerpt": "The study focused on Amazon, Apple, Google, IBM, and Microsoft to see how accurate their voice-recognition systems are at transcribing black voices in comparison to white voices and found that the error rates for white voices were much lower. The researchers gave the voice-recognition systems almost 20 hours of interviews to transcribe from 42 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719",
-      "ampWebUrl": "https://www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719/amp",
-      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719/amp",
-      "publishedDateTime": "2020-03-27T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Root",
-        "domain": "theroot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nddpo6tfmmd3fniqv9ip.jpg",
-          "width": 800,
-          "height": 517,
-          "title": "Study Finds Racial Bias in Voice Recognition Software Used by Largest Tech Companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
-      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "publishedDateTime": "2020-03-27T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

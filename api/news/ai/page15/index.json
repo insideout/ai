@@ -2,6 +2,97 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-25-a-list-of-fintech-firms-providing-free-technology-during-the-coronavirus-crisis.md",
+      "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
+      "excerpt": "To help in these trying times, many fintech firms are extending free, discounted, or accelerated deployment offers.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/",
+      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2020/03/23/a-list-of-fintech-firms-providing-free-technology-to-banks-during-the-coronavirus-crisis/amp/",
+      "publishedDateTime": "2020-03-25T06:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e77d942c7b02d000666dfb9%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": "A List Of Fintech Firms Providing Free Technology During The Coronavirus Crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically.md",
+      "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
+      "excerpt": "The AMA Journal of Ethics further lists some of the implications of AI and facial recognition technology, in terms of violating a user’s privacy. Informed consent is one such issue, with an increasing need for healthcare providers that utilize facial recognition to inform their patients about the potential uses of patient data. To quote the ...",
+      "heat": 105,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/03/25/facial-recognition-and-ai-will-invade-public-privacy-but-it-can-be-done-ethically/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-22-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Facial recognition and AI will invade public privacy — but it can be done ethically",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-next-generation-of-ai-processors-featured-at-linley-spring-processor-conference.md",
       "title": "Next-Generation of AI Processors Featured at Linley Spring Processor Conference",
       "excerpt": "The Linley Group Principal Analyst, Linley Gwennap, will present “The Next Generation of AI Processors.” “The virtual format allows us to deliver ... and conferences focused on advanced technologies for chip and system design. The Linley Group is the publisher of the noted Microprocessor Report, a weekly publication.",
@@ -1154,88 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-researchers-propose-paradigm-that-trains-ai-agents-through-evolution.md",
-      "title": "Researchers propose paradigm that trains AI agents through evolution",
-      "excerpt": "A paper published by researchers at Carnegie Mellon University, San Francisco research firm OpenAI, Facebook AI Research, and the University of California, Berkeley, and Shanghai Jiao Tong University describes a paradigm that scales up multi-agent reinforcement learning, where AI models learn by having agents interact within an environment such ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
-      "publishedDateTime": "2020-03-24T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1585070939495.jpg?fit=1200%2C602&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": "Researchers propose paradigm that trains AI agents through evolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-artificial-intelligence-in-healthcare-why-transparency-matters.md",
-      "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-      "excerpt": "The growing presence of artificial intelligence during the care delivery process continues to show potential ... algorithms and machine learning to accurately detect cancer and heart disease; and robot-assisted therapy for recovering stroke patients. “We’re getting to a point where machines can start telling us things we don’t know ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "publishedDateTime": "2020-03-24T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202003/20200324_HT_Web_HIMSS-AI-panel_0.jpg?itok=NPF-w-tz",
-          "width": 1440,
-          "height": 500,
-          "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

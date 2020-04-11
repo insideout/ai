@@ -29,6 +29,6 @@ images:
     height: 800
     title: "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks"
 
-secured: "Q3I9oNpZuakJWn0BwCH4p7sGdvyzlJY0Skzp7sJ3/5Bi2rXl8KpgYayZ0vVq8XDyVI9x5RxD+aoLTpAJoy/RyxVLpuc06T11VvUCXvCPDfd6RtpK/PVbwgn1acqf6SYpx56P8nZtp99QOZUhTV0u+GB27UMgP+D6fuNhROCshJETJnYYgDi5PpkrE/WMj6/ZSUwU+f/NR2h7pcfLUhyKByQi82o387kn2ZNUU3nHSzh+TPbqsb2tAJkiDyVRPrpJSEDTUw+RKrZVgBaO4L3GyihJA9udByVM7BPzk/6tZ7lm7A+gdM3TzLR48ltfBE4w;zviPjcHN6tG34YtdFu6cbA=="
+secured: "9UpiUpcUZCLJ0cZQhBK4tdOecpAOqsL9hiKvChnVmHYKmcEKr9IaPYo2jZlPZeEr7A4ka1Fnr4XqxN4COVwex6PaTfk64442vq9LkFMAkq3aIe+bHp7qgzduezY/0eTVZmFu7ymXzferhsLqxS2N/lzSHh7UgQM/np/7iB5AO7Y7DyvVWD/sMy2f3twFnrbClODy+RgiFXkuDixWQLV2+WQyt6R7pFdLgSzeqq2QEz5kFOj9W/3zxnjS5+u2L6l5wIpdanctZrM28qwiAHrdqaKtWGUd0MAjIMEtov3d5R/f1WpsFuygs+T0gBdVnHDvU6Oq5KQrHUL5UuNF7+9BEjtBqrMN0XotFNZ+i/NsKuEuLjFQ+uJ8ctMefXbRFqJweDTvDnxW2xBPQxL8ArAtR0jle22WuOsr91MQTuCZDnwoLj+98dPvChSC4KmhCIr1xIpD7PJVWnkQaz4Yw8E2nNZd6+2m43ioLdn5AYeO1gY=;NVUCrYg2Ik5H/u9mwPkLpA=="
 ---
 

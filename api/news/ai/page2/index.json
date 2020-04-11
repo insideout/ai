@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-09-will-product-designers-survive-the-ai-revolution.md",
+      "title": "Will product designers survive the AI revolution?",
+      "excerpt": "Did you know TNW Conference has a track fully dedicated to exploring new design trends this year? Check out the full ‘Sprint’ program here. “Our intelligence is what makes us human, and AI is an extension of that quality.” ― Yann LeCun The human species has performed incredible feats of ingenuity. We have created beautiful sculptures ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
+      "publishedDateTime": "2020-04-09T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-14-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Will product designers survive the AI revolution?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
       "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
       "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
@@ -127,50 +171,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-google-expands-its-conversational-duplex-ai-to-the-uk-australia-and-canada.md",
-      "title": "Google expands its conversational Duplex AI to the UK, Australia and Canada",
-      "excerpt": "Google’s high-tech Duplex AI calling service has quietly made its way to the UK, Australia and Canada. The tech giant originally launched the feature in the US back in 2018 before it started a pilot testing for it in New Zealand a year later. With Duplex, you can ask Google Assistant to call, say, restaurants or car rentals for you ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/google-duplex-ai-uk-australia-canada-065647926.html",
-      "ampWebUrl": "https://www.engadget.com/amp/google-duplex-ai-uk-australia-canada-065647926.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-duplex-ai-uk-australia-canada-065647926.html",
-      "publishedDateTime": "2020-04-09T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Fc25452f0-7a2b-11ea-b6bd-6db87fe71403&client=amp-blogside-v2&signature=0dc9cee41896177dbcc23190188c405db8a79342",
-          "width": 600,
-          "height": 350,
-          "title": "Google expands its conversational Duplex AI to the UK, Australia and Canada",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -350,6 +350,50 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-google-expands-ai-calling-service-duplex-to-australia-canada-and-the-uk.md",
+      "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
+      "excerpt": "Google’s automated, artificial intelligence-powered calling service Duplex is now available in more countries, according to a support page updated today. In addition to the US and New Zealand, Duplex is now available in Australia,",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/8/21214321/google-duplex-ai-automated-calling-australia-canada-uk-expansion",
+      "publishedDateTime": "2020-04-08T17:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/6QA2AXffPO1DJM2OwDoTCFXEYsc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66625892/acastro_180510_1777_google_assistant_0003.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1276,52 +1320,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-toward-computers-that-teach-themselves.md",
-      "title": "Toward Computers That Teach Themselves",
-      "excerpt": "Artificial intelligence seems to be everywhere, but what we are really witnessing is a supervised-learning revolution: We teach computers to see patterns, much as we teach children to read. But the future of A.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/08/technology/ai-computers-learning-supervised-unsupervised.amp.html",
-      "publishedDateTime": "2020-04-08T02:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/04/09/business/09sp-AI-cover/09sp-AI-cover-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Toward Computers That Teach Themselves",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
