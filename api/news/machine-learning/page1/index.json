@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-new-doe-program-drives-demand-for-machine-learning-programmers.md",
       "title": "New DoE Program Drives Demand For Machine Learning Programmers",
       "excerpt": "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ...",
@@ -963,11 +1001,11 @@
     {
       "path": "_news/2020-04-01-innovations-in-lidar-4d-radar-deep-learning-processors-plasmonic-light-switches-driver-seat-airbags-advanced-ai-autonomous-vehicles-researchandmarketscom.md",
       "title": "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI, and Autonomous Vehicles\" report has been added to ResearchAndMarkets.com's offering. This Mobility TechVision Opportunity Engine (TOE) profiles advancements in solid-state LiDAR and 4D Radar ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI, and Autonomous Vehicles\" report has been added to ResearchAndMarkets.com's offering. This Mobility ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200401005336/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200401005336/en/Innovations-LiDAR-4D-Radar-Deep-Learning-Processors",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-01T03:52:00-07:00",
@@ -1262,45 +1300,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
-      "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
-      "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-29T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
-          "width": 304,
-          "height": 430,
-          "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

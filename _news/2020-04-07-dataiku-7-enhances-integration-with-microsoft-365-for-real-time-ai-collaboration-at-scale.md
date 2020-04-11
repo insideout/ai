@@ -3,7 +3,7 @@ category: news
 title: "Dataiku 7 Enhances Integration With Microsoft 365 for Real-Time AI Collaboration at Scale"
 excerpt: "Released on March 18 and available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis, and row-level explainability to promote white-box AI. “Dataiku understands ..."
 publishedDateTime: 2020-04-07T13:18:00Z
-webUrl: "https://www.businesswire.com/news/home/20200407005228/en/"
+webUrl: "https://www.businesswire.com/news/home/20200407005228/en/Dataiku-7-Enhances-Integration-Microsoft-365-Real-Time"
 type: article
 quality: 45
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: computerweekly.com
     quality: 24
 
-secured: "trUD3Rd9DIeFw0f9UvzkMzkpQkyHgxeq+a8Cay/xYyPtoLEKpxyFO89v6NpGJ3peg8YDo8KOcCyPYPdu82GKQx2oPZh6fNjvA7lz2Vn7JEyJXFoF1VL7aYSVgiCZAqHSa6k7Rq2Q5rI8WR2yreWebcfVMAvn4utuXfCVFW0/4AvmouG+YTLKcVQPw/gKndA5DByx4Zp/z69inPZoMi/pHQFOnXD14KjdHA8VGdJtafdly2BAjjstXgdQZ4Y4fGJDPEAGZgzt7MBvhuVKie3zbxSJGrjbiA8zGyYpaIi7BzdXtsVkShYlEk2wBb20xg/F;Iv6IgDNIkm8gcPfNs2nrZQ=="
+secured: "idnGepOyOy13Ho83NqIf9vLogLCXlaQNKumhc252rr22buWE166eHskthf0IkpSunz5wbNPk5T6AeClNDynnQOeOuUklMCqdOgInR9G3mlEP2YEDJk/TpEa4pGvpWJzk8jM3R9xtYgrrR1bh5ZyZH0IRI9pNE1WcCh1Z3AtSTCoTkla8plSE+ZzWq3kwoQmq8ZphuefG3bhXAqq7e1uZFK1K+hbf+3lJLeBp+2NQBvZBn0w83rqT3xqhkPifQ8ec8EfBpzfg16sFArbN3LbuH7oLvPq2UrTvLFJ9E7oSPJIvaRq36AmHgE/b/nxCYQf9;Z+S+4tsujd848Y5MzkoH6w=="
 ---
 

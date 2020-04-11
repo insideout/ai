@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-19-north-american-deep-learning-chipset-market-by-type-technology-end-user-and-country-forecast-to-2025.md",
+      "title": "North American Deep Learning Chipset Market by Type, Technology, End-user and Country - Forecast to 2025",
+      "excerpt": "The \"North America Deep Learning Chipset Market, by Type, by Technology, by End User, by Country, Industry Analysis",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15605457/north-american-deep-learning-chipset-market-by-type-technology-end-user-and-country-forecast-to-20",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T05:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-artificial-intelligence-advanced-machine-learning-market-growth-and-key-industry-players-2020-analysis-and-forecasts-to-2026.md",
       "title": "Artificial Intelligence & Advanced Machine Learning Market Growth and key Industry Players 2020 Analysis and Forecasts to 2026",
       "excerpt": "According to BlueWeave Consulting, The global Artificial Intelligence market & Advanced Machine has reached USD 29.8 Billion in 2019 and projected to reach USD 281.24 Billion by 2026 and anticipated to grow with CAGR of 37.",
@@ -1106,51 +1135,6 @@
           "width": 1080,
           "height": 720,
           "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill.md",
-      "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
-      "excerpt": "Scientists at the Massachusetts Institute of Technology and Harvard last month described in the scholarly journal Cell how they used a deep learning neural network to identify a molecular compound that's different from most antibiotics. They showed that when the compound is injected in mice, it fights bacteria that no existing drug can eliminate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mits-deep-learning-found-an-antibiotic-for-a-germ-nothing-else-could-kill/",
-      "publishedDateTime": "2020-03-13T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/03/13/b98e832c-157c-4938-8c1e-6b692877d498/mit-chemprop-building-representations.png",
-          "width": 1766,
-          "height": 1207,
-          "title": "MIT’s deep learning found an antibiotic for a germ nothing else could kill",
           "attribution": null
         }
       ],

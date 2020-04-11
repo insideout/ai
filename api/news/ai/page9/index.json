@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-03-31-niantic-buys-a-3d-mapping-startup-to-enable-planet-scale-ar.md",
+      "title": "Niantic buys a 3D mapping startup to enable 'planet-scale' AR",
+      "excerpt": "6D.ai could lead to advanced 'Pokémon Go' and 'Harry Potter' experiences. As much as Niantic might be focused on making its location-based games more playable at home, it's also thinking about its future. The developer has bought 3D mapping startup 6D.ai to help it develop \"planet-scale\" augmented reality. The relative newcomer's work on 3D ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-31-niantic-buys-6dai-for-planet-scale-ar.html",
+      "publishedDateTime": "2020-03-31T12:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D3036%252C2024%252C0%252C437%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-03%252Fd04640c0-737e-11ea-9dff-176976237dce%26client%3Da1acac3e1b3290917d92%26signature%3D05f6e5bee53c87fa7782f5bd30e54e16214bca60&client=amp-blogside-v2&signature=1130282829e8ab78a03f3096b28b109465fbdf37",
+          "width": 600,
+          "height": 350,
+          "title": "Niantic buys a 3D mapping startup to enable 'planet-scale' AR",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-mit-csails-commplan-ai-helps-robots-efficiently-collaborate-with-humans.md",
       "title": "MIT CSAIL’s CommPlan AI helps robots efficiently collaborate with humans",
       "excerpt": "In a new study, researchers at MIT’s Computer Science and Artificial Intelligence Lab propose a framework called CommPlan, which gives robots that work alongside humans principles for “good etiquette” and leave it to the robots to make decisions that let them finish tasks efficiently. They claim it’s a superior approach to handcrafted ...",
@@ -393,11 +437,11 @@
     {
       "path": "_news/2020-03-31-natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027.md",
       "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. Mar 31, 2020 (Global QYResearch via COMTEX) -- Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published ...",
+      "excerpt": "Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published report global Natural Language Processing (NLP) market provides a holistic overview of the current market covering the current trends.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31?mod=mw_quote_news",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-31T06:25:00-07:00",
@@ -1265,51 +1309,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-samsung-says-chip-factory-worker-tests-positive-for-virus-output-not-affected.md",
-      "title": "Samsung says chip factory worker tests positive for virus, output not affected",
-      "excerpt": "Chip factories have been largely unaffected by the pandemic which started in China ... The Korea Centers for Disease Control and Prevention reported 78 new cases on Monday, at least 13 of whom were people who arrived from abroad. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$ ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
-      "publishedDateTime": "2020-03-30T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/31/6e4808c2-72f7-11ea-ab8f-988daf8efd6f_image_hires_103108.JPG?itok=6oDRT2cN&v=1585621874",
-          "width": 1200,
-          "height": 630,
-          "title": "Samsung says chip factory worker tests positive for virus, output not affected",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

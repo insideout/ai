@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-10-ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world.md",
+      "title": "AI Weekly: The sudden speed of technological change in a coronavirus world",
+      "excerpt": "There are pitches about robots and drones and autonomous vehicles that help in hospitals and deliver supplies. We’re being told about all sorts of AI tools that allege to help medical providers diagnose COVID-19 in patients. Pitches about just about any company, product, or service that could conceivably be related to remote work has come our ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/amp/",
+      "publishedDateTime": "2020-04-10T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/covid-19-map-1.png?fit=1400%2C721&strip=all",
+          "width": 1400,
+          "height": 721,
+          "title": "AI Weekly: The sudden speed of technological change in a coronavirus world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
       "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
       "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
@@ -88,6 +132,44 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1008,87 +1090,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-may-become-heroes-in-war-on-coronavirus.md",
-      "title": "Robots may become heroes in war on coronavirus",
-      "excerpt": "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/",
-      "ampWebUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/",
-      "publishedDateTime": "2020-04-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Raw Story",
-        "domain": "rawstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rawstory.com/wp-content/uploads/2020/04/Coronavirus-Robot-with-Hospital-Staff.jpeg",
-          "width": 640,
-          "height": 379,
-          "title": "Robots may become heroes in war on coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-accelerating-digital-transformation-in-manufacturing.md",
-      "title": "Accelerating digital transformation in manufacturing",
-      "excerpt": "Digital transformation in manufacturing has the potential to increase annual global economic value by $4.5 trillion according to the IDC MarketScape.i With so much upside, manufacturers are looking at how technologies like IoT, machine learning, and artificial intelligence (AI) can be used to optimize",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/accelerating-digital-transformation-in-manufacturing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T02:00:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d3ef2473-cd90-46d6-a056-b82f9ab7f3c2.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "Accelerating digital transformation in manufacturing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
       ]
     }
   ],

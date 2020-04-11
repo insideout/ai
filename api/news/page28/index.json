@@ -2,6 +2,43 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
+      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
+      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
+      "publishedDateTime": "2020-03-17T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
+          "width": 940,
+          "height": 627,
+          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-moodys-analytics-vince-il-regtech-innovation-award-ai-fintech-breakthrough-awards.md",
       "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
       "excerpt": "LONDRA--(BUSINESS WIRE)--Moody’s Analytics, fornitore globale di intelligence finanziaria, ha vinto il premio RegTech Innovation Award ai 2020 FinTech Breakthrough Awards. Il riconoscimento ha premiato le nostre soluzioni tecnologiche normative software-as-a-service (SaaS). L'anno scorso abbiamo vinto un riconoscimento per Best Wealth ...",
@@ -854,52 +891,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025.md",
-      "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
-      "excerpt": "Market Overview The Global Edge AI Hardware Market is anticipated to witness a CAGR of 20.3% over the forecast period 2020 - 2025. During 2018 it is estimated that about 212 million edge AI hardware was shipped and the figure is expected to reach a billion units by 2020.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-global-in-depth-analysis-key-insights-business-overview-and-scope-till-2025-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Edge AI Hardware Market Global In-depth analysis, Key Insights, Business Overview and Scope till 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

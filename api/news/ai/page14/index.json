@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-25-ibms-ai-generates-videos-of-chairs-golfers-and-more.md",
+      "title": "IBM’s AI generates videos of chairs, golfers, and more",
+      "excerpt": "While this in and of itself isn’t novel — it’s an acute area of interest for Alphabet’s DeepMind and others — the researchers say the approach produces superior quality videos compared with existing methods. If the claim holds water, their system could be used to synthesize videos on which other AI systems train, supplementing real ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/25/ibms-ai-generates-videos-of-chairs-golfers-and-more/amp/",
+      "publishedDateTime": "2020-03-25T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM’s AI generates videos of chairs, golfers, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
       "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
       "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
@@ -1165,43 +1210,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-covid-19-means-not-worrying-about-enterprise-ai-taking-jobs-for-now.md",
-      "title": "COVID-19 Means Not Worrying About Enterprise AI Taking Jobs — for Now",
-      "excerpt": "Talk about artificial intelligence has been about robots taking over jobs — until the last few weeks ... We need to understand and invest in the prerequisites that form the foundation of valuable AI. Once done we will start listening to and understanding risk models better – preparing rather than locking away and hoping for the best.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://morningconsult.com/opinions/covid-19-means-not-worrying-about-enterprise-ai-taking-jobs-for-now/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morning Consult",
-        "domain": "morningconsult.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://morningconsult.com/wp-content/uploads/2017/10/MorningConsult-fb-twitter-meta.png",
-          "width": 1200,
-          "height": 600,
-          "title": "COVID-19 Means Not Worrying About Enterprise AI Taking Jobs — for Now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

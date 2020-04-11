@@ -2,6 +2,50 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-04-instagram-reportedly-generated-20-billion-in-ad-revenue-in-2019-even-more-than-youtube.md",
+      "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
+      "excerpt": "We finally know just how crucial Instagram is to the future of Facebook's business.",
+      "heat": 163,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/instagram-20-billion-ad-revenue-2019-report-2020-2?amp",
+      "publishedDateTime": "2020-02-04T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5bb331f7ae84ee103c1c2e22?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Instagram reportedly generated $20 billion in ad revenue in 2019 — even more than YouTube",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
       "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
       "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
@@ -1232,50 +1276,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-blackpool-pothole-fixing-artificial-intelligence-saves-1m.md",
-      "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-      "excerpt": "An innovative pilot scheme using artificial intelligence to assess potholes has saved more than £1m of taxpayers' cash, a council has said. Blackpool Council said it was the first local authority to use AI technology to detect damage to roads. It uses satellite images to inspect roads in seconds rather than sending engineers, and was trialled ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/uk-england-lancashire-51356855",
-      "ampWebUrl": "https://www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/uk-england-lancashire-51356855",
-      "publishedDateTime": "2020-02-03T16:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/2BF7/production/_110755211_pothole.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Blackpool pothole-fixing artificial intelligence 'saves £1m'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

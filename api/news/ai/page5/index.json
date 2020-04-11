@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-05-self-supervised-learning-is-the-future-of-ai.md",
+      "title": "Self-supervised learning is the future of AI",
+      "excerpt": "Despite the huge contributions of deep learning to the field of artificial intelligence, there’s something very wrong with it: It requires huge amounts of data. This is one thing that both the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
+      "publishedDateTime": "2020-04-04T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/4-human-caused-biases-we-need-to-fix-for-machine-learning1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Self-supervised learning is the future of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
       "title": "Artificial Or Human Intelligence? Companies Faking AI",
       "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
@@ -1238,43 +1283,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-azure-cognitive-services-get-all-new-natural-text-to-speech-voices.md",
-      "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
-      "excerpt": "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/",
-      "ampWebUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
-      "publishedDateTime": "2020-04-03T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

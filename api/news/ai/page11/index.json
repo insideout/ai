@@ -2,13 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-30-chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud-as-china-market-heats-up.md",
+      "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
+      "excerpt": "JD.com, a major Chinese e-commerce company, is looking to become the technology platform of choice for U.S. customers in a cloud computing market dominated by Alibaba.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
+      "publishedDateTime": "2020-03-30T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105385658-1533776080662gettyimages-961627232.jpeg?v=1585531883",
+          "width": 3629,
+          "height": 2202,
+          "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge.md",
       "title": "Azure Stack Edge Gets NVIDIA GPU To Accelerate AI At The Edge",
-      "excerpt": "Within the Azure Stack portfolio, Azure Stack Edge is uniquely positioned for its form factor and the ability to run ML and AI models. The hardware supports FPGA and GPU for hardware-accelerated machine learning inference. It can run applications on virtual machines, containers, or Kubernetes clusters. It also doubles up as a cloud-storage ...",
+      "excerpt": "The partnership between NVIDIA and Microsoft creates new opportunities for developers and businesses to develop intelligent solutions for the edge.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/?ss=ai",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/",
       "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/03/30/azure-stack-edge-gets-nvidia-gpu-to-accelerate-ai-at-the-edge/amp/",
       "publishedDateTime": "2020-03-29T23:17:00-07:00",
@@ -43,8 +88,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {
@@ -1266,43 +1310,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-microsoft-sells-stake-in-israeli-facial-recognition-company.md",
-      "title": "Microsoft sells stake in Israeli facial recognition company",
-      "excerpt": "Microsoft's venture capital arm, M12, invested in AnyVision as part of a $74 million funding round in June 2019.",
-      "heat": 179,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-sells-stake-israeli-facial-recognition-company-n1170781",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1170781",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1170781",
-      "publishedDateTime": "2020-03-27T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2020_13/3286861/200327-microsoft-logo-ew-448p_28e8f3a238f1b48562b85fc79cc6e752.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": "Microsoft sells stake in Israeli facial recognition company",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

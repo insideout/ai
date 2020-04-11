@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-31-samsung-says-chip-factory-worker-tests-positive-for-virus-output-not-affected.md",
+      "title": "Samsung says chip factory worker tests positive for virus, output not affected",
+      "excerpt": "Chip factories have been largely unaffected by the pandemic which started in China ... The Korea Centers for Disease Control and Prevention reported 78 new cases on Monday, at least 13 of whom were people who arrived from abroad. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$ ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "publishedDateTime": "2020-03-30T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/31/6e4808c2-72f7-11ea-ab8f-988daf8efd6f_image_hires_103108.JPG?itok=6oDRT2cN&v=1585621874",
+          "width": 1200,
+          "height": 630,
+          "title": "Samsung says chip factory worker tests positive for virus, output not affected",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-ai-in-fashion-market-next-big-thing-major-giants-microsoft-ibm-google-aws-sap.md",
       "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
       "excerpt": "Mar 30, 2020 (AB Digital via COMTEX) -- Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF MI evaluating the market ... in the study are Microsoft (US), IBM (US), Google (US), AWS (US), SAP (Germany), Facebook (US), Adobe (US), Oracle (US), Vue.ai (US), Lily AI (US), Syte (Israel), mode.ai ...",
@@ -1264,51 +1309,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud-as-china-market-heats-up.md",
-      "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
-      "excerpt": "JD.com, a major Chinese e-commerce company, is looking to become the technology platform of choice for U.S. customers in a cloud computing market dominated by Alibaba.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/03/30/chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud.html",
-      "publishedDateTime": "2020-03-30T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105385658-1533776080662gettyimages-961627232.jpeg?v=1585531883",
-          "width": 3629,
-          "height": 2202,
-          "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-10-ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world.md",
+      "title": "AI Weekly: The sudden speed of technological change in a coronavirus world",
+      "excerpt": "There are pitches about robots and drones and autonomous vehicles that help in hospitals and deliver supplies. We’re being told about all sorts of AI tools that allege to help medical providers diagnose COVID-19 in patients. Pitches about just about any company, product, or service that could conceivably be related to remote work has come our ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/ai-weekly-the-sudden-speed-of-technological-change-in-a-coronavirus-world/amp/",
+      "publishedDateTime": "2020-04-10T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/covid-19-map-1.png?fit=1400%2C721&strip=all",
+          "width": 1400,
+          "height": 721,
+          "title": "AI Weekly: The sudden speed of technological change in a coronavirus world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
       "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
       "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
@@ -88,6 +132,44 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1222,96 +1304,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-startup-stimulus-how-logjams-and-ethics-are-impacting-federal-loans-for-tech-companies.md",
-      "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
-      "excerpt": "Several startup founders attributed their experience, good or bad, to the bank facilitating the loan. Dan Wachtler, CEO of an artificial intelligence upstart called Darklight, immediately recognized that the type of bank he chose would impact his likelihood of success. Wachtler’s background working with big banks as clients informed his decision.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/",
-      "ampWebUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
-      "publishedDateTime": "2020-04-08T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/20190209_145224-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-zoom-hires-ex-facebook-security-chief-alex-stamos-as-google-bans-desktop-app.md",
-      "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
-      "excerpt": "Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes exclusive access to webinars to interact with C-level executives from ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
-      "publishedDateTime": "2020-04-08T18:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/09/f2f3e990-7a01-11ea-9b24-e7152d1bf921_image_hires_093548.jpg?itok=LcKuL49k&v=1586396156",
-          "width": 1200,
-          "height": 630,
-          "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

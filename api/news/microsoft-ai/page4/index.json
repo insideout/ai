@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-10-helping-scientists-protect-beluga-whales-with-deep-learning.md",
+      "title": "Helping Scientists Protect Beluga Whales with Deep Learning",
+      "excerpt": "All models were trained in Keras (with the TensorFlow backend) on an Azure Deep Learning Virtual Machine. With a default neutral threshold score of 0.5 used for classification, the results show ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/microsoftazure/helping-scientists-protect-beluga-whales-with-deep-learning-da897e78bbb9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T06:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/717/1*qxsAxEBWNmO76QO9bY7hxw.png",
+          "width": 717,
+          "height": 873,
+          "title": "Helping Scientists Protect Beluga Whales with Deep Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-machine-learning-could-be-canadas-edge-in-the-global-quantum-computing-arms-race.md",
       "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
       "excerpt": "Her work applies machine learning to quantum physics problems ... Recently, 1QBit was listed as Microsoft’s only software partner on Azure Quantum, which aims to bring its cloud computing software to quantum computers and make them mainstream. “It’s about getting the whole ecosystem up and standing and feeding into each other ...",
@@ -1210,51 +1255,6 @@
         "AI",
         "Microsoft AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-microsoft-azure-sphere-launches-in-general-availability.md",
-      "title": "Microsoft Azure Sphere launches in general availability",
-      "excerpt": "As for brownfield, it calls for an Azure Sphere “guardian” device — the bulk of which are produced by Avnet and AI-Link — to connect existing hardware to the internet. Azure Sphere hardware is available in several configurations, including Wi-Fi modules, development kits and dev boards (from partners like Seeed Studios and USI), and the ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/24/microsoft-azure-sphere-launches-in-general-availability/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft Azure Sphere launches in general availability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

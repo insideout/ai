@@ -1,9 +1,9 @@
 ---
 category: news
 title: "The data center market in Southeast Asia is expected to grow at a CAGR of over 6% during the period 2019-2025"
-excerpt: "AWS, and Alibaba to open cloud regions. The adoption of cloud-based services will be a key driver for the market in the next few years. Increasing internet penetration is likely to aid the use of smart devices in this region. The impact of big data, IoT, artificial intelligence, and virtual reality will have a major impact on market growth in ..."
+excerpt: "NEW YORK, /PRNewswire/ --COVID-19 is going to affect the data center market in Southeast Asia. A detailed analysis is included in the report. Read the full report:  The data center market in Southeast Asia is expected to grow at a CAGR of over 6% during the period 2019–2025."
 publishedDateTime: 2020-04-07T13:40:00Z
-webUrl: "https://www.marketwatch.com/press-release/the-data-center-market-in-southeast-asia-is-expected-to-grow-at-a-cagr-of-over-6-during-the-period-2019-2025-2020-04-07?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/the-data-center-market-in-southeast-asia-is-expected-to-grow-at-a-cagr-of-over-6-during-the-period-2019-2025-2020-04-07"
 type: article
 quality: 35
 heat: 35
@@ -27,6 +27,6 @@ images:
     height: 630
     title: "The data center market in Southeast Asia is expected to grow at a CAGR of over 6% during the period 2019-2025"
 
-secured: "I5RS12D5ge0ZPzlwQOFlyrQuO8wD4TpkJBk0eGn6uyI59DkyDyZdnqYerKW2FA1HQWB5JjfEQmYHZ32OaeD/pCDDb1C7aoBi2c6rcPaZBwoRaLHrtWtbude1EuKBrMpyMkqhr5phOcfFbTY7592I8zdBqqHmPLMJYzYH+3bVZhHcjxAGxf16wX9dGM6TXEJoURis6vW1683VKz1OtKilQXYrDKuDRt/Zzs0/cmjs393azPjFopzmFSRrIbT5PdDF7I5IyW9DDz8h4jk+k6bfQ8gRX4JznoZDqnO4aWDF73Z8Jn32Z/UnTBEazf6luBlx;iVxHhU6Lt/um61h1XXq6sg=="
+secured: "rSXV7h9WR6uGHdXjA406uBkRmDkrSSeeN5pESDAnZc26LJQrjkysYf1iePbMQ/20fGB29uL+ySaSf5jatvYbtstnWv2w/qfUIIogEAjV24gZ0FNoH8XQdFX80IKFKml6Rtz6FPJujOMw3jEXmg2ghTlDSO2MiIFy/IyFkfqiP5a9D6VQnWnJSAxsLYpktUjzFTYMDttJ9KktWHM1q9l8Q4QEtto/UoD8Ud/ye5qX16w/JjROro0SkZNEsHzCv2HsH6GlLNmweKy6ZqJYISRk6F8rl+ffnjAf64gWyBG3Tj8RtKouPc5dlCF6R0fHuc3z;6Bf+a4ykvzcGYhx4zKByUw=="
 ---
 

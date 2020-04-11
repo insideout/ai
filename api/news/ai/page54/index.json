@@ -2,6 +2,52 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-10-top-5-companies-using-machine-learning-in-2020.md",
+      "title": "Top 5 companies using Machine Learning in 2020",
+      "excerpt": "Nowadays small startups are more innovative and dynamic than big companies and established in market leaders. Machine learning is trending and more effective technology so every industry are started to use this technology. It’s not same for all the cases since the making of advanced products and services is often very expensive, few companies ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@sushmithagowda216/top-5-companies-using-machine-learning-in-2020-cb5558468da9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T10:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/800/1*IVYvNXzk1XVr7XM9Hu9X-A.png",
+          "width": 800,
+          "height": 445,
+          "title": "Top 5 companies using Machine Learning in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-deepmind-trains-robots-to-insert-usb-keys-and-stack-colored-blocks.md",
       "title": "DeepMind trains robots to insert USB keys and stack colored blocks",
       "excerpt": "Robots perform better at a range of tasks when they draw on a growing body of experience. That’s the assertion of a team of researchers hailing from DeepMind, who in a preprint paper propose a technique called reward sketching. They claim it’s an effective way of eliciting human preferences to learn a reward function — a function ...",
@@ -1250,51 +1296,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-deep-learning-has-limits-but-its-commercial-impact-has-just-begun.md",
-      "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-      "excerpt": "There has been increased hand-wringing across the AI community in recent months about the limitations of deep learning. Even deep learning's staunchest defenders, Bengio included, are beginning to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/02/09/deep-learning-has-limits-but-its-commercial-impact-has-just-begun/amp/",
-      "publishedDateTime": "2020-02-09T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e40aef58b6cf300071e457e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Deep Learning Has Limits. But Its Commercial Impact Has Just Begun.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

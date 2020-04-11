@@ -2,6 +2,35 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-01-viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care.md",
+      "title": "ViewRay and VieCure Announce Strategic Collaboration to Accelerate Adoption of Personalized Cancer Care",
+      "excerpt": "PRNewswire/ -- (Nasdaq: VRAY) announced today a strategic collaboration with VieCure, an artificial intelligence (AI) informatics company with a leading point-of-care clinical decision support",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care/article_f9a5bfb7-0282-532b-ae64-06fe7b4ce58b.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
       "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
       "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
@@ -1068,46 +1097,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
-      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
-      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "publishedDateTime": "2020-03-31T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "TensorFlow",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

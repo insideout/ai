@@ -2,6 +2,43 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-03-18-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications.md",
+      "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
+      "excerpt": "The fanless embedded system employs an NVIDIA Jetson TX2 module which has a 64-bit ARM A57 processor; NVIDIA Pascal GPU with 256 CUDA cores; and 8 GB of 128-bit LPDDR4 memory ... with the NVIDIA Jetson platform and minimize what they need to do to develop AI-related applications.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.automationworld.com/products/product/21121944/axiomtek-artificial-intelligence-embedded-system-for-edge-ai-computing-and-deep-learning-applications",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation World",
+        "domain": "automationworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/2003np_axiomtek1.5e6bba9286ba2.png?auto=format&fit=max&w=1200",
+          "width": 574,
+          "height": 549,
+          "title": "Artificial Intelligence Embedded System for Edge AI Computing and Deep Learning Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-taking-inventory-of-ai-within-financial-institutions-and-fintech.md",
       "title": "Taking Inventory of AI within Financial Institutions and Fintech",
       "excerpt": "This article describes most of the AI activity occurring within financial institutions and fintech suppliers then compares and contrasts the two. It also identifies the challenges associated with deploying AI: “Financial services were one of the first sectors to understand the promise of the Big Data revolution, and the wave of new technology ...",
@@ -901,51 +938,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
-      "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-      "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/k7ekmv/facebook-facial-recognition-app",
-      "publishedDateTime": "2020-03-18T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e6fb419fce7bf009dc0fe79/lede/1584379361591-facebook-app-logo.jpeg?crop=1xw:0.8432xh;0xw,0xh",
-          "width": 2000,
-          "height": 1123,
-          "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

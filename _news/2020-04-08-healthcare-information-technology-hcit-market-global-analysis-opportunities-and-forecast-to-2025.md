@@ -29,14 +29,14 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Global Analysis, Opportunities And Forecast To 2025"
-    excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value, market share, upcoming trend, market size, growth rate, trends analysis, segment and predictions from 2020 to 2025. The Artificial Intelligence ..."
+    excerpt: "The report provides a holistic summary of basic, secondary and advanced information pertaining to the Artificial Intelligence (AI) in Healthcare Market Research Report 2020. Market status, market value,"
     publishedDateTime: 2020-04-08T09:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08?mod=mw_quote_news"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-global-analysis-opportunities-and-forecast-to-2025-2020-04-08"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
