@@ -531,13 +531,13 @@
     {
       "path": "_news/2020-03-31-washington-state-oks-facial-recognition-law-seen-as-national-model.md",
       "title": "Washington State OKs Facial Recognition Law Seen as National Model",
-      "excerpt": "Facial recognition is going mainstream. The technology is increasingly used by law-enforcement agencies and in schools, casinos and retail stores, spurring privacy concerns. In this episode of Moving Upstream, WSJ’s Jason Bellini tests out the technology at an elementary school in Seattle and visits a company that claims its algorithm can ...",
+      "excerpt": "Washington state adopted a Microsoft Corp.-backed law enshrining the most detailed regulations of facial recognition in the U.S.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897?mod=mw_quote_news",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
+      "webUrl": "https://www.wsj.com/articles/washington-state-oks-facial-recognition-law-seen-as-national-model-11585686897",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-31T13:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -555,15 +555,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-171101/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Washington State OKs Facial Recognition Law Seen as National Model",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-06T14:39:00Z
 webUrl: "https://www.hpcwire.com/off-the-wire/pny-boosts-ai-development-with-3s-2400-storage-server/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 405
     height: 228
     title: "PNY Boosts AI Development with 3S-2400 Storage Server"
-
-related:
-  - title: "PNY aims to boost AI development with new 3S-2400 storage server"
-    excerpt: "Organisations need substantial processing power and storage capacity to bring their AI projects to fruition. Using eight powerful GPUs, DGX-1 delivers four-times faster training speeds than other GPU-based systems, but it is not designed to store data. As organisations scale up their AI training projects, they will need to find supplementary ..."
-    publishedDateTime: 2020-04-06T10:11:00Z
-    webUrl: "https://www.pcr-online.biz/2020/04/06/pny-aims-to-boost-ai-development-with-new-3s-2400-storage-server/"
-    type: article
-    provider:
-      name: PCR
-      domain: pcr-online.biz
-    quality: 39
-    images:
-      - url: "https://www.pcr-online.biz/wp-content/uploads/PNY-3S-2400-AI-storage-server.jpg"
-        width: 660
-        height: 330
 
 secured: "v+qTkoI6HffMSV6f7DkgxVFO8OBGrtYR+DfhwTdLnvPLs99MJpoyOOGJXr3ZJC39XER5X8OUJvyg7RgFkUEo3afhZPmeCrEkQbjn7Tch8gmW3CWaU7DKSg5YFtzSZmWzMrVaz+eMbUuffRtaSr4eF6sKjnaftUT8s1nQeybGFaxhg12XyRXCCrh7CnCYZxYQYEM1iN2Li4d5pR1sl1ZMPTsMDy+6jtR7FOz7mv9S1W2LzbvqnUsxnEjRnqJn6RrCX7pFIYWr4Iu293xqyz1VQ+3tLC61i0g0VWrdIW4Gay8PGH9GC4imWF3BhJA9u/s04XRDC7yngtXp1nKzfVov+vZkpOH7fsLdOlxNy4/EbtKIuyl0x+gbaj9mr1gjFHiAEP6+8lLrWDOxreJyjGfZINNDpOZVTZ/uj5o/g+dzHOIzOCo0ws03EAjFxYUBpBSeyifQ8MpdMRMz0wPEo+OJv7bhaPOHCm1yz1FUCXNGiSI=;VAPeKL+GaYiIZbnahh4I+Q=="
 ---

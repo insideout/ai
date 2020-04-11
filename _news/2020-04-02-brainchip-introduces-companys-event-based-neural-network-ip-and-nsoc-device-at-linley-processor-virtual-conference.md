@@ -1,25 +1,19 @@
 ---
 category: news
-title: "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
-excerpt: "Mankar’s presentation will introduce product details of the AKD1000, BrainChip's first event-based neural-network IP and NSoC device ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. The solution is high ..."
+title: "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
+excerpt: "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of"
 publishedDateTime: 2020-04-02T12:05:00Z
-webUrl: "https://www.businesswire.com/news/home/20200402005259/en/BrainChip-Introduces-Company’s-Event-Based-Neural-Network-IP-NSoC"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200402005259/en/782937/23/BrainChip-Logo_tagline_full_color_header_retina.jpg"
-    width: 1200
-    height: 627
-    title: "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
-
-secured: "Evbm16KTmlT0aM14tUh2TNCmwQazEXLJO8alvHY9BuCyB6yAxwMlqatZIDlYmbYXXncMqjCzG0YdgG6LhFN4WMsTgkBjvSzPVAALge8LJLGgFIatGEYASe8IsRdQenwCV0BzouXelGT8x2njzAeQhzazjhDbt9091FpimYuTHDJaK/tde+47sXhPUBFRUerpdd6aDY/jxkuqJwlc3dHcp+S0YtRDe53ZS/aWpM6gdhD4iZCHjuMEapThBxIniOYrIX5S66zB0YKg1an7ds1mty0zbL1rKfXThWftxKwbfrSkEZFqFKYbsDv36Kf2RSOQ;6BBGuNpvTV9Y8hxoGZwa1w=="
+secured: "sFzo/42pvUSEQrtv9LhdkU5P+u1jy7Lfo17x+StFiFfH2GUqw8vzbckyeH7FWDToZ6tPstWgsAzsXAVWPNv8HAYPJ332ZHQFwBnFyojhZjaLN6ZN+XFKScGob6+aRUMyB+pmRb5bV3IIyL0wAHMkeZnS1bTX5nzY6ave/WbPAWkuAeFz2gyEI3cizGD4jvjZy3yqBTnJCLhYPJ39pJSDe49HHvxPnfk+PQdyHf92uZhIqanJXGuYyK6sQf5mLiQWlPb7PTsOGdzHs1bsicor1JUCzNVPmNWXKnPCVpvGlh8UMsQL5XG/+lEWhyqNaWVV;3cAklVrB9Ttbbfu60WOhLg=="
 ---
 
