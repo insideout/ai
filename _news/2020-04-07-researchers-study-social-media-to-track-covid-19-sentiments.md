@@ -25,21 +25,6 @@ images:
     height: 628
     title: "Researchers Study Social Media to Track COVID-19 Sentiments"
 
-related:
-  - title: "Researchers at Missouri S&T use social media to study COVID-19"
-    excerpt: "The researchers are designing machine learning and natural language processing techniques for the study. They say the project is distinctive in that it measures topics of concern, subjectivity, social distancing and public sentiment rather than predicting the spread of infection. “We can see how people are reacting to news and officials ..."
-    publishedDateTime: 2020-04-06T15:15:00Z
-    webUrl: "https://news.mst.edu/2020/04/researchers-at-missouri-st-use-social-media-to-study-covid-19/"
-    type: article
-    provider:
-      name: Missouri S&T News and Events
-      domain: mst.edu
-    quality: 24
-    images:
-      - url: "https://news.mst.edu/files/2020/04/COVID-map.png"
-        width: 1442
-        height: 865
-
 secured: "vWM7B3nfsIlkvHgOH7bjCXk17uq6Q1942b10Vh9amnAr4sLFP2TfULX6FFkjJz507oCuEo4KgI3cItJtkQ5/QOl0VPSJkheKaFEXlXo+F2rWlQZ5CRoNvSPseJrd1dxXJq+PgFvCCfmF/xPOkivzzIP/vTN01Wb5BnbGQLRDsYyQo+bM+34gFKPjJ1syz7+BIT1u1E0tZ1XY4KWpE2ubEmMyAPY3lGoteFidg7Gq/9hx6uQOH1dDKlgmIYt1GVBA2HSqeoKM9Csiv7x48ylQymbPNkASYV19PbYMLcCXpB4SaQARO75Rp/6Zll6/ChWc5zpdhbDBdbVRwCpMjQVYwzolFcHOiVkzxjNA+oa0mwXioYCPcfex9nJbrVjJLYHmKiXgkbueYE/LrvA/7Bc84Lt/wca+nk3x88HdTFlZJITVTS7Tu6+4LQVnEbXgZMogjLFPMLNjo+zJIfHmhJ5lA46mSE3vYAsumriie54My3M=;JhkQgPOnzjhx1VH+HzLjSw=="
 ---
 

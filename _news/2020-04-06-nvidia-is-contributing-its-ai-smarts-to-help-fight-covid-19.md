@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -28,21 +28,6 @@ images:
     width: 600
     height: 400
     title: "NVIDIA is contributing its AI smarts to help fight COVID-19"
-
-related:
-  - title: "NVIDIA Adds GPU and AI Expertise to COVID-19 HPC Consortium"
-    excerpt: "We’re honored to play a role in this effort.” NVIDIA will also contribute the packaging of software for relevant AI and life-sciences software applications through NVIDIA NGC, a hub for GPU-accelerated software. The COVID-19 research tools on NGC, all publicly available, are optimized for use on a broad range of GPU platforms, including ..."
-    publishedDateTime: 2020-04-06T15:38:00Z
-    webUrl: "https://insidehpc.com/2020/04/nvidia-adds-gpu-and-ai-expertise-to-covid-19-hpc-consortium/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 54
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/04/covid.jpg"
-        width: 1082
-        height: 1008
 
 secured: "Dj+nDYN/KIGwFqhZcbJArjXdkqfE/Xiv+GJtJpJszDiu4nO/VBh4Hw2hc9e+Tatq+4V9oR2T4B2TuoTUCn3h0RctNZ9x97UQiyNlYatNJO2I5ty2JhjaBOtw6IddeDTPIj0dzPPYmHIcCJG3ORSGxEFSmRqGdnCoW1HKd2GFPG1k3Xz8DnOqebCjLNeuKpRAhx7PFTFF1ogjl/xXyPic4CzE9AEzKDQZIVmY+FPXokGX9EujcstycbiKrcIqW1zo6vaV/NS4glf8ND9D9lSqgk7Kb3GIr0rNnpGHXo2faDGlZR9ZXass30aY6MYeAdIPoqsgpEL9QmKnM6eNywgOFWK0KlKBm1+byUFSyXPbTS+9bw1bxzNS6VrDKkrxQ6j8kiM+VHrvQy4W3gWtEmbyxNvPHgkZsAYT3atYSLS3COAPjHDJCQoaSwzu3tD/NW27TROX7fFNawjm2p44yupMp/07HcZ8cUm1C64aFHVYsOU=;gl+M1o0mDMfvVclrGVITgQ=="
 ---

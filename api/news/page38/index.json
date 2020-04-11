@@ -2,6 +2,133 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-11-ibm-debater-ai-tech-now-is-a-service-any-customer-can-use.md",
+      "title": "IBM Debater AI tech now is a service any customer can use",
+      "excerpt": "The AI technology can spot trends in mountains of data like tweets, blog posts and podcasts. In 2018, IBM debuted technology called IBM Debater that used artificial intelligence technology to read lots of documents and take on a human in a competitive debate about issues like whether we should subsidize preschools.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ibm-debater-ai-tech-now-is-a-service-any-customer-can-use/",
+      "publishedDateTime": "2020-03-10T21:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/hEhpukwOIHukWLUhEshLD-AKc68=/756x567/2019/02/12/3d6faefe-fd11-4541-9d75-66f2aa327f37/20190211-ibm-debater-monolith-01.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "IBM Debater AI tech now is a service any customer can use",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology.md",
+      "title": "IBM plans to inject Watson platform with its Project Debater NLP technology",
+      "excerpt": "Read More IBM said it is adding more conversational human language understanding to its Watson platform via its Project Debater technology. Big Blue's upgrades to Watson's natural language processing (NLP) capabilities come via an effort called Project Debater, which aimed to show that artificial intelligence could debate humans on complex topics.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-plans-to-inject-watson-platform-with-its-project-debater-nlp-technology/",
+      "publishedDateTime": "2020-03-10T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/17/a98a3996-b950-41e0-a361-48addb5203ee/thumbnail/1200x675/0f782ca36aa0175b6b0ddc6197f4788d/istock-1203187628.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM plans to inject Watson platform with its Project Debater NLP technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.md",
+      "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
+      "excerpt": "Fichte is using AI tools offered in Microsoft's Office and Azure. \"Outlook Insights is a useful tool to remind you about potential tasks and to follow up on them,\" notes Peet. In addition, the firm has started investigating Azure AI capabilities for more complex tasks: invoice analysis and automated processing. Not all experiments work out.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.html",
+      "ampWebUrl": "https://www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3531310/heres-how-this-uae-law-firm-is-tapping-ai-cloud-to-stay-competitive.amp.html",
+      "publishedDateTime": "2020-03-10T20:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/01/rules_rulebook_law_compliance_regulation_by-baloon111_getty-100786795-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Here's how this UAE law firm is tapping AI, cloud to stay competitive",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
       "title": "ForwardX debuts computer vision AMR fleet",
       "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
@@ -868,117 +995,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too.md",
-      "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
-      "excerpt": "The Pope is concerned that AI might be used in ways that undercut humanity rather than AI serving as a tool to enable and embellish humanity. Per the Vatican, a newly released document entitled “Rome Call For AI Ethics” spells out what direction AI ought to go as a technology that preferably is aimed for the betterment of society instead of the detriment or the possible demise of society.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/10/pope-francis-offers-rome-call-for-ai-ethics-to-step-up-ai-wokefulness-which-is-a-wake-up-call-for-ai-self-driving-cars-too/amp/",
-      "publishedDateTime": "2020-03-10T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F2da7658e8b794f2ca854b4e48f09ad08%2F0x0.jpg%3FcropX1%3D210%26cropX2%3D3583%26cropY1%3D0%26cropY2%3D2531",
-          "width": 1200,
-          "height": 901,
-          "title": "Pope Francis Offers ‘Rome Call For AI Ethics’ To Step-Up AI Wokefulness, Which Is A Wake-Up Call For AI Self-Driving Cars Too",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-artificial-intelligence-in-education-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis-by-2025.md",
-      "title": "Artificial Intelligence in Education Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis by 2025",
-      "excerpt": "New York March 10 2020 The global Artificial Intelligence in Education market report scope includes detailed study covering underlying factors influencing the industry trends The global Artificial Intelligence in Education market is expected to exceed more than US 4 Billion",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960878/artificial-intelligence-in-education-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-nec-x-and-vaco-partner-on-ai-machine-learning-solution.md",
-      "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
-      "excerpt": "This AI platform runs VACO’s proven Cognitive Computing Framework and can be scaled with the exact number of vector engine (VE) cards needed to process large data sets in real time, for use in machine learning (ML) applications such as PII redaction and GDPR compliance for banking, financial services and insurance (BFSI), as well as several ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hpcwire.com/off-the-wire/nec-x-and-vaco-partner-on-ai-machine-learning-solution/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HPCwire",
-        "domain": "hpcwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/necx-vaco-press-image-final-300x225.png",
-          "width": 300,
-          "height": 225,
-          "title": "NEC X and VACO Partner on AI, Machine Learning Solution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

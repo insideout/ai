@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Financial Analytics Market Trends and Growth Opportunities, 2020-2025 - ResearchAndMarkets.com"
-excerpt: "For more information about this report visit https://www.researchandmarkets.com/r/7loj62"
+excerpt: "Furthermore, the integration of machine learning (ML) and artificial intelligence (AI) with FA is also providing a boost to the market growth, as they offer enhanced accuracy and resilience of financial decisions ... Based on the component, services currently hold the majority of the market share. Based on the vertical, BFSI currently holds ..."
 publishedDateTime: 2020-04-07T16:08:00Z
-webUrl: "https://www.galvnews.com/news_ap/business/article_0fc13b0d-f912-5896-9504-079f5999b750.html"
+webUrl: "https://www.businesswire.com/news/home/20200407005684/en/Financial-Analytics-Market-Trends-Growth-Opportunities-2020-2025"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/2e61b71c-1cd3-11e7-bf48-cf98bcac2fb6.png?resize=600%2C600"
-    width: 600
-    height: 600
+  - url: "https://mms.businesswire.com/media/20200407005684/en/371054/23/ResearchAndMarkets_800px.jpg"
+    width: 1200
+    height: 627
     title: "Financial Analytics Market Trends and Growth Opportunities, 2020-2025 - ResearchAndMarkets.com"
 
 related:
@@ -51,6 +51,6 @@ related:
         width: 1200
         height: 627
 
-secured: "vVcPARGfFdATme7OnHerD2hF3nrcOUjnb7enS4dRoqV1OU/XfMofz/+bvsjqVs38riiNNm36rUAd4Gh01ULpmWkL93UE5R74Onbx4SfcE6NnBnlCt8pAyznhEeYcYwdPktq5E4JDPWwLAF0cB8sXy9FFJEYUGgT3VvYo9nI+hpcFkS5NJ0g0rmrL7fy8yr8jS5rpZue4imitcZ0cwGMomqF8+IRybJCWwGCeUpGl8GSZKyMkoALJGFSZEbQpjo5/5BtxSlh5S1AzCbS7vJkWNdV+kt6hGERtjLoCB0S7VJ7Y88V6ZS8PxAXevYpaerIp;d3De1fEG3G9+C4kTNb7zjw=="
+secured: "g1MnPoD7yxy8zjwZUT4Lmx00POG09Lcs1saDUHlipqda7QsGfqG1o2oFC+eoS+uRKRZ5arlHNyh1yDQZtZiva95Mp9NfOPL42IKaPCANRSlUq8L2KP/xyWi3iSMx6+1mZM/+Pm5zA6bFaIuc6jTzWVh7mPus37ULU4NGc6yrmnc59kVX3YTOX0OD+79jI5ZF3biAd80ZogvKR7yRlq9Ut9dF+Df/c8GoQHcBXcMm7P8eGf00cH+oSUiX+/NJNlyifZNXxfhKe5+qSE5BP19W+wtyRzV1XvcnXVrPcj8M84YUFNSJt3nsI8Nh49RQtnPc;JvK2poMBCLnuTFI56mIMFQ=="
 ---
 

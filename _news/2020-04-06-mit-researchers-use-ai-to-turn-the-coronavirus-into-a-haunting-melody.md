@@ -8,8 +8,8 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-t
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: The Next Web
@@ -29,34 +29,19 @@ images:
     title: "MIT researchers use AI to turn the coronavirus into a haunting melody"
 
 related:
-  - title: "Microsoft’s AI recommends lockdown strategies to curb coronavirus"
-    excerpt: "A preprint paper coauthored by researchers at Microsoft, the Indian Institute of Technology, and TCS Research (the R&D division of Tata Consultancy Services) describes an AI framework designed to help cities and regions make policy decisions about lockdowns, closures, and physical distancing in response to COVID-19. They claim that because it ..."
-    publishedDateTime: 2020-04-06T15:15:00Z
-    webUrl: "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/"
-    ampWebUrl: "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/"
+  - title: "Supercomputing consortium adds members as number of coronavirus projects increases, too"
+    excerpt: "Packaging of software for artificial intelligence (AI) and life-sciences applications will be done using research tools in NVIDIA NGC, a hub for GPU-accelerated work. “The COVID-19 HPC Consortium is the Apollo Program of our time. Not a race to the moon, this is a race for humanity,” said Ian Buck, vice president of accelerated computing ..."
+    publishedDateTime: 2020-04-06T20:22:00Z
+    webUrl: "https://www.fedscoop.com/coronavirus-supercomputing-consortium-expands/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 16
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all"
-        width: 1200
-        height: 573
-  - title: "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot"
-    excerpt: "The University of Sydney says it has used Microsoft cognitive services to build an AI-infused bot in “double-quick time” that responds to student enquiries about COVID-19 and provides instant answers to many of their questions. According to Microsoft, the bot has been tackling between 200 and 400 individual student inquiries daily ..."
-    publishedDateTime: 2020-04-07T01:18:00Z
-    webUrl: "https://www.itwire.com/health/microsoft,-university-of-sydney-collaborate-to-build-ai-infused-corona-chatbot.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 50
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/d3fc9082cdb7c699769ec4932d2f1b6f_M.jpg"
-        width: 375
-        height: 250
+      - url: "https://www.fedscoop.com/wp-content/uploads/2020/04/GettyImages-521607192.jpg"
+        width: 2121
+        height: 1414
 
 secured: "/TnIEQK9vHHGb7RGzRgRXZQsdFJYBGjfBuVwDLdyiD7CJphCF0X2ad/kJ985/d9SpxsrPsiS4hZD7V3xvI+se6G+8MWlmSVduVsEmF09uw8s7+4TzT+I8HO0CvLTTGqE2q2zoXWCy9J92IpIiW/3tShcMniNVuJMoSVY7klyPsIGJWRoDLysDYP2GQjIjnckLvLbHVPD0KB1bzzIsyQAsPg3mvVBhDR1mA9TUGn+rP2BPP9cfpKC296EUAruP6XPRvQYtkDfUqbX6mKfk8TVOAgnHhgcjytN7RDo6sdRi/evleZC3E9mKHux234VsZ4gi+LdDVsrrNeiKd3V53ObhNDA146XimmBY77ztZPUah4xghC8aD/bVrS4z7J5YdRMfHaRVDsr0r8SJDOQdgNeYeKer7/UJbUKsRXQ0MlbAfRdye21JmlDzPPoNUCZSm0dJTT1NkipUEfTNUcwXFqJvV/RzT8pYmDIxlckxWhb10k=;eT8qlD+BVpJz8lwNYGEbnQ=="
 ---

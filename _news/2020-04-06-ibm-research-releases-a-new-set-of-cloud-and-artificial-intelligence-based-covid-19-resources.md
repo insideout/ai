@@ -8,8 +8,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ibm-research-release
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: TechRepublic
@@ -30,21 +30,19 @@ images:
     title: "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources"
 
 related:
-  - title: "IBM shares AI tools to better understand and treat COVID-19"
-    excerpt: "It’s hoping to help researchers and frontline medical professionals. IBM wants to help researchers better understand and treat COVID-19. To do so, it’s putting its AI to work. It has released a series of new tools to aggregate data, help researchers explore potential therapies, advance the study of newly sequenced SARS-CoV-2 genomes and ..."
-    publishedDateTime: 2020-04-06T16:36:00Z
-    webUrl: "https://www.engadget.com/ibm-coronavirus-ai-research-tools-162123059.html"
-    ampWebUrl: "https://www.engadget.com/amp/ibm-coronavirus-ai-research-tools-162123059.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ibm-coronavirus-ai-research-tools-162123059.html"
+  - title: "Brookhaven lab mobilizes resources in fight against COVID-19"
+    excerpt: "\"We're developing a 'natural language processing' program that will search through a library of all these papers to pull out the most relevant information based on a researcher's plain-language question.\" Using this system, scientists would be able to more easily find and track the latest data on which drugs are in clinical trials, for example ..."
+    publishedDateTime: 2020-04-06T18:18:00Z
+    webUrl: "https://www.eurekalert.org/features/doe/2020-04/dnl-blm040620.php"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fd6b014b0-781d-11ea-9feb-f34a059ca99c&client=amp-blogside-v2&signature=6996e8f7d2fdda8e7a63ace2c66b184f2ff39680"
-        width: 600
-        height: 350
+      - url: "https://eurekalert.org/features/doe/images/dnl-blm040620.1.jpeg"
+        width: 720
+        height: 455
 
 secured: "LE7YTdyMKTgelNpuciugVZoqY2YGypHrUAtUwPyKknoqH7VvqM6JVQjx342dLjK02EXQOduro0tEh1w1CiWnAdVCHTc89ruGN3VcXt1MdgltgA37q8gb+SwXBn9iBzg0ukr4Rd2/ifpIi/H8fwxdIhQBCr+eNoBHENMw6hAronnANL9PqyTXu/41LPy7qhJAd8qcmQIQX1sIbYKivEa+6G5sDIBewgb28Isa2suNrtQoDpgbMSxLBgmDZCK26vibXnBHE39Y/y0aTVzTP7hwKJGEAibZl7cq5A1H/lEJ4egTeb+G40JWZe1FBbDg4FBCEMQsIPLy5r4Fgiu8AqgKu2edvJ1J5qrraMPrbSQPJkd9HHmGEzgDJ6hGhM3Q1lOLGA/yj2fLMdB9eQQT6K7GlbK+jD52NNOXonmulnwYEkJWgIaP/rrfzt7CJX3o8RgF7BOfpxU65/i94tb+XEcn7TvIdAARKomQb7mYPTJZp5Y=;WbN6KBukLVBQggiACJcCfA=="
 ---
