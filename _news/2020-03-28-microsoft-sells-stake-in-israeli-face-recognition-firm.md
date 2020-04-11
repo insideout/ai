@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Microsoft sells stake in Israeli face recognition firm"
-excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart."
-publishedDateTime: 2020-03-28T08:28:00Z
-webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
+excerpt: "Microsoft has announced to divest its stake in third-party Israeli facial recognition company AnyVision despite an investigation that cleared the firm of any unethical practices. Microsoft’s venture capital arm,"
+publishedDateTime: 2020-03-28T04:15:00Z
+webUrl: "https://newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/"
+ampWebUrl: "https://newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/amp/"
+cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/amp/"
 type: article
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Newsd
+  domain: newsd.in
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
-    width: 1350
-    height: 750
+  - url: "https://newsd.in/wp-content/uploads/2020/03/24d83419f2d8f570a40cc5104af46d17.jpg"
+    width: 400
+    height: 300
     title: "Microsoft sells stake in Israeli face recognition firm"
 
-secured: "g/OygvFzcnnliOCOMWbeXnBdiVKkIv9IdOv1qMql/ScADtZbCmhLX3k/QHj0+ecK4kqr8pE48SkWQesZw//NwfdQh3xa61tEYovtf/mgdalx1nTvu0tCq4gqmwnZwmrMSCVhNL8TJN/aeXk0iJ6d74qiLco5uckQWoK+bXx8zq9Vs/zZL6/a0rvPYBwO3vBk15R5i9eL+JVIt+rt2iUOVSj1C1L73dH9NfTZrfTxo7GNVEjHUR9zNTGMRQVxDkU4zKGot0DrzXtNvcfParmo4/HGbKz3q+r3otpBbL5DW3fAucLu9djoxUSzDl7wtfOG;nAnfa7Qa7Uq0gl4o9mV0jw=="
+secured: "lykGhORThtIz0segct5KLnPQw1zJMO0I3cIdWQOPiFAaRjtl6XiJz2A+rowGS4RzD0RmCmXDGJCgWnbki8pwpWU9UHtNFeM4ELL3I4NUa6ep8Y+UZ1GKpbCyd1JUMbkLV/QPeniWiMjyUPcElFuKRbIpH9iMXxmjGtWqd7IccHrGCw3GamWDfaIDKQCxpp7t47kWJ94Wz0r1ADlIBr9LcWrVtaGMPcNy/Xl59uW/6d4hkBh636IUMmaNeePEuVs4T0tl1/Kt6Ghm3IV9avVNltwghTk4CPP3uvythFQ7iCyM13MXRvMh8zCu9Otqlh9C;adBtqVY1altB/4daOhsEew=="
 ---
 

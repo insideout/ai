@@ -2,26 +2,22 @@
 category: news
 title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
 excerpt: "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ..."
-publishedDateTime: 2020-04-09T17:40:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php"
+publishedDateTime: 2020-04-09T18:20:00Z
+webUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg"
-    width: 720
-    height: 878
-    title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
 
 related:
   - title: "UPMC announces fast-track clinical trial"
@@ -40,6 +36,6 @@ related:
         width: 1024
         height: 539
 
-secured: "lR/ljQto0//5xzz3fR5Rcte/VOs5Id1ZvdjiGXhVxi9aNXGdECwI/yRdCxBzaz+tdhPWKU+bIDaPZZeuPrZCwie+8FErCZLW9wj1cvYxcDmWRBY+XJN0V6yhh848pG0/ZGZYdq6+96ehJ7FLcl6DtAS8LHl2tJCC8YvYQfTNd5Wq51sZRTCOf3S5f6sxU7aTV0e0Dw+OpzKZgpt5wh9EnHmG5aFZ+kQrHRovWO6yaooE+FJ/lmJaTaJShj/tk3y3rl3qM1vYkQ1JN/s/V3exhnXaSA94NgSs33oKkmmL2Id1uiCmP4cxsKjVDZt1gjfJ4YxBwfBmZA5Kni/nMcV8eSY0NVWouRhCWVPZGdwQi98rdEp5vE1mm/trEcJSZXpAC3BEExhcdjLeWNNTd8QwfqPuUOlvDlUekjLsjVLxpDfY0fme7K8P1B4gxUW8PosfPWTGma6DNa0vcKJXwqEqz1qo7UxNi0yhfvgsw0ir63o=;JJwI4deWWPxjmAK+iHs9fA=="
+secured: "7xHYUZtYFYEzpCX83bltnUnVnBQhyEE1ShsHGS21clmXet+9/ocgWUULDZ09c8cEKnFgdbaJnPHlcRfm/kickxjGF/UM8l+rOaB+v89237D6abt+gqtG/uSwVNO8uCajTorrrcmDYT0jeH15oO2rT9KWxns+JPJ8/d1jJgZxE0NIM0f/mP+3qseBmoFWfRO3qyv6DygV2p+/gDV4FAM4NBgfzCattpW/y3cZnxi9n09uPfhIUnnIpm6+xlya7e/d5NFc6pDqzACAIeaaG6wa3ddB5BfR6hm5bfUtBcgzCG5yAKdiZbPz367MRXEBZbspG1j98033EiJhk/+9+M2iPDHqrXXTkFDhvoJfxXB+6oKDRUpF1W6Ry8MOLfiS4Qn4IkMkWYsjrA1CHRHlCe5SQp1j4vuw2dcXPFsZUrzlbfS1VL48UR9p2CnAdNVw4KjZZ3TIKJHjcU2ZTMyuZUOC+WIWMp3EAgzcedMz9TDHynM=;X8RYAvAiVd5L8wb7ondjcQ=="
 ---
 
