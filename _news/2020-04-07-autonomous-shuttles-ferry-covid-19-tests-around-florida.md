@@ -45,21 +45,6 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97"
         width: 600
         height: 350
-  - title: "Supervised self-driving shuttles are moving COVID-19 tests in Florida"
-    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a “first” for the US."
-    publishedDateTime: 2020-04-06T20:33:00Z
-    webUrl: "https://www.theverge.com/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Nnj7455SZMY5Bolm5BiwaXySgHI=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66611017/maxresdefault.0.jpg"
-        width: 1280
-        height: 720
   - title: "Self-Driving NAVYA, Beep Shuttles Used To Tranport COVID-19 Tests To Mayo Clinic In Florida"
     excerpt: "The service began March 30 as four driverless vehicles traveled a designated route to the Jacksonville Mayo Clinic where the COVID-19 tests were placed in secure containers before being loaded onto the shuttles."
     publishedDateTime: 2020-04-07T21:04:00Z

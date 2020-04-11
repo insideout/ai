@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-te
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic"
 
 related:
-  - title: "Supervised self-driving shuttles are moving COVID-19 tests in Florida"
-    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a “first” for the US."
-    publishedDateTime: 2020-04-06T20:33:00Z
-    webUrl: "https://www.theverge.com/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/6/21209964/self-driving-shuttles-covid-19-tests-florida-beep-jacksonville-navya"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 74
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/Nnj7455SZMY5Bolm5BiwaXySgHI=/0x0:1280x720/1400x933/filters:focal(538x258:742x462):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66611017/maxresdefault.0.jpg"
-        width: 1280
-        height: 720
   - title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
     excerpt: "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ..."
     publishedDateTime: 2020-04-07T14:47:00Z

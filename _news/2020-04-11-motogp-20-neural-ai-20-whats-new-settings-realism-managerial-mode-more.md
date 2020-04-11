@@ -23,6 +23,6 @@ images:
     height: 628
     title: "MotoGP 20 Neural AI 2.0: What’s new, settings, realism, managerial mode & more"
 
-secured: "xSFP8IE8wAh7xJd4Qz3V45GhyCIgMzjnrOodpHsPmvv+jEBrguoTZzX2iZrSpmryvN7euidH8ro81b+zMYdVHWWREQUexW3OIRN6xhM2XybMrgwzcSO0DvWG6Th7ha7cRRT3VgTS8YJ76r/SKLrjybXaKl+Cus3whSHZgS3yasvS1nqr+7eqmHEia0CQUjCCH7t11pZ/GeHfgjMWxsrDvVzhFKhi4PfMn2lSwRUj+A+IdR9/ZVvoGSg1v4LZm4i1IHKuTl9bw1UqXQ1adwxf2V8GcM0vcksKq9xdQY/bw1Vt/Kj/BAlE0WX4MiDSwSDP;AFsfzE2DOE6Z9A6bnWaObg=="
+secured: "Y8mgRVDbnuQ9Uf5nIOy9cOe223PySWc1BrUfHHf/joujT9JgPnTjpFyTfRZRn1RWy+KzAwUw4ZZMKeMVFwsm6Wrt71dxMA8N55bLe2d32di3WNLyWoyBpwHQzlb055SJ7ZjXb08v9z22XOIz2uvhF3pNCCGgMEEYdOjyoJjwUOwg+fxpCj3QswZ5pjDTSWGXYTHrEzVfkz16PBmwg6+2/uaaWszIeIXo/R83XA62FzEB/E1wHXZMyspVGZuBX1A9DQBYpykIRu2nB0V/u6/V6uw2nS9TXdiNf7bW7fq7d1d2yNIniX+3YXxT/u6gBxpWuTeO3sroGtoQkAaM2pAWWHe63SJOMhdTy669X3K8PPJjlaIZEBUqRww6U6t5n1sWITjZnRrmrjhUY5Whauh/TMk6IxshWtqXQv4Tq0JMLGbFa89mfh589mrHXjRrHctvz9wHuu648QzYc18jl97mI6RtsR4cUo9JErB4xOXuoxE=;p5qOVoRI/a+wYZegGCVZuw=="
 ---
 

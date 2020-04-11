@@ -22,6 +22,6 @@ images:
     height: 300
     title: "Microsoft sells stake in Israeli face recognition firm"
 
-secured: "lykGhORThtIz0segct5KLnPQw1zJMO0I3cIdWQOPiFAaRjtl6XiJz2A+rowGS4RzD0RmCmXDGJCgWnbki8pwpWU9UHtNFeM4ELL3I4NUa6ep8Y+UZ1GKpbCyd1JUMbkLV/QPeniWiMjyUPcElFuKRbIpH9iMXxmjGtWqd7IccHrGCw3GamWDfaIDKQCxpp7t47kWJ94Wz0r1ADlIBr9LcWrVtaGMPcNy/Xl59uW/6d4hkBh636IUMmaNeePEuVs4T0tl1/Kt6Ghm3IV9avVNltwghTk4CPP3uvythFQ7iCyM13MXRvMh8zCu9Otqlh9C;adBtqVY1altB/4daOhsEew=="
+secured: "CrmHVC/yWDwGvGtxjH7yacEUPyiXzxhJbSxtmnmvLRgDDBgJfijbZkeM+RpMXsx37Nfz56tMeZ48qm9eUZl7uRaIsWAJZ9a3ypDfRIKaCupFTiL9q2LctB9y/coYCx/Osi9qI2lk9P0fsRBeJWJB4+E3p2eXHKL34x2/Nt/QsPLQ0dMOnu3WMS8PHfmFAhl3IJhELApmTMjtJ3Tkm9hQRukPrj37Jy06e0IdLfUc/QuJfutSoCbNKqeED1chYsgX537M2JWwW4qAmku+rqmXhHDcDE7H/v/6gHC4aJj4QEz4pU2GknPyMrc6qe/J7OhJ;CWQrQ8Y5fDn3DXgShtOkiw=="
 ---
 
