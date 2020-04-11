@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-
 ampWebUrl: "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/"
 type: article
-quality: 96
-heat: 96
+quality: 98
+heat: 98
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI
   - Microsoft AI
   - AI Hardware
+  - AI Ethics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/microsoft-teams-real-time-noise-suppression-chips.png?fit=2000%2C1000&strip=all"

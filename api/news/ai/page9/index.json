@@ -320,13 +320,13 @@
     {
       "path": "_news/2020-03-31-huawei-open-sources-tensorflow-competitor-mindspore.md",
       "title": "Huawei open-sources TensorFlow competitor MindSpore",
-      "excerpt": "The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the device, edge, and cloud. We implement AI ...",
+      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "ampWebUrl": "https://www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "webUrl": "https://www.techradar.com/nz/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
       "publishedDateTime": "2020-03-31T14:48:00-07:00",
       "updatedDateTime": null,
       "provider": {

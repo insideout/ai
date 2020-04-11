@@ -2,6 +2,51 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-02-19-artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus.md",
+      "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+      "excerpt": "This intelligence report provides a comprehensive analysis of the Global Artificial Intelligence Chips Market. This includes Investigation of past progress, ongoing market scenarios, and future prospects.",
+      "heat": 115,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-watch-google-baidu-adapteva-in-focus-2020-02-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-18T23:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Chips Market To Watch: Google, Baidu, Adapteva In Focus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-the-truck-stops-here.md",
       "title": "The Truck Stops Here",
       "excerpt": "While employment in traditional retailing has significantly declined in the past five years ... fee), making it so that you can just hand off a return product at your porch, a parking lot or on your morning train, and they will package and process it for you — easy.” Honeywell’s Smith said the future of last-mile delivery will likely ...",
@@ -1228,50 +1273,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-elon-musk-everyone-developing-ai-must-be-regulated-even-tesla.md",
-      "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-      "excerpt": "Elon Musk wants every organization developing advanced AI to be regulated ... and collaboration.” Judging by his reply to Hao on Twitter, Musk shares the sentiment. OpenAI was founded in 2015 as a non-profit, but last year announced that it was restructuring “as a hybrid of a for-profit and nonprofit—which we are calling ...",
-      "heat": 247,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/18/elon-musk-everyone-developing-ai-must-be-regulated-even-tesla/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2020%2F02%2FUntitled-design-18.png&signature=ccc63db991ed8ae7a56e57ddcdb0a17c",
-          "width": 1200,
-          "height": 600,
-          "title": "Elon Musk: Everyone developing AI must be regulated — even Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

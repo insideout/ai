@@ -1,60 +1,52 @@
 ---
 category: news
 title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
-excerpt: "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. “Intel and Georgia Tech are working together to advance the ecosystem’s collective understanding of and ability to mitigate against AI and ML vulnerabilities."
+excerpt: "View the full release here: /  (Credit: Intel Corporation) “Intel and Georgia Tech are working together to advance the ecosystem’s collective understanding of and ability to mitigate against AI and ML vulnerabilities."
 publishedDateTime: 2020-04-09T15:00:00Z
-webUrl: "https://www.businesswire.com/news/home/20200409005168/en/Intel-Joins-Georgia-Tech-DARPA-Program-Mitigate"
+webUrl: "https://www.stltoday.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_8fa58868-306e-5d56-9116-d30465d9a40b.html"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200409005168/en/784097/23/DARPA-GARD.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/aa/5aa5befb-cdb1-5624-b7e8-32efa0efc596/5e8f3bf8c4b56.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize"
+    width: 728
+    height: 410
     title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
 
 related:
-  - title: "DARPA snags Intel to lead its machine learning security tech"
-    excerpt: "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ..."
-    publishedDateTime: 2020-04-09T16:33:00Z
-    webUrl: "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/"
-    ampWebUrl: "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
+  - title: "Intel and Georgia Tech join DARPA program to thwart attacks against machine learning"
+    excerpt: "Intel will be the prime contractor for the four-year, multimillion-dollar joint effort known as Guaranteeing Artificial Intelligence Robustness against Deception, or GARD, which will improve cybersecurity defenses against deception attacks affecting machine learning models. Although adversarial attacks against ML systems are rare, the number ..."
+    publishedDateTime: 2020-04-09T20:31:00Z
+    webUrl: "https://siliconangle.com/2020/04/09/intel-georgia-tech-join-darpa-program-thwart-attacks-machine-learning/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 47
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024"
-        width: 1024
-        height: 682
-  - title: "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'"
-    excerpt: "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks."
-    publishedDateTime: 2020-04-09T19:32:00Z
-    webUrl: "https://www.techspot.com/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html"
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/adversarial-image-tech-example.jpg"
+        width: 1020
+        height: 574
+  - title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
+    excerpt: "Before it's here, it's on the Bloomberg Terminal."
+    publishedDateTime: 2020-04-11T05:30:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-04-09/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
-    images:
-      - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg"
-        width: 800
-        height: 560
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 40
 
-secured: "KxcC38sB1rPHaLsWBZ0uaS47XMLjHZDy1udWV6rsvxtdsV07p00Uy3FHJ6kOWJypvqgoidkTkv/caHz4BUlMmJxBFLrrWkdCp4YZm1iH5dFjsOKQzyKcPqx5RKrhxFSDvBsw3pxdPZD1x+zJe3LHvHsUPX4wi5DhbARMjisFn7Y6FCTAU9FPjG4205vnsYTxo4k1FgXetdnFa3lSjt55UHYaxplsvo892a35bra/3IDfx+kZr+VtNQODg9gUysJ7Z9NElXknZ3u/pVQIHNncBPUIJxy3IMjSe/ivPWLFWQVcjD+6DgtpJkWeHwsGTwZOXedAgGNgRKcOc8c2o5uxuWfc2oNPccaT6J+34g3JKMKWkS4ZUftyy5nF9petbHxfRkIjsrEyIuge5/Ic4zKiqY1K+LxgxuO+AT8u1S4BG4uumxBGa7SPIsvKy6qVoa1CNDQ3gCS+4fvYkPwHckHclgs8R8UjtPHybl26SCJK76E=;rsfI/hCHn/wu77/I5AojdA=="
+secured: "+KYqQdo3/vY4XZtD7TslVwXYTZZiJEed/df2C114Ihc6ADCQeAzyQWn3YHwcZMTKk67RjOvdqQ/ruzWsM93DhEEyZBHWxQ1sOvDn3oqlS5dOwyKUaBh5RdCuW4oXtqwL4ULow0rL/5u9bIJSa7ySLuhoyUpYSjfeUWBEkfH4q9b7abWIRUeJRYKlUuL0ANOdp9pIzDRoxPc5DJZ9r9ssiL3N6ZdgPM5IBc5RnPXEnUouy8pKuvIe2sJn2os7/rOChftzjeMGlReubwlDuBGRB7lSxpYLkyz+2IdIhqFfG2SrvvQX7xDN55zv0fYO4ovc;z/yCIR91sm8SKH28dop5jg=="
 ---
 

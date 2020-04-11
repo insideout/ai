@@ -30,36 +30,21 @@ images:
     title: "Self-Driving NAVYA, Beep Shuttles Used To Tranport COVID-19 Tests To Mayo Clinic In Florida"
 
 related:
-  - title: "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic"
-    excerpt: "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ..."
-    publishedDateTime: 2020-04-06T23:28:00Z
-    webUrl: "https://www.engadget.com/self-driving-shuttles-carry-covid-19-tests-231758913.html"
-    ampWebUrl: "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html"
+  - title: "NAVYA, Beep Use AVs To Tranport COVID-19 Tests To Mayo Clinic In Florida"
+    excerpt: "making the partnership with the Mayo Clinic easier to implement. The Jacksonville project comes as the autonomous vehicle industry has been slowed by the coronavirus crisis. Both Waymo and Uber have suspended their self-driving fleets."
+    publishedDateTime: 2020-04-07T21:04:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/?ss=logistics-transport"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97"
-        width: 600
-        height: 350
-  - title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
-    excerpt: "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ..."
-    publishedDateTime: 2020-04-07T14:47:00Z
-    webUrl: "https://www.entrepreneur.com/article/348874"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/348874"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F41152025%2F0x0.jpg"
+        width: 1200
+        height: 798
 
 secured: "i4fhj7FcfoU8g9tCo4S0KDINjwOyNPmCZlXQELgC/Qr8oyuehg3MepWd7rsS6I8hKnPC55hqszUJDQGruDtvnLXQXfU1W7rn437S7vL18dQygkeBsvXttIoYuBXzmtOdT62aFTwXZxbc8CjlIC5S32lqLrf3UXxYQLRJVRDXCpZ9z6tZG6qWTg7mNLyFTfP8xNUGmBCc5py//Ga1WQvRS8Brb/mkwDH1bj8rQBnl+RvAUYTWbCo5SjZmA+1sz4qJ/mGDBLvsg7+o6Av8MPKO/TOpEb4ZaswqKoIJGg/VQAeP03CfXcewDTN+fQcNLHd2JUFLnuKISwgKiZwfBvxyJlbeWjfB7ft57nnWS/Mu1czqaVzjUIzFK/wZQAoQhnzLnGJ1dPv92ttwVCLjsFiTdk2iTm9UvAdxgAdQ4bD4nKEH6SYxyulDEbrQWCWRGpPgGtQBbONiPwCrgcpfx168R1Xz+Ca0B3nM6Yr3oWGeiJY=;yqqvjXPNl7VOXuXjidq7zw=="
 ---

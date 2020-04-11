@@ -2,6 +2,51 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2020-01-16-review-wt2-plus-earbuds-translate-across-36-languages-and-85-accents.md",
+      "title": "Review: WT2 Plus earbuds translate across 36 languages and 85 accents",
+      "excerpt": "Humanity has been striving for a real-life Babel fish in the form of translation technology, and the rise of deep learning in recent years has seen machine translation develop in leaps and bounds.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/",
+      "ampWebUrl": "https://newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/mobile-technology/review-wt2-plus-earbuds-translation-35languages-85accents/?amp=true",
+      "publishedDateTime": "2020-01-15T18:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f6bd2ae/2147483647/strip/true/crop/3000x2002+0+124/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Fc3%2Fb4%2F0a6f5f50413e913fcb974d883f6f%2Funtitled-shoot-1033350.jpg",
+          "width": 1160,
+          "height": 774,
+          "title": "Review: WT2 Plus earbuds translate across 36 languages and 85 accents",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-apple-buys-an-ai-start-up-that-came-from-microsoft-co-founder-paul-allens-research-lab.md",
       "title": "Apple buys an A.I. start-up that came from Microsoft co-founder Paul Allen's research lab",
       "excerpt": "Apple on Wednesday confirmed that it has acquired a start-up that developed software for running artificial intelligence workloads on less-powerful devices.",
@@ -1270,51 +1315,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction.md",
-      "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
-      "excerpt": "The event was sponsored by Google's DeepMind, Microsoft, and ElementAI, the AI software and services firm co-founded by Yoshua Bengio, a star in the field of deep learning. Organizers were from Climate Change AI, a group of volunteer researchers from institutions around the world. What is artificial general intelligence? Everything you need ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction/",
-      "publishedDateTime": "2020-01-15T08:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/15/17b15a0a-75a3-4e60-8f52-373c4dfcb3ed/yoshua-bengio-andrew-ng-climate-panel-dec-2019.png",
-          "width": 2483,
-          "height": 1385,
-          "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

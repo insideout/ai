@@ -2,6 +2,43 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-02-19-europe-plans-to-strictly-regulate-high-risk-ai-technology.md",
+      "title": "Europe plans to strictly regulate high-risk AI technology",
+      "excerpt": "By Nicholas Wallace Feb. 19, 2020 , 12:05 PM The European Commission today unveiled its plan to strictly regulate artificial intelligence (AI), distinguishing itself from more freewheeling approaches to the technology in the United States and China.",
+      "heat": 149,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencemag.org/news/2020/02/europe-plans-strictly-regulate-high-risk-ai-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science | AAAS",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/European_AI_Regulation_1280x720.jpg?itok=OAWMDBz_",
+          "width": 1280,
+          "height": 720,
+          "title": "Europe plans to strictly regulate high-risk AI technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
       "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
       "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
@@ -1021,44 +1058,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
-      "title": "Artificial Intelligence and Machine Learning in the Operating Room",
-      "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/",
-      "ampWebUrl": "https://247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
-      "cdnAmpWebUrl": "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/healthcare-economy/2020/02/19/artificial-intelligence-and-machine-learning-in-the-operating-room/amp/",
-      "publishedDateTime": "2020-02-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "24/7 Wall St",
-        "domain": "247wallst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://247wallst.files.wordpress.com/2020/01/imageforentry19-gsk.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial Intelligence and Machine Learning in the Operating Room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-01-16-artist-refik-anadol-turns-data-into-art-with-help-from-ai.md",
+      "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
+      "excerpt": "The results, shown on giant screens or projected onto walls or entire buildings, use data points in a kind of AI pointillism. Anadol explains his creative process in a new WIRED video. It features works including Machine Hallucination, a 360-degree video installation made from 10 million photos of New York. Anadol used machine learning to group ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/",
+      "ampWebUrl": "https://www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artist-refik-anadol-turns-data-art-help-ai/amp",
+      "publishedDateTime": "2020-01-16T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e1f7e0294f53e000834150c/master/pass/Biz-AnadolInstall-DSC06728.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "Artist Refik Anadol Turns Data Into Art, With Help From AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-democratizing-the-optimization-of-ais-arcane-neural-networks.md",
       "title": "Democratizing the optimization of AI’s arcane neural networks",
       "excerpt": "We’re only a few weeks into the new year, but already we’re seeing signs that automated machine learning modeling, sometimes known as autoML, is rising to a new plateau of sophistication. Specifically, it appears that a promising autoML approach known as “neural architecture search” will soon become part of data scientists’ core toolkits.",
@@ -1051,51 +1095,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-how-deepmind-is-unlocking-the-secrets-of-dopamine-and-protein-folding-with-ai.md",
-      "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-      "excerpt": "Demis Hassabis founded DeepMind with the goal of unlocking answers to some of the world’s toughest questions by recreating intelligence itself. His ambition remains just that — an ambition ...",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/deepmind-dopamine-protein-folding-ai/amp/",
-      "publishedDateTime": "2020-01-15T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "How DeepMind is unlocking the secrets of dopamine and protein folding with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

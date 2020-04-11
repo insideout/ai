@@ -2,6 +2,51 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2020-01-23-what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions.md",
+      "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
+      "excerpt": "As Electrek reported, Cruise yesterday unveiled its van-like, self-driving, all-electric vehicle. For the past four years, Cruise (a GM subsidiary) has been repurposing Chevy Bolts — including its four-generation self-driving Bolt that doesn’t have a steering wheel. But now GM’s Cruise has the Origin. The two essential things to consider ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/",
+      "ampWebUrl": "https://electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/01/22/what-cruises-self-driving-vehicle-reveals-about-gms-giant-ev-ambitions/amp/",
+      "publishedDateTime": "2020-01-22T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/origin-sunset-2000.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "What Cruise’s self-driving vehicle reveals about GM’s giant EV ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-california-robotics-company-sues-business-partner-over-ai-ocean-vehicle.md",
       "title": "California Robotics Company Sues Business Partner Over AI Ocean Vehicle",
       "excerpt": "Los Angeles County robotics company Apium sued a maritime vehicles manufacturer for breach of contract and trade secret misappropriation in federal court Wednesday. Apium partnered with Aquabotix Technology Corp. in the competitive and fast-moving artificial intelligence space to develop robots that could swarm in the ocean, according to a ...",
@@ -1029,50 +1074,6 @@
           "width": 1024,
           "height": 682,
           "title": "ServiceNow acquires Loom Systems to expand AIOps coverage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-agency-from-william-gibson-splits-the-seams-between-ai-and-humans.md",
-      "title": "Agency from William Gibson splits the seams between AI and humans",
-      "excerpt": "It involves Bay Area tech startups and AR headsets, spinning a vibe that doesn't feel far off from the life I actually live right now covering emergent tech. There's a mysterious AI program: an assistant, a person, named Eunice. Someone. I don't want to give much more away. I'd prefer you let the book take you on this journey. Eunice meets and ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/agency-from-william-gibson-splits-the-seams-between-ai-and-humans/",
-      "publishedDateTime": "2020-01-22T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/6eQsnz77aQNhAqQrV6v1SBzBXdc=/756x567/2020/01/21/aaa44387-8e97-463e-bef4-c4adcb32b2e8/william-gibson.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Agency from William Gibson splits the seams between AI and humans",
           "attribution": null
         }
       ],

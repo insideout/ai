@@ -8,7 +8,7 @@ ampWebUrl: "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavi
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "A Florida lab is using self-driving vans to ferry coronavirus tests"
 
 related:
+  - title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
+    excerpt: "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ..."
+    publishedDateTime: 2020-04-07T14:47:00Z
+    webUrl: "https://www.entrepreneur.com/article/348874"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/348874"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9"
+        width: 600
+        height: 338
   - title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
     excerpt: "Driverless vehicles are being used in northeast Florida to transport COVID-19 ... An accompanying vehicle, driven by a person, follows it, according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge autonomous vehicle technology and frees up staff ..."
     publishedDateTime: 2020-04-07T17:23:00Z

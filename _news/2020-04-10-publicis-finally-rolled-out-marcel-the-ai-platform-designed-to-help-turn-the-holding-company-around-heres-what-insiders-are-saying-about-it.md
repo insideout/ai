@@ -26,6 +26,6 @@ images:
     height: 512
     title: "Publicis finally rolled out Marcel, the AI platform designed to help turn the holding company around. Here's what insiders are saying about it."
 
-secured: "OVlpVI9fGjYG2wmX5cX7mHnBbqFo6zqqtCXhqw0VzpgY0BYB564EYxhPB4zDylXv2THveagad+zcJfRGZK1wwRu157LcdiIM/NVI0uuzuLO3907gAHujbqm5yCwh++uNAN69BqPXgwJMgFfvrrxDljDctD2KZAjVhLbw/Nashrg5Zgl8HINFUdHYrTFLJyWxPk3gC+LXE/EU4g7Nh2VAT/WVliz/86366oEWr0hsJrOIWcdoiuEcvFrYEqeX/lOWYH8q8SRXgh82OUgkXZnsZPh7yNHB/5t0LxS3f7EyuNiCpQyYL54ThnqrEgh7vta+;qKahi9L1Pkt5PCmLEdCfYw=="
+secured: "TAbDUR1QLjDqjmDOCMk8SSV3Ix0oDD349BM5Ceb8vg1YZSW+fQnk40l7wCHr5i7Thk+4iMPX6rssv9ET8SU+igH643F+Fu5E8NeONVVqcZf0vjj46HJ6GjX/+5oWAQVRAYMElnEJ/PyX3zu+zqDuruptIAuOgceOdtez5XUTS+vmJzSl1lLrqi+73zRk0ZAsV9P9gjiYS7u+WXqH/gPvst4RQ6khKnMf1axzFRu7f0q/9t6pwJdSk9OAfmVTO0+dNYV/at6UBiBW6TO+YeykRkqu/lK9ftgTtT7pxQ+n3hzmN/DnzVM54VN5zvR6KbZdkj7clN4Lidq0tdvN9mvowvUSRXjZw5JDbGty1WcrNcoqVYG4x6uwXVWDY3VfgVo+LEPsZBqBaezLsRQK9SIFTmmL42Rnb9No/dd9tdHggh4GylUpqhgWEvIky81d0PdVlQbvRpet85X/TWoIiIKCSTwAW14PuQvPbQk8AhwaVL8=;nOuCK+E/hMiQUEGlHGZGrg=="
 ---
 

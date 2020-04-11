@@ -1,44 +1,22 @@
 ---
 category: news
 title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-excerpt: "/PRNewswire/ -- CEVA, Inc. (NASDAQ: CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced that its CEVA-BX DSP..."
+excerpt: "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced"
 publishedDateTime: 2020-03-24T11:48:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-301028881.html"
+webUrl: "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15648647"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647"
 type: article
-quality: 25
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
-  - TensorFlow
 
-images:
-  - url: "https://mma.prnewswire.com/media/74483/ceva__inc__logo.jpg?p=facebook"
-    width: 2364
-    height: 1239
-    title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-
-related:
-  - title: "Ceva DSP and voice AI support Tensorflow Lite integration"
-    excerpt: "Ceva’s BX DSP cores and Whispro speech recognition software for conversational AI now also support Tensorflow Lite for microcontrollers, a framework for deploying tiny machine learning on processors in edge devices. Tiny machine learning allows AI to operate in low power, battery operated IoT devices for sensor data analytics of audio ..."
-    publishedDateTime: 2020-03-24T15:35:00Z
-    webUrl: "https://www.electronicsweekly.com/news/ceva-dsp-voice-tensorflow-2020-03/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 54
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/03/24152552/z.jpg"
-        width: 559
-        height: 553
-
-secured: "13jpgzrS5DiXoqnRVMp7IACjOL7UQv6QPHvFAToAcmlE4S1JaRt/IBNHdZQJASG8O0sJeU+pRCVzABSUJS8I9lKzIHcXRLtZYKpmTBMXUYj+F3etA+jn/2yMcf9JK/EjVmnPz/lcplsbT6lCy8gL/mdOsa6cF5jcbuaYpc/c+viKv/qQYpV1Ut/9D7mmEqlGVh+EC4glhtB1lGS3mojq7MKsKO5v2sQmMZwDXZJCDLhm36OHxzMhVSDNjhsmyhKL4PK8qRndQzsldAbjKx9BqBU29aiWiHaUN1bC4g91A41MuzwQMHEsyDR9QZTQysgOyHD1/ZyoNqdwhvkpzz7J0juEBHIeWznn6Ta1SafyvTRudDlHcyIbcraDIC4FCnQCAxFlU8XkJY8nwyCF6lbuofa+/iLgNcCt77QOEfZuZGO1cv5YTP/4cFzryiA2v8wYtluLhGoFCtlUnymI8wX2/d+3NBr2998BKwt0J6PEB98=;VZh+vvdZUKnBKAqA9zrsBQ=="
+secured: "zF9IvnrkBqRIaerGA9jzIEeR1h+HgP89t///aP5mwAjhHvWZ0E8JQSH91YnAkmV1clQYkdYUpzBtJo96mxc6SsoLG9843IcIvZJjzlkE5Dp68IZtDWLsHgTC0XhDWG970WZflH4XEiFiCYbqaif7sooKNY9Wr/O9ZxjTNhx7/v9ODLxhSeIl9wT/B0e0E7n3klKul1AlLRzW6P149FhXZEJ0kIptqnRI2wb1++JxHGrxVuOLOldBYcm6hfGRGcjZG/sQUNB5f9xPmDehHjyl9Fxpp5eUYuk0fMGUjQH2gDUArGSpwMBCcDW03+1zOXNx;IlnzbeVUGjMwe8J/SOLCdg=="
 ---
 

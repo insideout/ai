@@ -178,27 +178,27 @@
     {
       "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
       "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-      "excerpt": "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ...",
+      "excerpt": "Engagements with government agencies, healthcare organizations and academic institutions around the world including in Arkansas, California, Georgia, New York, Texas, Czech Republic, Greece ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T21:38:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15723362/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15723362",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15723362",
+      "publishedDateTime": "2020-04-01T21:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
-          "width": 1650,
-          "height": 864,
+          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg",
+          "width": 400,
+          "height": 309,
           "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
           "attribution": null
         }

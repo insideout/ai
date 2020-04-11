@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Huawei open-sources TensorFlow competitor MindSpore"
-excerpt: "The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the device, edge, and cloud. We implement AI ..."
+excerpt: "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ..."
 publishedDateTime: 2020-03-31T21:48:00Z
-webUrl: "https://www.techradar.com/news/huawei-open-sources-tensorflow-competitor-mindspore"
-ampWebUrl: "https://www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
+webUrl: "https://www.techradar.com/nz/news/huawei-open-sources-tensorflow-competitor-mindspore"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 547
     title: "Huawei open-sources TensorFlow competitor MindSpore"
 
-secured: "KdaoZS+m7AaMLXWCEDLxF5w1Y9yFKJga1fAn/MwuRPnSY/ew+J5pG1zJPQTvAAI2IZXwRtyxwvI6Rl35+BIP9n5GA8sI1yUN3osot376mEAcdWDYAzWXSchRN99FMOXVBZSm3/4WYOtBteoxJrr5JPbGr8NZr79yseuHZYnY1C6NyZkSLHW+vCs5mrblL93H0fBnl5IOBH3EvHRuubZmhRQoffSe8AtZnuFwVKKCIknCzxbqqHRNLc3ozBSl1QDXDyvsKLeL6MvHiCBjLtnyCUKzxN2scPhSs4EFvHbNZVhJbkwtPiLLmtySNqL+IUtz54N7alW3+VfSqoJH8hPcLO1nLhBwyXRiLBrp7GBQhT+yLQWJzq9gMxHs4dxCDzZQiVLUmngLkKMW29MnA1r66UMlDbft6CW01JWH7iFGmESoX8juAx5eFVH6Vf5LVGLK+/KySm1QbrPblngaqyvWT9lCWSuBp1iqaGWNcE2jkpw=;9hevE2XmR0TraTMFaZnzBg=="
+secured: "n1ncIYA/9B+cD0g5OTc6uemgyPvnYZW/MAwP0YVacSoIqDDMVf1xihMTT4+z/nIvwPQjrYNi7m+fFWR5ZBtSnVux2fxQWr4QmfR71YUTUOU9Q4KRHj/+DcPYOLuVwhodeoNv/w/ZXieh070JDuOUGT0uEbRxt3ZQMPMms//F2+GQkL8BdJ7lRHWphzBENM2eJiMYHPBQ6uWYEPViQK9ZEguCYuspNhUEln101I17e67e8Re59XnfoEy/Ieap7yBIQv6OH529Q1YoZc0pMwdzz/sHTL9ezoCz/7CsmFtLM0i4gi8NTPzUzRuTqEIlrJsE;puw1IYUicFFA+jlgn2sckw=="
 ---
 

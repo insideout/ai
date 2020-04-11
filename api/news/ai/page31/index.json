@@ -2,6 +2,51 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-03-11-smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027.md",
+      "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
+      "excerpt": "Market Overview A smart machine is an intelligent device embedded with machine-to-machine technology to perform various",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-machines-market-is-expected-to-witness-cagr-of-193-during-the-forecast-period-2019-2027-2020-03-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Smart Machines Market Is Expected To Witness CAGR Of 19.3% During The Forecast Period (2019-2027)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026.md",
       "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
       "excerpt": "Market Analysis: In accordance with the study held by Acumen Research, the Machine Learning Market size is projected to reach US$ 76.8 Bn by 2026 with a CAGR of 40.1% from 2019 to 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
@@ -1156,43 +1201,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-market-2020-2024-the-growing-application-of-deep-learning-to-boost-growth-technavio.md",
-      "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
-      "excerpt": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio Technavio has been monitoring the deep learning market and it is poised to grow by USD 7.2 bn during 2020-2024,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Business Wire/a94670244f6f4ac5a5bace41724d9414",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T16:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "Deep Learning Market 2020-2024 | The Growing Application of Deep Learning to Boost Growth | Technavio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

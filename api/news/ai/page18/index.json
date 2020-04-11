@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-23-is-voice-the-next-big-thing-to-transform-consumer-behavior.md",
+      "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+      "excerpt": "Voice is an untapped channel that can provide an opportunity for deeper engagement with our customers — and we can't afford to leave that opportunity on the table.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/03/23/is-voice-the-next-big-thing-to-transform-consumer-behavior/amp/",
+      "publishedDateTime": "2020-03-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F03%2Fa-52.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Is Voice The Next Big Thing To Transform Consumer Behavior?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf.md",
       "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
       "excerpt": "Senior Writer, Growth Quarters — Yessi leads the writing efforts at TNW’s Growth Quarters. Yessi leads the writing efforts at TNW’s Growth Quarters. Then, in September of that same year, the ...",
@@ -1169,43 +1214,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-coronavirus-scare-india-postpones-summit-on-ai-to-october.md",
-      "title": "Coronavirus scare: India postpones summit on AI to October",
-      "excerpt": "NEW DELHI: Worried about the rising number of cases of Covid-19, the Indian government RAISE--Responsible AI for Social Empowerment) 2020 summit on AI (Artificial Intelligence)--to 5-6 October.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october-11584706416259.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/coronavirus-scare-india-postpones-summit-on-ai-to-october/amp-11584706416259.html",
-      "publishedDateTime": "2020-03-20T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/03/20/600x338/AI-kkGH--621x414@LiveMint_1584707001977.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Coronavirus scare: India postpones summit on AI to October",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

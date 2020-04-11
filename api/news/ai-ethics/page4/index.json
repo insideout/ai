@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-01-28-ibm-watson-ai-xprize-announces-10-semifinalist-teams.md",
+      "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+      "excerpt": "The XPRIZE Foundation, which designs and runs competitions to “solve humanity’s grand challenges,” has announced the 10 semifinalist teams advancing in the IBM Watson AI XPRIZE. The four-competition is intended to demonstrate how people can collaborate with artificial intelligence to tackle pressing global problems. Sponsored by IBM ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/ibm-watson-ai-xprize-announces-10-semifinalist-teams/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/IBM-AI-XPRIZE-logo.jpg",
+          "width": 1440,
+          "height": 650,
+          "title": "IBM Watson AI XPRIZE announces 10 semifinalist teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-pope-meets-with-microsoft-and-ibm-to-push-for-ethics-in-artificial-intelligence.md",
       "title": "Pope meets with Microsoft and IBM to push for ethics in Artificial Intelligence",
       "excerpt": "A year ago in the Vatican, the pope met with Brad Smith, president of Microsoft. Both believe Artificial Intelligence research should be based on firm ethical foundations. As a result, they will meet again at the end of February to sign the “Call for Ethics.” John Kelly III, executive vice-president of IBM, will also participate.",

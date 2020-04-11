@@ -1040,7 +1040,7 @@
       "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
       "title": "DARPA snags Intel to lead its machine learning security tech",
       "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
@@ -1130,7 +1130,7 @@
       "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
       "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
       "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
-      "heat": 96,
+      "heat": 98,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/",
@@ -1170,7 +1170,8 @@
         "Facebook AI",
         "AI",
         "Microsoft AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI Ethics"
       ]
     },
     {

@@ -527,13 +527,13 @@
     {
       "path": "_news/2020-03-31-huawei-open-sources-tensorflow-competitor-mindspore.md",
       "title": "Huawei open-sources TensorFlow competitor MindSpore",
-      "excerpt": "The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the device, edge, and cloud. We implement AI ...",
+      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "ampWebUrl": "https://www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "webUrl": "https://www.techradar.com/nz/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
       "publishedDateTime": "2020-03-31T14:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -950,6 +950,36 @@
       ]
     },
     {
+      "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
+      "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
+      "excerpt": "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15648647",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647",
+      "publishedDateTime": "2020-03-24T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
       "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
       "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
@@ -1186,43 +1216,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-tensorflow-quantum-joins-quantum-computing-and-machine-learning.md",
-      "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
-      "excerpt": "TensorFlow Quantum (TFQ) brings Google quantum computing framework Cirq and TensorFlow together to enable the creation of quantum machine learning (ML) models. We’ve used TensorFlow Quantum for hybrid quantum-classical convolutional neural networks, machine learning for quantum control, layer-wise learning for quantum neural networks ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/google-quantum-tensorflow/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-14T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/google-quantum-tensorflow/en/headerimage/google-quantum-tensorflow-1584182115639.jpeg",
-          "width": 2121,
-          "height": 1414,
-          "title": "TensorFlow Quantum Joins Quantum Computing and Machine Learning",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

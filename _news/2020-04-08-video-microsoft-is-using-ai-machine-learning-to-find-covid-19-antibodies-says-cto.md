@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-08T07:47:00Z
 webUrl: "https://www.arabianbusiness.com/video/444583-video-microsoft-is-using-ai-machine-learning-to-find-covid-19-antibodies-says-cto"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1200
     height: 630
     title: "Video: Microsoft is using AI machine learning to find Covid-19 antibodies, says CTO"
-
-related:
-  - title: "Microsoft Is Using AI Machine Learning to Find COVID-19 Antibodies, Says CTO"
-    excerpt: "Kevin Scott, Microsoft chief technology officer, discusses how Microsoft is helping with internet access and in the healthcare arena during the COVID-19 crisis. He speaks with Emily Chang on \"Bloomberg Technology."
-    publishedDateTime: 2020-04-06T22:37:00Z
-    webUrl: "https://www.bloomberg.com/news/videos/2020-04-06/microsoft-is-using-ai-machine-learning-to-find-covid-19-antibodies-says-cto-video"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 61
 
 secured: "SGsSYiRpg/fuD5RGYbz5F6u09elqlMc9iLW7VyVbAFF3jj0cv+nYu2k7djbVe51JkFWynQx7IQai6VAr5G1C/8T254ABjICSNivJTCyBf/j1/pwVVGsPSu5+Bce7x1Ixy1dv4eg2Wri/OIO4jttKV4ADnfFrXpBcmCWehgpKXyEeZR0zMV7fqUkcEAd+blIUMVsFr/pkO4wpRl3L9wnEeBiOf4OAe1JiIcNZ+eFcXYG3yL2dMmP/Kv6Hy79ATq9Owx1V5p5R3z6doQ/Dewx7YJX99tfp2jDkKMTD6BTp0tSstvZAYm+T1tUFQvtudzDhwWcidSBCgfiHp0Qsk4wWDMqKr2xlr7aoXVQ5uxmUIDCgpbNQHwEG6M+/DSGi5gphA+g8orQ1pVL1EQtPX89oLsc0cRxZ73gb8vTTDeVcRFwvmLCXINp32DzBZwiPFUQ2nyrbfJutEj1NRG6PSKaQkWjtk7XQzyg4wLA4qYnrKDA=;AjW+Cscn8doJe8bLNCWlRg=="
 ---
