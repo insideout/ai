@@ -76,6 +76,19 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 39
+  - title: "Robots may become heroes in war on coronavirus"
+    excerpt: "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the U.S. Consumer Technology Association. \"We are in a time of need for some of this technology, so it seems like benefits outweigh costs,\" Rohrbaugh said. Artificial intelligence, sensors and other capabilities ..."
+    publishedDateTime: 2020-04-12T21:41:00Z
+    webUrl: "https://japantoday.com/category/tech/robots-may-become-heroes-in-war-on-coronavirus"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 39
+    images:
+      - url: "https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/20728766_1544633632269161_1607214437966247907_o-700x466.jpg"
+        width: 700
+        height: 466
 
 secured: "pqwsEpIyK/nHWp4ynGk6tPCTIu56fBdpQpWHYovAWeZ/Z3lmnAR36EyGBqxUK3WfTRyfnDNHj/PjNAqBDQy98X2x9cvUGlJdY1Gf1H3T1b56/7PvveOty0B4E8HgtQzD6+8DmlZKhv8beBAPtB9pT7aCHrME7huZduQrwSYjpvyOvgVxCMT2m7sWRxI2FCf4hrjWa9cZNW+Y1fQRQb8P9rBza6k1VaQ6Qih1NeM1cgS9HqcloHWDQnXbRsDblcSHgtGG2XNMuU7yx0jnmlwssEPRvs8FmoAfE0qaiPakQzIVm5JZbMabDRE7sbJFnwNO;Eq4KG9zGGZd2jaGewi2WcA=="
 ---

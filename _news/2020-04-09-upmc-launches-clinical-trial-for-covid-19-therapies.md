@@ -2,25 +2,25 @@
 category: news
 title: "UPMC launches clinical trial for COVID-19 therapies"
 excerpt: "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is totally what many groups now want to do,” Angus said. Those “many groups” Angus ..."
-publishedDateTime: 2020-04-09T22:25:00Z
-webUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
-ampWebUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
-cdnAmpWebUrl: "https://www-timesonline-com.cdn.ampproject.org/c/s/www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+publishedDateTime: 2020-04-09T22:31:00Z
+webUrl: "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
+ampWebUrl: "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+cdnAmpWebUrl: "https://www-ellwoodcityledger-com.cdn.ampproject.org/c/s/www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Times Online
-  domain: timesonline.com
+  name: Ellwood City Ledger
+  domain: ellwoodcityledger.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.timesonline.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
+  - url: "https://www.ellwoodcityledger.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
     width: 6720
     height: 4480
     title: "UPMC launches clinical trial for COVID-19 therapies"
@@ -57,6 +57,6 @@ related:
         width: 6720
         height: 4480
 
-secured: "bMtOQvjfC4cI60hnbQA6T/2c0M6tLzoZqeWyA3UXRyH9puAtUp9DsuGvg1WhAgcoVOsaTBOp6dn0kovTvue9DOEWuKc7WWVBCB5WU3y9aXUDxyJTrXzQ0fbT27MOsRf/VvsmfCRWanwWAGIFVXywXxXr+1IlbwrMoVkudSPHn7EAuqas/snrqG5ifReOF0s9KFKdSv1Zl9rZM9M9OChQE1mIu8lC81fTUBB84svbSvmnWWUOTk27GukOEC6oo32zzXFZSI85trNtYhWlKzRL7Kfj+/PUQyrWzK/Ot3WhGbErQ59Rvi30weMKxhflO1Jt;lONcBc71gZYZrkIi0C3Ygg=="
+secured: "p4KkY2h3idvv3wjdMjZ4T+FVHr0injFze3stFsws9EeS2kH/gVkt7LcraBpxHX1eY80Go0WMge3HIh0Hk9hbirnXAWunm96EtqvH97bE1DZJJAiiNWwaM+ROB8OiSlflGNXBSEoixp1dSK/Yf7+w1ZwoDyjNI0j1InEYoS7eBDnkk5FEwxBi1ZgQz5QqeOlq60Dc7kUVEqwC1qah7uBfJSBO1/SWjDzUCS3WGcjwBwcyTmYv88N6aGYtrkptSLQ1zzI7NEIpWQoW1V/BG463JWS2h3JsrZcdz5/Y6ArfX9lOai7Jc4k4ausq7hyGpFl8;zurK2z0z3on7n5qF2warKQ=="
 ---
 

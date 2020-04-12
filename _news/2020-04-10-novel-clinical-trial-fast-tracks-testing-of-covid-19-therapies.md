@@ -28,17 +28,17 @@ images:
 related:
   - title: "UPMC launches clinical trial for COVID-19 therapies"
     excerpt: "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is totally what many groups now want to do,” Angus said. Those “many groups” Angus ..."
-    publishedDateTime: 2020-04-09T22:25:00Z
-    webUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
-    ampWebUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
-    cdnAmpWebUrl: "https://www-timesonline-com.cdn.ampproject.org/c/s/www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+    publishedDateTime: 2020-04-09T22:31:00Z
+    webUrl: "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
+    ampWebUrl: "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+    cdnAmpWebUrl: "https://www-ellwoodcityledger-com.cdn.ampproject.org/c/s/www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
     type: article
     provider:
-      name: Times Online
-      domain: timesonline.com
+      name: Ellwood City Ledger
+      domain: ellwoodcityledger.com
     quality: 44
     images:
-      - url: "https://www.timesonline.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
+      - url: "https://www.ellwoodcityledger.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
         width: 6720
         height: 4480
   - title: "UPMC launches clinical trial for COVID-19 therapies"

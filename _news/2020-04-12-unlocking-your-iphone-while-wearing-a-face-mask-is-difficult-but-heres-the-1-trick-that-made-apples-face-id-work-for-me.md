@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Unlocking your iPhone while wearing a face mask is difficult, but here's the 1 trick that made Apple's Face ID work for me"
 
-secured: "3UZOSWCJ3V9QYbF4oCGGNJ+oUMhHtxaI+sERueWO6DQ6dVqSNBwg9K3TEAaU+l7UDAYju59E8P/6LapS3CSfB4thK0XvW/iZkOr101vtLC2Lwf+ZF+ifaF3HvQ1XItmH4fBAD8ttze+cAQLceqJ4PVpz5tSwKs3t+e49NR9utgjj6WZAzvR7lmRViZWWaKwJ32HRQfyQeiXW903O4J411xyZWTPAp60YxwfMrSK1JN0t03ATPvqQZQDbLy6ROCHi0dxVxR+xYwVGr92hykjvnd9+jZAKdIKnv154KgTBnOdwSmnJl74JFi3MrfSlYFlm;ZEzD6YcUnb3c68g4796YRA=="
+secured: "WASGatofTWcO5MdzKHe1+739HeUTsu1BiSDx5FvVGnbatapWT4AcKePTlDFr/NrsLKvfT1uOVWtLhpoJpjopLpMCQ+8sX8Sk2aitRpoqhhlbxE16sMo7Ed/9ePIOS89QolgS7539iIbMKHSICtwZpXxhuXJ31OMXFsRR7kRDumkrNvl/XEkLZzSP4myAKrTS9uPQsfEp5fwYFgaNfv7j9HxvLj7KhiVlEiGLyNkXwmse12MZz++WfgHFt5/fSRxFXTx0jWkwA8P4gg7Yn7FK4+BH/vjgFXWyp/pCMGWXr+r1wUVYMDeNGGu3rYHdOuspCuTSu8Mn1KR2ioreRKdZ51BMhaq3QzMIpTlDV5yDWH8X+S88kyjUNPzDBCHDEms7HaoGkDCcg2+A9IGxOwRHly8rN4mIEodQ9JBd+7Gkzut+GchCt0wd3GUAsDKMw5EQzC22dOi8o2fkZfWQptT03IU7XKeXrrbJ4Hxvk3MD4Xk=;z1tAF2jW2NUX1vp7+yB5VA=="
 ---
 
