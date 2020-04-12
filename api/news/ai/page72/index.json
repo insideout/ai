@@ -2,6 +2,223 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
+      "title": "Octi launches a social network built around augmented reality",
+      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
+      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-what-you-need-to-know-about-ai-in-2020.md",
+      "title": "What You Need To Know About AI In 2020",
+      "excerpt": "In 2017, when I wrote about the preconditions for AI to flourish, the adoption of AI was just beginning. Now, IDC is predicting that by 2025, at least 90% of new enterprise applications will embed AI and \"over 50% of user interface interactions will use AI-enabled computer vision,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F545163577%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 776,
+          "title": "What You Need To Know About AI In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
+      "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+      "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
+      "publishedDateTime": "2020-01-22T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x515/https://specials-images.forbesimg.com/dam/imageserve/645973085/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 515,
+          "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-ai-startups-raised-record-266-billion-globally-in-2019.md",
+      "title": "AI startups raised record $26.6 billion globally in 2019",
+      "excerpt": "Global venture capital increased 20% in 2019, while acquisitions jumped 24.8% from the previous year. According to a new report from CB Insights, AI companies raised $26.58 billion across 2,235 deals in 2019, up from 1,940 deals the previous year that totaled $22.148 billion. The 2019 numbers included 10 rounds of more than $100 million that ...",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/22/ai-startups-raised-record-26-6-billion-globally-in-2019/amp/",
+      "publishedDateTime": "2020-01-22T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/AIStartupFunding.png?fit=1200%2C616&strip=all",
+          "width": 1200,
+          "height": 616,
+          "title": "AI startups raised record $26.6 billion globally in 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-facebook-has-trained-an-ai-to-navigate-without-needing-a-map.md",
       "title": "Facebook has trained an AI to navigate without needing a map",
       "excerpt": "The news: A team at Facebook AI has created a reinforcement learning algorithm that lets a robot find its way in an unfamiliar environment without using a map. Using just a depth-sensing camera ... Two billion steps and counting: Facebook trained bots for three days inside AI Habitat, a photorealistic virtual mock-up of the interior of a ...",
@@ -1033,233 +1250,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020.md",
-      "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-      "excerpt": "The 720G (the G stands for gaming) is an octa-core chipset aimed at higher-end smartphones. Features include on-device AI (a privacy-focused priority for handsets from Samsung and others) and display resolution up to 2,520 x 1,080, along with 800Mbps top down speeds - still a respectable number, especially compared to the lower-band 5G networks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "ampWebUrl": "https://www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "publishedDateTime": "2020-01-21T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uiwrFz8a2mmzeGUNyGgShg-1200-80.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ibms-biology-inspired-ai-generates-better-hash-codes-than-classical-approaches.md",
-      "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
-      "excerpt": "To overcome this limitation, researchers at Princeton, the University of San Diego, IBM Research, and the MIT-IBM Watson AI Lab developed BioHash, which applies “local” and “biologically plausible” synaptic plasticity rules to produce hash codes. They say that it outperforms previously published benchmarks for various hashing methods ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
-      "publishedDateTime": "2020-01-21T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/87c3b4c5-3db3-461e-b3f9-266dfa23d445-1-e1579635316665.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-more-privacy-better-battery-life-ai-everywhere-what-apples-xnorai-deal-says-about-its-ambitions.md",
-      "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-      "excerpt": "Arm Holdings CEO Simon Segars shows an Xnor.ai board at a 2019 event. Speaking on stage last year about the rise of artificial intelligence on devices, Arm Holdings CEO Simon Segars touted the capabilities of the chip giant’s Cortex-M4 processor to help identify objects using image recognition technology. But the circuit board on the slide ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/",
-      "ampWebUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "publishedDateTime": "2020-01-21T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/arm-630x373.jpg",
-          "width": 630,
-          "height": 373,
-          "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-neurips-competition-tackles-climate-data-challenges.md",
-      "title": "NeurIPS competition tackles climate data challenges",
-      "excerpt": "The Earth’s climate is a highly complex, dynamic system. It is difficult to understand and predict how different climate variables interact. Finding causal relations in climate research today relies mostly on expensive and time-consuming model simulations. Fortunately, with the explosion in the availability",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/neurips-competition-tackles-climate-data-challenges/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T11:09:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/21/neurips-f.jpg",
-          "width": 800,
-          "height": 440,
-          "title": "NeurIPS competition tackles climate data challenges",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers.md",
-      "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-      "excerpt": "Many of the deep learning models from Microsoft's Project Turing-- machine reading comprehension for the semantic search portion of Microsoft Search -- runs on the ONNX runtime, as well.",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-performance-speed-optimizations-to-onnx-machine-learning-runtime-available-to-developers/",
-      "publishedDateTime": "2020-01-21T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/21/875b8c65-4f5f-486c-8179-9d5bc4aa4d5e/onnxoptimization.jpg",
-          "width": 954,
-          "height": 719,
-          "title": "Microsoft makes performance, speed optimizations to ONNX machine-learning runtime available to developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Microsoft AI"
       ]
     }
   ],

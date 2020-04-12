@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-10-elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions.md",
+      "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
+      "excerpt": "Elon Musk sent a tweet this week referring to Tesla's self-driving tech as potentially being ... [+] \"superhuman\" which raises interesting questions about AI. Well, Elon Musk has suggested that Tesla cars outfitted with self-driving tech “can definitely be superhuman” (in his tweet on April 7, 2020), which invokes the superhuman moniker and ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
+      "publishedDateTime": "2020-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1096056680%2F0x0.jpg",
+          "width": 1200,
+          "height": 783,
+          "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks.md",
       "title": "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks",
       "excerpt": "Cognovi Labs, an award-winning technology startup which measures the public’s emotions and quantifies consumer intent through AI-meets-behavioral-psychology ... is a powerhouse in natural language processing, which is the understanding of unstructured conversation. Most social listening technology pulls words from digital conversations ...",
@@ -1065,50 +1110,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-researchers-open-source-state-of-the-art-object-tracking-ai.md",
-      "title": "Researchers open-source state-of-the-art object tracking AI",
-      "excerpt": "A team of Microsoft and Huazhong University researchers this week open-sourced an AI object detector — Fair Multi-Object Tracking (FairMOT) — they claim outperforms state-of-the-art models on public data sets at 30 frames per second. If productized, it could benefit industries ranging from elder care to security, and perhaps be used to ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
-      "publishedDateTime": "2020-04-08T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers open-source state-of-the-art object tracking AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

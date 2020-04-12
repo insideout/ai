@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Unlocking your iPhone while wearing a face mask is difficult, but here's the 1 trick that made Apple's Face ID work for me"
-excerpt: "That means you probably won't be able to unlock your iPhone using Face ID, Apple's facial recognition system, while running errands. It's not by any means the most important coronavirus concern right now, but it can be a minor annoyance. That may be especially true for those looking to reduce the number of times they touch their phone's screen ..."
-publishedDateTime: 2020-04-12T15:15:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4-1029081457"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4-1029081457"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4-1029081457"
+excerpt: "Apple's Face ID won't work when your face is partially covered. But this trick might be able to help."
+publishedDateTime: 2020-04-12T04:02:00Z
+webUrl: "https://www.businessinsider.com/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4"
+ampWebUrl: "https://www.businessinsider.com/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/iphone-face-id-not-working-with-mask-try-workaround-trick-2020-4?amp"
 type: article
-quality: 28
-heat: 28
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -23,6 +23,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "95nDR+iIuyAn+YMk4xE2hH76Tn6kS7VsgqxYozTRCjd5NzFUq0oaQECJ3dkYSQTEbIVeu5qV9F7Y6anYHO1LmBVmKdPWcXkMaClxcu3y37Odkw2lNvC9R/dGatu4e2NXCwCSwIHwA2j6D0Et4535Kef/vKiTUqVWTBU3N3DYkuSCOkKhbqKyhBbBlPKEjBJFKHYjjMfde1j2vob6hu46jQkkIoY/sciQn9xqwdJNQ4FJk8c5TgxmQl5NMXNpwsYZCViA7gVue514JlQI6cI/sCyVpVaqGVYi24vWIl7F0F/MBXolzYc9CCbEO1Bl51Xc;ndDRvI7qpe/9YvwdXbEIzw=="
+images:
+  - url: "https://i.insider.com/5e8f629f8427e950064b27a3?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    title: "Unlocking your iPhone while wearing a face mask is difficult, but here's the 1 trick that made Apple's Face ID work for me"
+
+secured: "3UZOSWCJ3V9QYbF4oCGGNJ+oUMhHtxaI+sERueWO6DQ6dVqSNBwg9K3TEAaU+l7UDAYju59E8P/6LapS3CSfB4thK0XvW/iZkOr101vtLC2Lwf+ZF+ifaF3HvQ1XItmH4fBAD8ttze+cAQLceqJ4PVpz5tSwKs3t+e49NR9utgjj6WZAzvR7lmRViZWWaKwJ32HRQfyQeiXW903O4J411xyZWTPAp60YxwfMrSK1JN0t03ATPvqQZQDbLy6ROCHi0dxVxR+xYwVGr92hykjvnd9+jZAKdIKnv154KgTBnOdwSmnJl74JFi3MrfSlYFlm;ZEzD6YcUnb3c68g4796YRA=="
 ---
 

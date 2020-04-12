@@ -2,6 +2,191 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
+      "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
+      "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
+      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
+      "publishedDateTime": "2020-03-11T00:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/10/16/artificial-intelligence-ibm-watson-ai.jpg",
+          "width": 928,
+          "height": 696,
+          "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
+      "title": "Three applications deep learning and computer vision can improve",
+      "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/three-applications-that-improve-with-deep-learning-and-computer-vision/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/ctlx_icon_MachineVision_Slider_01-3-3.jpg",
+          "width": 485,
+          "height": 260,
+          "title": "Three applications deep learning and computer vision can improve",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-detecting-money-laundering-networks-using-h2o-driverless-ai.md",
+      "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
+      "excerpt": "Artificial Intelligence has evolved from being a buzz word to a reality today ... and automatically reinforce the AI model’s understanding to avoid patterns that don’t lead to laundered money. H2O Driverless AI is an Award-winning Automatic Machine Learning Platform that empowers data scientists to work on projects faster and more ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/03/10/detecting-money-laundering-networks-using-h2o-driverless-ai/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T23:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/driverlessAI.png",
+          "width": 1021,
+          "height": 453,
+          "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ml-kit-or-tensorflow-which-is-best.md",
+      "title": "ML Kit or TensorFlow: Which is best?",
+      "excerpt": "This post is a follow-up on my article Build a Dog Camera using Flutter and Tensorflow. The Dog Camera app is similar to the regular Android camera app. But if there is a dog in view, its breed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/flutter-community/ml-kit-or-tensorflow-which-is-best-6c965e74366b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*HBmxP0S3pgoPI7Od",
+          "width": 1200,
+          "height": 800,
+          "title": "ML Kit or TensorFlow: Which is best?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-indias-mphasis-wins-partnership-certification-on-amazon-web-services.md",
+      "title": "India’s Mphasis wins partnership certification on Amazon Web Services",
+      "excerpt": "Microsoft to help 1.5 billion students missing school Mphasis, which is also a member of the Blackstone Group of companies, provides an end-to-end cloud and cognitive portfolio of services that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/lite/",
+      "publishedDateTime": "2020-03-10T22:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ibm-advances-watsons-ability-to-understand-the-language-of-business.md",
       "title": "IBM Advances Watson's Ability to Understand the Language of Business",
       "excerpt": "KPMG, a multinational professional services network, and one of the Big Four accounting organizations, worked with IBM to create an AI solution based on a variety of Watson services, including ...",
@@ -1023,190 +1208,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
-      "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
-      "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200310005701/en/Superwise.ai-Secures-4.5M-Seed-Funding-Accelerate-Adoption",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-insurance-ai-startup-synthesized-raises-28m-from-iq-capital-and-mundi-ventures.md",
-      "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
-      "excerpt": "Like many industries, it would like to automate much of this, but it’s just not that simple. Synthesized is a U.K. startup that tries to reduce friction on preparing all the data that’s needed, to enable insurers to share data safely, complying with regulations. The more that happens, the more innovation can happen, such as insuring for a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
-      "publishedDateTime": "2020-03-10T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/Denis-Nicolai.jpg?w=1024",
-          "width": 1024,
-          "height": 642,
-          "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
-      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
-      "publishedDateTime": "2020-03-10T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
-          "width": 1866,
-          "height": 925,
-          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
-      "title": "Training robots revolutionize therapy",
-      "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.designworldonline.com/training-robots-revolutionize-therapy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design World Online",
-        "domain": "designworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.designworldonline.com/wp-content/uploads/EC45_flat_12W_450-837146ce.jpg",
-          "width": 800,
-          "height": 517,
-          "title": "Training robots revolutionize therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
-      "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
-      "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1960887/automated-material-handling-equipment-market-insights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

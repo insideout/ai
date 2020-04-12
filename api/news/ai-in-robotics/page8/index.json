@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-01-17-nations-dawdle-on-agreeing-rules-to-control-killer-robots-in-future-wars.md",
+      "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+      "excerpt": "Countries are rapidly developing “killer robots” - machines with artificial intelligence (AI) that independently kill - but are moving at a snail’s pace on agreeing global rules over their use in future wars,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-global-rights-killer-robots-idUSKBN1ZG151",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN1ZG151",
+      "publishedDateTime": "2020-01-17T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Nations dawdle on agreeing rules to control 'killer robots' in future wars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-every-entrepreneur-should-befriend-a-robot.md",
       "title": "Every Entrepreneur Should Befriend a Robot",
       "excerpt": "For entrepreneurs just beginning their start-up journey, RPA is not usually a priority with product development ... Today, pragmatic Artificial Intelligence (AI) and natural language processing can enable robots to understand real world documents even if the document includes ‘noise’ (e.g. hard to read, poorly scanned etc).",

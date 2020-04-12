@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-07-tesla-prepares-to-increase-the-price-of-full-self-driving-again-with-new-features.md",
+      "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+      "excerpt": "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/",
+      "ampWebUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 449,
+          "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-artificial-intelligence-ai-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
       "title": "Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -1268,51 +1313,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
-      "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
-      "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90485120/microsofts-cto-wants-to-spread-big-techs-wealth-to-the-heartland",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T11:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-american-dream-kevin-scott.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

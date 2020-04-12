@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-26-repair-robot-swims-through-oil-pipelines-and-welds-cracks-without-exploding.md",
+      "title": "Repair robot swims through oil pipelines and welds cracks — without exploding",
+      "excerpt": "Before this project even really got going, we knew that the technology worked and that this is something we could do. Everything else — the robotics, the artificial intelligence — all followed on from there.” The robot consists of five or six joined segments, each of which carries out tasks like navigation, control, communications ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/",
+      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/friction-stir-welding-robotic-crawler/?amp",
+      "publishedDateTime": "2020-02-26T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-people-prefer-robots-to-explain-themselves-and-a-brief-summary-doesnt-cut-it.md",
       "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
       "excerpt": "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop AI systems that human beings find trustworthy – while also performing ...",
@@ -1180,51 +1217,6 @@
           "width": 780,
           "height": 390,
           "title": "Webinar: Leveraging AI to maximize collaborative robot efficiency – March 17",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-can-ai-and-rpa-transform-legacy-systems.md",
-      "title": "Can AI And RPA Transform Legacy Systems?",
-      "excerpt": "AI and RPA are often mentioned in the same sentence as ML and IoT; they are touted as magical solutions that will transform the way we live and work. For companies with massive legacy tech platforms,",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/18/can-ai-and-rpa-transform-legacy-systems/amp/",
-      "publishedDateTime": "2020-02-18T04:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x399/https://specials-images.forbesimg.com/dam/imageserve/1187105635/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 399,
-          "title": "Can AI And RPA Transform Legacy Systems?",
           "attribution": null
         }
       ],

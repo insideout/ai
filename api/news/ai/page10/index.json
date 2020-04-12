@@ -2,6 +2,94 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-31-niantic-acquires-6dai-which-is-mapping-the-world-in-3d.md",
+      "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
+      "excerpt": "Niantic has acquired 6D.ai, an augmented reality company that is building a 3D map of the world using only smartphone cameras. CEO John Hanke said in a blog post that the dynamic, 3D map of the world could enable new kinds of planet-scale AR experiences. “This means we’re even closer to an AR platform that will unlock the ability for any ...",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/niantic-acquires-gd-ai-which-is-mapping-the-world-in-3d/amp/",
+      "publishedDateTime": "2020-03-31T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/08/6d.jpg?fit=1200%2C515&strip=all",
+          "width": 1200,
+          "height": 515,
+          "title": "Niantic acquires 6D.ai, which is mapping the world in 3D",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process.md",
+      "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
+      "excerpt": "As global economic grows each year, firms work tirelessly to recruit the best talent available on the market. Kerry and Anna Wang understood the canonical problem in acquiring talent and built Searchlight.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/",
+      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
+      "publishedDateTime": "2020-03-31T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7fdebce3d3600007fb3de0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
       "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
       "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
@@ -306,6 +394,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-europe-far-field-speech-recognition-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
+      "title": "Europe Far-field Speech Recognition Market is slated to grow rapidly in the coming years",
+      "excerpt": "This research study on the Far-field Speech Recognition market enumerates details about this industry in terms of a detailed evaluation and also an in-depth assessment of this business. The Far-field Speech Recognition market has been suitably divided into important segments, as per the report. A detailed overview of the industry with respect ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/mediareleases/48898/europe-far-field-speech-recognition-market-is/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1181,141 +1298,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
-      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
-      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
-      "publishedDateTime": "2020-03-30T12:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
-      "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
-      "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai/",
-      "publishedDateTime": "2020-03-30T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/03/efb9f0b3-0ca8-4514-b481-36f1df2e8f22/thumbnail/1200x675/a5cb4c555bf6fb63345ce79fcd3d7ada/20200225-sonmez-part5-dan.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-via-raises-200-million-to-optimize-ride-sharing-routes-with-ai.md",
-      "title": "Via raises $200 million to optimize ride-sharing routes with AI",
-      "excerpt": "Transportation startup Via today announced that it’s raised ... Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/",
-      "publishedDateTime": "2020-03-30T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/17c622_007-e1585590183585.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Via raises $200 million to optimize ride-sharing routes with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

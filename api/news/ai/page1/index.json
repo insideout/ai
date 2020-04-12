@@ -217,6 +217,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-11-robots-welcome-to-take-over-as-pandemic-accelerates-automation.md",
+      "title": "Robots welcome to take over, as pandemic accelerates automation",
+      "excerpt": "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material, weeding out trash. “Some facilities that were looking at getting one or two robots are now saying, ‘We need quite a bit more ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-11T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robots welcome to take over, as pandemic accelerates automation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-11-ai-in-the-enterprise-reality-or-myth.md",
       "title": "AI In The Enterprise: Reality Or Myth?",
       "excerpt": "It's estimated that enterprise AI usage has increased 270% since 2015. This has coincided with a massive spike in investment, with the enterprise AI industry expected to grow to $6.1 billion by 2022.",
@@ -1249,52 +1286,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
-      "title": "DARPA snags Intel to lead its machine learning security tech",
-      "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
-      "publishedDateTime": "2020-04-09T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "DARPA snags Intel to lead its machine learning security tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

@@ -2,6 +2,89 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
+          "width": 367,
+          "height": 496,
+          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
+      "title": "Google’s AI teaches robots how to move by watching dogs",
+      "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "publishedDateTime": "2020-04-03T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots how to move by watching dogs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices.md",
       "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
       "excerpt": "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ...",
@@ -1220,96 +1303,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-you-can-now-buy-aws-99-deepcomposer-keyboard.md",
-      "title": "You can now buy AWS’ $99 DeepComposer keyboard",
-      "excerpt": "DeepComposer, which also works without the actual hardware keyboard, is more of a learning tool, though, and belongs to the same family of AWS hardware like DeepLens and DeepRacer.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/amp/",
-      "publishedDateTime": "2020-04-02T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/2020-04-02_1429_001.png?w=1024",
-          "width": 1024,
-          "height": 518,
-          "title": "You can now buy AWS’ $99 DeepComposer keyboard",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-deploying-machine-learning-models-as-serverless-apis.md",
-      "title": "Deploying machine learning models as serverless APIs",
-      "excerpt": "Machine learning (ML) practitioners gather data, design algorithms, run experiments, and evaluate the results. After you create an ML model, you face another problem: serving predictions at scale cost-effectively. \nServerless technology empowers you to serve your model predictions without worrying about",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-machine-learning-models-as-serverless-apis/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T14:38:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/01/deploy-machine-learning-model-apis-1.jpg",
-          "width": 407,
-          "height": 297,
-          "title": "Deploying machine learning models as serverless APIs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -23,6 +23,6 @@ images:
     height: 933
     title: "For First Time in History, AI Learns to Translate Silent Human Brain Activity into Text for Locked-In Syndrome Patients"
 
-secured: "VSvnGB00FZjy3zHrsOhYOhhydfHtKGc1IZoM3WSu+NeSKrvREFjbGLDjTnGxg/LA22l0oUWEdZ8+zrkjRl2zX0ocTO+3InUD4SLDNRjXexYs5GGerYXfnLmGYvRj21tYVW0baqNdu2xCfkr+s8ntYPBAti4tQ63rSA9ZC1No7ldg1DKBqB6UV2bvZ9+igWK/ej8cS9yaBhdIeR2mYOryPJghDkwXf4PjvE2AcHYByMCBihFcteFJCE3vvSbd3aFcEdNjPRKnOX3dKiGpXEyHcGNC3dWL64Ds6VdN/h7r2yJPXv+Sk7ZneFrCfe1iCoBU;tNp075Q1KihGVUCWzE6Fsw=="
+secured: "0HCZBVrDMwJm093C7FdoEBu/L47yac1+kfRCgC76GbqRAbDB2UwO4qZoQj7tYZO31Ut4xRXFw7HW/H84nFH9ZikRHfv0WnYrJ5hFIFql4fy0lMyFR0Qtsdx9wZjQABgEK/qLtWsr8I6bUqw5WHF7YA8aCwd4oD7MOuW+OCmqbNDokjtygkf8I0OIVsHBvob4svNTDmpL/J9qaCZC15ieNFaQ+hv770enMzcyJvZGtXYz+NKo2CjGpJsq0wDamf8mV7jIild+3rF6ZI4XCZVKOe+lWEr7bK0SNDAfKbaN33R1UH8qT2UzYYuw9W+MWMtNyRRY31+FUEjdFJDGXhvkdq8ZpS5bxDJ+V1WZHzr4PbABv4k6Uz258gHVE2LjNNAgiN4AhxJy8U/dGZrD/e+mO+7SAMHThYmcQ9FerKZCIC0TCLZKqA6fd+jRlbchjjzYG66dTAKMfbkHaZ3dCsOgWEg4o0rx9wB9WgMD5Yc2U4Y=;TgPyU2tJA1YSqRfH+3YFQg=="
 ---
 

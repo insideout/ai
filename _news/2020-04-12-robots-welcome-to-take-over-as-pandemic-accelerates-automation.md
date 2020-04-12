@@ -39,6 +39,21 @@ related:
       - url: "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
         width: 1200
         height: 900
+  - title: "Robots welcome to take over, as coronavirus pandemic accelerates automation"
+    excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
+    publishedDateTime: 2020-04-12T21:01:00Z
+    webUrl: "https://www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/"
+    ampWebUrl: "https://www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 57
+    images:
+      - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04102020_Virus-Automation_114500-300x225.jpg"
+        width: 300
+        height: 225
 
 secured: "mYSA2bZDJFz4WTolRsGgTi8b90KEAakfgLPhqa4CxkGtRI/GVNG+/vL9TH0+rOTMljZMCYcQBf11OZwqhZ9NpQXK5lu5Fmv9jgCHqMAnOv6GSIJN4w3aRnMo6eLcr7T5wzAeBtIt1N3oLZtJqznEFrc+nK6hu0C26EZ5oYPiF95dF/g+JN/cE23ZAXWGsMyIbK9Ib2phMpzpmZTC4as5FnGMIh0JJaZ1I9QhO9A/APWFv/T/Tf3r5TiTHDj5H9aNGF2RAu9c4NA0RtqBSLQFecRMWG81WOKoccXAQyl1KMow2cthvv1XIRrcXH7+aOvb;UYIw+PMFcCIE50ZaeIjI5A=="
 ---

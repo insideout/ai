@@ -2,6 +2,188 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
+      "title": "IBM highlights new approach to infuse knowledge into NLP models",
+      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
+      "publishedDateTime": "2020-02-12T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "IBM highlights new approach to infuse knowledge into NLP models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
+      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
+      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
+      "publishedDateTime": "2020-02-12T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
+          "width": 1200,
+          "height": 675,
+          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-microsoft-builds-the-worlds-largest-transformer-based-language-generation-model.md",
+      "title": "Microsoft builds the world's largest transformer-based language generation model",
+      "excerpt": "that outperforms the state of the art models available today on many downstream natural language processing (NLP) applications. To train the model, researchers at Microsoft trained their model on an NVIDIA DGX-2 system housing multiple NVIDIA V100 GPUs that were interconnected with InfiniBand. The type of training data used was similar to the ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
+      "publishedDateTime": "2020-02-11T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580301872_microsoft_2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft builds the world's largest transformer-based language generation model",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
+      "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+      "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "publishedDateTime": "2020-02-10T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
       "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
       "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
@@ -1141,187 +1323,6 @@
           "width": 1230,
           "height": 1073,
           "title": "I'm obsessed with 'The Circle' and its ridiculous voice assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-grammys-go-high-tech-with-ibm-and-artificial-intelligence.md",
-      "title": "Grammys go high-tech with IBM and artificial intelligence",
-      "excerpt": "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ...",
-      "heat": 121,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
-      "publishedDateTime": "2020-01-23T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg",
-          "width": 1200,
-          "height": 862,
-          "title": "Grammys go high-tech with IBM and artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
-      "title": "Amazon explores a way to preserve privacy in natural language processing",
-      "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
-      "heat": 188,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
-      "publishedDateTime": "2020-01-23T08:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon explores a way to preserve privacy in natural language processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-can-ai-drive-education-forward.md",
-      "title": "Can AI Drive Education Forward?",
-      "excerpt": "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/",
-      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/",
-      "publishedDateTime": "2020-01-23T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049273190%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Can AI Drive Education Forward?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime.md",
-      "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
-      "excerpt": "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "publishedDateTime": "2020-01-23T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
           "attribution": null
         }
       ],

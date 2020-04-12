@@ -2,6 +2,187 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-01-23-grammys-go-high-tech-with-ibm-and-artificial-intelligence.md",
+      "title": "Grammys go high-tech with IBM and artificial intelligence",
+      "excerpt": "Along with Versace and Jean Paul Gaultier, artificial intelligence and Natural Language Processing will be important accessories on the 62nd Annual Grammys' red carpet. IBM will enhance the red carpet livestream with Grammy Insights with Watson this Sunday at the Staples Center in Los Angeles. The team at IBM took over 18 million documents and ...",
+      "heat": 121,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/grammys-go-high-tech-with-ibm-and-artificial-intelligence/",
+      "publishedDateTime": "2020-01-23T12:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/23/cee06460-61dc-4c72-b883-c33e460bdf62/resize/1200x/fde53f4a02e376c99dc52ef6bfbcaa1e/ibm-2020-grammys-photo-app-brandi-carlile-02.jpg",
+          "width": 1200,
+          "height": 862,
+          "title": "Grammys go high-tech with IBM and artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing.md",
+      "title": "Amazon explores a way to preserve privacy in natural language processing",
+      "excerpt": "The team analyzed the privacy implications of different choices of epsilon value in the context of natural language processing, where word embeddings — mappings from the space of words into a vector (i.e., the space of real numbers) — often depend on the frequency with which words co-occur with each other. This presents a challenge where ...",
+      "heat": 188,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/23/amazon-explores-a-way-to-preserve-privacy-in-natural-language-processing/amp/",
+      "publishedDateTime": "2020-01-23T08:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon explores a way to preserve privacy in natural language processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-can-ai-drive-education-forward.md",
+      "title": "Can AI Drive Education Forward?",
+      "excerpt": "Teachers are asked to incorporate more technology in the classroom but they are not necessarily given the time to learn and make the most out of it.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/",
+      "ampWebUrl": "https://www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolinamilanesi/2020/01/23/can-ai-drive-education-forward/amp/",
+      "publishedDateTime": "2020-01-23T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1049273190%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Can AI Drive Education Forward?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime.md",
+      "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
+      "excerpt": "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
+      "publishedDateTime": "2020-01-23T05:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-why-your-business-should-focus-on-understanding-speech-over-voice-recognition.md",
       "title": "Why your business should focus on understanding speech over voice recognition",
       "excerpt": "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go.",
@@ -1152,134 +1333,7 @@
         "AI",
         "Natural Language Processing"
       ]
-    },
-    {
-      "path": "_news/2020-01-06-machine-translation-market-research-and-technology-developments-2020-to-2024.md",
-      "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
-      "excerpt": "Machine Translation Market - Growth, Trends And Forecast (2020 - 2024) Machine translation (MT) refers to fully automated software that can translate source content into target languages. Humans may use MT to help them render text and speech into another language,",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-research-and-technology-developments-2020-to-2024-2020-01-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-06T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Translation Market Research and Technology Developments 2020 to 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2019-12-30-baidu-beats-microsoft-and-google-in-natural-language-processing-competition.md",
-      "title": "Baidu beats Microsoft and Google in natural language processing competition",
-      "excerpt": "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/",
-      "ampWebUrl": "https://mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/baidu-beats-microsoft-and-google-in-natural-language-processing-competition/amp/",
-      "publishedDateTime": "2019-12-30T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2019/08/microsoft-logo-block.jpg",
-          "width": 2400,
-          "height": 1231,
-          "title": "Baidu beats Microsoft and Google in natural language processing competition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2019-12-21-what-is-natural-language-processing-nlp.md",
-      "title": "What is Natural Language Processing (NLP)?",
-      "excerpt": "Aristo found its answers from among billions of documents using natural language processing (NLP), a branch of computer science and artificial intelligence that enables computers to extract meaning from unstructured text. Though we're still a long way from ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp",
-      "ampWebUrl": "https://www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/article/372633/what-is-natural-language-processing-nlp?amp=1",
-      "publishedDateTime": "2019-12-21T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02Bp7I29l1NFftRcxQQllxT-1.fit_lpad.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "What is Natural Language Processing (NLP)?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 7
 }

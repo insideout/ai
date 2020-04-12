@@ -2,6 +2,146 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-17-natural-language-processing-market-growth-opportunity-size-share-and-forecast-2019-2025.md",
+      "title": "Natural Language Processing Market Growth, Opportunity, Size, Share and Forecast 2019-2025",
+      "excerpt": "Natural Language Processing (NLP) market is growing tremendously owing to growing applications in artificial intelligence and machine learning technology. NLP technology supports computer to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1970701/natural-language-processing-market-growth-opportunity-size",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions.md",
+      "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+      "excerpt": "mCanvas, the experiential storytelling ad platform for small screens, has created an interactive mobile-led ad campaign for HDFC Life. Using real-time face and speech recognition technology, the rich-media ad is engaging users and enhancing the overall brand experience. This mobile-led ad, created by mCanvas first encourages users to make the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.exchange4media.com/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "ampWebUrl": "https://www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "cdnAmpWebUrl": "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/marketing-news/hdfc-life-integrates-face-speech-recognition-tech-to-promote-term-insurance-solutions-103346.html",
+      "publishedDateTime": "2020-03-16T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Exchange 4 Media",
+        "domain": "exchange4media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.exchange4media.com/news-photo/103346-HDFCLifeandmCanvas.jpg",
+          "width": 730,
+          "height": 395,
+          "title": "HDFC Life integrates face & speech recognition tech to promote term insurance solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-top-5-researches-on-visual-speech-recognition.md",
+      "title": "Top 5 Researches On Visual Speech Recognition",
+      "excerpt": "Visual speech recognition (also known as lipreading) is considered to be one of the most futuristic applications of AI. So far, there haven’t been major breakthroughs, and the domain is slowly catching up to audio-based speech recognition. Visual speech recognition provides machines with the ability to understand languages in noisy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/top-research-papers-visual-speech-recognition-lip-reading/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/liopa_header_video_bg-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Top 5 Researches On Visual Speech Recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Now AI will understand language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
       "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
       "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios ...",
@@ -1017,187 +1157,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-introduction-to-natural-language-processing.md",
-      "title": "Introduction to Natural Language Processing",
-      "excerpt": "Natural Language Processing or simply abbreviated as NLP is a highly specialized branch of Artificial Intelligence and Machine Learning that deals with understanding the human natural language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/analytics-vidhya/introduction-to-natural-language-processing-3c9cb9104b5e",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-08T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*FGHtb_niL0g-kbK3",
-          "width": 1200,
-          "height": 600,
-          "title": "Introduction to Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-salesforces-einstein-vision-language-services-will-get-named-entity-recognition.md",
-      "title": "Salesforce’s Einstein Vision & Language services will get named entity recognition",
-      "excerpt": "But Laraki notes that Salesforce’s goal isn’t necessarily to create the best natural language processing engine in the world. Rather, the idea is to tailor Einstein Vision & Language to customer relationship management and Salesforce clients’ needs. “This goal is very specific. We’re focused on solving problems in a way that drives ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/28/salesforces-einstein-vision-language-services-will-get-named-entity-recognition/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/28/salesforces-einstein-vision-language-services-will-get-named-entity-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/28/salesforces-einstein-vision-language-services-will-get-named-entity-recognition/amp/",
-      "publishedDateTime": "2020-02-28T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/06/salesforce-tower-indianapolis-e1571779672792.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Salesforce’s Einstein Vision & Language services will get named entity recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-this-startup-can-predict-heart-failure-over-the-phone-using-ai-and-speech-recognition.md",
-      "title": "This startup can predict heart failure over the phone using AI and speech recognition",
-      "excerpt": "Corti.ai aims to prevent thousands of heart failures across the US and Europe through the development of voice and pattern recognition technology.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp%3Butm_medium=referral",
-      "ampWebUrl": "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp",
-      "publishedDateTime": "2020-02-28T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e57f497fee23d668a393417?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "This startup can predict heart failure over the phone using AI and speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
-      "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-      "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "publishedDateTime": "2020-02-26T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713",
-          "width": 1200,
-          "height": 675,
-          "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

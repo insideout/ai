@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-11-robots-welcome-to-take-over-as-pandemic-accelerates-automation.md",
+      "title": "Robots welcome to take over, as pandemic accelerates automation",
+      "excerpt": "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material, weeding out trash. “Some facilities that were looking at getting one or two robots are now saying, ‘We need quite a bit more ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-11T06:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robots welcome to take over, as pandemic accelerates automation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
       "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
       "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
@@ -1222,51 +1259,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-ai-revolutionizing-the-museum-experience-at-the-smithsonian.md",
-      "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
-      "excerpt": "(Disclosure: I’m a host of the AI Today podcast). SoftBank Robotics Pepper robot(Photo by Joan Cros/NurPhoto via Getty Images ... interactions that people seem to have with Pepper is when they first approach the bot, they typically start off standing further away because they aren't exactly sure how to interact. However, since Pepper is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/26/ai-revolutionizing-the-museum-experience-at-the-smithsonian/amp/",
-      "publishedDateTime": "2020-03-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1127839788%2F0x0.jpg",
-          "width": 1200,
-          "height": 1803,
-          "title": "AI Revolutionizing The Museum Experience At The Smithsonian",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

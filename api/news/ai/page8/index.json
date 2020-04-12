@@ -2,6 +2,90 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
+      "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
+      "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
+      "publishedDateTime": "2020-04-02T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/c374ux/article30591370.ece/ALTERNATES/LANDSCAPE_615/bl1817bgakrPGR8705KHD3jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-train-a-deep-learning-image-classification-model-with-mlnet-and-tensorflow.md",
+      "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
+      "excerpt": "Image classification takes an image as input and categorizes it into a prescribed class. This sample shows a .NET Core console application that trains a custom deep learning model using transfer learning, a pretrained image classification TensorFlow model and the ML.NET Image Classification API to classify images of concrete surfaces into one ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-transfer-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
       "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
       "excerpt": "IBM today announced the launch of Watson Assistant for Citizens, a new chatbot solution available to government agencies, health care institutions, and academic organizations free of charge for 90 days. The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19 ...",
@@ -1185,96 +1269,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets.md",
-      "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
-      "excerpt": "There is no shortage of big data sets in the healthcare world, encompassing everything from chest X-rays to drug research. Startups and established companies alike are both using artificial intelligence (AI) and machine learning to analyze these data sets and use the results to guide business strategy and treatment plans. Special Feature ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/healthcare-and-artificial-intelligence-how-databricks-uses-apache-spark-to-analyze-huge-data-sets/",
-      "publishedDateTime": "2020-04-01T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/12/dd98591c-0dd3-4ca8-b9b9-a86a1a885ead/thumbnail/1200x675/eb84aa5cfc1c259d5633e76710557363/ibm-tests-the-use-of-artificial-intellig-5e69776e710b2800019c9e04-1-mar-12-2020-2-28-12-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Healthcare and artificial intelligence: How Databricks uses Apache Spark to analyze huge data sets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting.md",
-      "title": "How artificial intelligence and machine learning are used in hiring and recruiting",
-      "excerpt": "The hiring process has come a long way from the days of paper resumés and cold calls via landline. Online job sites are now staples in talent acquisition, but artificial intelligence (AI) and machine learning are elevating the recruiting and hiring landscape. Special Feature: Managing AI and ML in the Enterprise This ebook, based on the ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-artificial-intelligence-and-machine-learning-are-used-in-hiring-and-recruiting/",
-      "publishedDateTime": "2020-04-01T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/02/13/4e4cd8eb-2afd-473d-975b-c13946cf39b2/thumbnail/1200x675/dad81bd63119e6cc97708778a9d27876/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "How artificial intelligence and machine learning are used in hiring and recruiting",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
