@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

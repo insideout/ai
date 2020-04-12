@@ -983,7 +983,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1019,6 +1020,7 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI"
       ]

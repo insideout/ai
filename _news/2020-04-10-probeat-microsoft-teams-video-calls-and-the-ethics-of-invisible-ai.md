@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-cal
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:
