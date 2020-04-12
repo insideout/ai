@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -46,19 +46,6 @@ related:
       - url: "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg"
         width: 800
         height: 560
-  - title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
-    excerpt: "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. “Intel and Georgia Tech are working together to advance the ecosystem’s collective understanding of and ability to mitigate against AI and ML vulnerabilities."
-    publishedDateTime: 2020-04-09T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200409005168/en/Intel-Joins-Georgia-Tech-DARPA-Program-Mitigate"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 30
-    images:
-      - url: "https://mms.businesswire.com/media/20200409005168/en/784097/23/DARPA-GARD.jpg"
-        width: 1200
-        height: 627
 
 secured: "uQS689ti+UyuLGkKCPYndp4tA0RZPT22gosocJAIFgyNRlrfS/60NFoJ5uxOsjKfljd0VB8vAM3kJDMY3N8zunIAScJYyCipvHxoFEcOH/1KTCaAJ2MIV4ZAFAfaYYXsOpVHZ0Ia8MbT6D/rTkBFonObCImqBOilZkKVGQHeJciDSHwuCX5VCloOO8euzpJYkFkqhXSiAegAs+YBh1wEHZIypkPj57lATYdvUsnlvG/a9CAmqnaamDRu1wU2yvaYWL6NbHE1Nk4MqrlWMrJ1cgXzneJhnTYBJ8XmcY+ypMCzLwSFcfZ2o7hnD0235QlxkhaNVp4mT/1qc01vgKoYMEESUnXHbzAcCfouvs5NzDlkeKu3cdfyFSuxIOvJ5wmkvX6h+z2ZN7+Tfz3Aw4lcEfPFT7b6Pqdej2ivvtETckoMJ4LHU5nOpmSGRYTmokSPQ8D3kPCUbGCY4zwDLtTR74M0VdEKkw8AJfncOkcDXRA=;EQOR2ezq/wAO8rwgBwdQeQ=="
 ---

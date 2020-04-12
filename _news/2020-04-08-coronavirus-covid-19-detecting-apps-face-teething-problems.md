@@ -26,6 +26,17 @@ images:
     title: "Coronavirus: Covid-19 detecting apps face teething problems"
 
 related:
+  - title: "Artificial Intelligence Used For COVID-19 Lung Imaging Analysis"
+    excerpt: "\"AWS has partnered with us on multiple projects in the past,\" said Michael Hogarth ... early diagnoses of COVID-19 and other infections.\" Artificial intelligence (AI) in healthcare is the discipline using data intensive computer based solutions to improve patient care and outcome. Coronaviruses infect animals, humans, and birds."
+    publishedDateTime: 2020-04-08T13:48:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-used-for-covid-19-lung-imaging-analysis-194266-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 39
   - title: "Thermal Detection, Computer Vision Could Help Curve the Coronavirus Pandemic"
     excerpt: "Rather than surveying unsuspecting carriers about their recent travels, authorities like the Transportation Security Administration could have benefitted greatly from the use of AI-enabled computer vision technologies capable of detecting symptoms associated with COVID-19 – such as fevers and abnormal respiratory patterns – with high ..."
     publishedDateTime: 2020-04-08T21:47:00Z

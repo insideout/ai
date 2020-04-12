@@ -23,32 +23,6 @@ images:
     height: 896
     title: "Dataiku 7 enhances integration with Microsoft 365 for real-time AI collaboration"
 
-related:
-  - title: "Dataiku 7 Enhances Integration With Microsoft 365 for Real-Time AI Collaboration at Scale"
-    excerpt: "Released on March 18 and available on the Microsoft Azure Marketplace, Dataiku 7 delivers efficiency-driving features for technical profiles to work on machine learning projects including an enhanced Git integration, a dedicated EDA interface for statistical analysis, and row-level explainability to promote white-box AI. “Dataiku understands ..."
-    publishedDateTime: 2020-04-07T13:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200407005228/en/Dataiku-7-Enhances-Integration-Microsoft-365-Real-Time"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 45
-    images:
-      - url: "https://mms.businesswire.com/media/20200407005228/en/783642/23/Dataiku_MSFT.jpg"
-        width: 1200
-        height: 627
-  - title: "UCL collaborates with IBM to use virtual reality to tackle loneliness"
-    excerpt: "It uses Watson voice recognition capability – a part of Watson Speech services ... These projects are part of a wider international educational collaboration that makes use of IBM technologies such as IBM Cloud, IoT and AI to enable students to work on problems faced by real-world organisations. UCL said that having students work on ..."
-    publishedDateTime: 2020-04-07T11:13:00Z
-    webUrl: "https://www.computerweekly.com/news/252481271/UCL-collaborates-with-IBM-to-use-virtual-reality-to-tackle-loneliness"
-    ampWebUrl: "https://www.computerweekly.com/news/252481271/UCL-collaborates-with-IBM-to-use-virtual-reality-to-tackle-loneliness?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252481271/UCL-collaborates-with-IBM-to-use-virtual-reality-to-tackle-loneliness?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
-
 secured: "PP9Xr9/100IZnVQUzi28teqjh4GoAH7X4C4b10EFySPeyOt+VIpBeyW0/OuwPXi90yJFhphxeztwgCZzgBXGZm40D2HR8AYJUBN/qc0JKB/QeLNNPUZPHoDFJk4DMqNLkaPmWK0LGfZjFPCsnZRiFzLnwNfOKXatvKmDsZU/s8bhRpaJbniKPHWfCschW6OQHa/EqGL5Bze5igtCBjkAxnXsFp7DQeUs0+mIniLam5JM/kbRBy9NWoTgrFEejXUgZl0Ogdic10kEtbq50xoEvYNCCSVq0voFSHFuwXaiGLZ3+JDbUsWvGlQiu6sB5yhpj6AVMf/GAz7sTF8PKYf8ebz0tqr5+8eUyL5c0I/HKrok+kx2V4xW4MQ5RwnRWth9KcR9GuP5RRfcuH+pNJ6QIyOrB7T8qOSWYf7KxgkAVQO3opCkNiloALRQ5UmLD5PbFaX43M/XIOANsIy54WwkE2UXu6vYlsTdCqfOzTc7kHY=;4AO/A0OuqjHVB9If2HD1Bw=="
 ---
 
