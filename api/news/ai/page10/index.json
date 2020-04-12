@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
+      "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
+      "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6d-ai/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/wOD2pqt5YiE48j8erpa0ii9An9w=/756x567/2019/07/25/48f277d2-b011-4181-9cec-22c857bd0a68/screenshot-2019-07-25-at-12-12-02.png",
+          "width": 756,
+          "height": 567,
+          "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
       "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
       "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
@@ -1277,54 +1321,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-huawei-open-sources-mindspore-a-framework-for-ai-app-development.md",
-      "title": "Huawei open-sources MindSpore, a framework for AI app development",
-      "excerpt": "Huawei this week announced that MindSpore, a framework for AI app development the company detailed in August 2019, is now available in open source on GitHub and Gitee. The lightweight suite is akin to Google’s TensorFlow and Facebook’s PyTorch, and it scales across devices, edge, and cloud environments, ostensibly lowering the barrier to ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/huawei-open-sources-mindspore-a-framework-for-ai-app-development/amp/",
-      "publishedDateTime": "2020-03-30T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4430f3df-d46f-46c6-9767-ec2c36d7d8ef-e1585576947747.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Huawei open-sources MindSpore, a framework for AI app development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware",
-        "Google AI",
-        "Computer Vision"
       ]
     }
   ],

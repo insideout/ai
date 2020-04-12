@@ -8,7 +8,7 @@ ampWebUrl: "https://www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-drive
 cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -24,66 +24,6 @@ images:
     width: 1200
     height: 635
     title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
-
-related:
-  - title: "A Florida lab is using self-driving vans to ferry coronavirus tests"
-    excerpt: "The self-driving vans reduce overall potential exposure to the virus and free up healthcare workers."
-    publishedDateTime: 2020-04-07T09:23:00Z
-    webUrl: "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/5e8c3f97b3b0922413616ca4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-  - title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
-    excerpt: "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ..."
-    publishedDateTime: 2020-04-07T14:47:00Z
-    webUrl: "https://www.entrepreneur.com/article/348874"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/348874"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 74
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9"
-        width: 600
-        height: 338
-  - title: "Mayo Clinic begins using driverless vehicles to deliver COVID-19 tests"
-    excerpt: "The use of driverless vehicles helps to reduce the likelihood of vital equipment being contaminated. Kent Thielen, M.D., CEO of Mayo Clinic in Florida, says: “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge autonomous vehicle technology and frees up staff time that can be ..."
-    publishedDateTime: 2020-04-07T15:36:00Z
-    webUrl: "https://iottechnews.com/news/2020/apr/07/mayo-clinic-driverless-vehicles-deliver-covid19-tests/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 39
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/04/mayo-clinic-covid-19-coronavirus-tests-driverless-cars-autonomous-vehices-iot.jpg"
-        width: 1536
-        height: 864
-  - title: "Self-driving vans are ferrying coronavirus tests from drive-thru sites to a Mayo Clinic campus"
-    excerpt: "Self-driving vans are ferrying coronavirus tests from drive-thru locations in Florida to the Mayo Clinic campus in order to minimize exposure of the virus and free up healthcare workers."
-    publishedDateTime: 2020-04-07T15:41:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-8196433/Self-driving-vans-ferrying-coronavirus-tests-drive-sites-Mayo-Clinic-campus.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8196433/amp/Self-driving-vans-ferrying-coronavirus-tests-drive-sites-Mayo-Clinic-campus.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8196433/amp/Self-driving-vans-ferrying-coronavirus-tests-drive-sites-Mayo-Clinic-campus.html"
-    type: article
-    provider:
-      name: Mail Online
-      domain: dailymail.co.uk
-    quality: 32
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/04/07/16/26917954-0-image-a-17_1586275114955.jpg"
-        width: 636
-        height: 382
 
 secured: "ifb9OYyi3zuPEuACu1yxTuvAHybD31cyz5yGXoYGbi+ROeKfYvfpoSDLCmgEOTzSOQnafGBE2e1A+Xyy4gqGY+OQ8DwSCDZjEy7XShLdN6HCQI3i9TX4VA6ITX3Fo9aLVCdmcRdNwH2xHAKeW1edhvEiWRNIj6bnVyMOwQTcPqFuLBx1bMAjWLW8KVxUS4lNfvvCqEHl5ESwX9/n6DQg04HLsAIY87ohstKkx8aw+9o5bIIlzLoJ5UyvQut0IaelUog/RTPhKVEpZCM0862EKXG2v6+4+v6r7mHHDPOBIoGYAP8AINgGtPHACRBGhaldkEkQpEJHD+ImLz6DM1rTVU1TZ8D47YoXOrBGE/PQBjURzrozDiaizNWhu+9xs4OFZ9iUGC538MhiJq0KGEqkorVApe4TW+kBHmTNx5eJ/dkrwIr9G+n7lBQvjuK/s9IRE//t8sid2HhEFN1zoHXUkfZxXzuCQktfPABBUxx5fLg=;oyDTFrX7oXvIOY3xqNjF7w=="
 ---

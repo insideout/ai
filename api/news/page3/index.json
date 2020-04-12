@@ -1037,38 +1037,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida.md",
-      "title": "NAVYA, Beep Use AVs To Tranport COVID-19 Tests To Mayo Clinic In Florida",
-      "excerpt": "making the partnership with the Mayo Clinic easier to implement. The Jacksonville project comes as the autonomous vehicle industry has been slowed by the coronavirus crisis. Both Waymo and Uber have suspended their self-driving fleets.",
-      "heat": 83,
+      "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
+      "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
+      "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
+      "heat": 99,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/?ss=logistics-transport",
-      "ampWebUrl": "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/",
-      "publishedDateTime": "2020-04-07T14:04:00-07:00",
+      "webUrl": "https://www.news-medical.net/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200407/UC-San-Diego-Health-uses-AI-to-augment-COVID-19-lung-imaging-analysis.aspx",
+      "publishedDateTime": "2020-04-07T13:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F41152025%2F0x0.jpg",
-          "width": 1200,
-          "height": 798,
-          "title": "NAVYA, Beep Use AVs To Tranport COVID-19 Tests To Mayo Clinic In Florida",
+          "url": "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
           "attribution": null
         }
       ],
@@ -1077,7 +1069,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AWS AI",
         "AI"
       ]
     }

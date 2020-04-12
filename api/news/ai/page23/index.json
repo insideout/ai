@@ -2,6 +2,43 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-18-datarobot-and-intersystems-partner-to-accelerate-adoption-of-ai-in-healthcare.md",
+      "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
+      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in a simple, intuitive, and scalable way. InterSystems’ technology simplifies ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/DataRobot_and_InterSystems_partner_to_accelerate_adoption_of_ai_in_healthcare-ZAWYA20200318071738/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-towards-an-ai-led-2020.md",
       "title": "Towards an AI-led 2020",
       "excerpt": "AI, machine learning and data science are becoming more mainstream in larger organisations in SA. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of cognitive services for image recognition, text analysis and form recognition capabilities, without actually having ...",
@@ -1127,43 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service.md",
-      "title": "Moven and the Saudi Digital Payments Company (STC Pay) announce Agreement to Collaborate on new Fintech Banking Service",
-      "excerpt": "Ahmed Alenazi, the CEO of STC Pay added, \"we have strived to create the best FinTech service in the Kingdom and the MENA region in Oct 2018 ... Movencorp leads banking-as-a-service innovation in AI/ML driven smart-banking technologies in order to drive financial wellness and smart day-to-day banking capabilities. Movencorp, Inc is the only ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
-      "publishedDateTime": "2020-03-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

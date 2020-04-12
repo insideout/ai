@@ -2,6 +2,43 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-20-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence.md",
+      "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
+      "excerpt": "The beauty of artificial intelligence, however, lies in the way that organizations use it to prepare themselves. Breaking down to the nuances, it means understanding the customer behaviors and personalizing experiences so that they get exactly what they expect from a product or brand. Be it the world of business or healthcare, artificial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hostreview.com/blog/200320-whats-next-after-artificial-intelligence-enter-the-world-of-explainable-artificial-intelligence",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-20T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Host Review",
+        "domain": "hostreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "What’s Next After Artificial Intelligence? Enter The World Of Explainable Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-how-to-ride-the-third-wave-of-ai.md",
       "title": "How to ride the third wave of AI",
       "excerpt": "Object recognition is the same. Vehicles are now pretty good at recognising other vehicles and pedestrians as part of their advanced driving assistance. However, how effective it is depends on ...",
@@ -988,51 +1025,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-natural-language-processing-things-you-need-to-know.md",
-      "title": "Natural Language Processing — Things you need to Know.",
-      "excerpt": "Specific applications of Artificial Intelligence include expert systems, Natural Language Processing (NLP), Speech recognition and machine vision. ML is a branch of artificial intelligence where ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/natural-language-processing-things-you-need-to-know-43eeb87da177",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/480/1*1h9L7znh-eIvyy0T7LAqJw.gif",
-          "width": 480,
-          "height": 366,
-          "title": "Natural Language Processing — Things you need to Know.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-31-covid-19-mapped-azure-powered-tool-ids-the-most-vulnerable-populations.md",
+      "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
+      "excerpt": "Read More A company called Jvion, which specializes in what it calls clinical AI, is launching a COVID Community Vulnerability Map, a public facing tool built on Microsoft Azure maps that helps healthcare providers identify the social determinants of health (SDOH) that put populations at greater risk. That information can have a significant ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/azure-powered-covid-vulnerability-map/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-powered-covid-vulnerability-map/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-powered-covid-vulnerability-map/",
+      "publishedDateTime": "2020-03-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/03/30/1f52aa7d-f4a3-4f5f-ac3d-bbdec514a86a/covid-map.png",
+          "width": 1260,
+          "height": 1004,
+          "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
       "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
       "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
@@ -1062,51 +1107,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral.md",
-      "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-      "excerpt": "Reports claim that Tesla Autopilot might soon get a red light auto-stopper feature, which causes some to worry.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
-      "publishedDateTime": "2020-03-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39403725%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

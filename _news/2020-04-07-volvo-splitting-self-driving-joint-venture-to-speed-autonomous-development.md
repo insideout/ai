@@ -41,19 +41,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 449
-  - title: "Self-driving vans used to move COVID-19 tests"
-    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a \"first\" for the U.S. During each run made to and from the clinic, the self-driving shuttles are being trailed by an SUV driven by a human but they are at ..."
-    publishedDateTime: 2020-04-07T10:40:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50608-self-driving-vans-used-to-move-covid-19-tests"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3067ad0db5dc2799d359e0d9222c0a25_L.jpg"
-        width: 620
-        height: 413
   - title: "Self-driving vehicles set to become common"
     excerpt: "A driver participates in a test for buses supported by Haylion's autonomous driving system in Shenzhen, Guangdong province. [Photo/Xinhua] Self-driving vehicles may soon be a common sight in China and the industry could see rapid growth as the COVID-19 outbreak has underlined the importance of such vehicles during an epidemic, industry experts ..."
     publishedDateTime: 2020-04-08T01:11:00Z

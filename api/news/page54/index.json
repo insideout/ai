@@ -2,6 +2,51 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
+      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "publishedDateTime": "2020-02-20T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
+          "width": 960,
+          "height": 541,
+          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
       "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
       "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
@@ -1042,51 +1087,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-the-wonderful-weirdness-of-neural-nets.md",
-      "title": "The wonderful weirdness of neural nets",
-      "excerpt": "K. Rowling novel, but rather than an attempt at Harry Potter fan fiction written by an artificial intelligence. Its penchant for the culinary is down to a fundamental quirk of neural networks.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/computers/weird-neural-networks/",
-      "ampWebUrl": "https://newatlas.com/computers/weird-neural-networks/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/computers/weird-neural-networks/?amp=true",
-      "publishedDateTime": "2020-02-19T11:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/713adf9/2147483647/strip/true/crop/4000x2667+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F3f%2Ffb%2Fa2c818ab43428d1e1a19b39eb9e4%2Fdepositphotos-31079473-xl-2015.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": "The wonderful weirdness of neural nets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

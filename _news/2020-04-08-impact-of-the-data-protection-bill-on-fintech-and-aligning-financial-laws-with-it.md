@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-08T06:09:00Z
 webUrl: "https://www.medianama.com/2020/04/223-personal-data-protection-bill-fintech/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     title: "Impact of the Data Protection Bill on fintech and aligning financial laws with it"
 
 related:
-  - title: "Boosting productivity and differentiation with RPA"
-    excerpt: "This means having advanced object recognition technology to detect UI changes and to automatically adapt as needed, saving time on maintenance. “In conjunction with RPA, operations orchestration (OO) will enable users to integrate all software products, thereby helping them offer end-to-end automation in IT. This is because OO automates ..."
-    publishedDateTime: 2020-04-07T09:25:00Z
-    webUrl: "https://www.itweb.co.za/content/G98YdMLY5QXqX2PD"
-    ampWebUrl: "https://amp.itweb.co.za/content/G98YdMLY5QXqX2PD"
-    cdnAmpWebUrl: "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/G98YdMLY5QXqX2PD"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 44
-    images:
-      - url: "https://www.itweb.co.za/static/pictures/2019/07/Gary-de-Menezes-NetApp.jpg"
-        width: 405
-        height: 305
   - title: "Machine Learning: Making Sense of Unstructured Data and Automation in Alt Investments"
     excerpt: "Here, we explore how Machine Learning (ML) paired with a better operational workflow ... The issue is even more pronounced in information-intensive industries such as financial services, as valuable employees are also required to spend needless hours every day processing and synthesizing unstructured data. Transformational change, however ..."
     publishedDateTime: 2020-04-08T01:26:00Z

@@ -54,19 +54,6 @@ related:
       - url: "https://images.wheels.ca/wp-content/uploads/2020/04/158389_Autonomous_drive_technology_Complete_system_solution-scaled.jpg"
         width: 2560
         height: 1440
-  - title: "Self-driving vans used to move COVID-19 tests"
-    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a \"first\" for the U.S. During each run made to and from the clinic, the self-driving shuttles are being trailed by an SUV driven by a human but they are at ..."
-    publishedDateTime: 2020-04-07T10:40:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50608-self-driving-vans-used-to-move-covid-19-tests"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3067ad0db5dc2799d359e0d9222c0a25_L.jpg"
-        width: 620
-        height: 413
 
 secured: "cNEPlmVfFiBnYjRR8Iu17uimpDxELTCmxx/3XL4uoxxUUFf90mt2Jtc0JTifHt+uBbT4evFP/5RFXhtHb/+jXuJcbQTWYRSjScEM/+vkNSKEQCWEukosUK6dregTkwXwdw/sLs+btMlXB8kugQEGAeU3EeppCtAlJQ1HpzeU+7ezjdBzYtZ/m89bJLVOJNK1IZaDVSRCpGEE9ovwWLRPK5Tiilj/b4LWJw2KbWRwPIli3YPcPfsZr0N1LSX+EpoBsRTxkLpVoSMszickHDWbLhh0888Aq5FF9QEq7PcQROlxDBEXEHlpJ4101KyOHeiNMr2NYqeblGJvx6+aERGC1UwjmUTJH/yQurLiNuXz1xfupSLuP0uoumIRaf1NTt+u/gMBhoIYPYmz6010HrtESuWzhbyqL+fjQqVVR2CQ0rL1EwlBYlnvzKUfzkjB5fV6xcP61x04dd7BP39bvKvjT1W1UanhzoEhyUyOVQ1v8YM=;69dHmonRyo5yvsokz+lUng=="
 ---

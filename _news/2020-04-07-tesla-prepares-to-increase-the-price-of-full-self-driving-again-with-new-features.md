@@ -8,7 +8,7 @@ ampWebUrl: "https://electrek.co/2020/04/07/tesla-increase-price-full-self-drivin
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/"
 type: article
 quality: 98
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -45,19 +45,6 @@ related:
       - url: "https://images.wheels.ca/wp-content/uploads/2020/04/158389_Autonomous_drive_technology_Complete_system_solution-scaled.jpg"
         width: 2560
         height: 1440
-  - title: "Self-driving vans used to move COVID-19 tests"
-    excerpt: "Autonomous shuttles are being used to move COVID-19 tests from a Jacksonville, Florida testing site to a nearby Mayo Clinic processing location, in what the medical nonprofit is calling a \"first\" for the U.S. During each run made to and from the clinic, the self-driving shuttles are being trailed by an SUV driven by a human but they are at ..."
-    publishedDateTime: 2020-04-07T10:40:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/50608-self-driving-vans-used-to-move-covid-19-tests"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 24
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3067ad0db5dc2799d359e0d9222c0a25_L.jpg"
-        width: 620
-        height: 413
   - title: "Self-driving vehicles set to become common"
     excerpt: "A driver participates in a test for buses supported by Haylion's autonomous driving system in Shenzhen, Guangdong province. [Photo/Xinhua] Self-driving vehicles may soon be a common sight in China and the industry could see rapid growth as the COVID-19 outbreak has underlined the importance of such vehicles during an epidemic, industry experts ..."
     publishedDateTime: 2020-04-08T01:11:00Z

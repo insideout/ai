@@ -8,8 +8,8 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/348874"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: Entrepreneur
@@ -30,36 +30,21 @@ images:
     title: "Autonomous Shuttles Ferry COVID-19 Tests Around Florida"
 
 related:
-  - title: "A Florida lab is using self-driving vans to ferry coronavirus tests"
-    excerpt: "The self-driving vans reduce overall potential exposure to the virus and free up healthcare workers."
-    publishedDateTime: 2020-04-07T09:23:00Z
-    webUrl: "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4"
-    ampWebUrl: "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp"
+  - title: "NAVYA, Beep Use AVs To Tranport COVID-19 Tests To Mayo Clinic In Florida"
+    excerpt: "making the partnership with the Mayo Clinic easier to implement. The Jacksonville project comes as the autonomous vehicle industry has been slowed by the coronavirus crisis. Both Waymo and Uber have suspended their self-driving fleets."
+    publishedDateTime: 2020-04-07T21:04:00Z
+    webUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/?ss=logistics-transport"
+    ampWebUrl: "https://www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greggardner/2020/04/07/navya-beep-use-avs-to-tranport-covid-19-tests-to-mayo-clinic-in-florida/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 73
     images:
-      - url: "https://i.insider.com/5e8c3f97b3b0922413616ca4?width=1200&format=jpeg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F41152025%2F0x0.jpg"
         width: 1200
-        height: 600
-  - title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
-    excerpt: "Driverless vehicles are being used in northeast Florida to transport COVID-19 ... An accompanying vehicle, driven by a person, follows it, according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge autonomous vehicle technology and frees up staff ..."
-    publishedDateTime: 2020-04-07T17:23:00Z
-    webUrl: "https://www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html"
-    ampWebUrl: "https://www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/jobs-economy/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 52
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/iYi9LMBDKD3GKRWmhpK920iZT7Y=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/RHUO5ROTPRBJXAVWDTN6HF24TU.JPG"
-        width: 1200
-        height: 635
+        height: 798
   - title: "Mayo Clinic begins using driverless vehicles to deliver COVID-19 tests"
     excerpt: "The use of driverless vehicles helps to reduce the likelihood of vital equipment being contaminated. Kent Thielen, M.D., CEO of Mayo Clinic in Florida, says: “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge autonomous vehicle technology and frees up staff time that can be ..."
     publishedDateTime: 2020-04-07T15:36:00Z

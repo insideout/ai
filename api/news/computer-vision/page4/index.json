@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-08-facial-recognition-technology-is-getting-out-of-control.md",
+      "title": "Facial recognition technology is getting out of control",
+      "excerpt": "Facial recognition is a more pressing concern than aerial surveillance. Thanks to technology like that developed by Clearview, anyone who has uploaded photos of themselves to social media is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3",
+      "ampWebUrl": "https://www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facial-recognition-technology-getting-out-of-control-needs-regulation-2020-3?amp",
+      "publishedDateTime": "2020-03-08T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e62a399fee23d57f8269b25?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Facial recognition technology is getting out of control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-with-painted-faces-artists-fight-facial-recognition-tech.md",
       "title": "With painted faces, artists fight facial recognition tech",
       "excerpt": "LONDON -- As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long ...",
@@ -1169,43 +1214,6 @@
           "width": 796,
           "height": 417,
           "title": "Automated facial recognition breaches GDPR, says EU digital chief",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-facial-recognition-technology-is-the-new-rogues-gallery.md",
-      "title": "Facial Recognition Technology Is the New Rogues’ Gallery",
-      "excerpt": "Fueled by explosive reporting, foreign totalitarian regimes, and a lifetime of dystopian sci-fi, the movement to ban the government’s use of face recognition technology is growing. As of now, seven cities across the country—San Francisco, Oakland, and Berkeley in California, and Brookline, Somerville, Northampton, and Cambridge in ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.html",
-      "ampWebUrl": "https://slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp",
-      "cdnAmpWebUrl": "https://slate-com.cdn.ampproject.org/c/s/slate.com/technology/2020/02/rogues-gallery-facial-recognition-technology-history.amp",
-      "publishedDateTime": "2020-02-17T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Slate",
-        "domain": "slate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://compote.slate.com/images/98a4ad17-4082-4a99-a71e-75514dd0625f.jpeg?width=780&height=520&rect=780x520&offset=0x0",
-          "width": 780,
-          "height": 520,
-          "title": "Facial Recognition Technology Is the New Rogues’ Gallery",
           "attribution": null
         }
       ],
