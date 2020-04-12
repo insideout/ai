@@ -23,21 +23,6 @@ images:
     height: 321
     title: "Impact of the Data Protection Bill on fintech and aligning financial laws with it"
 
-related:
-  - title: "Machine Learning: Making Sense of Unstructured Data and Automation in Alt Investments"
-    excerpt: "Here, we explore how Machine Learning (ML) paired with a better operational workflow ... The issue is even more pronounced in information-intensive industries such as financial services, as valuable employees are also required to spend needless hours every day processing and synthesizing unstructured data. Transformational change, however ..."
-    publishedDateTime: 2020-04-08T01:26:00Z
-    webUrl: "https://www.tradersmagazine.com/am/machine-learning-making-sense-of-unstructured-data-and-automation-in-alt-investments/"
-    type: article
-    provider:
-      name: Traders Magazine
-      domain: tradersmagazine.com
-    quality: 19
-    images:
-      - url: "https://www.tradersmagazine.com/wp-content/uploads/2019/12/Depositphotos_95137986_s-2019.jpg"
-        width: 1000
-        height: 833
-
 secured: "qv5wSiC3JvgXol1piLPpw/yX/OyIZix1G0ChddEPOqUBEerds5QhTi0/daB2w7u/yV+ByDFJCz1MgSKrYi+FeBQy3enTdvOo+RQAQYgmABQSGtUzScQHBYUGBucL6WR6gHDtddx5w3OEMpi+qIi6qYmLTL5asg3nkHFc8cfak0P3ukz3kjzQsV37PEJ5ZJDZ340y4sjKMS554lfuRIkcr+OHANwot5uS9eohrgvwGkLikumMyO99QuwDRueZJrhTcjoS0ddyzjI7mxICZHGcNNeoPg1iEJ6BZY5k7yBxQ85YZFI349SGowTLklk9kKnsXDHu2nMtOX5O+iZVB+UF8RCV5PO8Ab/Ftco64WMcGKpSaUQep4nlBlcJITYcnymaFcZyOAvJpJu1d6XNlIeE2Z9t6X0sgEnMMHhEEYS2CkbDtrHnEP6MmWp5nCN2AKqjvDcAvmli4HdY80VfWlm0z9gHDj/KrPbI03QJX5HKEYo=;ePTAMhQPDPzNASSNMiuozA=="
 ---
 

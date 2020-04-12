@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Robots welcome to take over, as pandemic accelerates automation"
-excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
-publishedDateTime: 2020-04-12T12:13:00Z
-webUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
-ampWebUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+excerpt: "Let robots do the job. Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material,"
+publishedDateTime: 2020-04-12T19:07:00Z
+webUrl: "https://www.startribune.com/robots-welcome-to-take-over-as-pandemic-accelerates-automation/569557772/"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Orlando Sentinel
-  domain: orlandosentinel.com
+  name: StarTribune
+  domain: startribune.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.orlandosentinel.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
+  - url: "https://stmedia.stimg.co/ows_158656810321915.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
     width: 1200
-    height: 900
+    height: 630
     title: "Robots welcome to take over, as pandemic accelerates automation"
 
 related:
@@ -42,6 +40,6 @@ related:
         width: 1200
         height: 900
 
-secured: "WT0qfjRo9tKm2iEwJlxKYtu0Lm/x0hQlHfBEkR3l/e8AVkyBd5q1WHMZNmOGq/X8qxnFvNWROn6yEkGDS577gVT7Ppvdm8TwmqS7Xv6xKlk+tU6vu8rdPPqXkD4tzBz8yOEpr5MctvnZmVih3LQP8jso7s+bopUB3ckxG5r6WpkvC0yIJ6Axd4Orh4YIW0daWhumTaB3aq6Pop3OxppTf07730+KRMyZppxg9xt/DY0oebhkw7VUxg1qeTx4D8CLiNAQqIT5riAaMaZWmVROxJVOiDEE2Z1OlBIIvHqsbzbh9aKJD04eqBDYHe15OTwr;cKQvIjWZ4XlO9vMD3V+JOQ=="
+secured: "mYSA2bZDJFz4WTolRsGgTi8b90KEAakfgLPhqa4CxkGtRI/GVNG+/vL9TH0+rOTMljZMCYcQBf11OZwqhZ9NpQXK5lu5Fmv9jgCHqMAnOv6GSIJN4w3aRnMo6eLcr7T5wzAeBtIt1N3oLZtJqznEFrc+nK6hu0C26EZ5oYPiF95dF/g+JN/cE23ZAXWGsMyIbK9Ib2phMpzpmZTC4as5FnGMIh0JJaZ1I9QhO9A/APWFv/T/Tf3r5TiTHDj5H9aNGF2RAu9c4NA0RtqBSLQFecRMWG81WOKoccXAQyl1KMow2cthvv1XIRrcXH7+aOvb;UYIw+PMFcCIE50ZaeIjI5A=="
 ---
 
