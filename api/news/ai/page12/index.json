@@ -261,6 +261,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-28-microsoft-sells-stake-in-israeli-face-recognition-firm.md",
+      "title": "Microsoft sells stake in Israeli face recognition firm",
+      "excerpt": "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-28T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sify.com",
+        "domain": "sify.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg",
+          "width": 1350,
+          "height": 750,
+          "title": "Microsoft sells stake in Israeli face recognition firm",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
       "title": "Microsoft to divest AnyVision stake, end face recognition investing",
       "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
@@ -346,43 +383,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-sells-stake-in-israeli-face-recognition-firm.md",
-      "title": "Microsoft sells stake in Israeli face recognition firm",
-      "excerpt": "Microsoft has announced to divest its stake in third-party Israeli facial recognition company AnyVision despite an investigation that cleared the firm of any unethical practices. Microsoft’s venture capital arm,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/",
-      "ampWebUrl": "https://newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/amp/",
-      "publishedDateTime": "2020-03-27T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/03/24d83419f2d8f570a40cc5104af46d17.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Microsoft sells stake in Israeli face recognition firm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },

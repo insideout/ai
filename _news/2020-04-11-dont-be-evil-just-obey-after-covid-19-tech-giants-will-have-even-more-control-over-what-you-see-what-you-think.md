@@ -25,6 +25,6 @@ images:
     height: 258
     title: "Don’t be evil, just OBEY: After Covid-19 tech giants will have even more control over what you see & what you think"
 
-secured: "LLjg4IflddYPLmw640sxKQqYtA0u9OBe3jjPGKO6/AM4GfK8Meza4hQeSvwjd80pAJYEU43iSyJw/oYwcxR8YLF40kHmK8uhHCKYqB4e9u+WFC6Wg3rfONmuFCriVUqLEsbeAvE6h2EbrBMTbXNgYETZNwOEmiRw4fZb6sL4DYY2t3IDUwIiBjGqxrZ38S9XbIK3C2uLKSYSUHS5DUc6QzW5TD+JpP7jvtdLTTwoEuS8D94l/nnHhj+gxhXzhGeMa5qlhgK0SK86vCXIEs43CTo7Iv2MmjY5dWiNVz/gdV/ulaLh+gX5cDO6CgJfoyzQ;y1I7qGvFGdUaGNFRjZ7Beg=="
+secured: "VmJSXjtP+ffct5On5iCM3YlRGGTl0tj1qoB1/fxUVP4GEzFrMr7X5k6CI/DK4fxDillxIGDvtIbyRoGeiCfEWy9MrXmoeVxoj2jj/BAsPIMAMDvMwgc3mi1TA4ZMWNTIm9ZnxriZD+k+O6EVpcJn/eEXeV4A5uZIayuAxBIOQ+K0DEW0WCOArCMugff6Y6/AIxjy2ed3J/H7AAmw7Y2uF7RE0ZnCSWk4GmcPG3BLgZdLAhBD84ziIRVgI6/7Q3skHj8gFqORYzvRHJqYHXsNt7pLmx3bW3TyGYe/iIdXMb7IbFkxvezG6IBmUXaUWwU7f732o9jQzBxwUAMJtywqUN2VK/ocDv9CtUCQWKt0q544p3vOJx6DhbRqjrV6QnxXKWLA5IvyDmSaVh6LW0AQSwWNfCEGcFZBZOx8sKGL9vPrFBfMuByujXw2TalumaHkXrkxiKDYjL4dH+nrWymKzcXKPNW+x9XBOTDZmgaS43Y=;zsTl/+hp+/OsYbBueDxdqw=="
 ---
 

@@ -28,19 +28,19 @@ images:
     title: "Outlook on the Global Smart Cities Industry to 2027 - Emergence of Artificial Intelligence Presents Lucrative Opportunities"
 
 related:
-  - title: "Global Voice Recognition Market 2020-2025 Growth Analysis, Competitive Situation, Geographic Segmentation and Forecast Opportunity"
-    excerpt: "The Voice Recognition Market was valued at USD 10.70 billion in 2019 and is expected to reach USD 27.155 billion by 2025, at a CAGR of 16.8% over the forecast period 2020 - 2025. Increasing demand for voice-activated systems,"
-    publishedDateTime: 2020-04-07T07:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-2020-2025-growth-analysis-competitive-situation-geographic-segmentation-and-forecast-opportunity-2020-04-07"
+  - title: "Insights on the Worldwide E-Learning Service Industry to 2025 - Major Players and Strategy Analysis - ResearchAndMarkets.com"
+    excerpt: "On the basis of end-user, the global e-learning service market is segmented as corporate, academic, and government. Technological advancements such as AR & VR devices, AI platforms, big data, and machine learning provide a great opportunity for the growth ..."
+    publishedDateTime: 2020-04-07T15:38:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200407005660/en/Insights-Worldwide-E-Learning-Service-Industry-2025--"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://mms.businesswire.com/media/20200407005660/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
-        height: 630
+        height: 627
 
 secured: "Vu2sdI7dHbE9OtLySFWYk6Rwz/ZHXxenz3zw1J5o5GJsGKYqGccnQ18yjXzPwaFzjJ32Q55hhAWMlK8UnxM3yUt+bhwDo5ZNsyk4/59XcoGuVbKRDBD7kf+J9WhqFEHnOHdX9srV/WQNrmqz28fqNJtrnYc26vJsVLOO3+tztJ/AErU5rMIlXcLwgNeHbeenn8cJ5JO9TJkCCfgs8DhmOZ6bqiaAILIbq01EdK/GoCdM9FCpjhssR1EAq2AhR6xSr4S89qG22wakA6FukejwAG9TY2tK/NwgI3cxWQM0EtuRxrVCtqnwRCdM++wpoByt;YF4nsioKLw9aD6T7WnNXNA=="
 ---

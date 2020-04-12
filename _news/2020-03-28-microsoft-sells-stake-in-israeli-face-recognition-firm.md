@@ -1,27 +1,25 @@
 ---
 category: news
 title: "Microsoft sells stake in Israeli face recognition firm"
-excerpt: "Microsoft has announced to divest its stake in third-party Israeli facial recognition company AnyVision despite an investigation that cleared the firm of any unethical practices. Microsoft’s venture capital arm,"
-publishedDateTime: 2020-03-28T04:15:00Z
-webUrl: "https://newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/"
-ampWebUrl: "https://newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/amp/"
-cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/microsoft-sells-stake-in-israeli-face-recognition-firm/amp/"
+excerpt: "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart."
+publishedDateTime: 2020-03-28T08:28:00Z
+webUrl: "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html"
 type: article
 
 provider:
-  name: Newsd
-  domain: newsd.in
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://newsd.in/wp-content/uploads/2020/03/24d83419f2d8f570a40cc5104af46d17.jpg"
-    width: 400
-    height: 300
+  - url: "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg"
+    width: 1350
+    height: 750
     title: "Microsoft sells stake in Israeli face recognition firm"
 
-secured: "TxiXdfY0YTpCe83dRytn7g9RMyyGTYI+JRgAy8iQmENpLoAreFclh5QTsxCXAZNNRZTWqLtHLItaeUvwv3cXoi23pq/VR5uAcgkr0B70R9habUjir0wMUAzGRXRknlpnfp0/rTncfTf5jsAHM646audo93HdBSI9+GeJnJMpb6X3GM5+Wu+q9m4y9Vf7oLRG/OFZzZ5JoJwfQzVLlDiAlDiZk/IafIuH5rB38a6utnmSxMvstZaEzhCsDQjaX0eycnQL86+yxIM8IFhumFjDK9UdN6JlrwbAmAYtFh1lsTjj8Ib2ikluf6X0Y9kz5OZH;stB3J8YSqy09TyvFP8ho8w=="
+secured: "Nb8gZkEE8L4WSkTgHS1UZgQFWVTidvmD8c02/qvN1JsSonGOBjDKhP8M3MyepcDJuf6g4ufvM3cINIz+neycSM9zoINI6gqVpOgmcEmyMyYM4dSAtNO3vQ+IayUc8wZNmVGTOvYGiIsw3VJtLDIXDLpWrvgIKFXUuFq7ulKbh1NVlUUM3RTD6W2zQOLO9n44x9G2Xl0qVWJzodNlorusaeUeWKEX1syhCyougHsUPmb1AMo9dI+D//gOcp9C3gzdpV0hE1aYyRvQi1SETiO7KiDWe/iiyoiyKf3Cl6rwJpTCmAcb+ZBvFQFu2qB1ctfV;XAr33ugZdbXppVZXwAmljw=="
 ---
 
