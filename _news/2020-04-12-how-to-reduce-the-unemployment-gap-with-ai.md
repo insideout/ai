@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 90
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "How To Reduce The Unemployment Gap With AI"
 
-secured: "FxTSj0ljvhbAzgPLXqMfzZq8gBUFYLLLDC/a7SZBcXAqiqparFpfWYm4afI+4fG6uG873mMwsAgrqiHX2nwhX1IJAi8u2dpdJfabF9SEpVUxzr/MNAwJH+q2gWD/bK31vGey1FS9WpsVoYHnnQzv4aSIvtzMKgrkMRFw85AvTw4eHVj7EDdXWnjoK3mHJd9k0mnM6alkuBa8nLyHYrpyGtqTNeRuzh07HdrYDK+psjzOH9d7dsSOKS43bAsGpjfsR5ZSvZQh36WT4l37cSt/BNR5iMjXlAGFUCfdtyMy9SO9dU9guzU8IDwYeiUdJsk8E33BKcldTRFIyHIdTovLxSWs77St/UvtC5RD2uSjYGVGf4YXNbKOZ4JTbf1A2+xQMXacdGgpocL0i9qkraoe8jLJBgUUfUATUIAPb9wMZ0yv/EmsZqc66r9v20H2VhpHamIkq+W7akInIZN6JgEVNl6e4prcfYc0rgoNh1VOpjM=;HlvYqeHCqyBfRDIt6Fjwkg=="
+secured: "KtSdMVtq88QMKVnRZ153RvpsF+lAUq3vz/Dbh0ib71hrsAyjfAtX6Y2zncVHAkMNjf6W2KI9azLWwRB2KhajLUW8YTdK0em6920TQpwOT14dapi/FhvECwPf/MF796eAFEvbSHv6kaSZ8vXmYzqEXzelwlIIaqFD+uw80FGn3h2ex4pStWWRBOOUY63bZMlUTl5lp4qH5M1+R0teaIPz0suAAtY9ueqhDNnEkNzzR78ljfc6UvVFk6AKOLv0IdcMRa7uFpR+MVaZ8gQ/JezY2YEV4C1YfNMImc4f4oeBIrmNa6S7HgJ1uBem/uxQzaZKtp9Eo5nftEP1gUS/b1itteeRWTK6TLO1YaI93YxIMR+0XjiuHfSQff6VcllAzfolwn/J01Df74yQl4wSWoNB8cphy1Ua7d59LM8ykHHH619eneL68BuJ+ic7pT1SNUKNaiU3C0LmltJ1yEP/U7jss5pbNpivLSnQFnKztxNW80M=;HP7ZvhDWouUVzSG4mGpbaA=="
 ---
 

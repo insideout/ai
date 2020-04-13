@@ -17,10 +17,9 @@ provider:
       height: 50
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-secured: "5S+Sn/IU2piS/l68g8Q/oN+or+qGnD80BStBp0PGiQ6ZzIFsm39MlcL9prQnOuysG9hDaKG2hgZA5I0UAQDCU3f4JWq6Ri1nCcOfChLdwpgUuzE3WgzSDVR8U22HdmOYSyrg7axjrBxHrpy3G5zvxQLtECQEavBSj4S+UdYKP23L+YIEPnMnBlogZWfmA6R1zWCbycNMbEi5eydGrbNCcTLLQewJOcwqTJuhUqDwltPzXwiBiaKhVDI+J8BtC+NeoZ/nCVlrfzPHKtGlOLy3E8Dxtd2X3B2nOzC8vC70w1P4D4faIYSQhD100D9KTVC9;lBj9ogvUr0ftZw7RJrAX2Q=="
+secured: "dm6vep0WGoV9mwa3cU3MS5bCYB1XBgyZXM6hY/L5Cs/o+sELFKx9S3zJ2ox/NFDJ4mfdylGt0URLxvr4YMxHMln2D4BAWuPOgin2lmVv7Pa8bCSFlIVSIQagzgiKXE4NOwjSwQAYabxsccP2vj3eyeHTR2eDRALHPs91uUCL5zOf8FFuxfCnF8kDAA7Sev+PA/phLLo0sa+9kxSxvfrhD1EhAeKvphBxU8ilErE6lrEiIZqaptFUluRvFUUsfrIfb3pQhBdWkqnwQ6TJ3i5kBcEn8w8XEPomcGKaRNUMQM/YkKaYX5AyT5ZkxRVTIzwn;GO9FiUUs+Sgg+JxuYTFasg=="
 ---
 

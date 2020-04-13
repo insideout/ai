@@ -2,6 +2,43 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-05-harnessing-thoughts-to-control-a-computer.md",
+      "title": "Harnessing Thoughts To Control A Computer",
+      "excerpt": "What is the best way to link the brain signals to the machine? FLATOW: Right. What about a mind-controlled robot? You know, the whole robot you can control with thinking about it? Prof.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.npr.org/templates/story/story.php?storyId=124361781?storyId=124361781",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "Harnessing Thoughts To Control A Computer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
       "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
       "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
@@ -1087,51 +1124,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato.md",
-      "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
-      "excerpt": "Computer vision has been a key driver behind the artificial intelligence boom of the past two years. But it has also come with significant controversy. Businesses need to be aware of the potential ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/03/computer-vision-joins-the-enterprise-mainstream-but-its-a-hot-potato/amp/",
-      "publishedDateTime": "2020-03-03T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/computer-vision.GettyImages-1132582956.jpg?fit=2112%2C1103&strip=all",
-          "width": 2112,
-          "height": 1103,
-          "title": "Computer vision joins the enterprise mainstream, but it’s a hot potato",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

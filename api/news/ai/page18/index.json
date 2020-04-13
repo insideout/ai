@@ -2,6 +2,43 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
+      "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
+      "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
+      "publishedDateTime": "2020-03-23T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/TF1lbo3BNhg90uK3iZeOKvdnLJI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKL52PAY3BH6VDJKTGMCSD4VFI.jpg",
+          "width": 1440,
+          "height": 910,
+          "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
       "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
       "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
@@ -1200,43 +1237,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-adaptive-biotechnologies-using-microsoft-azure-to-better-detect-covid-19.md",
-      "title": "Adaptive Biotechnologies Using Microsoft Azure To Better Detect COVID-19",
-      "excerpt": "Adaptive is using Microsoft Azure's machine learning capabilities to sift through data on the body's T-cell receptor sequences, which get generated in response to antigens in the blood. The machine learning process is used to refine a \"map\" of those sequences, which is done by \"matching trillions of T cells to the diseases they recognize,\" per ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://redmondmag.com/articles/2020/03/20/adaptive-biotechnologies-azure-covid-19.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T16:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/visualstudiomagazine/Images/IntroImages2017/0317vsm_vogelPTypeScript.jpg",
-          "width": 647,
-          "height": 450,
-          "title": "Adaptive Biotechnologies Using Microsoft Azure To Better Detect COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
