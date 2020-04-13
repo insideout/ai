@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027"
-excerpt: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance Tracking & Monitoring), By End Use, And Segment Forecasts, 2020 - 2027 Read the full report:  The global facial recognition market size is expected to reach USD 9."
+excerpt: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance"
 publishedDateTime: 2020-04-06T14:40:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324"
+webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-share--trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020---2027-301035717.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "I8KIY4pGRGykeSbJkK3VQR0yEIcNVb4CFbJmzxmawpphzGGfRobbv35GoAFijm6IiwKisaOW8s73i7Dr3cVrQM1HAg6RjNoIcNa3Kl2ZYhz4DpEJGKRk2e34noflTEfuia5FQCoiPgyec0DdJMNyrOoK3MlbXGA6IktGz9+TiScDnDbSyPg4+djhSe901ogAsu/1G54NId099FFBUNToz5/YaGYzvAh2UAXFvL9k4fxdODfAs4TXB4XONJBhUzqeLeYD/1WSBEQz1Qt6L+66AOgrK9D2dElU9y4Cc60AJuM5cPt2/tCCA13AdevCHYF7;7mBZn4Ur2z616I+WmgJZpw=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027"
+
+secured: "XLC3OF2/HhBN6aYmt20/AqO3NoLIkCT4lkdbZsIuZ0GfpxImuT8H07GgeKqIIVussxEU/LCHpZ5QnHPL38mJ+qz4GYdNCZ1YgkJN4rOS0h75sqp5JGTAQUi/0Gy4qC3Qqew7nuDpcsrCqSEgHVwtrAKuUWBqhIwMY/dhzf7d+VNbjboBPR82j12jGYnBulX5OmiLPwDmoyuXEXc3pizQ7uW0I5L8PewhiVxKBNwxGh2bYARqrvtOdU7LQq6maTR1CAaiza6E98+NhIUpa5XrYf8U2aoEX/F1kUMcWx9KBj/twIaBgek4PROsWH0PxAky;FBxU7jrQzX3vg7UOKgSPOg=="
 ---
 

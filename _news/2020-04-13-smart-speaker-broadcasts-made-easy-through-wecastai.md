@@ -1,23 +1,27 @@
 ---
 category: news
 title: "Smart speaker broadcasts made easy through Wecast.ai"
-excerpt: "South Korean startup, NextNest, has launched Wecast.ai, a broadcasting platform for the widely used voice assistant"
+excerpt: "South Korean startup, NextNest, has launched Wecast.ai, a broadcasting platform for the widely used voice assistant technologies, Amazon"
 publishedDateTime: 2020-04-13T16:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15790018/smart-speaker-broadcasts-made-easy-through-wecast-ai"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15790018"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15790018"
+webUrl: "https://www.prnewswire.com/news-releases/smart-speaker-broadcasts-made-easy-through-wecastai-301039241.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "MiGq/OFkOoyVfLBVL5IDrmhvb9KTF07OH4QPziYxyG+yzqjC5Ar0l9z3iAL427gMNDqPINj3T4kPp7F5uEDzKkaFZN00JUk6sW0jSAZNsPSFxLXU6TWkS7wFuNZ9BjOOXf6qIUjIaFXSeQCysA58icXyu9k7Fxg2bDNZUyfE58p2KbGwZnCIIBgpO6pI9rvo63US5SWtuEPMd2TkBXUZkzhajPlfz3JlEEbQztGu2jRFldDSWlHBiUcWG0vcNAwrncphvi+MnQaI49CO7LtfNiLe1bR4LLXFObvEnFCGlJmN7luWXy67+LviZHA8F9i+;a8dMw2OT+dJNIRGlB0UhTw=="
+images:
+  - url: "https://i1.ytimg.com/vi/GtjMml5Jlv4/hqdefault.jpg"
+    width: 480
+    height: 360
+    title: "Smart speaker broadcasts made easy through Wecast.ai"
+
+secured: "/prw/B3l6WbKL/fP1Ss8J4ot2+KwUa7u0Ud5msDzzMKMvaa7aoSKwezi5iZjrBh61inTrkbwRwCiu7ExATSJkXtj4Y473mIwxQe3z2swINuSIGc0zX56H3QwL/ul1Ltyx6vUxOOiFWQyFUjKXKBLPuSeL240cL3jhsWXsmugvTF3kNMUw0UFT14CLO7nfbYZpTqjZ2yHLg9VUcjL7tFCTDJ4gblOTDpEydLyof57iySPi3M87yHRTuCcYKGe12O5c29amAEJdeYVCqtfhI2VhvEo7b8HBa6jdVIfE+zu+baZjB2QnaL+p70J3nHbp6I7;cdjBzyIjyuS3mSFALtIjjg=="
 ---
 

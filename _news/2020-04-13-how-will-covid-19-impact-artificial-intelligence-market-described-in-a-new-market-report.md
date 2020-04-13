@@ -5,8 +5,8 @@ excerpt: "Global Artificial Intelligence Market: Overview According to a new mar
 publishedDateTime: 2020-04-13T17:17:00Z
 webUrl: "https://www.marketwatch.com/press-release/how-will-covid-19-impact-artificial-intelligence-market-described-in-a-new-market-report-2020-04-13"
 type: article
-quality: 58
-heat: 58
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

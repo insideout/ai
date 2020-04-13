@@ -26,6 +26,21 @@ images:
     title: "Your iPhone won't recognize you in a face mask – but a Samsung Galaxy might"
 
 related:
+  - title: "Your iPhone won't recognize you in a face mask – but a Samsung Galaxy might"
+    excerpt: "In our half-mask tests, the iPhone flat-out refused to unlock for us. What about Samsung Galaxy phones? Samsung premium Galaxy phones offer both facial recognition and a fingerprint sensor to unlock the phone and encourages using the fingerprint, for more security. With Facial ID, \"your phone can be unlocked by someone that looks similar to you ..."
+    publishedDateTime: 2020-04-13T19:15:00Z
+    webUrl: "https://www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might"
+    ampWebUrl: "https://www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 42
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20200410&Category=LIFESTYLE&ArtNo=200419974&Ref=AR"
+        width: 300
+        height: 304
   - title: "Tricks to unlock your smartphone in coronavirus face mask"
     excerpt: "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. Continue Reading Below Unlocking smartphones with facial recognition became more difficult once health officials began urging everyone to wear face masks to slow the spread of COVID-19. Naturally, scores of videos have surfaced online to try and help ..."
     publishedDateTime: 2020-04-10T18:00:00Z

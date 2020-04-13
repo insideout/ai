@@ -15,6 +15,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - IBM AI
 
 images:
   - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
@@ -22,6 +23,6 @@ images:
     height: 900
     title: "9 AI Stocks We’re Leaning on More and More"
 
-secured: "Ez/MOjbpkP/KYQ6ReP/plmN3kKWqpu+64kUGhwBPP+oxyy/jmieBQ8Xchx4iihb4gawqSJtq5/ywZndGJ+l8vn7Fla656TTIjsk7UROxe6zk4PWl49PjD9+Lb9rj7cX9+JTVPI0XOH6d0sCbsSOm846vGWcCpWLoEidAfNCI4mUWgd6Yk4Lbx0jR8CimSucJeQCkDGToC6W/t7no2M8kjWmzUPQXeAnt8quygxn8S1jYNnX3FXu5VZvIHAJ2PaDXdegxD/Zj+KYh0nFuc/VFo59PRyakWGKeFOcUyGSsHYUD2Wagcwwa11w0VO3WLBXd;3JQ+lmb9x9bJvzMFfpNYlg=="
+secured: "2F+W0+G0oZcMqegCEA/USG5afRB6Ri3ikv/QU2vgO3w4gQeduho7IIw9kEh9gLbk6BqnH9akJROKL+j/vBK+1FkuvXdlC0Z3BzDxB0xx9gl3ZF86CFmmOx9Wl1qkmHs+Lcu/ryTKYIhs8cMjPpeiLYeVRxDIVt6nhNd2a3D+UBZETPdTkHi+jI0W/ZoldWvb3XmiZePmGDx+PAjIQfD5F4E7stiaIml+eNvx9fIQJO+xzKsIdpmQZ7+vlTGRsaaOYqcHPHWsXI6klQJxmax0uVT+KywssVl+02OMJ5zc0na1eNaPob2uM6C4NqmsVYVSDfgFJ7RsLYAc2JCesDhkuTbFgMWJMyiQd4hgIscWRzdUtvquSN9EBkPu8a4eupUXyUdQSY/G2s/7LNWPcoJ9OHQPLviZ4mTIbzNdIgNgyVitvZuPUdfhwo2VTFRUQcobmkSkUBFDApYELt8wya4Vw0Tqe/+rszFXAi3IGI6oLQs=;Qqeoq8DPTAyTN6n6KSTEyQ=="
 ---
 

@@ -23,6 +23,6 @@ images:
     height: 400
     title: "Report: Apple’s 2020 iPhones will feature flat sides, AR and AI optimizations"
 
-secured: "NFF/TFOy4yZVJiYzEmePCzMCi50ZzL98mSo84H9Bq7pvQi7k9bjCzHKtptihpgyhtLEaWKpOGIPUzl/mNpSAarHaw+wL3QaVZPrO+PJooEOEnsSwM40U+DMc+c8bPypj4yyLOtrCjaxize+SUcgBNyVztT/5WuAGR0xc0CrINqxO0zjo+bBdlO24JjxXVBlJzr4+t6v6oen4PE62zIe8Z6MFuQlkfwQ8RReRN/bS/CLJLeb0XUDW12kaOkQGeHneu5XMdUmaTEIMlEJLoaqeKYmCWC9vqoBFtVMqi7UoZkl0fIpPl2mSNKQcBjQ/5PMj;yXj9l+nqYyCP01e+L7dQ8A=="
+secured: "FhPW7m73plBQD0rqxVK8kdUJjqDHLKun6q8TXC9faZO0RD6XuDbGf4KcwafBV2gwUf3Q1JUmkW9ZAly6hCwM+qPmBZl651wdNEh5X+Z9h7aoXPTPfujB5M7+VPU2+rKiVVAveA0K8eeddffvku2tY4JYpVwRecczwB6MKf5dI/oDDQcKusLXtPVZrlyITnDXxLGPezLEYLJ9QY0ukDGyjTK0gW3W/PRDKdYULnR10qE2Y05iWS/ETx5LqgEEydW3G47GsNMgSLELptOfbKmJPW8nFgmLvuf4/QXV824dvUpS52Yj/4+eP4ok6NiDU5Mp1M80dSFYTUzxYRw9XbZnb224u8n5aAM3XlCUJDQ+tKSaqQ8srHWkUa7hwKljS3b7BWRmQLYmjmD8EbhZm+iec9oFuBYm3whOFYkDkaTuVGmli/7RSrtvW3pnWMlqZkZbMVNPLvMq03j/sdde81duBoKwykOht7NsC6K+Rrba2R4=;agC02FljudPtFFjdmlagkA=="
 ---
 

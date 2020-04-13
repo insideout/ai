@@ -25,6 +25,6 @@ images:
     height: 307
     title: "Advanced, high-res MRI scans reveal link between cognitive abilities and ‘tree ring’ layers in the brain"
 
-secured: "ukN2PoE0Xv3n8bpwuHWNwn6bg54m+//Lag7Q4O2eFMy9rgdRo+ym52q8q8K05F5KwKA+bqzy4ZHOFS0q+BNKE3bY3+VzQ6tfaoTWma1QL2CS1+YIp+GYMvoac08wmxrmNl+69pux+8Cun2LLK7rGB+b7NZcRJJBTdy1OOkP6ja1GRH8mE527xM/h6IROFKvtF/ah8E8pOfn5HTOzpRhwE6Ii+WgYTEx7kzxysNb57l6gx+SX2WAB/y16gF5xfHzdpKnJ21rRNngneKQbIlMdo9VJeh7YyVZTne0Bvn27IteCy2EMj+H9B+xzQLbVa11b;/8JIOq1xcQ0Syk+1FbO+lg=="
+secured: "B0oQYNwicidjeSavmLcKK+8hcKOj6z56+PuQBRZ//DTwlcZNdRRSy9011FTbnRZSs1hX3R4QirHG79o0cSVCIck64zjEYzhn2A0MtdTsvm7o5S0RI2IbCEftjsKzCijeGFXsJbTjuYpxugtfGBB0OuJc5WzVrzjzGGydxolPbrl8NEP0sQfMFkgIebKJPaQE7UVdeYlXw7sWSg4vsgKOErI4A0gE+1ZGTF4rg6/9NrDYQGa3ikgkj9iAX+5EqAwia9lx7kde4OvO0MFAFggNLx6pdJRPGpnpQd7/N7Fpw5prNAfCNnAvHj+B7vp7dYcLT/b4xnTZMlEDC0w+LyLRECeDWRAn2tVGpswUvE10AagwuLGAl9r311bifgEmxJeKG+xJPz0O3vby3lG/+x++S7gbNNn8ln6oBMt4tk1kbudJm93bDqUh191mLbxQR9Wo9mdIPC5BKzsziLHgt1ZR6uyCIyi/XVoANFRTXECMYP4=;YnkF2KJ8CZcXWGjHY8zlfg=="
 ---
 

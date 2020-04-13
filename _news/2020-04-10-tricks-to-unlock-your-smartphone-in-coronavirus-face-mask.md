@@ -39,6 +39,21 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/04/09/USAT/a88ce0ac-eda8-419e-92a6-37994b73d9f9-Google_ChromeScreenSnapz251.jpg?auto=webp&crop=1233,694,x0,y187&format=pjpg&width=1200"
         width: 1200
         height: 675
+  - title: "Your iPhone won't recognize you in a face mask – but a Samsung Galaxy might"
+    excerpt: "In our half-mask tests, the iPhone flat-out refused to unlock for us. What about Samsung Galaxy phones? Samsung premium Galaxy phones offer both facial recognition and a fingerprint sensor to unlock the phone and encourages using the fingerprint, for more security. With Facial ID, \"your phone can be unlocked by someone that looks similar to you ..."
+    publishedDateTime: 2020-04-13T19:15:00Z
+    webUrl: "https://www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might"
+    ampWebUrl: "https://www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might?template=ampart"
+    cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might?template=ampart"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 42
+    images:
+      - url: "https://www.statesman.com/apps/pbcsi.dll/bilde?Site=ZZ&Date=20200410&Category=LIFESTYLE&ArtNo=200419974&Ref=AR"
+        width: 300
+        height: 304
 
 secured: "roVUa+Ojwn+xhnILUSwZQxM682BAQcE1mBT6T3Uoo2hh4wfJ+v6Egmg1tEjQEXDJeDleql9Ecf/rGp2Z6uFt3MfnpMrdYbd9V1bWxo1GZGJgtyHAQ89sLnWsmmz0EDeDDztl04BHNnzNFlZG52Xf0jVLjwLs7XoWFiiQDtMme1c7aWWWMf+rLF11q9q/cTkP/xWEMTdCnBovntupMvEX1/7XYXo0vaSmp8Dn5hQrjDYJkwysUvMa6V/CdNQJCIqwJ4Cv3bX8ZlehB23569MC8T3vQC1ettwjuQtrOzR2jRjFOUF7joZl8qAbhK82m+6OmqEaldHQ57yZg6ccQbPHC9eZzqNvToUJQ2VVQgzPB0NCUp7ko2OQxjnTKllI1g1lfo8P7Q55HumcWipsOl8fo6mOCQpEwPRsGq3PfmgZkb5a6hzz9pBxyyEDkqPKdKUK9rxYL/g5svp09aqPYEAiKVZ51b//Y7bWX9HeG39VBhQ=;cJoCx9sodCieEfVq1wUvyw=="
 ---
