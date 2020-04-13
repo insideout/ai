@@ -48,6 +48,19 @@ related:
       - url: "https://images.hgmsites.net/hug/self-driving-car-used-to-transport-medical-supplies-at-mayo-clinic-in-jacksonville-florida_100741899_h.jpg"
         width: 1920
         height: 1080
+  - title: "Self-driving cars proving helping during coronavirus lockdowns"
+    excerpt: "While it may be more than a decade before self-driving cars become a common sight on public roads ... The shuttles run along routes isolated from pedestrians and general traffic and are still monitored remotely for safety. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting-edge ..."
+    publishedDateTime: 2020-04-08T17:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127745_self-driving-cars-proving-helping-during-coronavirus-lockdowns"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/self-driving-car-used-to-transport-medical-supplies-at-mayo-clinic-in-jacksonville-florida_100741899_h.jpg"
+        width: 1920
+        height: 1080
 
 secured: "yC/gAnAwKEgJr2Jvdz38TcWHMppyFG0itWzeHcbSpFXl4fWm6c/jK6JJ+XzezHSw5XctJCC6Mp7sDY65+Hc44ei6SZv6rQEPP3EBPOC3ozNk1LVT2whVMcUzCC47Z0rY+SEZ1Ab6TzYmRd2MLvMlDRrovICHAJ9br8bpXtsVW/ZMa+ZcMdtc88A15pm/zJo5axkD2TuGL7z6BKjz1AnJTywhOlycEHdsKK053hJkiooaCKu/YvyW/WY3vKU3sPQ0KXlEBRSpOG7icmOvWTlKZQpI4jZOk3SZpH/AO4PFYc2dSd6TY6dgWNrB9jxgsci+;4Hz8Bwm22EnBnSbhB2AVCw=="
 ---

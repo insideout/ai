@@ -25,19 +25,6 @@ images:
     title: "Maria Balcan Named Recipient of ACM Grace Murray Hopper Award for Significant Innovations to Machine Learning"
 
 related:
-  - title: "Balcan named recipient of ACM Grace Murray Hopper Award for machine learning innovations"
-    excerpt: "ACM, the Association for Computing Machinery, today named Maria Florina \"Nina\" Balcan of Carnegie Mellon University the recipient of the 2019 ACM Grace Murray Hopper Award for foundational and breakthrough contributions to minimally-supervised learning. Balcan's influential and pioneering work in machine learning has solved longstanding open ..."
-    publishedDateTime: 2020-04-08T12:22:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/afcm-bnr040720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 32
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/228741_web.jpg"
-        width: 1440
-        height: 810
   - title: "Maria Balcan to Receive Grace Murray Hopper Award for Significant Contributions to Machine Learning"
     excerpt: "Today ACM named Maria Florina Balcan of Carnegie Mellon University the recipient of the 2019 ACM Grace Murray Hopper Award for foundational and breakthrough contributions to minimally-supervised learning. Balcan’s influential and pioneering work in machine learning has ... single recent major technical or service contribution."
     publishedDateTime: 2020-04-09T15:26:00Z
