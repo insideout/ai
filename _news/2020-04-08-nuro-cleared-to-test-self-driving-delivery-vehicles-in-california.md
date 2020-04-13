@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -60,21 +60,6 @@ related:
       - url: "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg"
         width: 1200
         height: 630
-  - title: "Self-Driving Car Company Lays Off All Its Human Safety Drivers"
-    excerpt: "The self-driving car startup Zoox just laid off all 120-something of its human safety drivers — and announced that it’s suspending all driving tests because of the coronavirus pandemic. Zoox has been testing its autonomous cars on the streets of California and Las Vegas, but can’t safely continue given California’s stated shelter-in ..."
-    publishedDateTime: 2020-04-08T15:57:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-car-company-lays-off-human-safety-drivers"
-    ampWebUrl: "https://futurism.com/self-driving-car-company-lays-off-human-safety-drivers/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-car-company-lays-off-human-safety-drivers/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2020/04/self-driving-car-company-lays-off-all-human-safety-drivers-600x315.jpg"
-        width: 600
-        height: 315
 
 secured: "HlNuy0l9fOhHCqAkFEwEYn5lB3WizmbB8706dClZXGyRQaMq3yiM+d/njn9CpuZ+7NI/+099Wu6GRRTD7JZ90gZy6nADudeSSlMnEbId4WssWaiDc/YtsoKkaW2oKnLaRESyYswnFLtCHRrX1n4vy/lFCmlk1zA3JX4+irkfGmtsJ7ft+YBlH+TiLnn7zoQRLUnuXUFagZEHsIER6E9tosM0KV06kWvpSgZ302UDncjcE0kNe3QnkhGwGmyb50506VIBBD5u6xtLe3tW2po/u8PhMSHjAXzGu7uJK64leicY/gFBSe2XR8NFU8vHjlikOtTzdCbklDGP3N50UnwZOP8XBJZ3ztl5EHmhX2zbvUVqyhKi8laUjuNbv06ZlG86Yjq3fge9ptGtn86lzEYQd0993OLUgpXNANbpjOgX57Rw5Y3+FBLGwbMDKb8NoWgeYRePxxeBhmHtfXE3KW53AtZV3VuJp9toetNxbYgItJc=;YDZRlztbJK8TfV3vbWDflg=="
 ---

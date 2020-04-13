@@ -45,21 +45,6 @@ related:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg"
         width: 630
         height: 420
-  - title: "How AI Is Helping in the Fight Against COVID-19"
-    excerpt: "Alex Wong, chief scientist at DarwinAI, says there are subtle differences between COVID-19 and other infections that radiologists might not notice when examining chest X-rays. “The hope here with COVID-Net is that we can leverage AI (specifically, deep ..."
-    publishedDateTime: 2020-04-08T15:22:00Z
-    webUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19"
-    ampWebUrl: "https://www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
-    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/how-ai-is-helping-in-the-fight-against-covid-19?amp=true"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 87
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/04pW8GvHEUrDEqDfx9OnW9G-1.fit_lim.size_1200x630.v_1586193798.jpg"
-        width: 1120
-        height: 630
 
 secured: "l5KHvK6N3r2T6jYgGO0SlHhf+lU5Oi86WXWHpYKg2cSZN6bVp2cCnkMd3bsRGA/jRLRRw+v2pK/GTlWmiZhJjNQj023oKHB5dzrO0f5G8idvp7ZmXL4nsb6sLDFhH+Y4/Y75wXQBqWo/v8azE0WilJayF9HPmcCEKEEjSn9Q6FQp3B1Cgo9/yXffdaGjxbqTPxunVas7PtV4HnN2csIIm6IWdGX43Ki7oitna9dh+kVouWJT4gf4gjKAZ7mD6Bmpzc1YG+laEsExnoMuLbR7JoXj+QhU1sFzpwrPzdoKVz8iEY0LXL94NdXTKKsAEKIg;CmAg/K2lnuVEMBAr/Y9qVg=="
 ---

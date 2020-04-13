@@ -60,21 +60,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg"
         width: 1120
         height: 630
-  - title: "Self-Driving Car Company Lays Off All Its Human Safety Drivers"
-    excerpt: "The self-driving car startup Zoox just laid off all 120-something of its human safety drivers — and announced that it’s suspending all driving tests because of the coronavirus pandemic. Zoox has been testing its autonomous cars on the streets of California and Las Vegas, but can’t safely continue given California’s stated shelter-in ..."
-    publishedDateTime: 2020-04-08T15:57:00Z
-    webUrl: "https://futurism.com/the-byte/self-driving-car-company-lays-off-human-safety-drivers"
-    ampWebUrl: "https://futurism.com/self-driving-car-company-lays-off-human-safety-drivers/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-car-company-lays-off-human-safety-drivers/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2020/04/self-driving-car-company-lays-off-all-human-safety-drivers-600x315.jpg"
-        width: 600
-        height: 315
 
 secured: "I8EEnuOaFw5FcFCWsbJNYqQ/34wP/HEI2j+0hip6GVQgBCm65zZGGLUZX8zWfDCzYFgOWkgqZ2kYb8/8ZwBnzE75D2LBinEEt4hoVURmQCOoKu+E/cm8gLIw/9EBrdgO0jD4linHfz+xtvrCnBV8LcZfRT5FZIHAqcOJx5k32a1H7sYW3h1E+sPmbFr0b9AFmj6POjCrk0JmH6hrp8ddagEy2kdN624ZwyFMOxXK/6zBG0W1jLff7H984C0xU65RvdYmV2wY3NLsnEdXGV7eVHYDhCOpOHTfq7tJamKzmDd+d8wAICIsrVQtzLkllrWjUNvqY07fnHqMeuyZTOBP40fjXZxkvjHt26mUrNgMwO4MJyzFnQGgmGJBbFJOx8D/lxyT3y7BP+32vscUC1IfWZtJpgufTFmys+bph/ZE3C9v2OCKS9ZtHnfpPDHritDnfvsM6+rTLNCGOVtk+MboseZG9tZ2Pr5zBEwh/UuoJhQ=;fJBVNCzwzw5G3t7OGIXVOg=="
 ---

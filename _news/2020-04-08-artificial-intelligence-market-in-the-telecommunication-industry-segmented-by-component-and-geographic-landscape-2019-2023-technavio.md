@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Market in The Telecommunication Industry Segmented by Component and Geographic Landscape, 2019-2023 | Technavio"
-excerpt: "Artificial intelligence market in the telecommunication industry research report provides detailed analysis on emerging market trends, regional outlook, competitive landscape, and a comprehensive analysis on different market segments. The artificial ..."
-publishedDateTime: 2020-04-08T18:27:00Z
-webUrl: "https://www.aberdeennews.com/ap/business/artificial-intelligence-market-in-the-telecommunication-industry-segmented-by-component-and-geographic-landscape-2019-2023/article_3574ba5e-0c04-5fac-8fbe-a9432de20bea.html"
+excerpt: "Artificial intelligence market in the telecommunication industry research report provides detailed analysis on emerging market trends, regional outlook, competitive landscape, and a comprehensive analysis on different market segments."
+publishedDateTime: 2020-04-08T19:49:00Z
+webUrl: "https://apnews.com/Business Wire/dbc628f9843942a39f7719563790fef3"
 type: article
-quality: 0
-heat: 0
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: Aberdeen American News
-  domain: aberdeennews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
-secured: "XtW1FisH4OjmEhVAJcFEGQCVzz09WSsSexEDyAp/Qkc05YTXOVzOXtWYilOBACQgmiEGoUYg0Kp9XuMmkt7yj+7xwqHZhdCfNHmlGPzvECHZbyBXeoIT7QJCr9WMC5mszRCIHMcAXqOk89bYuo6AHKiIrLQBhoxdeNiK5TfVWCDN66XGTR8qtYn9wbMVc4ZL/F/7g9bwOi9fRDGy6TMSG3y+O/dqTH/X6BGLOZuw1PjDI5o9zy26FswcGUgXyik5Ja9TKFD83CgnlsjXQrEYH4F709wJ2NhcxvGEWo6inJXFMreBV5g2zpp9ofeZ7QpD;92sjCXMCpzBBnWKjrU7DGA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    title: "Artificial Intelligence Market in The Telecommunication Industry Segmented by Component and Geographic Landscape, 2019-2023 | Technavio"
+
+secured: "IIk3QE24+gmTfUKZywEEstBEaJnRd8GzuVOC3DjyfC2rKGFVIzt+OZHAyQN0mvAaVRWix+Fi0gVfbXldQc2KPxZ1ZlI2TYoobBI4vfxBN/WT+cOfUq1JCSgURFDFhtncbCKl38fYpjd1NUXcZoLy43GDXZFLYUYJNcMYrndFxv4GyXGyhD3itE32B7b+0JRDwOSaS9Kf0BTJ4fD4KS2dMx8kYEu3Ufy4AgHKir5aKkqHWCJjy1iZ1pCwnsZklPZypNw1iqZKb+pYFxlTj/Z0RA3tu9ta7EErbBdenPXpF2xzzlYqvfa6qHNT7LD77UVs;82xrTpFls1g9SnCrtcwfJg=="
 ---
 
