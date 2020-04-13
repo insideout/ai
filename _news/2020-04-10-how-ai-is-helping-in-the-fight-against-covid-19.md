@@ -8,8 +8,8 @@ ampWebUrl: "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helpi
 cdnAmpWebUrl: "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: PC Magazine
@@ -30,21 +30,36 @@ images:
     title: "How AI Is Helping in the Fight Against COVID-19"
 
 related:
-  - title: "How AI is helping scientists in the fight against COVID-19, from robots to predicting the future"
-    excerpt: "“AI is playing numerous roles, all of which are important based on where we are in the pandemic cycle,” the two told GeekWire in an email. “But what if the virus could have been contained?” Canadian health surveillance startup BlueDot was among the first in the world to identify the COVID-19 risk and accurately predict its ..."
-    publishedDateTime: 2020-04-08T19:01:00Z
-    webUrl: "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/"
-    ampWebUrl: "https://www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/ai-helping-scientists-fight-covid-19-robots-predicting-future/amp/"
+  - title: "Startup Tenstorrent shows AI is changing computing and vice versa"
+    excerpt: "The new chips coming out suggest, as ZDNet has reported in past, that AI is totally changing the nature of computing. It also suggests that changes in computing are going to have an effect on how artificial intelligence programs, such as deep learning neural networks, are designed. Case in point, startup Tenstorrent, founded in 2016 and ..."
+    publishedDateTime: 2020-04-10T16:48:00Z
+    webUrl: "https://www.zdnet.com/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-tenstorrent-and-competitors-show-how-computing-is-changing-ai-and-vice-versa/"
     type: article
     provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 93
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
     images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2019/02/190210-ai-630x420.jpg"
-        width: 630
-        height: 420
+      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/04/10/a686787a-3ce9-4cfe-9343-4aa9033454f1/tenstorrent-grayskull-schematic-april-2020.png"
+        width: 1013
+        height: 870
+  - title: "Opinion | Location intelligence may emerge as unlikely ally in battle against Covid-19"
+    excerpt: "Cloud-based electronic patient health records, medical apps on smart devices empowering caregivers at workplaces and disinfecting robots have existed for a better part of decade now. Among all the new and emerging technologies such as artificial intelligence, robotics and Internet of Things, the potential of location intelligence and spatial ..."
+    publishedDateTime: 2020-04-11T06:15:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/location-intelligence-may-emerge-as-unlikely-ally-in-battle-against-covid-19-11586449263081.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/location-intelligence-may-emerge-as-unlikely-ally-in-battle-against-covid-19/amp-11586449263081.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/location-intelligence-may-emerge-as-unlikely-ally-in-battle-against-covid-19/amp-11586449263081.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 51
+    images:
+      - url: "https://images.livemint.com/img/2020/04/09/600x338/GPS_1586449604773_1586449604932.jpg"
+        width: 600
+        height: 337
 
 secured: "l5KHvK6N3r2T6jYgGO0SlHhf+lU5Oi86WXWHpYKg2cSZN6bVp2cCnkMd3bsRGA/jRLRRw+v2pK/GTlWmiZhJjNQj023oKHB5dzrO0f5G8idvp7ZmXL4nsb6sLDFhH+Y4/Y75wXQBqWo/v8azE0WilJayF9HPmcCEKEEjSn9Q6FQp3B1Cgo9/yXffdaGjxbqTPxunVas7PtV4HnN2csIIm6IWdGX43Ki7oitna9dh+kVouWJT4gf4gjKAZ7mD6Bmpzc1YG+laEsExnoMuLbR7JoXj+QhU1sFzpwrPzdoKVz8iEY0LXL94NdXTKKsAEKIg;CmAg/K2lnuVEMBAr/Y9qVg=="
 ---

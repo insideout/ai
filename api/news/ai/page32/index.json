@@ -2,6 +2,51 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-11-heres-why-im-campaigning-against-facial-recognition-in-schools.md",
+      "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
+      "excerpt": "She currently serves on the board of directors of Students for Sensible Drug Policy and has coordinated campus organizing for the campaign to ban facial recognition. You can find her on Twitter at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/z3bgpj/heres-why-im-campaigning-against-facial-recognition-in-schools",
+      "publishedDateTime": "2020-03-11T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e6802bca5a797009d94acce/lede/1583876911969-University-of-North-Georgia-Brooke-Trogdon-They_Them.jpeg?crop=1xw:0.7487xh;0xw,0.078xh",
+          "width": 2016,
+          "height": 1132,
+          "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-ai-startup-accuses-facebook-of-stealing-code-designed-to-speed-up-machine-learning-models-on-ordinary-cpus.md",
       "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
       "excerpt": "Neural Magic, founded in 2017 by Nir Shavit and Alex Matveev, describes itself as a \"no-hardware AI\" company. Instead of relying on GPU chips that are able to crunch through matrix maths operations to run machine-learning models quickly, the Boston-based upstart employs nifty software tricks to achieve similar speeds on CPUs. Court documents ...",
@@ -1156,51 +1201,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ubers-self-driving-cars-to-cruise-san-francisco-streets-once-again.md",
-      "title": "Uber's self-driving cars to cruise San Francisco streets once again",
-      "excerpt": "Uber's self-driving cars are back on San Francisco's streets in full autonomous mode after a two-year hiatus. The move comes after one of the company's cars was involved in a fatal accident ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
-      "publishedDateTime": "2020-03-10T12:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/zaSXhbmBw7XTe5v8-kcJNSzHt5Q=/756x567/2016/12/12/5e3fa950-a136-40b2-b361-32d5a2055329/uber-mapping-car-7145.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Uber's self-driving cars to cruise San Francisco streets once again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
