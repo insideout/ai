@@ -30,21 +30,6 @@ images:
     title: "Nuro will start self-driving delivery vehicle services in California"
 
 related:
-  - title: "Nuro cleared to test self-driving delivery vehicles in California"
-    excerpt: "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,"
-    publishedDateTime: 2020-04-08T21:03:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg"
-        width: 1200
-        height: 630
   - title: "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California"
     excerpt: "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ..."
     publishedDateTime: 2020-04-09T13:32:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-clean
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 800
     title: "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak"
-
-related:
-  - title: "How Hospitals Are Transforming in Coronavirus Fight"
-    excerpt: "Stanford researchers and clinicians are exploring whether artificial intelligence could help manage a potential surge of COVID-19 patients ... Talkspace is donating 1,000 months of free online therapy to U.S. health care workers who are on the front lines responding to the COVID-19 outbreak. Jump Technologies has opened its inventory management ..."
-    publishedDateTime: 2020-04-08T21:08:00Z
-    webUrl: "https://www.aha.org/aha-center-health-innovation-market-scan/2020-04-08-how-hospitals-are-transforming-coronavirus"
-    type: article
-    provider:
-      name: aha.org
-      domain: aha.org
-    quality: 4
 
 secured: "oC5WIRg7Qkg4vfWmk6ar+sFi7pl4g3Xg6u42ujiqHUI119YYfkRmS5ieaEcCTXCxHfebarEWkUMt/a+iStbuHnrekstfwxQa0r/iRUIpFjN92PD9s4EHtKfp0JyYudLwvNi0i0DMHFnGx0olGcf2eCwQ5s5UMoMeLTyBylbryHPpjqn3xR55SAekgFeYfrn5Ulp/cqdtcTzuCtoKq3sk1RJFmEhaaaW73KsrCH1PuFgoJVbGiv2/6m3E14FnAYKw0rWLtcSoMq7RH7YOoNtkCUIHvk5lpNxVh4fH7WGgvNCEmc9J8E7czmPBW8DIKEPYvWHAvgaBDdQ4CYJBqwhyg2zN2PQ4UQCmfunisnxaxb4aFBHsjY7hrb5V3tlem48aYHjfU/GGsvIvoD6qYoyLnczxaw9ZN1kK2TulTHn/gLC+duyQetcTfm/eNmI1YPR+Z7R6JZ35eZzwpQZ0rR3ahFBSgPLi2g7iTmLzxDVEOhY=;VXT+XuKaVvJlXU3EVn2tnQ=="
 ---
