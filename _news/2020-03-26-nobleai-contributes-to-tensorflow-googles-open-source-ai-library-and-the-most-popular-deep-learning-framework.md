@@ -1,20 +1,25 @@
 ---
 category: news
 title: "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework"
-excerpt: "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more than 140,000 stars and 80,000 forks of the codebase."
-publishedDateTime: 2020-03-26T19:37:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/noble-ai-contributes-to-tensorflow-google-s-open-source-ai/article_8d105830-c076-5896-94dc-e71794a8c369.html"
+excerpt: "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more ..."
+publishedDateTime: 2020-03-26T14:52:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-secured: "eJIe4RWfZDbIgCc7aET88XLESKppBObz04BFFQFKj63+o0QKlbulLcyxYf+uSu/j1ZLiX0eWW2DotbmSwJnVLR9ftFeRHJEdh72QRni5D54FIIdXQt85egYAyQxJ5NXb2C/n5dTIAlxIMLcON3mel651OSHu4Qm7iqo+mDew32/+VxfILkdc/U8ULhsVI0y2tXErZSNPmTGeQpaRJBuLaUnLAjmSQZDqakSCUcwH+mcLdFLGgXiyyqT75qKnJ7jzq8tbs+ielk5LJqWKdq9XrsHRKT/hnHX7Rqc4d0bujOHiT1uxq56iH30mwQXHBOvw;uAeaIgZrmJP3G8U1aaLAbA=="
+secured: "jOiyYfoG7V0jQLbCkPkNkZsI0AKJCL5L1YQspMb/7UZhKc3WtP8V935DO5HazPwD/VkDw4XhMZCh7mAfnZOAXZ09O5jPrR0jg9HB2VsxGqDb9L5gs0I3Yvd4WEEVVY1jX2Tbg8tiHuFWUp++45EAh8PzUBSsapiqaJ39XNxnR10Xeh9k4bMRBSVbZsv7COgwMpK9AJxPDFLQDW8OKRM6FpiY241Q2UIXuOd2QB7OKnPe+ldEGlSdLdsCbOQPbKPiG3CvROJFA7Iuk2P2Bawn8QRnwU0vLNUJNXp+mOoHwrnUQ2E9UPEjUYsjUe63U1Ve;w0robzAXwZ0Ro6hfx0a5dQ=="
 ---
 
