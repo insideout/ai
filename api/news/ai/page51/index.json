@@ -2,6 +2,140 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-02-14-class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m.md",
+      "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
+      "excerpt": "Just two weeks ago Facebook settled a lawsuit alleging violations of privacy laws in Illinois for the considerable sum of $550 million. Now controversial startup Clearview AI, which has gleefully admitted to scraping and analyzing the data of millions, is the target of a new lawsuit citing similar violations. Clearview made waves earlier this ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/14/class-action-suit-against-clearview-ai-cites-illinois-law-that-cost-facebook-550m/amp/",
+      "publishedDateTime": "2020-02-14T12:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": "Class action suit against Clearview AI cites Illinois law that cost Facebook $550M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
+      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T12:18:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
+          "width": 800,
+          "height": 400,
+          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-asu-researchers-debut-viwi-bt-an-aicomputer-vision-mmwave-beam-guide.md",
+      "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
+      "excerpt": "ViWi-BT’s goal is to use AI and a device’s cameras or lidar capabilities to identify physical impediments and advantages for the beam targeting process, enabling “vision-aided wireless communications.” In short, a system with ViWi-BT capabilities will learn about its 3D environment using a database of previously transmitted millimeter ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/asu-researchers-debut-viwi-bt-an-ai-computer-vision-mmwave-beam-guide/amp/",
+      "publishedDateTime": "2020-02-14T11:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/mmwaveml.jpg?fit=2608%2C1304&strip=all",
+          "width": 2608,
+          "height": 1304,
+          "title": "ASU researchers debut ViWi-BT, an AI/computer vision mmWave beam guide",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-ai-algorithms-intended-to-detect-welfare-fraud-often-punish-the-poor.md",
       "title": "AI Algorithms Intended to Detect Welfare Fraud Often Punish the Poor",
       "excerpt": "Automated algorithms – not humans – are increasingly making decisions about who’s eligible for welfare benefits.",
@@ -1150,139 +1284,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
-      "title": "Google’s AutoFlip uses AI to crop videos for you",
-      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
-      "publishedDateTime": "2020-02-13T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AutoFlip uses AI to crop videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
-      "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-      "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "publishedDateTime": "2020-02-13T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/andrew-yang.jpg?fit=1800%2C989&strip=all",
-          "width": 1800,
-          "height": 989,
-          "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
-      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
-      "publishedDateTime": "2020-02-13T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

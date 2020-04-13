@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Google releases a data set to spur development of multilingual AI models"
 
-secured: "ORx7loiLzn0+jwZTILDvC7ynIg+tI2owuibNcYBGod4vYsAoLhG8Of9bGERAn7RqMWFovnKSNZXwd8lsmoaOVKKGkPAx7Zh9JpUNlRm5BSxAMycop/8JV1UOIvBv5P/RYJ3C+plWJ3Nn5CUYBVOS7mVReRcoDZhtcOf9c++L5eRFM956jGZN5qltmAEN3jypQHREEkl2Dth9DJOGz7ff1f1heU2GUZ5WObPiCt5tP7SNj8lUVMj/2r6N7f6/yb1NmqEu0zFZSSgTwCib1QKosLpJ0zsxDWbma1j7HIIM8Yig9NfUUI8XK6RaPVfGLQaW;6oul9+MQuo7CL8IIQrwp7w=="
+secured: "1+wkqVprkV+AYinPVnSs5pv+PCn7IzoQWUnI7jAP9/teIPs2/vKHykFx5/0uTaoGp2KBywx6/aNxFntT8AS8UlF+0g0M4bkNYpyS0xKFNDx9L/xR6HK4SZhzHHWGjAnef1GTwu9K5RMQo1Oh6rz3BYpd3wMiFPo1KnF2wnUHHUOzSZG5oB/xKx89+hmwI6/YYDqrajagFBDe8tBGoCR1Im+Y17BF8DELwDle5i3Tq+LEXSriBAsSzLfunG+Roe9KIeimwEhuCKaGik7/qG5Kb+nEy41aepKxPnTGgFyMK8CvHoNIdsEotsQ1GYijWqw5QhTFDgOs+5NucvIf3x1oHHSr22fME8X+ZN/z9VfrOKk0Wo+NvEszh1TBtipOlQ8sZdCcewazD875yAHfV98WRCthLMI6rrqYoJskTq286X25VhFyeBLVJ5MKklVcv0qfWiif14bixG3w6iptDLnBSk+sIcxlrOcOr6A7Fmae/TA=;UJ613IERg13LoQgTh3YDzg=="
 ---
 

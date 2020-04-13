@@ -2,6 +2,140 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-28-textio-lays-off-30-amid-covid-19-seattle-startup-hopes-its-ai-writing-tech-will-aid-all-job-seekers.md",
+      "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
+      "excerpt": "Textio, the Seattle startup whose augmented writing platform helps companies use language that attracts ... there’s some opportunity to support job seekers in this environment,” Snyder said of the desire to quickly implement new features in Textio’s AI-powered natural language processing technology. Job seekers using Textio would be ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/",
+      "ampWebUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
+      "publishedDateTime": "2020-03-27T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/11/textio_life_new_brand_800px-630x323.jpg",
+          "width": 630,
+          "height": 323,
+          "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work.md",
+      "title": "Microsoft gives clean chit to Israeli facial recognition startup on its work",
+      "excerpt": "March 27 (Reuters) - Microsoft Corp said on Friday a probe found that an Israeli facial recognition startup it funded is not enabling a mass surveillance program in the West Bank as reported by some media outlets. AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz’s TheMarker business newspaper and NBC ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/microsoft-anyvision/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work-idUSL4N2BK4O4",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BK4O4",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BK4O4",
+      "publishedDateTime": "2020-03-27T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Microsoft gives clean chit to Israeli facial recognition startup on its work",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-tesla-deal-boosts-chinese-presence-in-us-auto-tech.md",
+      "title": "Tesla deal boosts Chinese presence in US auto tech",
+      "excerpt": "Baidu has invested in Nio, as well as in Uber and Velodyne, a California maker of laser-based lidar sensors for self-driving cars. Alibaba's mobility investments include Didi and Lyft. As Tesla is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "publishedDateTime": "2020-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104329942-IMG_5438.JPG?v=1491839432",
+          "width": 1445,
+          "height": 964,
+          "title": "Tesla deal boosts Chinese presence in US auto tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-teslas-china-business-is-booming.md",
       "title": "Tesla's China business is booming",
       "excerpt": "Elon Musk's Tesla is a growing player in China, where the global fight to develop electric, self-driving cars is raging ... and companies like Tesla or Baidu could take a cut of that,\" she said.",
@@ -945,125 +1079,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-human-compatible-a-timely-warning-on-the-future-of-ai.md",
-      "title": "Human Compatible: A timely warning on the future of AI",
-      "excerpt": "But we do know that we need to solve the control problem today, not when AI has already evolved beyond our control. But a good place to start is to rethink our approach to defining and creating artificial intelligence. Russell addresses this at the beginning of Human Compatible. Instead, Russell suggests, we should insist that AI that is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/27/human-compatible-a-timely-warning-on-the-future-of-ai-syndication/amp/",
-      "publishedDateTime": "2020-03-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-4-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Human Compatible: A timely warning on the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-computer-vision-in-healthcare-market-growth-ongoing-trends-technological-innovation-opportunities-and-forecast-to-2026.md",
-      "title": "Computer Vision in Healthcare Market Growth, Ongoing Trends, Technological Innovation, Opportunities and Forecast to 2026",
-      "excerpt": "The global Computer Vision in Healthcare market report scope includes detailed study covering underlying factors influencing the industry trends. The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1988080/computer-vision-in-healthcare-market-growth-ongoing-trends",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning.md",
-      "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-      "excerpt": "IBM agreed to help and introduced KTVA with its proprietary Watson Captioning Live technology - an automated speech recognition solution which applies smarter artificial intelligence (AI) and machine learning (ML) to learn words in context and continually deliver better results. Download and read the case study to find out: How Watson ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/smarter-ai-amplifies-the-voice-of-alaska-with-accurate-real-time-captioning",
-      "publishedDateTime": "2020-03-27T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/VSTTS7aSmeyoZAymbs8Wne-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "Smarter AI amplifies “The Voice of Alaska” with accurate, real-time captioning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

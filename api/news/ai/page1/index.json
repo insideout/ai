@@ -2,6 +2,141 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-13-hainan-rolls-out-face-scanning-machines-for-public-services-as-china-pushes-digital-infrastructure.md",
+      "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
+      "excerpt": "A new 24-hour service is within reach with a face scan – in China. Authorities in the southern, island province of Hainan have launched facial recognition-backed public services, enabling citizens to attend to government-related matters without having to queue up for manual assistance during office hours. A total of 350 “public ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
+      "publishedDateTime": "2020-04-13T14:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/13/107abe84-7d50-11ea-8736-98edddd9b5ca_image_hires_180925.JPG?itok=eGFvmZt-&v=1586772572",
+          "width": 1200,
+          "height": 630,
+          "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-huawei-said-to-be-eyeing-the-server-gpu-market-first-chips-to-arrive-later-this-year.md",
+      "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
+      "excerpt": "And, best of all, it comes with PCIe 4.0, HCCS, and RoCE interface support. It would make sense for Huawei to move into GPUs for high-performance computing for scenarios that require general-purpose capabilities as opposed to AI chips which are mostly tailored for training neural networks in deep learning applications. We also know the Chinese ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
+      "publishedDateTime": "2020-04-13T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-13-ts3_thumbs-36c.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-top-5-things-to-know-about-neuro-symbolic-artificial-intelligence.md",
+      "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
+      "excerpt": "What do you get when you combine neural networks with symbolic AI? The answer is: Neuro-symbolic artificial intelligence. Tom Merritt lists five things you should know about it. You hear a lot about neural networks and deep learning these days. They can do a lot of impressive things like create pictures of cats that never existed and other ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "publishedDateTime": "2020-04-13T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-amazon-translate-added-to-memsource-translate-memsources-machine-translation-management-feature.md",
       "title": "Amazon Translate added to Memsource Translate, Memsource’s machine translation management feature",
       "excerpt": "This is a guest post from Memsource. In their own words, “By leading the industry in AI-powered translation technology, we make localization easier, faster, and more cost-effective.” \nMemsource and Amazon Translate are strengthening their partnership. You can now use Amazon Translate with Memsource Translate,",
@@ -273,7 +408,7 @@
       "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
       "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
       "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
@@ -1159,133 +1294,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
-      "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
-      "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "publishedDateTime": "2020-04-10T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/10/0602992e-7ae2-11ea-9b24-e7152d1bf921_image_hires_133906.jpg?itok=1KzUyjLW&v=1586497161",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
-      "title": "How AI Is Helping in the Fight Against COVID-19",
-      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
-      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "publishedDateTime": "2020-04-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How AI Is Helping in the Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
-      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
-      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "publishedDateTime": "2020-04-10T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
+      "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-03-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr.md",
       "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
       "excerpt": "Portland, March 30, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global deep learning chip market was pegged at $2.81 billion in 2018 and is estimated to reach $29.",
@@ -1216,44 +1261,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
-      "title": "How Machine Learning Improves Banks’ Customer Experience",
-      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
-      "publishedDateTime": "2020-03-19T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
-          "width": 1440,
-          "height": 500,
-          "title": "How Machine Learning Improves Banks’ Customer Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

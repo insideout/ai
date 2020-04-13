@@ -2,6 +2,117 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-17-scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.md",
+      "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
+      "excerpt": "The resulting “musical scores” which are generated depending on how a protein folds were fed into a deep learning neural network. These artificial neural networks are computational algorithms that mimic the behavior of human interconnected neurons to process and learn from large amounts of information in a similar way to how the brain ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200317/Scientists-use-artificial-intelligence-to-create-new-proteins-unseen-in-nature.aspx",
+      "publishedDateTime": "2020-03-17T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f3%2fshutterstock_1354969193.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": "Scientists use artificial intelligence to create new proteins unseen in nature",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-osaro-recognized-as-top-global-ai-startup-by-cb-insights-ai-100-cnbcs-upstart-100.md",
+      "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
+      "excerpt": "\"Each year, CNBC scans the globe looking for the 100 venture-backed start-ups that have the potential to transform industries ... Since 2015, OSARO's wider mission has been to build hardware-agnostic AI software that enables robots to function in a variety of environments and perform a diverse set of tasks. OSARO systems are compatible with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/usubmit/-osaro-recognized-as-top-global-ai-startup-cb-/2020/03/17/9116494.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200317005221/en/780161/4/Osaro-Pick-heroImage_%281%29_%281%29.jpg",
+          "width": 480,
+          "height": 385,
+          "title": "OSARO Recognized as Top Global AI Startup by CB Insights' AI 100 & CNBC's Upstart 100",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service.md",
+      "title": "Moven and the Saudi Digital Payments Company (STC Pay) announce Agreement to Collaborate on new Fintech Banking Service",
+      "excerpt": "Ahmed Alenazi, the CEO of STC Pay added, \"we have strived to create the best FinTech service in the Kingdom and the MENA region in Oct 2018 ... Movencorp leads banking-as-a-service innovation in AI/ML driven smart-banking technologies in order to drive financial wellness and smart day-to-day banking capabilities. Movencorp, Inc is the only ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/moven-and-the-saudi-digital-payments-company-stc-pay-announce-agreement-to-collaborate-on-new-fintech-banking-service-1029004635",
+      "publishedDateTime": "2020-03-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-machine-learning-to-scale-up-the-quantum-computer.md",
       "title": "Machine learning to scale up the quantum computer",
       "excerpt": "Machine learning is an emerging area of research which is revolutionizing almost every field of research, from medical science to image processing, robotics, and material design. A carefully trained machine learning algorithm can process very large data sets with enormous efficiency. One branch of machine learning is known as convolutional ...",
@@ -772,116 +883,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-qa-toyota-ai-ventures-seeks-disruptive-start-ups.md",
-      "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
-      "excerpt": "Toyota AI Ventures, a subsidiary of Toyota Research Institute (TRI), is a Silicon Valley-based venture capital company which invests in early-stage start-ups developing technology in areas including AI, cloud, data, mobility and more. Mobile World Live spoke to Jim Adler, founding MD (pictured, right), about some of the key trends the company ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qa-toyota-ai-ventures-seeks-disruptive-start-ups/amp/",
-      "publishedDateTime": "2020-03-17T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.mobileworldlive.com/wp-content/uploads/2017/08/MWL_Toyota_Connected_Car.jpg?fit=500%2C281&ssl=1",
-          "width": 500,
-          "height": 281,
-          "title": "Q&A: Toyota AI Ventures seeks disruptive start-ups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-whats-driving-the-gpu-market-growth-amd-amazon-web-services-dassault-systmes-google-ibm-intel-corporation-microsoft.md",
-      "title": "What's Driving the GPU Market Growth? AMD, Amazon Web Services, Dassault Systmes, Google, IBM, Intel Corporation, Microsoft",
-      "excerpt": "Ever increasing demand for advanced graphics processing across several sectors is majorly driving the GPU market trends GPUs play a key role in running graphics intensive applications such as gaming image processing 3D visualization VFX animations and many more among",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970446/what-s-driving-the-gpu-market-growth-amd-amazon-web-services",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T01:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace.md",
-      "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide gain access to Cyber Infrastructure's implementation service to take advantage of agility of Azure to drive app development. SAN JOSE, CA, USA, March 17, 2020 /EINPresswire.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cyber-infrastructures10-week-azure-app-development-implementation-now-availablein-the-microsoft-azure-marketplace-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cyber Infrastructure's10-Week Azure App Development Implementation Now Availablein the Microsoft Azure Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

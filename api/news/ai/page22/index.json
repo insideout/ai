@@ -2,6 +2,125 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-19-google-translate-now-enables-you-to-transcribe-speech.md",
+      "title": "Google Translate now enables you to transcribe speech",
+      "excerpt": "... transcribe speech in real time - meaning that if you're at an event and someone starts speaking in another language, you can understand what's going on. A key point is that it's not going to replace translation services like Otter.ai for chunks of text yet. For example, it won't deal fully with multiple speaker conversations and enable you ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech",
+      "ampWebUrl": "https://www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/apps/news/google/151499-google-translate-now-enables-you-to-transcribe-speech.amphtml",
+      "publishedDateTime": "2020-03-19T04:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pocket-lint",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/151499-apps-news-google-translate-now-enables-you-to-transcribe-speech-image1-hdvtbcdk05.jpg",
+          "width": 945,
+          "height": 630,
+          "title": "Google Translate now enables you to transcribe speech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
+      "title": "How Machine Learning Fights Financial Fraud",
+      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
+          "width": 1500,
+          "height": 860,
+          "title": "How Machine Learning Fights Financial Fraud",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
+      "title": "Hybrid AI systems are quietly solving the problems of deep learning",
+      "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/syndication/2020/03/19/hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T03:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/1-copy-1-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "Hybrid AI systems are quietly solving the problems of deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-multi-modular-ai-approach-to-streamline-autism-diagnosis-in-young-children.md",
       "title": "Multi-modular AI Approach to Streamline Autism Diagnosis in Young Children",
       "excerpt": "Autism has become a pressing healthcare challenge. The instruments used to aid diagnosis are time and labor expensive and require trained clinicians to administer, leading to long wait times for at-risk children.",
@@ -1019,109 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
-      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile ID News",
-        "domain": "mobileidworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-delphian-trading-launches-ai-based-institutional-trading-platform.md",
-      "title": "Delphian Trading Launches AI-based Institutional Trading Platform",
-      "excerpt": "Delphian Trading, a leader in predictive analytics for derivatives trading and incubated by System Soft Technologies, today announced the formal launch of its Delphian Trading platform, which provides institutional-grade,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002835/0/en/Delphian-Trading-Launches-AI-based-Institutional-Trading-Platform.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-cloud-struggles-suffers-small-outage-in-dallas.md",
-      "title": "IBM Cloud struggles, suffers small outage in Dallas",
-      "excerpt": "In a week filled with small outages, IBM Cloud experienced several issues on March 17. Services at its Dallas data center were degraded, with some fully going down, and others slowing or throwing up error codes. Watson AI, IBM Cloud, DB2, Event Streams, and Classic Network Infrastructure were among the services impacted. IBM spokespeople did ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datacenterdynamics.com/en/news/ibm-cloud-struggles-suffers-small-outage-dallas/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/IBM_Swallows_RedHat.2e16d0ba.fill-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Cloud struggles, suffers small outage in Dallas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

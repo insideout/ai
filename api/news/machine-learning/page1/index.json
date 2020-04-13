@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-13-top-5-things-to-know-about-neuro-symbolic-artificial-intelligence.md",
+      "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
+      "excerpt": "What do you get when you combine neural networks with symbolic AI? The answer is: Neuro-symbolic artificial intelligence. Tom Merritt lists five things you should know about it. You hear a lot about neural networks and deep learning these days. They can do a lot of impressive things like create pictures of cats that never existed and other ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
+      "publishedDateTime": "2020-04-13T13:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector.md",
       "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
       "excerpt": "Innovation” Machine Learning Uses Three Structures to Produce Improvements – Deltec Bank Machine learning is a prerequisite feature",
@@ -1238,51 +1283,6 @@
         "TensorFlow",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027.md",
-      "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
-      "excerpt": "Global Machine Learning as a Service (MLaaS) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-garner-overwhelming-hike-in-revenues-by-2027-2020-03-31",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

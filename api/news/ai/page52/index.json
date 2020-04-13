@@ -2,6 +2,139 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-02-13-googles-autoflip-uses-ai-to-crop-videos-for-you.md",
+      "title": "Google’s AutoFlip uses AI to crop videos for you",
+      "excerpt": "By contrast, AutoFlip is completely automatic thanks to AI object detection and tracking technologies that intelligently understand video content. The system detects changes in the composition that signify scene changes in order to isolate scenes for processing. And within each shot, it uses video analysis to identify salient content before ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/googles-autoflip-automatically-crops-videos-using-ai/amp/",
+      "publishedDateTime": "2020-02-13T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AutoFlip uses AI to crop videos for you",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
+      "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
+      "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
+      "publishedDateTime": "2020-02-13T09:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/andrew-yang.jpg?fit=1800%2C989&strip=all",
+          "width": 1800,
+          "height": 989,
+          "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
+      "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+      "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-of-pedestrians/amp/",
+      "publishedDateTime": "2020-02-13T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/maxresdefault-3-e1581578338376.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-ais-healthcare-promise-will-serve-patients-and-more.md",
       "title": "AI’s Healthcare Promise Will Serve Patients — and More",
       "excerpt": "The question: “As healthcare organizations invest in artificial intelligence technologies, in what areas can they reap the most immediate benefits?” Scott Nelson, Founder, CEO, CTO, Reuleaux Technology, agrees. “Without question, the most immediate AND impactful application of AI in healthcare will be patient engagement/behavior during ...",
@@ -1147,142 +1280,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-deep-learning-with-spiking-networks-optimising-energy-consumption.md",
-      "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
-      "excerpt": "There are several important differences between what is nowadays known as a “neural network” (in the deep learning sense) and networks of neurons in the brain. A particularly evident one is that artificial networks have analogue activations — the output of an artificial neuron is a continuous number. Biological neurons, conversely ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@martino.sorbaro/deep-learning-with-spiking-networks-optimising-energy-consumption-50588b4435fd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T14:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*kfFVkqlme7mqJvfySyfXcg.jpeg",
-          "width": 1200,
-          "height": 644,
-          "title": "Deep Learning with Spiking Networks: Optimising Energy Consumption",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-healthcare-algorithms-are-biased-and-the-results-can-be-deadly.md",
-      "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
-      "excerpt": "And the Alliance for Artificial Intelligence in Healthcare, a nonprofit organization founded in December 2018, brings together developers, device manufacturers, researchers, and other professionals to advance the safe and fair use of AI in medicine. Some organizations have started baking inclusivity and fairness into the data-gathering process ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly",
-      "ampWebUrl": "https://uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1",
-      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/news-analysis/124621/healthcare-algorithms-are-biased-and-the-results-can-be-deadly?amp=1",
-      "publishedDateTime": "2020-02-12T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/h/healthcare/healthcare-algorithms-are-biased-and-the-results-can-be-dead_3kzk.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "Healthcare Algorithms Are Biased, and the Results Can Be Deadly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models.md",
-      "title": "IBM highlights new approach to infuse knowledge into NLP models",
-      "excerpt": "The research announced at the AAAI-20 Conference in New York gives computer systems the ability to better comprehend and infer from natural language. Researchers from the MIT-IBM Watson AI Lab, Tulane University and the University of Illinois this week unveiled research that allows a computer to more closely replicate human-based reading ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-highlights-new-approach-to-infuse-knowledge-into-nlp-models/",
-      "publishedDateTime": "2020-02-12T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2019/02/12/cdda909e-f963-4538-a3e8-dd84cc224515/resize/1200x/bf661506ae11de07f865681a9fcae5bc/ibm-watson-940x705.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "IBM highlights new approach to infuse knowledge into NLP models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI",
-        "Natural Language Processing"
       ]
     }
   ],

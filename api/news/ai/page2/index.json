@@ -2,6 +2,133 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
+      "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
+      "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
+      "ampWebUrl": "https://amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
+      "publishedDateTime": "2020-04-10T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/10/0602992e-7ae2-11ea-9b24-e7152d1bf921_image_hires_133906.jpg?itok=1KzUyjLW&v=1586497161",
+          "width": 1200,
+          "height": 630,
+          "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
+      "title": "How AI Is Helping in the Fight Against COVID-19",
+      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
+      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
+      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
+      "publishedDateTime": "2020-04-10T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "How AI Is Helping in the Fight Against COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
+      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
+      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
+      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
+      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
+      "publishedDateTime": "2020-04-10T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-karma-l4-e-flex-van-would-make-a-killer-self-driving-e-camper-van.md",
       "title": "Karma L4 E-Flex Van would make a killer self-driving e-camper van",
       "excerpt": "Beyond launching electrified cars of its own, Karma Automotive plans to sell its E-Flex electrified platform to other auto manufacturers looking to quickly bring electric models to market. The E-Flex will be available in various configurations to support a variety of vehicle styles, ranging from everyday utility models to hypercars. The first E ...",
@@ -770,7 +897,7 @@
       "path": "_news/2020-04-09-robots-may-become-heroes-in-war-on-coronavirus.md",
       "title": "Robots may become heroes in war on coronavirus",
       "excerpt": "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ...",
-      "heat": 109,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/",
@@ -1201,139 +1328,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-after-coronavirus-ai-could-be-central-to-our-new-normal.md",
-      "title": "After coronavirus, AI could be central to our new normal",
-      "excerpt": "The current COVID-19 crisis could provide a similar inflection point for AI applications. While the implications of AI continue to be debated on the world stage, the rapid onset of a global health crisis and concomitant recession will accelerate its impact. Times of crisis bring rapid change. Efforts to harness AI technologies to discover new ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/after-coronavirus-ai-could-be-central-to-our-new-normal/amp/",
-      "publishedDateTime": "2020-04-08T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/edge.jpg?fit=2120%2C1414&strip=all",
-          "width": 2120,
-          "height": 1414,
-          "title": "After coronavirus, AI could be central to our new normal",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-google-cloud-launches-new-ai-chatbot-for-covid-19-information.md",
-      "title": "Google Cloud launches new AI chatbot for COVID-19 information",
-      "excerpt": "Delivered Daily Artificial intelligence and machine learning are continuing to take a front-row seat in fighting COVID-19, with Google Cloud launching an AI chatbot on Wednesday. The chatbot, which it calls the Rapid Response Virtual Agent program, will provide information to battle the COVID-19 pandemic, as announced in a Google blog.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/google-cloud-launches-new-ai-chatbot-for-covid-19-information/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/google-cloud-launches-new-ai-chatbot-for-covid-19-information/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/google-cloud-launches-new-ai-chatbot-for-covid-19-information/",
-      "publishedDateTime": "2020-04-08T14:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/08/edeae713-3857-4811-a1ee-4be521db5ae0/resize/1200x/cdcf07d88eb6d4823cf25a9648f5b6c1/google-images.jpg",
-          "width": 1200,
-          "height": 735,
-          "title": "Google Cloud launches new AI chatbot for COVID-19 information",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-nuro-cleared-to-test-self-driving-delivery-vehicles-in-california.md",
-      "title": "Nuro cleared to test self-driving delivery vehicles in California",
-      "excerpt": "The small driverless vehicles could help deliver goods amid the coronavirus pandemic. ns will soon see an odd, new vehicle motoring around local roads after the state cleared Nuro to test its self-driving delivery car in the state,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-test-self-driving-delivery-vehicles-coronavirus-california/",
-      "publishedDateTime": "2020-04-08T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/gh9rCPWglLqLLnPkvD6PHLBo1B4=/2020/04/08/e348bb1c-3476-4cd5-9d9b-45f1c08c60c5/ogi-nuro.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Nuro cleared to test self-driving delivery vehicles in California",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

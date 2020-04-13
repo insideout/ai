@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-ro
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:
@@ -42,6 +42,6 @@ related:
         width: 636
         height: 382
 
-secured: "EWr6ORX5jeHyPZq453nOMJ2M4WieZrJvALZEib6d6ajokSYYzMBniunX+y0twCt2m66ogYGFpdgP9XvTvo1KRPsq3y5elS7N04coIZbI9di3ua9qZ58UMAfHfw/f6tE1hmzVdocndn0vSjwRW8R9X8ihtvr7lYwttHu53oNjQc6POqAmG1x/SQi9hy+au6L6DR+CCWPNP+TAbr+L2rp4M9xmes0a9525S6OHnh81G+9hfGETtVpJxn6MspOvZkILYEp/X1858lo8p/Yr0Ca163Z0mC7twq1fse/Dh6yzvLDILDRQdha1zddgVjaQcRx5FmwEIfSHu5dLivmI4c+U5dghdtc0UYe/F/u2FMzDufcbam+tnOq5I6Vh+qSgc6sWayn+bCU/4bebl3V6LBwvjNZa82TFYajI8mw9fNfi6XyDRP+lFCXhFygym5FgWwR9KkChwTRnvugcDwf2JSfUCdxG6TtcwUHtALewcZVqtZE=;cc2eLpLRJW4sojLit4MWpQ=="
+secured: "DGA+DJ1yN7DsslQWL1OWARmU2g4svmHYM/CKS7azXcKdk8+sCPVSODUFCvoE86CfkcJ3mC5FkQrcm1LsvFswBHpeUCXyh3aZF4wemQl5A5gIadYmTf71H0zrHtNZQHi6S/85xBlgIM5dCPuS3L3RxqCvZ2xQybzIPn9lIi+rC4fJLaeoNlPXDnIsxI0ZSjZPQEeenOvBtSZk7GtjxMYt2TA67OM1GWe0R3bcQdrRipzAJ2MCY6Gm4i0n9rgSJ3O1JOSBmdKeF6zDyxv63QqkM+kaNxAEqo9AS7J1b7zS0DVZtWRRVEUZ6yWjB7s8yEAJPTlM5wcGbbzqvkb++eX6kjIt9vI6rACOjEx06eH7XrUJNpFxdAy9ilsz2v32Q4espb3WwSoUecWodp+3pNbC+PSFoH2fPp458GwvD1FrycJiAClaG8dsRx6ZBZbl9Rz+DxR65vKSV7fIPD9juu0Az2JK9FzrG1aazDGPn0hmhTY=;/vbsX0EstyiNHZ5j8uvZPg=="
 ---
 

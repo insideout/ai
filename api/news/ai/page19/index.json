@@ -2,6 +2,140 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-03-23-autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027.md",
+      "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+      "excerpt": "Mar 23, 2020 (Business Arrival via Comtex) -- the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidias-dlss-20-details-better-graphics-made-easier-with-ai.md",
+      "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
+      "excerpt": "DLSS 2.0 (Deep Learning Super Sampling) might be just the game-changing graphics technology we need at this strange point in history. DLSS 2.0 uses dedicated AI processors (Tensor Cores) on NVIDIA GeForce RTX graphics cards to bring boosted frame rates without the blurry textures that usually come along for the ride. While DLSS 2.0 works with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/",
+      "ampWebUrl": "https://www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/amp/",
+      "publishedDateTime": "2020-03-23T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/nvidiadlss20.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
+      "title": "University Students Are Learning To Collaborate",
+      "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "publishedDateTime": "2020-03-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7528552a573300068fe6fb%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": "University Students Are Learning To Collaborate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
       "title": "Tesla files patent for sourcing self-driving training data from its fleet",
       "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
@@ -1111,115 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation.md",
-      "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
-      "excerpt": "A new AI system has revealed that we’re finally getting better at wildlife conservation. Researchers came to this conclusion after using machine learning to analyze more than 4,000 studies on species reintroduction across four decades. The system evaluated the outcomes of conservation programs by assessing the study abstracts with sentiment ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
-      "publishedDateTime": "2020-03-20T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design32-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
-      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
-          "width": 600,
-          "height": 401,
-          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-statement-re-wisdomtree-artificial-intelligence-ucits-etf.md",
-      "title": "Statement Re WisdomTree Artificial Intelligence UCITS ETF",
-      "excerpt": "NOTICE TO SHAREHOLDERS OF WISDOMTREE ISSUER PLC This notice is important and requires your immediate attention. If you are in any doubt about its",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/20/2004137/0/en/Statement-Re-WisdomTree-Artificial-Intelligence-UCITS-ETF.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

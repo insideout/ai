@@ -2,6 +2,139 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-01-19-how-quartz-used-ai-to-sort-through-the-luanda-leaks.md",
+      "title": "How Quartz used AI to sort through the Luanda Leaks",
+      "excerpt": "But they had a problem: That’s a heck of a lot of files. ICIJ partnered with Quartz’s AI Studio to find a solution. We built a system using artificial intelligence to “read” all the documents and help journalists from Quartz, ICIJ and other partner organizations find the kinds of documents they expected in the cache of leaks ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/",
+      "ampWebUrl": "https://qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1786896/ai-for-investigations-sorting-through-the-luanda-leaks/amp/",
+      "publishedDateTime": "2020-01-19T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/01/Cover-TheEngineer-V2.jpeg_effected_logo.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "How Quartz used AI to sort through the Luanda Leaks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-19-dive-into-ai-and-machine-learning-with-this-40-training.md",
+      "title": "Dive into AI and machine learning with this $40 training",
+      "excerpt": "With four courses and over 280 lessons, this bundle will introduce you to the exciting and lucrative world of machine learning and AI The interconnected worlds of machine learning and AI can be found at the heart of some of today's most exciting and important technologies—from quantum computing and Google algorithms to medical innovations and ...",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/19/ai-and-machine-learning-training/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/19/ai-and-machine-learning-training/",
+      "publishedDateTime": "2020-01-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F8b238210-38a9-11ea-917e-fb2730af35ad%26client%3Da1acac3e1b3290917d92%26signature%3D38805b0262324ddf51afce57692f092fd86987eb&client=amp-blogside-v2&signature=d5a5d6b2ff11988bc4300d6be4722d34508587fa",
+          "width": 600,
+          "height": 350,
+          "title": "Dive into AI and machine learning with this $40 training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-19-why-agile-methodologies-miss-the-mark-for-ai-ml-projects.md",
+      "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
+      "excerpt": "What drives AI and ML projects is not programmatic code, but rather the data from which learning must be derived. What is needed is a project management methodology that takes into account the data-centric needs of AI and application-focused uses of models.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/19/why-agile-methodologies-miss-the-mark-for-ai--ml-projects/amp/",
+      "publishedDateTime": "2020-01-19T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1a23e2a854780006e84fa0%2F0x0.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Why Agile Methodologies Miss The Mark For AI & ML Projects",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-19-2020-the-year-of-artificial-intelligence-for-your-business.md",
       "title": "2020: The Year Of Artificial Intelligence For Your Business",
       "excerpt": "Close to 40% of businesses use artificial intelligence (AI). This number was estimated at 5% to 10%, but a survey by IBM showed that we grossly underestimated the scale of AI’s existence. Most importantly, this number is set to grow to 80% to 90% over the next 18-24 months. Furthermore, AI specialists are the number one job role for 2020.",
@@ -918,139 +1051,6 @@
           "width": 620,
           "height": 480,
           "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-bjork-and-microsoft-use-ai-to-create-music-that-changes-with-the-sky.md",
-      "title": "Björk and Microsoft use AI to create music that changes with the sky",
-      "excerpt": "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
-      "publishedDateTime": "2020-01-17T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd",
-          "width": 600,
-          "height": 350,
-          "title": "Björk and Microsoft use AI to create music that changes with the sky",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai.md",
-      "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
-      "excerpt": "“This is about building use cases, proving the value, developing, and technology, deploying on a POC, and so forth,” said Lionel Chocron, CPO of Hedera Hashgraph.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
-      "publishedDateTime": "2020-01-17T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e21f534a854780006e8c6b8/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
-      "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
-      "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2018/01/17/google-launches-cloud-automl.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/17/google-launches-cloud-automl.html",
-      "publishedDateTime": "2020-01-17T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103643296-636_0045.jpg?v=1529471578",
-          "width": 3970,
-          "height": 2652,
-          "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
           "attribution": null
         }
       ],
