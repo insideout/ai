@@ -91,43 +91,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-08-blackrock-and-microsoft-partner-to-host-aladdin-on-azure.md",
-      "title": "Blackrock and Microsoft Partner to Host Aladdin on Azure",
-      "excerpt": "The Microsoft Azure platform helps support the increasing need institutions currently have ... in understanding the impact of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financemagnates.com/institutional-forex/technology/blackrock-and-microsoft-partner-to-host-aladdin-on-azure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finance Magnates",
-        "domain": "financemagnates.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.financemagnates.com/wp-content/uploads/2016/03/BlackRock.jpg",
-          "width": 880,
-          "height": 400,
-          "title": "Blackrock and Microsoft Partner to Host Aladdin on Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-08-coreldraw-graphics-suite-2020-review-faster-with-more-ai-and-added-collaboration.md",
       "title": "CorelDRAW Graphics Suite 2020 review: Faster, with more AI and added collaboration",
       "excerpt": "Since moving to annual updates, CorelDRAW has been getting one or two strong features in each release. In the 2020 release, which costs £299 a year or £599 as a one-time purchase, that includes using machine learning to improve several features. This isn't an attempt to deliver automatic designs, but to make designers more productive. Expert ...",
@@ -1295,6 +1258,51 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-tesla-prepares-to-increase-the-price-of-full-self-driving-again-with-new-features.md",
+      "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+      "excerpt": "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/",
+      "ampWebUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 449,
+          "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

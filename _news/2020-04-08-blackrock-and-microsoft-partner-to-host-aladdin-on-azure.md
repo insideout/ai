@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-08T13:17:00Z
 webUrl: "https://www.financemagnates.com/institutional-forex/technology/blackrock-and-microsoft-partner-to-host-aladdin-on-azure/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Finance Magnates
@@ -24,19 +24,6 @@ images:
     title: "Blackrock and Microsoft Partner to Host Aladdin on Azure"
 
 related:
-  - title: "BlackRock to port Aladin to Microsoft Azure"
-    excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
-    publishedDateTime: 2020-04-08T10:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82092/blackrock-to-port-aladin-to-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
   - title: "BlackRock to host Aladdin platform on Microsoft cloud"
     excerpt: "BlackRock will also adopt Microsoft Azure’s network of data centres globally to meet the localised needs of the Aladdin platform’s clients. They are both also planning a new initiative aimed at expanding sustainability data and analytics using the latest technologies such as big data, machine learning and artificial intelligence."
     publishedDateTime: 2020-04-08T12:15:00Z

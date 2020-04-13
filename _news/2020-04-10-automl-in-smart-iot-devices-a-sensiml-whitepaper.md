@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AutoML in Smart IoT Devices - A SensiML Whitepaper"
-excerpt: "SensiML Corporation, a leading developer of AI tools for building intelligent IoT endpoints, has released a whitepaper entitled \"Building"
-publishedDateTime: 2020-04-10T13:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/automl-in-smart-iot-devices--a-sensiml-whitepaper-301038733.html"
+excerpt: "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ..."
+publishedDateTime: 2020-04-10T13:08:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook"
-    width: 2059
-    height: 1079
-    title: "AutoML in Smart IoT Devices - A SensiML Whitepaper"
-
-secured: "cxBEM2SKsy7EnbtGKAtTGzEhW2UmbTR9tZPgzcUfBgZhMPCPQijMJcTQhaU5GdzrkV9hK0GN5Byr5wRUZAddwdsgdPwZ8QW/B4fJMfQPAS4iO/rVA3mCp8NG7O681XiPlGUd2lIiAKfWCBkRAmxbtGmI7eL03eTxEnoO58FJWHCSqU4ZaV+b0KYnhWcsnQHBDTHs38sTTm+mH7Qhg5YEFP5FKFL9PVU8dp1s9p6/8NP6IkrJ3rXGng19owPHgwnA8rSgA9EdzlASeyLb/xCgFSbDWjzCjub7E5YG+3HbK2Do1BKdrP4OqKmaXlfJ5qKsnrjUar4s5oN+zhOG9YReegCCWb5WqKDVjl7S5DYAw6mwL6U1EQ3atjUqWHL0hBQa1FBR9gctJBW1xJAC9b5QuWAURVLvEA2Nn6xs3FM5RAi5p2G2lNoFo0b/+MdtxJ6Nu6xeLljtnjM2mHGaFH7hgq/DIxjRfitiGlqSQHSQpAE=;w+d6AOSVC+Gq8FG4bFpx7w=="
+secured: "UOkIIXsOCi13vqgTbIwSkR7x6Nu/cYrkrMg+5tBEhhu1bj5JbWEMKdTjVhi8TGY+XuipVzaIGtx5y/dlOWeHLXW5dbvT6FFO2BBkhbfgieyY5rwtUuxraHAFstzJZEexe/eYJIe2Q4olS1GHC2iMLTmlmXi99FaUh2fNzHG9B1pkKkNY61/MpyHPI/03tFKmzWOKf68PRAB04lbon2uL8eiWDXaqRb+IrX71UYCvvPgaFBQBNAgM6qb4b/0iIv3OAPTL7e4X8apb20cnZizuuDT+fzK1OEpmqxzxVGXwI+9KDILig0LrVD+45IZoiOnV;khbFFOXAgYn7m13UGD14Hg=="
 ---
 

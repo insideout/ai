@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Robots Welcome to Take Over, as Pandemic Accelerates Automation"
-excerpt: "Broad unease about losing jobs to machines could dissipate as people focus on the benefits of minimizing close human contact."
-publishedDateTime: 2020-04-11T07:06:00Z
-webUrl: "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.html"
-ampWebUrl: "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html"
+title: "Robots welcome to take over, as pandemic accelerates automation"
+excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift ... also mean that when companies start hiring again, they do so in ..."
+publishedDateTime: 2020-04-11T17:14:00Z
+webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
+ampWebUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
 type: article
-quality: 89
-heat: 109
+quality: 59
+heat: 79
 published: true
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://static01.nyt.com/images/2020/04/11/business/10virus-automation2-print/10virus-automation-1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
-    title: "Robots Welcome to Take Over, as Pandemic Accelerates Automation"
+  - url: "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
+    width: 1200
+    height: 900
+    title: "Robots welcome to take over, as pandemic accelerates automation"
 
 related:
   - title: "Robots welcome to take over, as coronavirus pandemic accelerates automation"
@@ -59,6 +55,6 @@ related:
         width: 1200
         height: 630
 
-secured: "T2I/AdKIvS2j8HCalpamW75Vt2Fufnxzb3gChW6n/V1R9z4FOf1NOcHnI8p3+ee4OYXt65eWTo+HXiK04juMCsiKMHHMHI1PiXnDFiII+/PsAJfArcxBC3fSisVD/t9nzvfZYO8wfF/yDiCOem4dDPoGzUPzgkJVhlhuQPRraFP7jq4EEVgIEicvl0/lpZ/Az2W2QnHDGsK/TxIqejySjz+BH//CMCx/boRagOGsrq8EszEGq5gCyW/iA+9u4uwHk+kLO7iDKPDbycuHWlqMVGVVEoZokZdeKIDNMC/5SDoFunO2UEHCi4IgUtJaO6bo7d5x/PfZh60oOeGxU1D4eC+TjO29EqGIz/Yu7uhsORwRqRMdtTwDPpYBpwnwWoeC0S/4rq/x9qULRBgTvJb8SJDp67WLyrz7ZlS2PjEGAHsXEbG95E1bvw1w+1z5JJ2ukQkamGSgHSauuFT7m00E5LwLMRGjcGJH4YGDMB+Pnv0=;sSbydNJJXPH1JEWiVIaPyg=="
+secured: "u4e/TaW6HKEAWpn5bydv4/L1kxZ9awIFIaYDswzR800DvWvAKmyAwqxll8Ss5RvDSIaGG8S6aixW3OVwDQ3IX86L7J0BLjiKFc8AZo1h96GJctwrFiB1hGWdg8U7U92LaIdi8Qo3SSAxTI11SeTvMxRidyaL70Jfp29dWZW415oLT6n8Sbsk+BlWSzURpr3rnuk5Xob62lWNhEikKzE4SZf5BCUtMqy1W06x78V5tMlTdlSIeXnJwN1sqTagPUvMPGm2IIbgz8exzalFr15vFRZ1rDmhKaWXnrm6rVsVMNzbiJkQSjedwgBy/q9YcGLi;R+SRDG/KOHflA25pXBJ3iQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-08T13:51:00Z
 webUrl: "https://sdtimes.com/cloud/ipaas-adoption-growing-to-handle-integrations-in-cloud-architectures/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -26,23 +26,6 @@ images:
     width: 660
     height: 371
     title: "iPaaS adoption growing to handle integrations in cloud architectures"
-
-related:
-  - title: "Optimising large-scale event security and operations with intelligent video surveillance"
-    excerpt: "This – along with behavioral detection, such as object interactions, dwell times, and navigation paths, as well as face and license plate recognition – enables searchable, actionable and quantifiable analysis of video. The technology makes it easy for users to accelerate post-event investigations, improve situational awareness, and derive ..."
-    publishedDateTime: 2020-04-08T09:37:00Z
-    webUrl: "https://www.sourcesecurity.com/insights/optimizing-large-scale-event-security-operations-co-4559-ga.1586335975.html"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/insights/optimizing-large-scale-event-security-operations-co-4559-ga.1586335975.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/optimizing-large-scale-event-security-operations-co-4559-ga.1586335975.html"
-    type: article
-    provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 35
-    images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/news/612/artificial-intelligence-analytics-security-920x533.jpg"
-        width: 612
-        height: 355
 
 secured: "tr1HrN9+lIRDwzMc5W6Kl2CmWex+VhpgBJ/TqiTR0aMyR5GXN7SCHfz5QEJjhHAQqOkdLYDvcdiOF349SvNeIEHvk2qRKedSwaoSntF2ZoMWq3gNsBx1j2+OP1EYldEkGxWkmSls80CfAfe41lUvPLmGVLjHjeuCqPOMb34Zop8zBjivq+0flSwdjfefry3BEr3yivICsCwyFPj8mh5aCl8BWfJMaOPT02YY8v/7LKvy2jGBtJA4iRDiSfqkS5tmrXZ9fCLTXnLMDW0pVI5Rx19CmpmumNqWKWkN3KIsjmB3eJwPXrg3zqDaZiN+XNhoKnVhhJfWJltxyhKk/oY35M6Y49kM15HRAc1M5upDIFnHAq9QIxMBsCqHXf1GWH0HGHd9kYWtu+OzIvQG9DkazcIuTpgaliCt4lFm3c5ZMXAUvtNe/MOypxnS+2n/3PmekJg4PZ5ob28UeaifNQ5pcww/UExQIllv7V8MmBJSX44=;LxbNWVpsBxHQP4O1GDjjFg=="
 ---

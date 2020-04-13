@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
+      "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
+      "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
+      "publishedDateTime": "2020-03-02T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Hongqi-L4-Car.jpeg?fit=1680%2C987&strip=all",
+          "width": 1680,
+          "height": 987,
+          "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
       "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
       "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
@@ -1284,44 +1329,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
-      "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
-      "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
-      "heat": 140,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/02/17/self_driving_car_dataset/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/02/17/self_driving_car_dataset/",
-      "publishedDateTime": "2020-02-17T03:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/01/16/shutterstock_smart_city.jpg",
-          "width": 648,
-          "height": 432,
-          "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
         "AI in Autos"
       ]
     }

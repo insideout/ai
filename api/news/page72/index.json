@@ -2,6 +2,51 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-02-05-ceo-of-creepy-face-recognition-firm-clearview-ai-says-he-has-first-amendment-right-to-billions-of-photos.md",
+      "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+      "excerpt": "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190",
+      "ampWebUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "publishedDateTime": "2020-02-04T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png",
+          "width": 800,
+          "height": 450,
+          "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-deep-learning-market-analysis-and-forecast-2026.md",
       "title": "Deep Learning Market Analysis And Forecast 2026",
       "excerpt": "The Deep Learning Market 2020-2026 is a valuable source of insightful data for business strategists. This Deep Learning Market study provides comprehensive data on aspects of competitive intelligence,",
@@ -1041,43 +1086,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-algorithms-on-social-media-need-regulation-says-uks-ai-adviser.md",
-      "title": "Algorithms on social media need regulation, says UK's AI adviser",
-      "excerpt": "Report also urges government to consider making firms such as Facebook share their data",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "ampWebUrl": "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "publishedDateTime": "2020-02-03T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95",
-          "width": 600,
-          "height": 360,
-          "title": "Algorithms on social media need regulation, says UK's AI adviser",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,35 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-20-researchers-publish-survey-of-explainable-ai.md",
+      "title": "Researchers Publish Survey of Explainable AI",
+      "excerpt": "A team of researchers from IBM Watson and Arizona State University have published a survey of work in Explainable AI Planning (XAIP). The survey covers the work of 67 papers and charts recent trends in the field. The team, led by Prof. Subbarao Kambhampati of ASU's Yochan Lab, focused their review on the area of automated planning systems ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoq.com/news/2020/03/explainable-ai-survey/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T19:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-the-impactful-role-of-ai-in-mobile-app-development.md",
       "title": "The Impactful Role of AI in Mobile App Development",
       "excerpt": "driverless, earth-moving vehicles. The perks aren’t just limited to this, it enables clients to see machine data and observe framework on their iOS and Android mobile phones or tablets. The growth curve of AI in mobile app development According to Statista, by the year 2025, the growth of the Artificial Intelligence (AI) software market ...",
@@ -961,43 +990,6 @@
           "width": 645,
           "height": 315,
           "title": "Synergy Emergence in Deep Reinforcement Motor Learning (image)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
-      "title": "Synergy emergence in deep reinforcement motor learning",
-      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
-          "width": 645,
-          "height": 315,
-          "title": "Synergy emergence in deep reinforcement motor learning",
           "attribution": null
         }
       ],

@@ -2,6 +2,35 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-25-yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics.md",
+      "title": "Yokogawa Acquires Danish Startup Grazper Technologies, Specialists in AI for Image Analytics",
+      "excerpt": "Grazper has developed advanced artificial intelligence (AI) technologies for analysing images, and Yokogawa aims to leverage these technologies within its various existing businesses and to develop new industrial AI solutions. Why 100% Accurate Technical Translation Is a ... circuit design in the hardware language About Yokogawa Founded in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.manufacturingtomorrow.com/news/2020/03/25/yokogawa-acquires-danish-startup-grazper-technologies-specialists-in-ai-for-image-analytics/15024/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Manufacturing",
+        "domain": "manufacturingtomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-personal-voice-assistants-struggle-with-black-voices-new-study-shows.md",
       "title": "Personal voice assistants struggle with black voices, new study shows",
       "excerpt": "Microsoft had the smallest disparity; Apple had the biggest.",
@@ -1187,51 +1216,6 @@
           "width": 1200,
           "height": 675,
           "title": "Google: Try out this AI Transcribe feature now rolling out to Google Translate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-europe-speech-recognition-market-size-share-growth-challenges-on-present-state-future-growth-revenue-period-2020-2025.md",
-      "title": "Europe Speech Recognition Market Size, Share, Growth, Challenges On Present State & Future Growth Revenue Period 2020-2025",
-      "excerpt": "A recent report on Europe Speech Recognition Market provides a detailed analysis on the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally, the report highlights primary obstacles and latest growth trends accepted by key players that form a part of the competitive spectrum of this business.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/europe-speech-recognition-market-size-share-growth-challenges-on-present-state-future-growth-revenue-period-2020-2025-2020-03-17",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Europe Speech Recognition Market Size, Share, Growth, Challenges On Present State & Future Growth Revenue Period 2020-2025",
           "attribution": null
         }
       ],

@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-13-seymourpowell-designs-quarter-car-private-ride-sharing-concept.md",
+      "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
+      "excerpt": "Focused on offering passengers more privacy in ride-sharing services, Seymourpowell's driverless Quarter Car concept has four seats that can ... Features including digital transparent glazing displays, artificial intelligence and gestural interaction functions are designed to offer better user experience. Depending on the service provider ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/",
+      "ampWebUrl": "https://www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
+      "cdnAmpWebUrl": "https://www-dezeen-com.cdn.ampproject.org/c/s/www.dezeen.com/2020/03/13/seymourpowell-quarter-car-concept/amp/",
+      "publishedDateTime": "2020-03-13T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dezeen",
+        "domain": "dezeen.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.dezeen.com/uploads/2020/03/seymourpowell-quarter-car-concept-design_dezeen_2364_sq-1.gif",
+          "width": 852,
+          "height": 852,
+          "title": "Seymourpowell designs Quarter Car private ride-sharing concept",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
       "title": "Artificial Intelligence in Medical Imaging",
       "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
@@ -1095,51 +1132,6 @@
           "width": 1200,
           "height": 675,
           "title": "3 Top Artificial Intelligence Stocks to Watch in March",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
-      "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-      "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "publishedDateTime": "2020-03-02T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Hongqi-L4-Car.jpeg?fit=1680%2C987&strip=all",
-          "width": 1680,
-          "height": 987,
-          "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
           "attribution": null
         }
       ],

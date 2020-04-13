@@ -25,18 +25,14 @@ images:
 
 related:
   - title: "Artificial Intelligence Market in The Telecommunication Industry Segmented by Component and Geographic Landscape, 2019-2023 | Technavio"
-    excerpt: "LONDON--(BUSINESS WIRE)--Artificial intelligence market in the telecommunication industry research report provides detailed analysis on emerging market trends, regional outlook, competitive landscape, and a comprehensive analysis on different market segments. The artificial intelligence market in the telecommunication industry is poised to grow ..."
-    publishedDateTime: 2020-04-08T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200408005362/en/Artificial-Intelligence-Market-Telecommunication-Industry Segmented-Component-Geographic"
+    excerpt: "Artificial intelligence market in the telecommunication industry research report provides detailed analysis on emerging market trends, regional outlook, competitive landscape, and a comprehensive analysis on different market segments. The artificial ..."
+    publishedDateTime: 2020-04-08T18:27:00Z
+    webUrl: "https://www.aberdeennews.com/ap/business/artificial-intelligence-market-in-the-telecommunication-industry-segmented-by-component-and-geographic-landscape-2019-2023/article_3574ba5e-0c04-5fac-8fbe-a9432de20bea.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 5
-    images:
-      - url: "https://mms.businesswire.com/media/20200408005362/en/783904/23/IRTNTR30675.jpg"
-        width: 1200
-        height: 627
+      name: Aberdeen American News
+      domain: aberdeennews.com
+    quality: 0
 
 secured: "fl04grncQZx1lFKo0itY73ZJdehrlxJaOhxm+7ufeyLL3hKnx+D024UyAC5Qnz/4mbh8wd4qCmxFwS0/y82GD2mX+Vo8afU2IkJoCD3MU/eaRsWgOY1OTP74bip0tNX1ZDrlQpRlBZFrcwAGXTQztSqZrE2N26YsYjNuihm7x4VLLGogtR+jxdCTHvq4iIAesrTnRcokO86CLC1gO2cgQbp95/v8CXo5x+5vOoijCVFMDLl124uwVRpzlQ/x3R/S4/HISiA7z4cxC2aWWJl6L5t+HEzhN6SkbCvn5Cs3gvoGaKnrRNsLtqm/9EXAv8Ng;7PpA0at6mnutsk0h07CsRw=="
 ---

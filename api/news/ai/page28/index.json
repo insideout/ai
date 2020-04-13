@@ -2,6 +2,43 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-14-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
+      "title": "Artificial intelligence isn’t as smart as it thinks",
+      "excerpt": "artificial intelligence appears to be taking over the world. But look past the self-driving cars and facial-recognition cameras, and you'll see that the technology is a lot less intelligent than it may at first appear. It's likely to be decades, at best, before even the smartest forms of AI can outdo humans in the complex tasks that make up ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
+      "publishedDateTime": "2020-03-13T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2020/03/AIwebcrop-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": "Artificial intelligence isn’t as smart as it thinks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
       "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
       "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
@@ -1169,43 +1206,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-ing-invests-in-natural-language-proccesor-eigen-technologies.md",
-      "title": "ING invests in natural language proccesor Eigen Technologies",
-      "excerpt": "ING has contributed EUR4.5 million to a $42 million funding round in natural language processing vendor Eigen Technologies. The investment, made through the bank’s venture capital arm ING Ventures, is part of Eigen’s Series B round announced in November 2019, which also included financing from Goldman Sachs. Eigen’s NLP technology is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/newsarticle/35454/ing-invests-in-natural-language-proccesor-eigen-technologies",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/ing.jpeg",
-          "width": 480,
-          "height": 270,
-          "title": "ING invests in natural language proccesor Eigen Technologies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

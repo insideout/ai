@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Artificial Intelligence Market in The Telecommunication Industry Segmented by Component and Geographic Landscape, 2019-2023 | Technavio"
-excerpt: "LONDON--(BUSINESS WIRE)--Artificial intelligence market in the telecommunication industry research report provides detailed analysis on emerging market trends, regional outlook, competitive landscape, and a comprehensive analysis on different market segments. The artificial intelligence market in the telecommunication industry is poised to grow ..."
-publishedDateTime: 2020-04-08T17:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200408005362/en/Artificial-Intelligence-Market-Telecommunication-Industry Segmented-Component-Geographic"
+excerpt: "Artificial intelligence market in the telecommunication industry research report provides detailed analysis on emerging market trends, regional outlook, competitive landscape, and a comprehensive analysis on different market segments. The artificial ..."
+publishedDateTime: 2020-04-08T18:27:00Z
+webUrl: "https://www.aberdeennews.com/ap/business/artificial-intelligence-market-in-the-telecommunication-industry-segmented-by-component-and-geographic-landscape-2019-2023/article_3574ba5e-0c04-5fac-8fbe-a9432de20bea.html"
 type: article
-quality: 5
-heat: 5
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Aberdeen American News
+  domain: aberdeennews.com
 
 topics:
   - AI
-
-images:
-  - url: "https://mms.businesswire.com/media/20200408005362/en/783904/23/IRTNTR30675.jpg"
-    width: 1200
-    height: 627
-    title: "Artificial Intelligence Market in The Telecommunication Industry Segmented by Component and Geographic Landscape, 2019-2023 | Technavio"
 
 related:
   - title: "Global Voice Assistant Market Research Report, 2020-2030 - Increasing Demand in Contact Centers, Adoption Opportunities of Cloud Technology"
@@ -37,6 +31,6 @@ related:
         width: 800
         height: 419
 
-secured: "VJKAM24pt3wpfx+zGUBUc6s9vNsNTR//37bmsewpE00OULWg6P8dAvRoSbBMszchB8YlW+a9yp5QQvoQRAUD12BxfMIc8bnmVI7eucGY/RSkU7nu7pbZcGTpV3XRIdlUrRyA4JYZryXgYMYDNBVfBjoAe19sQbuL/sK+fxhnprjalFIpYigRRcflY0vLdwucpXrSXQcmmd4S+VLCKHaXQR5oUbsyO38s2cLWwRn65UEW6m29K85QOfMt/7Uw+oWHl/WpKybGSozHm0fnlQws9mT5zmz0KjU/jaGLqytNQr0FGWqVAscsQesQHPGsL32wO84/x/nX9RqYaVP4tfvPiEw/fx0jgAMeSlJ9Oz6hNzqZA0zWScgA8AwB3dnFu5poMRyoSCuH0MEriIpz8NsibRuD4aQ6dfJafUTp0morDDMOUOkT2ujdca+GdIGEdNrVM3Asu1RH0MIc0+XeBAU1nclXA79ee8KtT3Ui6wLS3nQ=;z+T/DClW8SFLvT/0jVGHSg=="
+secured: "XtW1FisH4OjmEhVAJcFEGQCVzz09WSsSexEDyAp/Qkc05YTXOVzOXtWYilOBACQgmiEGoUYg0Kp9XuMmkt7yj+7xwqHZhdCfNHmlGPzvECHZbyBXeoIT7QJCr9WMC5mszRCIHMcAXqOk89bYuo6AHKiIrLQBhoxdeNiK5TfVWCDN66XGTR8qtYn9wbMVc4ZL/F/7g9bwOi9fRDGy6TMSG3y+O/dqTH/X6BGLOZuw1PjDI5o9zy26FswcGUgXyik5Ja9TKFD83CgnlsjXQrEYH4F709wJ2NhcxvGEWo6inJXFMreBV5g2zpp9ofeZ7QpD;92sjCXMCpzBBnWKjrU7DGA=="
 ---
 

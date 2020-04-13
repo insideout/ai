@@ -37,19 +37,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2016/03/BlackRock.jpg"
         width: 880
         height: 400
-  - title: "BlackRock to port Aladin to Microsoft Azure"
-    excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
-    publishedDateTime: 2020-04-08T10:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82092/blackrock-to-port-aladin-to-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
 
 secured: "cs1wUhdiLlyGRoTM15Mslhz+zQtkSKG8GXrAzCL1mHxiGjNGNoNUZvHW9ci1k/cBKdCaDq9+VYsPJSd4e5mRjP7lbWHjIGTIyMt4I1BpeObuf1i4ViPOUuzT2Im3AFFzp49IBuv6BOC2BOrVEqJeaCW/T6zzGc3ADFkg68Wdj9E9drNDpegN6x+dDJaUqRRcnCjZJMc36YsKG6ecGX/LTybhQyw5AOkgNlhQx9havVaWgZCH20mCAKqoKpsa/fAU38xB2h3v62NXQjgwbc3aCMy5kVFP0ZilXrxD+PHjPFNlARj2FzPdoWaQeS5Mpvo38Y1XK42YW03U+91fnDcrCtU7f9UbFSFxK6Y2z24cPQi35Ev8LzjbBklh1Jb087BKH0SAlAJJl6ZqiJ9JN5/CrvAxTJxhALbydFNRHjjjWO2KxR5AoKc/+YxU6LQH64xD9UJaDU36f8zV9MDhxPgMWYeWDpZGFDD5tvpusyMeJDc=;4/y7Jq0BxmmLmVEyu/A7ow=="
 ---
