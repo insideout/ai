@@ -23,6 +23,6 @@ images:
     height: 512
     title: "Startup uses spatial intelligence tech to build 'mirror worlds'"
 
-secured: "f37LfLNslGsxdKZxdfvNr4HvMlM9hiseJJqHgMZJhmdKKT4H/KgInezOzdVDswuu9E0foSN0rKut+ysWSieWZlkob0XCGh0KaEShUECzjBqN0clsAjexNBlL083pqhL2Os31F1ZtEEjAFnflgPiWCI7jK2zYTJRHjzNtLwUhSAGQXvrs0heuj10uEgaUEDPFhXVGWDqncCDorJDI6rQ7y9CZHuZXwVfqSCkHK+uEg7+benDSz7gdI4JfFIB/8qPkNDncrxHGsxbM88A1YYV24uARbtpnFjzi6WYmW8yuddYHRSVouvUq7YGzJD0fD1ym;OiPYR2E45KaP3GIA+eP2ow=="
+secured: "lejoq+A00pM/228xa6e0xoXVPZYgMCjOSMzQ0mkq6Zo3V0LoudyN3DCkoBPtLjBbgI/7XdRFR5AT7ml/7SBpm0WCG1zYxhzN+RaY8LxL/Ndsxh6jM+CQE3z+Ve334d/8GhkU1YawqqYiVlaAx7nNbetz16Fx++Vr71vds1WglMPifo1h/PAqhKMP9+o86fI+jEfYFqFPLyYiP8ZVbRoek8fvibtCfkCxOQBJc7d26kSaYhF+YuIXv2Ghj2nTr8R1xLSWwX3s9u2ZlhkynWKMA/k3Y++dCCuF6ilAMkAolKtBrbEjQPEESb6tHyhc0BxYORVUADSZ2nYB1mQLNA5ImXDAXK+1Di3p6CqghlQYQOrMhv42RBy9arCgwAXTYMYH28rhTcsyikpTIDDAQ2eIToCw6hGU/7wvRZlBkB1mdkxtGig7s0GxbXJc7H9OTKNxLqzE/6ZQ1mzJq/Sx9rL4sZU+alcbDvKyk163p3KflPQ=;t+3sr+qMr/umVf4J0zfpYQ=="
 ---
 

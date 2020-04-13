@@ -8,7 +8,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20200408/New-study-to-accelera
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200408/New-study-to-accelerate-early-detection-of-COVID-19-in-healthcare-professionals.aspx"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,21 +24,6 @@ images:
     width: 620
     height: 480
     title: "New study to accelerate early detection of COVID-19 in healthcare professionals"
-
-related:
-  - title: "VOS Digital Media Group and EVNTL Artificial Intelligence Collaborate on Leading B2B / B2C AI-Powered Media Technology to Accelerate Revenue"
-    excerpt: "a leading-edge artificial intelligence technology company, today announced that they have entered into agreement to integrate a significant new version of AI-based technology to provide real-time breaking news events and critical information in news, sports, finance, music, wellness and healthcare. Under the direction of VOS CTO Julio Hernandez ..."
-    publishedDateTime: 2020-04-08T14:19:00Z
-    webUrl: "https://www.pr.com/press-release/809821"
-    type: article
-    provider:
-      name: PR
-      domain: pr.com
-    quality: 19
-    images:
-      - url: "https://img.pr.com/release/2004/439939/pressrelease_original_439939_1586348750.jpg"
-        width: 901
-        height: 337
 
 secured: "SkjoKEfq6OO0CIj+xs89bGxyfrnZJ3p2khO/qYUOTmDDzUBQUBl70Oq4B0jEPMzxJzxtHkEokwXU3xDvGcPhUqa6xPIXgXJ0SNDCJRZlZ6+QLJuqls0MkB4MvMBD34yJTnmPq4v3RPQCOA6tcHm9NrJYy0ES13QeKM/fJijTUryyqmqqSutSPXiSucKvTDxTVd89MYDpH01ub6UqQDE6sKjTdiN0cLnrWAt14Y90KEDng1FWFOBIaTWb+7woVeF0MrnVvRanI/OrB1uSGtuSb7xnqFmFE0Okzx3f+wC4zqgU346XTJkkfp8taCUgYAu1;ElIVoP5QopsN+JRz06gA3w=="
 ---
