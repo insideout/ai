@@ -50,21 +50,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-  - title: "Bentley Systems, Microsoft and Schneider Electric re-imagine future workplaces with sensors, sustainability, IOT and AI"
-    excerpt: "The platform generates nearly 2,100 data points, that are connected to the cloud on Microsoft Azure, enabling the holistic management of the environment. The sensors enable monitoring of facilities usage, energy and utilities. They optimize space utilization, air conditioning and lighting adjustments. All these provide a comfortable and ..."
-    publishedDateTime: 2020-04-08T07:20:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Bentley_Systems_Microsoft_and_Schneider_Electric_reimagine_future_workplaces_with_sensors_sustainability_IOT_and_AI-ZAWYA20200408070523/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200408070523/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200408070523/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
 
 secured: "cs1wUhdiLlyGRoTM15Mslhz+zQtkSKG8GXrAzCL1mHxiGjNGNoNUZvHW9ci1k/cBKdCaDq9+VYsPJSd4e5mRjP7lbWHjIGTIyMt4I1BpeObuf1i4ViPOUuzT2Im3AFFzp49IBuv6BOC2BOrVEqJeaCW/T6zzGc3ADFkg68Wdj9E9drNDpegN6x+dDJaUqRRcnCjZJMc36YsKG6ecGX/LTybhQyw5AOkgNlhQx9havVaWgZCH20mCAKqoKpsa/fAU38xB2h3v62NXQjgwbc3aCMy5kVFP0ZilXrxD+PHjPFNlARj2FzPdoWaQeS5Mpvo38Y1XK42YW03U+91fnDcrCtU7f9UbFSFxK6Y2z24cPQi35Ev8LzjbBklh1Jb087BKH0SAlAJJl6ZqiJ9JN5/CrvAxTJxhALbydFNRHjjjWO2KxR5AoKc/+YxU6LQH64xD9UJaDU36f8zV9MDhxPgMWYeWDpZGFDD5tvpusyMeJDc=;4/y7Jq0BxmmLmVEyu/A7ow=="
 ---

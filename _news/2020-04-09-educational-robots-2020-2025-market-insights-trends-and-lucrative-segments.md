@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Educational Robots: 2020-2025 Market Insights, Trends and Lucrative Segments"
-excerpt: "The educational robot market is expected to register a CAGR of 16% over the forecast period (2020-2025). The use of robots is rapidly becoming more common across workplaces, homes"
+excerpt: "The \"Educational Robot Market - Growth, Trends, and Forecast (2020-2025)\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2020-04-09T19:45:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/n15778970/educational-robots-2020-2025-market-insights-trends-and-lucrative-segments"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15778970"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15778970"
+webUrl: "https://www.prnewswire.com/news-releases/educational-robots-2020-2025-market-insights-trends-and-lucrative-segments-301038232.html"
 type: article
 quality: 36
 heat: 36
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "FxKceZCqUtk9aZcO6/pr5m3Kfl98qEzSwoYDUGVcIB21AqQFZgyDQu6fKYXEbuRCf7cpuc19sQ46xEnG1acMVUdMPYE3xTRBSsbEXzLmvGwK7VRpF0O9fIUw3ZGgWyP284aU22ay2/2NW/xJb4C0OCEtt+jGHP8wa5N2E5HOsUq9/8fPW4ujsZtM4lTJHV/3ESUxZgwqcnyw2hyAQx+U7NPt20+13t9kbL172IjG/eIlL+M9wLZALUyg+zcvT2ouV7rzhCiVjLV0uOFtGU61Q6ak/fG8f3k4QM5TLB1/TPvO0ji6AJu2rtDngikXEpPn;nwK4m+Pqs0P3jJU99JoWaw=="
+images:
+  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
+    title: "Educational Robots: 2020-2025 Market Insights, Trends and Lucrative Segments"
+
+secured: "p76p+uRgBGzIli1YxEVPIGebbsTHN5X1YMBt4j4VtOBC02I2UkNd2BN4k0BkGHuMn1HsIFNGS8Vzixd7wsyAmGZRr+shg9xSAdbBIuJnryGtHfaWQs9rxFbuAr2ecG3Xluc5p/k9HvOnycWO3DBQcnQ1jtXTI4ltkZHWj4RskM+pXsrtfGj5yKYP7pBiO+9G29hwFwT29q31Akds/74Q9b73f3080lfTmFaNAeYsJ1NcyD/XhA3E5OjzqWRFk1u1EXiOsnl7wKqLXjjT5kT7OHWvcxeTiYajdkdijtqrqH9ci/pACy2R9z2FlZEdp++d;otgZ2w/6gUlDf2lCzaTfdw=="
 ---
 

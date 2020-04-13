@@ -37,21 +37,6 @@ related:
       - url: "https://www.financemagnates.com/wp-content/uploads/2016/03/BlackRock.jpg"
         width: 880
         height: 400
-  - title: "Bentley Systems, Microsoft and Schneider Electric re-imagine future workplaces with sensors, sustainability, IOT and AI"
-    excerpt: "The platform generates nearly 2,100 data points, that are connected to the cloud on Microsoft Azure, enabling the holistic management of the environment. The sensors enable monitoring of facilities usage, energy and utilities. They optimize space utilization, air conditioning and lighting adjustments. All these provide a comfortable and ..."
-    publishedDateTime: 2020-04-08T07:20:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Bentley_Systems_Microsoft_and_Schneider_Electric_reimagine_future_workplaces_with_sensors_sustainability_IOT_and_AI-ZAWYA20200408070523/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200408070523/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200408070523/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
   - title: "BlackRock to host Aladdin platform on Microsoft cloud"
     excerpt: "BlackRock will also adopt Microsoft Azure’s network of data centres globally to meet the localised needs of the Aladdin platform’s clients. They are both also planning a new initiative aimed at expanding sustainability data and analytics using the latest technologies such as big data, machine learning and artificial intelligence."
     publishedDateTime: 2020-04-08T12:15:00Z
