@@ -8,7 +8,7 @@ ampWebUrl: "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fi
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP"
 type: article
 quality: 74
-heat: 76
+heat: 77
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     title: "Robots Emerge as Useful Tools in Fight Against Coronavirus"
 
-secured: "PP/+Mco+s4sJO8sIxZiKhwPdx730fNF1+oaZguISqfORKZtAj3ZAC+qROfqqeMH2KvVsJAHJt5T1kIJ7c2ySrNluAGhrHoyA6Xt2NITWPE7qwOhKnSkd5XAt4SKbv8e2RgYmr3H703g4jv4LthYY0+ur9HB9z3ge/7HSDnoUTNhN5QvGyNoh3T0dtD4koAwumViJjjul9WOWevbTgbMvDdWGfHjeGNoZ+8S84e40AVsOj1cZ9xwanB8NQemb4VAIYYmltfnUHUtircP1CC0xCl4kS7aJkGVgbF7mmOc8iQg2QUVbhf8euIwx+EsTAcTkQtvZAngW65ve7jFUUd1/2PSr6932mX/EXDMcuXGtpL9q/dwW0lXe38CaP8WJfNRk838dV4jf/hOGtaSzxjKhjK7h698cI2v1UeIS17MaRIqB4ymPQRByd8J37THVA8XuRFzl+ic/ADkPzqZst1NbiUAd/wEEmyepXERlZ45DK1M=;n+SATZtZynbHlvFDTmvnQg=="
+secured: "/SFQ3hjMrINEmtTsz3avunkWqwg9kN/aMxaBWYQS26nzmNOpUFXqj/ygZZafv7aq+sJbK9TLObRIH1yfELT8wzFSlQMWcVS2yIvgtcNU0f7I7wAvFvNCn6shRDKzU0KDvdSeXBwlcFfEcC3pAcUVbgYZdNWEbxETA+QifEx+fY0xy7mhSeJ5dzR239ut2M1FYOFqkPXTpOMNfqGDZNoApqrThN2aaOKX0ljl3QZ8KCRnT9oj6gqXwxG4xqnr7ExBcSgLcDH3xeS5NJkEEQGuBOMq2yXm3SUUn46pwPRoX2UfNlt0LhigQheqplwboiO1npNInJqjgypwhYHP1iD4TKb/9Xvswc/cBVGRwcmJx5XKNJ/HvuyXgHCO0nF4DPZbQ2pG1khWcfNJoXQZj1joFT0CKnOcdhkfGBPKlWdit+g1BFn7BJGaBnCEXJa0RiygXUGg439Ffoqu8uSQuknuVCw6vUmQgb1FtnQAPvFYr7U=;jhDRJ88wXgdCVBxOZ6SXtA=="
 ---
 

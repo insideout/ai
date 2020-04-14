@@ -56,6 +56,19 @@ related:
       - url: "https://www.goerie.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
         width: 6720
         height: 4480
+  - title: "UPMC and Pitt are leading a global effort to fast-track coronavirus therapies. “This is an unprecedented pandemic and we"
+    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” Before COVID-19 was even a threat, Angus was working with ..."
+    publishedDateTime: 2020-04-09T20:23:00Z
+    webUrl: "https://www.nextpittsburgh.com/latest-news/upmc-and-pitt-are-leading-a-global-effort-to-fast-track-coronavirus-therapies-this-is-an-unprecedented-pandemic-and-we-need-an-unprecedented-response/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 0
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/04/09120159/4-09-20_COVID_19_Press_Conference-1-scaled-e1586448157245.jpg"
+        width: 750
+        height: 500
 
 secured: "Rja6n+IofqXCYV6DoYdUfFGEnv+2SRc+PQtlmcAEJxBIWfDq0YLjEjlieVAKHN5yKVKLRGkjHAR4viMEB2SA3RQj12C0Xfvy+bOu5Wv0raq6BF337xNuq32w4n561bJFiNaiiuJcKX8Dn5EE2Tg6bsA8IbupRYpMMMiDpkxx+te07LMAcK/+LgOM7G0an55LJNjwUHlPDEKo0dZW9vQTz9n0bSjnyhwapOWNwWHQl37dusMGRGhI07Vk4GOJJplQLoFR8SIay9lgeSS0butPD1GK2Vtj5a+cKyIFdPLnRhISQq+LNT4L/9e2OyrUQjcqdhprFOFfafwT/exmqldmoizdGSwMAWKT9Qh+RGYRC83XiDdK9KTNgxjUfMKFzMylRkROryY4p7fdx/iIEqtLzD5ac5A4OC0wCptUKbSrgW6MekmfFE3AB2QkVA9/ChbRgJ/0p1thmIZaVg5LsI4cJdGOFVdm9wO8/cOESaDnrQA=;Gj/Kpmeh8Ut38upFrAZLFA=="
 ---

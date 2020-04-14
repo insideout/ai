@@ -531,9 +531,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "ampWebUrl": "https://www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "webUrl": "https://www.techradar.com/nz/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
       "publishedDateTime": "2020-03-31T14:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -565,7 +565,6 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI"
       ]

@@ -2,6 +2,52 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2020-01-22-ai-in-the-court-are-robot-judges-next.md",
+      "title": "AI in the court: Are robot judges next?",
+      "excerpt": "Los Angeles is now working on a Jury Chat Bot project that will leverage true AI, Snorri Ogata, CIO of the LA Superior Court, told ZDNet. It's being built on top of the Microsoft Cognitive Services platform, leveraging features like natural language understanding, QnA maker (to build \"FAQ on steroids,\" as Ogata put it) and translation services.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-in-the-court-are-robot-judges-next/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-in-the-court-are-robot-judges-next/",
+      "publishedDateTime": "2020-01-22T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/1200x675/75aab1fe59aac1c4c387f2acdc3a60c4/20200120-steph-karen-judges.png",
+          "width": 1200,
+          "height": 675,
+          "title": "AI in the court: Are robot judges next?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-how-machine-learning-is-helping-credit-karma-reintroduce-itself-to-users.md",
       "title": "How machine learning is helping Credit Karma reintroduce itself to users",
       "excerpt": "But it's only recently that the company is turning to machine learning to make sense of hundreds of billions of data points and deliver personalized insights and recommendations to individual members at scale. When it launched in 2008 at the height of the financial crisis, Credit Karma's primary service leveraged credit report data to help ...",
@@ -1028,43 +1074,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics.md",
-      "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
-      "excerpt": "With technologies such as artificial intelligence, computer vision, machine learning, advanced sensing, novel gripping, and robotics, the company said it can handle “the broadest assortment of products, packaging, and parcels – and all while continuously improving speed and performance through autonomous learning.” The company said its ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/berkshire-grey-raises-263m-to-fuel-global-expansion-of-logistics-robotics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/berkshire-grey-boston-hat-funding-1024x636.jpg",
-          "width": 1024,
-          "height": 636,
-          "title": "Berkshire Grey raises $263M to fuel global expansion of logistics robotics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

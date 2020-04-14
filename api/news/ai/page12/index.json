@@ -2,6 +2,51 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-30-amazon-proposes-technique-for-improving-computer-vision-models-without-reprocessing.md",
+      "title": "Amazon proposes technique for improving computer vision models without reprocessing",
+      "excerpt": "They say it enables old models to bypass computing features for all previously seen images every time new ones are added, which could save enterprises developing computer vision-enabled ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/amazon-proposes-technique-for-improving-image-classifiers-without-reprocessing/amp/",
+      "publishedDateTime": "2020-03-30T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon proposes technique for improving computer vision models without reprocessing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsofts-ai-powered-editor-can-generate-rewrite-suggestions.md",
       "title": "Microsoft’s AI-powered Editor can generate rewrite suggestions",
       "excerpt": "Microsoft’s writing assistant for Microsoft 365 users is coming to Chrome and Edge browser extensions as well as Outlook.com and is getting new AI-powered features like Rewrite Suggestions, which lets you highlight a sentence then right-click for AI-generated revision ideas. AI editor can also now review text for more gender-related ...",
@@ -1257,35 +1302,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
-      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
-      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "publishedDateTime": "2020-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS SF BayArea",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

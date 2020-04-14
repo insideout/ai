@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-07-at-cagr-of-38-machine-learning-as-a-service-mlaas-market-share-detailed-analysis-market-growth-size-trends-and-forecast-to-2023.md",
+      "title": "At CAGR of 38%, Machine Learning-as-a-Service (MLaaS) Market Share, Detailed Analysis, Market Growth, Size, Trends and Forecast to 2023",
+      "excerpt": "Global “Machine Learning-as-a-Service (MLaaS) Market”is analyzed byproduct types, applicationsand key market players formarket size, share, sales (consumption), gross margin and revenue. The Machine Learning-as-a-Service (MLaaS) Market data from the year 2015 to 2017 is primary basis of this research and the forecast period being 2019-2023.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/at-cagr-of-38-machine-learning-as-a-service-mlaas-market-share-detailed-analysis-market-growth-size-trends-and-forecast-to-2023-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "At CAGR of 38%, Machine Learning-as-a-Service (MLaaS) Market Share, Detailed Analysis, Market Growth, Size, Trends and Forecast to 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update.md",
       "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
       "excerpt": "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ...",
@@ -1032,43 +1077,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
-      "title": "AI & Blockchain: Transforming the banking sector",
-      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
-      "publishedDateTime": "2020-04-06T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
-          "width": 378,
-          "height": 213,
-          "title": "AI & Blockchain: Transforming the banking sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

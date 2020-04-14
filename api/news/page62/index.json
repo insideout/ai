@@ -2,6 +2,51 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-02-14-natural-language-processing-market-key-and-forecast-predictions-presented-until-2029.md",
+      "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
+      "excerpt": "The increasing use of Natural Language Processing in healthcare and call centers, rising demand for advanced text analytics are some major factor drives the target market growth. Additionally, growing uses of smart device,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-key-and-forecast-predictions-presented-until-2029-2020-02-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-13T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing Market: Key and Forecast Predictions Presented Until 2029",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-from-process-automation-to-autonomous-process.md",
       "title": "From Process Automation To Autonomous Process",
       "excerpt": "The big idea of AI and cognitive technologies is to address and tackle problems that require human cognitive capabilities. Organizations looking to pursue the path need to have the desired end state in mind: full autonomous business process.",
@@ -1010,51 +1055,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
-      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
-      "publishedDateTime": "2020-02-13T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
-          "width": 600,
-          "height": 315,
-          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

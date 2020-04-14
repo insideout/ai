@@ -2,6 +2,43 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-06-new-blood-sampling-robot-performs-as-well-or-better-than-people.md",
+      "title": "New blood-sampling robot performs as well or better than people",
+      "excerpt": "Next steps include refining the device to improve success rates in patients with difficult veins to access. Data from this study will be used to enhance artificial intelligence in the robot to improve its performance.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200206/New-blood-sampling-robot-performs-as-well-or-better-than-people.aspx",
+      "publishedDateTime": "2020-02-06T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New blood-sampling robot performs as well or better than people",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-nuro-claims-a-self-driving-first-us-approval-to-deploy-toaster-styled-delivery-bots.md",
       "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
       "excerpt": "The tech startup created by two former Google engineers will deploy battery-powered R2 driverless delivery vehicles on public streets–little vans without steering wheels, pedals or side-mirrors",
@@ -1187,50 +1224,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-clearview-ai-is-looking-to-expand-globally-report-says.md",
-      "title": "Clearview AI is looking to expand globally, report says",
-      "excerpt": "The facial recognition company reportedly wants to sell its app to law enforcement in 22 more countries. Clearview AI, a controversial facial recognition app being used by US law enforcement to identify suspects and other people, is reportedly eyeing global expansion. It wants to sell its services to law enforcement in 22 more countries ...",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/clearview-ai-reportedly-looking-to-expand-globally/",
-      "publishedDateTime": "2020-02-05T18:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/g3NdohYSdrzYH4i2iNFOSc9gHbQ=/756x567/2020/02/06/8599565c-e194-4d37-9ab7-56f3f399d317/facial-recognition.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Clearview AI is looking to expand globally, report says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

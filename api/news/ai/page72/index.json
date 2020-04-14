@@ -2,6 +2,51 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-01-23-five-ways-companies-can-adopt-ethical-ai.md",
+      "title": "Five Ways Companies Can Adopt Ethical AI",
+      "excerpt": "By Kay Firth-Butterfield, Head of Artificial Intelligence and Machine Learning, World Economic Forum In 2014, Stephen Hawking said that AI would be humankind’s best or last invention. Six years later,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/01/23/five-ways-companies-can-adopt-ethical-ai/amp/",
+      "publishedDateTime": "2020-01-23T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e295968a854780006af471e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Five Ways Companies Can Adopt Ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-23-pichai-hails-ai-potential-in-healthcare.md",
       "title": "Pichai hails AI potential in healthcare",
       "excerpt": "We know we can use artificial intelligence to make it better”, he stated ... In June 2018 Pichai highlighted the company’s aim to focus on areas beneficial to society, including healthcare, energy and transportation, and advised the tech giant will ...",
@@ -1236,51 +1281,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
-      "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
-      "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/five-methods-for-marketing-your-bespoke-cloud-service-to-developers/amp/",
-      "publishedDateTime": "2020-01-22T06:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x515/https://specials-images.forbesimg.com/dam/imageserve/645973085/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 515,
-          "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

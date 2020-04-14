@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15777811"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15777811"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Labelbox Awarded Artificial Intelligence Grant by Department of Defense"
-    excerpt: "SAN FRANCISCO, April 09, 2020 (GLOBE NEWSWIRE) -- Labelbox, the world’s leading training data platform, is among an elite selection of artificial intelligence companies to receive a grant from the Department of Defense to support national security as the U.S. scrambles to stay ahead of its rivals. While some in Silicon Valley balk at working ..."
-    publishedDateTime: 2020-04-09T11:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/labelbox-awarded-artificial-intelligence-grant-by-department-of-defense-1029079272"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "MSXsC78lEQAmJ1XBYLe3rMvK6PxwMdt3/XEiucpcjp/V0Vh10w8OvgAYD2Cws8ovnusR02E7+rE/kLRD8ehKZczgbFpTwlb2vpo+2VRUunr3lg2gfEZeg4l3geYAJ99uYPAAj3ct2L1YbkUNuAKN3v/R7RTYhzv32WA5ASe36gNWuXPdvP1FCTxDnJIK4dPwRlkrfdprr4WdLLNPYdxTZYAdOaV3SdksML5ZIGFTyyPLDsNPetwmASniXd2pznVo/6L3yLdr97pPlo57D3Ly43ZlF5jpTod1KqpfLERw0+97nqEbObfHfN7ZvZcXhZs5;16Eyug6jxO7b6Rsewhqg0w=="
 ---

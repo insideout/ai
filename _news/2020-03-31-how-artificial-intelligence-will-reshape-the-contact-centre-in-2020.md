@@ -1,9 +1,9 @@
 ---
 category: news
 title: "How artificial intelligence will reshape the contact centre in 2020"
-excerpt: "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI ... it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important."
-publishedDateTime: 2020-03-31T04:59:00Z
-webUrl: "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html"
+excerpt: "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is ..."
+publishedDateTime: 2020-03-31T05:10:00Z
+webUrl: "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html"
 type: article
 
 provider:
@@ -15,11 +15,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg"
-    width: 375
-    height: 450
+  - url: "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg"
+    width: 350
+    height: 420
     title: "How artificial intelligence will reshape the contact centre in 2020"
 
-secured: "U5L8OaFE6YA3M7KYj9PgPxz56dwKBMfeWJiY3ZVfg9Ssm17Q9x32mhq6OEj5zPb/w97wp+KA1WqZP06Iiv1qJTelXlCGb58sLwaf2Xxd3M2udi2m4QmZg90MTwV/kz/WfndhRN3a+dO5tt01RQNyukiGIUFj1eIX4T/gV6WpyJxEtKx+0lzy0CuElnUaGKuet96Tx94R8HwyihQ0utoDOHc6xAQUqtTplh7mMpBuH2HaBQCmBXRrnfnyi6Af/+Abp/O1M9Dy/8HdhJriX8uH+3JbXAvC34CMMzL3wBAgU/e2u7/xbfHKV4DMNDZOQj4w;DrmgSfJLljQPsx9FKaLncA=="
+secured: "8G/KOKP2Q7nnzdvqQjshqpsk5yYtzr/dNGOSn5JgsBQ2/OFD3c0UNFsya0LLAST4XFcUDf5aIjSLhzMpVcH3YdHGjym2Q2DqNRqVhamHfTa16bQ/hMwXiLfl5TmJgIgnycp5EJjfk8Tg3rVJNmS1RjmHlstkzw8vW5A24TVI/5U2Q0CnyPta3asY5Zh7IsTy20JPrApL2JGkftqhw97KzBHHdEZB6unCsdvarLjoVBNS9kSZrsQ7ZXw4/lm9ffsXAHBSlsaZSFc3A2BeBOLfm8ixxgcC6vcdUxs0tWN8pzNC+VfFIaYDt2KNSuRt/0KX;7C2nmM1n0CVRox51zY/M7Q=="
 ---
 

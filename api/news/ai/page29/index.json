@@ -2,6 +2,51 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
+      "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
+      "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
+      "publishedDateTime": "2020-03-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104338168-mobileye3.jpg?v=1529474476",
+          "width": 849,
+          "height": 478,
+          "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-14-when-and-how-your-baby-learns-about-object-permanence.md",
       "title": "When and How Your Baby Learns About Object Permanence",
       "excerpt": "Object permanence is a cognitive skill that develops in babies shortly after object recognition, which is when infants can recognize familiar objects like a favorite book, stuffed animal or toy. Babies learn object recognition when they're around 3 months ...",
@@ -1161,44 +1206,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-13-tensorflowjs-now-has-a-webassembly-backend.md",
-      "title": "TensorFlow.js now has a WebAssembly backend",
-      "excerpt": "Faster machine learning in the browser: TensorFlow.js combines ML and JavaScript, and now the open source library works with a brand-new WebAssembly backend! It offers an alternative to the WebGL backend to provide benefits in certain use cases.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/tensorflow-js-webassembly-169654.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/03/TensorFlow-WebAssembly.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "TensorFlow.js now has a WebAssembly backend",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

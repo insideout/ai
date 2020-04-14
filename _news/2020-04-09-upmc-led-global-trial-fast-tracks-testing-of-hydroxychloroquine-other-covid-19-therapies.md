@@ -2,26 +2,22 @@
 category: news
 title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
 excerpt: "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ..."
-publishedDateTime: 2020-04-09T17:40:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php"
+publishedDateTime: 2020-04-09T18:20:00Z
+webUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg"
-    width: 720
-    height: 878
-    title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
 
 related:
   - title: "UPMC announces fast-track clinical trial"
@@ -39,7 +35,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/dailyamerican.com/content/tncms/assets/v3/editorial/f/64/f644ff2a-7a93-11ea-8efd-3b31cca34c53/5e8f706872e75.image.jpg?resize=1024%2C539"
         width: 1024
         height: 539
+  - title: "UPMC seeks to speed up clinical trials on COVID-19 treatments with the help of artificial intelligence"
+    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” He compares the REMAP approach to a chef offering a prix fixe menu ..."
+    publishedDateTime: 2020-04-09T16:22:00Z
+    webUrl: "https://www.fox43.com/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    ampWebUrl: "https://www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
+    type: article
+    provider:
+      name: FOX43
+      domain: fox43.com
+    quality: 43
+    images:
+      - url: "https://media.tegna-media.com/assets/WPMT/images/071249cd-4235-4539-b33d-45b9138af828/071249cd-4235-4539-b33d-45b9138af828_750x422.jpg"
+        width: 750
+        height: 422
 
-secured: "l3TjquamnJnklTTesEM3wekYW6cbn1ARct/vvJxygfWrKfJ0B7DWv6sEwonDx6auo8ttPp82oBecOd4HQEdA06W186Ryq/bsJCeZyLC+JNaKHR6SZJ0RTIKDTDq98RMAzTg6iCE6h9fpyx17pRY2tCE7RRcpRVCxpJ9/3dsPx+7Y2nmXmN1G7ErYQ0SG+om4rO9T2erJS03t8Bt5X2AHH98IpyECcTKo8nSzRqIUG9zhAvtx1bNRn1RtFV+0pbjxQyDnL1NHqlfCEG1tu3lzmwRSS+ZtcFKZjuM9Z77CBQAA5F0qp4AiLwWN1E3EAD52;oeTurn+OIokYDe4E8WnyIQ=="
+secured: "B3QqfpFKIKU8FnABFe/TbwAbteyKh4+MpjMSKjIore/GGjMlxFiPTcVI17QeNYQ+pmnOb4IZ56n4MPL0w0ffLIDCytUdtPakZXRU1WPprXEwEbnbCA9H2wwEkArurpSH3iAP135KPULOVrZkWsm0CYZasp4V3PuMTcWVj+PfLVwYqmT/PTq0GF4OOwtgHwcjmTqT3hdSwQrD50CBKNEBrmlOTN2L3w9ri5SzyyINzmpfm/t3ah2NDckTfILlZF2SRSYZLDLuvFbvrG280xwnHheyAff9RT+oUMM8BRGl9cgNzNZtdUDjyFWGseVQf7PZ2i3x8x6mhLSxQdA7tiz+yqg9xouFBB63N7eXhOYmKUE+5ii5DYyJQNr50sWaNSazenfjSyqPp/i1WyV1HfUrasUbEV06/WYzqz0vTjKG4X8ZB02rw0ZI5g0wWLgiB4wPmWMwLv/I67kyLff165BBqq80P+K/5g4AiEd85J1e7Yg=;rq1tByrHQJCLI2mkzjvPKA=="
 ---
 

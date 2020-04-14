@@ -2,6 +2,43 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
+      "title": "Training robots revolutionize therapy",
+      "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.designworldonline.com/training-robots-revolutionize-therapy/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design World Online",
+        "domain": "designworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.designworldonline.com/wp-content/uploads/EC45_flat_12W_450-837146ce.jpg",
+          "width": 800,
+          "height": 517,
+          "title": "Training robots revolutionize therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-automated-material-handling-equipment-market-insights-potential-business-strategies-mergers-and-acquisitions-revenue-analysis.md",
       "title": "Automated Material Handling Equipment Market Insights, Potential Business Strategies, Mergers and Acquisitions, Revenue Analysis",
       "excerpt": "New York March 10 2020 The scope of the report includes a detailed study of Automated Material Handling Equipment Market with the reasons given for variations in the growth of the industry in certain regions The Automated Material Handling Equipment",
@@ -1074,52 +1111,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-google-launches-tensorflow-for-quantum-computers.md",
-      "title": "Google launches TensorFlow for quantum computers",
-      "excerpt": "Google today launched TensorFlow Quantum (TFQ), an open-source library for prototyping quantum machine learning models. Quantum computers aren’t quite mainstream yet, but when they arrive they’ll need algorithms. TFQ fills that Gap by making it possible for developers to create hybrid AI algorithms that use both classical computing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/09/google-launches-tensorflow-for-quantum-computers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2017%2F11%2Ftensorflow.jpg&signature=01462be7a75153cb5cbca816cd2e6673",
-          "width": 1280,
-          "height": 640,
-          "title": "Google launches TensorFlow for quantum computers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2020-01-09-the-self-driving-enterprise-and-the-road-to-automation.md",
+      "title": "The Self-Driving Enterprise And The Road To Automation",
+      "excerpt": "The autonomous enterprise won’t happen overnight and needs the right tools and plan to achieve success. Just like autonomous vehicles, we need to be knowledgeable about automation and how it can improve our business processes.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/09/the-self-driving-enterprise-and-the-road-to-automation/amp/",
+      "publishedDateTime": "2020-01-09T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x461/https://specials-images.forbesimg.com/dam/imageserve/941265460/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 461,
+          "title": "The Self-Driving Enterprise And The Road To Automation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-09-warner-bros-signs-ai-startup-that-claims-to-predict-film-success.md",
       "title": "Warner Bros. signs AI startup that claims to predict film success",
       "excerpt": "As The Verge reported last year, Cinelytic is just one of a new crop of startups leveraging AI to forecast film performance, but the film world has historically been skeptical about their ability. Andrea Scarso, a film investor and Cinelytic customer, told The Verge that the startup’s software hadn’t ever changed his mind, but “opens up a ...",
@@ -1030,43 +1075,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-07-intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture.md",
-      "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-      "excerpt": "As a \"first-look\" of the processor, the CES 2020 presentation offered a general overview for the chips, which will have optimizations for the CPU, AI accelerators, and the GPU to achieve \"double ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture",
-      "ampWebUrl": "https://appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/01/07/intel-tiger-lake-mobile-processors-will-use-new-xe-gpu-architecture/amp/",
-      "publishedDateTime": "2020-01-07T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/34074-60961-intel-tiger-lake-board-xl.jpg",
-          "width": 870,
-          "height": 485,
-          "title": "Intel 'Tiger Lake' mobile processors will use new Xe GPU architecture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

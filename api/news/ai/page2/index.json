@@ -535,7 +535,7 @@
       "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
       "title": "DARPA snags Intel to lead its machine learning security tech",
       "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
@@ -711,6 +711,50 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-open-source-ai-tool-aims-to-help-identify-coronavirus-infections.md",
+      "title": "Open-source AI tool aims to help identify coronavirus infections",
+      "excerpt": "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
+      "publishedDateTime": "2020-04-09T06:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Open-source AI tool aims to help identify coronavirus infections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1284,50 +1328,6 @@
           "width": 1400,
           "height": 933,
           "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence.md",
-      "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
-      "excerpt": "But today’s college graduates have a new question on their radar: “Will I have to compete with artificial intelligence (AI), too?” In a word, no. I believe fears around AI wiping out jobs are largely overblown, but you can’t fault new grads for worrying. A quick scan of tech news could lead anyone to believe that AI is the Grim Reaper ...",
-      "heat": 102,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/04/09/dont-be-afraid-of-the-new-kid-at-the-job-fair-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-04-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbescommunicationscouncil%2Ffiles%2F2020%2F04%2Fa-43.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Don't Be Afraid Of The New Kid At The Job Fair: Artificial Intelligence",
           "attribution": null
         }
       ],

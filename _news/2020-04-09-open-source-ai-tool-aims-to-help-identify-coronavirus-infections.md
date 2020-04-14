@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -29,88 +29,21 @@ images:
     title: "Open-source AI tool aims to help identify coronavirus infections"
 
 related:
-  - title: "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19"
-    excerpt: "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ..."
-    publishedDateTime: 2020-04-09T11:03:00Z
-    webUrl: "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/"
+  - title: "Coronavirus: How Locale.AI is helping startups optimise their operations during this pandemic"
+    excerpt: "The idea came up when companies started approaching us to build internal geospatial teams,” says Aditi. This got the duo to build Locale.ai — an operational analytics product using geospatial data — in 2019 in Bengaluru. It was built with to help companies with operational or moving assets on the ground, monitor performance, increase ..."
+    publishedDateTime: 2020-04-09T23:52:00Z
+    webUrl: "https://yourstory.com/2020/04/localeai-startups-optimise-operations-coronavirus-socialcops"
+    ampWebUrl: "https://yourstory.com/2020/04/localeai-startups-optimise-operations-coronavirus-socialcops/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/localeai-startups-optimise-operations-coronavirus-socialcops/amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
+      name: Your Story
+      domain: yourstory.com
+    quality: 46
     images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png"
-        width: 1200
-        height: 675
-  - title: "Coronavirus: Google Duplex AI arrives in UK to ask about opening hours"
-    excerpt: "Google’s AI phone assistant Duplex is contacting businesses across the UK and asking them what their coronavirus business hours are. It is using the responses to update company listings shown on Google Search and Google Maps. The Duplex AI assistant can be used by people in the US and New Zealand to make restaurant bookings and other ..."
-    publishedDateTime: 2020-04-09T13:30:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-52232121"
-    ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-52232121"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/technology-52232121"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/A106/production/_111722214_google_assistant_button.jpg"
-        width: 1024
-        height: 576
-  - title: "UPMC seeks to speed up clinical trials on COVID-19 treatments with the help of artificial intelligence"
-    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” He compares the REMAP approach to a chef offering a prix fixe menu ..."
-    publishedDateTime: 2020-04-09T16:22:00Z
-    webUrl: "https://www.fox43.com/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
-    type: article
-    provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 43
-    images:
-      - url: "https://media.tegna-media.com/assets/WPMT/images/071249cd-4235-4539-b33d-45b9138af828/071249cd-4235-4539-b33d-45b9138af828_750x422.jpg"
-        width: 750
-        height: 422
-  - title: "The ethics of developing COVID-19 treatments and vaccination"
-    excerpt: "One strategy to expedite the vaccine process for COVID-19 is turning to the power of artificial intelligence (AI). London's colleague, Carnegie Mellon professor David Danks, looks at the intersection of ethics and machine learning. He's seeing no shortage of worldwide suggestions of how AI may play a role in helping to find quick treatments and ..."
-    publishedDateTime: 2020-04-09T13:35:00Z
-    webUrl: "https://medicalxpress.com/news/2020-04-ethics-covid-treatments-vaccination.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-04-ethics-covid-treatments-vaccination.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-ethics-covid-treatments-vaccination.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 39
-  - title: "UPMC Uses AI To Accelerate Testing Of Coronavirus Treatments"
-    excerpt: "There is no shortage of potential treatments for the coronavirus—the real shortage is the time to figure out which ones work best. But UPMC says it plans to use artificial intelligence to accelerate the timetable for winnowing out approaches that don’t work. And among the first drugs to be tested will be anti-malarial medication ..."
-    publishedDateTime: 2020-04-09T15:35:00Z
-    webUrl: "https://www.wesa.fm/post/upmc-uses-ai-accelerate-testing-coronavirus-treatments"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 39
-    images:
-      - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202004/anguspic.png"
-        width: 728
-        height: 470
-  - title: "UPMC and Pitt are leading a global effort to fast-track coronavirus therapies. “This is an unprecedented pandemic and we"
-    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” Before COVID-19 was even a threat, Angus was working with ..."
-    publishedDateTime: 2020-04-09T20:23:00Z
-    webUrl: "https://www.nextpittsburgh.com/latest-news/upmc-and-pitt-are-leading-a-global-effort-to-fast-track-coronavirus-therapies-this-is-an-unprecedented-pandemic-and-we-need-an-unprecedented-response/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 0
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/04/09120159/4-09-20_COVID_19_Press_Conference-1-scaled-e1586448157245.jpg"
-        width: 750
-        height: 500
+      - url: "https://images.yourstory.com/cs/2/a9efa9c02dd911e9adc52d913c55075e/800x400-3-1586412861245.png?fm=png&auto=format"
+        width: 800
+        height: 400
 
 secured: "RftmSTusnRER2vlhEZj5+kIDxAq0P6Q1tu2KmKdV2xuu0pxy5vVsURFXz84av0JBGK4pvLUhdKfgn2tRtR6i3gziuCMM05SDadVAG4saUMsxA+zW8kewEQMPUcMZwzBteS6m6/473HQLw6KhS9n9u4LxaVM2z08HbI0JbgkK7qYS2Rqcq5EFOSXCY9ayJqnvq2RpiLUrPNXPWAZFk6/inpPNo6v1XI8jKr30qx2wqdpY/tP5e+HDJJ4nj2hPWwY05ET5buRg5xMedrSUDAsqbNJfBvTK+ddogKTgj0jgp6dK180mk51vU7iSM+bGXeCmZk1EVhOfBcqXu2TyUeU6AK+MjiENvkWPRdeUWwj9/7kynWfiOJefT1nHZnc/AfXe/qr1Ttup3NBLLPRhwW+aq3d0NXTgaftqiFREcSdYrKim1ZxotHXZmp7/YDuSoJkpB7NidMiCyNxE7xGty/ph3AU8bp4O+MnwsqkRUgS/Zbg=;Klb/u0/w74RwDOIMtLZCgg=="
 ---

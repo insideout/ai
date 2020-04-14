@@ -2,6 +2,42 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-02-25-dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles.md",
+      "title": "DoD unveils how it will keep AI in check with ethics principles",
+      "excerpt": "The principles are as follows: Insight by Mapbox: Federal practitioners ... Deasy said. The ethics will also hold people in the AI pipeline accountable. For example, if a developer does not use data that is equitable, then DoD knows where something went ...",
+      "heat": 217,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/",
+      "ampWebUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/",
+      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/",
+      "publishedDateTime": "2020-02-25T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "federalnewsnetwork.com",
+        "domain": "federalnewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/02/jackshanahan-DoD-e1582634545624-1024x795.jpg",
+          "width": 1024,
+          "height": 795,
+          "title": "DoD unveils how it will keep AI in check with ethics principles",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
       "title": "Competing In The Age Of AI Is Simpler Than You Think",
       "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
@@ -1249,52 +1285,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
-      "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
-      "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "publishedDateTime": "2020-02-24T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png",
-          "width": 2048,
-          "height": 1261,
-          "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

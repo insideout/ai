@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
+      "title": "Perceive emerges from stealth with Ergo edge AI chip",
+      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Perceive emerges from stealth with Ergo edge AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
       "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
       "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
@@ -605,14 +650,14 @@
     {
       "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
       "title": "How artificial intelligence will reshape the contact centre in 2020",
-      "excerpt": "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI ... it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important.",
+      "excerpt": "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html",
+      "webUrl": "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T21:59:00-07:00",
+      "publishedDateTime": "2020-03-30T22:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ITWire",
@@ -623,9 +668,9 @@
       },
       "images": [
         {
-          "url": "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg",
-          "width": 375,
-          "height": 450,
+          "url": "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg",
+          "width": 350,
+          "height": 420,
           "title": "How artificial intelligence will reshape the contact centre in 2020",
           "attribution": null
         }
@@ -1038,43 +1083,6 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can.md",
-      "title": "Google is using AI to design AI processors much faster than humans can",
-      "excerpt": "At Google, AI algorithms are even being used to design AI chips. This is not a complete design of silicon that Google is dealing with, but a subset of chip design known as placement optimization. This is a time-consuming task for humans. As explained by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcgamer.com/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
-      "ampWebUrl": "https://www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
-      "publishedDateTime": "2020-03-30T11:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dw6iBNHkdr8xXjXPs7tnaW-1200-80.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Google is using AI to design AI processors much faster than humans can",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

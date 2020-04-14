@@ -2,6 +2,51 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-27-how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic.md",
+      "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
+      "excerpt": "This month, under the strain millions of people self-quarantined by COVID-19 have placed on broadband infrastructure, Netflix, Facebook, Disney, Microsoft ... and Telstra — are employing AI and machine learning to service networks strained by the traffic surges. Others aren’t — when reached for comment, Comcast, CenturyLink, and Fiber ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/how-isps-are-using-ai-to-address-the-coronavirus-driven-surge-in-traffic/amp/",
+      "publishedDateTime": "2020-03-27T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/08/untitled-design2-e1585324670149.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "How ISPs are using AI to address the coronavirus-driven surge in traffic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-what-winemaking-has-taught-me-about-artificial-intelligence.md",
       "title": "What winemaking has taught me about artificial intelligence",
       "excerpt": "VP and CTO, Mist — Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. Bob Friday is CTO of Mist, a Juniper company, which develops self-learning wireless networks using artificial intelligence. You wouldn’t think one has much to do with the other, but as both an AI ...",
@@ -995,50 +1040,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-what-an-all-digital-ai-research-conference-looks-like.md",
-      "title": "What an all-digital AI research conference looks like",
-      "excerpt": "Organizers of the International Conference on Learning Representations (ICLR) shared details about what will be one of the largest-ever all-digital AI research conferences. The weeklong, online-only affair will feature more than 650 machine learning works. ICLR will include live chat, live Zoom video calls for Q&As and research author meetings ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/what-an-all-digital-ai-research-conference-looks-like/amp/",
-      "publishedDateTime": "2020-03-26T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": "What an all-digital AI research conference looks like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

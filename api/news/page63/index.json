@@ -2,6 +2,51 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-02-13-this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing.md",
+      "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
+      "excerpt": "India have developed a new AI model that translates and lip-syncs a video from one language to another with great accuracy. The team said we already have the technology to get translated textual or speech output from a video. However, visual translation — such as the movement of lips — is lost during dubbing. To solve that, Indian ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/13/this-ai-can-perfectly-dub-videos-in-indic-languages-and-correct-lip-syncing/amp/",
+      "publishedDateTime": "2020-02-13T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Face-to-face-title.png",
+          "width": 600,
+          "height": 315,
+          "title": "This AI can perfectly dub videos in Indic languages — and correct lip syncing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-itsm-what-is-demanded-for-an-ai-service-desk.md",
       "title": "ITSM+: What Is Demanded For An AI Service Desk",
       "excerpt": "Any enterprise can embrace the ITSM+ transformational journey irrespective of their size, level of deployed automation and personnel on staff.",
@@ -1022,50 +1067,6 @@
           "width": 720,
           "height": 652,
           "title": "Artificial intelligence for machine tool maintenance",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-why-clearview-ai-is-a-threat-to-us-all.md",
-      "title": "Why Clearview AI is a threat to us all",
-      "excerpt": "The surveillance system offers police unprecedented surveillance power. When London's Metropolitan Police Department announced its decision to adopt the controversial and intrusive ClearView AI surveillance system at the end of January, a global cacophony of protest erupted. Concerns, fear and trepidation surrounding facial recognition ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "publishedDateTime": "2020-02-12T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3281%252C0%252C496%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1080%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3D391ffea25021c6719cf6fee9e9c0546ae4d25dff&client=amp-blogside-v2&signature=8eb6abcd4b8196a3f78f1a49f795c0cd964de258",
-          "width": 600,
-          "height": 350,
-          "title": "Why Clearview AI is a threat to us all",
           "attribution": null
         }
       ],

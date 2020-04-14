@@ -2,6 +2,43 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
+      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
+      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "publishedDateTime": "2020-03-09T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-09-facebook-ais-other-play-algorithm-could-improve-autonomous-vehicle-performance.md",
       "title": "Facebook AI’s ‘other-play’ algorithm could improve autonomous vehicle performance",
       "excerpt": "A team of Facebook AI Research researchers recently developed an algorithm — other-play (OP) — that constructs strategies that achieve high returns with agents that weren’t trained with other agents (a form of zero-shot coordination). If the claims pan out, the work could greatly improve the performance of autonomous cars, which leverage ...",
@@ -888,35 +925,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-08-michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence.md",
-      "title": "Michael del Vecchio discusses how business accounting is changing due to artificial intelligence",
-      "excerpt": "has become a mainstream expression lately, and keeping in mind that it is difficult to isolate the publicity from practical possibilities, AI is established on a strong rule. Essentially expressed, AI is one of the most exceptional ideas in framework creation and dynamic,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/w15504476/michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504476",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504476",
-      "publishedDateTime": "2020-03-08T12:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

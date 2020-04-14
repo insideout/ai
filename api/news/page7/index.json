@@ -2,33 +2,70 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
-      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
-      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance Tracking & Monitoring), By End Use, And Segment Forecasts, 2020 - 2027 Read the full report:  The global facial recognition market size is expected to reach USD 9.",
-      "heat": null,
+      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
+      "title": "AI & Blockchain: Transforming the banking sector",
+      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
+      "heat": 74,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
-      "publishedDateTime": "2020-04-06T07:40:00-07:00",
+      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "publishedDateTime": "2020-04-06T07:44:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
+          "width": 378,
+          "height": 213,
+          "title": "AI & Blockchain: Transforming the banking sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
+      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/facial-recognition-market-size-share--trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020---2027-301035717.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -967,50 +1004,6 @@
           "width": 630,
           "height": 441,
           "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic.md",
-      "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
-      "excerpt": "Matt Miesnieks, co-founder of 6D.ai, acquired by Niantic this week, told us they “just got in under the wire.” It could be good for the soul to drive less, prepare one’s own food, and clean one’s own home.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/amp/",
-      "publishedDateTime": "2020-04-03T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e878166b0a4e4000746b68c%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1566%26cropY1%3D0%26cropY2%3D879",
-          "width": 1199,
-          "height": 674,
-          "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
           "attribution": null
         }
       ],

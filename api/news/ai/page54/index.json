@@ -2,6 +2,43 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
+      "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+      "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11",
+      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars-2020-02-11?amp",
+      "publishedDateTime": "2020-02-11T15:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2020-02-04T184957Z_2137662451_RC2UTE9VVL5F_RTRMADP_2_USA-TRUMP-SPEECH.JPG",
+          "width": 640,
+          "height": 419,
+          "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-nba-using-artificial-intelligence-for-highlight-clips-this-all-star-game.md",
       "title": "NBA using artificial intelligence for highlight clips this All-Star game",
       "excerpt": "The NBA says they are using machine learning to create more highlights than ever before this All-Star weekend.",
@@ -1235,43 +1272,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-arm-targets-iot-with-new-machine-learning-ip-processors.md",
-      "title": "Arm targets IoT with new Machine Learning IP, processors",
-      "excerpt": "The company added new machine learning (ML) IP, a new Cortex processor and neural processing unit (NPU) to its AI platform. In a statement, Arm said the combination of its latest IP with a related set of tools would provide hardware and software developers with more options for innovation when delivering on-device ML, while lowering overall ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/devices-home-banner/arm-targets-iot-with-new-machine-learning-ip-processors/amp/",
-      "publishedDateTime": "2020-02-11T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/01/London-IoT.png?fit=650%2C400&ssl=1",
-          "width": 650,
-          "height": 400,
-          "title": "Arm targets IoT with new Machine Learning IP, processors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
