@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:

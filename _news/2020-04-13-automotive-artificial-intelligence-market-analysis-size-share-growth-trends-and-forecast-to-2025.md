@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-13T09:55:00Z
 webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-04-13"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -28,15 +28,15 @@ images:
     title: "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
 
 related:
-  - title: "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026"
-    excerpt: "Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of"
-    publishedDateTime: 2020-04-09T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09"
+  - title: "Artificial Intelligence in Healthcare Market Analysis By Industry Size, Share, Revenue Growth, Development And Demand Forecast To 2029"
+    excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 09, 2020 (AmericaNewsHour) -- The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of current Artificial Intelligence in Healthcare market size, drivers, trends, opportunities, challenges, as well as key ..."
+    publishedDateTime: 2020-04-09T08:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-analysis-by-industry-size-share-revenue-growth-development-and-demand-forecast-to-2029-2020-04-09"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -30,7 +30,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 47
+    quality: 49
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/adversarial-image-tech-example.jpg"
         width: 1020

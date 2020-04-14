@@ -5,7 +5,7 @@
       "path": "_news/2020-04-13-top-5-things-to-know-about-neuro-symbolic-artificial-intelligence.md",
       "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
       "excerpt": "What do you get when you combine neural networks with symbolic AI? The answer is: Neuro-symbolic artificial intelligence. Tom Merritt lists five things you should know about it. You hear a lot about neural networks and deep learning these days. They can do a lot of impressive things like create pictures of cats that never existed and other ...",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/",
@@ -43,7 +43,8 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI Ethics"
       ]
     },
     {

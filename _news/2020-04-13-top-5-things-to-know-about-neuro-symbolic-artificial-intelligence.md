@@ -7,8 +7,8 @@ webUrl: "https://www.techrepublic.com/article/top-5-things-to-know-about-neuro-s
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/top-5-things-to-know-about-neuro-symbolic-artificial-intelligence/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg"
@@ -29,6 +30,6 @@ images:
     height: 800
     title: "Top 5 things to know about neuro-symbolic artificial intelligence"
 
-secured: "fxTV0kYcPFINLKTJeeHRoA8h13WKhga12pYeV+OO+UvVX3aiud4TZdTwngVXqrAvxvz3yX6GTk3AAtE40JTK3d/rz3R0I/1l1Gaa/RYNWzY8xiF4pfNssOu0/TMUqPvH0SCSisMSnNyngl8yz86QfIBa3uxrmfOaKm3NjSjyhKEgOX3/UYPpB0UJyw09QdfwAve1gIC3QmKMMZj1iqnSSBcLuZWos8s5NgW2LSuzVBm+WYt5LIfk6OJwOKWLmb5/Xy/u+h/A9nIyCWVW5ONxQr59h+FRMp4kK6dDMOhNle/2eRlTpRh9IsVJhzd8rJ4G;t3sNucCdja1ekb6MObuWpQ=="
+secured: "GujYC47W5PyoIK/9byG0G54KISbrf7NFYsFqwmZbNkp9CVXRHg6B19vwLrAd77kUURIq2sOFal78hdyIXYiGkraVxcJidjyo6pwYAn0xeQvZy2PqTnX8mGRgDWFcEpVwEMZ4TvN+24VmzZiMTXVAQPswWVU5bZt91uSZ+cA7vVyYzHgBPcwetKopoZajugZ44iOiAxvRZ7XXrQfawBLT/doI/cjYpF9T6RZj70C06oU1ch8qGtkNnvTNJ2s0JGPi8598Jdr13MF8UvuVCKIFCQ5vn2/UZpMtiF0H4btK0M7xQyeJhByr1OIRNVBfdukVXXAig+LVlmdT2PAqJakym18jG8niRp3yLaruwSkVbTagUkU+EjoJU2RzGp1sKJTSzC2k17fxTcdyX6rvmLJqgvwov8fZpUIa4GDhqqzZy/35O5/mR3R0Qc8vMZt8LB74hUN372wT9AlTcljAykE6Ru7La0Q8uJGjzqm0Leq3rTo=;C26sSoTCaMyxY4d+My2sUA=="
 ---
 

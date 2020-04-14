@@ -5,8 +5,8 @@ excerpt: "The game plan also featured two major elements. IBM moved more aggress
 publishedDateTime: 2020-04-11T00:00:00Z
 webUrl: "https://www.businessinsider.com/12-ibm-power-players-new-ceo-tough-transition-2020-4"
 type: article
-quality: 21
-heat: 21
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://i.insider.com/5e90cf2615ea4b5cab4ca0a6?width=1200&format=jpeg"

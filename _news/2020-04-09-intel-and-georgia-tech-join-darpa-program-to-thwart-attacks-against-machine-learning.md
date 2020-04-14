@@ -5,8 +5,8 @@ excerpt: "Intel will be the prime contractor for the four-year, multimillion-dol
 publishedDateTime: 2020-04-09T20:31:00Z
 webUrl: "https://siliconangle.com/2020/04/09/intel-georgia-tech-join-darpa-program-thwart-attacks-machine-learning/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/adversarial-image-tech-example.jpg"

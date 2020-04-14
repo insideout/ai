@@ -3,7 +3,7 @@ category: news
 title: "Microsoft Azure Speech to Text review"
 excerpt: "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ..."
 publishedDateTime: 2020-04-06T13:33:00Z
-webUrl: "https://www.techradar.com/uk/reviews/microsoft-azure-speech-to-text-review"
+webUrl: "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 675
     title: "Microsoft Azure Speech to Text review"
 
-secured: "Z6ane+Pa/8F2bHvbWj5f03t/ZkwPF8PLgVT4aSuiyw06VdV9DQdWLJgUVdgP5l/J1NfBRJKQYhhJXfVaCWkYWO0VDa7VgJc4NpLVo+AYNuuc5bWhlDYN79je9eXXJVtFgoPL19xrl+EQMvRjrkpB4iAi+Z7T8SqkZ1yze78jcv7onxK+VaZMbdfWqbDrE7XhaGHRccAqLKcH4UelcLFTUkt+Apaww+lqjjHsZLEIem6z+Wl4EvG3ZSDD5Qh6ImW0r6ehJTEYBs4LzalbyRtDNgP07u92Qg7deaC4L1uxbArSYYxzc05ssBjufJKzTdPL;Bo6fy/4GvNxcJPoau1EWzA=="
+secured: "aSCXreGVa7dEhKdTplJ/2EjnBSaxzhZB5IgnLcg3teDshC3mG4sEYTNNbYmU5JEzQUgM5osEXWQ4Didheqf1CEKVAlH/iu/+VCgOUjJc4X2L2pVASoR5fq2MkxFilfjSaue2fAWjVqx7HX5lgsoD9Bd5hOLA2gcCt60vZUXFTT18KnWLlpw2SU9D9zzRx+wk0UuZ9djwyy8tBgAvqWhurGHjBLTo2wnKYJJdmfacO8ZQL/U1NgdWQA0Md8Aubai/83N5ZUaqCQfL7UPzfNIHssr9ee3ieeawbzqjft1K00xF24cmyAc0XaAltX/kA9Ex;DV6ngfgPvrEPcDlpA6G+qQ=="
 ---
 

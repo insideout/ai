@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-03-washington-state-passes-new-facial-recognition-legislation.md",
+      "title": "Washington state passes new facial recognition legislation",
+      "excerpt": "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T09:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Washington state passes new facial recognition legislation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars.md",
       "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
       "excerpt": "Some of you might be familiar with a parable that many refer to as the Upstream Parable or alternatively the River Story. Attributed to various originating sources, some believe it was initially brought up in the 1930s by Saul Alinksy,",
@@ -1260,52 +1305,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-is-using-machine-learning-to-improve-the-quality-of-duo-calls.md",
-      "title": "Google is using machine learning to improve the quality of Duo calls",
-      "excerpt": "Google says that 99 percent of Duo calls experience packet loss: 20 percent of these lose over 3 percent of their audio, and 10 percent lose over 8 percent. That’s a lot of audio to replace. Every calling app has to deal with this packet loss somehow,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "publishedDateTime": "2020-04-02T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/bfUl1jN9kFr54TYBhItgUvp4C4Q=/0x0:800x600/1400x933/filters:focal(336x236:464x364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66593465/google_duo_logo_icon.0.png",
-          "width": 800,
-          "height": 600,
-          "title": "Google is using machine learning to improve the quality of Duo calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

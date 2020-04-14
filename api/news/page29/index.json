@@ -2,6 +2,51 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-03-18-badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths.md",
+      "title": "BADGR uses deep learning to plan out and traverse obstacle-free paths",
+      "excerpt": "Projects and researches in the past have shown that deep learning is a potent technique for training robots to do specific things. To name a few, we've seen OpenAI use neural networks to train Dactyl to solve a Rubik's Cube, and an algorithm dubbed 6-DoF GraspNet that helps robots pick up arbitrary objects. Continuing the trend, researchers at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths",
+      "ampWebUrl": "https://www.neowin.net/amp/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths/",
+      "publishedDateTime": "2020-03-17T23:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584510691_untitled-1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "BADGR uses deep learning to plan out and traverse obstacle-free paths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-quickstart-create-ml-services-cluster-in-azure-hdinsight-using-resource-manager-template.md",
       "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
       "excerpt": "In this quickstart, you use an Azure Resource Manager template to create an ML Services cluster in Azure HDInsight. Microsoft Machine Learning Server is available as a deployment option when you create HDInsight clusters in Azure. The cluster type that provides this option is called ML Services. This capability provides data scientists ...",
@@ -934,43 +979,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-composing-new-proteins-with-artificial-intelligence.md",
-      "title": "Composing new proteins with artificial intelligence",
-      "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. \"These networks learn to understand the complex language folded proteins speak at multiple time scales,\" said Markus J. Buehler, from the Massachusetts Institute of Technology. \"And once the computer has been given a seed of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/aiop-cnp031220.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226903_web.jpg",
-          "width": 1440,
-          "height": 1205,
-          "title": "Composing new proteins with artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

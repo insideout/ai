@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
+      "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+      "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai/amp/",
+      "publishedDateTime": "2020-04-10T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/10/microsoft_teams.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference.md",
       "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
       "excerpt": "In an academic paper published this week on the preprint server Arxiv.org, a team of Princeton, Microsoft, the nonprofit Algorand Foundation, and Technion researchers propose Falcon, an end-to-end framework for secure computation of AI models on distributed systems. They claim that it’s the first secure C++ framework to support high-capacity ...",
@@ -1051,53 +1097,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
-      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
-      "heat": 174,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "publishedDateTime": "2020-04-09T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

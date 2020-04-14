@@ -52,17 +52,6 @@ related:
       - url: "https://c.tribune.com.pk/2020/04/2194054-thailandcoronarobort-1586412793-838-640x480.jpg"
         width: 640
         height: 480
-  - title: "Robots turn heroes amid war on coronavirus"
-    excerpt: "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ..."
-    publishedDateTime: 2020-04-09T06:58:00Z
-    webUrl: "https://www.hindustantimes.com/it-s-viral/robots-turn-heroes-amid-war-on-coronavirus/story-MQxFtUTDHXty7L379XsXzN.html"
-    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/robots-turn-heroes-amid-war-on-coronavirus/story-MQxFtUTDHXty7L379XsXzN_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/robots-turn-heroes-amid-war-on-coronavirus/story-MQxFtUTDHXty7L379XsXzN_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
 
 secured: "D+8+KdPf0EjkhTntfAIMn7nAmEy3xzisF6/pgbWanXesbQth1c5M9R0J7Kf3xDD0omC7kwnvl5YE8P4y+J5tCbz2+9DUkNk4/fObj3Wmv41OFnkEqF1UdPoW/3TSnYzzIFW6FUCWXjXqtOEvJWoVtARZPHmSIqbq0WegAcNIz4qfGj6TYbWY4899FvtVLud5t+iqg0KS9Q7GUM5X1acaOtfGAe+wwjNBFnTCUWKOoQnGiFUGlMm+Z98knvlXEdpToTx7t837tPBLb+XLt86/KKXvDNRbTrG8fud2/OYWiE6UJNTyL5uCYe+k24tuSYAkoJzOSmHiODm4yXbBjEopS6ScZDeY6299Skc85x/GygJPkjjqoys/zU6TrL/bgIgLmHSMixsfo8GVj7ZFYPGP4YMnVT3R29B1eDd/YGIlU6MuAf84mIKn/HtSFhjS9wxCczzH2LdspJczYIjQtseyFDn3lsRFhHPmifl6VrJX5/g=;boYGt5jy6vtQx5hlbV9Yvg=="
 ---

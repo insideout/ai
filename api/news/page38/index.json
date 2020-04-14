@@ -2,6 +2,51 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
+      "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+      "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965",
+      "ampWebUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
+      "publishedDateTime": "2020-03-11T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ettkddlwrqgiro3hlrjc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
       "title": "ABB partners with Covariant for integrated AI robotic solutions",
       "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
@@ -925,51 +970,6 @@
           "width": 1000,
           "height": 680,
           "title": "AI startup accuses Facebook of stealing code designed to speed up machine learning models on ordinary CPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-nvidias-rapids-python-analytics-on-the-gpu.md",
-      "title": "Nvidia’s Rapids: Python analytics on the GPU",
-      "excerpt": "This is one of the reasons practical enterprise use of AI today is dominated by the largest enterprises, which can throw enormous resources at the problem. Rapids is an umbrella for several open source projects, incubated by Nvidia, that puts the entire processing pipeline on the GPU, eliminating the I/O bound data transfers, while also ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3532009/nvidias-rapids-python-analytics-on-the-gpu.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/11/stream_river-bed_water-flow_rapids_rush-100780362-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Nvidia’s Rapids: Python analytics on the GPU",
           "attribution": null
         }
       ],

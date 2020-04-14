@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
+      "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
+      "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html",
+      "ampWebUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
+      "publishedDateTime": "2020-04-13T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_611607041.jpg",
+          "width": 1148,
+          "height": 630,
+          "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
       "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
       "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
@@ -40,37 +77,29 @@
     },
     {
       "path": "_news/2020-04-11-robots-welcome-to-take-over-as-pandemic-accelerates-automation.md",
-      "title": "Robots Welcome to Take Over, as Pandemic Accelerates Automation",
-      "excerpt": "Broad unease about losing jobs to machines could dissipate as people focus on the benefits of minimizing close human contact.",
-      "heat": 109,
+      "title": "Robots welcome to take over, as pandemic accelerates automation",
+      "excerpt": "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers.",
+      "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html",
-      "publishedDateTime": "2020-04-11T00:06:00-07:00",
+      "webUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-11T10:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2020/04/11/business/10virus-automation2-print/10virus-automation-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Robots Welcome to Take Over, as Pandemic Accelerates Automation",
+          "url": "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robots welcome to take over, as pandemic accelerates automation",
           "attribution": null
         }
       ],
@@ -124,7 +153,7 @@
       "path": "_news/2020-04-09-robots-may-become-heroes-in-war-on-coronavirus.md",
       "title": "Robots may become heroes in war on coronavirus",
       "excerpt": "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ...",
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/",
@@ -1219,51 +1248,6 @@
           "width": 796,
           "height": 417,
           "title": "Human Compatible: A timely warning on the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
-      "title": "Will this crisis help set autonomous AI on the right course?",
-      "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
-      "publishedDateTime": "2020-03-26T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": "Will this crisis help set autonomous AI on the right course?",
           "attribution": null
         }
       ],

@@ -2,6 +2,52 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-01-huawei-open-sources-tensorflow-competitor-mindspore.md",
+      "title": "Huawei open-sources TensorFlow competitor MindSpore",
+      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/in/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
+      "publishedDateTime": "2020-03-31T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg",
+          "width": 970,
+          "height": 547,
+          "title": "Huawei open-sources TensorFlow competitor MindSpore",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-autodesk-optimizes-visual-similarity-search-model-in-fusion-360-with-amazon-sagemaker-debugger.md",
       "title": "Autodesk optimizes visual similarity search model in Fusion 360 with Amazon SageMaker Debugger",
       "excerpt": "This post is co-written by Alexander Carlson, a machine learning engineer at Autodesk. \nAutodesk started its digital transformation journey years ago by moving workloads from private data centers to AWS services. The benefits of digital transformation are clear with generative design, which is a new",
@@ -1051,35 +1097,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-europe-far-field-speech-recognition-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
-      "title": "Europe Far-field Speech Recognition Market is slated to grow rapidly in the coming years",
-      "excerpt": "This research study on the Far-field Speech Recognition market enumerates details about this industry in terms of a detailed evaluation and also an in-depth assessment of this business. The Far-field Speech Recognition market has been suitably divided into important segments, as per the report. A detailed overview of the industry with respect ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmo.com.au/mediareleases/48898/europe-far-field-speech-recognition-market-is/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

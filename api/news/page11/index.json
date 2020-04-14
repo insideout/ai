@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
+      "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+      "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "publishedDateTime": "2020-04-01T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
       "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
       "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
@@ -1035,52 +1079,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-huawei-open-sources-tensorflow-competitor-mindspore.md",
-      "title": "Huawei open-sources TensorFlow competitor MindSpore",
-      "excerpt": "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/in/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/huawei-open-sources-tensorflow-competitor-mindspore",
-      "publishedDateTime": "2020-03-31T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg",
-          "width": 970,
-          "height": 547,
-          "title": "Huawei open-sources TensorFlow competitor MindSpore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

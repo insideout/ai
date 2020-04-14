@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-01-microsoft-president-calls-washington-states-new-facial-recognition-law-a-significant-breakthrough.md",
+      "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
+      "excerpt": "Microsoft President Brad Smith took a break from responding to the COVID-19 outbreak Tuesday to praise Washington state’s landmark facial recognition regulations. Washington Gov. Jay Inslee signed a bill Tuesday that establishes rules specifically governing facial recognition software. Smith called the law an “early and important model ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
+      "publishedDateTime": "2020-03-31T23:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg",
+          "width": 630,
+          "height": 450,
+          "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
       "title": "ACM Prize in Computing awarded to AlphaGo developer",
       "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized ...",
@@ -1254,50 +1299,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
-      "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-      "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "publishedDateTime": "2020-03-31T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/thumbnail/1200x675/c021471ff96cdf363eebc4f21f68ea4f/facerecognitionistock-1180902227.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

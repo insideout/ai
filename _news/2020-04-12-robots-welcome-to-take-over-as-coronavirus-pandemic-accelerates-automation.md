@@ -26,21 +26,21 @@ images:
     title: "Robots welcome to take over, as coronavirus pandemic accelerates automation"
 
 related:
-  - title: "Robots Welcome to Take Over, as Pandemic Accelerates Automation"
-    excerpt: "Broad unease about losing jobs to machines could dissipate as people focus on the benefits of minimizing close human contact."
-    publishedDateTime: 2020-04-11T07:06:00Z
-    webUrl: "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.html"
-    ampWebUrl: "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html"
+  - title: "Robots welcome to take over, as pandemic accelerates automation"
+    excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
+    publishedDateTime: 2020-04-11T17:14:00Z
+    webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
     images:
-      - url: "https://static01.nyt.com/images/2020/04/11/business/10virus-automation2-print/10virus-automation-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
+        width: 1200
+        height: 900
   - title: "Robots welcome to take over, as pandemic accelerates automation"
     excerpt: "Let robots do the job. Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material,"
     publishedDateTime: 2020-04-12T19:07:00Z

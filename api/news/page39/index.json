@@ -2,6 +2,51 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-03-11-nvidias-rapids-python-analytics-on-the-gpu.md",
+      "title": "Nvidia’s Rapids: Python analytics on the GPU",
+      "excerpt": "This is one of the reasons practical enterprise use of AI today is dominated by the largest enterprises, which can throw enormous resources at the problem. Rapids is an umbrella for several open source projects, incubated by Nvidia, that puts the entire processing pipeline on the GPU, eliminating the I/O bound data transfers, while also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532009/nvidias-rapids-python-analytics-on-the-gpu.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/11/stream_river-bed_water-flow_rapids_rush-100780362-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Nvidia’s Rapids: Python analytics on the GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2020-2025.md",
       "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
       "excerpt": "“Computer Vision in Healthcare Market 2020-2025” Summary: – Wiseguyreports.Com Adds \"Computer Vision in Healthcare – Market Demand, Growth,",
@@ -947,51 +992,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-facebooks-ride-encourages-ai-agents-to-explore-their-environments.md",
-      "title": "Facebook’s RIDE encourages AI agents to explore their environments",
-      "excerpt": "A preprint paper coauthored by scientists at Facebook AI Research describes Rewarding Impact-Driven Exploration (RIDE), an intrinsic reward method that encourages AI-driven agents to take actions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
-      "publishedDateTime": "2020-03-10T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s RIDE encourages AI agents to explore their environments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

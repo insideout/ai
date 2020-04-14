@@ -2,6 +2,43 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-27-study-finds-racial-bias-in-voice-recognition-software-used-by-largest-tech-companies.md",
+      "title": "Study Finds Racial Bias in Voice Recognition Software Used by Largest Tech Companies",
+      "excerpt": "The study focused on Amazon, Apple, Google, IBM, and Microsoft to see how accurate their voice-recognition systems are at transcribing black voices in comparison to white voices and found that the error rates for white voices were much lower. The researchers gave the voice-recognition systems almost 20 hours of interviews to transcribe from 42 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719",
+      "ampWebUrl": "https://www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719/amp",
+      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719/amp",
+      "publishedDateTime": "2020-03-27T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Root",
+        "domain": "theroot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nddpo6tfmmd3fniqv9ip.jpg",
+          "width": 800,
+          "height": 517,
+          "title": "Study Finds Racial Bias in Voice Recognition Software Used by Largest Tech Companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
       "title": "Google releases Semantic Reactor for natural language understanding experimentation",
       "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
@@ -1213,43 +1250,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
-      "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
-      "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome large and complex data challenges as compared to other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200326005444/en/Insights-Worldwide-Cognitive-Computing-Market-2025--",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200326005444/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-03-20-despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots.md",
+      "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
+      "excerpt": "In partnership with Apollo, Baidu’s autonomous vehicle platform ... More than 60% of respondents to the Brookings poll said they weren’t inclined to ride in self-driving cars, and almost 70% of those surveyed by the AHAS expressed concerns about sharing the road with them. For this reason, Nisenbaum predicts that adoption will happen ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/despite-setbacks-coronavirus-could-hasten-the-adoption-of-autonomous-vehicles-and-delivery-robots/amp/",
+      "publishedDateTime": "2020-03-20T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1_AXl7njkCgMx6M_n4ScSz8w-e1581007552137.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Despite setbacks, coronavirus could hasten the adoption of autonomous vehicles and delivery robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-startup-spotlight-forestry-machine-learning-wants-to-help-clients-use-artificial-intelligence-to-improve-business.md",
       "title": "Startup Spotlight: Forestry Machine Learning wants to help clients use artificial intelligence to improve business",
       "excerpt": "I also want to bring to the table my experience now from the financial services industry.” While machine learning can be utilized by many organizations, Der said the startup is targeting three ...",
@@ -941,51 +986,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-developing-applications-for-an-ai-enabled-world.md",
-      "title": "Developing Applications for an AI-Enabled World",
-      "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting pricing, recognizing images, and improving decision making are ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/resources/200383/developing-applications-for-an-ai-enabled-world",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Developing Applications for an AI-Enabled World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-
 cdnAmpWebUrl: "https://www-rawstory-com.cdn.ampproject.org/c/s/www.rawstory.com/2020/04/robots-may-become-heroes-in-war-on-coronavirus/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
       - url: "https://c.tribune.com.pk/2020/04/2194054-thailandcoronarobort-1586412793-838-640x480.jpg"
         width: 640
         height: 480
-  - title: "Robots turn heroes amid war on coronavirus"
-    excerpt: "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the US Consumer Technology Association. “We are in a time of need for some of this technology, so it seems like benefits outweigh costs,” Rohrbaugh said. Artificial intelligence, sensors and other capabilities ..."
-    publishedDateTime: 2020-04-09T06:58:00Z
-    webUrl: "https://www.hindustantimes.com/it-s-viral/robots-turn-heroes-amid-war-on-coronavirus/story-MQxFtUTDHXty7L379XsXzN.html"
-    ampWebUrl: "https://m.hindustantimes.com/it-s-viral/robots-turn-heroes-amid-war-on-coronavirus/story-MQxFtUTDHXty7L379XsXzN_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/it-s-viral/robots-turn-heroes-amid-war-on-coronavirus/story-MQxFtUTDHXty7L379XsXzN_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
   - title: "Robots may become heroes in war on coronavirus"
     excerpt: "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the U.S. Consumer Technology Association. \"We are in a time of need for some of this technology, so it seems like benefits outweigh costs,\" Rohrbaugh said. Artificial intelligence, sensors and other capabilities ..."
     publishedDateTime: 2020-04-12T21:41:00Z
