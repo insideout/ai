@@ -14,6 +14,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "eVPOF0JXg/IVUEbK/y4/dArzoqDt/lCeQ0qKjrbDTyItmZham72Jp84MN1hYlfzekPgsxetmaMfOyLcoDnoSWvcuVc1WluwkJZ+oNAVu4fPH8tmQKNBDpWfZoWGWxE7di4z6CBjgSW8bS+sIZUCl6p7+jcjDHKZOjg62M07FXf1eMF1Q9t+sbAvFP6wahtmpuLGrNL2TgCUFNXp6Mekbbzi5k6F0bKvhgFLImdfSaIHPyKyPWQtM++C7EUTunzRUmFdZCB94sBSLQh2/5D7lgzRD0k1kWAw1zwDXUooPnXmDwIKwLpVcx/NK+d4BuVeRppZGICMm/XcnAjBLm7jMxlhMHpCB9xY15QDRTwZhXDgnFIJXgBAqAxK2wYCDldQFE6r9hA2WjkxzblSHXN0ocvt+G3vGPopH4rUGXpoWnudOELvhX6d+Q7NIufUAtkEC18Kbom4SU6oZdQ+gyKZIDPKRXzqpzKFCtq4zHdtcMd0=;DUw5Wjv9GZjFQ2viHFun1g=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/70/f709e77e-7284-5b9a-bc01-3169b8612fca/5e8f3cee90cb5.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize"
+    width: 728
+    height: 410
+    title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
+
+secured: "l/xR4W3/uzeqfQ4gYQctr9oCbdoK4YZClkjek1WYK0n/1JOesjGPMMipkfywAzUIu0DkTnUEz6PKh5UDLvLD8v7vuJnmyqm93i69ow6wmEekULvgUl4KNVH0LxGmp/eDo8m2AWrCydggGktIkG/VbJ3DAeWhSTNbSjlweXuhm3whZT3rzBGzCtbyeQBC+XAHi+CAlaNvbWdXm2XhR6NIOlwR4d1KwmR3gyNAhq0WxcdI8xKlUPCU7r/3sN/g2pA7iG397vBn3RsKVj7+SGrgBVZG4X9Xl8OgAD3bnWWezN0HSmcSZvpgk4FIgpv34tKx;EfARlDH7xl2EfmYwtmgbnQ=="
 ---
 

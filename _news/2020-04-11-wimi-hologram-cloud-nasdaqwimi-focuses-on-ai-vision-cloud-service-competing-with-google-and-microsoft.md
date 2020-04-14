@@ -1,32 +1,30 @@
 ---
 category: news
 title: "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft"
-excerpt: "... team and researchers of Microsoft Research Institute began to think about how to use machine learning to predict and optimize the resource allocation of azure. And the holographic AI cloud service of WIMI Hologram Cloud (NASDAQ:WIMI) is unique in the industry. In the existing cloud service market, technology giants occupy the majority ..."
-publishedDateTime: 2020-04-11T05:39:00Z
-webUrl: "https://www.marketwatch.com/press-release/wimi-hologram-cloud-nasdaqwimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-microsoft-2020-04-10"
+excerpt: "As a global technology giant, Google and Microsoft have been working in the field of artificial intelligence for a long time. Whether it is academic achievements"
+publishedDateTime: 2020-04-11T01:07:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15784675/wimi-hologram-cloud-nasdaq-wimi-focuses-on-ai-vision-cloud-service-competing-with-google-and-micr"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15784675"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784675"
 type: article
-quality: 67
-heat: 67
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://i.ibb.co/9nGhxnZ/1.png"
+    width: 554
+    height: 307
     title: "WIMI Hologram Cloud (NASDAQ:WIMI) Focuses on AI Vision Cloud Service Competing with Google and Microsoft"
 
-secured: "FlaXdADejHxKMuk+WIlVUEGL3DqBewBe2e/L859gTEtyCmfhAkIPsw53K8oaKrEsSyr54PvDwlZX8Ro3IV22dyKxmtrMmzBvBho2gnEEs9V2DEoncoiUU0t1uxI6NKLGFu4Iw8CKpmhmcTalNgfCpQxtIna6dqQ1N2/3UF5WmAPTbr19EeP4IZwElOJfdyS73PNwvxd1AHbBEQyhi9XKM7n1UgI1qjD6uWVZhX1Kacuc5cRUndnI2P7NY8P1ceVPAQzd1sJesOPbThzcw/4z9yNifoFpPanjNJBMkJxDU/HFCoXXarWbSU9hbRNVyS58;eHsTUc7jBo8SSNyF1bSUHw=="
+secured: "+t22eXBy751Zmz11+Q0RzV+7sl4gGDl3yc8oP+3isS3PmMGu9kIJmEnfZcNL0iyACd2t4N0WsD2ReH5H4tsj8D77eOjopph4OSIn0DjO1YYD7oPvSdUiGOFM7fx6rv6fOMezdtGXq0/sWduIMnXUSSGnHF3PlHLuxcOcHQVAmEk/j+EZpVaT9slktnEwkxMhsd5bq6CvIt18wS7d2jPOwIvzw+1t7yO3eNJLbT7X0aO0cyumJ9XtD2R817C0n0smJPoUn7d1scIfipkyi1HZ8RMd61VUzgGvxDF3FGbaYOHOwaGIGCYEW170uXsyu0jl;zfHXbVejzIyKckvbMxmYug=="
 ---
 

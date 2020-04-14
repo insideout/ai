@@ -29,6 +29,6 @@ images:
     height: 540
     title: "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD"
 
-secured: "Ka4Ewhp9U6vOQVKxVP/DOYaZQ93B4IrYxpBBDYB/2dpIHNx2zSraE4pIzYHEXJHW0xjtFp2zp5nCEnhw6R/KUWLqsFCQXySwq1U5AfJS12cM480L1rQtHcM8wcOogq+EaaPjlmTyy3fOfGIGpqsHBjgIA9qKr+UU9rVTeNAJYz8HyWtiWm/4hqWrygQzA4+7Kd5vsB/5Fbr10VIwalN/7uGM7rjB2G2eP936TmVdJDn5NcklO/2SdRrLZki7KbpwmbcngCz2a0bi53udT1HcqdYegHq+VDJgItFNuHUz8OcYLf9Sgm5EIwja36HVW4GH;YCpRfwsqrr7mOjZBHUTGpA=="
+secured: "UqCMQv+slnV6ZKKYn6iGHxPlqBzH453ZPquc6mapQcyajcE1CPAnvTrhfjvd5jFAROmKDvuvHvG4s7abrrBolvg10UxQmp/SXl9ljv75hiZ60ZRJdDL9QbtnzAl01s4QAHWmjCwclIQ1D8SaJljPufzkHBrQF52HdJgOCMyJ2889tYpiOlgQgNZN4zxnUpFYQAWp0Fyc/pm0FSPbQZgGMW9/luXHL9olDbfpraacCdTiTKOQBp3eJGeFuvETFaBltjSc+18BcJ4F7NqkJ8j/UNsQetZW94xohRrVNyYkEnC08kMMNS5QG3qGoKVMmnqs5V8g+wfdw7YjmpQ/hZXgymQ+tXJhAohNhGZqjasqGQ/xI8q6U3b2g0DCcB/uWPAI4ST5StDDQy1O+BEjSdKghAz7kP/nCyz+ujZttZZrc46XTRSTxsguIXw/UOENXy+P1nVr7Bw+iaT5WcDG1kttt/oJQjljRN20wDHuI9yEoHk=;3bZ9OFeX9BrOpmbTRokR7w=="
 ---
 

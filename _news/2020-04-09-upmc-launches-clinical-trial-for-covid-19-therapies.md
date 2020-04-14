@@ -2,25 +2,25 @@
 category: news
 title: "UPMC launches clinical trial for COVID-19 therapies"
 excerpt: "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is totally what many groups now want to do,” Angus said. Those “many groups” Angus ..."
-publishedDateTime: 2020-04-09T22:31:00Z
-webUrl: "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
-ampWebUrl: "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
-cdnAmpWebUrl: "https://www-ellwoodcityledger-com.cdn.ampproject.org/c/s/www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+publishedDateTime: 2020-04-09T22:25:00Z
+webUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
+ampWebUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
+cdnAmpWebUrl: "https://www-timesonline-com.cdn.ampproject.org/c/s/www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: Ellwood City Ledger
-  domain: ellwoodcityledger.com
+  name: Times Online
+  domain: timesonline.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.ellwoodcityledger.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
+  - url: "https://www.timesonline.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
     width: 6720
     height: 4480
     title: "UPMC launches clinical trial for COVID-19 therapies"
@@ -56,20 +56,7 @@ related:
       - url: "https://www.goerie.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
         width: 6720
         height: 4480
-  - title: "UPMC and Pitt are leading a global effort to fast-track coronavirus therapies. “This is an unprecedented pandemic and we"
-    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” Before COVID-19 was even a threat, Angus was working with ..."
-    publishedDateTime: 2020-04-09T20:23:00Z
-    webUrl: "https://www.nextpittsburgh.com/latest-news/upmc-and-pitt-are-leading-a-global-effort-to-fast-track-coronavirus-therapies-this-is-an-unprecedented-pandemic-and-we-need-an-unprecedented-response/"
-    type: article
-    provider:
-      name: NEXTpittsburgh
-      domain: nextpittsburgh.com
-    quality: 0
-    images:
-      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2020/04/09120159/4-09-20_COVID_19_Press_Conference-1-scaled-e1586448157245.jpg"
-        width: 750
-        height: 500
 
-secured: "Rja6n+IofqXCYV6DoYdUfFGEnv+2SRc+PQtlmcAEJxBIWfDq0YLjEjlieVAKHN5yKVKLRGkjHAR4viMEB2SA3RQj12C0Xfvy+bOu5Wv0raq6BF337xNuq32w4n561bJFiNaiiuJcKX8Dn5EE2Tg6bsA8IbupRYpMMMiDpkxx+te07LMAcK/+LgOM7G0an55LJNjwUHlPDEKo0dZW9vQTz9n0bSjnyhwapOWNwWHQl37dusMGRGhI07Vk4GOJJplQLoFR8SIay9lgeSS0butPD1GK2Vtj5a+cKyIFdPLnRhISQq+LNT4L/9e2OyrUQjcqdhprFOFfafwT/exmqldmoizdGSwMAWKT9Qh+RGYRC83XiDdK9KTNgxjUfMKFzMylRkROryY4p7fdx/iIEqtLzD5ac5A4OC0wCptUKbSrgW6MekmfFE3AB2QkVA9/ChbRgJ/0p1thmIZaVg5LsI4cJdGOFVdm9wO8/cOESaDnrQA=;Gj/Kpmeh8Ut38upFrAZLFA=="
+secured: "KDqyiUMOYWK9TeQTxrH3jrQjAUn6tpc6JMZVA9mz5UwRO6Ao61LnVRoDbcXeFABrfVl4BtltD88h9bmrvuggPpQslY4URtgjCh52xABDdsT5/2FFAvuEtOhvTCJC1IDeuEGXsnrfuiNJf0kwN5yOYVYt3XBWCJgCxVunuMf8D251YSghvzXPdL4X/fi3bkQRthaa5t8nw0+roXLVsI+aqvg0Fjzp2ENjVuvBQZnOgrJLuyelF7fz3Tx1SVkwDiOCsYB1i5egD6b22ah1ID6pwIC9Vl5HbPqcpqXTvkrjfnBVLSZchSUqyR5+kOpDcNgu;zDS0xVqv/VSYMeHKU+i4Kw=="
 ---
 

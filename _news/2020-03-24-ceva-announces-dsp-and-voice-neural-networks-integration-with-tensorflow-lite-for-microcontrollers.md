@@ -1,22 +1,25 @@
 ---
 category: news
 title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-excerpt: "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced"
-publishedDateTime: 2020-03-24T11:48:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15648647"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647"
+excerpt: "WhisPro speech recognition software for voice wake words and custom command models now available with open source TensorFlow Lite for Microcontrollers implementing machine learning at the edge TensorFlow Lite for Microcontrollers from Google is ..."
+publishedDateTime: 2020-03-24T22:26:00Z
+webUrl: "https://www.eejournal.com/industry_news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Electronic Engineering Journal
+  domain: eejournal.com
 
 topics:
   - Google AI
   - AI
-  - TensorFlow
 
-secured: "Vv/BudwwqV6Q8WNYfVbQqOo5QfKX+B6jUP11E+0U/q0wKSgw86FlW52MndCCR2vU207zTDVp+t2gTTqfXd2HhjuaUuzUVIhDy0eiJ9JN3Diab1dNgPnTGCrfdLLb/io70wZ2PD38eyhLwuXGgBHsBpZLbPfFvm+Fv6+rRV4zbV8slAYo3y/gHj4hUG2FToWtqb3avJsXgEjrtv59m+F1Qsy6d7FdO+BIA516jqKo9mckT10FsPq9CEQleTyss4qjZAHFItRZQ3dSuJFzyxxS16EvwmuRISvB7S0JrgCT3/xB52Oocyg/O/zO50dxVSUh;657rZidDTw36GRxLeo6vfg=="
+images:
+  - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
+    width: 512
+    height: 512
+    title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
+
+secured: "zi54N/d/5hRKAmSR0UlkXX0Q/RnGH/7VZZtW17EB8Vgu/+5lFOkN3p9K8LjJGyxGjiujVq0RWbv7zjlO+ZN6tDcvbA1wmetK6ju/GlO4MNdoqws+Jiuz2sAJhJVJdoMJbSrELy2cRag9PAd3cKcqCfRxT7myRZOZQRaCwSTzc6TFPtl7MBpishaevDSevSfs2NT2IQokVQZ81Ig0slfDSRvCU0MAJA7kXHc95Ko8xkXldIS0m3vyEz5YVdlKTvbWmVIysCAyJYwHME9mGxgqluVPVB74JkL6I5trbWQOeJZh3cbk4OX7Ko0ld6IA9nJM;RRL7NKYdcEgosBv8II7r2Q=="
 ---
 
