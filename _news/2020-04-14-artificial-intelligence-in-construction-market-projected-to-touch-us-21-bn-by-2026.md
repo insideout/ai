@@ -40,6 +40,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Automotive Voice Recognition System Market Size Worth Around US$ 39 Bn by 2027"
+    excerpt: "Acumen Research and Consulting, Latest Published Report on \"Automotive Voice Recognition System Market Size, Share, Growth, Trends, and Forecast, 2020 - 2027\". LOS ANGELES, April 14, 2020 (GLOBE NEWSWIRE) -- The global automotive voice recognition system market size is expected to reach around US$ 39 Bn by 2027 and is anticipated to grow at a CAGR of around 21% in terms of revenue during the forecast period 2020 to 2027."
+    publishedDateTime: 2020-04-14T20:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-system-market-size-worth-around-us-39-bn-by-2027-2020-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "$15.9 Bn Automotive AI Market by Offering, Technology, Process, Drive and Region - Global Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "This research report provides in-depth analysis of the automotive artificial intelligence (AI) market in five major geographies and emphasizes on the current market trends, market size, market share, recent developments, and forecast till 2027. The global automotive artificial intelligence market is expected to grow at a CAGR of 39.8% from 2019 ..."
     publishedDateTime: 2020-04-14T12:55:00Z

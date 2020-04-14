@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-adv
 ampWebUrl: "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1157884675.jpg?fit=1800%2C900&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 900
     title: "Researchers challenge AI to give advice as well as humans on Reddit can"
 
-secured: "7NvbgO4c+QUovKdOI5IlXlWmU1Kgt33r6mo4Ta6w4urxIupeG9DcPLKohN2QxGkArkQVuaXgx4pM8oZzJUUDRrtZNmH/pJTzTHwCYanr73EW9XE2wMH7etpky44DlXCas79v7CIikSchEnH8RzWgtYNHv8GE56qSvloLGji3ctsS/zzL86KgUFfaIbRCkUFGqFjhcuCFc/uJbFO1FYRPYIwNhQmo5g8RIg93lSY7xV8ZSZzyHDxH+6MmkQoEYLRC8DW6pV7zFpRddHsjxb4BSBtl7bt7Me6Blms5Zon6f6gKFgAONAfIsl8qeLqLMh73;IOyllcalsD5ybaYRTbM37A=="
+secured: "hHwMKBbWLojghPRnBWCDPcVfudDc27UVBToAz7r+siv4j7pvlJ10zSyHlx6A2qacpouNTpk2+ubQ0bG+R0QgQ6gl8+y26fm+WMeYAugpVuoAJ+ABjh/SHnFnyi45ZBszFKGjgK9b/RF9XCVnxf98nPMGjCfH5BCp2OBJ/EgvSY8G+OdGNbyeHpgQNOI8jL32kKyUl6teCe9s9iRg7Sto8ZJskZlkJN6aN7HNTU6QjOntQl0s5EZTHNS1fzD5lkd6LbHVgEmS/qse9v3sNeMn4Spp6Kua3sFjbLlwsyDMRgkK/MLc462FdAUlG3e///3EU6QSdO7WtVvD4rSrkuQawyTjFSUC8JyINfRG+2UqQQvXLxatryrp28S3tPOWBRlfgnfGB3TXgqd0PI5pqnLDBfJkMKE18aY9VmsVf4LW0zBkTWJKQVvLMUIidcrfkJNLt4MpUCMvXedY24sBkzjNbtqB1wRRs5A41tWVhEo3zgA=;XjX4VzAK8jwCBUhuxgxXXQ=="
 ---
 

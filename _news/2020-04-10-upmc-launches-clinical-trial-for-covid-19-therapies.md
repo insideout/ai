@@ -8,7 +8,7 @@ ampWebUrl: "https://www.goerie.com/news/20200409/upmc-launches-clinical-trial-fo
 cdnAmpWebUrl: "https://www-goerie-com.cdn.ampproject.org/c/s/www.goerie.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -24,23 +24,6 @@ images:
     width: 6720
     height: 4480
     title: "UPMC launches clinical trial for COVID-19 therapies"
-
-related:
-  - title: "Novel clinical trial fast tracks testing of COVID-19 therapies"
-    excerpt: "We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Derek Angus, M.D., M.P.H., professor and chair, Department of Critical ..."
-    publishedDateTime: 2020-04-10T02:01:00Z
-    webUrl: "https://www.news-medical.net/news/20200409/Novel-clinical-trial-fast-tracks-testing-of-COVID-19-therapies.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20200409/Novel-clinical-trial-fast-tracks-testing-of-COVID-19-therapies.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200409/Novel-clinical-trial-fast-tracks-testing-of-COVID-19-therapies.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 44
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
 
 secured: "0GWE2LyS7/uyIXQROYaXNtIR34CDyZaUHCxEgxrAtpnfw1o1EP85Ths0Pz2rINwHqkl3wGGsWDxmm7VPPxgC2bgBzh1/G+1fn0vjrmH0CX0idLfMdMvD7vTASWKIMPl9QWV/dxPbjYfnJqb900VwNuklyXA4trCM4Ej7Ic+vDUMKv/d8QZ2nheRUDX/7IRA5oKqthRvKLXawI9wSqLZd2r6228UJnCYYj5B5OICFPQ1dyDYBkJ/L902xABAZccDvlcZJKeQfrjdGJ6GmlacNx/t4md/QmF6PKOwW/tXeoQovTtSGgL1TQgsPb+laI99oCVoAXm74bEuO0y9igYVT+FYNnzo7czhT0Fi+c/LGeMT7fv86OuWQKAVsDB+ws5a7O53Cm+pdWFf+rk5lWhfMC6s+03lekYN71nWcjuyZjR7ZQ5l0kzgzOeWO81Uqf7OBdjWkTP1Nd8ns8PtuqGXMHesn65+Plyyl3/TX0PIzWEk=;XHk4QaiuLZ9R1qt5mFbQ1g=="
 ---

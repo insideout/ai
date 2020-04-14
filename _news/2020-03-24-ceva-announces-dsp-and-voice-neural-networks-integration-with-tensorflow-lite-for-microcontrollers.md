@@ -1,20 +1,21 @@
 ---
 category: news
 title: "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers"
-excerpt: "CEVA's holistic approach to AI at the edge ensures that customers using TensorFlow Lite for Microcontrollers can utilize a unified processor architecture to run both the framework and the associated neural network workloads required to build these ..."
-publishedDateTime: 2020-03-24T12:50:00Z
-webUrl: "https://www.design-reuse.com/news/47727/ceva-dsp-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.html"
+excerpt: "MOUNTAIN VIEW, Calif., March 24, 2020 /PRNewswire/ -- CEVA, Inc. (NASDAQ:CEVA), the leading licensor of wireless connectivity and smart sensing technologies, today announced"
+publishedDateTime: 2020-03-24T11:48:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/03/n15648647/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15648647"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15648647"
 type: article
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
 
-secured: "ZdniO+wDfHq0FPJDn8QdLu/WrTMesH8jJmGbPMjfpka6uwZE8tUpXmSt+fN4lmZh167SMZw1K1izqqI/TuazixFYVb9YDbjr9wSpIcDPyFyCFX8skHx9ZVuJMqcj8DbmuWH1Pv+FZDnzboarNFHydZR2h9nDmHlp0Ae5noIjDe8dqAQTgt0JwgOC9cf0LP9gFF0YhKO7UPpsy+HWRwIY1JcAkBo5sKQBuM7IH5CHBnwO4EHeaR043QVvamtWCJZPpAZkf9bTIVlCPoBMwu3J1Qro0gKPtiwIDmWUc2u5zHmAGoiLsgy2cr8id42Ht2za;1Y6FT8mY50yjn2WFJQvMJw=="
+secured: "Y6nEQmlrfdwelJFXVNdTCZLVKk7Qds7mh+3tUKdkwyYaVkhDOQJ64fiSeXu1yO6xBo1oMKXIzwXAetVu30LZJKe1oV9A+5M7opN1Q7k1F95BPHl6FtJhw6P9vYEAtgKGZQTQA2ac2p191bjlht0XgH7mq1A1Op/2L1HQIpsfvlQRbOaWMFxKSHVFWW843FrlFVrvSm6+MIWAiRa274A5fipMj7DZX+yoZ/dKIPAWa4YZOV/cUuRWDuD2lnHZM6oS/MTD7cTcoMHu5s0b9wzKXD4M/REdqmbwJ1Wzh5eGFVetrV+Na/6GLa/ljWp+0JX5;WbyFaGkSZI4HkEmJUuuMHg=="
 ---
 

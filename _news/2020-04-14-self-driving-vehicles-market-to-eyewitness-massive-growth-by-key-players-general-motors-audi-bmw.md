@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Self-driving Vehicles Market to Eyewitness Massive Growth by key players General Motors, Audi, BMW"
-excerpt: "A New business Strategy report released by HTF MI with title Global Self-driving Vehicles Market Study"
-publishedDateTime: 2020-04-14T17:14:00Z
-webUrl: "https://www.marketwatch.com/press-release/self-driving-vehicles-market-to-eyewitness-massive-growth-by-key-players-general-motors-audi-bmw-2020-04-14"
+excerpt: "(MENAFN - GetNews) The Self-driving Vehicles Market research study presents insights into the changing competitive landscape and offers clients an accurate picture of the future direction of this industry. (To Know More & Enquire for customization in Report… Visit Website) A New business Strategy report released by HTF MI with title Global ..."
+publishedDateTime: 2020-04-14T23:14:00Z
+webUrl: "https://menafn.com/1100023112/Self-driving-Vehicles-Market-to-Eyewitness-Massive-Growth-by-key-players-General-Motors-Audi-BMW"
 type: article
-quality: 40
-heat: 40
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/updates/pr/2020-04/14/E_646de1dd-2_Image_In_Body.jpg"
+    width: 600
+    height: 361
     title: "Self-driving Vehicles Market to Eyewitness Massive Growth by key players General Motors, Audi, BMW"
 
-secured: "Ivqaa8TH7yfhvO8FZzqsRlzWmPssSaTsmcxmdkufnaSojJdQDZZG9bHSNBZ1+L8oapdAtWZps7O5QRNFlK7mVQxMXtAVjyAZuo9R7mtcfbNuC66pOQZmBI70O8PtP+6IyxSMi6UiTghFwxXR6aZQWom2AKXz+GsHkhCp8a2Bq6C+443mGN498ZJB5EMRhb+pjOkPUtgbWsfkUcNt7RDORFQ8Jtl3FkRXo5o8WAash2VkUmHy5XA8QIm3guhw0wgZe+Z0V2K+lzN5ZRND58dS3QkoH1sebZdwFYY1kCiVG4sGAOWp4aiwJRnAr6YeaCeT;zPS81XNx9rc6tftUzdpvbw=="
+secured: "x49rqYdXnQCUUEXwAUNhKN8KsR4W1FPviwACf3yfvP9LoyFIautLG2PD5hb3PuWMgc75ovLUpeWZC855zkg+k+FNGIeJkiazi/NPQO8s4gnpcJMMV1+stRscF3OKhtQ+ADmeZb+hhpoS0QCWpNIdLstqSqekIsx3uugMxdq5XQaMMQwN5dDUo5W0KN2y/YBaCdNp90sPzm1HQITR0pP9VmZTdMYYFHrppzhn3nwpqSIlvEg1NDApJJ7CXLt1pMGtJdVQpI01UQgtOHb92iKPC7TCdJ7T5fmEnIxdSLLwyBZxaHqz7u41dp31u/WIECA8;4T2pummS0RFE8+suGr4xHw=="
 ---
 

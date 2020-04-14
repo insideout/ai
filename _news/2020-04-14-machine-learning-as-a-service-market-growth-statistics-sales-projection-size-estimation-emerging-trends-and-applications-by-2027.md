@@ -5,8 +5,8 @@ excerpt: "The persistent zest of all organizations is to increase efficiency whi
 publishedDateTime: 2020-04-14T16:20:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-growth-statistics-sales-projection-size-estimation-emerging-trends-and-applications-by-2027-2020-04-14"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -38,6 +39,10 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20200414005551/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
 
 secured: "3ssjJtf4ziIaxze8hKZPUUEKjvGd+p0jO94iOcasoXXySz68Llv0qQQ0qWIw5O67hv39ugFjMr8opNSAMmqeYdrsUI1QfAL05JSinOwYfc6MFdBZDl8sTnnC08evOqv8oiM/8Lg06ZTotNF+Vt+Rr2snJ/mQsNOVFAbnHbLqqwjHVxgc1QaQld2zxvgskrnnRmYou6Fuon+JBPVxAyS6wuhT1DqRR2qk/WR2Vm2FSc4J1IuwjXrpPyP9j2JKyFLxShdgble2CMg3qeMyrGRo+ExIG6yA0j4gnyF1vTAUd3e07FIGQL0vT9OpiMC/KZDS;sbQvDlfWoefFmJSXigd8FA=="
 ---
