@@ -95,19 +95,6 @@ related:
       name: Medical Xpress
       domain: medicalxpress.com
     quality: 39
-  - title: "8 start-ups turning their solutions towards Covid-19"
-    excerpt: "he has shifted Akara’s focus to creating robots that could potentially bathe a room in UV light to kill bacteria and limit the spread of the virus. After raising $56m in in October 2019, Healx has now turned some of its attention to the ongoing Covid-19 crisis. The Cambridge University-based AI start-up typically uses its technology to ..."
-    publishedDateTime: 2020-04-09T07:20:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/covid-19-startup-solutions-coronavirus-entrepreneurs"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/ppe.png"
-        width: 1100
-        height: 825
   - title: "UPMC and Pitt are leading a global effort to fast-track coronavirus therapies. “This is an unprecedented pandemic and we"
     excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” Before COVID-19 was even a threat, Angus was working with ..."
     publishedDateTime: 2020-04-09T20:23:00Z

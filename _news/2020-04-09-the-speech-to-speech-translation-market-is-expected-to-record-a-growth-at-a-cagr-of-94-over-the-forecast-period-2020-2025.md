@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/15777993"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15777993"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "European Data Center Market Forecast to 2025 with a COVID-19 Impact Assessment"
-    excerpt: "AWS opened its cloud region in Sweden (2018 ... with the increased interest shown toward the digital transformation of businesses by adopting solutions such as IoT, big data, and artificial intelligence. The demand for smart devices, coupled with growing internet penetration, will fuel the growth of data centers and corresponding infrastructure ..."
-    publishedDateTime: 2020-04-09T08:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/04/g15772848/european-data-center-market-forecast-to-2025-with-a-covid-19-impact-assessment"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15772848"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15772848"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
 
 secured: "LLkMaBZv/UmiI0ae1tZ5btcVbc3IdWg/0NAi7APd7gyVjOva6gVS6X3B1KqHPPXrjcwHsfIJ014AH09T+d43ht6PzktvqGvW0+VvTSip0VTgboGWt7Xy9prcnw4lgI7AEDBPyW453u4qycR81DbjWKVN3uuL3Sk0/gpZf3AorqEQ52ffIoORMztI38urjA4dgrxHpB4N5YCotwFtTknqOEC4zrW0ohWrhpC2yhauTLvZjVI0+pJSyIVPsBc2Ty32xOr7SJYZwCkPSA0h7aoBuzAy9SRqIH4oPi3606pz5TXFXjUZ0AWrF4WiyUpUkoJG;HaZTQ4lMgJJJUlcHNGEYQQ=="
 ---

@@ -108,19 +108,6 @@ related:
       - url: "https://www.wesa.fm/sites/wesa/files/styles/medium/public/202004/anguspic.png"
         width: 728
         height: 470
-  - title: "8 start-ups turning their solutions towards Covid-19"
-    excerpt: "he has shifted Akara’s focus to creating robots that could potentially bathe a room in UV light to kill bacteria and limit the spread of the virus. After raising $56m in in October 2019, Healx has now turned some of its attention to the ongoing Covid-19 crisis. The Cambridge University-based AI start-up typically uses its technology to ..."
-    publishedDateTime: 2020-04-09T07:20:00Z
-    webUrl: "https://www.siliconrepublic.com/start-ups/covid-19-startup-solutions-coronavirus-entrepreneurs"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2020/04/ppe.png"
-        width: 1100
-        height: 825
 
 secured: "Gtw/s7bC+ojS7ov2xgAxpUnoEF6ELZbqBNv8QJxtc/wnHMuWEt/h60l9xw5bOKEyw0y6oY/EH9RWaAWkKuaZ3Rc5HqSYSJE5puWNQpmdNUvYwDNLmkSdPUIUMgmdvsj5LXotzg0KA23R8IutncwJHrgRKF0f4yA3zr+B3N/PB9XQ9NZHBxV1yHsHBAkR/JyYly00ISoo5IkajVoHnYatiGmMSFOWSJPNCg1jTkRO+pmX6lPXjEKDTnWIO9nXC0qPAPwsWNWojSCd44G7/wwm+1G08KoKnO2EgFUv6TmiPvit/jDLIFuP69n6+LHaDjl1t7YeVfkoGgHFF4IEWt0b6wbBJRHHyjAwUpXJRnkZTFpcWqSpRktuqBagfOcVJSFZX3FOIRd+2EC9fyFsy9+oRP5y00We59JWWrAB+ZakFaW8XO8F2ntXU1sJbT45qp1ruLcBNc1B3hAgB5R0x2pIy6d62s//AspQ9ua2h3jzMG8=;bImx1AmIbzwR3LYyv09DzQ=="
 ---
