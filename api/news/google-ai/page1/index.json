@@ -908,7 +908,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {
@@ -1043,28 +1044,58 @@
     {
       "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
       "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
-      "excerpt": "WhisPro speech recognition software for voice wake words and custom command models now available with open source TensorFlow Lite for Microcontrollers implementing machine learning at the edge TensorFlow Lite for Microcontrollers from Google is ...",
+      "excerpt": "CEVA's holistic approach to AI at the edge ensures that customers using TensorFlow Lite for Microcontrollers can utilize a unified processor architecture to run both the framework and the associated neural network workloads required to build these ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.eejournal.com/industry_news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers/",
+      "webUrl": "https://www.design-reuse.com/news/47727/ceva-dsp-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T15:26:00-07:00",
+      "publishedDateTime": "2020-03-24T05:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electronic Engineering Journal",
-        "domain": "eejournal.com",
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
+      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+      "excerpt": "This iPython notebook explains T2T and runs in your browser using a free VM from Google, no installation needed. Alternatively, here is a one-command version that installs T2T, downloads MNIST, trains a model and evaluates it: pip install tensor2tensor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/tensorflow/tensor2tensor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
-          "width": 512,
-          "height": 512,
-          "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
+          "url": "https://avatars2.githubusercontent.com/u/15658638?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
           "attribution": null
         }
       ],
@@ -1216,44 +1247,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
-      "title": "A look at the TensorFlow ecosystem in 2020",
-      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "jaxenter.com",
-        "domain": "jaxenter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
-          "width": 550,
-          "height": 214,
-          "title": "A look at the TensorFlow ecosystem in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
       ]
     }
   ],

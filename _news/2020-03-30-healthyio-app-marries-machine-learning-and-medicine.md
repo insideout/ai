@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F56f23ac8-671a-11ea-a3c9-1fe6fedcca75?source=google-amp&fit=scale-down&width=500"

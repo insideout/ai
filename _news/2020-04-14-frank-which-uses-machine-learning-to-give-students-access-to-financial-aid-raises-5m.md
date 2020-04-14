@@ -5,8 +5,8 @@ excerpt: "Frank then takes all of that information and uses it to create dataset
 publishedDateTime: 2020-04-14T02:23:00Z
 webUrl: "https://vator.tv/news/2020-04-13-frank-which-uses-machine-learning-to-give-students-access-to-financial-aid-raises-5m"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://vatortv.s3.amazonaws.com/images/videos/main/20477.jpg"

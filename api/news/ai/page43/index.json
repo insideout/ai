@@ -2,6 +2,477 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
+      "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
+      "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://futurism.com/the-byte/pentagon-ai-ethics-dod-warfare",
+      "ampWebUrl": "https://futurism.com/pentagon-ai-ethics-dod-warfare/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/pentagon-ai-ethics-dod-warfare/amp",
+      "publishedDateTime": "2020-02-25T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/02/pentagon-new-ethics-principles-ai-warfare-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
+      "title": "TechChill 2020 Is Hot For Connectivity",
+      "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
+      "publishedDateTime": "2020-02-25T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5580c07a00980007343a02/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "TechChill 2020 Is Hot For Connectivity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-gmail-is-catching-more-malicious-attachments-with-deep-learning.md",
+      "title": "Gmail Is Catching More Malicious Attachments With Deep Learning",
+      "excerpt": "And it's working. At the RSA security conference in San Francisco on Tuesday, Google's security and anti-abuse research lead Elie Bursztein will present findings on how the new deep learning scanner for documents is faring against the 300 billion attachments it has to process each week. It's challenging to tell the difference between legitimate ...",
+      "heat": 204,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/",
+      "ampWebUrl": "https://www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gmail-catching-more-malicious-attachments-deep-learning/amp",
+      "publishedDateTime": "2020-02-25T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e555fe0a4dea100087f9715/master/pass/Security_gmail-816901264.jpg",
+          "width": 2300,
+          "height": 1533,
+          "title": "Gmail Is Catching More Malicious Attachments With Deep Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-an-ai-to-make-practical-decisions-and-to-play-flappy-bird.md",
+      "title": "An AI to make practical decisions and to play Flappy Bird",
+      "excerpt": "The game of Go was famously solved by DeepMind's AlphaZero through a cutting-edge reinforcement learning approach. While Flappy Bird is nowhere near as complex as Go, it's a good starting place for any AI project in reinforcement learning. (Other companies, including IBM, have explored Flappy Bird as a testbed for AI.) The journalist didn't ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/an-ai-to-make-practical-decisions-and-to-play-flappy-bird/",
+      "publishedDateTime": "2020-02-25T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/25/de47ff6a-924b-4b1f-80d3-8478d306daf6/dp3q8848.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": "An AI to make practical decisions and to play Flappy Bird",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-facebook-threw-some-petty-cash-at-misinformation-research.md",
+      "title": "Facebook threw some petty cash at misinformation research",
+      "excerpt": "Any data collected by research teams must comply with Facebook’s (or other companies’) terms and policies ... such as staffing content moderation teams and designing AI to catch it before it spreads. But the company falls short when it comes to helping independent experts assess the issue. It’s not an easy task. Facebook must balance ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1807835/facebook-threw-some-petty-cash-at-misinformation-research/",
+      "ampWebUrl": "https://qz.com/1807835/facebook-threw-some-petty-cash-at-misinformation-research/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1807835/facebook-threw-some-petty-cash-at-misinformation-research/amp/",
+      "publishedDateTime": "2020-02-25T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_19296617736196-e1582599756258.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 869,
+          "title": "Facebook threw some petty cash at misinformation research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-microsoft-ceo-satya-nadella-wants-to-use-diversity-to-remove-bias-in-ai.md",
+      "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
+      "excerpt": "Last time when the India-born CEO visited the country, he talked about the power of Aadhaar ID, India Stack, and connecting more than a billion people through it. This time around apart from numerous mentions of the Azure cloud, AI and inclusivity with technology were at the center.",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/microsoft-nadella-india-2020/amp/",
+      "publishedDateTime": "2020-02-25T11:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2014/10/ms_azure_2014_103-730x409.jpg",
+          "width": 730,
+          "height": 409,
+          "title": "Microsoft CEO Satya Nadella wants to use diversity to remove bias in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.md",
+      "title": "Using machine learning approach to unravel how the brain processes, stores visual information",
+      "excerpt": "Using a machine learning approach, they applied a novel tensor algorithm to decompose faces into a set of components or images called tensorfaces as well as their associated weights, and represented faces by linear combinations of those components. In this way, they build a mathematical model describing the work of the neurons involved in face ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200225/Using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200225/Using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200225/Using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.aspx",
+      "publishedDateTime": "2020-02-25T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Using machine learning approach to unravel how the brain processes, stores visual information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-new-algorithm-for-self-driving-vehicles-has-a-bold-collision-free-guarantee.md",
+      "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
+      "excerpt": "Researchers have developed an algorithm that could stop self-driving vehicles from getting in crashes and traffic jams. The team from Northwestern University (NU) claims their invention is “the first decentralized algorithm with a collision-free, deadlock-free guarantee.” The algorithm divides the ground beneath the machines into a grid.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/this-algorithm-for-self-driving-vehicles-comes-with-collision-free-guarantee/amp/",
+      "publishedDateTime": "2020-02-25T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-33-1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "New algorithm for self-driving vehicles has a bold ‘collision-free guarantee’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ai-the-view-from-a-silicon-valley-icon-a-podcast-with-tom-siebel-ceo-c3.md",
+      "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+      "excerpt": "Tom Siebel is one of the founding fathers of the silicon-valley software industry. So, what he thinks, how he builds for the next revolutions with technology, should be something we all pay attention to.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/02/25/ai-the-view-from-a-silicon-valley-icona-podcast-with-tom-siebel-ceo-c3/amp/",
+      "publishedDateTime": "2020-02-25T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5456577a0098000734243a%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D942%26cropY1%3D0%26cropY2%3D530",
+          "width": 942,
+          "height": 531,
+          "title": "AI, The View From A Silicon Valley Icon - A Podcast With Tom Siebel CEO C3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship.md",
+      "title": "Microsoft to open Azure regions in Spain, expands Telefonica relationship",
+      "excerpt": "In February 2019, Telefonica and Microsoft announced a partnership via which Telefonica would use Azure and Microsoft AI services as a base for its own AI-powered networking technology. The pair said they would be working together to identify AI, blockchain, 5G and edge computing opportunities. Today, the pair said they'd be working together on ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-to-open-azure-regions-in-spain-expands-telefonica-relationship/",
+      "publishedDateTime": "2020-02-25T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-securitiai-named-most-innovative-startup-at-rsa.md",
+      "title": "Securiti.ai named most innovative startup at RSA",
+      "excerpt": "Securiti.ai, a company that uses AI to help companies ... entrepreneurs and security professionals chose a most innovative startup at RSA, a security conference happening this week in San Francisco.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/25/securiti-ai-named-most-innovative-startup-at-rsa/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/25/securiti-ai-named-most-innovative-startup-at-rsa/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/securiti-ai-named-most-innovative-startup-at-rsa/amp/",
+      "publishedDateTime": "2020-02-25T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/securit-rsa.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Securiti.ai named most innovative startup at RSA",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-new-juul-patent-application-hints-at-ai-powered-vape-to-help-users-quit-nicotine.md",
       "title": "New Juul patent application hints at AI-powered vape to help users quit nicotine",
       "excerpt": "Juul has applied for a patent regarding a device, supposedly powered by artificial intelligence, that the company says could help users quit nicotine by restricting daily consumption and gradually weaning them off the product. The e-cigarette company applied for the patent last summer, and the application was recently made public, according to ...",
@@ -825,466 +1296,6 @@
           "width": 796,
           "height": 405,
           "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi.md",
-      "title": "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI",
-      "excerpt": "ANML scales catastrophic forgetting reduction to a deep learning model with 6 million parameters. It also expands upon OML, a model that was introduced by Martha White and Khurram Javed at NeurIPS 2019 and is capable of completing up to 200 tasks without catastrophic forgetting. But Clune said ANML differs from OML because his team realized ...",
-      "heat": 210,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/25/openais-jeff-clune-on-deep-learnings-achilles-heel-and-a-faster-path-to-agi/amp/",
-      "publishedDateTime": "2020-02-25T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/openai-jeff-clune.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "OpenAI’s Jeff Clune on deep learning’s Achilles’ heel and a faster path to AGI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-local-ai-firm-builds-speech-recognition-for-kinyarwanda.md",
-      "title": "Local AI firm builds speech recognition for Kinyarwanda",
-      "excerpt": "Digital Umuganda, a fully Rwandan artificial intelligence (AI) firm, is building an automatic speech and voice recognition infrastructure for Kinyarwanda in partnership with Rwanda Utility and Regulatory Authority (RURA). The technology is part of RURA’s joint initiative dubbed KinyaTech with a non-profit behind Firefox web-browser ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newtimes.co.rw/daily/technology/local-ai-firm-builds-speech-recognition-for-kinyarwanda",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Times",
-        "domain": "newtimes.co.rw",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.newtimes.co.rw/sites/default/files/main/articles/2020/02/20/voice-recog-devices-feature_1200x675_hero_011419_0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Local AI firm builds speech recognition for Kinyarwanda",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles.md",
-      "title": "DoD unveils how it will keep AI in check with ethics principles",
-      "excerpt": "The principles are as follows: Insight by Mapbox: Federal practitioners ... Deasy said. The ethics will also hold people in the AI pipeline accountable. For example, if a developer does not use data that is equitable, then DoD knows where something went ...",
-      "heat": 217,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/",
-      "ampWebUrl": "https://federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/",
-      "cdnAmpWebUrl": "https://federalnewsnetwork-com.cdn.ampproject.org/c/s/federalnewsnetwork.com/defense-main/2020/02/dod-unveils-how-it-will-keep-ai-in-check-with-ethics-principles/amp/",
-      "publishedDateTime": "2020-02-25T04:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "federalnewsnetwork.com",
-        "domain": "federalnewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://federalnewsnetwork.com/wp-content/uploads/2020/02/jackshanahan-DoD-e1582634545624-1024x795.jpg",
-          "width": 1024,
-          "height": 795,
-          "title": "DoD unveils how it will keep AI in check with ethics principles",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
-      "title": "Competing In The Age Of AI Is Simpler Than You Think",
-      "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
-      "publishedDateTime": "2020-02-25T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54c26476f73b0006dfd7ac%2F0x0.jpg",
-          "width": 1200,
-          "height": 729,
-          "title": "Competing In The Age Of AI Is Simpler Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-graphcore-the-ai-chipmaker-raises-another-150m-at-a-195b-valuation.md",
-      "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
-      "excerpt": "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ...",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
-      "publishedDateTime": "2020-02-25T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
-      "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-      "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q",
-      "publishedDateTime": "2020-02-25T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation.md",
-      "title": "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation",
-      "excerpt": "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
-      "publishedDateTime": "2020-02-25T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-artificial-intelligence-finds-compound-that-can-destroy-superbugs.md",
-      "title": "Artificial intelligence finds compound that can destroy superbugs",
-      "excerpt": "This isn’t the first time artificial intelligence has been tapped to process large amounts of information in order to find new arrangements of existing things. For example, the spice company McCormick has used IBM’s AI technology to develop new spice combinations for various meals. The same AI tech has also been used to create entirely new ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/",
-      "ampWebUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
-      "publishedDateTime": "2020-02-24T17:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/bacteria_main_petri_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": "Artificial intelligence finds compound that can destroy superbugs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-artificial-intelligence-hub-planned-for-orange-county.md",
-      "title": "Artificial intelligence hub planned for Orange County",
-      "excerpt": "HIGHLAND FALLS – A local economic development agency has big ambitions to lure researchers and companies to the Village of Highland Falls to study artificial intelligence ... of tasks normally requiring human intelligence, including visual perception, speech recognition and decision-making. Robots, self-driving cars and missile systems ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county",
-      "ampWebUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
-      "cdnAmpWebUrl": "https://www-recordonline-com.cdn.ampproject.org/c/s/www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
-      "publishedDateTime": "2020-02-24T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "recordonline.com",
-        "domain": "recordonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.recordonline.com/apps/pbcsi.dll/bilde?Site=TH&Date=20200224&Category=NEWS&ArtNo=200229625&Ref=AR",
-          "width": 6000,
-          "height": 4000,
-          "title": "Artificial intelligence hub planned for Orange County",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-ai-chatbot-maker-babylon-health-attacks-clinician-in-pr-stunt-after-he-goes-public-with-safety-concerns.md",
-      "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
-      "excerpt": "Babylon’s PR also claims that only in 20 instances did Watkins find “genuine errors in our AI”, whereas other instances are couched as ‘misrepresentations’ or “mistakes”, per an unnamed “panel of senior clinicians” which the startup’s PR says “investigated and re-validated every single one” — suggesting the error rate ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/first-do-no-harm/amp/",
-      "publishedDateTime": "2020-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-01.21.20.png?w=680",
-          "width": 680,
-          "height": 362,
-          "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-deepmind-develops-ai-with-an-imagination.md",
-      "title": "DeepMind Develops AI With An Imagination",
-      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind Develops AI With An Imagination",
           "attribution": null
         }
       ],

@@ -23,6 +23,6 @@ images:
     height: 610
     title: "Latest AI, Machine Learning, Data Extraction and Workflow Optimization Capabilities Added to Blue Prism's Digital Workforce"
 
-secured: "w9NY6TFAFk/xekuCpvHTbOv1D5+9+qPWyD0Riih65yKmCf3KrxOFu71H2XIgPB/90M0IPy01+FoZ2/q/F/VEjKL+CAzp0bX1UXeWWupRPuz30/kg4efvB0rUrNyQ79RCccrMADDBLeE5H/FJxaJGkzEaZ8E3Uyv6KQUxOiCX3wKzpuNtGtFVnzhEnpfqD0pSzmJVS/V2FAq1JtU1VWKjLu6KXYHjEnXQpoxH4P7yJDJuMO9CHqZ8BVgj2DQhGvF41MnknAu9NsBzHOPPq7j8ipMsuEsAvIiL25hLvjqnsQ5DPxOwqurLpO3fhp1Ursbs;sLynDpDFtrQ+V/VkGRU0fw=="
+secured: "deH0qv0NVjrfpG58PfohfI00Hac6DUlDvVZiC6/XpHE1DHI+Z/EPy/8DYoAKmv7StGbLL1nmHCXnpG/Zv7XEui6B33cA3QrHZQ18CDwKQ/9ErfBgzRoxEr2MhAQ/gR7LrieCEgLF9PaSXeND2UJ6KLjuf5zy4YY/ZH7eDyjj1Sz9/vwwzDqBYlGH0cFIhJzsLX2xH/5ZpGnCEQwwrT4eLMikXENv17Z12eJwH/YmnPpnRy0BbmNLgEz4SLfZcax+1W9q+PUS+IB+YOmBNH/QRj6EXDIcs7EiF1JcqKZazRXgQBYMyMX/ehOOruIdygdFN/O++VOGQApvpzrR2eYAs27JRiXVAPc74nBtiBFhdiiuWleckMYIycZq6BWGS7Khj9jIOmnom7T3/KUC0euBb+X5t9BN+426AboahfzhuO4KelzhJ1+MrGCyWdnXuf0BTSKf8wmUXikUDdrsk9VH/B1Ec9aXAQMthrxPGpAn5Rw=;bHvlLA+NekcQm8Dei4IcZg=="
 ---
 

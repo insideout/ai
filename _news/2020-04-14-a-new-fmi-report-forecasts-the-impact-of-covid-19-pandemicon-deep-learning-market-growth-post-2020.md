@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T10:35:00Z
 webUrl: "https://www.marketwatch.com/press-release/a-new-fmi-report-forecasts-the-impact-of-covid-19-pandemicon-deep-learning-market-growth-post-2020-2020-04-14"
 type: article
 quality: 55
-heat: -1
+heat: 55
 published: false
 
 provider:
@@ -26,34 +26,6 @@ images:
     width: 1200
     height: 630
     title: "A New FMI Report Forecasts the Impact of COVID-19 Pandemicon Deep Learning Market Growth Post 2020"
-
-related:
-  - title: "Artificial Intelligence in Healthcare Market Size Report 2020: Drivers and Opportunities by Region and Forecast"
-    excerpt: "Artificial Intelligence in Healthcare Market” 2020 research report provides actionable insights to enhance business"
-    publishedDateTime: 2020-04-14T10:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2020-drivers-and-opportunities-by-region-and-forecast-2020-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Edge AI Hardware Market 2020 Advancement and Precise Outlook- Intel, NVIDIA, Samsung, Huawei, Google, MediaTek"
-    excerpt: "Global Edge AI Hardware Market Report available at MarketInsightsReports gives an overview of the Edge AI Hardware industry"
-    publishedDateTime: 2020-04-14T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-2020-advancement-and-precise-outlook--intel-nvidia-samsung-huawei-google-mediatek-2020-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "cr+seaU/0ReGyztRLBO8KPbbloRgNFWKkarREO+I36DU81msB0Kj7qzkmh3VHEpTD2V8WW6IyZQpp6UM2L6CFv6xP+ztoX6HpDFm3paFqsDAfuTlT6W1LLko2t2JNCKUrHweucbI2dK2WppMBSCxdgJDDAGfcHZkXa2jS31kyle4xPFktKVWPH2q089/t4vW/bXuK1sZSaUyBoX+RfJfHdO2hM2B5rHriV/9sKvCOJRdO1sM8VG0fVGPNP7M0QHHU9S0EmNEwzL/WWlQORdlq3lGpxnJqtYjrehhU2FTKgKwCh0nIthWTmKW8ZDTKGOn;ogDa1OFqYMyskHO6YbIHGw=="
 ---

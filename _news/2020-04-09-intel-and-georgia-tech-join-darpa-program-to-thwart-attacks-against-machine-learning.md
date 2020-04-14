@@ -17,6 +17,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Autos
+  - Computer Vision
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/adversarial-image-tech-example.jpg"

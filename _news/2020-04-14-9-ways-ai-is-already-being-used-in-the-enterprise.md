@@ -7,8 +7,8 @@ webUrl: "https://www.cmswire.com/digital-workplace/9-ways-ai-is-already-being-us
 ampWebUrl: "https://www.cmswire.com/digital-workplace/9-ways-ai-is-already-being-used-in-the-enterprise/amp/"
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-workplace/9-ways-ai-is-already-being-used-in-the-enterprise/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.cmswire.com/-/media/a82c85e172d841388130ffd771c9875c.ashx?mw=1024"
@@ -24,6 +25,6 @@ images:
     height: 480
     title: "9 Ways AI Is Already Being Used in the Enterprise"
 
-secured: "65Hwz/pmJR7Ume3jBq9j1s+qMeEwUq4lN/frYW5rW6BZ5JLqzT4Lvb93STA8YwT3RfKlKQ1Cr1WKRvDotHymKyw8hb8LM6hVI7i5MF8ZcW2v8P6/Bk0oOjqxb4W80uJHZ0NtJ/bGAT3/1Pekcv3enc7hcD3f/3wyNZywRdAurf0NgobYTFmLLVUrnZMZw/ic0m+TmtDL/KwUIgd8L89rMSLa3lTo3joB6V2WiQD8rxWLNhqz7HMY5svtWl3b1x9i9VcjJ1PBdvJ02sFTMcz+5gF0nu/QdxYj4JTcabtKqviM5DpfwIpGgoUF8KGKO0u9;VM7VX4y74pKzjYSf3bA93g=="
+secured: "OvMxd50DQylwZJ7F5bnL1/y21bau+WceY+Ovz5KW9Wjxiqu8/Z+E9y+sNq9+N/WDErB0XtrloMjIqzqrzjWiP7XC9uVPS7Ps5F08nYIbBs8E72Ck1H9liWNRPjQNdoDpxwSXDot85r61SF7rVL+Nk8CAQ1uSEfcjSk72VE4j2RMa1Zkdot9fReFToEVXCZVCzlJOEzSP3lJKJJ39Ta5VnTbljtI6ygZ+5lSuYgTzDFHe4lkL7K/5OZhD7VKrEaJ/ouPc7e0htMHbrRlUEZq78tSp1L2lfc4mGWRgBYWI8+7k7MaBSGOmqZGwUjL5tY6b3vC5Zwk5KEQbAU7Be7ZmWDP8g+p/4abadlBK5ozidXR1wbUeRo+7FiaGFehD/O2XfTbbfwG9RQ2BVWgdFmfFeVtXjedOgzUuk+rwyKe4ZbU0NZh92ySVLyvEtdDMtfPRdfga8o8bPL+0FZjLFOO2s5vTERPXKzGvaJdFGm35a0Q=;x8/PKQmPNYon6W/l0NyYcw=="
 ---
 

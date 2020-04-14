@@ -2,6 +2,415 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-03-25-how-to-run-tensorflowjs-on-a-serverless-platform-reusing-models.md",
+      "title": "How to run Tensorflow.js on a serverless platform : reusing models",
+      "excerpt": "In a previous article, we introduced neural networks and TensorFlow framework basics. Today, we present how to convert models developed with Python TensorFlow for use with TensorFlow.js ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/warpjs/how-to-run-tensorflow-js-on-a-serverless-platform-cbdfe9e733b7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-the-ai-paradox-four-benefits-we-didnt-see-coming.md",
+      "title": "The AI Paradox: Four Benefits We Didn't See Coming",
+      "excerpt": "Research firm IDC predicts the total spent on AI systems could reach almost $98 billion three years from now — more than 2.5 times the estimated $37.5 billion spent in 2019. While some business leaders have gone all-in and quickly embraced AI,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/the-ai-paradox-four-benefits-we-didnt-see-coming/amp/",
+      "publishedDateTime": "2020-03-25T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-20-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The AI Paradox: Four Benefits We Didn't See Coming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu.md",
+      "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+      "excerpt": "Writing in the company bog, Vole says NVIDIA T4 Tensor Core GPU is used by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. In the blog Vole states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fudzilla.com/news/50538-microsoft-expands-azure-stack-edge-with-nvidia-t4-tensor-core-gpu",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/1957140400ab3edd0bca8c79f8bc7bc5_L.jpg",
+          "width": 620,
+          "height": 431,
+          "title": "Microsoft expands Azure Stack Edge with NVIDIA T4 Tensor Core GPU",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-cars-will-transform-before-ai-drives-them.md",
+      "title": "Cars Will Transform Before AI Drives Them",
+      "excerpt": "With new vehicle architectures becoming a reality, we are starting to see new places in the car better suited for specific tasks such as running apps, dealing with sensor data or processing over-the-air updates.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/cars-will-transform-before-ai-drives-them/amp/",
+      "publishedDateTime": "2020-03-25T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-19-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Cars Will Transform Before AI Drives Them",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference.md",
+      "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+      "excerpt": "In recent years, however, major improvements to artificial intelligence (AI), machine learning and deep learning capabilities have given rise to impressive new tools capable of analyzing video with minimal input from security personnel. As companies look to invest in these new technologies, it’s important to establish a baseline understanding ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/25/artificial-intelligence-machine-learning-and-deep-learning-whats-the-difference/amp/",
+      "publishedDateTime": "2020-03-25T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-17-1.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-how-autism-researchers-are-applying-machine-learning-techniques.md",
+      "title": "How autism researchers are applying machine-learning techniques",
+      "excerpt": "From identifying a new antibiotic to generating the first-ever image of a black hole, machine learning is changing how scientists approach questions in many fields. Autism researchers are being equally creative, using machine-learning methods to improve ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.spectrumnews.org/news/how-autism-researchers-are-applying-machine-learning-techniques/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spectrum",
+        "domain": "spectrumnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/03/23142010/20200325-MachineLearnV2-8441.jpg",
+          "width": 844,
+          "height": 570,
+          "title": "How autism researchers are applying machine-learning techniques",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
+      "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
+      "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/",
+      "ampWebUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
+      "publishedDateTime": "2020-03-25T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/031820c.jpg",
+          "width": 768,
+          "height": 489,
+          "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
+      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
+      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
+      "publishedDateTime": "2020-03-25T03:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-research-report-on-global-neural-network-software-industry-2020-2025.md",
+      "title": "Research Report on Global Neural Network Software Industry 2020-2025",
+      "excerpt": "Market Overview. The Neural Network Software Market was valued at USD 8.30 billion in 2019 and is expected to reach USD 50.66 bil",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/research-report-on-global-neural-network-software-industry-2020-2025-2020-03-25",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Research Report on Global Neural Network Software Industry 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-covid-19-means-not-worrying-about-enterprise-ai-taking-jobs-for-now.md",
+      "title": "COVID-19 Means Not Worrying About Enterprise AI Taking Jobs — for Now",
+      "excerpt": "Talk about artificial intelligence has been about robots taking over jobs — until the last few weeks ... We need to understand and invest in the prerequisites that form the foundation of valuable AI. Once done we will start listening to and understanding risk models better – preparing rather than locking away and hoping for the best.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://morningconsult.com/opinions/covid-19-means-not-worrying-about-enterprise-ai-taking-jobs-for-now/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-25T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morning Consult",
+        "domain": "morningconsult.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://morningconsult.com/wp-content/uploads/2017/10/MorningConsult-fb-twitter-meta.png",
+          "width": 1200,
+          "height": 600,
+          "title": "COVID-19 Means Not Worrying About Enterprise AI Taking Jobs — for Now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
       "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
       "excerpt": "today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help launch a new era in cancer treatment for patients in the region.  Ethos™ therapy provides the ability to personalize the patient's radiation treatments based on their anatomy and the tumor's shape and position on a daily basis at the time of treatment.",
@@ -443,43 +852,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
-      "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
-      "excerpt": "WhisPro speech recognition software for voice wake words and custom command models now available with open source TensorFlow Lite for Microcontrollers implementing machine learning at the edge TensorFlow Lite for Microcontrollers from Google is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eejournal.com/industry_news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Engineering Journal",
-        "domain": "eejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png",
-          "width": 512,
-          "height": 512,
-          "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-24-customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live.md",
       "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
       "excerpt": "At the core of these activities is to have a holistic, evolving view of the customer over time. Data analytics and AI are at the core of future solutions. This means moving from communication to conversation by capturing both implicit and explicit data, and creating a “living” customer profile that changes as the customer goals and ...",
@@ -640,376 +1012,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
-      "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
-      "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/24/nvidia-leads-in-self-driving-car-technology-report.aspx",
-      "publishedDateTime": "2020-03-24T11:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F564943%2Fnvidia-self-driving-car.png&w=1200&op=resize",
-          "width": 1200,
-          "height": 631,
-          "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
-      "title": "How 5G is enhancing business productivity",
-      "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/how-5g-is-enhancing-business-productivity/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "publishedDateTime": "2020-03-24T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/24/b89d0c18-f127-4489-a85e-3b812da03063/native-1333x750-3.jpg",
-          "width": 1333,
-          "height": 750,
-          "title": "How 5G is enhancing business productivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-ai-events-and-conferences-moving-online.md",
-      "title": "AI Events And Conferences Moving Online",
-      "excerpt": "It simply is not life-as-usual for event and training organizers who need to satisfy the still-strong hunger for information, connection, education, marketing, and networking that customers, technology providers,",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/24/ai-events-and-conferences-moving-online/amp/",
-      "publishedDateTime": "2020-03-24T10:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a48ae10380d0006fbfb0a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Events And Conferences Moving Online",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-researchers-propose-paradigm-that-trains-ai-agents-through-evolution.md",
-      "title": "Researchers propose paradigm that trains AI agents through evolution",
-      "excerpt": "A paper published by researchers at Carnegie Mellon University, San Francisco research firm OpenAI, Facebook AI Research, and the University of California, Berkeley, and Shanghai Jiao Tong University describes a paradigm that scales up multi-agent reinforcement learning, where AI models learn by having agents interact within an environment such ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-propose-paradigm-that-trains-ai-agents-through-evolution/amp/",
-      "publishedDateTime": "2020-03-24T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter-e1585070939495.jpg?fit=1200%2C602&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": "Researchers propose paradigm that trains AI agents through evolution",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-artificial-intelligence-in-healthcare-why-transparency-matters.md",
-      "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-      "excerpt": "The growing presence of artificial intelligence during the care delivery process continues to show potential ... algorithms and machine learning to accurately detect cancer and heart disease; and robot-assisted therapy for recovering stroke patients. “We’re getting to a point where machines can start telling us things we don’t know ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "publishedDateTime": "2020-03-24T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202003/20200324_HT_Web_HIMSS-AI-panel_0.jpg?itok=NPF-w-tz",
-          "width": 1440,
-          "height": 500,
-          "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-researchers-use-ai-to-find-link-between-nature-and-happiness.md",
-      "title": "Researchers use AI to find link between nature and happiness",
-      "excerpt": "A cross-disciplinary group of researchers used AI as part of an analysis of photos posted online that recognizes an association between happiness, life satisfaction, and nature. Researchers from universities in Australia and Singapore say the analysis demonstrates the biophilia hypothesis that humans are naturally attracted to nature and people ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/researchers-use-ai-to-find-link-between-nature-and-happiness/amp/",
-      "publishedDateTime": "2020-03-24T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/emma-simpson-mNGaaLeWEp0-unsplash.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Researchers use AI to find link between nature and happiness",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1000000-shares-of-company-stock.md",
-      "title": "AVRA Medical Robotics (OTC: AVMR) CEO Barry Cohen Acquires 1,000,000 Shares of Company Stock",
-      "excerpt": "ORLANDO, Fla., March 24, 2020 (GLOBE NEWSWIRE) -- AVRA Medical Robotics, Inc. (the \"Company\") (OTCQB:AVMR), an artificial intelligence company building a fully autonomous...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15653266/avra-medical-robotics-otc-avmr-ceo-barry-cohen-acquires-1-000-000-shares-of-company-stock",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15653266",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15653266",
-      "publishedDateTime": "2020-03-24T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
-      "title": "How personalization and machine learning can improve cancer outreach ROI",
-      "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ama-hpa032420.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/images/EurekAlert_StackedLogo_RGB.jpg",
-          "width": 900,
-          "height": 300,
-          "title": "How personalization and machine learning can improve cancer outreach ROI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-satellite-images-and-artificial-intelligence-used-in-search-for-vietnam-war-era-unexploded-bombs.md",
-      "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
-      "excerpt": "Researchers at Ohio State University have harnessed satellite images and sophisticated artificial intelligence technology to search for unexploded bombs from the Vietnam War.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs",
-      "ampWebUrl": "https://www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/satellite-images-artificial-intelligence-search-unexploded-bombs.amp",
-      "publishedDateTime": "2020-03-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/CambodiaBombingGetty1970.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": "Satellite images and artificial intelligence used in search for Vietnam War-era unexploded bombs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

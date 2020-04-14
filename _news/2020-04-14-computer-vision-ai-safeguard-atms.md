@@ -2,31 +2,21 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:47:00Z
-webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:24:00Z
+webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 84
-heat: 84
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
-    width: 300
-    height: 300
-    title: "Computer Vision & AI Safeguard ATMs"
-
-secured: "yPC3QVmwRqJojygwfzgafcY1MdSgeeAIFvdwnSpJJ+qUPBrFMSZEveJyMuBuIGCAmii93pOWCI27uqkOD0shsmzHTPvZOQkvsZ7MIcU/iW6BEIUqG33sip83pIFk34LAewhJVCErSvJCRoP6A/UmM/YF6mkx4qROpHJ4Tzkg2uxqB+tWDOVkWlwuKdXiIoAkqc3pTllIP5/SvgfTLvvRqz8N/fZzr1E3msZMn2HJBViZ7DO7bY0AUjKmP83BOYuaF/cAPdH2wgFtWJzSw2Vt0dNBkPMGAsI91QZ1lLIZoVDYaiyuAJeXkdVYdbQLAEm3;2HPObTUaFr8W+3ggDn4yPw=="
+secured: "nwfAeVl6I7QCOKn9/Pl0GAO3FpkfoDmrS+XBRxJktmqol1+eQnkCLRehOXKJoVNpQZuB2hYbHtNObA6JN/gStm/S9lVu4+dMs2R7jxMc5vfE7wWbhUSDAQZCK8JPBWIswmyZHvkyAy+amBj6iHCQVEd8k1yv4l8J0uxkA4irRf0iuvcql/h8/wC1PjHsFNH960wVFD/NbsqZ6FrbvBsmmJtwQsiY+Tzvwu7LV3nEnZ29N1DVjOKsvxdxH3lUmvZPtmUNFQjMFfTdOwpB65Umy0tbYV/kpZ2tITqiDAILNMYRrhNkyhQO0TaB22dyxed42hibNTPzyIpYr0D+mDzpcz90HJtM+oimUh9qRAU/EGOtZUdHo8AVa2POJFgO22DokUKvqGGYAscwTONV6yYMRumWC9RdiQodr/dmnpnKAP8q5dvowwMuYes1ltXw+Bc5jMoMxF28kuSpoFa6eZ9gqiohdsOzezvdqEcG4kKlkas=;4du28GobjLtNXM1HTR2+Gg=="
 ---
 

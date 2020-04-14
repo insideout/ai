@@ -1,33 +1,21 @@
 ---
 category: news
-title: "Robots Welcome to Take Over, as Pandemic Accelerates Automation"
-excerpt: "Broad unease about losing jobs to machines could dissipate as people focus on the benefits of minimizing close human contact."
-publishedDateTime: 2020-04-11T07:06:00Z
-webUrl: "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.html"
-ampWebUrl: "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html"
+title: "Robots welcome to take over, as pandemic accelerates automation"
+excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
+publishedDateTime: 2020-04-11T17:14:00Z
+webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
 type: article
-quality: 89
-heat: 109
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://static01.nyt.com/images/2020/04/11/business/10virus-automation2-print/10virus-automation-1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
-    title: "Robots Welcome to Take Over, as Pandemic Accelerates Automation"
 
 related:
   - title: "Robots welcome to take over, as coronavirus pandemic accelerates automation"
@@ -45,6 +33,19 @@ related:
       - url: "https://static.seattletimes.com/wp-content/uploads/2020/04/04102020_Virus-Automation_114500-300x225.jpg"
         width: 300
         height: 225
+  - title: "Robots may become heroes in war on coronavirus"
+    excerpt: "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the U.S. Consumer Technology Association. \"We are in a time of need for some of this technology, so it seems like benefits outweigh costs,\" Rohrbaugh said. Artificial intelligence, sensors and other capabilities ..."
+    publishedDateTime: 2020-04-12T21:41:00Z
+    webUrl: "https://japantoday.com/category/tech/robots-may-become-heroes-in-war-on-coronavirus"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 39
+    images:
+      - url: "https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/20728766_1544633632269161_1607214437966247907_o-700x466.jpg"
+        width: 700
+        height: 466
   - title: "Robots welcome to take over, as pandemic accelerates automation"
     excerpt: "Let robots do the job. Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material,"
     publishedDateTime: 2020-04-12T19:07:00Z
@@ -59,6 +60,6 @@ related:
         width: 1200
         height: 630
 
-secured: "X94Hexjl/uwI4BHX5DppB8qSe9RGh/0b/98yeC+YR91smLu32ngjSLj33/8EUI/v8FmokzneM/S/kPgKVGMMNUGCuiICYQpmlEDuzwg8ACrPTCIlEEPvU/dIc7Tc81SyfbrV9Phzah94E+ecO9krkBFLAMESIS6jMNO680RId02pK6HsfXoJX/4yeZ5pX0b1wMrN6uNOjnJnPDkuQBrGLM46sO2mRujTPAxLgB+Ym7ym3O6wPKr7TZnpcGWEo4EozilgsuY4Uri1/c0t4so8dvNu962Zvyte3HdH+qIbuyc8YtdZcTrSdCJVfdzIfx0z;+nCL9bnAIEbhRdX61OipOw=="
+secured: "TKa5JLJzo2BDYEpdeXHcieGvYUGP8li3e3XqwhXWTRbYcCzJtC1cycYrBo7T3+zH2jpt9Nq/vBjq4T8M6c+ixDPbCxuj6H/+A8zboEnOlDpzoV8MQ0DoDE/+cXlGH0+PAtTN4g9fHH5LnTxaiK3MY6VwjrB2vRG6j1S+PM2mQx6gGYgBOhZSfOKLhk3e5+QF5hFyeVAxNBcK+k/Sb9S0Zd3dgKVI+yfvZaslxRfzYzBqj16+PSyqkAs8Jdz3Eaas75HTtF6BNvR6GLMonp5jaO52gVvVzJHAlBvUOx4YNg0TU1lQFuWqM3+WVyOrDVjyHBNnbGEDZrIsJmJrKSo+fpYMjRxstDqSJWPb6zIZIgk8BVwocOVQTe3Wl3+o2kvchBWRWkZ8n3MxdRpV0FQBnUuak42odDyFKk2JMQd46ttC57aL8vOsDmo/iHJO7MQ7/wylfJWijY6eOmEdyF6BNOTQ2eWxBJmOIv1dUiMaleo=;QOCVi/59e/OHLhDAEjIsxQ=="
 ---
 

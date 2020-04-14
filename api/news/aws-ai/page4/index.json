@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-07-amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations.md",
+      "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
+      "excerpt": "Amazon Personalize is a machine learning service which enables you to personalize your website, app, ads, emails, and more, with custom machine learning models which can be created in Amazon Personalize, with no prior machine learning experience. AWS is pleased to announce that Amazon Personalize now",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-personalize-can-now-use-10x-more-item-attributes-to-improve-relevance-of-recommendations/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-07T12:39:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "Amazon Personalize can now use 10X more item attributes to improve relevance of recommendations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
       "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
       "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
@@ -1235,43 +1280,6 @@
         "AI",
         "AWS AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-08-ambarella-collaborates-with-aws-and-enables-ai-on-connected-cameras-using-amazon-sagemaker-neo.md",
-      "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
-      "excerpt": "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html?ref=nav",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/ambarella-collaborates-aws-enables-ai-connected-co-12953-ga-co-1537871022-ga-npr.1578467051.html",
-      "publishedDateTime": "2020-01-08T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/uk-counter-unmanned-aircraft-strategy-to-tackle-malicious-drones-use-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

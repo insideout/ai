@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-14T10:33:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2020-drivers-and-opportunities-by-region-and-forecast-2020-04-14"
 type: article
 quality: 64
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -28,28 +28,15 @@ images:
     title: "Artificial Intelligence in Healthcare Market Size Report 2020: Drivers and Opportunities by Region and Forecast"
 
 related:
-  - title: "A New FMI Report Forecasts the Impact of COVID-19 Pandemicon Deep Learning Market Growth Post 2020"
-    excerpt: "VALLEY COTTAGE, N.Y. - Deep learning is evolving as one of the most advanced technologies in enterprise computing. Organizations are using deep learning neural networks to obtain valuable insights from vast amounts of data to offer innovative products and improved customer experience and thereby increasing revenue opportunities for the deep learning market."
-    publishedDateTime: 2020-04-14T10:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/a-new-fmi-report-forecasts-the-impact-of-covid-19-pandemicon-deep-learning-market-growth-post-2020-2020-04-14"
+  - title: "Artificial Intelligence Market Size is anticipated to reach USD 54 billion by 2026"
+    excerpt: "Market Study Report Provides A Detailed Overview Of Artificial Intelligence Market With Respect To The Pivotal Drivers"
+    publishedDateTime: 2020-04-14T16:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-anticipated-to-reach-usd-54-billion-by-2026-2020-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Edge AI Hardware Market 2020 Advancement and Precise Outlook- Intel, NVIDIA, Samsung, Huawei, Google, MediaTek"
-    excerpt: "Global Edge AI Hardware Market Report available at MarketInsightsReports gives an overview of the Edge AI Hardware industry"
-    publishedDateTime: 2020-04-14T08:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-2020-advancement-and-precise-outlook--intel-nvidia-samsung-huawei-google-mediatek-2020-04-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

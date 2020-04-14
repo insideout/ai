@@ -2,6 +2,416 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-03-30-nobleai-completes-contributions-to-tensorflow-googles-open-source-framework-for-deep-learning.md",
+      "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+      "excerpt": "Noble.AI, whose artificial intelligence (AI) software is purpose-built for engineers, scientists, and researchers and enables them to innovate and make discoveries faster, announced that it had completed contributions to TensorFlow, the world’s most popular open-source framework for deep learning created by Google. “Part of Noble’s ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.helpnetsecurity.com/2020/03/30/noble-ai-tensorflow/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/03/12085321/insecure-rsac2020.jpg",
+          "width": 304,
+          "height": 430,
+          "title": "Noble.AI completes contributions to TensorFlow, Google’s open-source framework for deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
+      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
+      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
+      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
+      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
+      "publishedDateTime": "2020-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS SF BayArea",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal.md",
+      "title": "NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal",
+      "excerpt": "DLSS 2.0 improves upon the original release in just about every way. Game developers are still required to implement the technology into their games, but they no longer have to provide game-specific assets to NVIDIA to train the AI model.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/03/29/nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal/",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/03/29/nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/03/29/nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal/amp/",
+      "publishedDateTime": "2020-03-29T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e812c2f281468000685f50e%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": "NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-inside-chinas-controversial-mission-to-reinvent-the-internet.md",
+      "title": "Inside China's controversial mission to reinvent the internet",
+      "excerpt": "Instead, it was peppered with images of futuristic technologies, from life-size holograms to self-driving cars ... by private tech companies such as Baidu and Tencent. Although anyone anywhere ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12320843",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/dgtR0oUjatxTffZfyPUq5qILMQg=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/LBCNRHA7AJCWZH6JR4HECUXRYI.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": "Inside China's controversial mission to reinvent the internet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-microsoft-divests-from-israeli-facial-recognition-firm-anyvision.md",
+      "title": "Microsoft divests from Israeli facial recognition firm AnyVision",
+      "excerpt": "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828",
+      "ampWebUrl": "https://m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/Jpost-Tech/Microsoft-divests-from-Israeli-facial-recognition-firm-AnyVision-622828/amp",
+      "publishedDateTime": "2020-03-29T08:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/435470",
+          "width": 640,
+          "height": 428,
+          "title": "Microsoft divests from Israeli facial recognition firm AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
+      "title": "Can AI Detect Your Emotion Just By How You Walk?",
+      "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/29/can-ai-detect-your-emotion-just-by-how-you-walk/amp/",
+      "publishedDateTime": "2020-03-28T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e80219108eb080006521acc%2F0x0.jpg",
+          "width": 823,
+          "height": 970,
+          "title": "Can AI Detect Your Emotion Just By How You Walk?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now.md",
+      "title": "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now",
+      "excerpt": "After last week’s rally in the S&P 500 (+10.28% for the week), we decided to ask our AI models to find us the best value stocks to buy from the Russell 1000. Given the 24.5% drop in the S&P 500 since late February when the contagion effect from the Coronavirus Epidemic hit US markets,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2020/03/28/ai-models-say-these-stocks-are-best-value-stocks-to-buy-right-now/amp/",
+      "publishedDateTime": "2020-03-28T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F478782611%2F0x0.jpg",
+          "width": 1200,
+          "height": 535,
+          "title": "AI Models Say These Stocks Are Best Value Stocks To Buy Right Now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-12-thought-provoking-quotes-about-artificial-intelligence.md",
+      "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
+      "excerpt": "The hope is that these quotes will help illuminate the scope of the field, the contours of the challenges ahead, and the enormity of the stakes.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/28/12-thought-provoking-quotes-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-03-28T12:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F520714001%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3568%26cropY1%3D746%26cropY2%3D2753",
+          "width": 1199,
+          "height": 675,
+          "title": "12 Thought-Provoking Quotes About Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-microsoft-pulls-out-of-facial-recognition-startup-anyvision.md",
+      "title": "Microsoft pulls out of facial recognition startup AnyVision",
+      "excerpt": "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "publishedDateTime": "2020-03-28T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft pulls out of facial recognition startup AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft pulls its smaller investments in facial recognition tech",
+      "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-28-microsoft-pulls-investments-in-facial-recognition-tech.html",
+      "publishedDateTime": "2020-03-28T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3284%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1051%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F487fc450-42b8-11ea-bff7-2fdd18a0f0cb%26client%3Da1acac3e1b3290917d92%26signature%3Dfaec14d4515e53e19f6fca5b960ecd8f737f9e93&client=amp-blogside-v2&signature=511c234b5a541eb708d524aac9b9cc6c057f6a21",
+          "width": 600,
+          "height": 350,
+          "title": "Microsoft pulls its smaller investments in facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-ai-artificial-intelligence-companies-that-are-combating-the-covid-19-pandemic.md",
       "title": "AI (Artificial Intelligence) Companies That Are Combating The COVID-19 Pandemic",
       "excerpt": "AI (Artificial Intelligence) has a long history ... Keep in mind that–in China–about 29% of COVID-19 deaths were healthcare workers. Another promising innovation to help patients is from Vital. The founders are Aaron Patzer, who is the creator of Mint.com, and Justin Schrager, an ER doc. Their company uses AI and NLP (Natural Language ...",
@@ -868,433 +1278,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-this-machine-learning-algorithm-detects-naruto-hand-signs.md",
-      "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-      "excerpt": "According to the project video, the idea came from wanting to learn more about machine learning, but not being able to decide on a worthwhile project to practice with. \"Of course I didn't want it to be analytical or statistics related... math is pretty boring to watch,\" they said in the video. They go on to explain that they used a single ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "ampWebUrl": "https://www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/xgq3d3/this-machine-learning-algorithm-detects-naruto-hand-signs",
-      "publishedDateTime": "2020-03-27T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e7e3acba8ba7400986d603c/lede/1585331090901-Screen-Shot-2020-03-27-at-14346-PM.png?crop=0.9446xw:0.9986xh;0.0247xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "This Machine Learning Algorithm Detects Naruto Hand Signs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden.md",
-      "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-      "excerpt": "A University of California, Berkeley robotics lab is developing AI systems for polyculture gardening as part of AlphaGarden ... and we’re basically trying to monitor the state of the garden every single day so that we can see how it evolves, and then start to understand what the effect of actions are,” Goldberg said. AlphaGarden also ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "publishedDateTime": "2020-03-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/alphagarden.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage.md",
-      "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-      "excerpt": "SaaS is helping manufacturers and trucking companies save money and boost efficiencies by making the supply chain easier to manage and more transparent. Until recently, company executives have chalked up the cost and headaches of managing the supply chain as an unavoidable cost of doing business. Walmart started to change this trend several ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "publishedDateTime": "2020-03-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/10/14d74bfd-5f87-4518-82bc-b0ace8aa23cf/thumbnail/1200x675/3286603a2fa4dfecf28b20f2988dfc29/20200110-ibm-jason-teena.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-study-finds-racial-bias-in-voice-recognition-software-used-by-largest-tech-companies.md",
-      "title": "Study Finds Racial Bias in Voice Recognition Software Used by Largest Tech Companies",
-      "excerpt": "The study focused on Amazon, Apple, Google, IBM, and Microsoft to see how accurate their voice-recognition systems are at transcribing black voices in comparison to white voices and found that the error rates for white voices were much lower. The researchers gave the voice-recognition systems almost 20 hours of interviews to transcribe from 42 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719",
-      "ampWebUrl": "https://www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719/amp",
-      "cdnAmpWebUrl": "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/study-finds-racial-bias-in-voice-recognition-software-u-1842513719/amp",
-      "publishedDateTime": "2020-03-27T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Root",
-        "domain": "theroot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/nddpo6tfmmd3fniqv9ip.jpg",
-          "width": 800,
-          "height": 517,
-          "title": "Study Finds Racial Bias in Voice Recognition Software Used by Largest Tech Companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-google-releases-semantic-reactor-for-natural-language-understanding-experimentation.md",
-      "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-      "excerpt": "an extension of its Cloud AutoML machine learning platform to the natural language processing domain. It launched publicly last December, and it supports for tasks like classification, sentiment analysis, and entity extraction, as well as a range of file formats including native and scanned PDFs.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/google-releases-semantic-reactor-for-natural-language-understanding-experimentation/amp/",
-      "publishedDateTime": "2020-03-27T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases Semantic Reactor for natural language understanding experimentation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025.md",
-      "title": "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025",
-      "excerpt": "Kenneth Research has published a detailed report on Artificial Intelligence In Fashion Retail Market which has",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fashion-retail-market-global-industry-trends-share-size-and-forecast-report-by-2025-2020-03-24?mod=mw_quote_news&tesla=y",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Fashion Retail Market Global Industry Trends, Share, Size and Forecast Report By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-theres-a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do.md",
-      "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
-      "excerpt": "There was a bit of extra excitement in the San Francisco Bay Area traffic last year when a baby sea lion decided it was time to checkout rush hour activities and so wandered or waddled onto the hectic and perilous Highway 101 (a similar occurrence happened a few years ago in northward Mendocino County).",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
-      "publishedDateTime": "2020-03-27T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fe341b8d42ae9446faa5a1f4a0bce99aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 762,
-          "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-transperfect-uses-ai-to-enhance-translation-services.md",
-      "title": "TransPerfect uses AI to enhance translation services",
-      "excerpt": "The service introduces intelligent translation quality alerts powered via AI, which route translation to expert human language review when cadence, flow, and terminological equivalencies approach standard deviation limits of target language representation. These new capabilities supplement and advance the company’s existing ISO-certified ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.kmworld.com/Articles/News/News/TransPerfect-uses-AI-to-enhance-translation-services-139974.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": "TransPerfect uses AI to enhance translation services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cobourg-company-working-on-robotics-for-front-line-coronavirus-response.md",
-      "title": "Cobourg company working on robotics for front-line coronavirus response",
-      "excerpt": "The company’s robotics solutions for front-line medical professional would include a self-driving indoor delivery robot and artificial intelligence sterilization robots for indoor and ... “If there is an order coming in, we can kick-start the process, set up a temporary assembly and testing facility in Cobourg and have the device deployed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.flamboroughreview.com/news-story/9915875-cobourg-company-working-on-robotics-for-front-line-coronavirus-response/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-27T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "flamboroughreview.com",
-        "domain": "flamboroughreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dynamicmedia.zuza.com/zz/m/original_/2/e/2e61fc69-2202-4b4f-83df-25d12551250f/CB_Z_RoboticsCOVID___Super_Portrait.jpg",
-          "width": 563,
-          "height": 417,
-          "title": "Cobourg company working on robotics for front-line coronavirus response",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-return-on-artificial-intelligence-the-challenge-and-the-opportunity.md",
-      "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
-      "excerpt": "Companies need more returns on their artificial intelligence initiatives. There are several ways to achieve it.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/03/27/return-on-artificial-intelligence-the-challenge-and-the-opportunity/amp/",
-      "publishedDateTime": "2020-03-27T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e04e4adc0d70006ccbd3a%2F0x0.jpg",
-          "width": 980,
-          "height": 980,
-          "title": "Return On Artificial Intelligence: The Challenge And The Opportunity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

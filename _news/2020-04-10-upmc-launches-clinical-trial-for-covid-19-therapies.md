@@ -26,21 +26,6 @@ images:
     title: "UPMC launches clinical trial for COVID-19 therapies"
 
 related:
-  - title: "UPMC launches clinical trial for COVID-19 therapies"
-    excerpt: "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is totally what many groups now want to do,” Angus said. Those “many groups” Angus ..."
-    publishedDateTime: 2020-04-09T22:25:00Z
-    webUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies"
-    ampWebUrl: "https://www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
-    cdnAmpWebUrl: "https://www-timesonline-com.cdn.ampproject.org/c/s/www.timesonline.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies?template=ampart"
-    type: article
-    provider:
-      name: Times Online
-      domain: timesonline.com
-    quality: 44
-    images:
-      - url: "https://www.timesonline.com/apps/pbcsi.dll/bilde?Site=PA&Date=20200409&Category=NEWS&ArtNo=200408870&Ref=AR"
-        width: 6720
-        height: 4480
   - title: "Novel clinical trial fast tracks testing of COVID-19 therapies"
     excerpt: "We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Derek Angus, M.D., M.P.H., professor and chair, Department of Critical ..."
     publishedDateTime: 2020-04-10T02:01:00Z

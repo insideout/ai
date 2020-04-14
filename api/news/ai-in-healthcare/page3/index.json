@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
+      "title": "TechChill 2020 Is Hot For Connectivity",
+      "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/25/techchill-2020-is-hot-for-connectivity/amp/",
+      "publishedDateTime": "2020-02-25T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e5580c07a00980007343a02/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "TechChill 2020 Is Hot For Connectivity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-21-artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026.md",
       "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
       "excerpt": "The major factors propelling the growth of the Global Artificial Intelligence (AI) market include the rise in the adoption of cloud-based applications and services and the growth of big data across the globe.",
@@ -1248,52 +1293,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-artificial-intelligence-in-healthcare-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
-      "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-      "excerpt": "Jan 30, 2020 (AmericaNewsHour) -- A comprehensive research report created through extensive primary research (inputs from industry experts, companies, stakeholders) and secondary research, the report aims to present the analysis of Global Artificial Intelligence in Healthcare Market. The report analyzes the artificial intelligence in healthcare ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market--what-are-the-main-factors-that-contributing-towards-industry-growth-2020-01-30?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence In Healthcare Market- What Are The Main Factors That Contributing Towards Industry Growth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
         "AI in Healthcare"
       ]
     }

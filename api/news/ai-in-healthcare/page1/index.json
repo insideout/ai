@@ -2,16 +2,16 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-14-artificial-intelligence-in-healthcare-market-size-report-2020-drivers-and-opportunities-by-region-and-forecast.md",
-      "title": "Artificial Intelligence in Healthcare Market Size Report 2020: Drivers and Opportunities by Region and Forecast",
-      "excerpt": "Artificial Intelligence in Healthcare Market” 2020 research report provides actionable insights to enhance business",
-      "heat": 84,
+      "path": "_news/2020-04-14-artificial-intelligence-market-size-is-anticipated-to-reach-usd-54-billion-by-2026.md",
+      "title": "Artificial Intelligence Market Size is anticipated to reach USD 54 billion by 2026",
+      "excerpt": "Market Study Report Provides A Detailed Overview Of Artificial Intelligence Market With Respect To The Pivotal Drivers",
+      "heat": 75,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2020-drivers-and-opportunities-by-region-and-forecast-2020-04-14",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-anticipated-to-reach-usd-54-billion-by-2026-2020-04-14",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T03:33:00-07:00",
+      "publishedDateTime": "2020-04-14T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -33,10 +33,40 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size Report 2020: Drivers and Opportunities by Region and Forecast",
+          "title": "Artificial Intelligence Market Size is anticipated to reach USD 54 billion by 2026",
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-upmc-launches-clinical-trial-for-covid-19-therapies.md",
+      "title": "UPMC launches clinical trial for COVID-19 therapies",
+      "excerpt": "The adaptive clinical trial relies on a type of artificial intelligence known as reinforcement learning to identify the best therapy for COVID-19, Angus explained. “This approach using adaptive platforms is not what people ever did normally, but it is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ellwoodcityledger.com/news/20200409/upmc-launches-clinical-trial-for-covid-19-therapies",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellwood City Ledger",
+        "domain": "ellwoodcityledger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -53,27 +83,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php",
+      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T10:40:00-07:00",
+      "publishedDateTime": "2020-04-09T11:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg",
-          "width": 720,
-          "height": 878,
-          "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1208,35 +1230,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study.md",
-      "title": "Novel Artificial Intelligence to predict tumour response to drugs: Study",
-      "excerpt": "Researchers have used artificial intelligence (AI) to predict the sensitivity of tumours to three systemic ... urges them to stay put whichever city they are To determine if patients with NSCLC are responding to systemic therapy, radiologists currently quantify changes in tumour size, and the appearance of new tumor lesions, Dercle noted.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/",
-      "ampWebUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
-      "publishedDateTime": "2020-03-22T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

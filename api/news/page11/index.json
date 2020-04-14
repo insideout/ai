@@ -2,6 +2,392 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-02-phantom-ai-raises-22-million-to-develop-adas-products.md",
+      "title": "Phantom AI raises $22 million to develop ADAS products",
+      "excerpt": "Phantom AI, a startup developing advanced driver-assistance systems (ADAS) for cars and trucks, today announced that it has raised $22 million. CEO Hyunggi Cho says it will enable the company to expand availability of its modular, software-based platform, which lets OEMs and Tier 1 automakers select components they wish to integrate and ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
+      "publishedDateTime": "2020-04-02T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0-5-e1585160578767.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Phantom AI raises $22 million to develop ADAS products",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks.md",
+      "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
+      "excerpt": "The Founder of Robotic Trucking startup Starsky recently provided deep details on why they shut down. Here's some examination of his key points, and whether his failure bodes badly for the whole industry.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
+      "publishedDateTime": "2020-04-02T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e851f8c2b3ff900068e6e3c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-virtual-conference.md",
+      "title": "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
+      "excerpt": "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-how-ai-will-impact-the-future-of-patient-care.md",
+      "title": "How AI Will Impact The Future Of Patient Care",
+      "excerpt": "While the promise of AI in medicine is huge and will lead to many exciting breakthroughs, it’s important for the medical community and regulators to be wary of its use.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/how-ai-will-impact-the-future-of-patient-care/amp/",
+      "publishedDateTime": "2020-04-02T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-75.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How AI Will Impact The Future Of Patient Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-robots-and-the-autonomous-supply-chain.md",
+      "title": "Robots And The Autonomous Supply Chain",
+      "excerpt": "Autonomous robots have an increasing role to play in supply chains. They are being used in warehouses, on interstates, for last mile deliveries, and even in stores.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
+      "publishedDateTime": "2020-04-02T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066949498%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D308%26cropY2%3D3683",
+          "width": 1200,
+          "height": 675,
+          "title": "Robots And The Autonomous Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations.md",
+      "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
+      "excerpt": "Today, it’s taking another step in that trajectory with a tech acquisition: the company has acquired Geomagical Labs, an AI imaging startup based out of Mountain View. Geomagical Labs has a number of computer vision-based technologies in the works right now, but its first product — which allows a user to quickly scan a room using any ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
+      "publishedDateTime": "2020-04-02T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Decorated-room-Pic2.png?w=1024",
+          "width": 1024,
+          "height": 577,
+          "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-transform-your-photo-in-the-style-of-an-iconic-artist.md",
+      "title": "Transform your photo in the style of an iconic artist",
+      "excerpt": "From the bold, swirling movement in Vincent van Gogh's paintings, to the surreal, confident brushstrokes of Frida Kahlo, many famous artists have instantly recognizable styles. Now you can use these styles to transform your own photos. With Art Transfer, a new feature in the Google Arts &amp; Culture",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/arts-culture/transform-your-photo-style-iconic-artist/amp/",
+      "publishedDateTime": "2020-04-02T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Art_Transfer_mosaic.max-1300x1300.png",
+          "width": 1300,
+          "height": 515,
+          "title": "Transform your photo in the style of an iconic artist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
+      "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+      "excerpt": "New York, April 02, 2020: The Automated Material Handling Equipment Market is expected to exceed more than US$ 50 Billion",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
+      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
+      "publishedDateTime": "2020-04-02T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
+          "width": 640,
+          "height": 449,
+          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
       "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
       "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
@@ -246,6 +632,35 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-intels-new-xeon-processors-are-made-to-deliver-ai-at-the-edge.md",
+      "title": "Intel’s new Xeon processors are made to deliver AI at the edge",
+      "excerpt": "Intel partnered with Amazon last fall on Deep Racer League, a league that challenges developers to train small autonomous cars to complete a lap of a race course. To make its second-generation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/intels-new-xeon-processors-are-made-to-deliver-ai-at-the-edge/416534",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -620,436 +1035,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-deepminds-ai-learned-how-to-play-every-atari-game.md",
-      "title": "DeepMind's AI learned how to play every Atari game",
-      "excerpt": "Google-owned artificial intelligence firm DeepMind developed an AI system that can play all 57 video games and beat human averages, according to a research paper published this week. The AI, called Agent57,",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/deepminds-ai-learned-how-to-play-every-atari-game/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/deepminds-ai-learned-how-to-play-every-atari-game/",
-      "publishedDateTime": "2020-04-01T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/4GAXIulyS7cubuKb6mk5aqZ-qbI=/756x567/2017/07/27/3de74c24-095d-4c7e-9d5d-fb69ee27aaff/atari-flashback-8-gold-82.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "DeepMind's AI learned how to play every Atari game",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech.md",
-      "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
-      "excerpt": "The technology behind automated speech recognition systems at some of the nation’s top tech firms are twice as likely to misinterpret words spoken by African-Americans compared to those spoken by whites, according to a new study out of Stanford University. Stanford University researchers found that speech recognition systems used by the top ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://atlantablackstar.com/2020/04/01/study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Atlanta Blackstar",
-        "domain": "atlantablackstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://atlantablackstar.com/wp-content/uploads/2020/03/GettyImages-1189583572-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection.md",
-      "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-      "excerpt": "In practical terms, the partnership between the two companies included a complement of 1,250 Nvidia V100 Tensor Core GPUs designed for use in machine learning applications from a Microsoft Azure cluster, working with ImmunityBio’s existing 320 GPU cluster that is tuned specifically to molecular modeling work. The results of the collaboration ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "publishedDateTime": "2020-04-01T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/covid-19-spike-protein.png?w=1024",
-          "width": 1024,
-          "height": 561,
-          "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-alphabets-deepmind-ai-is-better-than-you-at-atari-games.md",
-      "title": "Alphabet’s DeepMind AI is better than you at Atari games",
-      "excerpt": "Having AI agents learn how to play simple video games is an ideal way to test their effectiveness, thanks to the ability to measure success via a score. Alphabet's DeepMind designated 57 particular Atari games to serve as a litmus test for its AI, and established a benchmark for the skills of an average human player. The company's latest system ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-04-01-deepmind-agent57-ai-atari.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
-      "publishedDateTime": "2020-04-01T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5600%252C3035%252C0%252C701%26quality%3D85%26format%3Djpg%26resize%3D1600%252C867%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-04%252F99e3f5c0-742f-11ea-b93f-3ab31fad626d%26client%3Da1acac3e1b3290917d92%26signature%3D50e87b16d59bff72a11f5cd3c3bba0eaaac088ba&client=amp-blogside-v2&signature=11dace15f5dff7bbf1c1c07bb67f847e04c238e5",
-          "width": 600,
-          "height": 350,
-          "title": "Alphabet’s DeepMind AI is better than you at Atari games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
-      "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
-      "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
-      "publishedDateTime": "2020-04-01T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
-      "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-      "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/yves-behar-home-gym-forme-wellness/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/yves-behar-home-gym-forme-wellness/index.html",
-      "publishedDateTime": "2020-04-01T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200401103641-05-yves-behar-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-terrifying-things-happen-when-an-ai-generates-fake-faces-synced-to-music.md",
-      "title": "Terrifying Things Happen When an AI Generates Fake Faces Synced to Music",
-      "excerpt": "We’re still trying to figure out the best applications for neural networks, machine learning, and all the recent advancements in artificial intelligence. Amongst all the practical research being conducted, there’s also lots of frivolous experimentation being done with results that walk the line between fascinating and terrifying. Automated ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/terrifying-things-happen-when-an-ai-generates-fake-face-1842592456",
-      "ampWebUrl": "https://gizmodo.com/terrifying-things-happen-when-an-ai-generates-fake-face-1842592456/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/terrifying-things-happen-when-an-ai-generates-fake-face-1842592456/amp",
-      "publishedDateTime": "2020-04-01T07:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/lmmxqkwklbkuqyzfjsbv.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Terrifying Things Happen When an AI Generates Fake Faces Synced to Music",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023.md",
-      "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
-      "excerpt": "A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023-2020-04-01?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-nokia-stirs-telco-space-with-5g-backed-automated-operations.md",
-      "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
-      "excerpt": "Nokia Corporation NOK recently unveiled an out-and-out AI-backed service offering that helps communication service providers (CSPs) to support future network evolution, and optimize enterprise and cloud services on a global scale.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
-      "publishedDateTime": "2020-04-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1421883099",
-          "width": 1024,
-          "height": 512,
-          "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-for-business-whats-going-wrong-and-how-to-get-it-right.md",
-      "title": "AI for business: What's going wrong, and how to get it right",
-      "excerpt": "Despite years of hype (and plenty of worries) about the all-conquering power of Artificial Intelligence (AI), there still remains a significant gap between the promise of AI and its reality for business. Tech firms have pitched AI's capabilities for years, but for most organisations, the benefits of AI remain elusive. It's hard to gauge the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-for-business-whats-going-wrong-and-how-to-get-it-right/",
-      "publishedDateTime": "2020-04-01T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/11/29d9c9c7-9b3e-4238-850d-13abf03f6a22/1-gartner-orgas-want-to-deploy-more-ai.png",
-          "width": 1200,
-          "height": 626,
-          "title": "AI for business: What's going wrong, and how to get it right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

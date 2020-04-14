@@ -20,6 +20,6 @@ images:
     height: 410
     title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
 
-secured: "l/xR4W3/uzeqfQ4gYQctr9oCbdoK4YZClkjek1WYK0n/1JOesjGPMMipkfywAzUIu0DkTnUEz6PKh5UDLvLD8v7vuJnmyqm93i69ow6wmEekULvgUl4KNVH0LxGmp/eDo8m2AWrCydggGktIkG/VbJ3DAeWhSTNbSjlweXuhm3whZT3rzBGzCtbyeQBC+XAHi+CAlaNvbWdXm2XhR6NIOlwR4d1KwmR3gyNAhq0WxcdI8xKlUPCU7r/3sN/g2pA7iG397vBn3RsKVj7+SGrgBVZG4X9Xl8OgAD3bnWWezN0HSmcSZvpgk4FIgpv34tKx;EfARlDH7xl2EfmYwtmgbnQ=="
+secured: "kDY5kk9p+74n3L1NPQUMYRXlmPFkvZ92R77/YPZDJp4OBsin1tDPwztGd1lN5SRKVdL+/zz65n8i4UpeFD0RvBDgDq1xkC6r+zJClaOZUWHC/0xTPBYMIAYje1T7AuXgOPuGmi2bc8HGTeELgsjbIw8g1gZXbmtu12KY8CrGsqkOyxqBWOa9ZPK3W0EoP0yARarjl+k2G1fYWMO6N0C6DpIOhwd7gAkjNOtqV5vHUz3PemQTtwOrdEOFhTiVVdLRf0LTbvYxDuIBeJpIdeb76feNxY49Xcod/k0hkH4bD7P+ZmksiaSIazxo9qrV9IjN;6+MiMzaS5qVPIUmP2Yl+uw=="
 ---
 

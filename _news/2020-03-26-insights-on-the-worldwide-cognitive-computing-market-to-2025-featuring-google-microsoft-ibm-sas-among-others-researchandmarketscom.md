@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com"
 
-secured: "Mv8Be+5/sN24hl76YTyyC7kMDmYVVnEIrP2jqVEii/mAs/FQ/9TzDk3DQaQ0tb2qZXLlU2VRqrV2mneqXNSpzTYJlcvBAUyKmrtZhEEbXCKxFwrQEgM5FEXZ7UD2jUGti066JPuAk9vjm/3DEfkeIN8XsduK0JRpTsW3IXfmv35ZJiOeE1HF1q+c89ASgZmSUgOqfae5QiVbc51htHQVy2idD/6V2GktqYypxump7Li04pIHEDbliVaAI7DfnJBkZcKcd+ybcf5LNMx/QwVQbfTzinHnBC/e+jtMKgPCX4OdKDiDNc4DII246iC7UQXf;8nwKTvsyj+AQphCgHX+OuQ=="
+secured: "12GRZW2UNPWfT6wwfGP391nXLlL1d1ZJdqMwo2Zf/wDTybkguY7h/Zf73d817KfZHXh/+i6npCHHMBhFHyLvKJsZazHQowtK2ti+ql2DtVZEefk7avUNsvXtdvYNjCf/je0z91POajzj+hFP8HZ1PsUd4ac95eYjKibGJDrfpLzUNqoiTeD+IIkdq9d0GhOLDYeGoAtF3XQtxoAN3cpuRGXp5g3RCKM5Xbf7pM6th9YaMExFCnQlW3QTiYBTR2m5KsKjxKWrWPbMLScI6SX/FZqCUcGL3Bo8WQ2z6zPzttVluMDssRPrHrJNmS5W9NUlKh96pWG+wTdTm2fr6q76/lQCfx8vcIYb2PqUPWDXBcfqXOoSqLnvAZwyksA6nAFdfYOt4MjgBgLekOAOGq2Rmn8CsdDvlFp8454sk62x4vTqnGUSq4HbaGzMWQpjtyAK9PjffU55HzaW/OtHsOok/Hyl4KDgf8hgVK0mrxF6uj0=;hOzLr8t1D42/YEnBAFO+Tg=="
 ---
 

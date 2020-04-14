@@ -25,6 +25,6 @@ images:
     height: 575
     title: "Help just a text away: Chatbot allows Bethel University to check in with students"
 
-secured: "BUsyKEav/GQ/eG5wY5xgjvGMJz6pCcJ17IJnRd09zPCV2uMSluxnHzj84560zZTFZine74MhTpwTNc3e9TKnR0eO6E1S7pQKUl5Xa0duA7Al09w/dB6AjdkT+1QU0Bb0vD+1uabSNCR3Qo12SqQm5ZGvj08TZIpUYXK84TsICU5iNpXQk243ZIJ35OPph/ojBJGQOf9IXk87b/fTty7Joy5v0gronm3FvxqYT70WVj8YfM6CNetZl/CTrSrU1s/wziWsfEjrYfTqB0sxof/Qi2Cu61qw2rKgVb71KRCQgOK4inRiCuQnaO68OtVIOvDj;LyKukdgJ0T5Evg/PZxfWlA=="
+secured: "IVawkY8lm8OlJbDfU3MWCl3qsj/omFo8z+s1Wx4F2rp9VM54zuOyYyopdlpp1OSPbG191CsR09lrBcHaMHUPqRFl7uAC2Hk3SAOSmr91rzPnp4C13kXZTMoBrf1Xu7sh8qw0cYr6/mHx/IKNqZV7etKuRipPIaygVFgUt7karZpgPPJBbQzaI2XPR6O/o91v8er1xcacR54x6C3Vp+pAI+BYK24z2AxCSKzNBeMploWIG25PPGR4dlWz0//QKdAN6mxZazj0FYW1ylQkC5b2vYeEYdJ7VL7s1jcJZV0W7dQmTS1qPTr9C5ein9ALRo4FCl9NzUzESnqaAmWuFyN78d1x9p4mZXxyCL+luDNpt9p/CromXU+5gTiT/eRPRRsT9szsgmaFE+tzCWiZ7mJoCRdEAtXcx4sHYO280QA8ji/OQH5C/bO1ZFCt9Hn2MyYDF12NeHQb1Iei/4mM/7GFukLFwQZPsw7RofG3+IKvMtg=;Hv8sm3OmyCkN9Tr+xfetsg=="
 ---
 

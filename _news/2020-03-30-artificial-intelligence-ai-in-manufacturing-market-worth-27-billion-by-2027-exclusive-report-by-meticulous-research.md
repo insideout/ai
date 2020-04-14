@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR"

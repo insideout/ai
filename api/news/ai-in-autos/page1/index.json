@@ -1278,10 +1278,10 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html",
+      "webUrl": "https://itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T21:59:00-07:00",
+      "publishedDateTime": "2020-03-30T22:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ITWire",
@@ -1290,15 +1290,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg",
-          "width": 375,
-          "height": 450,
-          "title": "How artificial intelligence will reshape the contact centre in 2020",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
+      "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+      "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/microsoft-365-ai-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T08:33:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/03/Microsoft-365-AI-Sumit-Chauhan-Mira-Lane_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305.md",
       "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
       "excerpt": "Read the full report:  NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive computing market size is projected to grow from USD 20.5 billion in 2020 to USD 77.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 30.",
@@ -1150,43 +1195,6 @@
           "width": 1024,
           "height": 512,
           "title": "Microsoft To Help Kubota Explore AI Application In Agriculture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-azure-admins-cold-sweat-likely-caused-by-a-isolated-power-problems-that-browned-out-west-central-usa-region.md",
-      "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
-      "excerpt": "That upgrade from Java 8 to 11 you've been putting off? UK fintech types at Revolut 'quite happy' after a year in production As if the world doesn't have enough to worry about right now, Azure users with resources running in the Microsoft cloud's Central West USA region have just enjoyed an outage. The problem took out virtual machines and SQL ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theregister.co.uk/2020/03/15/azure_outage_west_central_usa/",
-      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
-      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/15/azure_outage_west_central_usa/",
-      "publishedDateTime": "2020-03-17T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register",
-        "domain": "theregister.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2018/09/13/shutterstock_panic.jpg",
-          "width": 648,
-          "height": 432,
-          "title": "Azure admins' cold sweat likely caused by a 'isolated' power problems that browned out West Central USA region",
           "attribution": null
         }
       ],

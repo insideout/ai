@@ -2,23 +2,52 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
-      "title": "Computer Vision & AI Safeguard ATMs",
-      "excerpt": "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs.",
+      "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
+      "title": "Coronavirus Brightens Outlook for Robotics ETFs",
+      "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
       "heat": 84,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:47:00-07:00",
+      "webUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
+      "publishedDateTime": "2020-04-14T10:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can.md",
+      "title": "Researchers challenge AI to give advice as well as humans on Reddit can",
+      "excerpt": "Researchers in Seattle have introduced what they call a new AI grand challenge called TuringAdvice, which is centered on creating language models that generate helpful advice for humans using real world language. The TuringAdvice challenge is based on the dynamic RedditAdvice data set. Created for the challenge, RedditAdvice is a crowdsourced ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/",
+      "publishedDateTime": "2020-04-14T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +59,10 @@
       },
       "images": [
         {
-          "url": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
-          "width": 300,
-          "height": 300,
-          "title": "Computer Vision & AI Safeguard ATMs",
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1157884675.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Researchers challenge AI to give advice as well as humans on Reddit can",
           "attribution": null
         }
       ],
@@ -42,21 +71,64 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-04-14-deep-learning-market-value-expand-at-a-us-564272-mn-by-2026.md",
-      "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. Apr 14, 2020 (Market Prediction via COMTEX) -- According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep ...",
-      "heat": 89,
+      "path": "_news/2020-04-14-a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient.md",
+      "title": "A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient",
+      "excerpt": "In light of U.S. Food and Drug Administration’s guidance published in March to expand the use of remote monitoring devices that facilitate patient management, both hospitals and health systems are increasingly piloting AI-enabled at-home solutions. In Kentucky, Baptist Health is using an AI platform developed by Current Health to track about ...",
+      "heat": 85,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14?mod=mw_quote_news",
+      "webUrl": "https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/amp/",
+      "publishedDateTime": "2020-04-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-market-size-is-anticipated-to-reach-usd-54-billion-by-2026.md",
+      "title": "Artificial Intelligence Market Size is anticipated to reach USD 54 billion by 2026",
+      "excerpt": "Market Study Report Provides A Detailed Overview Of Artificial Intelligence Market With Respect To The Pivotal Drivers",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-is-anticipated-to-reach-usd-54-billion-by-2026-2020-04-14",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T06:02:00-07:00",
+      "publishedDateTime": "2020-04-14T09:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -78,7 +150,127 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
+          "title": "Artificial Intelligence Market Size is anticipated to reach USD 54 billion by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-microsoft-msft-invests-in-ai-for-health-to-fight-covid-19.md",
+      "title": "Microsoft (MSFT) Invests in AI for Health to Fight COVID-19",
+      "excerpt": "Microsoft MSFT recently announced that it is dedicating $20 million to its AI for Health initiative in an effort to combat the coronavirus pandemic. Launched on Jan 29, the AI for Health initiative was started to empower medical workers and researchers with AI as well as data science capabilities to improve healthcare services around the world.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-invests-in-ai-for-health-to-fight-covid-19-2020-04-14?amp",
+      "publishedDateTime": "2020-04-14T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking.md",
+      "title": "Amazon AI techniques improve speech recognition and dialog state tracking",
+      "excerpt": "In a pair of preprint papers published this week on Arxiv.org, Amazon researchers describe two novel systems — one that facilitates automatic speech recognition and another responsible for dialog state tracking — that they say achieve state-of-the-art performance compared with several baseline models. Assuming the claims have merit ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/amp/",
+      "publishedDateTime": "2020-04-14T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon AI techniques improve speech recognition and dialog state tracking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
+      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
+      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
+      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "publishedDateTime": "2020-04-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
+          "width": 2100,
+          "height": 1428,
+          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
           "attribution": null
         }
       ],
@@ -92,10 +284,83 @@
       ]
     },
     {
+      "path": "_news/2020-04-14-how-ai-helps-scientists-find-reliable-coronavirus-research.md",
+      "title": "How AI helps scientists find reliable coronavirus research",
+      "excerpt": "This is where the artificial intelligence community enters the scene. Among other efforts to help fight the coronavirus pandemic, AI researchers are fast busy developing tools that will help medical scientists navigate the fast-growing corpus of literature surrounding coronavirus. Read: [Researchers want your voice to train coronavirus ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/",
+      "publishedDateTime": "2020-04-14T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-20-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How AI helps scientists find reliable coronavirus research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-synopsys-powers-groq-processor-expands-in-ai-chip-market.md",
+      "title": "Synopsys Powers Groq Processor, Expands in AI Chip Market",
+      "excerpt": "Synopsys, Inc.’s SNPS ZeBu Server 4 product is generating a broad-based adoption by customers’ designing storage, networking and AI chips. Recently, the company announced that Groq has adopted the ZeBu Server 4 emulation solution to develop its Tensor Streaming Processor (TSP).",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/synopsys-powers-groq-processor-expands-in-ai-chip-market-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-adobe-releases-ai-powered-product-recommendations-tool-in-magento-commerce.md",
       "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
       "excerpt": "Adobe said Tuesday that its AI-powered product recommendations tool is now generally available in Magento Commerce. The feature, first announced in October, allows merchants to analyze shopper behavior in order to generate highly personalized recommendations, which can be added to relevant store pages via widgets and flexible APIs. Adobe said ...",
-      "heat": 85,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
@@ -132,6 +397,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-deep-learning-market-value-expand-at-a-us-564272-mn-by-2026.md",
+      "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -184,7 +494,7 @@
       "path": "_news/2020-04-14-ai-startups-raised-69-billion-in-q1-2020-a-record-setting-pace-before-coronavirus.md",
       "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
       "excerpt": "AI startups continued to outpace the overall U.S. venture capital market in the first quarter of 2020, but the coronavirus is expected to have a severe impact on funding across all sectors for the rest of the year. According to data from the National Venture Capital Association, 285 AI-related companies in the U.S. raised $6.9 billion in the ...",
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/",
@@ -221,51 +531,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-artificial-intelligence-in-healthcare-market-size-report-2020-drivers-and-opportunities-by-region-and-forecast.md",
-      "title": "Artificial Intelligence in Healthcare Market Size Report 2020: Drivers and Opportunities by Region and Forecast",
-      "excerpt": "Artificial Intelligence in Healthcare Market” 2020 research report provides actionable insights to enhance business",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-report-2020-drivers-and-opportunities-by-region-and-forecast-2020-04-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Size Report 2020: Drivers and Opportunities by Region and Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -797,303 +1062,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
-      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "publishedDateTime": "2020-04-13T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailyrecord",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
-          "width": 615,
-          "height": 409,
-          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024.md",
-      "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report LLC offers industry size, share,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024-2020-04-13?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-12T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-how-to-reduce-the-unemployment-gap-with-ai.md",
-      "title": "How To Reduce The Unemployment Gap With AI",
-      "excerpt": "McKinsey & Company's recent article, A new AI-powered network, is helping workers displaced by the coronavirus crisis provides context around the scope of challenges involved in closing the unemployment gap.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
-      "publishedDateTime": "2020-04-12T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e935f8401879f0006d2752c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1352%26cropY1%3D139%26cropY2%3D899",
-          "width": 1199,
-          "height": 675,
-          "title": "How To Reduce The Unemployment Gap With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-the-united-kingdoms-role-in-the-future-of-ai.md",
-      "title": "The United Kingdom’s Role In The Future Of AI",
-      "excerpt": "The UK has played an important role in the history and development of AI. What are their plans to stay at the forefront in the years ahead?",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/12/the-united-kingdoms-role-in-the-future-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/12/the-united-kingdoms-role-in-the-future-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/12/the-united-kingdoms-role-in-the-future-of-ai/amp/",
-      "publishedDateTime": "2020-04-12T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8c7858b0a4e4000746d816%2F0x0.jpg",
-          "width": 1163,
-          "height": 1200,
-          "title": "The United Kingdom’s Role In The Future Of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars.md",
-      "title": "On The Probabilities Of Social Distancing As Gleaned From AI Self-Driving Cars",
-      "excerpt": "Assuming that you are a conscientious driver (I hope so!), you would right away start to consider the chances or probabilities that the dog might decide to head into the street. Presumably, you aren’t going to just wildly gauge the odds of the dog doing so,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/12/on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/12/on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/12/on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-12T06:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e923e621048ea0006cbb7a7%2F0x0.jpg",
-          "width": 1199,
-          "height": 848,
-          "title": "On The Probabilities Of Social Distancing As Gleaned From AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus.md",
-      "title": "Facebook's RegNet AI model tops Google's EfficientNet, runs 5 times faster on GPUs",
-      "excerpt": "Facebook recently made progress in the GPU department. A team from Facebook AI Research (FAIR) recently developed a new low-dimensional design space. Named ‘RegNet’ the new design outperforms traditional available models including ones from Google. Further, it runs five times faster on GPUs. Also Read - Facebook launches Quiet Mode to curb ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bgr.in/news/facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus-885365/",
-      "ampWebUrl": "https://www.bgr.in/news/facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus-885365/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/facebooks-regnet-ai-model-tops-googles-efficientnet-runs-5-times-faster-on-gpus-885365/amp/",
-      "publishedDateTime": "2020-04-12T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2018/05/facebook-pixabay-main.jpg",
-          "width": 805,
-          "height": 456,
-          "title": "Facebook's RegNet AI model tops Google's EfficientNet, runs 5 times faster on GPUs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-conversational-ai-might-be-key-to-informing-citizens-about-covid-19.md",
-      "title": "Conversational AI might be key to informing citizens about COVID-19",
-      "excerpt": "Conversational AI is changing that. Several government health organizations have turned to conversational AI as their solution for the outpouring of calls from concerned citizens, while making sure they are providing personalized engagements. Using a conversational AI system to battle the response around COVID-19 can fill the holes left by ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/syndication/2020/04/12/conversational-ai-might-be-key-to-informing-citizens-about-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/robot_header2-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Conversational AI might be key to informing citizens about COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

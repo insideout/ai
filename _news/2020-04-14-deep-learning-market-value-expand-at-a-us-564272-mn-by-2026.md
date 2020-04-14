@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026"
-excerpt: "The MarketWatch News Department was not involved in the creation of the content. Apr 14, 2020 (Market Prediction via COMTEX) -- According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep ..."
-publishedDateTime: 2020-04-14T13:02:00Z
-webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14?mod=mw_quote_news"
+excerpt: "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends."
+publishedDateTime: 2020-04-14T12:46:00Z
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14"
 type: article
 quality: 69
 heat: 89
@@ -55,6 +55,6 @@ related:
         width: 1200
         height: 627
 
-secured: "wHqzLuqdfwwUf4cWj4ck9XS30VYCWBZGDxfjJl3QA5+nBHor/pMO1gQLIvDJTJifYBgntwjHMfxR8NWB6dpAnelJvfyRuj/7Q55pRloyLbLlbk+Gpow7z/B1/cR0SVmwR2oqj4Of9kbHTxdgnW0FdBn2Yrfrnsvvrhf1vTboNqX3YTBjpky1FX/RiaC9AJ6oV2C9SjtaK995D80kHkUThutXCEfAqP2w8uawEZSW+SJmv/aGe5NKnMH1eQDJCu2kBwNTPJt272q0dYwpJB3wms4C30iXNil1lE0qEdMenHdnJ7mvuEgEe5z53n+IPHVh;HF7kNMqISHzl/7I9/xf8Hg=="
+secured: "uJXCnQfn7edGKRlDOjZyWu98SfkRqyiBj0eOQs+TErYK7dXKOI9NNruUlqwPXcanSiQJ9PAS/1Hd2crRQJFRF5yVd3dEYvHL7HbEvSLmB7/718s+/yn9Qmz+yWcZx1f2ub6DhXsyXEjjeygLIm1tnil9J82bT+CaEXEczrkIxXMBUiTaSHWZqCiwmFlkkIGmdcI42gYKBh29BEI3FGMmCqKM9+DT+KMzzydlgGfFgAELD818uHTk15LxJBxr2/z1JDt7myAtaF25FXzGgEzOoDamNaO0JPvXamZ01Z3m5ZUbFBtraj81dPN5T8F6zu1/;qg/vEgRaXGyJ1ktQVRSzaA=="
 ---
 
