@@ -2,6 +2,168 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-08-telstra-uses-ai-as-first-hurdle-for-prospective-hires-to-clear.md",
+      "title": "Telstra uses AI as first hurdle for prospective hires to clear",
+      "excerpt": "Telstra has said it has been using artificial intelligence (AI) to filter through the 19,000 applications it received for its extra 1,000 temporary call centre positions in Australia that was announced by the telco last month. Group executive of transformation and people Alex Badenoch said the telco had been able to move from screening to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
+      "publishedDateTime": "2020-04-08T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/10/17/e4ac0eaa-1191-4650-ba6d-dfefa8816d88/thumbnail/1200x675/0cbfe385425f1f51ffa4c8788617645c/sky-and-space-nano-satellite.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Telstra uses AI as first hurdle for prospective hires to clear",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-dubais-dewa-shapes-the-future-of-utilities-using-artificial-intelligence.md",
+      "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
+      "excerpt": "This achieves the National Artificial Intelligence Strategy 2031. Dewa collaborated with Smart Dubai to apply the AI Ethics and Principles in all its projects and initiatives, and Smart Dubai AI Lab. Dewa launched Digital Dewa as its digital arm, with four pillars, making Dewa the world's first digital utility to use autonomous systems for ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_Dewa_shapes_the_future_of_utilities_using_Artificial_Intelligence-SNG_171851562/",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_171851562/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_171851562/",
+      "publishedDateTime": "2020-04-07T23:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-mybuddyai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round.md",
+      "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
+      "excerpt": "MyBuddy.ai, a startup that develops virtual tools to help kids learn English, announced today that it has raised $1 million in seed funding from LETA Capital. The capital will be used to expand into new markets and develop new features including mini-classes about health. The San Francisco-based company’s app features a AI-based virtual tutor ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
+      "publishedDateTime": "2020-04-07T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-740526807.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-3-observations-amid-the-covid-19-crisis.md",
+      "title": "3 observations amid the COVID-19 crisis",
+      "excerpt": "And today, satellite images, foot traffic and transaction data are giving us a better read on the economy amid widespread global closures and re-openings. At the same time, the natural language processing of news flow,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
+      "publishedDateTime": "2020-04-07T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1308265199",
+          "width": 1024,
+          "height": 512,
+          "title": "3 observations amid the COVID-19 crisis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-huawei-korea-to-reportedly-enter-gpu-server-market-later-this-year.md",
       "title": "Huawei Korea to reportedly enter GPU server market later this year",
       "excerpt": "While Huawei already is one of the very few smartphone chipset markers, the company is now planning to enter the Graphic Processing Unit aka GPU server market which is currently being dominated by NVIDIA. As per the report coming from Korea, Chinese giant Huawei will be setting up a Cloud and AI Business Group in South Korea in year.",
@@ -957,6 +1119,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
       "title": "5 practical reasons to embrace artificial intelligence",
       "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
@@ -1088,221 +1287,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-automl-20-is-the-data-scientist-obsolete.md",
-      "title": "AutoML 2.0: Is The Data Scientist Obsolete?",
-      "excerpt": "In the world off AI & Machine Learning, AutoML has become a \"go-to\" technology to accelerate development and achieve better results. But does AutoML threaten the data scientist's role? And how do new,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/07/automl-20-is-the-data-scientist-obsolete/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/07/automl-20-is-the-data-scientist-obsolete/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/07/automl-20-is-the-data-scientist-obsolete/amp/",
-      "publishedDateTime": "2020-04-07T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e6fb2f40ef500079f894d%2F0x0.jpg%3FcropX1%3D1800%26cropX2%3D3883%26cropY1%3D0%26cropY2%3D3125",
-          "width": 1200,
-          "height": 1799,
-          "title": "AutoML 2.0: Is The Data Scientist Obsolete?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "publishedDateTime": "2020-04-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training.md",
-      "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
-      "excerpt": "Tenstorrent, an AI and machine learning hardware startup based in Toronto, Canada, today emerged from stealth with over $34 million in financing and an all-in-one computer system dubbed Grayskull. Cofounder and CEO Ljubisa Bajic, a former Nvidia senior architect who previously served as director of integrated circuit design at AMD, claims that ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
-      "publishedDateTime": "2020-04-07T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed.md",
-      "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
-      "excerpt": "Between October last year and now, Huawei‘s Hisilicon chip department has released two high-end chipsets ... In a Weibo post today, the Honor VP shared the latest AI benchmark ranking with the Kirin 985 in the third spot. The chipset has ahead of it, only the Kirin 990 which is in the first spot and the MediaTek Dimensity 1000 in the second ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
-      "publishedDateTime": "2020-04-07T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/kirin-985.jpg",
-          "width": 600,
-          "height": 337,
-          "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
-      "title": "Glassbox raises $40 million to track customer journeys with AI",
-      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "publishedDateTime": "2020-04-07T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Glassbox raises $40 million to track customer journeys with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

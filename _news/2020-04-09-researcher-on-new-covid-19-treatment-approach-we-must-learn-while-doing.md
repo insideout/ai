@@ -25,21 +25,6 @@ images:
     height: 400
     title: "Researcher on new COVID-19 treatment approach: 'We must learn while doing'"
 
-related:
-  - title: "International trial uses AI to rapidly identify optimal Covid-19 treatments"
-    excerpt: "Treating patients with the never-before-seen Covid-19 is forcing doctors to choose between two equally unpalatable options: try an unproven therapy and hope it works ... world proposes a third way — fusing those two approaches together by using artificial intelligence to home in on the most effective treatments on the fly."
-    publishedDateTime: 2020-04-09T15:18:00Z
-    webUrl: "https://www.statnews.com/2020/04/09/coronavirus-trial-uses-ai-to-rapidly-identify-optimal-treatments/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/04/AP_20079663665731-1024x576.jpg"
-        width: 1024
-        height: 576
-
 secured: "7te9ABneCTRp0ZqRNzyuY39HYHkDSbsj3yO0Okgr2eKCuFxckQBWVn51S/KvrMxgsTqAnlTYqCK4Lxr/en9868OlWRJexeTHS/3w6sdcJ7eS/glJ0gp668GXAG2zRNfstKMe2unqgfx70VSiWNN/QfkKziQlln4kDHh9Z0HWIGYE8jHS+fggU/4WojvFad+oTpG/ZRgIePdtmz2HUOO+GM60xFxdMh2TBFUtzeBhXXYYhrVQzajGt9SX33JddAVsEqf7DTPux5YBA4TQmLTsvh3ccaUY7pt+tjBsr/UOn7SqD96RZS1aB9aKLmOOFb0LpHvsAhIi4E46hPbllswFzKJZh0jnYOeVesUHedFA/I9BL5oWzftou8Bp+xQ9VMTH3HXYAvdEGb7F832BWzi8+fDu9JKnMA90bZC+RunpUaVO3PvPwRbr0i2hIQCQ0QmTy94sxAFSmZxb8mjuktfexyFAOkEAKv1LkkhSWu1jUKo=;Y6okWMggIIDa+fylT+/HMQ=="
 ---
 

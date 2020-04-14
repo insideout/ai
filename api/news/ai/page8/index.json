@@ -2,6 +2,171 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-02-ibm-watson-offers-free-service-to-answer-covid-19-questions.md",
+      "title": "IBM Watson offers free service to answer COVID-19 questions",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, natural language processing capabilities from IBM Research, and enterprise artificial intelligence (AI) search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19, IBM said. \"While helping government agencies ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-watson-offers-free-service-to-answer-covid-19-questions/",
+      "publishedDateTime": "2020-04-02T12:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/02/c16cd473-0ff0-4332-bf42-0efb1c8e25f4/resize/1200x/6cca0a705c8ef851751fc0dfac905d9f/istock-1176737178.jpg",
+          "width": 1200,
+          "height": 814,
+          "title": "IBM Watson offers free service to answer COVID-19 questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors.md",
+      "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
+      "excerpt": "Machine learning experts working at Google Health have published a new study in tandem with the University of California San Francisco (UCSF)’s computational health sciences department that describes a machine learning model the researchers built that can anticipate normal physician drug prescribing patterns, using a patient’s electronic ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
+      "publishedDateTime": "2020-04-02T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-457969068.jpg?w=1024",
+          "width": 1024,
+          "height": 778,
+          "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks.md",
+      "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
+      "excerpt": "As a multiplayer game publisher, you may often need to either over-provision resources or manually manage compute allocation when launching or maintaining an online game to avoid long player wait times. You need to develop, configure, and deploy tools that help you monitor and control the compute allocation.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T11:39:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/14/reducing-player-wait-time-1.gif",
+          "width": 541,
+          "height": 363,
+          "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-bosch-video-management-system-joins-ranks-of-platesmart-alpr-integrations.md",
+      "title": "Bosch Video Management System Joins Ranks of PlateSmart ALPR Integrations",
+      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-googles-ai-accurately-predicts-physicians-prescribing-decisions-75-of-the-time.md",
       "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
       "excerpt": "An AI system developed by researchers at Google and the University of California, San Francisco anticipates physician’s prescribing decisions 75% of the time, according to a paper published in the journal Clinical Pharmacology and Therapeutics. If someday applied to a health care system, it could identify prescriptions that look abnormal ...",
@@ -1127,170 +1292,6 @@
         "Google AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text.md",
-      "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
-      "excerpt": "IBM today announced the launch of Watson Assistant for Citizens, a new chatbot solution available to government agencies, health care institutions, and academic organizations free of charge for 90 days. The hope is that by tapping AI technologies like natural language processing, it’ll triage residents looking for guidance on COVID-19 ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/ibms-watson-assistant-for-citizens-answers-coronavirus-questions-by-phone-or-text/amp/",
-      "publishedDateTime": "2020-04-01T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/5e486ff8-b51f-4396-9568-06fa29fec85c-e1573767177142.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s Watson Assistant for Citizens answers coronavirus questions by phone or text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
-      "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-      "excerpt": "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T21:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
-          "width": 1650,
-          "height": 864,
-          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries.md",
-      "title": "IBM forms Watson Assistant for Citizens to handle COVID-19 queries",
-      "excerpt": "The Watson suite is available free for at least 90 days and available via online and phone formats. According to IBM, wait times for COVID-19 related queries are exceeding two hours. The use of artificial intelligence via Watson may be able to speed up responses to common COVID-19 questions. As COVID-19 data sets become more accessible ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-forms-watson-assistant-for-citizens-to-handle-covid-19-queries/",
-      "publishedDateTime": "2020-04-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/04/02/fa21d210-17be-4db8-938c-f2c60600464f/thumbnail/1200x675/3a5a416d0bb82d3169b994c176eb7a1e/img-4806.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM forms Watson Assistant for Citizens to handle COVID-19 queries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-robotics-startups-need-support-now-more-than-ever.md",
-      "title": "Robotics startups need support now more than ever",
-      "excerpt": "But our success is reliant on a vibrant and competitive robotics ecosystem. Let’s do everything we can to make sure our industry thrives. Owen Nicholson is CEO of SLAMcore, a London-based startup on a mission to make spatial AI accessible to all. SLAMcore develops algorithms that help robots and drones understand where they are and what’s ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/robotics-startups-support-now-more-than-ever/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/04/robotics-startups-covid-19.png",
-          "width": 1000,
-          "height": 593,
-          "title": "Robotics startups need support now more than ever",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

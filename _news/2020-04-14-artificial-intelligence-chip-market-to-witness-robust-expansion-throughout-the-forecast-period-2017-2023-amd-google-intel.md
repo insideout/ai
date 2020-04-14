@@ -5,8 +5,8 @@ excerpt: "The emergence of autonomous robotics--robots that develop and control 
 publishedDateTime: 2020-04-14T07:55:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-to-witness-robust-expansion-throughout-the-forecast-period-2017-2023---amd-google-intel-2020-04-14"
 type: article
-quality: 42
-heat: 42
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

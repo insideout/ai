@@ -1,52 +1,19 @@
 ---
 category: news
 title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
-excerpt: "View the full release here: /  (Credit: Intel Corporation) “Intel and Georgia Tech are working together to advance the ecosystem’s collective understanding of and ability to mitigate against AI and ML vulnerabilities."
-publishedDateTime: 2020-04-09T15:00:00Z
-webUrl: "https://www.stltoday.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_8fa58868-306e-5d56-9116-d30465d9a40b.html"
+excerpt: "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200409005168/en/ Intel Labs members demonstrate an example of ..."
+publishedDateTime: 2020-04-09T15:27:00Z
+webUrl: "https://journalstar.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_114d2da4-fffd-595a-b051-2562b0a1c18a.html"
 type: article
-quality: 30
-heat: -1
-published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/aa/5aa5befb-cdb1-5624-b7e8-32efa0efc596/5e8f3bf8c4b56.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize"
-    width: 728
-    height: 410
-    title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
-
-related:
-  - title: "Intel and Georgia Tech join DARPA program to thwart attacks against machine learning"
-    excerpt: "Intel will be the prime contractor for the four-year, multimillion-dollar joint effort known as Guaranteeing Artificial Intelligence Robustness against Deception, or GARD, which will improve cybersecurity defenses against deception attacks affecting machine learning models. Although adversarial attacks against ML systems are rare, the number ..."
-    publishedDateTime: 2020-04-09T20:31:00Z
-    webUrl: "https://siliconangle.com/2020/04/09/intel-georgia-tech-join-darpa-program-thwart-attacks-machine-learning/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 49
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/adversarial-image-tech-example.jpg"
-        width: 1020
-        height: 574
-  - title: "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks"
-    excerpt: "Before it's here, it's on the Bloomberg Terminal."
-    publishedDateTime: 2020-04-11T05:30:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-04-09/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 40
-
-secured: "/p2f+CilAT3yTgGGmfW3zzliHhOVEPxjEIV4oOmIx1sUBWhu/9k+x26Gl5GjdOukU+Uxlmi+ml6GWGUgTvSxIV5MmSGihRgOE79VgLUnidQLE1LT0bWTPkTPQA0VueKx5trH9VjbOTFDrUSDn2q/KrcN4/6KMeFw+9kgwtX18bszulsOobCmrmULL5nOBFhiE8mxWLiHr62cnE35arzpQEcC05IiWAfUJ1P7JodokMuVnXxx9kG17kI9/ZoxEiUdOtscTr1fu1PoD587N801ED1jn/0ilRY8zOWy7ARvN9/mi+FOrb97huUl/6zWlAvi63m6aOz2PNTR+1a9lwRB5hcFtVo9KQvsl8DSNlS0KjfeoyE2DwePbWiY3yDEfbeJueX+HoPwpfNj3HxbMtO092asrpJOyj2WOjfPX/nxoMlV7ZXL5eeakT710nCMop/lOgbDG5e03NM3bXIYL1shx8fBk4iUaTVmjpJ9mqK9waA=;wc/2dZyyvvPj4cs0dPjipw=="
+secured: "eVPOF0JXg/IVUEbK/y4/dArzoqDt/lCeQ0qKjrbDTyItmZham72Jp84MN1hYlfzekPgsxetmaMfOyLcoDnoSWvcuVc1WluwkJZ+oNAVu4fPH8tmQKNBDpWfZoWGWxE7di4z6CBjgSW8bS+sIZUCl6p7+jcjDHKZOjg62M07FXf1eMF1Q9t+sbAvFP6wahtmpuLGrNL2TgCUFNXp6Mekbbzi5k6F0bKvhgFLImdfSaIHPyKyPWQtM++C7EUTunzRUmFdZCB94sBSLQh2/5D7lgzRD0k1kWAw1zwDXUooPnXmDwIKwLpVcx/NK+d4BuVeRppZGICMm/XcnAjBLm7jMxlhMHpCB9xY15QDRTwZhXDgnFIJXgBAqAxK2wYCDldQFE6r9hA2WjkxzblSHXN0ocvt+G3vGPopH4rUGXpoWnudOELvhX6d+Q7NIufUAtkEC18Kbom4SU6oZdQ+gyKZIDPKRXzqpzKFCtq4zHdtcMd0=;DUw5Wjv9GZjFQ2viHFun1g=="
 ---
 

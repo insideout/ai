@@ -342,6 +342,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-31-oneconnects-gamma-lab-wins-fintech-team-of-the-year-award-at-the-asset-for-two-consecutive-years.md",
+      "title": "OneConnect’s Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years",
+      "excerpt": "(“OneConnect” or the “Company”) (NYSE: OCFT)”, a leading technology-as-a-service platform serving financial institutions in China, is pleased to announce that its artificial intelligence research institute,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/Business Wire/623767459d894a32852a9215c4149467",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "OneConnect’s Gamma Lab Wins FinTech Team of the Year Award at The Asset for Two Consecutive Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
       "title": "Key Takeaways From AMD's Financial Analyst Day",
       "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
@@ -1099,51 +1136,6 @@
           "width": 1200,
           "height": 627,
           "title": "OneConnect Joins IDC’s Financial Insights’ FinTech Fast 101 List of Leading FinTech Companies in Asia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits.md",
-      "title": "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits",
-      "excerpt": "Menten AI: Menten AI says it’s using “quantum computing and machine learning” combined ... Fondeadora: Fondeadora is joining Mexico’s saturated fintech scene, with its alternative neobanking debit card. The company offers a fully mobile digital savings account run within its app. Fondeadora says it has 65,000 users and $6.5 million ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iv-healthcare-biotech-fintech-and-nonprofits/amp/",
-      "publishedDateTime": "2020-03-17T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/newmans.png?w=680",
-          "width": 680,
-          "height": 365,
-          "title": "All the companies from Y Combinator’s W20 Demo Day, Part IV: Healthcare, Biotech, Fintech and Nonprofits",
           "attribution": null
         }
       ],

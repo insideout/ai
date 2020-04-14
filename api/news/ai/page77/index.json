@@ -2,6 +2,220 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2020-01-17-what-can-ai-do-to-fight-global-warming.md",
+      "title": "What can AI do to fight global warming?",
+      "excerpt": "Tiernan Rays tells Karen Roby that some of the brightest minds in AI last month gathered in Vancouver to propose technology to fight global warming. Despite the brilliance of the inventions, other factors such as policy will be necessary to reduce carbon emissions swiftly. Read more: https://zd.net/373YMLj",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/video/what-can-ai-do-to-fight-global-warming/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/17/9cd53c09-594e-45b6-ad71-ffebbe7c4b06/thumbnail/770x578/06a6d9446705bfaef390a3bdbbfb492c/20200117-tiernan-karen-global.png",
+          "width": 770,
+          "height": 578,
+          "title": "What can AI do to fight global warming?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights.md",
+      "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
+      "excerpt": "One of the trends that came into sharp focus in 2019 was, ironically, a woeful lack of clarity around AI ethics. The AI field at large was paying attention to ethics, creating and applying frameworks for AI research, development, policy, and law, but there was no unified approach. The committees and groups, from every sort of organization ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/ai-weekly-meta-analysis-shows-ai-ethics-principles-emphasize-human-rights/amp/",
+      "publishedDateTime": "2020-01-17T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ai-principles-meta-analysis.png?fit=1200%2C594&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": "AI Weekly: Meta analysis shows AI ethics principles emphasize human rights",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-new-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.md",
+      "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
+      "excerpt": "Researchers of the ICAI Group -Computational Intelligence and Image Analysis- of the University of Malaga (UMA) have designed an unprecedented method that is capable of improving brain images obtained through magnetic resonance imaging using artificial intelligence. This new model manages to increase image quality from low resolution to high ...",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200117/New-method-can-improve-resolution-of-brain-magnetic-resonance-imaging-using-artificial-intelligence.aspx",
+      "publishedDateTime": "2020-01-17T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New method can improve resolution of brain magnetic resonance imaging using artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-bjork-and-microsoft-use-ai-to-create-music-that-changes-with-the-sky.md",
+      "title": "Björk and Microsoft use AI to create music that changes with the sky",
+      "excerpt": "The Icelandic star is using Microsoft AI as part of Kórsafn (\"choral archives\"), a non-stop composition playing in the lobby of the Sister City hotel in New York City. The project plays selections from Björk's many choral arrangements (including new ones composed by the Hamrahlid Choir) based on what the AI sees in the sky through a rooftop ...",
+      "heat": 197,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/17/bjork-and-microsoft-ai-sky-music/",
+      "publishedDateTime": "2020-01-17T10:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1067%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F1753deb0-3954-11ea-9f26-47e800c6b449%26client%3Da1acac3e1b3290917d92%26signature%3Dd74572e0141a4d05afbcc4cbd4f09da27109c50e&client=amp-blogside-v2&signature=397c2e6c49f4a56b1d74ddeac5f8b83a354ed9cd",
+          "width": 600,
+          "height": 350,
+          "title": "Björk and Microsoft use AI to create music that changes with the sky",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai.md",
+      "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
+      "excerpt": "“This is about building use cases, proving the value, developing, and technology, deploying on a POC, and so forth,” said Lionel Chocron, CPO of Hedera Hashgraph.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinoconnell/2020/01/17/hedera-hashgraph-cpo-the-adoption-of-blockchain-is-going-faster-than-ive-seen-in-iot-and-ai/amp/",
+      "publishedDateTime": "2020-01-17T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e21f534a854780006e8c6b8/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Hedera Hashgraph CPO: “The Adoption Of Blockchain Is Going Faster Than I’ve Seen In IoT And AI”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-google-hopes-to-draw-more-cloud-customers-by-making-ai-easier-to-use.md",
       "title": "Google hopes to draw more cloud customers by making A.I. easier to use",
       "excerpt": "Google's first Cloud AutoML tool will be for recognizing objects in images. It follows Google's Cloud Machine Learning Engine service and the Cloud Vision application programming interface.",
@@ -1079,221 +1293,6 @@
         "AI",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts.md",
-      "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
-      "excerpt": "Just as technology has transformed many other industries, it’s impacting the legal sector as well. Rather than just take over tasks that have traditionally been done by lawyers, artificial intelligence is expected to completely transform the industry and make online courts ubiquitous.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
-      "publishedDateTime": "2020-01-16T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e214479735f8c00079a0916%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
-      "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
-      "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidebigdata.com/2020/01/16/best-of-arxiv-org-for-ai-machine-learning-and-deep-learning-december-2019/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T19:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2013/12/arxiv.jpg",
-          "width": 450,
-          "height": 380,
-          "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-what-does-fairness-in-ai-mean.md",
-      "title": "What Does Fairness in AI Mean?",
-      "excerpt": "A closer look at how bias can creep into AI systems, and the push toward more fair and equitable AI outcomes. It’s not every day that the musings of a 4-year-old echo the conversations of the world’s leading technologists—but that’s precisely the situation in which I recently found myself while driving my daughter home from day care.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/01/15/what-does-fairness-in-ai-mean/amp/",
-      "publishedDateTime": "2020-01-16T19:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1f8038da6d38000629ac5f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5993%26cropY1%3D361%26cropY2%3D3733",
-          "width": 1200,
-          "height": 675,
-          "title": "What Does Fairness in AI Mean?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-how-jpmorgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services.md",
-      "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
-      "excerpt": "Large enterprises like JPMorgan, Fidelity and ICE are looking into using multi-party computations for a new breed of financial services business models. Leveraging blockchain and MPCs will lead to opening of massive opportunities for new services and products.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/",
-      "ampWebUrl": "https://www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/biserdimitrov/2020/01/16/how-jp-morgan-and-fidelity-could-leverage-blockchain-to-modernize-financial-services/amp/",
-      "publishedDateTime": "2020-01-16T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1fb5e2a854780006e89f78%2F0x0.jpg",
-          "width": 1200,
-          "height": 757,
-          "title": "How JPMorgan And Fidelity Could Leverage Blockchain To Modernize Financial Services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-microsoft-ceo-talks-sustainability-artificial-intelligence-privacy-and-satisfying-shareholders.md",
-      "title": "Microsoft CEO talks sustainability, artificial intelligence, privacy and satisfying shareholders",
-      "excerpt": "Microsoft CEO Satya Nadella chats with CNBC's Jim Cramer about the software giant's plans to become carbon negative by 2030.",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/video/2020/01/16/microsoft-ceo-talks-sustainability-ai-privacy-and-shareholders.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106341199-15792185215ED1-MM-Block-B-011620.jpg?v=1579218520",
-          "width": 1920,
-          "height": 1080,
-          "title": "Microsoft CEO talks sustainability, artificial intelligence, privacy and satisfying shareholders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

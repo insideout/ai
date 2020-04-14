@@ -2,43 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "publishedDateTime": "2020-04-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
       "title": "IBM makes AI tools and resources available to coronavirus researchers",
       "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
@@ -1224,6 +1187,52 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-how-ibm-turns-flashy-ai-projects-like-a-robot-that-can-debate-humans-into-commercial-products-for-enterprises.md",
+      "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
+      "excerpt": "The tech giant is introducing applications based on \"Project Debater\" that can autonomously cluster similar documents and understand idioms.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/how-ibm-turns-research-like-project-debater-into-enterprise-products-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e67b491e4f9fe389623a166?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

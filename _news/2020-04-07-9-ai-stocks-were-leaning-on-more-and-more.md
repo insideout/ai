@@ -1,25 +1,27 @@
 ---
 category: news
 title: "9 AI Stocks We’re Leaning on More and More"
-excerpt: "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and"
-publishedDateTime: 2020-04-07T13:05:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749"
+excerpt: "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ..."
+publishedDateTime: 2020-04-07T15:12:00Z
+webUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/"
+ampWebUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
+cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: InvestorPlace
+  domain: investorplace.com
 
 topics:
-  - IBM AI
+  - Facebook AI
   - AI
 
-secured: "rWFVoqalE4BB3jspN2Uy1GYkcHKvD2wVvffbbIV73Ki3l99uDIIr2l7l9RevRbUzW1lHkFlzZTT4S2H/3XcV7ZKq55QI1rX5S/9yeicsz/WeZ2H1AMrG6XI2cHtMm9n70L8qbyGVkBC1QC+dbVTNj5LyP9LMzFn9BERRkXgk6BZPR6Kcpd2Svn/EMhYj0JF0szgJAUfJqgvslJaJHWL/aCZqLluIwGLGg9zwfWkq+Iux5Cp+6FHDRl8D5B4IJfJ9xNvOsV/UhhlkIx3D71Ety7rCJaoNIGuwy7vaXoh6ohOU6B9HPLN5N3UnfAK3pafSXBw/Z9LPE6REf4l62jtUADJjVEZeQOZSc8jrl0ZhmKWVdxp5bQuEkyYrG9NO9xkuha/sJFwDwqZf/3xcECR3JiAub9sR5k04qr0NVFQHUoUA7QEkK0BHEtGYcXoOTycMqHxG43DdneX6u34eK4W7x4eDGgpbSmpUoXJdWNfs72E=;U3DC4MoYCEt/gR0n3SI3+A=="
+images:
+  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
+    width: 1600
+    height: 900
+    title: "9 AI Stocks We’re Leaning on More and More"
+
+secured: "4lYXryepMeFZxEAJ8JMmNMjL5OEHMx0heZuopxD6ae7KSU5NKw+JdF+3z+B3Q5+TBywuzv33yH/NrMAO4g6w4kAquYN69DUeddOP5vyAgKNW0MpzykP35ehtw9wupn5jQ4YAnN4esNu1Uoak0Kq7IDueY2dcEGa/1ezDSKxKbakvNvWIx7XgGmMOodque2NsMQ/x/zXs70+r2vyXNkdYkzCIFSpno6XXhSBrL2czksSvdPas2P/KHsYm7/n6mO/bhJX60iVVCGJ/+2ihxs6qxqOpXV8N74yxDEU1PY6aDFGrOOBVCgxwMx4puerOW2RH;qzuH1PZ67ax8M6EJBOhOhA=="
 ---
 

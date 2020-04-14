@@ -2,6 +2,169 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-03-apple-acquires-ai-startup-to-better-understand-natural-language.md",
+      "title": "Apple Acquires AI Startup to Better Understand Natural Language",
+      "excerpt": "Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Read more about the startup here: Synthesizing Realistic Human Speech Just Got a Lot Easier An Apple spokesman said the company “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "publishedDateTime": "2020-04-03T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
+          "width": 367,
+          "height": 496,
+          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
+      "title": "Google’s AI teaches robots how to move by watching dogs",
+      "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "publishedDateTime": "2020-04-03T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots how to move by watching dogs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices.md",
+      "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
+      "excerpt": "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/",
+      "publishedDateTime": "2020-04-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1165649734-e1585940050791.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-waymos-halts-self-driving-car-fleet-due-to-coronavirus.md",
       "title": "Waymo's halts self-driving car fleet due to coronavirus",
       "excerpt": "Following news Waymo's curtailed its fleet of self-driving car prototypes in California and Arizona, the company has grounded its entire fleet amid the coronavirus outbreak in the",
@@ -905,172 +1068,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-azure-cognitive-services-get-all-new-natural-text-to-speech-voices.md",
-      "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
-      "excerpt": "Microsoft’s Azure Cognitive Services has received three new voice styles for application in various text-to-speech environments. The AI API and SDK suite now has specific voices for customer service, newscasting, and digital assistants, with each promised to sound natural, reliable, and expressive. The Cognitive Services capabilities build on ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/",
-      "ampWebUrl": "https://winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
-      "cdnAmpWebUrl": "https://winbuzzer-com.cdn.ampproject.org/c/s/winbuzzer.com/2020/04/03/azure-cognitive-services-get-all-new-natural-text-to-speech-voices-xcxwbn/amp/",
-      "publishedDateTime": "2020-04-03T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2016/06/Artificial-Intelligence.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Azure Cognitive Services Get All New, Natural Text-to-Speech Voices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025.md",
-      "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
-      "excerpt": "New York, April 03, 2020: The Machine Learning as a Service Market is expected to exceed more than US$ 7500 Million by",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-emerging-trends-global-industry-forecast-to-2025-2020-04-03",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T00:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Machine Learning as a Service Market Emerging Trends & Global Industry Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-      "excerpt": "Vicarious, an AI software company, is training a growing fleet of industrial robots to carry out manufacturing jobs that only could only be performed by human beings until now. Their fleet is imbued with a \"layer general intelligence\" that allows them to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic",
-      "ampWebUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "publishedDateTime": "2020-04-03T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/t/this-ai-st/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid_wgfw.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-explore-computer-vision-in-microsoft-azure.md",
-      "title": "Explore computer vision in Microsoft Azure",
-      "excerpt": "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Explore computer vision in Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

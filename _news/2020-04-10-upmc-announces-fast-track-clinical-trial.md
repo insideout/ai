@@ -26,34 +26,17 @@ images:
     title: "UPMC announces fast-track clinical trial"
 
 related:
-  - title: "UPMC seeks to speed up clinical trials on COVID-19 treatments with the help of artificial intelligence"
-    excerpt: "“We’ve developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.” He compares the REMAP approach to a chef offering a prix fixe menu ..."
-    publishedDateTime: 2020-04-09T16:22:00Z
-    webUrl: "https://www.fox43.com/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
-    ampWebUrl: "https://www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
-    cdnAmpWebUrl: "https://www-fox43-com.cdn.ampproject.org/c/s/www.fox43.com/amp/article/news/local/upmc-hopes-to-speed-up-clinical-trials-on-covid-19-treatments-with-the-help-of-artificial-intelligence/521-fd2da9db-f846-4dbb-9bb0-e4e444928d63"
-    type: article
-    provider:
-      name: FOX43
-      domain: fox43.com
-    quality: 43
-    images:
-      - url: "https://media.tegna-media.com/assets/WPMT/images/071249cd-4235-4539-b33d-45b9138af828/071249cd-4235-4539-b33d-45b9138af828_750x422.jpg"
-        width: 750
-        height: 422
   - title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
     excerpt: "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ..."
-    publishedDateTime: 2020-04-09T17:40:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php"
+    publishedDateTime: 2020-04-09T18:20:00Z
+    webUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Medical Xpress
+      domain: medicalxpress.com
     quality: 15
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg"
-        width: 720
-        height: 878
 
 secured: "HzrX19yD9dH05+QabJMYyVSErQzX74H9y3EFjlpP8tOOs7wPzoSvRcW0quqqI8Ds3iY6RsbdzfoofgRxdVCI2pJU4r+lWZ9mjZ9Uy/IqTkQs2f7p205NH0pdpe+Uip5L8LhkZ3PMhOESnMNu79vsriXif7cgLld8ehoPslp8Z0Yjn7w5g2R/ns1eZE9ckmZwEKbOvqIzvJyB2mqsCXMtmecbYI/7Nb+MSgczASQVe2uDBAYtiGftzXiAnE8KZmhKF1voTtbnPrEdDWpOkF5m4GMfFYvNgNoPIPxDott2WLPz1JOTj3qTdAHUVhhU+n3p;SqdfhXx4vKBJR1pxx1M/7w=="
 ---

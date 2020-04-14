@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-19-apples-priorities-are-shifting-as-iphone-sales-continue-to-sink.md",
+      "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+      "excerpt": "The company poached a new executive from Google to lead its artificial intelligence efforts ... most notably Waymo, the Alphabet company that spun out of Google's self-driving car project.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/02/19/apple-shifts-priorities-to-grow-services-ai.html",
+      "publishedDateTime": "2020-02-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102732800-GettyImages-146178359.jpg?v=1545326522",
+          "width": 3000,
+          "height": 2111,
+          "title": "Apple's priorities are shifting as iPhone sales continue to sink",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-altruistic-hopes-for-ai-self-driving-car-firms-to-share-their-proprietary-tech-is-a-starry-eyed-dream.md",
       "title": "Altruistic Hopes For AI Self-Driving Car Firms To Share Their Proprietary Tech Is A Starry-Eyed Dream",
       "excerpt": "Can’t we all work together? This question is often brought up at conferences on AI self-driving cars. Why so? Well, it is noteworthy to realize that there are currently about 40,000 deaths each year in the United States due to car accidents and about 2.",
@@ -1258,51 +1303,6 @@
           "width": 600,
           "height": 350,
           "title": "Tesla accused of abruptly pulling self-driving from a used Model S",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-self-driving-delivery-van-ditches-human-controls.md",
-      "title": "Self-driving delivery van ditches 'human controls'",
-      "excerpt": "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51409031",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51409031",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031",
-      "publishedDateTime": "2020-02-06T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png",
-          "width": 1024,
-          "height": 576,
-          "title": "Self-driving delivery van ditches 'human controls'",
           "attribution": null
         }
       ],

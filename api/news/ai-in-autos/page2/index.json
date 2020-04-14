@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
+      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
+      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
+      "publishedDateTime": "2020-03-30T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 482,
+          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
       "title": "Huawei steps up ambitions in self-driving vehicles race",
       "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
@@ -1192,43 +1237,6 @@
           "width": 1200,
           "height": 630,
           "title": "Waymo gamifies self-driving car data and wants everyone involved",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
-      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
-          "width": 600,
-          "height": 401,
-          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
           "attribution": null
         }
       ],

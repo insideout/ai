@@ -2,6 +2,176 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-01-shanghai-judicial-courts-start-to-replace-clerks-with-ai-assistants.md",
+      "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+      "excerpt": "The judicial system in China is set for a hi-tech shake-up, as artificial intelligence (AI) will soon automate the traditional job performed by clerks in courtrooms across the country. That initiative started on Wednesday under a pilot programme in Shanghai, where 10 courts replaced clerks with AI assistants to transcribe case notes ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "ampWebUrl": "https://amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/innovation/article/3077979/shanghai-judicial-courts-start-replace-clerks-ai-assistants",
+      "publishedDateTime": "2020-04-01T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/01/4a082aa2-73ef-11ea-ab8f-988daf8efd6f_image_hires_215024.JPG?itok=j8en0PIv&v=1585749033",
+          "width": 1200,
+          "height": 630,
+          "title": "Shanghai judicial courts start to replace clerks with AI assistants",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-actioning-individual-customer-context-with-artificial-intelligence.md",
+      "title": "Actioning Individual Customer Context With Artificial Intelligence",
+      "excerpt": "The current capabilities of ML and AI allow not only the complete context of the customer to be gathered instantly, but also to serve the experience most likely to drive customers lower down the funnel.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/01/actioning-individual-customer-context-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-04-01T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F158.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Actioning Individual Customer Context With Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-ai-led-operations-a-way-for-enterprises-to-scale-with-foresight.md",
+      "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
+      "excerpt": "Things move quickly in business today. And organizations are increasingly using data to move their businesses forward. IT systems are generating a growing variety, velocity and volume of data. This both creates challenges and opens up new opportunities.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/01/ai-led-operations-a-way-for-enterprises-to-scale-with-foresight/amp/",
+      "publishedDateTime": "2020-04-01T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-49.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI-Led Operations: A Way For Enterprises To Scale With Foresight",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-innovations-in-lidar-4d-radar-deep-learning-processors-plasmonic-light-switches-driver-seat-airbags-advanced-ai-autonomous-vehicles-researchandmarketscom.md",
+      "title": "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI, and Autonomous Vehicles\" report has been added to ResearchAndMarkets.com's offering. This Mobility ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200401005336/en/Innovations-LiDAR-4D-Radar-Deep-Learning-Processors",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T03:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200401005336/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Innovations in LiDAR, 4D Radar, Deep Learning Processors, Plasmonic Light Switches, Driver Seat Airbags, Advanced AI & Autonomous Vehicles - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-viewray-and-viecure-announce-strategic-collaboration-to-accelerate-adoption-of-personalized-cancer-care.md",
       "title": "ViewRay and VieCure Announce Strategic Collaboration to Accelerate Adoption of Personalized Cancer Care",
       "excerpt": "PRNewswire/ -- (Nasdaq: VRAY) announced today a strategic collaboration with VieCure, an artificial intelligence (AI) informatics company with a leading point-of-care clinical decision support",
@@ -1127,181 +1297,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process.md",
-      "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
-      "excerpt": "As global economic grows each year, firms work tirelessly to recruit the best talent available on the market. Kerry and Anna Wang understood the canonical problem in acquiring talent and built Searchlight.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2020/03/31/accel-backed-searchlightai-a-b2b-hiring-software-startup-fixes-the-broken-interviewing-process/amp/",
-      "publishedDateTime": "2020-03-31T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7fdebce3d3600007fb3de0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Accel-Backed Searchlight.ai, A B2B Hiring Software Startup, Fixes The Broken Interviewing Process",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development.md",
-      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration for Machine Learning and Neural Networking Development",
-      "excerpt": "PRWeb/ -- Gumstix®, Inc., a leader in computing hardware for intelligent embedded applications, announced the release of four Edge AI devices designed to meet the demands of machine-learning applications moving massive data from the networks edge.",
-      "heat": 115,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration-for-machine-learning-and-neural-networking-development-1029049304",
-      "publishedDateTime": "2020-03-31T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "TensorFlow",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027.md",
-      "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
-      "excerpt": "Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published report global Natural Language Processing (NLP) market provides a holistic overview of the current market covering the current trends.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-ai-lifecycle-management-startup-cnvrgio-launches-free-community-tier.md",
-      "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
-      "excerpt": "Cnvrg.io, a data science startup headquartered in Jerusalem and New York, today released a community version of its machine learning automation platform designed to help enterprises manage and scale AI. CEO Yochay Ettun says the release was motivated in part by the influx of social distancing and remote work stemming from the COVID-19 pandemic ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/ai-lifecycle-management-startup-cnvrg-io-launches-free-community-tier/amp/",
-      "publishedDateTime": "2020-03-31T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/03/big-data-shutterstock_228162115-e1573230263860.jpg?fit=1000%2C600&strip=all",
-          "width": 1000,
-          "height": 600,
-          "title": "AI lifecycle management startup Cnvrg.io launches free community tier",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AWS AI"
       ]
     }
   ],

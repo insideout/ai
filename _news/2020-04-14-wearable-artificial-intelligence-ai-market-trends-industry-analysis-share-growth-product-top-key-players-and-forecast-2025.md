@@ -40,6 +40,17 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Automotive AI Market Report 2020: Trends, Size, Share, Recent Developments, Player Rankings and Forecast to 2027"
+    excerpt: "This research report provides in-depth analysis of the automotive artificial intelligence (AI) market in five major geographies and emphasizes on the current market trends, market size, market share, recent developments, and forecast till 2027. The global automotive artificial intelligence market is expected to grow at a CAGR of 39.8% from 2019 ..."
+    publishedDateTime: 2020-04-14T09:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/04/g15794836/global-automotive-ai-market-report-2020-trends-size-share-recent-developments-player-rankings-and-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/15794836"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15794836"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
 
 secured: "jTaTgC2T3O6Ca4s26PbantiAK5k9p1vWsJVITS/TXxSAzmxI1uY46JktPB98Q8TfzZVt1TuZXkYJ10J7a8HhfJH4NZwDr1AFZx/NHh22dLD03yVnHY4W4QrXFyv27EnTntQQixYMZGCM8IN0sc8HSi1fFsuX73SVtEUjZt5I4ca+/ZuWwS9YXARFix7W7MDzVXmYqIfeSh5INEJF+sLYiH12nLT0q1CGEomUi1yzIQ/3bGxo4hHJHVM/sHYsyxSsfc9JrUtpfHVtd74JYQM2Ru1ag3fyhEdLO/lb2hroD8tJ6apO0O/8yjFjyBRjjpyf;AsWuyMSwWJbpHOkG4H4b7w=="
 ---

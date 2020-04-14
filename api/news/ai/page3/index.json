@@ -2,6 +2,186 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-09-artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026.md",
+      "title": "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+      "excerpt": "Market Study Report adds 2020-2026 Global Artificial Intelligence (AI) in Automotive report that offers an exhaustive coverage of",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-automotive-market-size-historical-growth-analysis-opportunities-and-forecast-to-2026-2020-04-09",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Automotive Market Size, Historical Growth, Analysis, Opportunities and Forecast To 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak.md",
+      "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
+      "excerpt": "The coronavirus outbreak has forced retailers to focus more on sanitation while they are struggling to restock shelves and hire more employees. Some grocery stores are turning to floor cleaning robots for additional help.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
+      "publishedDateTime": "2020-04-08T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e71b1b4aaaa0006eceb13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3999",
+          "width": 1200,
+          "height": 800,
+          "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-startup-stimulus-how-logjams-and-ethics-are-impacting-federal-loans-for-tech-companies.md",
+      "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
+      "excerpt": "Several startup founders attributed their experience, good or bad, to the bank facilitating the loan. Dan Wachtler, CEO of an artificial intelligence upstart called Darklight, immediately recognized that the type of bank he chose would impact his likelihood of success. Wachtler’s background working with big banks as clients informed his decision.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/",
+      "ampWebUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
+      "publishedDateTime": "2020-04-08T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/20190209_145224-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-zoom-hires-ex-facebook-security-chief-alex-stamos-as-google-bans-desktop-app.md",
+      "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
+      "excerpt": "Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes exclusive access to webinars to interact with C-level executives from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
+      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3079121/zoom-hires-ex-facebook-security-chief-alex-stamos-google-bans",
+      "publishedDateTime": "2020-04-08T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/09/f2f3e990-7a01-11ea-9b24-e7152d1bf921_image_hires_093548.jpg?itok=LcKuL49k&v=1586396156",
+          "width": 1200,
+          "height": 630,
+          "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-google-expands-ai-calling-service-duplex-to-australia-canada-and-the-uk.md",
       "title": "Google expands AI calling service Duplex to Australia, Canada, and the UK",
       "excerpt": "Google’s automated, artificial intelligence-powered calling service Duplex is now available in more countries, according to a support page updated today. In addition to the US and New Zealand, Duplex is now available in Australia,",
@@ -1148,168 +1328,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-telstra-uses-ai-as-first-hurdle-for-prospective-hires-to-clear.md",
-      "title": "Telstra uses AI as first hurdle for prospective hires to clear",
-      "excerpt": "Telstra has said it has been using artificial intelligence (AI) to filter through the 19,000 applications it received for its extra 1,000 temporary call centre positions in Australia that was announced by the telco last month. Group executive of transformation and people Alex Badenoch said the telco had been able to move from screening to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "publishedDateTime": "2020-04-08T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/10/17/e4ac0eaa-1191-4650-ba6d-dfefa8816d88/thumbnail/1200x675/0cbfe385425f1f51ffa4c8788617645c/sky-and-space-nano-satellite.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Telstra uses AI as first hurdle for prospective hires to clear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-dubais-dewa-shapes-the-future-of-utilities-using-artificial-intelligence.md",
-      "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
-      "excerpt": "This achieves the National Artificial Intelligence Strategy 2031. Dewa collaborated with Smart Dubai to apply the AI Ethics and Principles in all its projects and initiatives, and Smart Dubai AI Lab. Dewa launched Digital Dewa as its digital arm, with four pillars, making Dewa the world's first digital utility to use autonomous systems for ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/business/story/Dubais_Dewa_shapes_the_future_of_utilities_using_Artificial_Intelligence-SNG_171851562/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_171851562/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_171851562/",
-      "publishedDateTime": "2020-04-07T23:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Dubai's Dewa shapes the future of utilities using Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-mybuddyai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round.md",
-      "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
-      "excerpt": "MyBuddy.ai, a startup that develops virtual tools to help kids learn English, announced today that it has raised $1 million in seed funding from LETA Capital. The capital will be used to expand into new markets and develop new features including mini-classes about health. The San Francisco-based company’s app features a AI-based virtual tutor ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
-      "publishedDateTime": "2020-04-07T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-740526807.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-3-observations-amid-the-covid-19-crisis.md",
-      "title": "3 observations amid the COVID-19 crisis",
-      "excerpt": "And today, satellite images, foot traffic and transaction data are giving us a better read on the economy amid widespread global closures and re-openings. At the same time, the natural language processing of news flow,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
-      "publishedDateTime": "2020-04-07T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1308265199",
-          "width": 1024,
-          "height": 512,
-          "title": "3 observations amid the COVID-19 crisis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

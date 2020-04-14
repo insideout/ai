@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-14-cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd.md",
+      "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
+      "excerpt": "So, if you're looking for something a little more faithful, and own the PC version of the original game, feast your eyes on the Remako HD mod, an AI-powered fan-made upgrade that's just about to ... In China, Nintendo's games are available on the Nvidia Shield, with the chip maker using its neural processing techniques to give the likes of ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/sg/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "publishedDateTime": "2020-04-14T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/hzHvuwLmTMnaGtDNL77TLF-1200-80.jpg",
+          "width": 960,
+          "height": 540,
+          "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
       "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
       "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
@@ -443,6 +488,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-13-automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025.md",
+      "title": "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025",
+      "excerpt": "By Technology (Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Context Awareness),",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
       "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
       "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
@@ -741,29 +831,37 @@
     },
     {
       "path": "_news/2020-04-11-robots-welcome-to-take-over-as-pandemic-accelerates-automation.md",
-      "title": "Robots welcome to take over, as pandemic accelerates automation",
-      "excerpt": "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers.",
-      "heat": 79,
+      "title": "Robots Welcome to Take Over, as Pandemic Accelerates Automation",
+      "excerpt": "Broad unease about losing jobs to machines could dissipate as people focus on the benefits of minimizing close human contact.",
+      "heat": 109,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
-      "ampWebUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "publishedDateTime": "2020-04-11T10:14:00-07:00",
+      "webUrl": "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/04/10/business/coronavirus-workplace-automation.amp.html",
+      "publishedDateTime": "2020-04-11T00:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
-        "images": null,
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Robots welcome to take over, as pandemic accelerates automation",
+          "url": "https://static01.nyt.com/images/2020/04/11/business/10virus-automation2-print/10virus-automation-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Robots Welcome to Take Over, as Pandemic Accelerates Automation",
           "attribution": null
         }
       ],
@@ -988,89 +1086,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving-and-more.md",
-      "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
-      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla ‘battery day’ being delay, Tesla Cybertruck new, Full Self-Driving news, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub, founder and publisher of ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/",
-      "ampWebUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
-      "publishedDateTime": "2020-04-10T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
-      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
-      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
-      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
-      "publishedDateTime": "2020-04-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
-          "width": 771,
-          "height": 578,
-          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
