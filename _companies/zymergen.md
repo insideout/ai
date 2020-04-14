@@ -2,7 +2,7 @@
 name: "Zymergen"
 overview: "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible."
 type: "profile"
-heat: 75
+heat: 40
 
 website: https://www.zymergen.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zymergen"
   url: "https://twitter.com/zymergen"
-  followers: 3078
+  followers: 3206
 
 size: 201-500 employees
 yearFounded: 2013
@@ -36,7 +36,7 @@ images:
     width: 400
     height: 400
     title: "Zymergen"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1593043200&v=beta&t=DMVwzmzLvH3bBkDQLjiRLF0rBK6oweSeqUcexwqzsXQ"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k"
     width: 400
     height: 400
     title: "logo"
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=658kvYgrJBE"
 
-secured: "MVBGqYANRpbuc9x05/TBxSvSppdkjEKVJAsgl8nKcUy67wdJy2fRRXCg5qLkgXkN6MKacPfPtbXFg3h9Y8m9c1CTsAm6IbXzhtI/0NkaTycoockeMKS2xyMQ+dRJGvIPOtmeIT+9GAMZrqNS1evFT8BV5DBbwntP6M5BzDZXlC5baaQxwG5ItvyOumjyY5CSDtfY10qb/V5bEpcVNmhtOmUVDdKxBPCSUkZb+evREd5x3blsU8pzSRRSfzJeRF2HIc2tMsq7pSGzzL0MslNvK9oNI7/IRSodP9Fa0qKh0QUU5w4VcgWqGA1CJTBlKUNS2tdv80CrAf74NvIaXcC+Ng==;7jdQlAi+wf+QbiGqRqKqCA=="
+secured: "wKCHjQiuazbhQirugPDw723Xb4fdjw86Q+Uyo8Lf+jrIt3bW5frXjEF9s87kvguFE3bPAi31YMJnVkHcbE58WeI9uALQxWsBG7wA5sS4B+tgK9qSNMcYMG9+L29miMN4EUX5Z+OLFHlKt7q6+EMsZqAdKHJI3JQV/JpYj/ICS95bPCgScAGu1Wl31ca5LTTs2okmasGnGDjHxSfzy44etzSDp6uImZZEnk6/jG8OM6ZeeaVa0oaK2Jaco2U9eGslZXghZtHHpkj7YDYCmYR7xTbeEsgzjDKi99rghlSGhTW9JlGtvTuMXwIjzUjBBabJpPuVA8axJL2Wj0nECbusOw==;sxqEMNv16xTW6mjcnppWyg=="
 ---
 

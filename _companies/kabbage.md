@@ -2,7 +2,7 @@
 name: "Kabbage"
 overview: "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK."
 type: "profile"
-heat: -1081
+heat: 134
 
 website: https://www.kabbage.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KabbageInc"
   url: "https://twitter.com/KabbageInc"
-  followers: 23179
+  followers: 23602
 
 size: 501-1,000 employees
 yearFounded: 2009
@@ -35,7 +35,7 @@ images:
     width: 400
     height: 400
     title: "Kabbage"
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1593043200&v=beta&t=_ogz9RJhxyy1NmtFqqeZftRShMqypGahw_OgjOwO2_E"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4"
     width: 400
     height: 400
     title: "logo"
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VnqoE8kOHkI"
 
-secured: "GHxnSgrWSg+bf42RP8YX0YEa40qlWy6sxmDo0TzuXhZUVNmnE7VY9mDTCg3EydyfhcQcy/p6wcAn6IWdGiSrgPn+j70FJwPKnt3jG+bCZZz8sqhzxVzNd5IlOGPE0JSTGO26bhlLa/aEdDMqaapfZIQKqRo9LwVFjA3L5fU++5x8/g5i9ptCOCgofTcxHfcGUL0kgm+X4cjpHbdli0VPtZHnIeu+VPcFS3tZBGaaOStjK0UolYiqwyM+VnwIz3kJw2H6pLP/ZOjyOv5CqdHNnpKnEgbPs6Sew/0BK4QdHA0xdGhGrqfHIY/U6aPvZYmk6oawboJbzx6SRRTjzUsaeQ==;ahAG6RqNr0+juVg47g3sLw=="
+secured: "mi/Vh7tI1tyMwFvMgl5+bUv7aTTNS588jvsps83msnhsBd4GKtIyjHbmjYHLfvegYtFT9MZLdvXH0r6TpKyuBXUl/cQZB9atAYmoRvh79oNk245m/Pj4bXo4sN3B1v9VuTE9fSjiLZ0kPH0GQtKUCYZmk+17myxn/UFHBmcmoLHddcJHTt2jJ4bj/S0uP+pU6PFwv4yX/k2oRaLndW/qfDE94km5jWZYroWwetbcm01pAfZSfkxk27eiH/3Q9VhKZ6UzNlgLZsBiNvqMBT6aOgTtC3HECn9NhfNZ7SoqR404vguI7D03pJSiTV2TUX5ChMJ5H1ce6Ifg96oypdZ5FQ==;xAKSNQhC2HVzqrwVRG43jQ=="
 ---
 

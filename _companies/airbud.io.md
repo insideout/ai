@@ -31,11 +31,11 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGQdbr_zkjBrQ/company-logo_200_200/0?e=1593043200&v=beta&t=jNGhRqFQjxJyuCO02Xxju3axtgt4OtAJkEYfqm--xxs"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGQdbr_zkjBrQ/company-logo_200_200/0?e=1594857600&v=beta&t=gdlt9WD_SDGSwtntJIJgRhw2cclxV1uht-4-Vk17Rwk"
     width: 400
     height: 400
     title: "logo"
 
-secured: "0DN6Um/50276xeaFJ7H4YWHR9QhUprE/Tdtf+MtfZDkLsDj1iAh38YZs79GbLe0q0M8yL4+m+nV/u6jLl6twIySbARX5a9XK6PdlkBk5TDNy7d84txB98+WZKnJxXwp+X2GesRVeRX+4ezpUwT/uvYGTgrl+pj7+AHHc7Nf2/0w8bMPdEUf22GC8e09XvMbxxiUjGyOHh8g+VyGNCx172Fqxz5V4XavtRaNc1Yyym8H0IqKINeqGLHzjp2KsTkBv2td3FkOSbLJRoG3H/w0pFKWNK83yrJpnpp03Pha15pzV+rRICN106xrq1nzUM919Jh7FpmCMEWZQsseaJcRREA==;tzaaLj+JfC8dcUqDSt1Cww=="
+secured: "+G9q0UC+7YXz0TosKrEyu+uPpiOS/i31xvRTrJNcQmX4cqI06poE48YimsUlYlu33qqCvj+B1So3IA/DInO9YYwIT92Vsd486XMOz+3flcJ19ABJhMY3V2qtxAibQKi3lNnRs7GVAqPackAjGM6/smAVwxlmLTqZUlvIeTzMd05HJuskpW+0NxYQh/Igr1PKO9w/F+5EnpKJCcouTZwGOSAlgyDSqSktwdHf0UbMqduQYbA2KvX0idgm7umGkdPNldo6QY0Ur2osaf5bxW4iz4CQPcq2NhF6Kc7Hx79biIYImZ4GkCNFn+po3QcZN2sBJ6sORmpaBEo7PWjpKkkXEA==;1xM/ME+sQxjaUaMadL9XyQ=="
 ---
 

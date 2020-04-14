@@ -4,7 +4,7 @@ otherNames:
   - "GEENEE Inc."
 overview: "GEENEE is an advanced video and image recognition platform that uses patented technology to deliver dynamic, curated content into the moments of daily life."
 type: "profile"
-heat: -211029
+heat: 0
 
 website: https://geenee.me/
 
@@ -41,11 +41,11 @@ images:
     width: 400
     height: 400
     title: "Geenee"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_200_200/0?e=1593043200&v=beta&t=IQV6Jzd1ek_KpbQy9wasWPi9QuxuGc8uuFj4yzGMOs4"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQG0Me_06B5hoA/company-logo_200_200/0?e=1594857600&v=beta&t=Vb-7_imxLr-yZ--Y0ymFJADunzhJRERmUTA2bftYtIs"
     width: 400
     height: 400
     title: "logo"
 
-secured: "xI3OJUQacZfWAmSGU4aJE/jZVjG/+60262yFnSqDvn0NYoHdltibfjIQX3o82nsmd++d2/zuy+iw/QxGyFods1lGJYthMnGC3DwWxI5uFFcUQWA+gQEJG1S/oIaWBBRmwHLAKgXBDBgjtBIhHDQRTnTMKP3apyYt1uAZEwp3KJjZuIk4joZlC2dsS8T81DYvU7yhesBqO+nOb7MWFkbF1i5rflUole93fxXooouq1x+C6TEohPL/J8FCkDuPTCAA8vV+7CIOlfZv9vslzfcnnoEgkqrtclCKUPP3AxcGX4ISgEdXAfT3t0L1jGsZHyiVeK275Cndxe5zGapxZ0xCiQ==;tamt0gUazstKW3PxpAcnwQ=="
+secured: "iiFEqa+HF9LZU6vVS8g3XGg/ANOC3ahgzo6EUo5ivceNPMKXet48uQw565JmUv1t2Z597JmyFnWYZr59PEOVK01LsvoNifIlwDvEAo9sYs+fz+Crk+E3mebmHDHHbSol9kVlAjbT7OdcwlLx75u0eJKbgveZFL63ONMJzVrqEdE7aDa/vmMhdhacj+sRVCDR6YZ+SGQQX1E8kC9Ll8/2H0NYDhE8ClKdNfjGz4U8n1/5Bsep/8cesRs/+KPJlzu7T7yx4EcmJ8FO5If8Kw0oMAF1Uo7MiYkBTI9yZrUbC9KWnDdDmvC2ArLRxLIMNQW0J4xjcCo18er36Dv1mpUY6w==;4dz4t3M8ygqSfdX2EFnIZw=="
 ---
 

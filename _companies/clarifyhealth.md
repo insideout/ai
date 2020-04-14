@@ -2,7 +2,7 @@
 name: "Clarify Health Solutions"
 overview: "Clarify Health provides the breakthrough technology and analytics platform to personalize and optimize patient care journeys. Our purpose-built solutions - developed by a world-class team of data scientists and engineers from the financial services industry, top clinical operations experts, and logistics specialists - are transforming healthcare processes and workflows. Clarify delivers actionable insights that enable physicians, health systems, payers, and life sciences organizations to deliver better care today and evolve for a value-based world."
 type: "profile"
-heat: 63
+heat: 1
 
 website: https://www.clarifyhealth.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifyhealth"
   url: "https://twitter.com/clarifyhealth"
-  followers: 448
+  followers: 453
 
 size: 51-200 employees
 yearFounded: 2015
@@ -35,7 +35,7 @@ images:
     width: 400
     height: 400
     title: "Clarify Health Solutions"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1593043200&v=beta&t=8h_FXyyUmJ9vYOBPDP6I9AE09IKsZxRmBI2chAIUJ4Y"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQEMhUl0AvDjnQ/company-logo_200_200/0?e=1594857600&v=beta&t=YHFxjnbIB6TVu5qDajyOhNpNIAyVVdjDaJBcZN2K2hM"
     width: 400
     height: 400
     title: "logo"
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j4LXE1HWZBk"
 
-secured: "VNs5gGY3pMFL8D2tdkoVSwQokZInibjzympKPJIHrx1SoLdOXvd8SeJ8NzZ/ub6qotIHuOZjSB0AaQP7r6hs8lomA+wi68zZcIxXzpjni1L6QJciXoFYet3hbPTaS+hMnDXaNlosCdFwaFtKGet0PVdKjZ7zxiTJlErBnYUi1Z3wdll+IaK9O+c1xwg7g0DUT4/Jm/FbNvw8aSs9s68AK7VX3l9dZzad8P9X+QPw11+EmVYTNs/RtASP9QVYxc2eFt77V3vhedNbkywZxhIo1EwdxbyLscb+2akPGGbrwzSENGUofuRh3/L9ylZykQQIGu2p9CtsciXsEk5hnGbWZA==;kYGb73al/Yu+XoOyr0+qgw=="
+secured: "w4ufYREqL5MSEL51ukUfUo1ehbtfX/xFIsWfgwbahFqJmwq9aeIFP0KVwY2/MUTxx85rlWiDgRUpkEs69OuaeS7RUmj1E9rf+G5NSIrqSNDflceVqUESIz3U7lKBTFxOISr/xizIwXtA3qvVev/vub55xLiKHo8+chcgkLvGeVf9PzrLemhFB0+na385sTigT+iYa5VbNz6JHFMmMkMvZtO8QwzKMpGYCkEqFEJG9flkzbzaWk6KRZBnq49X13QMZwlwNyXpOp71cpdCSIZ9JSL03GE6jS38giMFUFOqHHTHqWsfX/RUKk3SaY8xrVGM7qIhbiyRvZl+KkLGomzsGg==;eouXoG9GTrrtAfVu6KRC5Q=="
 ---
 

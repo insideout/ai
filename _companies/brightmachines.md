@@ -2,7 +2,7 @@
 name: "Bright Machines"
 overview: "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing."
 type: "profile"
-heat: -26
+heat: 1
 
 website: https://www.brightmachines.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bright_machines"
   url: "https://twitter.com/bright_machines"
-  followers: 629
+  followers: 635
 
 size: 201-500 employees
 yearFounded: 2018
@@ -36,7 +36,7 @@ images:
     width: 400
     height: 400
     title: "Bright Machines"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_200_200/0?e=1593043200&v=beta&t=_seKgNjoJKDYEoViS9AM0LaVIFBugzQfFqIL3hpErdg"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQEpxLmBz7I4CQ/company-logo_200_200/0?e=1594857600&v=beta&t=JGjsPdJDF7CSRJmboiLh_q3mExe-_Necttkv6XUr4cw"
     width: 400
     height: 400
     title: "logo"
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sU4h4V4pDi4"
 
-secured: "JfEAghB19xkviZ9V+J47d7dohjxj46dF7Wh0mpJ2FbUvRKCxlQCi/W3v+QxX3JBITOKfVvib68xQdCaYiZmYqS3MbRlEtmur6vx+Nr1NcA50XIE1loGvgqtTFDs5gt1ch9l9cVFHbFvx5gUSfbB8rGnbjzUmOCABxc3aCMpQ5d9LpCrHlkgoK21g8klFu9hDF7USdpD5QO+g2j5JQu8niMXEpdHrZVemj9tJXjeUXMZel1MtGPsKzcprZoMxuWV91KkhHbrtRurUo/AFTqblRwDY/c5RP6HqxTSkL3zT+BuumjbzDmx7RAYGpbw5ZItnP28gMGd3B0oM5Treuwyt8Q==;5ajiSAS8MX8c3thCr196OQ=="
+secured: "tbE0L4FUMdPT7fooV0hLU+0GYtaYdhc62BaHAq6AuKzFO1lZ1k+MQNPsXCje+8qohT+mCW4gOaanBrRyW6eoW0nuWCbs2ovZAg5hnm9nBpoaAxqzww6uak2IKVBSI67vZjYj+KhdYMhgUB7LrmTezapcuNgDIaQVCS2grGTfOAeywvmb12sgfI80NRX0vpesyWYVUGT7WmjR/Hqhth98vZZhrciUOIFJdO1ewa3NMbq/Ca7Pfkh7krxC76Gh2XKtIFgckGu45smKRuJXxLyzcwCw/7m6zK0Rm8rKyr1NC2h5YPYsXmupS+dSQ2xBELEkrsqi/JErZcSyW7civmXHEA==;OFOrFlSNPHn2ZSmL/5pteA=="
 ---
 

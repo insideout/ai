@@ -29,7 +29,7 @@ tags:
   - Natural Language Generation
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFGxMuC_cMpXw/company-logo_200_200/0?e=1593043200&v=beta&t=lyg4qahKVjt-WWNgCcLk4Be9aXxBV-vQhFF8NyR8NJ4"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQFGxMuC_cMpXw/company-logo_200_200/0?e=1594857600&v=beta&t=LjusR1qYQN4IoyQ-Kzs3Pi3MYwd0ucgVi2Ca-CbeVnI"
     width: 400
     height: 400
     title: "logo"
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kaNKxfTjpzQ"
 
-secured: "wxz54aJcRClI9xJAZwhGBrj6TlBobFbL3IliF1konQlvWb8tzcNxILDRDFxQdGsUHA3aVwinDf+11AJDRzmEIOnDuGkKOT9HnATsGxhdFGRN2dFxtlvivnpnvWD5CoKSmXve8RiflvMavVoPHcb4xYh69U/ZJJ3J2yjqycA2khBf9S71GhMNAnwO3pu/bguN6XR5kU0ixlIw0AVjxIujE+avzonULvJfYMewO9aFEovbeLN+pWVjDMlwhvL/nZdUX4NG00QUKQXM5/9k45yaxqUABy4efN0nw3ya+VVFMf2HnzndhmqRiR487+PXxmmxCjNKk9xUIzTY1IMLeVRcpw==;ftm0RrCUYZoxGy20H4lvig=="
+secured: "Zx7h9xOE7s1QEOzkOe6G4kpqmAQc/uWeeFfOFBy3Oh0tHg5sd/geEE7QUTRHtiZSnk0BJx5MInmJ1JW4Hpd7uxfyt1e8MBClKj7vQbQJ06DgD8V/fkb5ZF16iWQkdfEGshsUcK5pk+eQo7h/GQYxIm1cK3HehmGCdsWVpEWB1zhMMV+RPf35iC4oGRcPknYGww7In//x4bQf9wxMZANkpeKTOzhM3rAh3us7XHe41MDvx5Bgmf5tMcJkDLkZcT2oAXJJLbSoyIJ/nD8DP7zoru5zcr8AmsOqUc9ZstOYzZWr+R4FXdjJBTia2NKVvvDfOwxsc6Q8CGqCBzuVrlWQNQ==;+hJaglszE/a5KFdRLt7odw=="
 ---
 

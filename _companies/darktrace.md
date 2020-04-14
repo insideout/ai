@@ -2,7 +2,7 @@
 name: "Darktrace"
 overview: "Darktrace is the world’s leading cyber AI company and the creator of Autonomous Response technology."
 type: "profile"
-heat: -555
+heat: 0
 
 website: https://www.darktrace.com
 
@@ -34,11 +34,11 @@ images:
     width: 400
     height: 400
     title: "Darktrace"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1593043200&v=beta&t=jcdL6AeJGIYp2ulilU2Lpt4bYYc_Wy8ZjugKNbhMTms"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQE1rfUvIardTQ/company-logo_200_200/0?e=1594857600&v=beta&t=hdSY1YhxwYq0T7fPKgwiF7_cTUx-_uSUoXL4g7FHKos"
     width: 400
     height: 400
     title: "logo"
 
-secured: "BLjJdICTEyGF5tLKYFkuMHFIUqa23EmJImjMv8/r7PB3GhgHdE2l7SbHzSyTeD9uwTyXySo8sfiPLw8EOshNofaG5w1Wmc5xt05sG1dUxgDcFuPLC0rulM1MOsxIVFx8CwXqmHgqfrsBbpfAelpzDEcdveSSGtemhpUNYJljFNB2/N5Rbep8A08Jnw7kcyBgGKDwtbf5znvE/OSd494jxhgIH8vlc1Ovz02JlfPJwW4lUkBq06reoMzhys2aZiQQ1nZ9ifax/mfLK33HWnLbDyV1SyymnQSVhu5mqQjZnWDPQhBKUZXC2uZ/T9I4WtjZZ5UoSa5VGNj3WEzUsM348A==;QeTWd8YbDtmHnHSBJIv3Qw=="
+secured: "62w+CJ3J7bziZraqqNVlrdtjOH7i+1rq+VxNOgMOkGOg9aIQ3hbxwJEFBqYusAhKLD94T/ne7PjQvMZgsqZ4YJ2AnsqZ2qzO00ckI9p6pGauvSc60HSipmiwBzlLk4lcZ/ijI+Gf5N1C6khspCiuxpODU/krcbm4BaSAGoG2kYDe0tnezHuz86sifd/InBUhjm8st09zH9o5lh1p4XgwKWpnMNhBTwau49UyLv7cCtoHZn4rT9Qbf4/2pke/Wug3yWdO/bncZtnO5AOTqBG+45yB54/jzs+ECr120n99d4j3k2A0AvOry/KPkOBIIyinAoeUSj9KjygVmDjU16xgwQ==;eh2I/Rwj0Ipkv/m2jn7F1g=="
 ---
 

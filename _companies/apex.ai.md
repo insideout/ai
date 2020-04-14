@@ -29,7 +29,7 @@ tags:
   - Autonomous Vehicles
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQED_2JvG2BlSA/company-logo_200_200/0?e=1593043200&v=beta&t=RwmeEZKhZq53QY3B_klY-A2Dgykfy78F57SH7NhRSgc"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQED_2JvG2BlSA/company-logo_200_200/0?e=1594857600&v=beta&t=Nw5IClrR4dOqahJDlGdRH-S06USx3An8AQzBtnp0KFg"
     width: 400
     height: 400
     title: "logo"
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=lhnJR9EUJHc"
 
-secured: "vli7kuEZYLvgcR+dsJoJQKd37Vs6GwIvdLvFSpsCX8XhtqsCbOc2MsrI94IU0dUeOgkwXQ7zpv6CSFYgQ/RP21iOs2npGbpbojtfjcuLnRhn8x8pg16qr6TkogurLeXncTuiWQc1+OpuXnKly5oEOe9DIfr94eig84NpPEI4c19UQ771ieaQ5EEGRjXtNLqwHhMAl9/wQC8RJZ38iMdLER23TVSm9yZ3MlIMk1C9VQv8eIIDNw4NoR5MpC4ADzkm2WQpWq0Rql1wtcS6xLCVPCCKGCB080TczJ3mWB0B1pXozh8hXJKaDgd4NZPzIClyUGpVJVePlQyYosxy4Esl0g==;V0P/DxpjmIN8eSVPuq8eOQ=="
+secured: "r2J+0WQZB8/9weS7l6+95YMbv13x85A1r/mzWC7+TO+DqrY0N0gT2zZ6xrd48O3zMM60EyE/Zc1X2AIvxPuefeSL+MxKrJZxUUfBNWQqStXOiYjd52Dk3eMrqxOMRdeGL7QlvyChuPNePqqcczGXCNCP/1Gy0dbm6Lvig3HS6uGcjlDDjqFsMmf9mcU/UFvwryrUUgEMQ2XVD7tsLBDdZZqdXgOx0QD/hAIS4WY0FFBD3L4jLP8XUdjVoVUANDdE+xDFysowzcDqEeg2j5lEInhxdg21aA+hhuCVGFqhQ1Loj8B61DCyF6Lo4ZyxAutIJNDF7rvVZ6Ru36EuAA/JUA==;FZP6WdNsyq9EZrLKZjkCBA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "CloudMinds"
 overview: "A dynamic data science platform to manage, build and automate machine learning from research to production.  #AI #MachineLearning #datascience #DeepLearning"
 type: "profile"
-heat: -156
+heat: 0
 
 website: http://www.cloudminds.com/
 
@@ -30,7 +30,7 @@ images:
     width: 400
     height: 400
     title: "CloudMinds"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHuplb6kNOatw/company-logo_200_200/0?e=1593043200&v=beta&t=3E5l6ZmiGgkwt2ktLqAPlFahLyMaBf3Rn4G5LcM1c1M"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHuplb6kNOatw/company-logo_200_200/0?e=1594857600&v=beta&t=PfM9ICu9AcvN0OO0_LRMjwQj-W5QCJakWS5XhI6ifrw"
     width: 400
     height: 400
     title: "logo"
@@ -38,6 +38,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ctP3rt-6xmM"
 
-secured: "26YaSl+JK/2ZjcVlNe8Apq8siPxuJUCMPqseZeJz3TjLrz3PGSETZuAPvGUndwVAHvbByd1b65ICOJw+4+Zd2Hy7SZyHVVgjeNBKlJuD/qAx+Ux3HELGcu3rXUVzRTAI2kfh0RWPcOZhRw0qWKMD7xH8hA2sL29V5bn0hWIo3OYhqCjH0vktySCETfWj395/yZeQna+kOhe1RATFU5/PavQbL4Fa9thQS9IbDevwubj7l8mjAInh0eLdio2E+MV0oZxug6dLIEBrmIpQ8I1Ovg0fOkIsAv2f1FZbxMYrKxlQLnB/AGWlewYAynO8c/PJpq5XL58q7Bwc7RYVR2Dd3Q==;7/ZNGZAt8lhYKZ/mJ7Vhhg=="
+secured: "Jf9VQdm1xYoOSGbZropspXAPjfr5Uh/YEopBtwdpK8RiiEsJhJstKAkMkd5demFBU+tcl21M66JUWdpkPMsuuPKx3UmKiQnI2VF2t7jfe4Zgx3sn/gexblCULZoBlza89g9BOMez53yVCoazafhahIBZyrtrR/0tlqBlp3yQlI6US/I697jFcna5lESTlKsa66wPeLZQ1TgWmtXTPBtt4VCzuOQMP35hMC3DV5J2bmNen+bwsRHClu6I3XcioTxkfXSA6kWPToTB5NeLssGST0YvB84UKgQKn/Sc6/LQ4r9euJn/8ocVzAyaDCPPHa6cvNHj5cwmOlldHXanfq7msA==;ysD+AblL23HyF3iw5ClY1g=="
 ---
 

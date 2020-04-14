@@ -2,7 +2,7 @@
 name: "Cerebras Systems"
 overview: "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/"
 type: "profile"
-heat: -1064
+heat: 1
 
 website: https://www.cerebras.net/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "cerebrassystems"
   url: "https://twitter.com/cerebrassystems"
-  followers: 1578
+  followers: 1584
 
 size: 51-200 employees
 yearFounded: 2016
@@ -36,7 +36,7 @@ images:
     width: 400
     height: 400
     title: "Cerebras Systems"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1593043200&v=beta&t=DTDQUfjv8PXZHXRYgINTBqCJqWQM4LEpSjW6jpEqVSA"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE"
     width: 400
     height: 400
     title: "logo"
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=czfAzRWRjYE"
 
-secured: "Grtwv3PcCoICAfX77fiLVEjV+mnD8qVX3xzLwFhWRHBCjWsyRL7ywjmSztRKWb7vclws4fLUM4OypQY/Ioa63vooQNsR5Kyk0G9j5QlAtsGNEkLm4HKoB0+E/JCpGlJ2BFmTPQmeImcRP0d/RnKwuNwPePomxqA+Y7b1m8Mzrb9RpN0k0Df5mNfSk/i8xtCj2c+uo9eD4KL3jMj7qIVKT90NGvSMpvuIyRx76PD1SzoMbcPRi/FNZ4TxCsQAQ5tPWK4Z5cG/DynkSm5AbXQKnEpNy4NXLHgyy+pr7J3pOndH51lfj+2uCJUqizmSFdpAdRDdhHPktjC0gbKmBHimtw==;UrEWo5vfVu7bD3rda5NBGA=="
+secured: "MGM1cXKXZ+VSkNqQvYyaAJhvrN7eHyanElQiNqMAfMW7kkGMKjTAweOYBpElaORa5f/zIACBVJZ97ynbBuVFgouIXHZQ8RnsgC53dai4ssfL5COiNwYvYAxBlj9JPs2bGozk4iYPCPKdIWEZDOIb0TIVH/YLigxI0VBIqOC1xR8PJrwv6SpTG8DzrXBNcQLJC+1VQ0Yy4Oza5V6oEtxpUAQHfK66IIemSP/IG8Of/qaBZSReQtWoT1NVrK6I09OgNiB1f5rZL1mEY+R70WC3tQvWBglnZDLZCAVfl1ysNYx86hjushqL1jwYyrpCWW1NhA+ZhITJ2HMqCvdziJ8Vvw==;Jim1hQP5m2Y0yVuwX5J3Qw=="
 ---
 

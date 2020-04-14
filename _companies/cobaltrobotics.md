@@ -4,7 +4,7 @@ otherNames:
   - "Cobalt"
 overview: "At Cobalt Robotics, we build service robots that are maximally helpful for the better of everyone and creates safer, more secure and productive work environments starting with physical security and facilities management. Our unique Robots-as-a-Service (RaaS) model and human-in-the-loop approach create more effective operations at a fraction of the cost of traditional solutions. Organizations in every industry can benefit from Cobalt’s end-to-end service, which manages everything from hardware and software to people and onboarding."
 type: "profile"
-heat: -739
+heat: 0
 
 website: https://www.cobaltrobotics.com/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "CobaltRobotics"
   url: "https://twitter.com/CobaltRobotics"
-  followers: 1351
+  followers: 1349
 
 size: 51-200 employees
 yearFounded: 2016
@@ -38,7 +38,7 @@ images:
     width: 400
     height: 400
     title: "Cobalt Robotics"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaQsKaLhb0iw/company-logo_200_200/0?e=1593043200&v=beta&t=tsW5qkJzI7UPAowOcE91jlcxxNTMM2U8NHzf1Zz4Flg"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQHaQsKaLhb0iw/company-logo_200_200/0?e=1594857600&v=beta&t=hXO1B3_N8qbQMkHYnWJ4en2VkqmAwWn9kejnNX2rDno"
     width: 400
     height: 400
     title: "logo"
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=68rBm8bm9AA"
 
-secured: "S+ism0cllCPNDHImjp5647xRYUQ9+Cgqz0aHQmKHSBzCKyanQ23LTL5U0DG9eDNWXWflhAgK8ne+FyGbAG0a3tc4jGggRiBfzjkFiYPjb3isiZPScgjOj6zTpJxlKtvNMnzCOvpmKxDU/vJ4COYBm4DN/yxbG0JdY9it3WDJRNScFmXdszRZQZe6GwgTQWCpngr2Yr+fupKkBmO8L6EgBSh5ilWjzKZeXskNkqZt4Bh4JDD8LbP6tl8QjojD65fgy8Yyy9OBblF6Pqk2eosQAckSdy8qzETTP9PlAyKy2xubhjVCLFCWXNJ8FqX/nt4VkesClhHhjWMCTskE4rEG+w==;LjI5Mx+2AV7DY+JviDobFg=="
+secured: "5fUDiZZK9lu4rtqG0yFzgEid0l51Ea8rTZ0DezJVfJCsUEkMoHrKM+kc2rGu5oSmakyr/Gpc0BoEC5pXltq+QmRSYXB4wSI5S+RweYKfLa5bICBqC0C1A7erxWzE9CY9uSFHifV/KLBemCpVkKO5kgxAireuyaE2CGUEeYmqLUYrh1mLJxvV8b9cklRdgFinxfwPcpfpmyJcocni9X/zd6NhdFGeTKp4jTukLTCqcSMtxMXTaCBZgnclsVsSmkcrxsfQngYEaau8oBG1sUYt08GfKTQlznUFaJ7m5NOKddFIL62RajJlWUOfjHerq7/r0/NX65Z0QOmalU6moVAOHw==;C71hKDPdycBPWreG73Qoog=="
 ---
 

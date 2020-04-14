@@ -4,7 +4,7 @@ otherNames:
   - "Kuznech Inc"
 overview: "Kuznech is the image search technology for m-commerce, e-commerce, social media and advertising industries."
 type: "profile"
-heat: -125
+heat: 0
 
 website: http://kuznech.com/
 
@@ -41,11 +41,11 @@ images:
     width: 400
     height: 400
     title: "Kuznech"
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_200_200/0?e=1593043200&v=beta&t=yWbx7k2kzYyUGigqP_Mf0M3OmJSIZVbmTpfsHoUWQjI"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE9jtJCS6-10g/company-logo_200_200/0?e=1594857600&v=beta&t=HJGSbtHkQ96lltHaq5UQmJjmIj74dzicBz5Ra8ozpp8"
     width: 400
     height: 400
     title: "logo"
 
-secured: "Xig9SSWeJl+p70WE7bqDs0YYsUecbAqT+yeXDJCT4CCupXuvRTn1/gKMoHovG9pewy5UE88U9TXHGhg4O/ymFBRjLgcd9QDx1JCnpETpUTZ3Yj4xuSkVTAERJqv88A5+bLjuItGH5DLqprD6+oXNJtGlm5cnT4cleDi7IsiDR1sGX9VSaHLqz6fjo+cNtacWwzIkGn9Rs7P3LZijkPe4eEKYoFvqyDB4m+1PiLOQoy6b4zEJdy58bWXaeVhDzGFzHspxBhg7p/fP8vevsr/t/Vuaw7cJaj5XjJNL5oYwVL0yY8TSgAzrBig8icqGli9DqleKSqgoJz04oj1dF9UNNw==;P/cUVY+8puSdj0cbaCIb7Q=="
+secured: "Kzct64RuoQm59bND/ltQ+5+DTKwgk1/tDWsFVdCIxfk/VrIvRuZns7qlOrZTyQMgLLtZH1HRkf0IcMJPnndN3J4njJPAqsgpUORG6jMGof/YL0f+OSsKfFB4zhjctiNTfmq7HmIis5WM9L+htyORMxQT4lrYgD4MdLxgWV2N7FGQeSEea1Q0W8AIBlzpQFlaL7Dz64c+MNDlzd9oLCt4DuCVynyi9jww3khilpzurao+azKWjl7kz0IzkW7xu0ueqsFoDwRnzsUj54YzavYLLV7qs6qONoRhqeJIv2nhNFJ69JHnlBzXAp7v8+9ECjV8qzBbv5fYOq16PpuzHGG7HQ==;tZqvRZiQ1p2w8oEP1lJOQA=="
 ---
 

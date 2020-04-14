@@ -2,7 +2,7 @@
 name: "Graphcore"
 overview: "Graphcore has created a new processor, the Intelligence Processing Unit (IPU), specifically designed for artificial intelligence. The IPU’s unique architecture means developers can run current machine learning models orders of magnitude faster. More importantly, it lets AI researchers undertake entirely new types of work, not possible using current technologies, to drive the next great breakthroughs in general machine intelligence."
 type: "profile"
-heat: 29
+heat: 17
 
 website: https://www.graphcore.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "graphcoreai"
   url: "https://twitter.com/graphcoreai"
-  followers: 5451
+  followers: 5507
 
 size: 51-200 employees
 yearFounded: 2016
@@ -39,7 +39,7 @@ images:
     width: 400
     height: 400
     title: "Graphcore"
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1593043200&v=beta&t=j5LgBxOwHeSO104DenVAsT_WeWRyGubU9ERnKZDjL-A"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0"
     width: 400
     height: 400
     title: "logo"
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
 
-secured: "TBIWP+ZRsYx5kyfrOaHjrgXL0qjR485p7P1/QJf/Pzypk0ISRNbVtz0zaxQNV3vOJ3fo3tX6EKFyM0HDBmPHJXS2OazQshKJUELWsxe2kO+o5llClDVyaW8TJ/Caax6SP9j0QjHzFolcPSSDytWkW3atdqtM+7jtrWs1ILGRdGgMngjLz0I+KkaxzB0NgihCP/isXt8R7NCi7kK2Boq/C7erYDU+0mkOR0zhKOxLuXfDDs9Vlh808F1e9DKvvnrsifWHaSZFeKJTlvciOn6Kg2RoBq+hewsMxfGmtjp0z7MEOJIxv4JKtaK01+T2XOPs7BlXUxL1MHwVZwbC4+pYrQ==;CBdN+Qiic2rI6I3A6uF7Vg=="
+secured: "28rzvnJcunESmcFWXo3JLCT0VmoSl3FrNUQ9VcfoMzRYt7p2jmDK17cTCHhQXT+a2OlBeMhG/xVAB1nkbCA88p4xhcGxPM6FicaYj91XL+KJPjq8xdr9i4sm/KI7GWrhaCHHVyOmuHisNr3jG0w4zbMcmKS2DzuNZtVETpVI/OzAFq9SugK//2DNvKHvy1n7aOuvEdFCczF6eIye3vdxJtWzp9ojoVhKq5X60xsMrdiQtAYpsf71Q96K1LOxnxnnMz5aVr/Sukt8vUlnmxBwXPPGjUYrNoG/aWPrnfqxMtXpnzD/6gWIRvUlyMGL0lz59JmQHJsIDHn4O3HRbqjp/Q==;yQQTCDc4f9eZlo+nusY2kw=="
 ---
 

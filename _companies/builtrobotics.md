@@ -2,7 +2,7 @@
 name: "Built Robotics"
 overview: "Built Robotics’ mission is to build the robots that build the world. By upgrading off-the-shelf heavy equipment with AI guidance systems, Built’s technology enables machines to operate fully autonomously. Built’s robots are deployed today across the $1 trillion earthmoving industry, and they’re being used to build critical infrastructure such as wind farms, gas pipelines, and new housing developments."
 type: "profile"
-heat: -444
+heat: 3
 
 website: http://www.builtrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "builtrobotics"
   url: "https://twitter.com/builtrobotics"
-  followers: 879
+  followers: 890
 
 size: 11-50 employees
 yearFounded: 2016
@@ -36,7 +36,7 @@ images:
     width: 400
     height: 400
     title: "Built Robotics"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1593043200&v=beta&t=rYnQ3HcnKi67dx3KMp6NlNe0qx8lLaUEldbchEoAHXc"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHd8I03N4DNIg/company-logo_200_200/0?e=1594857600&v=beta&t=MUsKi-Hpc1H_xCejMn_xAJ3n-OvwWzER86IE99Uumak"
     width: 400
     height: 400
     title: "logo"
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=YYj2JqL1dJM"
 
-secured: "P9D7IkktoIG8n/4ifLvutszUj/LYWoEpF683aVfKOGHglPfy0nm7Vhj9KiI3c5114XsenmxL7GbFiYB+Hq9mlXwPirpSHYDrsV8CwJZWFELMgl8jP6ZDvMwSpZrVCMDrsoiDi58jLZXx35kJOQKiGOaVvq1kwiH+NiwzrBOtlpaStxiUXL3vbj2kUaAfsQEd1vdIX+FuVX6oLZWf3aEDu73jqfiKvlzNF58iKVW1dQokn25OxMsyG9pM6qRYQ1XSwbVQPUwv4TTtKNTG3X4QCbK6Wbz3BXvIihI7SxEuVeG1e3nJMLjo80PtR7iNEASIDWdosjzjb539D2lA3bQUMw==;jGHwiy9ky8OJ9aGspokB7g=="
+secured: "rgH129jybhHEDstPf9IuhgbleZRk4h+LumuYSusW4QoPPfCS5JLUWtpa4j0ao83E8BS/oEmVjWqDOYXHSl26R3pdxrFw7EJon9cHDhch7Ty+PxLybv7datF6AwibhE27oSsS9MxjSxwO/CyEKRtulSWpbj4helBWXV5W/t5E7zqlG97hRajpyzgBx+tFhLd9MHXxjPaE2iHyjUCNaQKAk3UcjgEKmX74vXnPTh4uFQp3ZsKSZWNVb4K08YeqvTrZUS6y9JFcAbKhvm1fNavq0BYyvooVLD/1OYNcLrXGwmNcEkvdH8Voa5jdBsD9kRU0Cu8AC7SHSb47lN5A8Gpgpg==;uyhOeXtf5u6QjI6nZhVpaQ=="
 ---
 

@@ -2,7 +2,7 @@
 name: "Arterys"
 overview: "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc."
 type: "profile"
-heat: 224
+heat: 7
 
 website: https://arterys.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "arterysinc"
   url: "https://twitter.com/arterysinc"
-  followers: 1591
+  followers: 1615
 
 size: 51-200 employees
 yearFounded: 2016
@@ -36,7 +36,7 @@ images:
     width: 400
     height: 400
     title: "Arterys"
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1593043200&v=beta&t=OZR2IrTq9X4PCun8rolrLQNmQqtzuOYop04LW7wLrzA"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4"
     width: 400
     height: 400
     title: "logo"
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=R_GU1ne-oW0"
 
-secured: "l/m+ZoUz7gVl+dsi4QCBufECAmmj6cl+/Zz76qNSUwvE9zizYiliIh2iI5jDb8gQAqPQToADyjpmtd31HcuZ1Anc/h2y2C6nNSljxVrW4niUccBjsQWpmS691iC4dMVIa0nw73+PPPsyFXT3G+oIC8Rn/TaKr16SgDmTcey5OSaQUoNIh0RCJFN8YQ4xOWdOeihfifXxrJUMQppXYZ50xAieHj0LOITbV60IVwuTo9m1D+MlBtDWnjvq9Ru+CRitVP9vn3hSMnO1wCQKAMIDXo0th0Zu+zM25/fzjRDiceYf/DDr8puIvZkk8LLxwMNvysSpzraTFw7MlfnUPPpydA==;Mg2M/qLdebs4qs4o8/iXRw=="
+secured: "KD/cXT9em+vEWo4SmgaP6Dkhi7CW0wGM1/41UPoZ+b0qrIXQYjF1qtFKBNZYKNEDon+l6StuvwUkCvWwkYlckL+zhJsqCX1si3jQuyPaNKFZrpFP+0H3/epdgg09I7TjbTk+wYFF+ZxLbeCOPhKpUpk6pIl5eDxOoQyzUFftEQrKaeWBCK4qM5pRqjfg/YTjHQEVyfxtqVHSnAmmgt4ha+FS7t129LaIvEOP5ebeRJYAEzTdy97eivi77scRXej4wneBd5TjQ4euzMN+ST1gpQaTgTN7UweCs0CrdsouYJnLF7zB5AVoDOK6aU92w0P6Bi4N4II2d6yZWKJVxS5RRg==;zb/y+JFo/9u9k+0RZyZRIw=="
 ---
 

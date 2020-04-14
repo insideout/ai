@@ -2,7 +2,7 @@
 name: "Ubiquity6"
 overview: "Ubiquity6 is working on some of the hardest challenges in computer vision, augmented reality and mapping."
 type: "profile"
-heat: -7808
+heat: 0
 
 website: http://ubiquity6.com/
 
@@ -31,11 +31,11 @@ images:
     width: 400
     height: 400
     title: "Ubiquity6"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGVtKvDt4hdcg/company-logo_200_200/0?e=1593043200&v=beta&t=lgVCmSyAuPhJQ16O9ZQ01THNInh3Sd7LdhKb8NDQc5E"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGVtKvDt4hdcg/company-logo_200_200/0?e=1594857600&v=beta&t=iHDvtZAhTUYS8GnDicLVVI8qQ0IArx6Zndr4YJacY1g"
     width: 400
     height: 400
     title: "logo"
 
-secured: "ZalPTdhbTstcv2Oz6p+Y7QZd5IzgWmb23tEcnVpzoRuTMnANez8aADT7yKcMoqaeiBi0khI25l3JX4qmfR1u7UIidFqkqiNApEUo1Na6wRA8woS+GoBtz3IZWhGyINTT/9LU/NP5xqLqhkUWp61veT7GkZ9vle7LClK0H8gC18uOhccFE9JrLMMzdJtSSoxrw7/Cpa7+iHFXnUrG8BPYMxhKeOzchN/+eGJoKcwV80xdfGVQ0dXhovSiI7OlTazL/VAzbjQUqY9scz3xbS2y+wkfzafLgIPC7Wto64jqv/zd0qksz3ghsAPd+xnKW6TxpWTl8jFSGfgTDgJ0G3smrA==;nXvFZZKEnrt+PLNV8nCeFw=="
+secured: "uru6vGutWwKCbIzhH8fwROTj2czqyzslL6K/8uuDmkYQdYqX/dipyVRNQACuDN3T1hFgLzUD0M9vdj1A9XXJ9aMq54vEBTSVlXoAa7e5h6Rhve1H1hJV4TQHb+/aTf2HJ2OlirsNZmgk+pD1sTO9kwyiIi+1fYC0QoQ9GyJjCcUtTNA9PWlCJ+8LbVosh5Ik9ZVMoVNnRzWWGmmlIGGoic2chamk6+70Kp1vckU7Ac83RpuluOOTrxhvguMfepillNt09L9oFz+Y5aIgET3Uya/sYKwMxiwkAcPi1oiERCkcqYacC79nkVRCnRFXauKSZfl+3eWxHJ+7Qs2bEPjNRQ==;QjV7z8B7Gc5n4+TsjJReHA=="
 ---
 

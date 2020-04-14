@@ -2,7 +2,7 @@
 name: "Xbird"
 overview: "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes."
 type: "profile"
-heat: -233
+heat: 0
 
 website: http://www.xbird.io/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "xbirdhealth"
   url: "https://twitter.com/xbirdhealth"
-  followers: 560
+  followers: 563
 
 size: 2-10 employees
 yearFounded: 2015
@@ -36,7 +36,7 @@ images:
     width: 400
     height: 400
     title: "Xbird"
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQGJE-34adpCMA/company-logo_200_200/0?e=1593043200&v=beta&t=k1M4gdIwKkDb9raRFNfb7xe2ftmYBWKA11CIU0Vf4ew"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQE5uBAedW_F2A/company-logo_200_200/0?e=1594857600&v=beta&t=p9pfx8LRmoaNPMwjLOzlVSEx2_b5bHKTfeTaODjF_cU"
     width: 400
     height: 400
     title: "logo"
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VQhmAIFKOyU"
 
-secured: "upCJxS+pAaeim2p0sGDHvZhJofnCTlRZOde8/TZWG5JKHqL39v8NOhINg5Imr8IdSk3xn3SEQi6oMDq3Q/y3ZQRS+KzPqDA7ioz/YbhDew5WOQJrfR9iQ1YrkqGFtSsxKpn4rWLPK4cDdG9WsGnv3qZUcxaX6HkgsDjLdbqHXE3MflFipOwTMvhfkwIsVcRqDSRGk6O8RRZ9k2dbR8jSZbufoYJf4kjUoOwLchKqpN67lahMd80gy8vKAvEaZrTLxkxCTpf6G3q4CpYFcimOB5H1UqB+WK02FxVSN9nuINL9jsq6KNmH26myDRIY5Nakn/TNrQV9A7wh9En94PxBnQ==;6ch4njGHAzH9J0AfD/dHdQ=="
+secured: "pH1VD/cUsBaaKHDGoPaTVgUurA5mLyTTHHZ3MYN62IBwJgLQ0yiNQWbsacVBtavQkgUUuc2YJoEf62HZs9gX2SCN9RGk+gi/m5NVxoDgux3tEhER6r0C3JjdjExN1l4W0JFu0TArH5T6b5vryyePyxcqn9tsUOGJGTP/e1qZq4/vnB3vfSUn2qSoneW9VjqqOPqb51kyBT10OjEBE2TOO5j/HUbGazRITMxiqw1CtKAw/KaZI1SUTv6hpcjHERL+yW7DDqbdXRM0kFtCWynTAiGwfWHqSTrup1WEyNmmaZaV2sqncTTl+FFMFHk3qcxK5i2w8WFU+qqndxGKALogOA==;yURr41FBrOc+12qxC/dJfA=="
 ---
 

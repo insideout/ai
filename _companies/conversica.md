@@ -2,7 +2,7 @@
 name: "Conversica"
 overview: "A self-driving car service designed for the cities we love. We're hiring! https://t.co/I4hVjCZWCQ"
 type: "profile"
-heat: 1845
+heat: -15
 
 website: https://www.conversica.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "myconversica"
   url: "https://twitter.com/myconversica"
-  followers: 13721
+  followers: 13672
 
 size: 201-500 employees
 yearFounded: 2007
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=i_Y1JD_VJvs"
 
-secured: "QA0ge5VJsAerSFGB3fna0kiu91CVD/LfcbUiClGNbtyYEGfhvdBK/Lc/BK14lkn+K29IeLxBdb8PNnDILB7sQ2NqLU2mSe5704RPZNL8tBf+tdD5QzLe93xyRBo31kVyF3wLNkN+pJFr+1twSkQCMMGEnyKI6eNxrrz/aO+FOAnCvZmMjn3bgGLA6PXv5hl5nQ4QLaVh7MkY/vYymN4b/2pZn0jSVHQO/wS5nxwb9hbQ7iOb61uZ47CPhm7+O68Q+2D6UUhsDwhVtJ/W+tT5a0BvFR30kaRd9lRqm3JQkPKxWGm5fNSSU1oLbvr06s6go8ELzySSAJddR0gAdmSV9Q==;RWPdOV8+EBfr1tUZCxh0ug=="
+secured: "G1JyFV6Z4IlU+PKENun8Zx9VdjIjsXqhsnaFy+UBjo6RexvNz16CLPNBkka/7D5Ljn9puG3dSkfQD8w1nIO2HXWFjZRcJVqohm6ooC5QSPE8P3vF67dJo6vKzQhTc/khSDEqsJgaiw50zUztkPpaGkGFTuNrxNvQOWf0mWU92rkEx6wgA0Os+I86UU8Mb7JyPure3zsYhA7gddB6ziBnjoc/qVs+X4NtjpLVxx41oXKvX8m0QG+nX3cAyKhrpa7VtHkt2+41TANrIy8PJud3FapoDdhp1Ouq27kuxPxqybiguNp3WJD9CxF2hH9WpM3jteb2vyuCEV5St1P73rpKug==;2isOqSeVh+MINxLVyv1e6w=="
 ---
 

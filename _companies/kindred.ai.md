@@ -4,7 +4,7 @@ otherNames:
   - "Kindred Systems Inc"
 overview: "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time."
 type: "profile"
-heat: -180
+heat: 4
 
 website: https://www.kindred.ai/
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "kindredai"
   url: "https://twitter.com/kindredai"
-  followers: 1069
+  followers: 1084
 
 size: 51-200 employees
 yearFounded: 2014
@@ -38,7 +38,7 @@ images:
     width: 400
     height: 400
     title: "Kindred AI"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1593043200&v=beta&t=DQfm_Nwkk73J9yRLafRTdkiJYx7U75WSsMmu3mCyHT8"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg"
     width: 400
     height: 400
     title: "logo"
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kjKPL53Tgw8"
 
-secured: "B3SbXWROMIKB1cBt4JRaLJ3AdSJbTktm0nldOhHOCvvMcRkWfWmhLOX2p5uNVzk1McZyUt51P9q5bRG/tn69SWwddLsSLpNqXrygjVLYlhif4xsvW984mWoochbKbOBI4wDJPI8hgVNy4QYS1vAcvVH4mJqW/rA1CqFrOU79V2455xGKsVfOBT2DoohYvBy265N+Q7PR9LQY253+QZToat98oTpfyTaNbzMYcdFydAyUn75fbAftiE3j4AiAmEvj91Dvb9i4toc4UsVSpBIgIY7k9vSnmSi/MfpzjNDGyrXd46ha5lBlIMqWmRiZNn4OmCSXnxUMWa2egkTLyC6KeQ==;hTFAUDPc4ugZUiK3yfo7Sg=="
+secured: "kZK50iZb+AJ8nqbhLzD//DnJLwlBQ9E9yqph5AG8Hx9pIrEqXmftrQmBA9FkO6GiCNeGVqHab/kG9Vg7h1rcB5jJuYrzaeX3M/MLdao/JybqYMUD8GgikWZaqCAd1sJLEEQD7X2rvnZtbxOsN6VFJmysKUaa60mESfXrUjOODEUICcvux0mQCFx/tXJpXLnyZ+7eT1+3knTY2B5R1IpL0V6/7bNGOCKqI046uWIptMwaWEpZcNrCjiFRdHV73u7vPrcVOwYvkUMLDRx51E7BR6IbOJTZo4mYPbSdtnycfq9KHD7B/VybWDpk4odRJAw5LPz49inWDlTHBmGIara09g==;n166zGZqJYPoH5nSnamgMQ=="
 ---
 

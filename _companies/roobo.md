@@ -29,7 +29,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGi8furlJe4UA/company-logo_200_200/0?e=1593043200&v=beta&t=XhhgC8JYDa--LA2PsKRK5soWn4TY-bZ9gQiytRoYJkM"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGi8furlJe4UA/company-logo_200_200/0?e=1594857600&v=beta&t=yIXpJ_peaQf9qKaSoqLRjULuwPf44GRmmGQPuP8h9H4"
     width: 400
     height: 400
     title: "logo"
@@ -37,6 +37,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=isl6-citSqY"
 
-secured: "7tUZ2Uxe08nNxvOfg8773pPFB+tJE0OIsiqWXKUJI3VVBzoA4NfSboebQgGtavZvYSKlHnFaWBF/0nNSccfgls0lhpVp4MsvdCXjHTgf/6MW5Eh7W9qiUAOa2nR+2UJUfYzIu6m6e34hQ/JXly8hGhAeyphQtwZTuKUbt5YmVsN2Oq27DB/DOUGffxDtW1p7q34UUAUIo9I5eCL4p/9Rdko6UrR67p9El76NFYff2dUHbytaie9D3aU4MLOkywA9+3FKGxOQG7ko08xAu/F5cbBPOfRCXc6G7wUg9QxVgxxMsA35yUlmRLRnSH7sf8Ft+HMwQu7TngkXIFa/TmCf+Q==;/XqS12fmmz7cjZpE9fcspw=="
+secured: "5CcmyyWI9mdCaL+XTwK78qR/C6seH3kq7qXFXW3oPkF92t7dd3ggiEpDKpLb7VjOIxfC4JPQFbIRcFtMuHFOLGlpDndzQdQag+jLuC+KOVamd6sox8Sz+sW+dQqdSmQ/4LOeyV3jdh44zoGoGzBrvP6DvNjCM7A8S+2rJ8CnH68GHTCKMkG/5jCnEthGHEf1GIDHFGPWQfLsLGVEoibwMWG2/wVRXJBqQjoo2EwCbhjMoDUC6RyQfWXpFpge7SMHzFwH6PXFjekLcII3mliRRgHfVmyQGz7PMXW5X7CzviRjFIyn2KsD98/NFVZl9BW+ltsqqXuZj4pj4NQrn+/ccg==;/I7JJ5Q0vPUeOZJxjzzJyQ=="
 ---
 

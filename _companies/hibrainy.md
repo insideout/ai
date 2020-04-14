@@ -2,7 +2,7 @@
 name: "HiBrainy"
 overview: "HiBrainy is a French AI company supported by StationF providing Full-AI technologies include"
 type: "profile"
-heat: -261
+heat: 0
 
 website: https://hibrainy.com/
 
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=El38XJxRoRo"
 
-secured: "DplLlZbziXFUwPCtOXw/MOOGmdLX/jhvvo74tLbcOza1+AYgTnumMeelkQ/h9OPcFyyDYGL+dx/TJ2x93P+Xp3bCctnpTJYWQkQrq+tpP+2kRLEZ092179a5sMHJkcG2QSKVVHXT89Y+pxAhrG+v2nfvpxtR2L+kNmy2uFentdAzet7gitpDCXGSTcFF3bdmwjLvW17pzAXETKnTPO1UzgIAeMdEvyWPpY4arvPcMpuGy+H1XS/nzZq9G+HcJGoXM+3mEs/6OoJjlzubbOYmcWb9dH5GoL/MwV9kanWkSSrVwXIAH+q++N3H4Ow5SxUXmTktOr4fjiQ2UmsofIANEg==;EFtFGKY8P8DW//yMJXfjEw=="
+secured: "tVnLuTsez4kDzGi2BAgnDgxJUKkEqYCTXjwHwk6cYV9pBhNUyrMOEaPWZSZjTfk3NWzh5RYUSzL+2OQSvS0EMGqBQnAfIan6n6Dsh69zcV4cb2izh7oKpRwMr1IZmqOWfVON3aoZibrIM5IBH9hZp9IzGSd7eKdXoaf98PU4asf6bBA1yJwpoLF2RdRAhvK00oJJW6A+YC75wBMpgDW7E4KiCwhvUMvnmAQb0QlbQPrg+nYhZamssTZtvpgozfQmJrJffRxITfYGn853EEAp7OkOpUWbIVEcKiNQEF6lSLKUa1ZQUSQrunLi05WI3GXuMil4qY57uo0LfLIIFzW42Q==;/mSBk9UGbHoU8mQ+s+dWzA=="
 ---
 

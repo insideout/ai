@@ -2,7 +2,7 @@
 name: "DeepMind"
 overview: "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems."
 type: "profile"
-heat: -77
+heat: 0
 
 website: https://deepmind.com/
 
@@ -37,7 +37,7 @@ images:
     width: 400
     height: 400
     title: "DeepMind"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1593043200&v=beta&t=F8-P7Hv0foVnhbNDLqTH0Oxti3yKxJzPhVkmmUKdjsU"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1594857600&v=beta&t=tmwM0qvvVgR_Mnwv_tVijP5gQ4u-_7pic-UGMuhbQxo"
     width: 400
     height: 400
     title: "logo"
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=SUbqykXVx0A"
 
-secured: "Ly/PSSY5AC0lhVm8Il2HwJiBZJ31sm2ra1qkn4773/UwyobCOko8DJvBZ2QRoAcnNvVuJTGGjMj9Kpb6zmrpPk8BAQqvQA9yjTp/fKp19bIQqdrCWjGf4CwU7DKERyDiW74bUkLXNnwo5E14Y9dbxvfesG12ZZnbzUqFhC9q/HAXTHq+Ji9RVyN7scDQcKx5bkO7vSnawnBvubuHmd7jeQyv1Ma4kGLiBvgPO3jRQ4nr3ekLKIJOsKiH/426xAUitaNHy4DDdJ4KdAZOk5iqRcMhiEEn8ucHDXzjkg1xczs5OUPvsCf1O01t4g41VTWSdNIEhVFkRGLj+WudNPpcxA==;Vn50mVGQ/d44YebBBNJcnA=="
+secured: "rmR1tMtLGkOOxxBqQpqr2B+YWUTQhBJ8EdpZ2HEzZjwceeRTeIcsAXkshyRbEMsBacYKMbP8S3Z48QGVPa5CElGSCWEP1cvvoZ5+w8J+nSVVOsHF3zWYYvoS3zACvudOfgxOJxZyO/yafALe9YSZ15MDynZS2DOaEW0zq5Zl6XuAQcgFXaSm2BV6ghYhYuejx7HUJwlGjszIYTwbZdJsZtnCpIJ2WgXNZIJC6IVcDpaJu8OdGwxq6oSMKMH9M3AE8OrhpsixwkywiOZ3dxK0UqFdyuyiHEmFIcZTwxDbiNoZGRTI6xKeqCZgk/f004datE+X7GcyZgylRgEGxO8T+w==;yE3KQxcnYcjgwm9jYYoGkA=="
 ---
 

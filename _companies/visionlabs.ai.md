@@ -2,7 +2,7 @@
 name: "VisionLabs"
 overview: "VisionLabs is one of the leading face recognition and analysis solutions vendors. VisionLabs products are based on state-of-the-art algorithms and technologies, developed by the company."
 type: "profile"
-heat: -117
+heat: 0
 
 website: https://visionlabs.ai/
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=XbCC2ItE_RI"
 
-secured: "xIVz4VJbYYr0NtgW32ULpHnOpaTqI83B/W8vaRicj+EWpFlGa8BgcNtzHcYAoLYmqaJ5f+8O5qW9J51JhJoFQ3f8WIykioc7tTRxz052ZUlgoRwYLixkoBgkxzdxk1LP6k0h4tPMGijd6Yfpxk6sQRVRh4+JOhLpY+MFijx2Eno1hvdMmHY43aXR86ozbG3kaNVNEiM2rW1vEhc4ypWHZp05Lfq1W79zoL3nYoMW7e4CkvUzlsS0KhOeHcVyfvkBxEgPwknFhn4Cphae2EnM7X2Z7AZ6w7Bt86gk5GrTvA8XCb9PvGnBKZxPnbM486j0SZz9GRJ+fdTJwTVEhjpJCg==;VoSHOrqCzlEV3OADnnQ7Vg=="
+secured: "OZ8gkW8cLOtoEoOYpmmV6rlpLY6z5zTOsuelvk19Y0rXmbzc1abTmr9MOO6i350ryQDl6RmfUScAvTNCSi/XiMpXiCh0L+JZKpjGcRXOKYumhSZK4yeJo6r0quSbCks63TjjC7Iqe5GTS/drzNxXBbz3DtkpGeP33mJXLrYqHUhpSSraaNEDmxlQp9E8NLeBT6HHbgImPvR7/BFul4A9lFv/CKNnhoWxmM9g6BQn8aIx4c/C/BrKA1FeO671ww6y8zuKqDcx6xRzrDi9xrqUeHFp3XgFM7SYfNs/sEAq+UZtcunvUp+jYVN87qUCtyaVDClMkzD3xR4MM/fGly8t8A==;Kew2611qIoxo5xuvGW7wxQ=="
 ---
 

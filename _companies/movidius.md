@@ -2,7 +2,7 @@
 name: "Movidius"
 overview: "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices."
 type: "profile"
-heat: -57
+heat: 0
 
 website: http://www.movidius.com/
 
@@ -28,7 +28,7 @@ images:
     width: 400
     height: 400
     title: "Movidius"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1593043200&v=beta&t=v8bzcEN78OEZ2WB1_GnEpwUU8ppI4UcPiQe2PP8G0hk"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHMBK9DktdgOg/company-logo_200_200/0?e=1594857600&v=beta&t=J53cwyA96-njplV5LC0dIsGYTIxT-3S1GU5SFLHhTj0"
     width: 400
     height: 400
     title: "logo"
@@ -36,6 +36,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=hD3RYGJgH4A"
 
-secured: "Dpc7zsKWi2mZ77pfSKTX+sHop+baqIjnUMLTdXjS7w+kUDW1macSOdjNmIJd8tGj2Ksm6Ru3kRcCwdpxVJpcB1RusKe0bukExV7kwolnvso6+Iusdmcs/Z5PokzkKf3WoinRDy1SsLCyjZjQEB2oNk1aUR9FVM6dLMXqm+rzR156sGyUtFAYW4HPdloehGgXs93Am+zZzDdwq5Upxhwtizw29fL8FgnPkdbgIkG4JJZtPXD7Cvj1lM41PL9C3u9h3Ddpv0+IsMzQbTD6onaRL4aCwK7AbD5peyePTdsAEMHcE3u0cX9/6WH2fiKLTCzAx/oSF88EpP2NUZ9AHZP9qw==;DOrQ2RSgXAhxNfX9ngZ15A=="
+secured: "HInuBVF+IIX94P8+rEi1grT7MlOnIOWbT1AbSnYhe8EgHxVEGwZcZNMt5I3pJHAyXZQFJVPcGQ/zC1rObfeMQfEDWqA9IydAoLjux15ZH9cxHPQ56M2DC0GSC+DIplhjpNNU2jdiA0uSusugaS1tKhP7+LWk7grPF27ajcV2fxaFhlY6aL8zWwPqrBSgxn0w1TLNRaioZqXSENucLYdzt1fnhraoUTyBqbrjw7Ryq2QRc7qe8J8m8EMll506rtMV6miIN7tzM1JRfT+BJAi6Ad+7uzp7q5iu/0t0Twh0Rztegu0PkOy14juQ3c3ShqbyFrIoMlgLU0s39y6tW1CNzw==;yrf+hh/BtSYuW7t+bTg4ug=="
 ---
 

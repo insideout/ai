@@ -9,7 +9,7 @@ otherNames:
   - "Kuangshi Keji"
 overview: "MEGVII is a world-class AI company with core competencies in deep learning. Founded in Beijing in 2011 by Yin Qi, Tang Wenbin and Yang Mu, three Tsinghua University graduates who studied under the Turing-prize winning Chinese computer scientist and computational theorist Andrew Chi-Chih Yao, MEGVII is a pioneer in applying AI technology and computer vision algorithms to Internet of Things (IoT) use cases. The Company’s mission is to use innovative AI technology to deliver value to customers and to benefit the society as a whole."
 type: "profile"
-heat: -138
+heat: 2
 
 website: http://www.megvii.com/
 
@@ -23,7 +23,7 @@ crunchbase:
 twitter:
   username: "faceplusplus"
   url: "https://twitter.com/faceplusplus"
-  followers: 841
+  followers: 849
 
 size: 1,001-5,000 employees
 yearFounded: 2011
@@ -48,7 +48,7 @@ images:
     width: 400
     height: 400
     title: "Megvii"
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1593043200&v=beta&t=aSZDxyLzsglUsvah8B3YWBdpItiQx6imEKU4MFEz_zw"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEytLW7LGXaHA/company-logo_200_200/0?e=1594857600&v=beta&t=kA_--YeJ-O7M8XY68wTHM71MKKs2wEGDYzsOabuXEpo"
     width: 400
     height: 400
     title: "logo"
@@ -56,6 +56,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=sbsCwlkSlp0"
 
-secured: "PBEVuhpSReIw7SDOsxfpb4AYUWzdBMusY9KjtA+UFcwA5oWGe74uLzp0U/exSKtPQqvwBLk2zC6bLL2paKDSH3rD0nDdP4xY7dNuBy2vg+Yt/BBErckRhXEeFY41PQzJVuiz1Y8ROe+laGfAwGRut1GbuyG5JTXYeXR/UXOgMUzAZ7JNtZk7b9pP24NUmVLw3BSH+lyJTiL6owBzBShBn2c8sbotrrcn6fuHKzS7euGmLbA+jpfJmAn2ogTy7VDkG4unaaGBov5P+iw4h/ncdn37a+wi2U+mhHumCrBy4AQ26SRVg+IpriRUfgP2GwVWHOAxJDY8eCml5YrcT7MO9Q==;1LqD314RJbCV2QuWRg8H1g=="
+secured: "cjU9+ephjtlIu5M3yRFDKw16OfW+D61sIJOZKs/AZDS80uyodl+Ibazap/eHRdJsCeVz5y8m7kVmjwrFy0GtT6aAux59h6ShfRc6rspWzz4GhUCjY1MHYbD+HwzOmGm4qFF8NrHNG9Lk7p6EsR2MQZM0zRWFo5kIe2aCjIT5yvIbDVsOVuwnTRkcDM58sdp9LOTRKj/5gxedNql+hRzPhwGlAUthuFQEyTPKA0LVxTwApmgskzZel7fh/R8NGXqB6Na59jE2cxQjqCpQn5xHSxROoD85pVhDLXUNF3rka522C5jwjvolSURdeMvmdrKXi8yWWLgQ2+xKQkA5hFgnQA==;dO2NZFizmvUJQKLNdptJHw=="
 ---
 

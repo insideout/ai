@@ -2,7 +2,7 @@
 name: "K Health"
 overview: "K puts personalized health information and quality care at everyone’s fingertips. We are a global team of doctors and developers who are passionate about using advanced machine learning techniques to turn clinical health data into knowledge that can help you better manage your health."
 type: "profile"
-heat: -155
+heat: 0
 
 website: https://www.khealth.ai/
 
@@ -31,7 +31,7 @@ images:
     width: 400
     height: 400
     title: "K Health"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGWkgS5WPdKHQ/company-logo_200_200/0?e=1593043200&v=beta&t=kNXHLTeb9f5WQ2eJUUvarsyiycRCXQ5x_AzpJjtIx_I"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQGWkgS5WPdKHQ/company-logo_200_200/0?e=1594857600&v=beta&t=e3nzXqaquirhDtr2eLQt7nfrMN_b1m3MmrmfWG8-_eo"
     width: 400
     height: 400
     title: "logo"
@@ -39,6 +39,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=lGPbuXpBSUw"
 
-secured: "xASVweFWTwwXOgTO0lt4oa2o+q4F+j/qkZCKEP5Ye0k7RFt/H2ILvSjl9175z6VN1ttjksfqCOEWqZ3iM+T/lS70fPkAuB8WmYLpTHRMiuyCJ0IskPv+yA1hx/DBsCrJvvfuOlxid0qDXbf+RvN8/IQUpq6w5TQIbm/i6CVlq3eQzKSa4s7NyEE15ItDEFPhqV4RIIVXx2JLm47HaCemSeBvHKyfU8v8vSAh+8AkyeDDMSe++hamYzQsxesPUMlTOTzKSE8pvZY3FErpJXDcLswbu0LAcSdEVJpueX71UeSGgKHmG3iX2iWNt2PEIvxsNTx3ilZ1FQlLawJPzQvmbw==;Z0d7Pu+lA5qKSL0nK3rNhg=="
+secured: "tLS/1aLIeu82pswJfZ57hj4mbv5GNR6pdFi0zK1Dxsz+OcRjGjh9jZzfpMG4eGx4jpnKuHhqRxZbf+lc8VWbBpWG5gnjord0/zfx3lGy2UT2fXdwub+hEk/gk+GWz8di1IuvYHZB8Uw6lF41qdTKKPP51NLcRx7oKkV0+cNYJgZlFq7hX8o2UuFndfk9FcllWeJPpgKw20mtKA6TfpCsJlwF2aLpG9GwuGk0uL9/O10P6ojjKhKOatAjPCHnS4pxxFQ7V8SxhlQ6BQY9Wchy1/BxcXybKZsp5lsfFtYu40RUZCHj/2Jv8e2AQcvYjzCSmLUcRLChQtmJcIBdjrh+3g==;FeLxcy/+rlp8jhmBVBNi0w=="
 ---
 

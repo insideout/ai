@@ -2,7 +2,7 @@
 name: "Vicarious"
 overview: "Vicarious is developing artificial general intelligence for robots. By combining insights from generative probabilistic models and systems neuroscience, our architecture trains faster, adapts more readily, and generalizes more broadly than AI approaches commonly used today."
 type: "profile"
-heat: -147
+heat: 0
 
 website: https://www.vicarious.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "vicariousinc"
   url: "https://twitter.com/vicariousinc"
-  followers: 46
+  followers: 47
 
 size: 51-200 employees
 locations:
@@ -36,6 +36,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=m6XVt9H2cDE"
 
-secured: "0dBm72Q0ccChmtFV/Nt7P90Gy74p6ZMaAPzZQNIpEMSR/TIfshNl9LqHAHUhnAIGRMwsFh9BkxUO9iYkhQ4O+rbu0UVMwnHUGslZdTYoKS7PEPDZmD+Lm5ZI3M6dM0PjJp3NfacYi3lKQdF3txbdtPg/7Bij2V7SuDWvDiST1tN0hDbJ/0v9338zX+UQQESFM2dvkm3MbtHvUJHrMM1Q0q2Dx7lGWlMtj08mpjSbpwSILYI3qROmWsIIyWyyQrzXazw4q1foGPdlywq6OJInapCxGpgzEPNJ9nvSEN/OQ7gS3IFn38K7zb8bRvT3pvfEE4QUQLfD0GTz/OErye+PUQ==;kGHbKMp3ehv8h1UFLNACrA=="
+secured: "WNSmHELo4+G2xDFgB+IzYs4PXuejaeZ4sz1XJDYKdLhfQTUj4+Y3dLKwabiDM/U6iS9AHgfISBPmELb+ZJNIsVBZwnZQ/08MrdignPPet1Dl2wF8bSaMOZt/4XxInQwXw9YxtWr5JZpAP97v9yq84FcbRm/JIrRpZHiQqRsfs+8Rqv3QQ4vno/Qco2cgGjPVKduK1CxYrEK+QgABF6SNpFzYZAfljKu10OvHjkkReX7wcZt6XtlsOaP1DVjcLoMzx1cJqMPFv4CCjf55rj3sfBT/0PbbdED9DcecoGIKNkZr4TeNhpRIR8irvJhbeCQ5/wZxDXtFZewJOXa6JMlfuw==;3F6d3ewRLyMcRQglSb9fpQ=="
 ---
 

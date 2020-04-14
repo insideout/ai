@@ -2,7 +2,7 @@
 name: "Xnor.ai"
 overview: "Xnor.ai brings highly efficient, super powerful AI to edge devices such as cameras, cars, drones, wearables and IoT devices."
 type: "profile"
-heat: -207
+heat: 0
 
 website: https://www.xnor.ai/
 
@@ -36,11 +36,11 @@ images:
     width: 400
     height: 400
     title: "Xnor.ai"
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_200_200/0?e=1593043200&v=beta&t=Cllv9piOYbbwA-BCGuUSzhRjLE8crymY-i3U5RcIMcg"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQH1T3MkqJIZ1w/company-logo_200_200/0?e=1594857600&v=beta&t=hfVmbjlDPgNiotB-bhVoGUyUkkQCKT6t1s8J11cZ7VA"
     width: 400
     height: 400
     title: "logo"
 
-secured: "LhWEmlqPOQtcpf8y9GDYWX/6kxIsd+NV4kq/U+i/Qx5IYp30CG7QLSLePLiAWFm4p+6TANk8+s1ZxLMy36A0/zKtg0u+3PREaIp+H7t2jroTbFOSdF8AgqFB8SjUQCLt9f0OVQGPyITOW5DmBN5SxofG0e8lWQteAobcYhUgulhXR3mueQ0SAroP9dlGtwbdYSB3Pm3o4Z845kEfLMeQhM55sL0zSbfeP+xmEP8/dkQMoUYzIPwBD04K+JJked+Q5RdBmHNIaDZhXvTzA1Vjmo6CPhsi/WEDtUScE3QHoaCP83baGtzA/5Bd8uv4NbJuk30HOVCXLZcccJXqyf7m7g==;3U9HitENIhV8r07C6a2mrg=="
+secured: "Qa2EMzCiXf3Ey+Q1wO09Cp1N7QPExI868T8YndE+f0EztPksiv6zvqjwznp82D9tNldyP2CF9IKHttSdWlNUjRgSKEgWMo1EKbS/SPGzC2But5volmMAy6RAQ9m2di5J4EkLTMqIrR9veGPqpO4IXC45UX+n57/UhXETIodsRfck2/TAqGJty5Qjvgz5fy1kWo0K/9T4WlbWwO+5q5aKii87qeO3ThRA+cDN27gXNm68o0z2L1IVABtyuwPmGiGS78vmE6hguOhGM+rWC7RifcyJSpsga4q2c+bq97QMUKkhu0jcdX7DykE53Ol27jFD7JbUUHRh/HS1TTye/CU3vw==;9qE2bbPW1TRBhSJHRaqOnw=="
 ---
 

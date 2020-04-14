@@ -25,7 +25,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1593043200&v=beta&t=DX_JZ8LtooCIobrxo5_wac73hkAWRBVmmGnpHM7p24w"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1594857600&v=beta&t=0jm63TMeGeTyK_DYbh9K6Yb_ROFncAOJ4OC5vwHfCMY"
     width: 400
     height: 400
     title: "logo"
@@ -33,6 +33,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=bCv1_PbU_Ow"
 
-secured: "XnGPcm4Og89CaQxITgdSYLalcYjzlmOBgMCn6svBicmSjhkwpAmBOb6GDlf9OnAL02pxDvRGyLejACBU07EDtodP4ZDK5x542+gM6UyRpHRoRRR8bokGtZaWrhjHAJxFdpiJ9Kk8HziGZEalkTWpoVlT/ro/ySs58wuAGMgV9LGJaWsp/MJAbB+gTQxefdOPdTyN/ahKxxs0lh6tQYDYH1ijBJhHxuMN2b2raQpDamWuvCC3AJaIfHXaeinkHG79seJRtuF5JwCcSfr26rBAVz3FWF4qS4280V/lFo64kWZFVP7DCpHBu3iRUGFWKGhMKFPKplRoYeok5PkflyfNeQ==;zLgVMYS0DrrCX0oZUl1IOA=="
+secured: "5Zz+xnxwRSCte/6VeNuxnjNIjJIYuuDrOFFHiQrnhwlMtol9v8AlrliNky1hl8IfC3RMgTKXlMwvp8JIP3EcNniKM7/nT9SDDloNYkZcR3YbdkHFTi7We3iIhHaOo+KPVf3QwWpKHBeBJtmcVNYsm+DtPd/AZXfQwCtU8W9gJU6rZK0GSHV0CaPJPIbhEH0J+yjBozoJwxJy7CXf+ItlHT7PRssHRk+YyyguRiC2kk/AMNSpXsxKT0BhgwpSatkYS0B9pUjnGcj/ocGkZ420evg6xqDD9h0oB0XVp0H+eSjMJlvy6RS/Hxbwbb5FXGgL1bnm4YlGtw1wWlck+1xy9Q==;i82xNSMLouWl55Zuv4OCgQ=="
 ---
 

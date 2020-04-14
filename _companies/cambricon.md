@@ -33,7 +33,7 @@ topics:
   - AI Hardware
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGNv0UfS97dSA/company-logo_200_200/0?e=1593043200&v=beta&t=DuRoVs4hg_LUchQ8KEUCH8VsKsGun60axD1-JqaEbGo"
+  - url: "https://media-exp1.licdn.com/dms/image/C560BAQGNv0UfS97dSA/company-logo_200_200/0?e=1594857600&v=beta&t=0o7BfJX5DM7gVXQaaYLYayFgCrNTQQHCNnuBalCrEVk"
     width: 400
     height: 400
     title: "logo"
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=oWbF3wQRaOA"
 
-secured: "7zuhq8M8heB3kKL9w3BnDLUrL4GxB0/PovvMiz4HLRL9swpM9teIzY5Z4d+txZRKqCegsxGz6+on8d5juA06v70q20CITPxI61QMT+2P7kcrMhcqf16AVuFryumHKuxn7X5OdxlzD39ztzIgvX9UqlrrL4SLHcabBZirbEx3qbg/ROCwg+twhQ0SNQCLthyYPYvxOHF6pcoTpWTRBk0Mr7uZ585xm0jRgG6EfJmHCcgHgEDVhlH5PW+o7ZtzP6tOW0c/g6ZoygwTuqcCjJ8RkgIUubUFuZqfOir+clK5pKTxvkTQSKxqlsANpVi3MaWd5AhUv9XZUrYNRbj1eCx1Ag==;PzrwZXINRIdiKMwW5ZXRSA=="
+secured: "jXAUcd+CpaLyiX3Z/JV8vrs4+PUGveLL0Swl++KKqUimmnzOIbGCfddbMS+NRfCgHxoth0Z2TopicAyTZaO7gGrAIWbxYslVCpq7NrTgdgDcOBXr+KIebisY0EPD094F59S/FlEL8ZM3t/U2OBSyTrkpPIpaDo+b6awkoXEVPm+t2pdyuu3Re1LtK0b5g5NQB0u4YXaZqJUQZabZX9CrGgPWZ5csvi1sAIm5m+OE77WgwN96D9R77eSvDZb/9/TS752mbC8zVhVz/y9O12gpOMezGhrSfh2a7cRGanUPwnQ3uJTzybG2Ib7/GDgLkCTZzh9hNlQbRn4SUTCqLIhjcA==;i63dZvwegU0go939FhEXug=="
 ---
 

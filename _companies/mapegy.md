@@ -2,7 +2,7 @@
 name: "Mapegy"
 overview: "Access the latest trends, forecasts, startups, competitors, partners, technologies,"
 type: "profile"
-heat: -1307
+heat: 0
 
 website: https://www.mapegy.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "mapegy"
   url: "https://twitter.com/mapegy"
-  followers: 279
+  followers: 277
 
 size: 11-50 employees
 yearFounded: 2012
@@ -39,6 +39,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=FM_2nxVEIOs"
 
-secured: "TjL6xHQP79dBJHl8Hw3E+u2ePt+LwFWWU2lNgCATXxtlXJQUFktiOMJuq9/XIgnT8/UDRLhK/OCvZW4FZOyPyHNEKFfm9VBKHPUWwt12MODgcL3NCyYR5RafhBl+Ay3OUtKHTz1hPw8+rmsTVVcDITB/2pYJAKpUaNgwnzqfb/nHybYVu/m/jWgts+npxHei65le6p28c9lo1WIXSvc3bv9/lntHEnrwFYJO4O3aNqDqaiJVDNLm+R/ifT5juGduVqcyMre4B9SU5JaGknbWDzbcklhh7DInQG6dLoiEZnoRsExyrz8SYa95U7r/J5jkwq8dU9OH+5J95u1LamxgfQ==;AixUwbs3RnasD4LamKZ8zg=="
+secured: "gi5l7Gc86vt4D9DgM6q7nkVivArZK9l3KZfkB/RKolQUbOYwsc0Or1uJW8YNOixgxXZc4RX564gDzgPv6q3sB9EaPDk5iillhNLnVgroPv/DDEJyHmW2maQS9TIhdMz2bmhdnt/YmaSVBvKwisXKnKVWds5oA+KMwiyTrVJcTF2L9FHUoDyhXt7FkBDOIW/OVaXoIQiSReC5xb4YLyUSfvvVPYWdhqXeJtei+SKb6BgOtjTOQzSTrBOqwQn02xHYLRDvlyLrJ/BVcxJP6MM8R3eYZs8kJDco3NbWu4ahGrBqqQs4AH7k17uYNOQRs+N5Cg0GooHC1OyCbUgKcx88/Q==;TeVjbpUjeFD13viCmchVug=="
 ---
 

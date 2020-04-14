@@ -2,7 +2,7 @@
 name: "Skelter Labs"
 overview: "Skelter Labs is an artificial intelligence technology company developing innovative core technologies with the key focus in Conversation, Speech, Vision and Context &amp; Entity Recognition. As a technology provider, Skelter Labs’ priority is to create value for businesses by making existing solutions work better with applicable AI."
 type: "profile"
-heat: 8
+heat: 0
 
 website: http://www.skelterlabs.com/
 
@@ -26,11 +26,11 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQHIQaysQyg9GA/company-logo_200_200/0?e=1593043200&v=beta&t=Z1vYCxLMpC1UVkp39_Ba2RCvwOEe6x1MxsOUv_Cmpy8"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQHIQaysQyg9GA/company-logo_200_200/0?e=1594857600&v=beta&t=rRgcPD6WmQ2-7BWZKZh0VSuHnGrPL0VYHmwUyKrFv4A"
     width: 400
     height: 400
     title: "logo"
 
-secured: "jTUhcAYqg9cuFHMcDPthDIxT01nQ3LT6QTaGnXFom/DubMmae5C2h2EwetLZK5Lbri9Tjrv9tAR7S8XG+epxAiJAbHuVN1IaAaC7wHkTN8P1xEypqqPjDPrFn0sjsnmeaASQqG3FNBWpeF7WXacc0GVh4DyDpBeNkQIbijcMoNr13AeB91FLNXEPAwKGHhe+dN3y+CGYIS9nML6QK6f88vb/vdGyif4O3LEUrL8VZ1biLFgVCXhFcbsAIYxgR7AlkhpNwPHPL+gE7Vco2XU9OxTMYQdUS9CAHCnAhp8GsReaZsrfNW9bTmG2i4cQ7XttUoy/yr7f5YAQa2grO3SXrw==;iqPLwIW0hN1FRtht4cJfzg=="
+secured: "xxtqpSLPmSVbooZqQ2EzcS+8bkio3EXEq2h/xJSyLxY/1wEmE6LDfPvdRk3+TO9H4StaxQPYBz55bK8l6FW5CzIX4sD6EAIzqcQaE31OsqG8qW2x016ji3CL6psYJ9nckNB+apBvtb+lkVDrwSVI55NWak5PltkHVo+7kzqISINmsa427WzuY2cobb+Sa5PlebuIVP2xcWV4zmJG1YCcI4Dsa9665t1LLbt4EYrOR1BzTMgus8W40s92cD7mkJgirfy+1kQaj5Vb/iGMd1m9O+jyZV28nt/AptD7EfHL985//wvzpt2Vx7nAq806NHbQJN+JitwZFyV4KE+Mr1vZWA==;IKu9aAsMe+ioccoMYWSoYw=="
 ---
 

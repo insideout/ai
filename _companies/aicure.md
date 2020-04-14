@@ -2,7 +2,7 @@
 name: "AiCure"
 overview: "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment."
 type: "profile"
-heat: -234
+heat: 0
 
 website: https://aicure.com
 
@@ -31,7 +31,7 @@ images:
     width: 400
     height: 400
     title: "AiCure"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1593043200&v=beta&t=c5KT0yHZte_05uLP7oaTuJq7MQ76hiKknMtWn_R7M80"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1594857600&v=beta&t=sumAmqV0-7zYBu108UOZcon224TCMDXXgvGBoHkDCZ8"
     width: 400
     height: 400
     title: "logo"
@@ -39,6 +39,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=xBpvK_VxiXM"
 
-secured: "twmMcaOv9b5Pl/YXL7nPuxaYwVQQhnUexMQjuaOFOjCINP9EXAM5mUaM2QTEpLrzGNwMTa8FSASqTi9fxI7RggdeeOYsx1YlN3XSUIX+AMz/NooHc1FURcxPjWsIuTg2BrCiLq+2xEr/1H3ESAvQvQLee7etzDbL9iurLJcVaSYgXiGhQolqA954RUZsaHN/tTYQRfmC/9i5RKBEEx+IcWgXPB/he0CrK5W63RLZ5tby8nw4coxFlHU5s0M6IT8wxb8eR0DAdguH7txTRsJ5DnpiShmiWdrKiV12eAJgvIdoblGpYJWkaq/8kB+meQf60J1d7KdaexbysdatQI6d0w==;urlJVjyklZK9nr7rzvDa2g=="
+secured: "Nr2PQXTwm3+2ukn9Z6gfrFyYSRt5vbdrSfv4hGxZr4RPEsLEB2KZtVdnAUhBhteJasCXG9Ow6eMx3ry5CxtFC1sWIE8WnwJkuEGsf9SbIDafJ0o1Y+cm/d6dbwc8JwpagNzxFPhMtBxRX6igG6sv/ohq5/1lUDDvyz9tchGnAqiL2znedumiruDaIiyVxkrjwDTFvu2uelgkdEdiZZvL3+Oer085ICqGJrv8x4E67AWfzhtRFK71/Wta/HlNs5DajnJ7piUtbTxa4n1HpCkPBbX0AUcYLcRQUBbjCEShegUyeRY6ssWQXVIPi/6mtW3XYjm+xGlFQpc3VJiVaAb6Mw==;DXEp6G7R1MRdAG9LOCh+0w=="
 ---
 

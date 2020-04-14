@@ -2,7 +2,7 @@
 name: "Sight Diagnostics"
 overview: "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing."
 type: "profile"
-heat: 5
+heat: 0
 
 website: https://www.sightdx.com/
 
@@ -27,7 +27,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQFJPHbaIRTVnQ/company-logo_200_200/0?e=1593043200&v=beta&t=YzmOB0keBW72wqLrdVKof5aXtQqwgjVZyv9Sf-yK7xA"
+  - url: "https://media-exp1.licdn.com/dms/image/C4D0BAQG0esuBlAtlug/company-logo_200_200/0?e=1594857600&v=beta&t=LzoS4YMgBRQIcMCcpRl36HcAeKuFcxLOY75SpyFkMIM"
     width: 400
     height: 400
     title: "logo"
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=IWwwJ8L7Veo"
 
-secured: "znAZZSA6k2CsNYzdlNVLs1FzW7ElcNwasyCMYj8BpH4g6gUbFP63zcANP5Oqou0WbYbYntf0aSnT5vt/QoYsEr8QXzObrmO0rQQzJ86QdtYfWMQ76pJjxP5xYlfGquu/vgkDfrMkTnQ0kGjoq103DR31aWpbcpddIqgUaYM64ou8zE84z/+hAXVilCtrvgw93d3NXvJup8lBCgrVgQrpL1y4JjvvgSnhGjk6ljTzlSvHgdoiFdNRDrL1AclhBQ7ntSGAWDaBWrCrxK1YARCttnfHgxlU0xGSEbR7EuZ90woUrkARJguUWnodLJc1oX86CgLkFrI1rrz73XmadlcofA==;Lx+N6/AykRBRd2maiitb2w=="
+secured: "ilOJ+/JTMZLr/S7IX6jXfpvlAdw9xs0gsNAEbHgK+lnvc8YqS+JCeFv7J6KwV4ngWQ5YTOFeYk8r99Q4kfqXbFdhf0OeqIlRRDD2D7K2h9paDVQfVeP2ZbRaxorZfWpVr2LMm2MM8Zpd8i432Got36cd97J4hz8sxM1KrlpMG50If5qNPs2ajFQ3lcCnfjcgUVBxYMLyuts23R8CE8BQhvkwAMwN038O/L5BzqSeMwISHZ3oZCy2i/qPm49zuYK6z+GVRRkytAgA90HcimpvTpLEmwNWfGvCnFrbjEPT6v5/0fY5uRHwHD0jcdBpWLUe6lfGRzP2iMtPosFZx7itMw==;Wq0P1zS1ke/a2uWvTF2i1A=="
 ---
 

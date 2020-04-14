@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: -42
+heat: 7
 
 website: http://www.biofourmis.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "biofourmis"
   url: "https://twitter.com/biofourmis"
-  followers: 262
+  followers: 287
 
 size: 51-200 employees
 yearFounded: 2015
@@ -37,7 +37,7 @@ images:
     width: 400
     height: 400
     title: "Biofourmis"
-  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1593043200&v=beta&t=ji984Pn7ytjvVRzdlQ1r_VHqDwYittIeXS_k0328umQ"
+  - url: "https://media-exp1.licdn.com/dms/image/C510BAQEpYGJwOi05CA/company-logo_200_200/0?e=1594857600&v=beta&t=knev6GUHkP2EPBLuHT2modcQRTosoG1rFvWV_S0cbvE"
     width: 400
     height: 400
     title: "logo"
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "ywSMToCatEicZIlSNOfSWMl+IcXgUHTQwpdfC0F8oqq4MFiBvYXS2xP5Q9dIXSAFW9ClDu9GEPrDlBDeckaDRSwGmq6H4csHHZ4SvDCQIGLslnVoDHDBcj0BLhV395shg4TtLMNlXWrPB8v8WL+AW0HmRGb0WqAozy65nHo+g5yRoJC+BrtQNlFizi2fu6t5OnoS4GqHxPp6FTzZQ/1UuTNTndxAwK8SK9dUel1HW7acg9FsObUN2YRpOTnllM/aZkoQsteMnNYcPQLQ09hVFF0Qy1m7eDNNaMO8ZAX1XyDQxndd5/ZYzMQNoxRWGKSAp99y7WE6m8jNexETcphGVA==;7+L0sN7Em0Mp8dtgTS61wQ=="
+secured: "qyGchCyTSkc3/HP2frhxCpaMjFPunYeIfkHo5Ux1z1HoNt8N3O256GwTW1jWWwXMnRhWyuouS/pli2yzulycdqNXVXDoGAUc0vHw8qCAIkvKL0PcZcUBWbNS2HMYiHHuQS/Znd19HXayvVf8b/kQBrgU7nbGmLY0YbKIPRPD7amGJQOx7xgN4d/e7/2xNv62XZOqbNNhnGqFWTPCAh7aKSJqFr2Bf1khY1uZQRzQqcQRsvfRC4Kwb6GgT2sYlodlw0rCJ0+9choiWO22z191Rlrh66MopBPwvkmQK7lyBCYRTaoQrnwaiKbJwTP7yvbuPkMu3fs7ZvD801EaKqWW7A==;0XZISrUUXUMELkuPMcl7KQ=="
 ---
 

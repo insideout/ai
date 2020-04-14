@@ -2,7 +2,7 @@
 name: "care.ai"
 overview: "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered."
 type: "profile"
-heat: -177
+heat: 2
 
 website: https://care.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "caredotai"
   url: "https://twitter.com/caredotai"
-  followers: 336
+  followers: 345
 
 size: 11-50 employees
 yearFounded: 2019
@@ -33,7 +33,7 @@ images:
     width: 400
     height: 400
     title: "care.ai"
-  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1593043200&v=beta&t=nU5bjvt09Tt_n-KfS8rn0YtUQ-39QU07Si2XI7WCWnU"
+  - url: "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA"
     width: 400
     height: 400
     title: "logo"
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DWTje5pDap0"
 
-secured: "HYWLq2iUojWuxf8dV8y+A5r2SDwjJ82i2oZYpNVvKMHISnNF+F48Y2MDvmoZtsNB0HyLU7fKkiEQjcLiAlH5W1VdbIyy7fOXOKeaoadleZMenh9R2cgw89aiVh8gpRLc0Eu1PsuwfHUkVwU5f7f48AnPJefrgDGkRj2hHHlKFVyZ9r4E9VcdqEL+ZdRBVpl+Sjmkw670Xlz3vUNeILO6SllZcxNwKVP4qbfd6JY41EIFTA3EIvQaIBcHcLANRN+8OiDEmxppA/cqh7mJqMMC9YOsnPf85UK5K6I6bVNiyV0mxOoT74lSxoxHU1mfXRek8LFrrDByDqqoZzs0hT7eFg==;McdAFa6xY56EYMa2yfwr3g=="
+secured: "zaZS3rYxG2Xb1tQlz+yA8tOZoS2HycsY9k6Ou3R5tBONg9cZ0Rh1Pw+59SbK46qG7J1q6euM/CP4ISd+JlMuU8bBdLccYOT8jppXydyPeQKY66mfYMf2RYf5XvDQMPcKuRonnlJLABuwQPSRtNmEg0q6Jy6WYS2U++4d4GK1JHjygafpNCFfLmNffF2dnE7RpGuVIUvSPQatO1sv7Ht9JDb1I/8jEhpsnbeKmmJEZV5dDbmunBDpRfr6IzopwezACwZqVCw5wRE59FQHJ5h6jSIsoyYT3lMu72Nj6gCDqV8FZIuyC5ml2NNQVBDbPl1RUdwegMYqs8z2K2o6Dh6LmQ==;/g8LZfnK8vbB+W+kA+d6Nw=="
 ---
 
