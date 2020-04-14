@@ -5,8 +5,8 @@ excerpt: "The TensorFlow Model Optimization team from Google recently released Q
 publishedDateTime: 2020-04-14T04:34:00Z
 webUrl: "https://analyticsindiamag.com/google-releases-tensorflow-api-to-develop-smaller-faster-ml-models/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/aim_googl-1024x667.jpg"
@@ -23,6 +24,6 @@ images:
     height: 667
     title: "Google Releases TensorFlow API To Develop Smaller & Faster ML Models"
 
-secured: "pEp4KbI6WqWTiYly2FF2/plMpJ7iqBC1U/K7e/SqWExNYmkTzy2znaiO8M1hYJ9HNdXn/iDLw8K9aL9cJdEgz6JH+ndJrSR0P2TSuOgrfqNNzdUelKT/17K2GgzL3houNoL90YMHjFfi8SBxSWwViCSnQ5Be/sy9vAv/7HEQ6vrjWg/ePOmwMQvqRbEsaLv01faGaiGblujLmg3lg3tUw0qBnNphJxqaPxoFs1sWlB3DMFlvz6wSUzZ75UgFoPF09Unr2d64+1jfTSB3+OigwFzw2wPDvTeGvpkvOF9KICjxm6WWUC01+HWwSoTnh5D0;uIiHp6KLC3P7RW5eXLuPlw=="
+secured: "fXQFwF6QHMdRaV6RX4U9beapoylbh1Oct3pxGfQBEyk2Nnj0stxlxra+pOPp5wOUgqtMiSQYPrnaRye44WIE2mPRx9M9OkbvWhWI2nkMeWM4H1Dt/vfOmM5r5/mAO9uWwYQGofBK7RsQitHK3xClz2S7X1dLRB4PqRu5pB/BwImtH50Xbz15+8oUnU21t1mtdXQV69S0Mw2TmfOSplZeGXhlBdJbX5eo0MGT5DQ8unKcmgUdj00Wk13dfrFvHdhYyfbzi78mcqAzqBAnZ8xOtRdjB2XnZaDBRhrruJ0sljDE/iqTGV3JvDXyDxigbP6saRNd9/S0kkGatkThtplhfd/BQW2MHBJylZ7+9gQnb7npk967Gc84e8jh/lV04fD67ZTp++6EF+2x2k7TPp7zoz6PUEbUS+W2pQ7a4oBGa85Bh62/oYo0VnLxZ/ohkMLuhuBtym2WQaJoYVajY60p+1+bSWxy+/D7qkjmdLzLhUg=;hSQ4kwzzR7Oaa7Ww4Sa+Ew=="
 ---
 

@@ -54,19 +54,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Construction Market Value Booming at a US$ 2.1 Bn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Artificial Intelligence In Construction market is expected to reach at US$ 2.1 Bn by 2026, along with the projected CAGR of 29.4% from 2020-2026."
-    publishedDateTime: 2020-04-09T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-value-booming-at-a-us-21-bn-by-2026-2020-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "bF3pc3hWuMpqwUtWR0uTp53LttK6GWCASiZeHTSZyW9nnKjsOJbWwYNNPQ1DPwYpttQGyPOa3yEmg0XT93Hv9s+7CMCb0uHY8vdTUhsR4d0LgrnEejeIFtTdZzklMsyxTyJVuLrddoXnm6p0BfdhG12G6fCKuo6luOnueOgGxDod6i7TJQ1td2FiTVqMvu8AwXI1k2iUd/Ass9C+GTd3lLMKIg2nqFMPTZPQp7H7LxB5DGX2AZifOB4g0UN1dW8+B4QKqpuuV21Q8XMEHvy3LjuEXCqk3AkD7Q7Kl/8e36PuNQjfGm+kxHySzmH7cKff;prakSbfkge8WhNmuLVzdcg=="
 ---

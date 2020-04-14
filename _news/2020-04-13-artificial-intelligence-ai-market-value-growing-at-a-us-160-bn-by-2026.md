@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-13T12:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -36,19 +36,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Artificial Intelligence In Construction Market Value Booming at a US$ 2.1 Bn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Artificial Intelligence In Construction market is expected to reach at US$ 2.1 Bn by 2026, along with the projected CAGR of 29.4% from 2020-2026."
-    publishedDateTime: 2020-04-09T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-value-booming-at-a-us-21-bn-by-2026-2020-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -43,15 +43,17 @@ related:
         height: 539
   - title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
     excerpt: "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ..."
-    publishedDateTime: 2020-04-09T18:20:00Z
-    webUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp"
+    publishedDateTime: 2020-04-09T17:40:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 15
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg"
+        width: 720
+        height: 878
 
 secured: "TsTapxGYosRzRxa7eezA+BeJ209wfq4W4m7YLGmtIGaV7Dt+RkW+Bzi+2sg6LbBLpu90fb4FjfPMMmiTRXsGN2iNJXF8aA+p5FuBj1Q2cSr7aosGDUBHZAw+X6Kzy570hz2pvQ6+5llPzZKcuXCQ5k0nuFiScenbU+NITWjJgW3rnYvMgOPttVrQOwNq/yaU/y+LPrL8ivkiH+fTSjdJASIHVHPbPvLY/6ZJXuPRN7I6arqfDcklgRSonMO7JMYYo250i4LuSPCYKI3dfMz+xgUbpSiw2oWfVcGBksVqM8wL885jwY6A11tf5JkEepsIFZoOjmdqtm+cSNJrkbYVnm/rSsesX1cHQTkQnAN1v02KL1VmiSbb3kkySlBZ2V3X3zBRRkDVJR4Y2+UbNPl8fnZqyqWKW8hi9Zvw6BKPhr1OpJSRttTEOFbeunxewVe8psN+HDIMwFVGV87/kMqk6huuomuO5eDHQdp+l5ghv+E=;2vif9psOZDvdQbCDioSpww=="
 ---

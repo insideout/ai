@@ -41,19 +41,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence In Construction Market Value Booming at a US$ 2.1 Bn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Artificial Intelligence In Construction market is expected to reach at US$ 2.1 Bn by 2026, along with the projected CAGR of 29.4% from 2020-2026."
-    publishedDateTime: 2020-04-09T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-construction-market-value-booming-at-a-us-21-bn-by-2026-2020-04-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
   - title: "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025"
     excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
     publishedDateTime: 2020-04-14T04:23:00Z
