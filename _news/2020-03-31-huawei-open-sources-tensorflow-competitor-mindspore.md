@@ -19,6 +19,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/RYqiU3byPDDFvXMxvn9kNm-1200-80.jpg"
@@ -26,6 +27,6 @@ images:
     height: 547
     title: "Huawei open-sources TensorFlow competitor MindSpore"
 
-secured: "XUQMkfvAz8i9cHSfEkinyZYWl7dOsMdckKuKKW2EOHJsZQysMBGXgEaiNThUqvEy/tdkEqYe//QcIyUfSt5Zk8TQrsoN8nKlMN6FbpKsezSpKd8SqRBY3rNBq2K09njIBnJDaudzWAxaFfXb117/AYDp297L6H/DxEzPV56T6J/ayZR9GK1xU41kNUl/WWmhm5w4Y7qLMDGJXtofvx83CDCMjI2VawdGYH4/VbiN1Hprot2SlEgF2DpjkyvBcCfTEduJX1ZoUJ4sSqp8AThawp3vBALv70oZbLk6AqObt85/w/sbo+SVyHrN+6jMbhRP;3WJAk2YC+hem5jCpAnwUSA=="
+secured: "R1JraOUDNK8ljsiJMLQ9heDT7zBnWu3d2Jw4ijpAr5BDOGXaLslBLPtu5+WYEIK+zDiDjS6PXqTb/PmkEs2H7WUg5+IfYWVXaRlaz4ljVVAJ3LJdX2LR8noPJhE99x9reSPyh+gBN8kqhIVIiActntyRDbaZxJzBE0bPRk2a6W+qOcXJiQx9139+skNAu0lpr77sEZTPGosAnfopwGdhKt5GOFGoI931TqL4uUzAXN+KP3fxoMUW6/Ub/4A6Fl6EwQYEAUovTpe3iS48Fl9gfaC210x9cmeSl89gWRh+cQQsSRJ3D/idRGeiT557D12NbuOsiKDkxH20h+Kr64IDS/Sqa+4JseCu1w21XpW0lmxZcj+wFy1eHgaytv/klMSS+J56+//9k3yxx9Wl9356fxfsZqA8KN1avlcBtGRhIsc7v7VsdY4Hdh4DpD4dASy6WXoNXIJRNVUnmmrClFSxu+bAOcKMJJvFImayQ5Ajuuw=;5x7e+0XpTr99p3X2ET68mw=="
 ---
 

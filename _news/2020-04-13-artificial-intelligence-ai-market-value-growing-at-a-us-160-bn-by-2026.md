@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-13T12:30:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -49,6 +49,19 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+  - title: "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025"
+    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
+    publishedDateTime: 2020-04-14T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

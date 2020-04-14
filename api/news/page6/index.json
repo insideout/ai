@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-07-introducing-incremental-enrichment-in-azure-cognitive-search.md",
+      "title": "Introducing incremental enrichment in Azure Cognitive Search",
+      "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T02:00:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11209cb0-9fc2-4d87-8210-62744f0df29a.png",
+          "width": 883,
+          "height": 462,
+          "title": "Introducing incremental enrichment in Azure Cognitive Search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-at-cagr-of-38-machine-learning-as-a-service-mlaas-market-share-detailed-analysis-market-growth-size-trends-and-forecast-to-2023.md",
       "title": "At CAGR of 38%, Machine Learning-as-a-Service (MLaaS) Market Share, Detailed Analysis, Market Growth, Size, Trends and Forecast to 2023",
       "excerpt": "Global “Machine Learning-as-a-Service (MLaaS) Market”is analyzed byproduct types, applicationsand key market players formarket size, share, sales (consumption), gross margin and revenue. The Machine Learning-as-a-Service (MLaaS) Market data from the year 2015 to 2017 is primary basis of this research and the forecast period being 2019-2023.",
@@ -1025,50 +1070,6 @@
           "width": 2545,
           "height": 1273,
           "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
-      "title": "Why AI startups’ economics will likely improve over time",
-      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "publishedDateTime": "2020-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Why AI startups’ economics will likely improve over time",
           "attribution": null
         }
       ],

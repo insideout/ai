@@ -2,6 +2,95 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-02-15-7-business-areas-ripe-for-an-artificial-intelligence-boost.md",
+      "title": "7 business areas ripe for an artificial intelligence boost",
+      "excerpt": "Artificial intelligence has captured everyone's imagination, but what can we expect from the technology? A recent survey of more than 550 executives from IBM finds plenty of support from the top -- everyone wants to plunge full-force into AI to increase the speed and capabilities of their businesses. At the same time, AI is still very much in ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/7-business-areas-ripe-for-an-artificial-intelligence-boost/",
+      "publishedDateTime": "2020-02-15T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/02/15/211f423b-0209-4ff3-ba9b-55d939fe67e0/ibm-watson-group-photo-from-ibm-media-relations.jpg",
+          "width": 320,
+          "height": 287,
+          "title": "7 business areas ripe for an artificial intelligence boost",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-15-video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars.md",
+      "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+      "excerpt": "Uber driver on wild chase opts to \"kidnap\" his passengers, which brings up interesting lessons for AI self-driving cars.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/15/video-of-uber-driver-on-wild-chase-that-kidnapped-date-night-couple-provides-vital-lessons-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2020-02-15T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F3921-000053%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5140%26cropY1%3D206%26cropY2%3D3096",
+          "width": 1200,
+          "height": 675,
+          "title": "Video Of Uber Driver On Wild Chase That “Kidnapped” Date-Night Couple Provides Vital Lessons For AI Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-15-are-robots-better-investors-than-humans.md",
       "title": "Are Robots Better Investors Than Humans?",
       "excerpt": "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds.",
@@ -978,87 +1067,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-man-arrested-for-brake-checking-waymo-self-driving-van-causing-crash.md",
-      "title": "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash",
-      "excerpt": "Raymond Tang was a former Waymo van operator who worked for a contractor of the self-driving-vehicle company. He was arrested on charges of intentionally causing one to crash on January 30. Since his termination, according to Waymo, he is accused of ...",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.caranddriver.com/news/a30929221/waymo-self-driving-crash-arrest/",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp30929221/waymo-self-driving-crash-arrest/",
-      "publishedDateTime": "2020-02-13T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/waymo-minivan-4-1532617122.jpg?crop=0.574xw:0.469xh;0.229xw,0.526xh&resize=1200:*",
-          "width": 1200,
-          "height": 599,
-          "title": "Man Arrested for Brake-Checking Waymo Self-Driving Van, Causing Crash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-use-ai-ethically-to-build-relationships-not-data-warehouses.md",
-      "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
-      "excerpt": "Capitalist societies risk the commoditization of personal data at the expense of the individual. But greater, more long-term and beneficial economic success can be created by looking beyond the blinders of shareholder profit.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/14/use-ai-ethically-to-build-relationships-not-data-warehouses/amp/",
-      "publishedDateTime": "2020-02-13T21:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e461695f133f4000628c188%2F0x0.jpg",
-          "width": 1200,
-          "height": 1058,
-          "title": "Use AI Ethically To Build Relationships, Not Data Warehouses",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

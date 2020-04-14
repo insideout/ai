@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025"
+    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
+    publishedDateTime: 2020-04-14T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "S+uJOuJkmIrHI8zgNPHT5FmvyluXGoPLAueyBilBiEKhlNwW4EgWFpQc30bBHh7wQyhLtZt6m8IvWu0VdnzpjNQCbT2lq2u4s/ZjNRHTimKluA4q7jEryq1vzA7aHVoOzZ9T1hFQZVyxlEtNjbm2qSZL+wFyFhbMc9VEp4J19Efx3DaD7DnOEqODPwWLd3rCb/Y38ZwKYD4FLqaOqr446rEHlcjM3Y6OXDievD/tDSyKqRpn4ee1PEU/ViQatuUiin4mBLGkSUoz9SI7mJ9EHeE4x68meOqqtIouYIDAkTsGDC+hxbR1OzRGjZoZ39o4;B6CUZz9Xf4Je1w/XM8xCGw=="
 ---

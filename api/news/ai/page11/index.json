@@ -2,6 +2,95 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-03-31-ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years.md",
+      "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
+      "excerpt": "Recent quantitative assessments of the impact of AI highlight the precarious nature of the future of work (long after the coronavirus pandemic ends), the continuing mixed attitudes of consumers about data privacy,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/31/ai-stats-news-34-of-employees-expect-their-jobs-to-be-automated-in-3-years/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e82b806cff6b00007a45dfa%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "AI Stats News: 34% Of Employees Expect Their Jobs To Be Automated In 3 Years",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
+      "title": "Perceive emerges from stealth with Ergo edge AI chip",
+      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Perceive emerges from stealth with Ergo edge AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-pokemon-go-maker-niantic-acquires-3d-world-scanning-software-company-6dai.md",
       "title": "Pokemon Go maker Niantic acquires 3D world-scanning software company 6D.ai",
       "excerpt": "Niantic, makers of Pokemon Go and collaborators with Qualcomm on a future AR headset design, have just acquired a company that enables collaborative AR world maps to be shared. 6D.ai is a company that specializes in building out 3D world meshes that multiple share and keep building on.",
@@ -605,14 +694,14 @@
     {
       "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
       "title": "How artificial intelligence will reshape the contact centre in 2020",
-      "excerpt": "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is ...",
+      "excerpt": "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html",
+      "webUrl": "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T22:10:00-07:00",
+      "publishedDateTime": "2020-03-30T21:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ITWire",
@@ -623,9 +712,9 @@
       },
       "images": [
         {
-          "url": "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg",
-          "width": 350,
-          "height": 420,
+          "url": "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg",
+          "width": 375,
+          "height": 450,
           "title": "How artificial intelligence will reshape the contact centre in 2020",
           "attribution": null
         }
@@ -1191,88 +1280,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-driverless-car-startup-using-ai-raises-13-million.md",
-      "title": "Driverless Car Startup Using AI Raises $13 Million",
-      "excerpt": "A startup using artificial intelligence to develop driverless car software has raised $13 million in seed funding. Investments in Helm.ai came from A.Capital Ventures, Amplo, Sound Ventures ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mediapost.com/publications/article/349204/driverless-car-startup-using-ai-raises-13-million.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MediaPost",
-        "domain": "mediapost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com:443/media.mediapost.com/dam/cropped/2020/03/30/helm-600_dERWy3j.jpg",
-          "width": 600,
-          "height": 375,
-          "title": "Driverless Car Startup Using AI Raises $13 Million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025.md",
-      "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
-      "excerpt": "MarketsandResearch.biz is releasing the latest insights through extensive research titled Global Computer Vision Market 2020 by Manufacturers, Countries, Type and Application, Forecast to 2025 which provides a comprehensive researched abstract of the key players with considerable shareholdings at a global level regarding demand,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-computer-vision-market-2020-industry-status-segment-analysis-key-players-business-growth-and-forecast-to-2025-2020-03-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Computer Vision Market 2020 Industry Status, Segment Analysis, Key Players, Business Growth and Forecast to 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

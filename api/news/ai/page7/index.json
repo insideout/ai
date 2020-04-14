@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
+      "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+      "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord",
+      "ampWebUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "cdnAmpWebUrl": "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
+      "publishedDateTime": "2020-04-03T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gaming Polls",
+        "domain": "gamepur.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.gamepur.com/wp-content/uploads/2020/04/01122550/Sword-and-Shield-Mount-blade-2.jpg",
+          "width": 1917,
+          "height": 1196,
+          "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
       "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
       "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
@@ -1252,51 +1289,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-watson-can-answer-all-your-coronavirus-questions.md",
-      "title": "IBM Watson can answer all your coronavirus questions",
-      "excerpt": "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions",
-      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions",
-      "publishedDateTime": "2020-04-02T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/DWGrTNnWhJtePd4QKjQJoY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM Watson can answer all your coronavirus questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-01-covid-19-spurs-offers-for-free-software-data-and-training.md",
+      "title": "COVID-19 Spurs Offers for Free Software, Data, and Training",
+      "excerpt": "DataRobot is providing its AutoML platform, including Paxata data prep software, free to folks who use it to help with the COVID-19 virus response effort and are participating in the Kaggle competition, the company announced on March 20. dotData is giving ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.datanami.com/2020/04/01/covid-19-spurs-offers-for-free-software-data-and-training/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/free_keys_shutterstock_niroworld.jpg",
+          "width": 1000,
+          "height": 601,
+          "title": "COVID-19 Spurs Offers for Free Software, Data, and Training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-30-under-30-asia-2020-the-startups-leveraging-ai-and-machine-learning-to-transform-businesses.md",
       "title": "30 Under 30 Asia 2020: The Startups Leveraging AI And Machine Learning To Transform Businesses",
       "excerpt": "Hyunsoo Kim, cofounder of Superb AI, has been selected as the featured honoree for the Enterprise Technology category of this year’s Forbes 30 Under 30 Asia list, leading a pack of several fellow honorees who founded startups based on AI.",
@@ -1244,51 +1281,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-energy-saving-ai-is-coming-for-your-office-thermostat.md",
-      "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
-      "excerpt": "If the workers got too hot or too cold, they could tap an app to say so. The AI would adapt, creating microclimates to reflect their feedback. But in time, Spanos expected, the workers wouldn't bother. His goal is to make the system forgettable. Lights will turn on as workers come and go; screens will flicker to life as they settle at their desks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/",
-      "ampWebUrl": "https://www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/energy-saving-ai-controls-lights-office-thermostat/amp",
-      "publishedDateTime": "2020-04-01T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Energy-Saving AI Is Coming for Your Office Thermostat",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -2,6 +2,95 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-03-20-google-taps-computer-vision-to-improve-robot-manipulation-performance.md",
+      "title": "Google taps computer vision to improve robot manipulation performance",
+      "excerpt": "Affordance-based manipulation is a way to reframe a manipulation task as a computer vision task. Rather than referencing pixels to object labels, it associates pixels to the value of actions. Since the structure of computer vision models and affordance models are relatively similar, techniques from transfer learning can be applied to computer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/googles-taps-computer-vision-to-improve-robot-manipulation-performance/amp/",
+      "publishedDateTime": "2020-03-20T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google taps computer vision to improve robot manipulation performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
+      "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
+      "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
+      "publishedDateTime": "2020-03-20T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/flatten-the-curve-cdc.png?fit=1200%2C608&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-7-best-computer-vision-courses-certification-2020.md",
       "title": "7 Best Computer Vision Courses & Certification [2020]",
       "excerpt": "Apart from this, you will also have the opportunity to gain hands-on experience in writing computer vision code through online labs using MATLAB and supporting toolboxes. – Chance to design ...",
@@ -1124,80 +1213,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-the-impactful-role-of-ai-in-mobile-app-development.md",
-      "title": "The Impactful Role of AI in Mobile App Development",
-      "excerpt": "driverless, earth-moving vehicles. The perks aren’t just limited to this, it enables clients to see machine data and observe framework on their iOS and Android mobile phones or tablets. The growth curve of AI in mobile app development According to Statista, by the year 2025, the growth of the Artificial Intelligence (AI) software market ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development",
-      "ampWebUrl": "https://yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/mystory/impactful-role-ai-mobile-app-development/amp",
-      "publishedDateTime": "2020-03-19T17:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/a-/AOh14GhpNN87cfKPOxK5gBMpO01Xq87Dw_O39FUU8GJevA",
-          "width": 512,
-          "height": 512,
-          "title": "The Impactful Role of AI in Mobile App Development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-raspberry-pi-camera-with-smarts-cloud-or-local.md",
-      "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
-      "excerpt": "[Mark’s] first pass was to use Amazon’s Rekognition service to process video. This allowed the camera to actually be smarter about what would trigger a detection event. In particular ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2019/03/07/raspberry-pi-camera-with-smarts-cloud-or-local/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/03/cam-1.png",
-          "width": 800,
-          "height": 450,
-          "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

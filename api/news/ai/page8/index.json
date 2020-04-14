@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-02-ibm-watson-can-answer-all-your-coronavirus-questions.md",
+      "title": "IBM Watson can answer all your coronavirus questions",
+      "excerpt": "The new Watson suite will be available online and on smartphones and will be free for at least 90 days. According to IBM, wait times for coronavirus-related questions are exceeding two hours, so the company believes that using AI via Watson may be able to help speed up response times. In a press release, general manager of IBM data and AI ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/ibm-watson-can-answer-all-your-coronavirus-questions",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ibm-watson-can-answer-all-your-coronavirus-questions",
+      "publishedDateTime": "2020-04-02T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/DWGrTNnWhJtePd4QKjQJoY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM Watson can answer all your coronavirus questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-amazon-and-sensetime-detail-omnisource-a-framework-that-scrapes-web-videos-to-train-ai.md",
       "title": "Amazon and SenseTime detail OmniSource, a framework that scrapes web videos to train AI",
       "excerpt": "Researchers at AI startup SenseTime, Amazon, and the Chinese University of Hong Kong say they’ve developed a new framework for leveraging web data — OmniSource — that notches records in the video recognition domain. By overcoming barriers between data formats like images, short videos, and long untrimmed videos and adopting good practices ...",
@@ -1088,23 +1133,31 @@
     {
       "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
       "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-      "excerpt": "With Watson Assistant for Citizens, IBM is helping government agencies, healthcare organizations and academic institutions use AI to put trusted data and information into the hands of their ...",
+      "excerpt": "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions/article_cfc92023-2c3e-5cc2-b30f-7bb4a0be50ca.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T21:12:00-07:00",
+      "publishedDateTime": "2020-04-01T21:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
+          "width": 1650,
+          "height": 864,
+          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -1230,43 +1283,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-covid-19-spurs-offers-for-free-software-data-and-training.md",
-      "title": "COVID-19 Spurs Offers for Free Software, Data, and Training",
-      "excerpt": "DataRobot is providing its AutoML platform, including Paxata data prep software, free to folks who use it to help with the COVID-19 virus response effort and are participating in the Kaggle competition, the company announced on March 20. dotData is giving ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datanami.com/2020/04/01/covid-19-spurs-offers-for-free-software-data-and-training/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T15:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/04/free_keys_shutterstock_niroworld.jpg",
-          "width": 1000,
-          "height": 601,
-          "title": "COVID-19 Spurs Offers for Free Software, Data, and Training",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

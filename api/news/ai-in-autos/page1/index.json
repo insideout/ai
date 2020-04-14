@@ -455,6 +455,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-self-driving-cars-are-helping-the-coronavirus-fight-in-florida.md",
+      "title": "Self-driving cars are helping the coronavirus fight in Florida",
+      "excerpt": "With already limited staff, it's hard for people to be everywhere at once. Now, the Mayo Clinic is using self-driving cars to ease the burden. On March 30, the Mayo Clinic in Florida launched its program with four vehicles. The shuttles, which do not have any attendants or people onboard, transfer coronavirus tests and medical supplies from a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125",
+      "ampWebUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "publishedDateTime": "2020-04-07T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2020/4/7/29123b17-85f2-46ca-b31f-a9dcde4d2b1e-screen-shot-2020-04-07-at-15630-pm.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars are helping the coronavirus fight in Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-tesla-prepares-to-increase-the-price-of-full-self-driving-again-with-new-features.md",
       "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
       "excerpt": "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ...",
@@ -1028,14 +1065,14 @@
     {
       "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
       "title": "How artificial intelligence will reshape the contact centre in 2020",
-      "excerpt": "GUEST OPINION by Brendan Maree 8x8: Artificial intelligence (AI ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is ...",
+      "excerpt": "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html",
+      "webUrl": "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T22:10:00-07:00",
+      "publishedDateTime": "2020-03-30T21:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ITWire",
@@ -1046,9 +1083,9 @@
       },
       "images": [
         {
-          "url": "https://www.itwire.com/media/k2/items/cache/b8cd775db4343d8573f7d562699184cc_M.jpg",
-          "width": 350,
-          "height": 420,
+          "url": "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg",
+          "width": 375,
+          "height": 450,
           "title": "How artificial intelligence will reshape the contact centre in 2020",
           "attribution": null
         }
@@ -1262,35 +1299,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-artificial-intelligence-revolution-will-make-many-jobs-obsolete.md",
-      "title": "Artificial Intelligence Revolution Will Make Many Jobs Obsolete",
-      "excerpt": "From personal digital assistants to self-driving cars, artificial intelligence is quickly gaining ground with the technology promising increased productivity, efficiency and safety. Kiet Do reports.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/",
-      "ampWebUrl": "https://sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "cdnAmpWebUrl": "https://sanfrancisco-cbslocal-com.cdn.ampproject.org/c/s/sanfrancisco.cbslocal.com/video/3756432-artificial-intelligence-revolution-will-make-many-jobs-obsolete/amp/",
-      "publishedDateTime": "2020-03-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS SF BayArea",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
