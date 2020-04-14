@@ -2,7 +2,7 @@
 name: "Josh Cogan"
 bio: "PhD Physics, Stanford University"
 type: "profile"
-heat: 578
+heat: 706
 published: false
 
 affiliation:
@@ -18,7 +18,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=_EPCKe0AAAAJ
-  citations: 173352
+  citations: 175573
 
 topics:
   - AI
@@ -30,6 +30,6 @@ images:
     height: 84
     title: "Josh Cogan"
 
-secured: "wb4FfevZKp6gZ+o01uJ92jiMy03Tszk60yzXP9MDEILnR1yasl8L8IQH/Qyr2Cyn9b7WBXzW+PPYlJ8LXBt9nuvjrPzh2l8K1mjwsb0RfeowMTiIQzbrHRhmz+UORnNS/gQ172PpbDU8PCsPU4w3fG1xcTbifrrBQfBtBULehjwdLEj2IXziol86s8zksdQWXDC+i9UvLNpnDGwJmDt8SzimFEkIs/WJ3aBiHMtXrK8ool09vZOund6c9tvlPkCwc/xqhAqGRvAA3uMWwPadkJIms2xxhLClbhTJi0wwE+B6uzQnKLi+pwGO32mapuE8R5uAR+5URoH3aiTOj8d5vw==;mwIVn8qI78FqMXF8S2c7jA=="
+secured: "VHue3lwIYLIIqli4x6xairRxfzscFxTa2+T/LcCBYPkWRNjPftqfkAQecXEXAUSsq28ego54dYZh60RkCLzpdXm56fG8nzhn1iUE3e/wcGGuDlL3PUXzRBgdtpl0EGeXYKmj0wz5zUk6X3jAgtweqewJjacbN/oMm5KIyQW4gJIVUQc6A+d15SHqjVal8GulzoU0x4KIIbiVU6l+UZXnfEhXYfSKeVZfjPz/S6te8h/tNCP5xw07BBpv7QD+k0Lejji0yoMjllJwhwSY2VXUyFrS91FBvgt8VI9LL1ulAs8ufum4ejJthF01g+yxRd+U2X1scm88OJr8PyVC2WKwjQ==;7V4HJOe+bhuSJpHJhYvkrQ=="
 ---
 

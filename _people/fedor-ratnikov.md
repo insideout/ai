@@ -2,7 +2,7 @@
 name: "Fedor Ratnikov"
 bio: "National Research University Higher School of Economics"
 type: "profile"
-heat: 289
+heat: 319
 
 affiliation:
   name: hse.ru
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=vbLFLLEAAAAJ
-  citations: 124976
+  citations: 125981
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 128
     title: "Fedor Ratnikov"
 
-secured: "hl1HTkWEDqSCKGd5iU9aO6rMymzKpaRjYMyUAowYOc+Xyf5sBJLPDihDtNvmNcLyzt6bi9VokivzyirWOe2jBKR8AcKbwA1weAHmye3qlqYtaiLGnaqyydbuVAOS70rBZwDhVipKwcCMaqmniXI0xGP+xJn8Dpy33+F5RZ67iHWLrbtcnO8ADNSdh/kPoDrhB7VQrj3nzYRzrK6+tKGifJEYzO1bh2YoYpPdm06WiaHfDu0RGVRuly7ZJNY1ebgOdc4MwbJ1K1/z7O/yqbkRVgHNf1JtoOSCd0YH0XLpG3ZFsIHZcwL+3WgTunPQv4hN1OWVrgx97UpXMWO/7sgr6Q==;O50h+5AvNlz5xh/2UfOSOg=="
+secured: "+OPwuwqAZj5vHyScs4prWSRj3CEdDcYSdjm2za6jP7aR1mXkzAYLY+PgdhxopSY+4F88sa//3iXgWdPcsvi0GMIyPrBhJ+ngp7TxAp/e462rkc5vTrZsvCKd4h2t7RHk+tqn52endD5+Rm7RWGPQ5Wxt1M7vIHc4vCMqq3wXkeN/aOV3sWH7svHd6emR2BkrMM6tp5MK3MsaC1bZSUHkbf7XS3IDxO3Y4C03SYjKdct4Mbvij+x7UURKx3bNM7SZru2qW4YxxtjjEiCuFR8MrYzEelXvky8Sh23GVWp/AewPw3Hu9HexPcIfQvZCYDhLR0CD/flV/AB0XdEo1hAhug==;AxIe0bQoD2y39PI+lSqpog=="
 ---
 

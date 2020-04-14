@@ -2,7 +2,7 @@
 name: "Chuen-Tsai Sun"
 bio: "Professor of Computer Science, National Chiao Tung University"
 type: "profile"
-heat: 387
+heat: 339
 
 affiliation:
   name: nctu.edu.tw
@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=_0PCbyUAAAAJ
-  citations: 140620
+  citations: 141688
 
 topics:
   - AI
@@ -21,6 +21,6 @@ images:
     height: 128
     title: "Chuen-Tsai Sun"
 
-secured: "4fCojySG18OZnMlNludqs13QJJnpcQaLu7A5cmSewrNpQjRy/XuQOYKbTljXQobMHFZuikFoN91a3An3uilasVyWq1yQP1c0p/HUzZp/SEuwgsqZNoM0TDFrPNDPsxzqBrzgxT9U4AktWKEiwX3/1X4MGQGkejxxCdJ5b8S4GA+Nt+aweIbx6UnKNwnxLeVnN/QqWEfPQ8on2/e/Q+cia4eqCA1NV46Fssj/jgMnL6PaBDt4gX26ZhCbtvNPRxyg4CbH9VwUmdiS7gunxPhrVI/NLYjlxJ6oH2eTMhdcByweBYN7zDhiIQNKP9Q6UKJ6rATqbeYC4m4871ewPZW/2Q==;E2oS73C7fTNG8wj7vOiiKQ=="
+secured: "sLbYnBCEFxxH0D9PNCSjvqT9GBnIQOcbrAD9a5LBLzkfaf41ZUlVSTpCc/SYVL4w05WySdIemcFxcxfeqWUhALBt05wKwsvqKpc0OIRGNT3qFIfX7S28hSZwFDjvgG2pn7o6hUtETJjoznoVCP0bgk3errkEWhJUwF1Bo1uneBPLBJ3e1v5z0cJLjtUosAu1lGiZ5g/5TTsqufIE3havmvAAVG3jMcqu+pysj3TW0HfwoNMhwKCQz1k7FYAGx3nyvtXC2vt34+wtaqbMolLTmDWpYuSs52WN9q4WD7gdnCrHx/joma934JzE3azITHNKRUiphKz5Hv0dT0BpsSldOA==;SDClmd/6rOJic7I98tvNWQ=="
 ---
 
