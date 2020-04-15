@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T05:54:00Z
 webUrl: "https://www.abc.net.au/news/science/2020-04-14/clearview-ai-facial-recognition-tech-australian-federal-police/12146894"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -22,21 +22,6 @@ images:
     width: 700
     height: 394
     title: "Australian Federal Police officers trialled controversial facial recognition tool Clearview AI"
-
-related:
-  - title: "AFP admits to trialling controversial facial recognition tool Clearview AI"
-    excerpt: "The Australian Federal Police has admitted to briefly trialling the controversial facial recognition tool Clearview AI after initially denying that it had used the software. A “limited pilot” of the tool by the AFP-led Australian Centre to Counter Child Exploitation (ACCCE) was confirmed by the force in answers to questions on notice ..."
-    publishedDateTime: 2020-04-15T00:26:00Z
-    webUrl: "https://www.itnews.com.au/news/afp-admits-to-trialling-controversial-facial-recognition-tool-clearview-ai-546729"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 52
-    images:
-      - url: "https://i.nextmedia.com.au/News/generic-media-release-shirt.jpg"
-        width: 700
-        height: 370
 
 secured: "R1E9QsbqEESAQGP4WhksNlMmrxzwWGK6rZ2Cf3Lm4tfk5GmvN9spQe/5Pztq7IU1nSxfyZOMu8kV1S/ELHq7p+2NICNYGEK0P40v5Nr2ztBQv9Ckq8VmY3rXJ2ojbn9D27jFVuMFS8fEiCp78KTg1yS90br73UX0vyWV6LAHR+mNKtAeByDMuGGPQolir+Na7V/OxmLVPoFGZCi+hKCfy8vgX8UgjPTPXt6aJsnMHqLfQ9xRZLzPhsJh2gx2r7DaLx4QYN7ev+QOfjaUaAFg3PDC+X/d479ikO4UO5HqH2uCiXLbjBkIxiKYXCIVe1kMzlv9PxetLUSkffY4YBX+JTLLC0P8b1EGvyfjM9JGRY67NgTrvxc7wf7BD/AFAbse0k8J+Ze+TRTsITKPGm1L/3MSmpEU6ABqVx0/l2C6gXJWH4cWNEd9hK+f/XlxyXCV1mduK8r+1PZibbdZjGHvjolSAeFJH9YK9Azz+eU11rU=;Xgv7wXuwbleHEUsv1yv/Dw=="
 ---

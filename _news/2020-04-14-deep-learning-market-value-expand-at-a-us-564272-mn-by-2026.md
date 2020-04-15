@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T12:46:00Z
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "AI in Medical Imaging: World Market Analysis & Forecast 2019-2027 - ResearchAndMarkets.com"
+    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added to ResearchAndMarkets.com's offering. This report provides insightful information about how the AI in medical imaging market is expected to progress during the forecast period 2019-2027."
+    publishedDateTime: 2020-04-15T01:27:00Z
+    webUrl: "https://www.businesswire.com/news/home/20200414006110/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: "https://mms.businesswire.com/media/20200414006110/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
   - title: "$15.9 Bn Automotive AI Market by Offering, Technology, Process, Drive and Region - Global Forecast to 2027 - ResearchAndMarkets.com"
     excerpt: "This research report provides in-depth analysis of the automotive artificial intelligence (AI) market in five major geographies and emphasizes on the current market trends, market size, market share, recent developments, and forecast till 2027. The global automotive artificial intelligence market is expected to grow at a CAGR of 39.8% from 2019 ..."
     publishedDateTime: 2020-04-14T12:55:00Z

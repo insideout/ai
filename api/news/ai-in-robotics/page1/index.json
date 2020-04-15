@@ -196,30 +196,30 @@
       ]
     },
     {
-      "path": "_news/2020-04-12-robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation.md",
-      "title": "Robots welcome to take over, as coronavirus pandemic accelerates automation",
+      "path": "_news/2020-04-11-robots-welcome-to-take-over-as-pandemic-accelerates-automation.md",
+      "title": "Robots welcome to take over, as pandemic accelerates automation",
       "excerpt": "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers.",
-      "heat": 87,
+      "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/",
-      "ampWebUrl": "https://www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/?amp=1",
-      "publishedDateTime": "2020-04-12T14:01:00-07:00",
+      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-11T06:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/04/04102020_Virus-Automation_114500-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "Robots welcome to take over, as coronavirus pandemic accelerates automation",
+          "url": "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": "Robots welcome to take over, as pandemic accelerates automation",
           "attribution": null
         }
       ],

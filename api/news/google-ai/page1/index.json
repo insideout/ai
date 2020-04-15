@@ -1090,19 +1090,27 @@
     {
       "path": "_news/2020-03-24-ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.md",
       "title": "CEVA Announces DSP and Voice Neural Networks Integration with TensorFlow Lite for Microcontrollers",
-      "excerpt": "CEVA's holistic approach to AI at the edge ensures that customers using TensorFlow Lite for Microcontrollers can utilize a unified processor architecture to run both the framework and the associated neural network workloads required to build these ...",
+      "excerpt": "CEVA's holistic approach to AI at the edge ensures that customers using TensorFlow Lite for Microcontrollers can utilize a unified processor architecture to run both the framework and the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.design-reuse.com/news/47727/ceva-dsp-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T05:50:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ceva-announces-dsp-and-voice-neural-networks-integration-with-tensorflow-lite-for-microcontrollers-1029026322",
+      "publishedDateTime": "2020-03-24T04:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1112,6 +1120,7 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI"
       ]

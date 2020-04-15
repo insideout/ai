@@ -8,8 +8,8 @@ ampWebUrl: "https://www.seattletimes.com/business/robots-welcome-to-take-over-as
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/robots-welcome-to-take-over-as-coronavirus-pandemic-accelerates-automation/?amp=1"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Seattle Times
@@ -26,19 +26,21 @@ images:
     title: "Robots welcome to take over, as coronavirus pandemic accelerates automation"
 
 related:
-  - title: "Robots may become heroes in war on coronavirus"
-    excerpt: "The coronavirus pandemic has caused robotics innovation to accelerate, according to Lesley Rohrbaugh, the director of research for the U.S. Consumer Technology Association. \"We are in a time of need for some of this technology, so it seems like benefits outweigh costs,\" Rohrbaugh said. Artificial intelligence, sensors and other capabilities ..."
-    publishedDateTime: 2020-04-12T21:41:00Z
-    webUrl: "https://japantoday.com/category/tech/robots-may-become-heroes-in-war-on-coronavirus"
+  - title: "Robots welcome to take over, as pandemic accelerates automation"
+    excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
+    publishedDateTime: 2020-04-11T13:39:00Z
+    webUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
     type: article
     provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 39
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 59
     images:
-      - url: "https://injapan.scdn7.secure.raxcdn.com/app/uploads/2017/09/20728766_1544633632269161_1607214437966247907_o-700x466.jpg"
-        width: 700
-        height: 466
+      - url: "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
+        width: 1200
+        height: 900
   - title: "Robots welcome to take over, as pandemic accelerates automation"
     excerpt: "Let robots do the job. Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material,"
     publishedDateTime: 2020-04-12T19:07:00Z
@@ -52,15 +54,6 @@ related:
       - url: "https://stmedia.stimg.co/ows_158656810321915.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
         width: 1200
         height: 630
-  - title: "Robots welcome to take over, as pandemic accelerates automation"
-    excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
-    publishedDateTime: 2020-04-11T17:14:00Z
-    webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 19
 
 secured: "Biz9uYNLV6cf+wjTfOqYn26qrTfbRL0QO1s+/8xk+S8i51jnqUKII7fQ6dw3KCvICGY38sPiPXiPO6bC/Mt+F+A7Nnoz3VSF1dhXwDPHq5zHYDZk4PRnWXxBiSctqJnSZqWXeIDbD2Lm3z2bDS8igS1gPw7yaJN2X/ThfULJRmDuKxShn8vwPpKCfwwOw+7oNHH/qAnSnCqU9exeHpBSAd11/gykQJHmVfFz4YqyQzJuwX4WiT35Tcx/xb9EFLroMmZBvoStQRdnhoJXe5ie5/eRsY/YCMwwO8HMBN2Xo90H26yyeikOoOW8lStgTha6k5OfmigcA6lyp1syb0Kp7krdjoAhyapuU6W1Qvqfjb5c/IBc/DTu98DSoT7SHdZj92AchyEK4J+JwKTPh7mXYEXoHLW19MnfDeermSbh/Lw3B0sXH8V9fp842MxhthUMkvWlXAr4WyJJhgedOGlMdyw30evp+afD4aYS3c8lRLQ=;dWEC+r2f20IRU4ucZyccfA=="
 ---
