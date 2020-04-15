@@ -2,6 +2,72 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-12-swiss-re-launches-digital-market-center-supported-by-microsoft-data-analytics-ai-tools.md",
+      "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
+      "excerpt": "As part of the strategic alliance, Swiss Re will transform its internal operating platform by modernizing and moving it to the Azure cloud. This move will increase the efficiency and effectiveness of the core processes by leveraging the most advanced data processing and AI capabilities at scale. “Swiss Re’s alliance with Microsoft will help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.insurancejournal.com/news/international/2020/03/12/560945.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurance Journal",
+        "domain": "insurancejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.insurancejournal.com/app/uploads/2017/03/business-technology-.jpg",
+          "width": 900,
+          "height": 615,
+          "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-recruitment-start-up-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI recruitment start-up Talview wins the \"Best AI Application for Societal Impact\" recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "... partners and has built its Instahiring Experience platform using Microsoft Azure AI, machine learning and cognitive services. For corporate customers, Talview leverages the capabilities of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20200312/3519349.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-create-review-and-deploy-automated-machine-learning-models-with-azure-machine-learning.md",
       "title": "Create, review, and deploy automated machine learning models with Azure Machine Learning",
       "excerpt": "In this article, you learn how to create, explore, and deploy automated machine learning models without a single line of code in Azure Machine Learning's studio interface. Automated machine learning is a process in which the best machine learning algorithm to use for your specific data is selected for you. This process enables you to generate ...",
@@ -1104,98 +1170,6 @@
         "AI",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-struggling-with-fake-ai-heres-how-to-become-a-real-ai-company.md",
-      "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
-      "excerpt": "AI companies appear, increasingly, to combine elements of both software and services with gross margins, scaling ... Companies such as Netflix, Uber, Google, Facebook, Apple, Microsoft, Amazon and a suite of growing companies that have tasted the flavour of data, are further accelerating their growth and increasingly drawing huge margins.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/28/struggling-with-fake-ai-heres-how-to-become-a-real-ai-company/amp/",
-      "publishedDateTime": "2020-02-26T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56d35e7a00980007345051%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1680%26cropY1%3D0%26cropY2%3D945",
-          "width": 1200,
-          "height": 675,
-          "title": "Struggling With Fake AI? Here’s How To Become A Real AI Company",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions.md",
-      "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
-      "excerpt": "For the first time in four years, Google is launching five additional languages for Google Translate, bringing its total number of supported languages to 108. Google says the large interval since it last added new languages is down to how its machine-translation app learns new languages. If there's a shortage of content on the web from a ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-helps-google-translate-offer-these-new-languages-spoken-by-millions/",
-      "publishedDateTime": "2020-02-26T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/1200x675/1317bfa4f1d53dd161472cda0e14a784/20200129-dean-steph.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Google: AI helps Google Translate offer these new languages spoken by millions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -29,6 +29,6 @@ images:
     height: 800
     title: "5 of the Smartest Stocks to Buy With $10,000"
 
-secured: "6I+V4rGAx/PFmDPaTzlbzoPMIn3zhzpriM4FISaX5Cgs9jD2UeW2lRTqQPqYaRhNmsI/8Q82CYqr5/W80G7pEAHk8g+d5OUJh2MpBOfh2Pn0tW6kSXfvkmQG000kU6FX0fRhze0H8pAK5L7BpHi5ex4wKELEN5GRTXL+AHRZzeinKoRfyptNYyoLzKHmuhMC4FkOYrAuY5IiUQGgkBb6aWPH+LclxdhdtpPCn7nhf9p7beAf/8XTk8Yj5kg+lfNAhPMmJ9fiHXzdPWNBDp+rfHNFtb5VmKL+9TDSLKX69kc00HS5V4wUsIViCyLxtqPN;Ar12og+quNG5A7MDqRZe8A=="
+secured: "ozr7ywPjCMRlNxtXluzDYxlkcxpyu4DpX4Z7OHx25HpAoy8F+AhQsDhWHaVcMZkB5kJU5rNleCEknda4WUPXqRu+q/8NZJhd9cyK7+9vk2Vx8rrvb/ZiXpYYouZo7Np81KHyhDPgBE6f5qqmyEnYqQfeP+n6fX5+AEPB6pYubRgoJayzp2HIYZB0Lcs1qr/1Bbxr8k4+pQTpJYZjlGvoj2WynAdlNzwHoCjSF+uns/8zZMUZLHutL0RKdVb6g+Fh1ogNct0jsYgBnp/reEalzDng3X53eXnM0R4UZweLy7Aunm6kaczb6BAYSMp9mSpM;o9UL/9dO4bXNceTKOyKMzg=="
 ---
 

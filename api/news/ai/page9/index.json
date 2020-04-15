@@ -2,6 +2,331 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-04-how-travel-apps-are-using-ai-to-personalize-the-experience.md",
+      "title": "How Travel Apps Are Using AI To Personalize The Experience",
+      "excerpt": "The goal of AI implementation in the travel industry is to improve people’s experience in planning trips and booking accommodation.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/amp/",
+      "publishedDateTime": "2020-04-04T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198489788%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "How Travel Apps Are Using AI To Personalize The Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
+      "title": "The Global Face Recognition Market is expected to...",
+      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
+      "publishedDateTime": "2020-04-03T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-apple-acquires-ai-startup-to-better-understand-natural-language.md",
+      "title": "Apple Acquires AI Startup to Better Understand Natural Language",
+      "excerpt": "Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Read more about the startup here: Synthesizing Realistic Human Speech Just Got a Lot Easier An Apple spokesman said the company “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
+      "publishedDateTime": "2020-04-03T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
+      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
+          "width": 367,
+          "height": 496,
+          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-googles-ai-teaches-robots-how-to-move-by-watching-dogs.md",
+      "title": "Google’s AI teaches robots how to move by watching dogs",
+      "excerpt": "Google researchers developed an AI system that learns from the motions of animals to give robots greater agility, reveals a preprint paper and blog post published this week. The coauthors believe their approach could bolster the development of robots that can complete tasks in the real world, for instance transporting materials between ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/googles-ai-learns-motions-from-dogs-applies-to-real-world-robot/amp/",
+      "publishedDateTime": "2020-04-03T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots how to move by watching dogs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices.md",
+      "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
+      "excerpt": "It’s been widely reported that U.S. hospital systems — particularly in hotspots like New York City, Detroit, Chicago, and New Orleans — are overwhelmed by the influx of patients affected by COVID-19. There’s a nationwide ventilator shortage. Convention centers and public parks have been repurposed as ward overflows. And waiting times at ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ai-weekly-coronavirus-chatbots-use-inconsistent-data-sources-and-privacy-practices/amp/",
+      "publishedDateTime": "2020-04-03T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1165649734-e1585940050791.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: Coronavirus chatbots use inconsistent data sources and privacy practices",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-waymos-halts-self-driving-car-fleet-due-to-coronavirus.md",
+      "title": "Waymo's halts self-driving car fleet due to coronavirus",
+      "excerpt": "Following news Waymo's curtailed its fleet of self-driving car prototypes in California and Arizona, the company has grounded its entire fleet amid the coronavirus outbreak in the",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-operations-suspended-coronavirus/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-operations-suspended-coronavirus/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-operations-suspended-coronavirus/",
+      "publishedDateTime": "2020-04-03T12:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Waymo's halts self-driving car fleet due to coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-reprogramming-the-american-dream-microsoft-cto-returns-to-rural-roots-to-find-the-future-of-ai.md",
+      "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
+      "excerpt": "Kevin Scott is Microsoft’s chief technology officer, its executive vice president of AI and Research, and the author, with Greg Shaw, of the new book, “Reprogramming the American Dream: From Rural America to Silicon Valley, Making AI Serve Us All.” Scott, who joined Microsoft with its acquisition of LinkedIn, goes back to his roots in ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/",
+      "ampWebUrl": "https://www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/amp/",
+      "publishedDateTime": "2020-04-03T12:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/kevinscott-1-630x441.png",
+          "width": 630,
+          "height": 441,
+          "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic.md",
       "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
       "excerpt": "Matt Miesnieks, co-founder of 6D.ai, acquired by Niantic this week, told us they “just got in under the wire.” It could be good for the soul to drive less, prepare one’s own food, and clean one’s own home.",
@@ -936,342 +1261,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic.md",
-      "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-      "excerpt": "Vicarious, an AI software company, is training a growing fleet of industrial robots to carry out manufacturing jobs that only could only be performed by human beings until now. Their fleet is imbued with a \"layer general intelligence\" that allows them to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic",
-      "ampWebUrl": "https://in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/12852/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid-the-coronavirus-pandemic?amp=1",
-      "publishedDateTime": "2020-04-03T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/feature/t/this-ai-st/this-ai-startup-rents-out-robots-that-can-do-human-jobs-amid_wgfw.620.jpg",
-          "width": 620,
-          "height": 348,
-          "title": "This AI Startup Rents Out Robots That Can Do Human Jobs Amid The Coronavirus Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-explore-computer-vision-in-microsoft-azure.md",
-      "title": "Explore computer vision in Microsoft Azure",
-      "excerpt": "There are multiple specific types of computer vision problem that AI engineers and data scientists can solve using a mix of custom machine learning models and platform-as-a-service (PaaS) solutions - including many cognitive services in Microsoft Azure. The Computer Vision service enables software engineers to create intelligent solutions that ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/explore-computer-vision-microsoft-azure/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T22:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-trophy-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Explore computer vision in Microsoft Azure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
-      "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-      "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "publishedDateTime": "2020-04-02T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e86c30074e9210006895af5%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-in-coronavirus-fight-oft-criticised-facebook-data-aids-us-cities-states.md",
-      "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
-      "excerpt": "Facebook and the researchers leading the project say they have overcome those ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "ampWebUrl": "https://amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/science-research/article/3078220/coronavirus-fight-oft-criticised-facebook-data-aids-us-cities",
-      "publishedDateTime": "2020-04-02T18:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/03/6e6a9e96-754a-11ea-ab8f-988daf8efd6f_image_hires_093454.JPG?itok=sfzYo3cq&v=1585877702",
-          "width": 1200,
-          "height": 630,
-          "title": "In coronavirus fight, oft-criticised Facebook data aids US cities, states",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
-      "title": "Amazon stands for nothing. That almost makes it beautiful",
-      "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://qz.com/co/1364409/amazon-stands-for-nothing-that-almost-makes-it-beautiful/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qz-news.imgix.net/1364409/thumbnail?auto=compress",
-          "width": 1400,
-          "height": 786,
-          "title": "Amazon stands for nothing. That almost makes it beautiful",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-top-artificial-intelligence-funding-and-investments-in-march-2020.md",
-      "title": "Top Artificial Intelligence Funding and Investments in March 2020",
-      "excerpt": "What Artificial Intelligence has in its baggage is known to everyone and ... Therefore, we have brought you some of the most recent and significant AI funding and investments of 2020. Waymo, Alphabet’s self-driving car unit, just raised billions of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-funding-and-investments-in-march-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/04/software_robots-top-526940848.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Top Artificial Intelligence Funding and Investments in March 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
-      "title": "Your Face Is Going Places You May Not Like",
-      "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hackaday.com/2019/01/02/your-face-is-going-places-you-may-not-like/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/01/Facial.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": "Your Face Is Going Places You May Not Like",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-using-ai-responsibly-to-fight-the-coronavirus-pandemic.md",
-      "title": "Using AI responsibly to fight the coronavirus pandemic",
-      "excerpt": "Mark Minevich is president of Going Global Ventures, an advisor at Boston Consulting Group, a digital fellow at IPsoft and a leading global AI expert and digital cognitive strategist and venture capitalist. Irakli Beridze is head of the Centre for AI and Robotics at the United Nations Interregional Crime and Justice Research Institute (UNICRI).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/amp/",
-      "publishedDateTime": "2020-04-02T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1203224882.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Using AI responsibly to fight the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

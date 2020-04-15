@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Robots welcome to take over, as pandemic accelerates automation"
-excerpt: "Let robots do the job. Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material,"
-publishedDateTime: 2020-04-12T19:07:00Z
-webUrl: "https://www.startribune.com/robots-welcome-to-take-over-as-pandemic-accelerates-automation/569557772/"
+excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift ... also mean that when companies start hiring again, they do so in ..."
+publishedDateTime: 2020-04-12T12:13:00Z
+webUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
+ampWebUrl: "https://www.orlandosentinel.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: StarTribune
-  domain: startribune.com
+  name: Orlando Sentinel
+  domain: orlandosentinel.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://stmedia.stimg.co/ows_158656810321915.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+  - url: "https://www.orlandosentinel.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
     width: 1200
-    height: 630
+    height: 900
     title: "Robots welcome to take over, as pandemic accelerates automation"
 
 related:
@@ -55,6 +57,6 @@ related:
         width: 300
         height: 225
 
-secured: "xayNaQkXt8b79wLpDfTZYLhit2QffWR/6riAJqL8krlUmNq/vsbdMj1NCNcXUN6fHewLrpy/4rjkou5jWBrFrhaIdKcgGtdQxWuVFFambD6GHjWt0p9Y4sfI8aVN19c3YciDnU0P21x11lqrLjhWlBKHBu3szpTpEiHbDSOqnXn4k6V5c/jWp42WTr8LJeYZnzOsuZkgebKzHHuw8A0Q7OmIr+Kaczt9tLeOAd9eir7yIpPDBW9xCxcYAXTSxf+WTz0MHNr7RmnktW3KuEhNZCxB0e94h2x89i536IdGoXEY+PTM8FVWYFhGroGoOl9biKOoi5Idxlh9TWrwAB4Mh76i0O8Bbnxa9lt9wnaIeVCPfBgaatLyYKQY2wSMyV6ELJvEAKmsVNPyj0XbN5bf4dm9vjaDWskmMItMJKoTbeRk2UJWKxLIJVI6WFaHofFrWNSwz2oOhyRujTXcLfViCIdgGsZYzzEZp3Znwl7YZ/k=;HmzRGsc1GqktyBrc73x9rw=="
+secured: "vh/MiObhK7GrpCxMI0gDuO8zsnrx0IWor1ZsUpKhdlDUGx59N8dP1rMpS2y5Q3r2pvvVWvuEFiuUcJK4yTymi+y7bbF7g3d/vZQCWrYojVW0gRT5XwOB36S0lXvhUyaOlzBD+BFVCWV05HR07Ao20DIew5EYKZB5a8yvkYyWACb29/UafElST4bOi74n9is96IM+XjfotSarp26m53Z7iX/KMQmxllDqTTXTaa9rrXqYZWKERxDkYoGbk/yI7kEgi5M7Ii1ssS4tq255o0lKmeaKKfTDtjwtYjwSm+5jiYOfU3pbCcAqyijPlsv9QYBs;RFn246c4TspFNJ9SaEXmXQ=="
 ---
 

@@ -2,8 +2,8 @@
 category: news
 title: "Artificial Intelligence to Detect Papilledema from Ocular Fundus Photographs"
 excerpt: "Nonophthalmologist physicians do not confidently perform direct ophthalmoscopy. The use of artificial intelligence to detect papilledema and other optic-disk abnormalities from fundus photographs has not been well studied. We trained, validated, and externally tested a deep-learning system to classify optic disks as being normal or having ..."
-publishedDateTime: 2020-04-14T16:03:00Z
-webUrl: "https://www.nejm.org/doi/full/10.1056/NEJMoa1917130"
+publishedDateTime: 2020-04-14T16:04:00Z
+webUrl: "https://www.nejm.org/doi/pdf/10.1056/NEJMoa1917130?listPDF=true"
 type: article
 quality: 14
 heat: 14
@@ -16,6 +16,6 @@ provider:
 topics:
   - AI
 
-secured: "eithQu6lQ3tVkJesifJ7urOnDBB7itNF+r2YJrHQPcQeEVu65mwPRfUruCb5fZa2vOPN0+gQLGn7nwPD4snKHXpnemvffxWmKKqITe3DNWC3Glf9Wt67CIYFgTI3+l/vebHpL4rcORv5yfNI1coYtXbtdONcZZiZqNmq3mtqAViW78CqJ3QmLkYntL9grSusjpQW6PokVCy5QiX6+9QY6sJz7JhPYEqBtNbeZRsebZEQP/ArbSmaybv3sL2yO0xWHMyPE60spdRjFXN6wkAK6UiYu1QDm0+Bl7uZ5PCg983rLwXfh0mXAmIBvdeRaoloAU9cWPvG6m/gNXe0N3nfIB6H1QiossDWrvgPPuDlGoO7zUBARZTrXRSCLJKL9B+p9lMYgzE17LL9ipthbXZFYGS+htpMwS3rO7Rv2rBZcjwkuyzpVhn7PizHtZKWt2Kxs2DUYEFLOteErOH0jyTbjlLwHpueQT42AXODGKQ0Xck=;y4R1Ano16Jp4xNqnkhVxNA=="
+secured: "iU+FB6BSzRGQ6qQrPmatQErIWUdfXSOuFHUzZjsjOxQxpqGC9LEfZgkFubeKdCg/8pZZajeC/dvbNMfyYTu5OmlbTu7XLbUgARTVrdeomNMc+KTX//racv7e18ztRYb+zGUyPTG+ThDrdPXf+iY14dUXi61JX7BZSkylWYQV6JTBdY5HW6WntSXOuNal9p/OumULhQwRi4R9j8P9pxn4fKyqr4oWUn78Cf4dBX+NxVWOIwJiyjX6u49YhPY8lGl5YDvCV1gEKHXaJhkPp+7x1YgWaxFmDd8cow1whomqlo7PlBZ1EQ+QU6k4F79vt0vv69mw5oz+kxl4lKWcld5LeswbeZhHBQbjLH32RCIfvQyQGicTqvdVm8Icda5zG7tfiDHziwFYVct3dgYPO03LzFAeU0ui4EIQv8NYTN0RyV41IQcdQqisSCKOfb7cUPspZXxzZhYDQj16pVppvBID/g2mQLAM/apT5g0xgq34R6k=;sBiOb0ce9MtciKU7QH8sDQ=="
 ---
 

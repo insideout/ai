@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution"
-excerpt: "Abaco Systems today announced that, via a partnership with DeepSig, the company is now able to demonstrate DeepSig's ground-breaking OmniSIG(TM) software that uses"
-publishedDateTime: 2020-04-14T21:22:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution/article_7eb40012-c2c8-5171-a391-a72f0c20bc92.html"
+excerpt: "Abaco Systems today announced that, via a partnership with DeepSig, the company is now able to demonstrate DeepSig's ground-breaking"
+publishedDateTime: 2020-04-14T15:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-301026444.html"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "7QZ8f6r+c8plxYDRNrnfLune5j/ZL2t7KJL8KXdsMYDAg8pUUC/KwsQmGETokwNVd0Ku8BMbncHmqN1hnnxI/uKgC5RHDDdgx4Ea5ApCcEBFGr5K7hwT4BRhX8SXL5ySAjTMyls2qBnuSHDYkoiWE2HOWHTGfFAZmTflWWx4XAApYYcsrOcBN0hC+6lx5lAvJgELVfwtIekQhwIVle5BqiTyhla1iHwYesiQ6kV95ft24syB1T0G9zevWCDJfffICWNQuXUpqRh2SllZoEFb0of62m+0vgY6SXEAGmO+gTwiIoVhbyfUCZS/xqVdgFqa24dPsZu3NGvfVPzoB8l5Ke678VZKNnw4BvsTCfbkSpUWVwDtxoMlFHJ54fhQF1lcdsQDpr0rYz9N7jMz6e1nqQFTO792wohNJYx5DHAAd7j8OZe9NxS7FTHuieA39SfuB58W909dd79rjyrmkIPZXq/bTlCK12bgBmKaQNFYMPk=;emeozU12GhQk547JAh2qJw=="
+images:
+  - url: "https://mma.prnewswire.com/media/438854/Abaco_Systems_Logo.jpg?p=facebook"
+    width: 1920
+    height: 1005
+    title: "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution"
+
+secured: "3G1aAQd5r6qy6jSoEYjd1eugnJaH4br6FUeJVgats+VGWNcY8rrfoBwIZ0DuC3GP7XQBqX7lcnsocW1zx73cO5pTlg/sS0H1ELAlnJ91eGgdWgxlaPbjfaTPhq5oRXc47LA3bQi82gA9Wd45Ja3XEsOZVYHkbh5zJkW00WKRAUCJcJ3Gi+FPc400qr2V5OyqY/rAek0jpG2RcnIV8lPYLsHycxCAL22afxKvODWwaAYYE7gCXW7cWhF/EIN5eNqPkhIOvg0F9O2L/2g5y3Hu9qRc6ZE+tU/0JUZtBiHRW94Np1Ur1R3HtPPcL1gOap6C;Ho48GTtq7qIe+5bavLUgeg=="
 ---
 

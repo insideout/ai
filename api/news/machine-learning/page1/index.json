@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-15-walking-robot-uses-neural-net-to-change-gaits.md",
+      "title": "Walking robot uses neural net to change gaits",
+      "excerpt": "Insects rapidly transition between different walking gaits, in response to external stimuli. Scientists have now created a small robot that can do the same thing, utilizing an integrated artificial neural network – the technology might ultimately find use in better-performing prostheses. Known as the NeuroPod, the 3D-printed six-legged robot ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/",
+      "ampWebUrl": "https://newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/neuropod-robot-neural-network-gait/?amp=true",
+      "publishedDateTime": "2020-04-15T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/2f930f2/2147483647/strip/true/crop/1200x800+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F19%2F4d%2F886754664b47b83cf6b1800fc049%2Fneuropod-1586897755-1.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Walking robot uses neural net to change gaits",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
       "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
       "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
@@ -1206,43 +1251,6 @@
           "width": 300,
           "height": 300,
           "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-datarobot-intersystems-sign-integration-and-reseller-agreement.md",
-      "title": "DataRobot, InterSystems sign integration and reseller agreement",
-      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems’ IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in an intuitive, scalable manner. While InterSystems’ technology simplifies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "ampWebUrl": "https://amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "publishedDateTime": "2020-04-03T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/brain-test-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "DataRobot, InterSystems sign integration and reseller agreement",
           "attribution": null
         }
       ],

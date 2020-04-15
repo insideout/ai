@@ -48,6 +48,80 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-deepmind-cambridge-ml-professor-asks-ai-winter-or-the-wonder-years.md",
+      "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
+      "excerpt": "And will the promise of AI be delivered without heavy recruitment in more ML specialists? The issues will be addressed by former Amazon ace and the first DeepMind Machine Learning Professor at Cambridge University, Neil Lawrence, in a Cambridge Network virtual lecture on April 21. The Network's first online business lecture – introduced to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessweekly.co.uk/news/hi-tech/deepmind-cambridge-ml-professor-asks-‘ai-winter’-or-wonder-years",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Weekly",
+        "domain": "businessweekly.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/neil-lawrence_0.jpg?itok=ys7IWhhc",
+          "width": 605,
+          "height": 400,
+          "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-todays-cache-duo-uses-ai-to-improve-calls-and-more.md",
+      "title": "Today’s cache | Duo uses AI to improve calls, and more",
+      "excerpt": "Google Duo is using AI technology from DeepMind to enhance call quality to fill gaps in transmission losses. In the US, Tesla’s engineers are using car parts to build ventilators for COVID-19 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
+      "publishedDateTime": "2020-04-06T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/6msqdv/article31273476.ece/ALTERNATES/LANDSCAPE_615/06THCACHEGOOGLEAI",
+          "width": 615,
+          "height": 384,
+          "title": "Today’s cache | Duo uses AI to improve calls, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-deepminds-ai-models-transition-of-glass-from-a-liquid-to-a-solid.md",
       "title": "DeepMind’s AI models transition of glass from a liquid to a solid",
       "excerpt": "In a paper published in the journal Nature Physics, DeepMind researchers describe an AI system that can predict the movement of glass molecules as they transition between liquid and solid states. The techniques and trained models, which have been made available in open source, could be used to predict other qualities of interest in glass ...",
@@ -221,6 +295,35 @@
         "Google AI",
         "AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-deepminds-agent57-can-beat-average-humans-at-57-atari-games.md",
+      "title": "DeepMind’s ‘Agent57’ Can Beat Average Humans At 57 Atari Games",
+      "excerpt": "In a recent paper published by Google subsidiary, DeepMind has stated that the company has developed a new artificial intelligence — Agent57 designed to play and beat an average human at 57 classic Atari games, in the Arcade Learning environment. The system has been developed by combining deep reinforcement learning with an ML technique in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/deepminds-agent57-can-beat-average-humans-at-57-atari-games/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     },
     {
@@ -1150,109 +1253,6 @@
       ],
       "topics": [
         "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
-      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
-      "excerpt": "This iPython notebook explains T2T and runs in your browser using a free VM from Google, no installation needed. Alternatively, here is a one-command version that installs T2T, downloads MNIST, trains a model and evaluates it: pip install tensor2tensor ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/tensorflow/tensor2tensor",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://avatars2.githubusercontent.com/u/15658638?s=400&v=4",
-          "width": 400,
-          "height": 400,
-          "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
-      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
-      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reverb.com",
-        "domain": "reverb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-javascript-face-detection-with-face-apijs.md",
-      "title": "JavaScript Face Detection with face-api.js",
-      "excerpt": "The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. As explained by face-api.js creator Vincent Mühler, face recognition with deep learning is a detailed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/face-api-js/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/face-api-js/en/headerimage/faceapi-1584401193144.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "JavaScript Face Detection with face-api.js",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "Google AI",
         "AI"
       ]

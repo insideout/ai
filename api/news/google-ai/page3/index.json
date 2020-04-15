@@ -2,6 +2,142 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-05-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games.md",
+      "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+      "excerpt": "In a preprint paper, DeepMind described a new reinforcement learning technique that models human behavior in a potentially new and powerful way. It could lead to much more capable AI decision ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/05/new-deepmind-technique-encourages-ai-players-to-cooperate-in-zero-sum-games/amp/",
+      "publishedDateTime": "2020-03-05T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "DeepMind technique encourages AI players to cooperate in zero-sum games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing.md",
+      "title": "Is Gmail Biased or Are Some Presidential Campaigns Just Better at Marketing?",
+      "excerpt": "Since 2015, Google has claimed that 99.9 percent of spam is blocked, and last year the company integrated its in-house machine learning framework, TensorFlow, to help filter 100 million additional spam emails every day. The company has also added new filters which automatically sort emails into \"primary,\" \"promotions,\" \"social,\" \"forums,\" and ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7j487/is-gmail-biased-or-are-some-presidential-campaigns-just-better-at-marketing",
+      "publishedDateTime": "2020-02-27T07:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e56e74ebe0f7a009c5ac478/lede/1582753897422-GettyImages-914593224.jpeg?crop=1xw%3A0.846xh%3B0xw%2C0.1377xh&resize=2000%3A*",
+          "width": 2000,
+          "height": 1123,
+          "title": "Is Gmail Biased or Are Some Presidential Campaigns Just Better at Marketing?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships.md",
+      "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
+      "excerpt": "Inspired by this, a team of researchers hailing from the MIT-IBM Watson AI Lab, MIT’s Computer Science and Artificial Intelligence Laboratory, Alphabet’s DeepMind, and Harvard University sought to simplify the problem of visual recognition by introducing a benchmark — CoLlision Events for Video REpresentation and Reasoning (CLEVRER ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships/amp/",
+      "publishedDateTime": "2020-02-26T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/GettyImages-1073802514-e1582219406331.jpg?fit=1200%2C608&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
       "title": "Classifying images using TensorFlow and faced challenges — a case study",
       "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
@@ -1209,143 +1345,6 @@
       ],
       "topics": [
         "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis.md",
-      "title": "Dynatrace Tunes ‘Davis’ AI Brain For Business-Savvy KPI Analysis",
-      "excerpt": "The smarter business operation with cloud, data observability, software intelligence and AI is a real thing, but we humans are going to have to go back to the drawing board and learn a few new tricks too.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/06/dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/06/dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/06/dynatrace-tunes-davis-ai-brain-for-business-savvy-kpi-analysis/amp/",
-      "publishedDateTime": "2020-02-06T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e399bb98b6cf300071dd7b4%2F0x0.jpg",
-          "width": 640,
-          "height": 362,
-          "title": "Dynatrace Tunes ‘Davis’ AI Brain For Business-Savvy KPI Analysis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandmaster-level.md",
-      "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
-      "excerpt": "Image: DeepMind Computer scientists at DeepMind have developed an artificially intelligent bot capable of defeating the world’s best players at StarCraft II, the popular real-time strategy video ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798",
-      "ampWebUrl": "https://gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ai-bot-is-the-first-to-play-starcraft-ii-at-the-grandma-1839471798/amp",
-      "publishedDateTime": "2020-02-03T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--lXLgmwrS--/c_scale,f_auto,fl_progressive,q_80,w_800/m02voe7tkleeh51jbcx2.png",
-          "width": 800,
-          "height": 450,
-          "title": "AI Bot Is the First to Play StarCraft II at the Grandmaster Level",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute.md",
-      "title": "DeepMind’s MEMO AI solves novel reasoning tasks with less compute",
-      "excerpt": "Can AI capture the essence of reasoning — that is, the appreciation of distant relationships among elements distributed across multiple facts or memories? Alphabet subsidiary DeepMind sought to find out in a study published on the preprint server Arxiv.org, which proposes an architecture — MEMO — with the capacity to reason over long ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/deepminds-memo-ai-solves-novel-reasoning-tasks-with-less-compute/amp/",
-      "publishedDateTime": "2020-01-30T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "DeepMind’s MEMO AI solves novel reasoning tasks with less compute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
         "Google AI"
       ]
     }

@@ -5,8 +5,8 @@ excerpt: "Multi-agent systems are regarded as vital to the increasingly complex 
 publishedDateTime: 2020-04-15T14:06:00Z
 webUrl: "https://www.eurekalert.org/pub_releases/2020-04/afcm-skn041420.php"
 type: article
-quality: 33
-heat: 33
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.eurekalert.org/multimedia/pub/web/229236_web.jpg"
@@ -23,6 +24,6 @@ images:
     height: 2160
     title: "Sarit Kraus named ACM Athena Lecturer for contributions to artificial intelligence"
 
-secured: "LePKgjI4igDs9jagH90qtIOGE+rCUWj3UU/NandJrDyc6d06gJwQSLFmRB7irsQ4FaKwe+9sfB3yNk98rVYsMHJA4teOoOjOFvfUCt4mygm/EzH/Kl127Ox/eQrmgDCg4R6MMZZGzqk3iLXB8wTozse0DH/8PiLaiH+ApjEzWny+VT0sQJOxHcDUk0MqmTqIejwX4PEYNgoXh5dJJAAyM9pWIpw7c1IdBTfVmEX0+ajLODqMTDxKHV/aGHtKifM9YKIUyFCnKkWMwW3xaB104Q1mmS79f2NmTdo9TDaHuadffTfSXtNENHFXT3zQy/GA;po1/5NlBbZuNNFxRxKXhsA=="
+secured: "gDm/HKJp7HCtr4J9SRxX0CB8TOIyREtTgmEsdQUqJgSpgxTskxS664sctparU7W0xXkkQfXxkVye5jqxp+ugnnTUGpHP5KraMETRd0jQ7Yr31pGlsJeQhehpfYnh4o8j8HmNaTs7C6eoaALWNAv78H5t8LXQKg7OR5RZxyln1d1q3kECDJgjvGNee2taKsQMay84DNewT2PFyg4Wmb305p3fijtuSvgcqta0V2K8KN4c+vi9goGxPzETyGQOAf8d3CNB/d9PikF39QELEgyHft9liSDjrMmqCM5jd4vG35TE+/LfEEZjrVcpOp264FutwqYZv41XzOOerZOzUqf7Bu1cYnnF5YQLf/Xs3IEzY5EvSIDwwlxfA/yqNpViAuUbNtRAT+NhVK99JxUPn/pcEc8wzx/hJE7U/gdnR7lxjIJxUBprT3awfkO8YEVMsqsRqzEzx93Zc6SmirzI42zNRwrNH00O0/lZgAsiXwrGGa8=;8KACwgRN6HhCpAnIzlz5aQ=="
 ---
 
