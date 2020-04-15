@@ -1,28 +1,28 @@
 ---
 category: news
 title: "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence"
-excerpt: "LucidHealth, a physician-owned and led radiology company, announced today that it is using FDA-approved ClearRead™ CT by Riverain Technologies, an artificial intelligence (AI) imaging software solution for the early detection of lung disease."
-publishedDateTime: 2020-04-14T17:58:00Z
-webUrl: "https://apnews.com/Business Wire/95b1f040075840809ed653e18925e54b"
+excerpt: "“LucidHealth is committed to advancing the quality of community radiology patient care by combining leading radiologist expertise with cutting edge Artificial Intelligence. Riverain’s ClearRead in ... designs advanced AI imaging software used by leading international healthcare organizations. Riverain ClearRead solutions significantly ..."
+publishedDateTime: 2020-04-14T17:24:00Z
+webUrl: "https://www.businesswire.com/news/home/20200414005825/en/LucidHealth™-Riverain™-Technologies-Committed-Delivery-Advanced-Radiology"
 type: article
 quality: 28
 heat: 28
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200414005825/en/785010/23/Riverain_Technologies_Logo.jpg"
+    width: 1200
+    height: 627
     title: "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence"
 
-secured: "f23/A7EHeN59KFPaMEU2QVqDnA+oP0Pfn2SNT2VVQ8bX1HnSqqfGpHLZey4qdIx766PyJ9MrRlD03oZPxg7X3xVAY6OF2jGKIokC6aJvpVgfldq0sjNoVGcqtp3XlZy98CICcl2HI/i5gtV1meQxM6c39NjSpL+YYhdtIviKVYEamzAcicx/HhqTk9bh2z3RgA/GID4v6UIaFHb8UzjJIkhL2NNfY2Ne+nbWldz3E780uqlhv44kwiVJdjiRLaGv6KvcXq2/MhpDCFGqCeca5BNDuKH6p23QMAPNgAscwX+sXnmZTiyHicUXPzVNvM2e;tHmUWQUz8yKxfhnR4GJCWA=="
+secured: "VM80uk/M/6phgupnpGGQj14LAB4/JLVwam1MFa+Q05WtqrSRJXoUNAgcT/LxfMinWDhe0CZ1x2u0wTUKIWOHXnnVKKbJvIdmt7z8VqpOSSrS4pTuO0+sSi4rIcoe1Zt6E/dCvkz4sT/c0OUAJvSyFVU7AN2LMXch8eiPnMU5TvmDqu4Yz18TwclkWZYQf+vFewStaTaG3jG+kPxU159FsU/uFs+4J1I+RQ37t5JOeEINyjIOEANVnN5/l0C6lsKsdzPvkOeDuDHC/4GhlCE0Mip+ZLu54jEcwVXJWU550NN2o4v3Uo14vjfgoPi2yjfR;KlOFOLf7rbaZ61+9aPCp/Q=="
 ---
 

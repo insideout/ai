@@ -5,7 +5,7 @@ excerpt: "NEW YORK, April 15, 2020 /PRNewswire/ --KEY FINDINGS The global artifi
 publishedDateTime: 2020-04-15T13:10:00Z
 webUrl: "https://www.marketwatch.com/press-release/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028-2020-04-15"
 type: article
-quality: 28
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "COVID-19 Pandemic Impact: Global R&D Spend For AI in Healthcare and Pharmaceuticals Will Increase US$1.5 Billion By 2025"
-excerpt: "ABI Research whitepaper identifies the short-and long-term impacts the global pandemic will have on Artificial Intelligence and Machine"
-publishedDateTime: 2020-04-15T18:04:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/covid-19-pandemic-impact-global-r-d-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us-1-5-billion-by-2025-1029095691"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/covid-19-pandemic-impact-global-r-d-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us-1-5-billion-by-2025-1029095691"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-pandemic-impact-global-r-d-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us-1-5-billion-by-2025-1029095691"
+excerpt: "The Coronavirus outbreak has proven that healthcare institutions can no longer ignore the role of Artificial Intelligence (AI) in their daily workflow. AI spending in the healthcare and pharmaceutical industries is expected to increase from US$463 million in 2019 to more than US$2 billion over the next 5 years, states global tech market ..."
+publishedDateTime: 2020-04-15T14:53:00Z
+webUrl: "https://www.abiresearch.com/press/covid-19-pandemic-impact-global-rd-spend-ai-healthcare-and-pharmaceuticals-will-increase-us15-billion-2025/"
 type: article
-quality: 59
-heat: 59
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABI Research
+  domain: abiresearch.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "QWs7LdBEx3xTtN6OtNzjt8YLs7szuwFpjtCSATR1eCkvCZfvFspWXH7TJXc+WBrDBe+LmESOzwMlhyRsd/a+/mpDkWFL2GA/dorgllXLALoiIUr/cvhZ/+7O1h0NqTRvRVvSDwuJA4QDoJ9Gw/XOZIGqSaRa6aCPKvJ2yOtzvkDWLInYaBjMZSOuM4AdG9Yu9yZU4cV1FyKEOltW9quLFjKpfUTS5MVmhSqTFvaCWVrIZ23pMz0I2jdcHBKOde/R/Ee98zxqzIDeUkZdaGJYmupaV3/exB36Lw5VMZKtb9DNgCxJGgFI5ocehZrMZdls;Dt11f7x/xCbBGaNBb5tvkw=="
+secured: "UywpJtOFmuRJNrjQOVXrFPTH260kSEWVQbnyC/UKtNF6rsZEeqhHqoicjc/9hUJ7V/OYA+KQKgo6dC7+nIh1xIG6qbBSRjsQAdU5pVmzhV9pGOXtScrSCmHL23Pc/t5npcAZj8mfpWmbs4CLMaWVgNhZYCjOf5atFJeOe8ttqY8fh5AQdX6z9wCrykqAFHWqb6aeR0Qn+2W9212OMHmlJXfL/n9SNoDWd/XGsvjfjkl0uMvBAnxyzZ/bPYzOXh8UmxIQryOFm4VH2tJ2aJe60MfqtiK2ajrMP34hE5fjxBsaJ+UqSMmpBMDNv9ZJEZrx;U0vOyZ2WaIi3pw7wAJ6KTw=="
 ---
 

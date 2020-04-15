@@ -2,6 +2,153 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-19-fairy-tail-rpgs-story-trailer-reveals-gildarts.md",
+      "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
+      "excerpt": "The official PlayStation YouTube channel began streaming a story trailer for KOEI Tecmo Games and Gust's Fairy Tail role-playing game on Thursday. The video reveals the new playable character Gildarts. KOEI Tecmo America and Gust also revealed details fo the game's new Eclipse arc. The arc centers on the “Project Eclipse” experiment \"that ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Anime News Network",
+        "domain": "animenewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-ai-models-could-struggle-to-handle-the-market-downturn.md",
+      "title": "AI models could struggle to handle the market downturn",
+      "excerpt": "However, these models introduce significant fair lending risk, reputational risk and credit risk. Many newly established fintech and nonbanks entering the credit market late in the cycle favor the use of AI and ML underwriting methods that focus on thin file and near-prime borrowers. Additionally, established banks face pressure to grow.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.americanbanker.com/opinion/ai-models-could-struggle-to-handle-the-market-downturn",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/c11ac70/2147483647/strip/true/crop/4368x2293+0+309/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F67%2Fa7%2F4ae3a940490ba684093d832a2c74%2Fhousing-market-10635702-adobe.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "AI models could struggle to handle the market downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-playstation-5-vs-xbox-series-x-which-is-better.md",
+      "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
+      "excerpt": "Microsoft has talked up some AI capabilities of the Xbox Series X based on its ability to handle 4-bit and 8-bit integers. It’s not clear if Sony’s RDNA2 GPU has a similar ability. Sony’s claims about the PS5’s more nimble GPU are interesting, but they need to be demonstrated in head-to-head comparisons. Sony has the not-inconsiderable ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.extremetech.com/gaming/307903-playstation-5-vs-xbox-series-x-which-is-better",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ExtremeTech",
+        "domain": "extremetech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.extremetech.com/wp-content/uploads/2020/03/Xbox-Die-Feature.jpg",
+          "width": 1179,
+          "height": 651,
+          "title": "PlayStation 5 vs. Xbox Series X: Which Is Better?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-iot-and-machine-learning-technology.md",
+      "title": "IoT and Machine Learning Technology",
+      "excerpt": "And if the MCA Connect team were to wager on the next massive breakthrough in computing, they would be putting favorable odds on the development of artificial intelligence and machine learning technologies. Machine Learning Drives the Future of Artificial Intelligence Modern machines harness Artificial Intelligence (AI) to perform functions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tmcnet.com/topics/articles/2020/03/19/444843-iot-machine-learning-technology.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2020-mar/9766423712-earth-hands-1222866_960_720.jpg",
+          "width": 960,
+          "height": 679,
+          "title": "IoT and Machine Learning Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-ai-a-guide-for-thinking-humans.md",
       "title": "AI: A Guide For Thinking Humans",
       "excerpt": "Tonya Hall sits down with Dr. Melanie Mitchell, Davis professor at the Santa Fe Institute, to discuss Mitchell's book about whether smart machines can actually think or understand, and what might make AI more reliable and trustworthy.",
@@ -788,170 +935,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
-      "title": "Explaining machine learning models to the business",
-      "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
-      "publishedDateTime": "2020-03-19T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-523692007-100648034-large3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Explaining machine learning models to the business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-artificial-intelligence-will-impact-your-business-in-2020.md",
-      "title": "How Artificial Intelligence Will Impact Your Business in 2020",
-      "excerpt": "Robotics Process Optimizations may be an unfamiliar term to some ... transcending issues that threaten to hold them back and overcoming difficulties in today’s complex business landscape. Artificial intelligence is becoming more widely used every day, and that will only increase moving forward. IDC predicts that by 2025, 75 percent of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://independentretailer.com/2020/03/19/how-artificial-intelligence-will-impact-your-business-in-2020/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent Retailer",
-        "domain": "independentretailer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://independentretailer.com/wp-content/uploads/2020/03/artificial-intelligence-300x188.png",
-          "width": 2154,
-          "height": 1350,
-          "title": "How Artificial Intelligence Will Impact Your Business in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast.md",
-      "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
-      "excerpt": "Artificial Intelligence in Retail Market Global Artificial Intelligence in Retail Market, Application",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast-2020-03-19",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-artificial-intelligence-review-of-physician-notes-discerns-types-of-lower-back-pain.md",
-      "title": "Artificial intelligence review of physician notes discerns types of lower back pain",
-      "excerpt": "Researchers from the Icahn School of Medicine at Mount Sinai developed an artificial intelligence model that can scan physicians’ notes and distinguish between acute and chronic lower back pain, according to findings published in the Journal of Medical Internet Research. “Several studies have documented increases in medication prescriptions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.healio.com/rheumatology/spondyloarthropathies/news/online/{3bb9d677-4518-4e92-9f6b-a50515118222}/artificial-intelligence-review-of-physician-notes-discerns-types-of-lower-back-pain",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/slack-news/stock-images/rheumatology/b/bigdata_doctor.jpg",
-          "width": 407,
-          "height": 269,
-          "title": "Artificial intelligence review of physician notes discerns types of lower back pain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,21 +2,25 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:24:00Z
-webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:47:00Z
+webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 67
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "JeZZ6XkHz4/yOAm+Mnb3SwdTqVEe6Ni9YlsBz8YKvXs6TSzr9fgKacQCBfL27gAPTwchicGFQxwXEn8mttjd4ES6Kjz+2aH6LAflOiBdDltnFXzp1fdn95m/1ZneXeo5wJogSrkUwYVmac0VkonPxENi2H7IwYkTyFnXn7y5BgyMI8LRFx0ORsLfOCT885Gf2e8Wrib/3Z4GnzbT2TPdfalPMzYv2ga18vfH3wsjesJwzrfxKWuL4R4galJcA3ADHPCrf5C8CM84/LHp+MA/IcVV30Oezs3jAm1FO8/a+t5OyPWZUrjpz1LujVJYD5I+xsP6MfSSVlJCZeHRYYwJrfeS6oLosLp08FYgQmbKcyi31dikdsMaiMrNuWwNq2UzOuQF2K4T34kk5FDADDPhBhqAPGYWw34XISe6rFw7/llcGGzaByV/nPGzE9h0sNvGkz4+CcU1bxH0WdvkJJsA359pf3eiVeSmvIWGsQJo8/w=;A13oiAHW2n+KpnkwcikAuw=="
+secured: "RyWbbxOghMdPtKWK6OWaL6JY8ijPItpgUBXInhfAA8nW5NqdeXv5ZGtcye47Z+F1SZWm4FtMFmrmplLV1lWcfJSAfzhrKnYHjOLYeRP7EzeJ52A7gh5au9IjC4tjAZF83kEBqxGOd2tJg7yPibSc+LYttcMOTBYBRKtMkfwfxAK8qnSMe5+DL2TiXVJnKg3KrpKqE7UBqZ8q206d3+US/FDmFLTMFy3r0HEvYPtqEo8NFPQ4mWxR4NuF48dYCyxRPwMtdtGhJt44240XKUTWR9Q6DIRBYuoZ7GC012j87CC0W60yzHjnNULLfOpY3VcRJa17csQ9uavwN+sHAAgnSqbzx75aH9wI6oHiXrE+wUo0E65IVhXv2ISIaVbvNqv6V3Rfta0AtbVl0Cu2V7ownTuaZezkkvfsk0sFU5wvdhdDxqzJqHUDcOQSQI8KVbg8E6WH3LYeUx9hgEaq564P0vNEtcTaWcIiLja8ZTT0AF0=;TkuDeBBtlIoaZ8ZhtvJw2Q=="
 ---
 

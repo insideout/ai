@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html"
 type: article
 quality: 89
-heat: 122
+heat: 123
 published: true
 
 provider:
@@ -66,6 +66,6 @@ related:
       domain: usnews.com
     quality: 49
 
-secured: "WmWn5ag84anMnFJib5gb8vRsMKqPoeSANozrU+pbNQrOIZG06h68S1hkEYYr1/2Nro8vt4vsSjHdDmGO22QhGNcUI6HxGahqzNWj+nE+2wySJxCTLXgfzCx9E+qnquwoOOMyLKG03nF8Zk4D1KbEj3Ea51ESJBfTob5uVvWcaUgaPEDwg8TuDdgDJ0iqBEGIfIRxmHd8PaIm2U8t1HLY3ub60SvPKl/wKu12qjIBLhnVXOSjPOeva/ALL0+YgDMrQ0u2E8XmGG+vB+VcOPD06udQFZqa/9kJI6gf/9Ndmot2tdXUHieu7Up/HZpW2pLHVRIuid0lGIAhEk0nn2D9ixT/dc6PsR772sFL4OStD7xzxCiy2yPqS3B+N78llWDidvFKFEN6AKi5eNv9eAHHTG8qdM0HK4jLj8B6C/gHEioiWbKi0JMubtV03MbLK2urhGZU5N8+PwfNgV0Lrpny75UM/69UldDjuZp81XoIR84=;lMGb3EUMLYq/7v2LiuZHYg=="
+secured: "2+oWBxDb4zDAfgHAXZpYYrYBE6Mxi8w7bgG8FRYfittFtqlfVlosLvc4nbdLCMGR1bNoD5tXALUZ1Zy2vUDmn72+qY+EjslakFjf+5HoLlA/RHMK1Qa2Q4mvUzrZd2ots6aVuA2TlwIsY12P7dxaIfcOLDgxuqx13GRaSaexB6sR4DqAHDLUlvXPHwudrTudJu//AY5/aBnv0gktXuTkQNZ8hmIz6uH+T0VmQ1IvE9G1ztb6O9DjSztjYNXPJJYy+71OLZ7c7gy9i8YSDWXlwnYbkOyCtg6mM0pg6V53mvD+gmMnZOSPYWYi6HT5TrKwY5H+kqsqM3vVWQ1ZUB9Qx45yZn4CI6x8evx7wtOrezlF16MLWpOcS2IWp3No6Ry41H6PRd5iNRnUQf8yIkJYhsm3H0mrSa251fJ/5WjjLVHdjEYFTx07EM3FRuLp1h1qCW4Ji3Y0dnQgkMLDWqqMHIvhPB3NComfYO5d30eQGGc=;69w4XFOTNdt6v7QP5fGdWg=="
 ---
 

@@ -1,42 +1,42 @@
 ---
 category: news
 title: "Artificial Intelligence in Global Medical Imaging Markets, 2027: Growth Prospects, Key Trends, Leading Companies"
-excerpt: "The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added to ResearchAndMarkets.com's offering."
+excerpt: "The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added"
 publishedDateTime: 2020-04-15T18:15:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-global-medical-imaging-markets-2027-growth-prospects-key-trends-leading-companies/article_38c2a66d-b3f2-5edd-ac97-89ae2d557209.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-global-medical-imaging-markets-2027-growth-prospects-key-trends-leading-companies-301041121.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
+  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+    width: 800
+    height: 419
     title: "Artificial Intelligence in Global Medical Imaging Markets, 2027: Growth Prospects, Key Trends, Leading Companies"
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
-    excerpt: "The report includes the study of artificial intelligence in the manufacturing market. The global artificial intelligence"
-    publishedDateTime: 2020-04-15T11:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-competitive-analysis-2018-2025-and-key-players---bosch-cisco-ge-ibm-2020-04-15"
+  - title: "Global Image Recognition Market Outlook 2020-2027: Lucrative Growth Opportunities When Combined With AI"
+    excerpt: "The \"Image Recognition Market Size, Share & Trends Analysis Report by Technique, by Application, by Component (Hardware, Software),"
+    publishedDateTime: 2020-04-15T11:46:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-market-outlook-2020-2027-lucrative-growth-opportunities-when-combined-with-ai-301040957.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 23
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
 
-secured: "bWuER+is35m7mPV+GO6EkSLHuONTLjMxWCJnKwQr2H6qZr2ShUx14+8gRmBGKniSyKTN8dvsCUYoF5kybRLYFSdjidVIhVRZ8gGicL+cXo1VTl4AoVkpQvQXO2lqTMEsW8wh87vPDOTVWhH2WO2jM6rFcKyJwIspTvF6qTtxSGkZISxdy0zJiedIJk46EAkzYzhlw0h3RIIb+OfFscS7l7n6xyNwgDI0W0/NAhLhY2707z0Ev3ufFWFUrmEqhieDWS8OPlUWaKiJXY8sPAW3VgKwhfRN/rf7jfDj0BTAZQQyb9J69mMJ5Si6TYX/n/98;26HdpGNBBYmt6LxrMYVfBQ=="
+secured: "SPGUCO5OQTWDzOShMtuiaNtEymTVrA3gnm1WXBvb3go6aW+yWi64HFwZKRxamZLbFgDebExrOituhkd5IzbTaPVksibPqrnYSxyvBQYia3g0AH4VCiNoSqAlYn541j6O9MxiY7pMzLDAzjI9/uBN0DdMx1Y7DWcsxAhWlaMmqzx6uO3YeM/x628Y9+qgBJLSLhhPIABN4PUZqxNJoswojXhGUYpT8DO7E49DHQJgsxams+wq4QU1WMBQ5T8gfiIO1uLEdfXxs7vDo2EvJWCK3u0XpZlaS/O1E7PCoP4PWIqgphltFQJDGi1jSt1qnhwC;8l5NJMZcjqXAMy7ZaAx6wA=="
 ---
 

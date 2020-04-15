@@ -5,8 +5,8 @@ excerpt: "“The Vizi-AI devkit integrates Intel’s leading technologies, coupl
 publishedDateTime: 2020-04-15T17:21:00Z
 webUrl: "https://www.eejournal.com/industry_news/adlink-joins-intel-and-arrow-electronics-to-launch-vizi-ai-development-starter-kit-for-industrial-machine-vision-ai-at-the-edge/"
 type: article
-quality: 10
-heat: 10
+quality: 12
+heat: 12
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"

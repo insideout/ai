@@ -1,21 +1,25 @@
 ---
 category: news
-title: "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
-excerpt: "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of"
+title: "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
+excerpt: "Mankar’s presentation will introduce product details of the AKD1000, BrainChip's first event-based neural-network IP and NSoC device ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. The solution is high ..."
 publishedDateTime: 2020-04-02T12:05:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15726504"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15726504"
+webUrl: "https://www.businesswire.com/news/home/20200402005259/en/BrainChip-Introduces-Company’s-Event-Based-Neural-Network-IP-NSoC"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "2zypsVM720eV10k9zuABn8MNqhST2hCMQ0E+1r4lT4zaG8YBxvwAiXxzVQdpDe4lMK0CBUyZvd/p5NzlKreYvAkZ3r2G8AYKeWR57Q6J0C7NJGYuxclaxcyA6oRrX0yEMnl2v+j/WBvlf6rYvCRHCHpiSYNzTzcN2xv5bH0DKqZoNrlhAhuA7Zbl+ISik6Fg5qqs4eCDXjvAEGLeTImZa86xSZa/p/wKtGjxxtqx4kOKUZMGp3QqAXrfPNBMNQMPqpfoNnO8x+ZsWutvCKyhqbe45uyF/U5bgau/+6ALMJjjpYKD7V0Zcs2uu/Ipxx1A;Cdb3ENWTnS3Qgg7LgyMi0A=="
+images:
+  - url: "https://mms.businesswire.com/media/20200402005259/en/782937/23/BrainChip-Logo_tagline_full_color_header_retina.jpg"
+    width: 1200
+    height: 627
+    title: "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference"
+
+secured: "49YMYZt+NDitANvzbRRy3uUpnV/hRV9YxFV6LW6mQqWR1P78C1RyMSTu1ZtAw81JZO6ftNpi+Eg/Pr58Nc9KbqT7fHok/C3S+g5R7dts9fu5sm64nOiClpMaqEMn40WXeO/67kNt0kpW0wjG3L/C6s514E46v53pWT/Y6h+IuJ7w1IykUmZR4qlXSNcFwoT8elI8iJeHRHR1vawcjHNscOAiBxsxY9bAqw+++jMTcxyGsTLEVY1SbXYvbNESxebLcdlgaUVwQpUKjon/P573JArMBpCh6RZSNKe4rY0WCH1kp9ePkJ+NFX7nKwnfnUZG;Hkoz/+wq2aaRjufmNiQP5w=="
 ---
 
