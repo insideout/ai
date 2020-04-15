@@ -2,6 +2,117 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-04-how-ibm-makes-money.md",
+      "title": "How IBM Makes Money",
+      "excerpt": "Major competitors include Alphabet Inc. (GOOGL), Cisco Systems Inc. (CSCO), Microsoft Corp. (MSFT ... IBM sells IT services, cloud and cognitive offerings, and enterprise systems and software.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.investopedia.com/how-ibm-makes-money-4798528",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T13:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investopedia",
+        "domain": "investopedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-prosthetic-offers-real-time-mind-control-of-robotic-hand.md",
+      "title": "Prosthetic offers real-time mind control of robotic hand",
+      "excerpt": "Researchers have tapped faint, latent signals from arm nerves and amplified them to create a prosthetic that enables real-time, intuitive, finger-level control of a robotic hand. To achieve this ... Michigan) One of the biggest hurdles in mind-controlled prosthetics is tapping into a strong and stable nerve signal to feed the bionic limb.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.futurity.org/prosthetic-mind-control-robotics-2297932-2/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T13:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurity News",
+        "domain": "futurity.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.futurity.org/wp/wp-content/uploads/2020/03/prosthetics-2_1600.jpg",
+          "width": 1600,
+          "height": 915,
+          "title": "Prosthetic offers real-time mind control of robotic hand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-logo-recognition-and-the-top-5-logo-recognition-tools.md",
+      "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
+      "excerpt": "2. Amazon Rekognition: As the name suggests, this is an image recognition service by Amazon, with which you can detect scenes, objects and, faces in images, including logos. You can search and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@uptownlogos/logo-recognition-and-the-top-5-logo-recognition-tools-42b3868165c0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-04T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/959/1*zkJ_tgbPTmS2fLSl0BSq6w.png",
+          "width": 959,
+          "height": 509,
+          "title": "Logo Recognition and The Top 5 Logo Recognition Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-scientists-develop-ultra-precise-mind-controlled-prosthetic-limb.md",
       "title": "Scientists Develop Ultra-Precise Mind-Controlled Prosthetic Limb",
       "excerpt": "(CN) – The next generation of mind-controlled prosthetics are within reach and will give amputees the ability to better operate bionic limbs. All it will take is a learning algorithm and some muscle power. The new technology detailed in a paper published ...",
@@ -836,125 +947,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
-      "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-      "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "publishedDateTime": "2020-03-02T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Hongqi-L4-Car.jpeg?fit=1680%2C987&strip=all",
-          "width": 1680,
-          "height": 987,
-          "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
-      "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
-      "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/03/five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet/amp/",
-      "publishedDateTime": "2020-03-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/08/DSC04717.jpg?w=1024",
-          "width": 1024,
-          "height": 737,
-          "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-novel-use-of-robotics-for-neuroendovascular-procedures.md",
-      "title": "Novel use of robotics for neuroendovascular procedures",
-      "excerpt": "Surgeons at the Sidney Kimmel Medical College at Thomas Jefferson University are pioneering the use of robotics in neuroendovascular procedures, which are performed via the blood vessels of the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-robotics-neuroendovascular-procedures.amp",
-      "publishedDateTime": "2020-03-02T13:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

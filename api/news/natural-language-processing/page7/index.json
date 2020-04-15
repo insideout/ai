@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-01-15-machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026.md",
+      "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+      "excerpt": "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-three-misconceptions-about-ai-and-robotics-in-business-and-what-you-should-know.md",
       "title": "Three Misconceptions About AI And Robotics In Business (And What You Should Know)",
       "excerpt": "Robots can automate certain tasks and make certain processes more efficient, but at the end of the day, they are machines with hardware that wears down eventually.",

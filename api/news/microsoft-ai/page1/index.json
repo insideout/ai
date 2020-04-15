@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-15-fareye-raises-25-million-to-orchestrate-deliveries-with-ai.md",
+      "title": "FarEye raises $25 million to orchestrate deliveries with AI",
+      "excerpt": "Additionally, Serve provides delivery progress reports and a drag-and-drop, single-touch interface that lets managers update customer preferences on the fly, alongside an AI-powered chat platform that plugs into existing systems to expedite customer inquiry resolutions. According to CEO Kushal Nahata, the platform handles over 10 million ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/",
+      "publishedDateTime": "2020-04-14T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/FarEye-Team-Picture-feature-e1586805333499.jpg?fit=1059%2C528&strip=all",
+          "width": 1059,
+          "height": 528,
+          "title": "FarEye raises $25 million to orchestrate deliveries with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-microsoft-msft-invests-in-ai-for-health-to-fight-covid-19.md",
       "title": "Microsoft (MSFT) Invests in AI for Health to Fight COVID-19",
       "excerpt": "Microsoft MSFT recently announced that it is dedicating $20 million to its AI for Health initiative in an effort to combat the coronavirus pandemic. Launched on Jan 29, the AI for Health initiative was started to empower medical workers and researchers with AI as well as data science capabilities to improve healthcare services around the world.",
@@ -1227,51 +1272,6 @@
           "width": 1260,
           "height": 1004,
           "title": "COVID-19 mapped: Azure-powered tool IDs the most vulnerable populations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service.md",
-      "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
-      "excerpt": "That’s not the case for 5G network hardware maker Nokia, however, which today announced AVA 5G Cognitive Operations, offering AI as a service so mobile carriers can optimize their 5G networks and enterprise services. The key to AVA 5G ... The service will use Microsoft’s Azure cloud technology for its underpinnings, while supporting ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
-      "publishedDateTime": "2020-03-31T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/screen-2020-03-27-at-1.07.49-PM-e1585339730516.jpg?fit=2394%2C1197&strip=all",
-          "width": 2394,
-          "height": 1197,
-          "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
           "attribution": null
         }
       ],

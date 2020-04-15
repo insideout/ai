@@ -2,6 +2,117 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-02-25-military-unveils-guidelines-on-artificial-intelligence-warfare.md",
+      "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+      "excerpt": "The project uses algorithms to interpret aerial images of war zones or conflict areas, one of many recent military developments that involve AI. Among the five general principles listed in the new Defense Department ethics guidelines is one that requires AI to be “governable,” meaning the automated technology can be stopped if unintended ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/",
+      "ampWebUrl": "https://www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/military-unveils-guidelines-on-artificial-intelligence-warfare/amp/",
+      "publishedDateTime": "2020-02-25T15:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/02/pentagon.jpg?fit=1024%2C683&ssl=1",
+          "width": 1024,
+          "height": 683,
+          "title": "Military Unveils Guidelines on Artificial Intelligence Warfare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-augean-robotics-mechanizing-food-production-from-farm-to-table.md",
+      "title": "Augean Robotics: Mechanizing Food Production From Farm To Table",
+      "excerpt": "It spanned over 120 feet and took up a considerable area inside the already overpacked robotics section of the Las Vegas Convention Center, leaving many to wonder, ‘What on earth is a tractor doing at CES?’ Ever the since the acquisition of the artificial intelligence startup Blue River Technologies for $305 million, John Deere has been ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/",
+      "ampWebUrl": "https://www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/amp/",
+      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/amp/",
+      "publishedDateTime": "2020-02-25T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "alleywatch.com",
+        "domain": "alleywatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/02/deere.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Augean Robotics: Mechanizing Food Production From Farm To Table",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.md",
+      "title": "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare",
+      "excerpt": "A working group of 52 healthcare and tech organizations convened by the Consumer Technology Association released on Feb. 25 a common framework for the development and use of artificial intelligence technology in healthcare. The set of 11 definitions and characteristics is the first standard regarding the use of AI in healthcare to be accredited ...",
+      "heat": 261,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-these-are-the-pentagons-new-ethics-principles-for-ai-in-warfare.md",
       "title": "These Are the Pentagon’s New Ethics “Principles” for AI in Warfare",
       "excerpt": "On Monday, the Pentagon announced the official adoption of a series of new principles for ethical use of artificial intelligence in warfare, the Associated Press reports. The principles were formed out of a commission with the (darkly Newspeak-y) name the Defense Innovation Board, which released its recommendations (title: “AI Principles ...",
@@ -1171,141 +1282,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-its-time-to-take-self-driving-storage-out-for-a-spin.md",
-      "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
-      "excerpt": "We have solidly embarked on the journey to the \"self-driving\" storage system: a fully autonomous system capable of adapting its behavior in response to changing workloads.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/25/its-time-to-take-self-driving-storage-out-for-a-spin/amp/",
-      "publishedDateTime": "2020-02-25T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F02%2Fa-26-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "It's Time To Take 'Self-Driving' Storage Out For A Spin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-bosch-launches-ai-training-program-for-developers-and-managers.md",
-      "title": "Bosch Launches AI Training Program for Developers and Managers",
-      "excerpt": "The German industrial firm, known for home appliances, power tools, automotive parts and more, is training 20,000 employees, roughly 5% of its global workforce, in the use of AI. The education program will include an AI code of ethics, which the company published on Feb. 19.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/bosch-launches-ai-training-program-for-developers-and-managers-11582626602",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T07:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-157352/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Bosch Launches AI Training Program for Developers and Managers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-of-all-jobs.md",
-      "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
-      "excerpt": "After Kasparov‘s loss, the experts didn’t miss a beat. They said Chess was too easy and postulated that machines would never beat us at Go. Champion Lee Sedol’s loss against DeepMind’s AlphaGo proved them wrong there. Apparently the only thing more powerful than human hubris is our ability to iterate new technologies. At least ...",
-      "heat": 108,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/24/chess-grandmaster-gary-kasparov-predicts-ai-will-disrupt-96-percent-of-all-jobs/amp/",
-      "publishedDateTime": "2020-02-25T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/chesspieces-796x405.jpg",
-          "width": 796,
-          "height": 405,
-          "title": "Chess grandmaster Gary Kasparov predicts AI will disrupt 96% of all jobs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

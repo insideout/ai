@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestr
 ampWebUrl: "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/FarEye-Team-Picture-feature-e1586805333499.jpg?fit=1059%2C528&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 528
     title: "FarEye raises $25 million to orchestrate deliveries with AI"
 
-secured: "id/BR27JaI+MPwoS9dUVGds8sCIWRmSOwhXlTPzX6wJflijdQxha7PaAn3RxkQRLrs/smUKieHWlsQH+mIgMU79zLnAxLVwBIgkvvwlF99tFEshhc75L5tTKl3/K7OWBQijRCAupGXvTiWTxM6AO2EKdo2tkxT2omD5zvlMN7UOlNR48d5T+KTkFK7f8qoSM+ToKAEz4wz8r+XAfe/RubUEy54vsQmhnYaMNcZBvKH81wir75SIOT1FRJquE0YPddxrqrgKpzK1RGSrJbFT1UdCcO/w8U/Wz4jcPBT52tdmQpLiSMQyKRUIANWy866TY;d8aNQGrEESGNLYPI77Y/uQ=="
+secured: "fKPVTWrFCAqNZ7sePgcSgZgxf7GM/cW98mxie/QsRPkGJVdKrm9ozH3g0Yqw/GKj+OcSFecc7XMlktMdT22hoTazxLnvowHShMCaQZ4YQ+OrvFkD+b+7WHlUSpDpKf4hfrVdk3OExRzoTO14V14F9hJTVw+0KVT93rC1K9pyEHqunQcDIHJi8rbv5UGqG89o+pvA4AQ+ccXi8g1RL4dA6/hynqbUiszd5oEW4ulihEuxTfAsasvqMjJto7BVI0EKJYvfccO+Vmlz1ouRkAj5SQ15+2TED5b/HKdy3c0Dpq5e6elA/R3EKEWCa4s/6FWmVrlmf/sUDfl7JOzp07nnLAQEWpX9bN4kJivbUL1pM/2OVkrS9A+UqoGXErf5xDN71950wi8D09mL4e9BFv502dJ0Nt4/C4ZuYH03Ok4Hpo66HW8AB145w/EM0QG9BtnhF4ZsFwB0ltxOrX/Blnpr6XMhat+gWnvTZvt1vHO2e8I=;cdjLPthMKcxP/PSzzyIP7A=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-31-nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service.md",
+      "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
+      "excerpt": "That’s not the case for 5G network hardware maker Nokia, however, which today announced AVA 5G Cognitive Operations, offering AI as a service so mobile carriers can optimize their 5G networks and enterprise services. The key to AVA 5G ... The service will use Microsoft’s Azure cloud technology for its underpinnings, while supporting ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
+      "publishedDateTime": "2020-03-31T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/screen-2020-03-27-at-1.07.49-PM-e1585339730516.jpg?fit=2394%2C1197&strip=all",
+          "width": 2394,
+          "height": 1197,
+          "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
       "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
       "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
@@ -1167,43 +1212,6 @@
           "width": 620,
           "height": 250,
           "title": "Azure NetApp files become HIPAA compliant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-towards-an-ai-led-2020.md",
-      "title": "Towards an AI-led 2020",
-      "excerpt": "AI, machine learning and data science are becoming more mainstream in larger organisations in SA. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of cognitive services for image recognition, text analysis and form recognition capabilities, without actually having ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/RgeVDqPYy6jvKJN3",
-      "ampWebUrl": "https://amp.itweb.co.za/content/RgeVDqPYy6jvKJN3",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/RgeVDqPYy6jvKJN3",
-      "publishedDateTime": "2020-03-17T23:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/m2VqDHCZXMfLcsjx3RkV92Lb7Wu3Qcw2Twp8dYkleKJDDv8AfJuTRiF1Vsn-_hPZQ1wMo8wsCLUv525q6AjUprY=w400-h289-c",
-          "width": 400,
-          "height": 289,
-          "title": "Towards an AI-led 2020",
           "attribution": null
         }
       ],

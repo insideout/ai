@@ -83,27 +83,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T10:40:00-07:00",
+      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.amp",
+      "publishedDateTime": "2020-04-09T11:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg",
-          "width": 720,
-          "height": 878,
-          "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

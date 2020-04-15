@@ -2,6 +2,53 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-07-how-to-learn-pytorch-a-resources-guide-for-developers.md",
+      "title": "How to learn PyTorch: A resources guide for developers",
+      "excerpt": "Developed by Facebook, PyTorch is similar to Google's TensorFlow in that it runs on tensors, but instead of using static computation graphs like TensorFlow, it utilizes dynamic computation graphs. If you are interested in learning PyTorch, the following list of resources can help you get started. SEE: Hiring kit: Python developer ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-learn-pytorch-a-resources-guide-for-developers/",
+      "publishedDateTime": "2020-02-07T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg",
+          "width": 1200,
+          "height": 718,
+          "title": "How to learn PyTorch: A resources guide for developers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-growth-within-limits-us-based-cloud-service-provider-1q-earnings.md",
       "title": "Growth Within Limits: US-Based Cloud Service Provider 1Q Earnings",
       "excerpt": "Perhaps Microsoft can follow by doing the same ... former head of IBM’s Cloud and Cognitive Services business, to CEO as Ginni Rommetty retires. Mr. Krishna is credited with a leadership role ...",
@@ -1253,51 +1300,6 @@
           "width": 1000,
           "height": 665,
           "title": "Patent Dominance: Top 5 Companies Leading the Charge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity.md",
-      "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
-      "excerpt": "Also: Gap picks Microsoft Azure as preferred cloud vendor: Here's a look at the digital transformation ... Either way, Gap will have a laundry list of projects including: Data analytics and data science infrastructure. Machine learning efforts to improve marketing and supply chain. Customer targeting. Executing a mobile-first strategy.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
-      "publishedDateTime": "2020-01-17T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/07/23/1ce990cb-03ad-4814-af69-e4abc58ddfcc/thumbnail/1200x675/f3e8f8bcd73481326d927b2638178e1c/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
           "attribution": null
         }
       ],

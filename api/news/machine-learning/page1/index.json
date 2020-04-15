@@ -341,6 +341,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
+      "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+      "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-darpa-taps-intel-and-georgia-tech-to-pioneer-a-machine-learning-immune-system.md",
       "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
       "excerpt": "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks.",
@@ -564,27 +593,27 @@
     {
       "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
       "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
-      "excerpt": "Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just received DKK 33 million (EUR 4.4 million) from the prestigious EU framework programme Future and Emerging Technologies (FET ...",
+      "excerpt": "New research project to develop AI hardware; a completely new kind of computer system that mimics how the human brain is built up. Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=54899.php",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/au-uns040820.php",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T07:44:00-07:00",
+      "publishedDateTime": "2020-04-08T06:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.nanowerk.com/nanotechnology-news2/id54899_1.jpg",
-          "width": 300,
-          "height": 390,
+          "url": "https://eurekalert.org/multimedia/pub/web/228779_web.jpg",
+          "width": 1440,
+          "height": 2159,
           "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
           "attribution": null
         }
@@ -650,7 +679,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/Insights-Worldwide-Automated-Machine-Learning-Market-2020",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T01:36:00-07:00",
@@ -819,27 +848,27 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the ...",
+      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/automated-machine-learning-automl-market-301035747.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T19:03:00-07:00",
+      "publishedDateTime": "2020-04-06T18:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -1241,52 +1270,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-is-using-machine-learning-to-improve-the-quality-of-duo-calls.md",
-      "title": "Google is using machine learning to improve the quality of Duo calls",
-      "excerpt": "Google says that 99 percent of Duo calls experience packet loss: 20 percent of these lose over 3 percent of their audio, and 10 percent lose over 8 percent. That’s a lot of audio to replace. Every calling app has to deal with this packet loss somehow,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "publishedDateTime": "2020-04-02T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/bfUl1jN9kFr54TYBhItgUvp4C4Q=/0x0:800x600/1400x933/filters:focal(336x236:464x364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66593465/google_duo_logo_icon.0.png",
-          "width": 800,
-          "height": 600,
-          "title": "Google is using machine learning to improve the quality of Duo calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

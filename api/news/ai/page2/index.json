@@ -520,21 +520,21 @@
       "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "publishedDateTime": "2020-04-11T06:39:00-07:00",
+      "webUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-11T10:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "url": "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
           "width": 1200,
           "height": 900,
           "title": "Robots welcome to take over, as pandemic accelerates automation",
@@ -1191,6 +1191,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
+      "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+      "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
       "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
       "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
@@ -1232,51 +1261,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
-      "title": "How AI Is Helping in the Fight Against COVID-19",
-      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
-      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "publishedDateTime": "2020-04-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How AI Is Helping in the Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -5,7 +5,7 @@
       "path": "_news/2020-04-15-fareye-raises-25-million-to-orchestrate-deliveries-with-ai.md",
       "title": "FarEye raises $25 million to orchestrate deliveries with AI",
       "excerpt": "Additionally, Serve provides delivery progress reports and a drag-and-drop, single-touch interface that lets managers update customer preferences on the fly, alongside an AI-powered chat platform that plugs into existing systems to expedite customer inquiry resolutions. According to CEO Kushal Nahata, the platform handles over 10 million ...",
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/14/fareye-raises-25-million-to-orchestrate-deliveries-with-ai/",
@@ -42,7 +42,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {

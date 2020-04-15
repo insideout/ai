@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
+      "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
+      "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/kevin-scott-reprogramming-the-american-dream/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T11:04:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/04/kevin-scott-reporgramming-the-american-dream-rural-virginia_1200x630-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-a-more-hopeful-view-of-ais-impact-on-americas-rural-worker.md",
       "title": "A More Hopeful View of AI’s Impact on America’s Rural Worker",
       "excerpt": "In a new book, Kevin Scott says artificial intelligence can promote opportunity in the U.S. heartland if it comes with a national investment in education, broadband and businesses.",
@@ -1027,50 +1072,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-using-ai-responsibly-to-fight-the-coronavirus-pandemic.md",
-      "title": "Using AI responsibly to fight the coronavirus pandemic",
-      "excerpt": "Mark Minevich is president of Going Global Ventures, an advisor at Boston Consulting Group, a digital fellow at IPsoft and a leading global AI expert and digital cognitive strategist and venture capitalist. Irakli Beridze is head of the Centre for AI and Robotics at the United Nations Interregional Crime and Justice Research Institute (UNICRI).",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/using-ai-responsibly-to-fight-the-coronavirus-pandemic/amp/",
-      "publishedDateTime": "2020-04-02T15:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1203224882.jpg?w=1000",
-          "width": 1000,
-          "height": 667,
-          "title": "Using AI responsibly to fight the coronavirus pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

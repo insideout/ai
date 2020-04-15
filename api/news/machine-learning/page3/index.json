@@ -2,6 +2,35 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-25-what-machine-learning-can-do-in-fabs.md",
+      "title": "What Machine Learning Can Do In Fabs",
+      "excerpt": "Semiconductor Engineering sat down to discuss the issues and challenges with machine learning in semiconductor manufacturing with Kurt Ronse, director of the advanced lithography program at Imec; Yudong Hao, senior director of marketing at Onto Innovation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/what-machine-learning-can-do-in-fabs/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-how-personalization-and-machine-learning-can-improve-cancer-outreach-roi.md",
       "title": "How personalization and machine learning can improve cancer outreach ROI",
       "excerpt": "By using causal forests, a state-of-the-art development in machine learning, the researchers discovered that the effectiveness of outreach programs varies widely over time and across patients. For example, outreach programs in general are more effective for patients who are female, minority, in better health status, have a more frequent visit ...",
@@ -1148,51 +1177,6 @@
           "width": 1200,
           "height": 878,
           "title": "DataRobot and InterSystems partner to accelerate adoption of ai in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths.md",
-      "title": "BADGR uses deep learning to plan out and traverse obstacle-free paths",
-      "excerpt": "Projects and researches in the past have shown that deep learning is a potent technique for training robots to do specific things. To name a few, we've seen OpenAI use neural networks to train Dactyl to solve a Rubik's Cube, and an algorithm dubbed 6-DoF GraspNet that helps robots pick up arbitrary objects. Continuing the trend, researchers at ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths",
-      "ampWebUrl": "https://www.neowin.net/amp/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/badgr-uses-deep-learning-to-plan-out-and-traverse-obstacle-free-paths/",
-      "publishedDateTime": "2020-03-17T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584510691_untitled-1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "BADGR uses deep learning to plan out and traverse obstacle-free paths",
           "attribution": null
         }
       ],

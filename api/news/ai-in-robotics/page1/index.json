@@ -203,21 +203,21 @@
       "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
-      "ampWebUrl": "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
-      "publishedDateTime": "2020-04-11T06:39:00-07:00",
+      "webUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html",
+      "ampWebUrl": "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp",
+      "publishedDateTime": "2020-04-11T10:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
+          "url": "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg",
           "width": 1200,
           "height": 900,
           "title": "Robots welcome to take over, as pandemic accelerates automation",
