@@ -1,45 +1,27 @@
 ---
 category: news
 title: "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic"
-excerpt: "A dining hall worker loads the order into the bot, which delivers it to the front entrance of the requested campus building by relying on artificial intelligence ... I'm a Starship robot trying to do my job,\" the bot chirps. If a person does not oblige, the robot may become hostile and start sounding alarms, Testory said."
-publishedDateTime: 2020-04-09T11:03:00Z
-webUrl: "https://www.wiscnews.com/news/state-and-regional/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_1687e715-9003-58b8-976d-b5c5ecd9e071.html"
+excerpt: "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm."
+publishedDateTime: 2020-04-09T10:30:00Z
+webUrl: "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html"
+ampWebUrl: "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html"
+cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html"
 type: article
-quality: 29
-heat: -1
-published: false
 
 provider:
-  name: WiscNews
-  domain: wiscnews.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/1/b9/1b9f32d1-8381-5ab4-b389-e6ffce7d31f8/5e8e2a316e3c6.image.jpg?crop=1739%2C978%2C0%2C106&resize=1120%2C630&order=crop%2Cresize"
-    width: 1120
-    height: 630
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701"
+    width: 1024
+    height: 701
     title: "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic"
 
-related:
-  - title: "Stranded University Students Get Supplies from Robot Deliveries"
-    excerpt: "A dining hall worker loads the order into the bot, which delivers it to the front entrance of the requested campus building by relying on artificial intelligence ... I'm a Starship robot trying to do my job,\" the bot chirps. If a person does not oblige, the robot may become hostile and start sounding alarms, Testory said."
-    publishedDateTime: 2020-04-10T21:32:00Z
-    webUrl: "https://www.govtech.com/fs/automation/Stranded-University-Students-Get-Supplies-from-Robot-Deliveries.html"
-    ampWebUrl: "https://www.govtech.com/fs/automation/Stranded-University-Students-Get-Supplies-from-Robot-Deliveries.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/automation/Stranded-University-Students-Get-Supplies-from-Robot-Deliveries.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_618615314.jpg"
-        width: 949
-        height: 630
-
-secured: "46z6ZEY5Z3oTERZrtsARw9UBIhqKxsf8AfYWiZKlLRJ4wnjvPlX4JUNdI0d+ND+cxIqhFqpZEtK18W0fIAWqkJi665i+REqhjlB/QRD+g2anjWW9dqg/pqoX0kmQNdtHxd0XgTy7uZlXG+DcdvTvi4spcN6bJFbRI7JfZSlMIwqwWeFgrscmRnEzZf7YIDBiAoKYqvn9wqaxfOKXOdLhQHeMDD39uFeq+4h8M/dPifx9JGCX3KWGx0f3yJ++0AZRsdGMJ2E4tQdFFCCbHOFaVtbrLLEuUcJJGQ1LqtnbyYvzy4WtP19to76aHU4g1m+EyFBZx6qMBXqhYx+Q9TVXRUhmR99zoSBCHE1MmGsra9w6nztf+pPVMtRfzw0cU24qQFdCXBHLoNdWahaKC1LmAbda+pQg4A/u8GZkq595bj8/urh4wf3avM8BZltloZqLXcpveGO6abeikNR27es53/Td7o4KvlFNtOsg+hBxctQ=;CiOTPVpqfTxqKEc7nd9fLg=="
+secured: "Hb5o1b+nxnXX21f4GtY0CGRx7KMdogKiKLY8dmMdqreeHyWXUbkUjNQSqI0jdN52U7fXfZmbw8ebL50IVWrg1KKVbYkwZi+xIxEuZTiGaHJM1cH5gYPFDbLkAdYedVUxFa0v44FjEvPC6nt72+6hTthiwzm9nwbT4gMYBpZsNa+MQHQMy0Jy+epUumTHTEYlN7+iYMRCHlCzXGehQPu6LYXAfPqYVORSXt6jEd/JEE+wCp7Z4GNM9UA2Dl1lLkVjNanmHkm/OvD+Yt9pSK0oI9/7nE8NM7pM7T83B1Uxtxu9eZo0vzi/nHz6cNaWiXq/;5NsBFVFNUxT8yuyKsJu/Og=="
 ---
 

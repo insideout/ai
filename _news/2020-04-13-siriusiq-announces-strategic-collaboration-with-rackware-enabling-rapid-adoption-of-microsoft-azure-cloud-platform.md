@@ -1,28 +1,28 @@
 ---
 category: news
 title: "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform"
-excerpt: "The Cloud Correct solution delivers a new level of automation, analytics and AI using the comprehensive Microsoft Azure platform-as-a-service (PaaS) components and quickly adapts to increase the breadth of the customer's on-cloud landscape. \"With RackWare, Cloud Correct can now deliver almost instant value to any system that can benefit ..."
-publishedDateTime: 2020-04-13T11:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-1029085316"
+excerpt: "SiriusIQ, the leading Master Orchestration and Automation Platform for Digital Labor, announced a strategic collaboration with RackWare,"
+publishedDateTime: 2020-04-13T11:00:00Z
+webUrl: "https://www.prnewswire.com/news-releases/siriusiq-announces-strategic-collaboration-with-rackware-enabling-rapid-adoption-of-microsoft-azure-cloud-platform-301039072.html"
 type: article
-quality: 62
-heat: 62
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "ljGbgOeSnNOHHYUukFl9NpJHq6zkG2H1r6+B+GwklT0avYLmXikELWwIHGLcAaN6k71V5bFIS3PCjphyuV0MbnMjgWDlRVwyZqID7/00v7FsYGGvwL5QNNmtn7vhxSafeXeygl6GzccWgJrDUk87TBsB9eZV/y0aVsch/7o5xy8OtUHmFiVfUfKJeoojIlVvVto6dNiOx0yvUQW1D5vQtAIOHCPOQgdJiHvhvbT/0QxHYrWrX8JkqTGvexJdAheLouWqLwiso0bLkdd2dOPkB9GDc2bpHXIeIw60Z1qdfMlXlicjjO3WlgMgzmPR/R+W;pAff64XiJE4AYvTeNkYvyg=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    title: "SiriusIQ Announces Strategic Collaboration With RackWare, Enabling Rapid Adoption of Microsoft Azure Cloud Platform"
+
+secured: "o6PAcnYH9hD0TSQ5g14LGfi1RtRPj9+S7IXQWWwtRGWUCqXf1CiGDFB+VAQYG0dyOKX9IABGjaNTRnKr9mWpVszYiVuWQ6ycKnnsO89l7Iu4lbKjKJY3ucLbVoQ9xrBADWp9PRgr2i9K56nUBJS3z0hbH18x51oaHHolsKnFTqyhRf++/fO/2PPj68vcTKtY+A0ofG0ll6m7MXV6k/eG3gHmlRPKdzn48byrT4Lr+Wl42djeGBjwElpVezKaM4AF/5s9lzdJWhBxrCtnx6rM08w40Hu/DAdq0YifnbMtboASvsXVsVxcDF84Q8LlXzJ+;oStUZzSUuAAnqyQUZgg/gw=="
 ---
 

@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.cmswire.com/-/media/5d9d79c579d34f37afc8d95484a7ebf5.ashx?mw=1024"

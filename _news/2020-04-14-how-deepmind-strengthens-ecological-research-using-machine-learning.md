@@ -5,8 +5,8 @@ excerpt: "In the past few years, machine learning has highlighted the strength o
 publishedDateTime: 2020-04-14T07:48:00Z
 webUrl: "https://www.analyticsinsight.net/deepmind-strengthens-ecological-research-using-machine-learning/"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://www.analyticsinsight.net/wp-content/uploads/2020/04/deep.png"

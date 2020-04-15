@@ -19,6 +19,7 @@ topics:
   - AI in Autos
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://images.idgesg.net/images/article/2020/04/h20_ai_image_jpg-100837875-large.jpg"

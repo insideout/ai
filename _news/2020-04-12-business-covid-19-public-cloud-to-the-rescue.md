@@ -7,8 +7,8 @@ webUrl: "https://www.financialexpress.com/industry/business-covid-19-public-clou
 ampWebUrl: "https://www.financialexpress.com/industry/business-covid-19-public-cloud-to-the-rescue/1926203/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/business-covid-19-public-cloud-to-the-rescue/1926203/lite/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 secured: "dOvryaKNUn+v0Zc+X/hz8rbhqq4h+YwTxRxW35fvMivCEj5wF6SJrdq/bHXGm48KgVg2QOGUUYhug7hNmFPIf8+UGyf3kdbVeKbX1qwiweHBpLjqcR54hQK9n2PrPLTDhDlwAf+fWk4OS2hxGspT0Fj3oeNlzQNAv+AOG5Zo4xqxdqiyJlD8AHoLFrAX5Th5JHcrdeCavpHUJiZpWEwMSV21s8J/HMTMeRFOGeEfbwjZSG6ElpiVUBpsDV/KncABRlfrY4Ft3uVSWd3N7kZuUDWtVzF6T9sj9VmN5GbwwGxj2hHtSOeMH2t2/uVX4cuGqixHWuqUg7Y/Ta753fFSWT8+TCNTWyMyI8/C+I9TzY44DYFi23BJj9tgW8O2ztNpjm3h84LWmXMO7otI0/HLCMAnswLkfJDBN4bA4mdaY70gll+BqUJE/8Y8ELfqO4IT2ujc10QedQfdG/uAwfcuLwGO3lcUYgtumUY+3CCsPbQ=;giUObT6cnMcGhcMvIDbjqg=="
 ---
