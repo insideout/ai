@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
+      "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast-2020-04-13",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025.md",
       "title": "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025",
       "excerpt": "By Technology (Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Context Awareness),",
@@ -80,6 +125,43 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
+      "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
+      "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/",
+      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
+      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
+      "publishedDateTime": "2020-04-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tesla News",
+        "domain": "teslarati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-fsd-visualizations-traffic-turn-signal-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1188,96 +1270,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions.md",
-      "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
-      "excerpt": "Elon Musk sent a tweet this week referring to Tesla's self-driving tech as potentially being ... [+] \"superhuman\" which raises interesting questions about AI. Well, Elon Musk has suggested that Tesla cars outfitted with self-driving tech “can definitely be superhuman” (in his tweet on April 7, 2020), which invokes the superhuman moniker and ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/10/elon-musk-seemingly-used-the-superhuman-false-narrative-in-advancing-teslas-self-driving-car-ambitions/amp/",
-      "publishedDateTime": "2020-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1096056680%2F0x0.jpg",
-          "width": 1200,
-          "height": 783,
-          "title": "Elon Musk Seemingly Used The Superhuman ‘False Narrative’ In Advancing Tesla’s Self-Driving Car Ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks.md",
-      "title": "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks",
-      "excerpt": "Cognovi Labs, an award-winning technology startup which measures the public’s emotions and quantifies consumer intent through AI-meets-behavioral-psychology ... is a powerhouse in natural language processing, which is the understanding of unstructured conversation. Most social listening technology pulls words from digital conversations ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2020/04/10/how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks/",
-      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2020/04/10/how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2020/04/10/how-do-consumers-feel-about-fashion-during-coronavirus-heres-what-ai-thinks/amp/",
-      "publishedDateTime": "2020-04-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e90bb1904699f00065a8db6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "How Do Consumers Feel About Fashion During Coronavirus? Here’s What AI Thinks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -428,6 +428,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-05-us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.md",
+      "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+      "excerpt": "One proposal would require Amazon to cease offering facial recognition ... that might result from the service, known as Rekognition. Both proposals face uphill battles to receive a majority ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "publishedDateTime": "2020-04-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1532563864",
+          "width": 2000,
+          "height": 1333,
+          "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
       "title": "Amazon stands for nothing. That almost makes it beautiful",
       "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
@@ -1226,43 +1271,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
-      "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
-      "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datanami.com/2020/03/23/aws-announces-support-for-pytorch-with-amazon-elastic-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shutterstock_1489195400.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

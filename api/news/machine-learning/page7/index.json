@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-12-deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens.md",
+      "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
+      "excerpt": "Today, a startup that’s built a deep learning solution that it claims can both identify and stop even viruses that have yet to be identified, has raised a large round of funding from some big strategic partners. Deep Instinct, which uses deep learning both to learn how to identify and stop known viruses and other hacking techniques ...",
+      "heat": 155,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/12/deep-instinct-nabs-43m-for-a-deep-learning-cybersecurity-solution-that-can-suss-an-attack-before-it-happens/amp/",
+      "publishedDateTime": "2020-02-12T06:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1079200304.jpg?w=1024",
+          "width": 1024,
+          "height": 752,
+          "title": "Deep Instinct nabs $43M for a deep-learning cybersecurity solution that can suss an attack before it happens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-india-can-benefit-from-ai-machine-learning-chandra.md",
       "title": "India can benefit from AI, machine learning: Chandra",
       "excerpt": "Mumbai, Feb 12 () Tata Sons Chairman N Chandrasekaran on Tuesday said job losses due to technological growth is a bogey created by advanced nations, and emerging economies like India can benefit from aspects such as artificial intelligence and machine learning. Addressing tech industry chief executives at industry lobby Nasscom's annual event ...",
@@ -1272,44 +1317,6 @@
       "topics": [
         "AI",
         "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-02-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
-      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
-      "excerpt": "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
-      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
-      "publishedDateTime": "2020-02-02T14:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
-          "width": 412,
-          "height": 338,
-          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
         "Machine Learning"
       ]
     }

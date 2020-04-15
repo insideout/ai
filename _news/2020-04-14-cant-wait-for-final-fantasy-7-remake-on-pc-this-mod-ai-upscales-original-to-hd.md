@@ -3,9 +3,9 @@ category: news
 title: "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD"
 excerpt: "So, if you're looking for something a little more faithful, and own the PC version of the original game, feast your eyes on the Remako HD mod, an AI-powered fan-made upgrade that's just about to ... In China, Nintendo's games are available on the Nvidia Shield, with the chip maker using its neural processing techniques to give the likes of ..."
 publishedDateTime: 2020-04-14T08:38:00Z
-webUrl: "https://www.techradar.com/sg/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd"
+webUrl: "https://www.techradar.com/nz/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd"
+ampWebUrl: "https://www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd"
 type: article
 quality: 84
 heat: 84
@@ -29,6 +29,6 @@ images:
     height: 540
     title: "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD"
 
-secured: "UqCMQv+slnV6ZKKYn6iGHxPlqBzH453ZPquc6mapQcyajcE1CPAnvTrhfjvd5jFAROmKDvuvHvG4s7abrrBolvg10UxQmp/SXl9ljv75hiZ60ZRJdDL9QbtnzAl01s4QAHWmjCwclIQ1D8SaJljPufzkHBrQF52HdJgOCMyJ2889tYpiOlgQgNZN4zxnUpFYQAWp0Fyc/pm0FSPbQZgGMW9/luXHL9olDbfpraacCdTiTKOQBp3eJGeFuvETFaBltjSc+18BcJ4F7NqkJ8j/UNsQetZW94xohRrVNyYkEnC08kMMNS5QG3qGoKVMmnqs5V8g+wfdw7YjmpQ/hZXgymQ+tXJhAohNhGZqjasqGQ/xI8q6U3b2g0DCcB/uWPAI4ST5StDDQy1O+BEjSdKghAz7kP/nCyz+ujZttZZrc46XTRSTxsguIXw/UOENXy+P1nVr7Bw+iaT5WcDG1kttt/oJQjljRN20wDHuI9yEoHk=;3bZ9OFeX9BrOpmbTRokR7w=="
+secured: "H861sGQzkGuNn+eiRhexGTPGT+kGOGWrb0GYA2P2ClzTrK+lAzl05BCZxDoSU0MoQ2omVD6rhOBfVE4tzZf91iXltD1XiQB0g+zYFJufC+hjKM+Vj6DjpWFCBjNJ0Czk1FzhtiYhPo+tEXnt1qJDzreIFHKR/4Nto4P93Do0LMPQtYTgw7mChiS/E3Qw4t3bmNAi9huiIskM2P7jZXooUxl1w5NWYBbTilBor5uy73G3AWAyR3JI11Fff6Doh3NUqJblNfSQ2ap1baRz7ec8se+/8cRyTi/RAB/XVhdUovVs552fvxLQzoCZEFzn84l7;bbz5mMdO6XyYsVlZbHqXaQ=="
 ---
 

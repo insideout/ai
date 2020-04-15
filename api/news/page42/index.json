@@ -2,6 +2,260 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-03-10-facebooks-ride-encourages-ai-agents-to-explore-their-environments.md",
+      "title": "Facebook’s RIDE encourages AI agents to explore their environments",
+      "excerpt": "A preprint paper coauthored by scientists at Facebook AI Research describes Rewarding Impact-Driven Exploration (RIDE), an intrinsic reward method that encourages AI-driven agents to take actions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
+      "publishedDateTime": "2020-03-10T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s RIDE encourages AI agents to explore their environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-are-ai-ethicists-making-any-difference.md",
+      "title": "Are AI ethicists making any difference?",
+      "excerpt": "Tech companies, consulting firms, and even the US military are rushing to add ethics boards and hire “AI ethicists.” They’re asking them to think about everything from bias and fairness to the circumstances under which it is acceptable to use autonomous weapons. It’s a welcome acknowledgment of the harm AI can do. But many people are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1814436/what-is-an-ai-ethicists-job/",
+      "ampWebUrl": "https://qz.com/1814436/what-is-an-ai-ethicists-job/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1814436/what-is-an-ai-ethicists-job/amp/",
+      "publishedDateTime": "2020-03-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/03/GettyImages-1056547320-e1583669963557.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 790,
+          "title": "Are AI ethicists making any difference?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation.md",
+      "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
+      "excerpt": "/PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the TransPerfect",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-301020975.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-ubers-self-driving-cars-to-cruise-san-francisco-streets-once-again.md",
+      "title": "Uber's self-driving cars to cruise San Francisco streets once again",
+      "excerpt": "Uber's self-driving cars are back on San Francisco's streets in full autonomous mode after a two-year hiatus. The move comes after one of the company's cars was involved in a fatal accident ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
+      "publishedDateTime": "2020-03-10T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/zaSXhbmBw7XTe5v8-kcJNSzHt5Q=/756x567/2016/12/12/5e3fa950-a136-40b2-b361-32d5a2055329/uber-mapping-car-7145.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Uber's self-driving cars to cruise San Francisco streets once again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
+      "title": "Google launches machine learning framework for training quantum models",
+      "excerpt": "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/uk/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "publishedDateTime": "2020-03-10T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PUkY2vFk37Kh5uzdiWBBgW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google launches machine learning framework for training quantum models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-imx-8-applications-processor.md",
+      "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+      "excerpt": "The cloud stack is deployed directly from the device in just a few steps via AWS CloudFormation as a dedicated AWS instance. AWS enabled the NXP i.MX 8 applications processor as a target for Amazon SageMaker Neo. Amazon SageMaker Neo allows developers to optimize a ML model for a certain device. Lastly, a trained and optimized model is included ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-i-mx-8-applications-processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e67d3c91f0cd-76219803_toradex_aws_nxp.jpg",
+          "width": 5000,
+          "height": 1934,
+          "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age.md",
       "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
       "excerpt": "AI was so transformative because of the huge amount of data it was able to process at speed, changing and shaping everything we do. She continued: “The reason why we’re talking so much about ethics in AI is over the last few years we have seen the best of technology – but also the worst.” AI was already being used to detect cancer and ...",
@@ -716,228 +970,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-to-be-topic-for-1st-tectalk.md",
-      "title": "Deep Learning to be Topic for 1st teCTalk",
-      "excerpt": "One of your neighbors posted in Business. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/connecticut/hartford/deep-learning-be-topic-1st-tectalk",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/20886760/20200310/083208/styles/patch_image/public/tectalk-logo___10082846546.jpg",
-          "width": 716,
-          "height": 537,
-          "title": "Deep Learning to be Topic for 1st teCTalk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-it-support-solutions-startup-electricai-raises-145m-from-01-advisors.md",
-      "title": "IT support solutions startup Electric.ai raises $14.5M from 01 Advisors",
-      "excerpt": "Information technology support solutions startup Electric.ai said today it has raised $14.5 million in new funding from 01 Advisors, the investment firm run by former Twitter Inc. Chief Executive Officer Dick Costolo and Twitter Chief Operations Officer Adam Bain. Founded in 2016, Electric offers a fully automated IT platform that is pitched ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://siliconangle.com/2020/03/10/support-solutions-startup-electric-ai-raises-14-5m-01-advisors/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/03/electric.jpg",
-          "width": 2013,
-          "height": 868,
-          "title": "IT support solutions startup Electric.ai raises $14.5M from 01 Advisors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-artificial-intelligence-drives-new-industrial-inspection-drones.md",
-      "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
-      "excerpt": "Jameson Huckaba of Digital Aerolus explains the technology behind and capabilities of the company's Aertos industrial inspection drones during the Tech Crunch Robotics+AI 2020 event.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.automationworld.com/factory/plant-maintenance/video/21120855/artificial-intelligence-drives-new-industrial-inspection-drones",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://img.automationworld.com/files/base/pmmi/all/image/2020/03/IMG_0453.5e6696b198bf7.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 900,
-          "title": "Artificial Intelligence Drives New Industrial Inspection Drones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
-      "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-      "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "publishedDateTime": "2020-03-10T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/02/02182020_train_083439-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-accelerates-scientific-simulations-up-to-two-billion-times.md",
-      "title": "Deep Learning Accelerates Scientific Simulations up to Two Billion Times",
-      "excerpt": "Researchers from several physics and geology laboratories have developed Deep Emulator Network SEarch (DENSE), a technique for using deep-learning to perform scientific simulations from various fields, from high-energy physics to climate science. Compared to previous simulators, the results from DENSE achieved speedups ranging from 10 million ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/deep-learning-simulation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/deep-learning-simulation/en/headerimage/deep-learning-simulation-1583679280070.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": "Deep Learning Accelerates Scientific Simulations up to Two Billion Times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-artificial-intelligence-image-guided-robotics-for-automatic-blood-draw.md",
-      "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
-      "excerpt": "Rutgers University engineers have created a tabletop device that combines a robot, artificial intelligence (AI), and near-infrared and ultrasound imaging to draw blood or insert catheters for fluid and drug delivery. Research results, published in the journal Nature Machine Intelligence, suggest medical robots could reduce injuries, improve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.todaysmedicaldevelopments.com/article/medical-device-robotic-image-guided-artificial-intelligence-blood-draw/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Today's Medical Developments",
-        "domain": "todaysmedicaldevelopments.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.todaysmedicaldevelopments.com/fileuploads/image/2020/03/04/Artificial-intelligence-image-guided-robotics-automatic-blood-draw.jpg?w=736&h=414&mode=crop",
-          "width": 736,
-          "height": 414,
-          "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

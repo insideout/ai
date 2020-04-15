@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-15-self-driving-startup-zoox-settles-trade-secrets-lawsuit-filed-by-tesla.md",
+      "title": "Self-driving startup Zoox settles trade-secrets lawsuit filed by Tesla",
+      "excerpt": "Autonomous-vehicle startup Zoox said late Tuesday it has settled a lawsuit by Tesla Inc. undefined that alleged theft of trade secrets. Last year, Tesla",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/self-driving-startup-zoox-settles-trade-secrets-lawsuit-filed-by-tesla-2020-04-14?siteid=yhoof2&yptr=yahoo&bcmt=1",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8",
+      "publishedDateTime": "2020-04-14T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-brief-hansoh-pharma-atomwise-expand-strategic-partnership-for-ai-accelerated-drug-discovery.md",
       "title": "BRIEF-Hansoh Pharma, Atomwise Expand Strategic Partnership For Ai-Accelerated Drug Discovery",
       "excerpt": "Hansoh Pharmaceutical Group Co Ltd : * HANSOH PHARMA - CO, ATOMWISE ANNOUNCED EXPANSION OF THEIR STRATEGIC PARTNERSHIP FOR AI-ACCELERATED DRUG DISCOVERY Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
@@ -183,7 +220,7 @@
       "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
       "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
       "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/",
@@ -766,9 +803,9 @@
       "heat": 84,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "webUrl": "https://www.techradar.com/nz/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
       "publishedDateTime": "2020-04-14T01:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1242,51 +1279,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
-      "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-02-automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
+      "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+      "excerpt": "New York, April 02, 2020: The Automated Material Handling Equipment Market is expected to exceed more than US$ 50 Billion",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automated-material-handling-equipment-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automated Material Handling Equipment Market to Witness a Pronounce Growth during 2020 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-it-took-a-coronavirus-outbreak-for-self-driving-cars-to-become-more-appealing.md",
+      "title": "It took a coronavirus outbreak for self-driving cars to become more appealing",
+      "excerpt": "Suddenly, a future full of self-driving cars isn't just a sci-fi pipe dream. What used to be considered a scary, uncertain technology for many Americans looks more like an effective tool to protect ourselves from a fast-spreading, infectious disease. With COVID-19 — the name for the disease caused by the new coronavirus — keeping most of ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/autonomous-vehicle-perception-coronavirus/",
+      "ampWebUrl": "https://mashable.com/article/autonomous-vehicle-perception-coronavirus.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/autonomous-vehicle-perception-coronavirus.amp",
+      "publishedDateTime": "2020-04-01T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F01%252F6c%252F16342e756b0e4023b82a7862df64d273.068ba.png%252F1200x630.png?signature=0rYR5J06AcdSItqbZjuNXcbd5EQ=",
+          "width": 1200,
+          "height": 630,
+          "title": "It took a coronavirus outbreak for self-driving cars to become more appealing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration.md",
       "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
       "excerpt": "Anthony Levandowski, the star self-driving car engineer who was at the center of a trade secrets lawsuit, has filed a motion to compel Uber into arbitration in the hopes that his former employee will have to shoulder the cost of at least part of the $179 million judgment against him. The motion to compel arbitration filed this week is part of ...",
@@ -1144,80 +1226,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-how-5g-is-enhancing-business-productivity.md",
-      "title": "How 5G is enhancing business productivity",
-      "excerpt": "Analysts have long spoken about the potential of emerging technologies, like virtual reality, artificial intelligence and the Internet of Things ... be coordinated much more effectively and efficiently – and your business could soon be using driverless vehicles as part of its operations. Drones, which have also long-been hyped as a means ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/paid-content/article/how-5g-is-enhancing-business-productivity/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-5g-is-enhancing-business-productivity/",
-      "publishedDateTime": "2020-03-24T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/03/24/b89d0c18-f127-4489-a85e-3b812da03063/native-1333x750-3.jpg",
-          "width": 1333,
-          "height": 750,
-          "title": "How 5G is enhancing business productivity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-emapgo.md",
-      "title": "Global & Chinese HD Map Markets Insight, 2019-2020 - Industry Leaders are Amap, Baidu Map, NavInfo and eMapgo",
-      "excerpt": "It can be seen from the use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15649371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371",
-      "publishedDateTime": "2020-03-24T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

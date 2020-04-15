@@ -562,6 +562,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
+      "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+      "excerpt": "Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just received DKK 33 million (EUR 4.4 million) from the prestigious EU framework programme Future and Emerging Technologies (FET ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=54899.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/nanotechnology-news2/id54899_1.jpg",
+          "width": 300,
+          "height": 390,
+          "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-machine-learning-market-value-booming-us-768-bn-by-2026.md",
       "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
       "excerpt": "According to the Acumen Research and Consulting, the global Machine Learning market is expected to reach at US$ 76.8 Bn by 2026, along with the projected CAGR of 40.1% from 2020-2026. The published report global Machine Learning market provides a holistic overview of the current market covering the current trends.",
@@ -782,27 +819,27 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large Enterprise, Small & Medium Enterprise),",
+      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/automated-machine-learning-automl-market-301035747.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:40:00-07:00",
+      "publishedDateTime": "2020-04-06T18:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -1250,51 +1287,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic.md",
-      "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
-      "excerpt": "After the COVID 19 crisis is over, business success or failure may come down to whether companies have taken advantage of Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-04-02T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84e9ffa1a0ef0006051091%2F0x0.jpg%3FcropX1%3D125%26cropX2%3D3963%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 675,
-          "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

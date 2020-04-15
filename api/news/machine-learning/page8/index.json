@@ -2,6 +2,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-02-what-are-machine-learning-and-deep-learning-in-artificial-intelligence.md",
+      "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+      "excerpt": "They say ML is a complete science in its own right and thus, need not be called with reference to Artificial Intelligence. AI thrives on data ... For example, if the machine is a self-driving vehicle, it has to create its own scenarios on road. There is no way a programmer can program every step as he or she can’t think of all the ...",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence",
+      "ampWebUrl": "https://www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/machine-learning-deep-learning-artificial-intelligence/amp",
+      "publishedDateTime": "2020-02-02T14:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thewindowsclub-thewindowsclubco.netdna-ssl.com/wp-content/uploads/2020/01/aivsmlvsdl.png",
+          "width": 412,
+          "height": 338,
+          "title": "What are Machine Learning and Deep Learning in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-02-first-drug-developed-using-machine-learning-enters-clinical-trials.md",
       "title": "First drug developed using machine learning enters clinical trials",
       "excerpt": "What just happened? Of all the domains where machine learning is expected to be revolutionary, medicine is perhaps the most universal. In a major new milestone, a drug developed using machine learning is about to enter human trials. Before a new medicine ...",
@@ -1249,51 +1287,6 @@
       "topics": [
         "AI",
         "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
-      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
-      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
-      "publishedDateTime": "2020-01-17T22:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
-          "width": 1024,
-          "height": 649,
-          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "Machine Learning"
       ]
     }

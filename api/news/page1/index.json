@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-15-self-driving-startup-zoox-settles-trade-secrets-lawsuit-filed-by-tesla.md",
+      "title": "Self-driving startup Zoox settles trade-secrets lawsuit filed by Tesla",
+      "excerpt": "Autonomous-vehicle startup Zoox said late Tuesday it has settled a lawsuit by Tesla Inc. undefined that alleged theft of trade secrets. Last year, Tesla",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/self-driving-startup-zoox-settles-trade-secrets-lawsuit-filed-by-tesla-2020-04-14?siteid=yhoof2&yptr=yahoo&bcmt=1",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8",
+      "publishedDateTime": "2020-04-14T17:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-brief-hansoh-pharma-atomwise-expand-strategic-partnership-for-ai-accelerated-drug-discovery.md",
       "title": "BRIEF-Hansoh Pharma, Atomwise Expand Strategic Partnership For Ai-Accelerated Drug Discovery",
       "excerpt": "Hansoh Pharmaceutical Group Co Ltd : * HANSOH PHARMA - CO, ATOMWISE ANNOUNCED EXPANSION OF THEIR STRATEGIC PARTNERSHIP FOR AI-ACCELERATED DRUG DISCOVERY Source text for Eikon: Further company coverage: Our Standards:The Thomson Reuters Trust Principles.",
@@ -183,7 +220,7 @@
       "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
       "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
       "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/",
@@ -766,9 +803,9 @@
       "heat": 84,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/sg/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "webUrl": "https://www.techradar.com/nz/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
       "publishedDateTime": "2020-04-14T01:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1020,51 +1057,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-amazon-translate-added-to-memsource-translate-memsources-machine-translation-management-feature.md",
-      "title": "Amazon Translate added to Memsource Translate, Memsource’s machine translation management feature",
-      "excerpt": "This is a guest post from Memsource. In their own words, “By leading the industry in AI-powered translation technology, we make localization easier, faster, and more cost-effective.” \nMemsource and Amazon Translate are strengthening their partnership. You can now use Amazon Translate with Memsource Translate,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-added-to-memsource-translate-memsources-machine-translation-management-feature/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T12:12:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
-          "width": 1024,
-          "height": 512,
-          "title": "Amazon Translate added to Memsource Translate, Memsource’s machine translation management feature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

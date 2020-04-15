@@ -8,7 +8,7 @@ ampWebUrl: "https://www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-rec
 cdnAmpWebUrl: "https://www-statesman-com.cdn.ampproject.org/c/s/www.statesman.com/zz/lifestyle/20200410/your-iphone-wont-recognize-you-in-face-mask---but-samsung-galaxy-might?template=ampart"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -24,36 +24,6 @@ images:
     width: 300
     height: 304
     title: "Your iPhone won't recognize you in a face mask – but a Samsung Galaxy might"
-
-related:
-  - title: "Your iPhone won't recognize you in a face mask – but a Samsung Galaxy might"
-    excerpt: "With COVID-19 concerns, more of us are wearing face coverings. You can try setting up facial recognition with a mask on. Depending on the phone, It may work."
-    publishedDateTime: 2020-04-10T07:09:00Z
-    webUrl: "https://www.usatoday.com/story/tech/2020/04/10/how-to-unlock-iphone-samsung-galaxy-phone-with-face-mask-coronavirus/5123056002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5123056002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5123056002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 42
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/04/09/USAT/a88ce0ac-eda8-419e-92a6-37994b73d9f9-Google_ChromeScreenSnapz251.jpg?auto=webp&crop=1233,694,x0,y187&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-  - title: "Tricks to unlock your smartphone in coronavirus face mask"
-    excerpt: "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. Continue Reading Below Unlocking smartphones with facial recognition became more difficult once health officials began urging everyone to wear face masks to slow the spread of COVID-19. Naturally, scores of videos have surfaced online to try and help ..."
-    publishedDateTime: 2020-04-10T18:00:00Z
-    webUrl: "https://www.foxbusiness.com/lifestyle/smartphone-face-masks"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 24
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/mask-phone-iStock.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
 
 secured: "dzn2/04AWZiweDwLcjtZeEQ+g2kemKK+zozuot7dIEHApxV3Cjfes7IpQ3yNHC48VZHlBZ0rx6fdLu3Iu6P+BxfvFCq2zIJTQEsOu3e21YSRJHj44pSYRqF6wOdCf+e0X/m6dIKy7vJ9qIv4oWKvJwZr+lubH/6R1bgeOOe5iQBwezGUcWzrllK2zUqdn9+Y4Ih7JIkRRcir34DF+pLHf9d+XTjOd7kBDisveNu5B1veTdmPLnwpv/im4Z6LCJOcajjXv1FO6EjKFK7M7ldON/7y08kRILjyLvUKsz/fYQV3e7mmnoH2WfjiPvLEeXysDUUsVmRHZRaO4pZAJeZIW0TAr/ANAwxdOucGHeP0T/hpH2LGJpSEC6JvJ8jvW75YX9ypWhrNJmPY4ADu7lctt3MQoyY0y8Ejnujgo2u5MALNlDB8v9d5kuqC1OQ2QpOCXZ9OpUwLowuuoOhR53wQhdj1p0V05SKHpHvZ17bbuKY=;5lcxYnZ+f+Tx72baQTBUdw=="
 ---
