@@ -2,6 +2,271 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-17-aws-assists-premier-league-analytics.md",
+      "title": "AWS assists Premier League analytics",
+      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
+      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
+      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
+      "publishedDateTime": "2020-02-17T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tvbeurope.com",
+        "domain": "tvbeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
+          "width": 590,
+          "height": 350,
+          "title": "AWS assists Premier League analytics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
+      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-14T12:18:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
+          "width": 800,
+          "height": 400,
+          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker.md",
+      "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+      "excerpt": "As machine learning (ML) becomes a larger part of companies’ core business, there is a greater emphasis on reducing the time from model creation to deployment. In November of 2019, AWS released the AWS Step Functions Data Science SDK for Amazon SageMaker, an open-source SDK that allows developers to",
+      "heat": 190,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T10:22:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif",
+          "width": 800,
+          "height": 397,
+          "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-how-to-teach-artificial-intelligence.md",
+      "title": "How To Teach Artificial Intelligence",
+      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-02-12T02:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 572,
+          "title": "How To Teach Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
+      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
+      "heat": 175,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
+      "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+      "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T09:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif",
+          "width": 897,
+          "height": 514,
+          "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-07-machine-learning-infrastructure-terraforming-sagemaker-part-1.md",
       "title": "Machine Learning Infrastructure ~Terraforming SageMaker Part 1~",
       "excerpt": "The MLOps cover these areas mainly: Amazon SageMaker is AWS based machine learning platform that enables developers to build machine learning models, train data, deploy an inference point on the ...",
@@ -1038,237 +1303,6 @@
           "width": 1024,
           "height": 512,
           "title": "Standard Voices in Amazon Polly now available in Middle East and Asia Pacific Regions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
-      "title": "Congress moves toward facial recognition regulation",
-      "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
-      "heat": 481,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
-      "publishedDateTime": "2020-01-15T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Congress moves toward facial recognition regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
-      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-nasdaq.md",
-      "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-      "excerpt": "Amazon AMZN is focused on strengthening clientele of its cloud computing arm, Amazon Web Services (AWS), to expand presence in the cloud industry.Bundesliga, the professional association football ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-cloud-clientele-strengthens-as-bundesliga-selects-aws-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Amazon Cloud Clientele Strengthens as Bundesliga Selects AWS | Nasdaq",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.md",
-      "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-      "excerpt": "Under the terms of its deal with AWS, the Bundesliga will make use during the 2019-20 season and beyond of artificial intelligence (AI), machine learning (ML), analytics, compute, database, and storage services to deliver real-time statistics to predict future plays and game outcomes, and recommend personalised match footage across mobile ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.html",
-      "ampWebUrl": "https://www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "cdnAmpWebUrl": "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2020011457936/bundesliga-brings-on-aws-to-revolutionise-football-viewing-experience.amp.html",
-      "publishedDateTime": "2020-01-13T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid TV",
-        "domain": "rapidtvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rapidtvnews.com/images/2020/Jan_2020/bundesliga_AWS_14Jan2020.jpg",
-          "width": 788,
-          "height": 337,
-          "title": "Bundesliga brings on AWS to ‘revolutionise’ football viewing experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-13-bundesliga-goes-all-in-on-aws-cites-ml-and-ai-expertise-for-archiving-as-key.md",
-      "title": "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key",
-      "excerpt": "Yet another sporting franchise is signing up with Amazon Web Services (AWS) to utilise its artificial intelligence (AI) and machine learning (ML) capabilities. The Bundesliga, Germany’s top flight football league, has announced it its going all-in on AWS ...",
-      "heat": 61,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cloudcomputing-news.net/news/2020/jan/13/bundesliga-goes-all-aws-cites-ml-and-ai-expertise-archiving-key/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-13T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Computing",
-        "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cloudcomputing-news.net/media/img/news/bundesliga.jpg.600x600_q96.png",
-          "width": 600,
-          "height": 378,
-          "title": "Bundesliga goes all-in on AWS, cites ML and AI expertise for archiving as key",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-12-capillary-technologies-achieves-aws-retail-competency-status.md",
-      "title": "Capillary Technologies achieves AWS retail competency status",
-      "excerpt": "Boosting Innovation: Capillary has also used Amazon Rekognition to drive an effective customer engagement solution powered by smart IoT sensors deployed in the stores. The technology captures information about visitors such as how much time they spend in a ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/Capillary_Technologies_achieves_AWS_retail_competency_status-ZAWYA20200112060923/",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200112060923/",
-      "publishedDateTime": "2020-01-11T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
-          "width": 1200,
-          "height": 878,
-          "title": "Capillary Technologies achieves AWS retail competency status",
           "attribution": null
         }
       ],

@@ -1,97 +1,29 @@
 ---
 category: news
 title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
-excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater ... understanding the impact of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
-publishedDateTime: 2020-04-07T20:15:00Z
-webUrl: "https://www.businesswire.com/news/home/20200407005781/en/BlackRock-Microsoft-Form-Strategic-Partnership-Host-Aladdin"
+excerpt: "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,"
+publishedDateTime: 2020-04-07T20:04:00Z
+webUrl: "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07"
 type: article
-quality: 22
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200407005781/en/783707/23/ALA_eng_black_rgb.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
 
-related:
-  - title: "Blackrock and Microsoft Partner to Host Aladdin on Azure"
-    excerpt: "The Microsoft Azure platform helps support the increasing need institutions currently have ... in understanding the impact of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data ..."
-    publishedDateTime: 2020-04-08T13:17:00Z
-    webUrl: "https://www.financemagnates.com/institutional-forex/technology/blackrock-and-microsoft-partner-to-host-aladdin-on-azure/"
-    type: article
-    provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 54
-    images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2016/03/BlackRock.jpg"
-        width: 880
-        height: 400
-  - title: "BlackRock to port Aladin to Microsoft Azure"
-    excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
-    publishedDateTime: 2020-04-08T10:47:00Z
-    webUrl: "https://www.finextra.com/pressarticle/82092/blackrock-to-port-aladin-to-microsoft-azure"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 54
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-  - title: "Bentley Systems, Microsoft and Schneider Electric re-imagine future workplaces with sensors, sustainability, IOT and AI"
-    excerpt: "The platform generates nearly 2,100 data points, that are connected to the cloud on Microsoft Azure, enabling the holistic management of the environment. The sensors enable monitoring of facilities usage, energy and utilities. They optimize space utilization, air conditioning and lighting adjustments. All these provide a comfortable and ..."
-    publishedDateTime: 2020-04-08T07:20:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Bentley_Systems_Microsoft_and_Schneider_Electric_reimagine_future_workplaces_with_sensors_sustainability_IOT_and_AI-ZAWYA20200408070523/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20200408070523/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20200408070523/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 50
-    images:
-      - url: "https://www.zawya.com/resources/img/zawya-logo-en-social.png"
-        width: 1200
-        height: 878
-  - title: "BlackRock and Microsoft form strategic partnership to host Aladdin on Azure as BlackRock readies"
-    excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater ... understanding the impact of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
-    publishedDateTime: 2020-04-07T19:06:00Z
-    webUrl: "https://www.miragenews.com/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 41
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-  - title: "BlackRock to host Aladdin platform on Microsoft cloud"
-    excerpt: "BlackRock will also adopt Microsoft Azure’s network of data centres globally to meet the localised needs of the Aladdin platform’s clients. They are both also planning a new initiative aimed at expanding sustainability data and analytics using the latest technologies such as big data, machine learning and artificial intelligence."
-    publishedDateTime: 2020-04-08T12:15:00Z
-    webUrl: "https://www.thetradenews.com/blackrock-host-aladdin-platform-microsoft-cloud/"
-    type: article
-    provider:
-      name: The TRADE
-      domain: thetradenews.com
-    quality: 39
-    images:
-      - url: "https://www.thetradenews.com/wp-content/uploads/2019/02/iStock-966932508-300x225.jpg"
-        width: 300
-        height: 225
-
-secured: "3LQ6nIhLXDhKAVe3tbs6ASIRJFcT7cmPd24oHRPggW7yHBV0gEmTz1NjK/SKvF0lLDCs7ckol5XFoCBWRrRaTf64DBfG2pHjkip8JIs8bqpTBQ9CKhNpxdG5X8BMN5jUnQfq5G/EyApklr7EcwhGlQTwqNB2HdHIo75DYzc9ilsto3mYpwZ9dpXCOLkrCCLwxQH57JtDeFW64Qrdq1DlCZ/BYYFO2vUqKYb2edw6mkfU88FSH3psQd1OLHqcd+pI286Z4dq3kW7knER+vi/4Nzsis8sOLKS8RXjhgqI4/3wo5xZkUiTNSFKJBnOLEAxfo7WC1UNZyjWXwuWFCsKsXrcQ2pmfCoTot69z990DoHyVvMjQ1okj5iLY5xSiFZ6w/rRjJ3hqf0RT3+YbAmVdoPJKt00NjGz4HT+gKAMbogx+dkjE39pAu0F9vcYLiCvC/OzTT7kEJh+R8sU9xhjOvtrAdmcRdurQH7gisryUIdA=;LFoUuXVl6ovyaERNgrjATA=="
+secured: "uRkpbrP/EN/W8nU0HSIL+704C8LgYbJg9YcA8CPoE8M3eivqorcooeIKjG+611VYwa5DwTClrfk0w7L67+vyvJn8UQOEr/4apnRKZfKNA6LrTDf5/s2pyQjE++PI5O9AU4plrtgsyWLmz+eXzFp2Yc+IL3GIvov7NhY4B9leXcO75ZO3N8V5tlrC/Qv9zhI6lFtim/K/Q3hucrcn1VICtq0q5NVcYnefMMHeN4pZFHeGG3U1aAVkQ2/LfuPdJPgclDEgbIeAN8CMvckbf/qQqcnSsGDeZtSuRgpi5lCXmWYaW0l//dCvAxBb+B6ACoZ+;RFbhIhrt2GOLyzIAofZsEQ=="
 ---
 

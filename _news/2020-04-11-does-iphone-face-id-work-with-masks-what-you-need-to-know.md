@@ -8,7 +8,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/news/does-iphone-face-id-work-with-mas
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/does-iphone-face-id-work-with-masks-what-you-need-to-know"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     title: "Does iPhone Face ID work with masks? What you need to know"
 
 related:
-  - title: "How to get Face ID to work on your iPhone with a mask on"
-    excerpt: "Thus, unlocking your phone using Apple’s facial recognition software isn’t the easiest when grocery shopping, for instance. There doesn’t appear to be an easy solution to get your iPhone to recognize your face while you have a mask on. However, there are several hacks available online, most of which involve going through the setup process ..."
-    publishedDateTime: 2020-04-10T12:36:00Z
-    webUrl: "https://www.cleveland.com/coronavirus/2020/04/how-to-get-face-id-to-work-on-your-iphone-with-a-mask-on.html"
-    ampWebUrl: "https://www.cleveland.com/coronavirus/2020/04/how-to-get-face-id-to-work-on-your-iphone-with-a-mask-on.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/coronavirus/2020/04/how-to-get-face-id-to-work-on-your-iphone-with-a-mask-on.html?outputType=amp"
+  - title: "Tricks to unlock your smartphone in coronavirus face mask"
+    excerpt: "Get all the latest news on coronavirus and more delivered daily to your inbox. Sign up here. Continue Reading Below Unlocking smartphones with facial recognition became more difficult once health officials began urging everyone to wear face masks to slow the spread of COVID-19. Naturally, scores of videos have surfaced online to try and help ..."
+    publishedDateTime: 2020-04-10T18:00:00Z
+    webUrl: "https://www.foxbusiness.com/lifestyle/smartphone-face-masks"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 44
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 24
     images:
-      - url: "https://arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/WZPY5QO4XBCFNMXQS3ORCUYLPA.jpg"
-        width: 2576
-        height: 1712
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/04/0/0/mask-phone-iStock.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
 
 secured: "gg6hv6yCN6nFLitnOcK/2FpH+HzPFnZZcJbZrDuZHy56v0i+eGACf4UgL1/DlqYtDmnGMb01vfCJapKc9nGppLYF4JwIR+0Tj0KJlJVvw59rwlcxi+kipDt2lOwM+l9yA45kKUuub1B5eDRjqHsT95CT4cpduDfj3moM+d5yX3DtUSsYipRSrE85qhvRyJLEgcjgNVqJmrkUBkgUlmvYWGsPCZ5lb1fHbq1k+mNg3UQe5fYdjFeg+ekzvEdT1sU1/96VkqmEAbrE7OuUchIVcoC739TeVU3ZMb9gOL/AYDOFE1pZq0CYhonIvrqEGgXmzXNY3dRqHrdmoci0llGFf5EGFXVH+w1h5uwNi0gDxhGw/JAe6iGQxiqBTTWPmxsyhpkASI/F7OZ+NTO8262znoWz0XfCUbAe66cKQ9F1/wRpqA/EiEc1uQkQkzPJRcAOcy1VEhsSX2pXJFDa5oaBCXS/tZqt7QuGFpF6b4uMO+o=;5EBKCmM5icqLHL02sRf0hw=="
 ---

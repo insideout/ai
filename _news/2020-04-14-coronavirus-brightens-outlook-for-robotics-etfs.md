@@ -7,8 +7,8 @@ webUrl: "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robot
 ampWebUrl: "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp"
 type: article
-quality: 84
-heat: 84
+quality: 86
+heat: 86
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 secured: "PH1IOzgMMS2dJOQUUgdqLphyUN8QHnHx+qXePizT6g4He+XvRRBG9nNC/Qh0mWhU5mLRbK7oDWLHPw2dGstvp+isgJC8MjqLJ5hKezJtYLgSNBaLw/Xbtd+0AdXvWipAyWHdTG4+r+caV9Oto+T4kEMymmibKjgw3c9dNPWkV4Cv4aM6ZhXZKq/dno6kiKKRZOelBv8Z6zq0R1ZNz93svLjJcNkP1YXEJDOK/JSn0ETSaKyLibL7CN6jGkE6r13o698C4hjGaYxwl99u0H/xFj/yhe5BD7CXTwNZyxhoD4UvmWfYAXZYxaw3AMkn8b5FIfgFpx+HCBLKYrSV2wNO5K4vcZHYW4XKycuhhZ5KJFzs3ETqCHhJxEGWU9I7V7LWFKdDVQYO9rqpJiXegKyfZcnbaehS0UZK5rkNNacffdpYEjNeBUqGxa/FLvDFYuFlxf2fkOuir0pCIu1/c2kcMe1MVUSPsJbLG4ZkKpnCiF4=;nJykdJa9CNEre9q2vcXKjA=="
 ---

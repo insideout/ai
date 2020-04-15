@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-08-huawei-korea-to-reportedly-enter-gpu-server-market-later-this-year.md",
+      "title": "Huawei Korea to reportedly enter GPU server market later this year",
+      "excerpt": "While Huawei already is one of the very few smartphone chipset markers, the company is now planning to enter the Graphic Processing Unit aka GPU server market which is currently being dominated by NVIDIA. As per the report coming from Korea, Chinese giant Huawei will be setting up a Cloud and AI Business Group in South Korea in year.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/08/huawei-korea-gpu-server-market/?amp",
+      "publishedDateTime": "2020-04-07T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2019/03/huawei-logo.jpg",
+          "width": 600,
+          "height": 450,
+          "title": "Huawei Korea to reportedly enter GPU server market later this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-creepy-face-recognition-firm-clearview-ai-sure-has-a-lot-of-ties-to-the-far-right.md",
       "title": "Creepy Face Recognition Firm Clearview AI Sure Has a Lot of Ties to the Far Right",
       "excerpt": "Clearview AI, the dystopian face recognition company that claims to have amassed a database of billions of photos, signed contracts with hundreds of law enforcement agencies, and shopped its app around to the rich and powerful, has extensive links to the far right, according to a Huffington Post investigation. In fact, one of its associates ...",
@@ -174,6 +219,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
+      "title": "AWS to Azure services comparison",
+      "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "AWS to Azure services comparison",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-security-measure-or-big-brother-civil-rights-groups-ask-amazon-to-stop-selling-its-facial-recognition-system-to-law-enforcement.md",
       "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
       "excerpt": "The technology, called Rekognition, was released in 2016 through Amazon’s cloud computing division. For a low price, it helps users identify people, objects, scenes and activities in videos or ...",
@@ -333,6 +423,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
+      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -912,43 +1047,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
-      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "publishedDateTime": "2020-04-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "9 AI Stocks We’re Leaning on More and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
       "title": "5 practical reasons to embrace artificial intelligence",
       "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
@@ -992,95 +1090,6 @@
         "AI",
         "AI in Robotics",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
-      "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
-      "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
-      "publishedDateTime": "2020-04-07T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-10.01.02-AM-e1586253515890.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-autonomous-shuttles-ferry-covid-19-tests-around-florida.md",
-      "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
-      "excerpt": "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348874",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348874",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874",
-      "publishedDateTime": "2020-04-07T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

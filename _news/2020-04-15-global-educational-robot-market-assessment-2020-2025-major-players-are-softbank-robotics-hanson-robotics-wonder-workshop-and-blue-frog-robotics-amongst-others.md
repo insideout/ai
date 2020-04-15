@@ -23,6 +23,6 @@ images:
     height: 627
     title: "Global Educational Robot Market Assessment 2020-2025: Major Players are SoftBank Robotics, Hanson Robotics, Wonder Workshop, and Blue Frog Robotics, Amongst Others ..."
 
-secured: "nVNu5WchvmX72gEk6RZAymXDyAvmHXCiuU9/JSTTP7nelTzNSogfuH275hMW4o+Y5Pg7ViQrJBktdd6A/NTG642nTWQnrdtlqAheNjXRjxJoFu4YGgoIHESHceVfyJnl4TgLlZfF5Ewl2CDhSP6vASLb6Yu7b+dLituXatCu/YulOblTclIv1+sbiQO6CeorW134YDFFAEcEl8xVkgS8x+mMzJmoknlv4kz5EDyrZ+7GlKpYMsVQ1Re3P/fQW6IzRluq2H/R+dQPnacJKvUdws/JahE+fabxvWWjQs+XdwkDk61qriVGBHM6iH9iaYME;pvONR0HWUG30wI4USCZHcg=="
+secured: "/A4bk7b7gFL55oRjFPFFEO+CU7mMl31JynEnTfvvOKeXcpDGHGBhzNTMExk7xCIz2KRN8x/ThEQ/J+L+bayDc+jH3fXSw7/hCD9GjyWgQcgqdB349iEmjBrZr+B3L9roMqpynMF1DfXiAFtOu4HQcwvy6QRoHWeBrYLrT3Mcg1Bcb/IWO+uOArnsIQ8wDKWcgiaBSB4hqrDBwRR4MyHbaa34YVHkT9zd9uCHPzjk4jISUGl19KUJr+scpQJSeV/hSekW9OsZZIAegGCiupVvQgSEWtaBn15NbybLq5uvsQZnlx8Cf0/rWHljqHeVsqi24SaFB1lKNtBParcXsPrlu4pziReYWDNjOSt+BJdEEab88Se8D8lTXE/sRy2Zy3hX6mdet/kinjZTqMQM+mSVWyDmKQf154JHa9X+jNWjc9ZBSwluzxvBdNw9V87OQGE7tycEr/zpVxeqwT451GzswgIL48D6icdDC++q7wCLgzE=;rC8HFXo+vrwvX8OzmN+gMg=="
 ---
 

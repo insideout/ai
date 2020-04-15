@@ -2,8 +2,8 @@
 category: news
 title: "How artificial intelligence will reshape the contact centre in 2020"
 excerpt: "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ..."
-publishedDateTime: 2020-03-31T05:10:00Z
-webUrl: "https://itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html"
+publishedDateTime: 2020-03-31T04:59:00Z
+webUrl: "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html"
 type: article
 
 provider:
@@ -14,6 +14,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "OFAdtBrlErR5eWQ+OTEkkOGMIe2YV/kXM7Z40d6qe9wnIybgj2lcwx5NY3jtCCJaaqhxtGwt/WIz+TGHQcM+t5i0gWJ1R9erxk/jugjHYQ7TmP34Y499jsB0cDj3pCrrqiZr9iQ6O6E+0DB6MvjfEsiNRLVB1Oz6uEJCaOYhnrdHtWjbV8/LNzS4Cjo5+lWCs5BXZQdgH00JAC3dtdrdS9bTo+uWPw91FujENLSE8Kwn7cTn3AMDmbqTBrLY9Ib+w5uNthStN4jKpBkYdWRRaom0FBI3Db8demB2dxKfh9JG3pOIfExdso6dDpyIgkr+U3rcKF8S1EnNXiqT2GfJSoWPwwXy5hZQWexT9pcPxswx8yqCjW25Eq9vHoW8JYGBl7i7FEGneJbXcrqoH+C0RGejV30yOaqcvgtb+MJ85PI4zfzZJPFyruCg1HUQ1FT2pw3U4yNaFXBF4Oks/pF0MoOH8Z60Q4/ZNA0vPxxortI=;byi2LhR65Mna9NOjUX78yA=="
+images:
+  - url: "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg"
+    width: 375
+    height: 450
+    title: "How artificial intelligence will reshape the contact centre in 2020"
+
+secured: "YsPXs/K0WgBwrAoZ0BYrEPqzPIA3VdENBG9uoMraKw7aZiCoLOWdaKgeAhxEhH5W0XclqVzvKr751Au6zpdAVTUjOIZ+Qe5+6awJ1sc0X0abjXfDnDFpaEXB5nywkBkZpDaOOC4wURrD/97oy58n5N5TP6sTUByBAmNn16Jvi/OX8zjIo28DsrQqBmOSUIQ+uzJmJ7EO8zOOw85CsiEFfO5VPBCN5WkyZ7vdDukSxDf57lNG0mHzPBZZtrWPhGo+OA3cnNzJx+/cWzD2U9vQoIJLlPzhoHHe/+t6Eu3u056nRB8CI/fyNnB4F0rInZX/;k8PcNm0B4wJs8dLUS0ZLkw=="
 ---
 

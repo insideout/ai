@@ -2,6 +2,277 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-25-aws-delivers-sessions-online-at-nvidia-gtc-digital.md",
+      "title": "AWS delivers sessions online at NVIDIA GTC Digital",
+      "excerpt": "Starting Tuesday, March 24, 2020, NVIDIA GTC Digital is offering courses for you to learn AWS best practices to accomplish your ML goals faster and more easily. Registration is free, so register now. The following sessions are available from AWS: \nS22492: Train BERT in One Hour Using Massive Cloud Scale",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-delivers-sessions-online-at-nvidia-gtc-digital/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T17:57:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": "AWS delivers sessions online at NVIDIA GTC Digital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
+      "title": "Building a trash sorter with AWS DeepLens",
+      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
+          "width": 1200,
+          "height": 545,
+          "title": "Building a trash sorter with AWS DeepLens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
+      "title": "Making accurate energy consumption predictions with Amazon Forecast",
+      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T08:17:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
+          "width": 1000,
+          "height": 374,
+          "title": "Making accurate energy consumption predictions with Amazon Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
+      "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+      "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379",
+      "ampWebUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
+      "publishedDateTime": "2020-03-24T03:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iz0nebw8k7iptywzjctx.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-investigating-performance-issues-with-amazon-codeguru-profiler.md",
+      "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+      "excerpt": "Amazon CodeGuru (Preview) analyzes your application’s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/investigating-performance-issues-with-amazon-codeguru-profiler/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T09:58:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/investigating-performance-codeguru-9.gif",
+          "width": 800,
+          "height": 478,
+          "title": "Investigating performance issues with Amazon CodeGuru Profiler",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
+      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
+      "publishedDateTime": "2020-03-22T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
+          "width": 1200,
+          "height": 675,
+          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
       "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
       "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
@@ -879,228 +1150,6 @@
       "provider": {
         "name": "openpr.com",
         "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aws-makes-bee-gains-dangles-r365m-to-sas-smes.md",
-      "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-      "excerpt": "Additionally, says AWS, it will enable more organisations across Sub-Saharan Africa to leverage advanced technologies such as artificial intelligence, machine learning, IOT, mobile services, and more to drive innovation. As SA awaits the launch of the facilities, there is already some excitement in the market. Last year, insurer Old Mutual said ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/nWJadvbenwBqbjO1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/03/Prabashni-Naidoo-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
-      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
-      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
-      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
-      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
-      "publishedDateTime": "2020-03-09T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Adweek",
-        "domain": "adweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
-          "width": 640,
-          "height": 360,
-          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
-      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
-      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
-      "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
-      "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now because it's the centrepiece for digital transformation,\" he said. Abhishek spoke about how the mission of AWS is to put ML in the hands of every ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups",
-      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
-      "publishedDateTime": "2020-03-09T03:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/AWSCloudDayAhmedabadImage-1583750134111.png?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-07-automatic-image-classification-with-amazon-sagemaker-ground-truth.md",
-      "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
-      "excerpt": "Source: Amazon Web Services Source: Amazon Web Services 3. Navigate to SageMaker Ground Truth — Labelling Jobs. As we can see, previous labelling jobs are also visible. Click “Create Labelling ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@firstclassanalyticsmg/automatic-image-classification-with-amazon-sagemaker-ground-truth-ae143349e896",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-07T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1103/1*P5rKQxp9d_mldFxglIECJw.png",
-          "width": 1103,
-          "height": 764,
-          "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
-      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
-      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

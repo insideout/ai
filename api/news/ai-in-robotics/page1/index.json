@@ -5,7 +5,7 @@
       "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
       "title": "Coronavirus Brightens Outlook for Robotics ETFs",
       "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14",
@@ -27,7 +27,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {

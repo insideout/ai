@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
+      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
+      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
+      "publishedDateTime": "2020-04-10T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
+          "width": 771,
+          "height": 578,
+          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-probeat-microsoft-teams-video-calls-and-the-ethics-of-invisible-ai.md",
       "title": "ProBeat: Microsoft Teams video calls and the ethics of invisible AI",
       "excerpt": "Governments and companies alike have been abusing AI in a variety of ways. But even AI features clearly designed to help humans do something as basic as communicate clearly come with ethical questions for the companies and developers that build them. The discussion Aichner and I had gave me a brief glimpse into what businesses and developers ...",
@@ -861,35 +899,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
-      "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
-      "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-09-google-open-sources-data-set-to-train-and-benchmark-ai-sound-separation-models.md",
       "title": "Google open-sources data set to train and benchmark AI sound separation models",
       "excerpt": "Google today announced the release of a new data set — the Free Universal Sound Separation data set, or FUSS for short — intended to support the development of AI models that can separate distinct sounds from recording mixes. The use cases are potentially endless, but if it were to be commercialized, FUSS could be used in corporate settings ...",
@@ -930,6 +939,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
+      "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
+      "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg",
+          "width": 720,
+          "height": 878,
+          "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1021,54 +1067,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
-      "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
-      "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
-      "publishedDateTime": "2020-04-09T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/microsoft-teams-real-time-noise-suppression-chips.png?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware",
-        "AI Ethics"
       ]
     }
   ],

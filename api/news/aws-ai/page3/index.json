@@ -2,6 +2,228 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-10-aws-makes-bee-gains-dangles-r365m-to-sas-smes.md",
+      "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
+      "excerpt": "Additionally, says AWS, it will enable more organisations across Sub-Saharan Africa to leverage advanced technologies such as artificial intelligence, machine learning, IOT, mobile services, and more to drive innovation. As SA awaits the launch of the facilities, there is already some excitement in the market. Last year, insurer Old Mutual said ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/nWJadvbenwBqbjO1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/03/Prabashni-Naidoo-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology.md",
+      "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+      "excerpt": "Jay Stanley, senior policy analyst for the ACLU, which has previously expressed concerns about Amazon technology like Rekognition, said the ecommerce giant’s ability to retain data in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/",
+      "ampWebUrl": "https://www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "cdnAmpWebUrl": "https://www-adweek-com.cdn.ampproject.org/c/s/www.adweek.com/retail/amazon-wants-other-retailers-to-go-cashierless-with-its-just-walk-out-technology/amp/",
+      "publishedDateTime": "2020-03-09T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.adweek.com/wp-content/uploads/2020/03/nike-app-free-hed-page-2020-640x360.png",
+          "width": 640,
+          "height": 360,
+          "title": "Amazon Wants Other Retailers to Go Cashierless With Its Just Walk Out Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
+      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-at-aws-cloud-day-2020-in-ahmedabad-aws-architects-discussed-how-their-cloud-solutions-could-help-startups-scale.md",
+      "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
+      "excerpt": "The next session by Abhishek Mahanty, Senior Solutions Architect, AWS, covered the Artificial Intelligence (AI) and Machine Learning (ML) services provided by AWS. \"AI and ML are super popular now because it's the centrepiece for digital transformation,\" he said. Abhishek spoke about how the mission of AWS is to put ML in the hands of every ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups",
+      "ampWebUrl": "https://yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/03/aws-cloud-day-ahmedabad-cloud-solutions-startups/amp",
+      "publishedDateTime": "2020-03-09T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/AWSCloudDayAhmedabadImage-1583750134111.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "At AWS Cloud Day 2020 in Ahmedabad, AWS architects discussed how their Cloud solutions could help startups scale",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-07-automatic-image-classification-with-amazon-sagemaker-ground-truth.md",
+      "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
+      "excerpt": "Source: Amazon Web Services Source: Amazon Web Services 3. Navigate to SageMaker Ground Truth — Labelling Jobs. As we can see, previous labelling jobs are also visible. Click “Create Labelling ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@firstclassanalyticsmg/automatic-image-classification-with-amazon-sagemaker-ground-truth-ae143349e896",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-07T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1103/1*P5rKQxp9d_mldFxglIECJw.png",
+          "width": 1103,
+          "height": 764,
+          "title": "Automatic Image Classification with Amazon SageMaker Ground Truth",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
+      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
+      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-surprise-aws-leads-in-cloud-ai-services-ranking.md",
       "title": "Surprise! AWS Leads In 'Cloud AI Services' Ranking",
       "excerpt": "Everyone reading this article knows that the cloud space is hot. And it's comprised of many different types of services and platforms to complete a full stack. Ten years ago, it was sufficient to just call the space “cloud”,",
@@ -1038,271 +1260,6 @@
           "width": 1260,
           "height": 630,
           "title": "175+ Customers Achieve Machine Learning Success with AWS’s Machine Learning Solutions Lab",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-aws-assists-premier-league-analytics.md",
-      "title": "AWS assists Premier League analytics",
-      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
-      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "publishedDateTime": "2020-02-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
-          "width": 590,
-          "height": 350,
-          "title": "AWS assists Premier League analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-14-simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators.md",
-      "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
-      "excerpt": "Amazon SageMaker Operators for Kubernetes allows you to augment your existing Kubernetes cluster with SageMaker hosted endpoints. \nMachine learning inferencing requires investment to create a reliable and efficient service. For an XGBoost model, developers have to create an application, such as through",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-inference-on-kubernetes-with-amazon-sagemaker-operators/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-14T12:18:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/02/EKxHDbaWkAEIegr.png",
-          "width": 800,
-          "height": 400,
-          "title": "Simplify Machine Learning Inference on Kubernetes with Amazon SageMaker Operators",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker.md",
-      "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
-      "excerpt": "As machine learning (ML) becomes a larger part of companies’ core business, there is a greater emphasis on reducing the time from model creation to deployment. In November of 2019, AWS released the AWS Step Functions Data Science SDK for Amazon SageMaker, an open-source SDK that allows developers to",
-      "heat": 190,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-model-retraining-and-deployment-using-the-aws-step-functions-data-science-sdk-for-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T10:22:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/automating-model-retraining-3.gif",
-          "width": 800,
-          "height": 397,
-          "title": "Automating model retraining and deployment using the AWS Step Functions Data Science SDK for Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-how-to-teach-artificial-intelligence.md",
-      "title": "How To Teach Artificial Intelligence",
-      "excerpt": "Every high school graduate should have an appreciation of how AI is reshaping the economy and the career landscape—and the option of educational pathways that lead to college and meaningful high wage work.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomvanderark/2020/02/12/how-to-teach-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-02-12T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x572/https://specials-images.forbesimg.com/imageserve/5e4280f7298c2a00065f7857/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 572,
-          "title": "How To Teach Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025.md",
-      "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-      "excerpt": "The \"Global Artificial Intelligence (AI) in Healthcare Market Is Anticipated To Reach Around USD 17.8 Billion By 2025\" Research Report provides the newest industry data and industry future trends, allowing you to identify the products and end users driving Revenue growth and profitability.",
-      "heat": 175,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-hits-record-value-of-usd-178-billion-by-2025-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Global Artificial Intelligence (AI) in Healthcare Market Hits Record Value of USD 17.8 Billion By 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-flagging-suspicious-healthcare-claims-with-amazon-sagemaker.md",
-      "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
-      "excerpt": "The National Health Care Anti-Fraud Association (NHCAA) estimates that healthcare fraud costs the nation approximately $68 billion annually—3% of the nation’s $2.26 trillion in healthcare spending. This is a conservative estimate; other estimates range as high as 10% of annual healthcare expenditure,",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/flagging-suspicious-healthcare-claims-with-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T09:12:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2019/12/16/healthcare-fraud-detection-8.gif",
-          "width": 897,
-          "height": 514,
-          "title": "Flagging suspicious healthcare claims with Amazon SageMaker",
           "attribution": null
         }
       ],

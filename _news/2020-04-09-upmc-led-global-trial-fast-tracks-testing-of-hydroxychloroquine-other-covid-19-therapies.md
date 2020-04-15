@@ -2,18 +2,24 @@
 category: news
 title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
 excerpt: "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ..."
-publishedDateTime: 2020-04-09T18:20:00Z
-webUrl: "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html"
+publishedDateTime: 2020-04-09T17:40:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "5EKJ6KoAse8opy7cDNRoJTnWxLKDeTgpEWaGFB/FZU2XN1mJgqti5aq0FUuvuCUcYBv5WKXzUZ+NltKDS9sx9GZDoPBZeanDlHqlzeuY4jmTLife8stcF3W3IoEP4VShDzH+ARSyUX0EGoih+foDS872BkQU65v1EtiPiLtTq0A6PzLX+KDI9xCpnIM1Y/2bx0XpcQQqXGg91cdN3uf+ltW2Al3FBPh5SuMVfn169uVHOblFUgLNXin0YKWbvLw8iAnxdBqEa7+7MuH9SB4T8bD5H7O5X3LvRHquLotcFvknheEkHpNffN6LyIg9h6lSqp7sQhK5qQnQB1RnT1qNd0zDjPK4KD1yR/A2E74RxR/XSirufN/IYMk5sk3UC+X0avwvN/4kLI2c2X7eeNesilb3V+GzdKAlq1sczQQoVs5jyxjiNdZRW6fZq1LDjYrqPDlr85Ejw/sbnMD9mZtj76Gfg362XQAsPhLMwdYnMiY=;UKFwHydR3Hc3Ebm1sEMqOA=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg"
+    width: 720
+    height: 878
+    title: "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies"
+
+secured: "xg9BrlKMPdlcE/csjCkpMBlNNK53Z9jWRUpYp9U4qE0gjc0VPMv/nDXLr9YZqdslFkjvveAXJwlQQ66wZcuuvLL+RLsdpPcsF8GgOvQN4b0bp3o1ekieU9ZUDa81/7z4DDkh0FWXrnidvNIhU9UAFWb4+ocUX/rmF6kKcraT6gPtvdLlplgAmEaiaZ0ml+DfATaiKBvRE9yzbMDdr6aeMJ9mVAUccwfFtzJtSO8IV0BmSMZpRRHBbjITzV4Tza+9IKz83RckPbnGsEPvLLsKjBfmamzPy2QEbAq7DdtG7wjO0YmPS8cCk4N7f62LY16a;U+nRmsr2TaigJc20l0JusA=="
 ---
 

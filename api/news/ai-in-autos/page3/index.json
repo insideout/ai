@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-24-global-and-china-hd-map-industry-report-2019-2020.md",
+      "title": "Global and China HD Map Industry Report, 2019-2020",
+      "excerpt": "HD map industry study: the HD map market is burgeoning with the roll-out of L3 autonomous vehicles. The automakers (except Volvo, Ford and NIO that claimed a leap over L3) have set foot in L3 autonomous vehicle successively,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global and China HD Map Industry Report, 2019-2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-nvidia-leads-in-self-driving-car-technology-report.md",
       "title": "NVIDIA Leads in Self-Driving Car Technology: Report",
       "excerpt": "A mass rollout of self-driving cars is still years away, but more than 70 companies around the world are investing heavily in the technology. These companies span legacy automakers, suppliers, start-ups, and tech giants. Every year, Navigant Research releases a report that ranks the top vendors who are developing automated vehicle (AV ...",
@@ -98,14 +143,14 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15649371/global-chinese-hd-map-markets-insight-2019-2020-industry-leaders-are-amap-baidu-map-navinfo-and-em",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15649371",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15649371",
-      "publishedDateTime": "2020-03-24T05:32:00-07:00",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005473/0/en/Global-Chinese-HD-Map-Markets-Insight-2019-2020-Industry-Leaders-are-Amap-Baidu-Map-NavInfo-and-eMapgo.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1196,35 +1241,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-ai-market.md",
-      "title": "Artificial Intelligence (AI) Market",
-      "excerpt": "In This report studies of MarketStudyReport LLC the Artificial Intelligence (AI) in Fintech market status and outlook of Global and major regions, from angles of players, countries, product types ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1970600/whats-driving-an-artificial-intelligence-ai-in-fintech-market",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

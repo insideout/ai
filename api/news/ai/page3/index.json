@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
+      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
+      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
+      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
+      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
+      "publishedDateTime": "2020-04-10T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-karma-l4-e-flex-van-would-make-a-killer-self-driving-e-camper-van.md",
       "title": "Karma L4 E-Flex Van would make a killer self-driving e-camper van",
       "excerpt": "Beyond launching electrified cars of its own, Karma Automotive plans to sell its E-Flex electrified platform to other auto manufacturers looking to quickly bring electric models to market. The E-Flex will be available in various configurations to support a variety of vehicle styles, ranging from everyday utility models to hypercars. The first E ...",
@@ -436,35 +473,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
-      "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
-      "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-09-google-open-sources-data-set-to-train-and-benchmark-ai-sound-separation-models.md",
       "title": "Google open-sources data set to train and benchmark AI sound separation models",
       "excerpt": "Google today announced the release of a new data set — the Free Universal Sound Separation data set, or FUSS for short — intended to support the development of AI models that can separate distinct sounds from recording mixes. The use cases are potentially endless, but if it were to be commercialized, FUSS could be used in corporate settings ...",
@@ -505,6 +513,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-upmc-led-global-trial-fast-tracks-testing-of-hydroxychloroquine-other-covid-19-therapies.md",
+      "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
+      "excerpt": "\"We've developed a way to do that with an adaptive clinical trial model that relies on a type of artificial intelligence known as reinforcement learning to identify the best, evidence-backed therapy for COVID-19 much faster than using the traditional scientific approach.\" Before COVID-19 emerged, Angus and a wide range of international ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg",
+          "width": 720,
+          "height": 878,
+          "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1261,51 +1306,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-startup-stimulus-how-logjams-and-ethics-are-impacting-federal-loans-for-tech-companies.md",
-      "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
-      "excerpt": "Several startup founders attributed their experience, good or bad, to the bank facilitating the loan. Dan Wachtler, CEO of an artificial intelligence upstart called Darklight, immediately recognized that the type of bank he chose would impact his likelihood of success. Wachtler’s background working with big banks as clients informed his decision.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/",
-      "ampWebUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
-      "publishedDateTime": "2020-04-08T18:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/20190209_145224-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

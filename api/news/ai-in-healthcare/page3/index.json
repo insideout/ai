@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-25-ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.md",
+      "title": "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare",
+      "excerpt": "A working group of 52 healthcare and tech organizations convened by the Consumer Technology Association released on Feb. 25 a common framework for the development and use of artificial intelligence technology in healthcare. The set of 11 definitions and characteristics is the first standard regarding the use of AI in healthcare to be accredited ...",
+      "heat": 261,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-techchill-2020-is-hot-for-connectivity.md",
       "title": "TechChill 2020 Is Hot For Connectivity",
       "excerpt": "Analyst Will Townsend provides his connectivity-related takeaways from the TechChill 2020 startup event in Riga, Latvia.",
@@ -1256,43 +1293,6 @@
       "topics": [
         "AI",
         "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
-      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Healthcare"
       ]
     }

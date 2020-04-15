@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-13-huawei-said-to-be-eyeing-the-server-gpu-market-first-chips-to-arrive-later-this-year.md",
+      "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
+      "excerpt": "And, best of all, it comes with PCIe 4.0, HCCS, and RoCE interface support. It would make sense for Huawei to move into GPUs for high-performance computing for scenarios that require general-purpose capabilities as opposed to AI chips which are mostly tailored for training neural networks in deep learning applications. We also know the Chinese ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84806-huawei-eyeing-server-gpu-market-first-chips-arrive.html",
+      "publishedDateTime": "2020-04-13T14:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-13-ts3_thumbs-36c.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Huawei said to be eyeing the server GPU market, first chips to arrive later this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-top-5-things-to-know-about-neuro-symbolic-artificial-intelligence.md",
       "title": "Top 5 things to know about neuro-symbolic artificial intelligence",
       "excerpt": "What do you get when you combine neural networks with symbolic AI? The answer is: Neuro-symbolic artificial intelligence. Tom Merritt lists five things you should know about it. You hear a lot about neural networks and deep learning these days. They can do a lot of impressive things like create pictures of cats that never existed and other ...",
@@ -1033,44 +1078,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
-      "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
-      "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/new-jersey/princeton/infragistics-adds-predictive-analytics-machine-learning-more",
-      "ampWebUrl": "https://patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/new-jersey/princeton/amp/28686297/infragistics-adds-predictive-analytics-machine-learning-more",
-      "publishedDateTime": "2020-04-10T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/961400/20200410/012804/styles/patch_image/public/reveal-update-image-4-20___10132652676.jpg?width=984",
-          "width": 771,
-          "height": 578,
-          "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

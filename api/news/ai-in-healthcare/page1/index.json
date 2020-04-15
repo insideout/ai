@@ -83,19 +83,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-04-upmc-global-trial-fast-tracks.html",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/uop-ulg040920.php",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T11:20:00-07:00",
+      "publishedDateTime": "2020-04-09T10:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228910_web.jpg",
+          "width": 720,
+          "height": 878,
+          "title": "UPMC led global trial fast tracks testing of hydroxychloroquine, other COVID-19 therapies",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"
@@ -919,6 +927,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
+      "title": "Artificial intelligence can speed up the detection of stroke",
+      "excerpt": "Scientists have created a fully automated method for acute ischemic lesion segmentation on brain MRIs and shows how artificial intelligence ... for endovascular therapy. Lesion segmentation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200330152137.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-can-ai-detect-your-emotion-just-by-how-you-walk.md",
       "title": "Can AI Detect Your Emotion Just By How You Walk?",
       "excerpt": "One of the most interesting research applications of socially-intelligent robots is their ability to read body language.",
@@ -1193,43 +1238,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-artificial-intelligence-in-healthcare-why-transparency-matters.md",
-      "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-      "excerpt": "The growing presence of artificial intelligence during the care delivery process continues to show potential ... algorithms and machine learning to accurately detect cancer and heart disease; and robot-assisted therapy for recovering stroke patients. “We’re getting to a point where machines can start telling us things we don’t know ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2020/03/artificial-intelligence-healthcare-why-transparency-matters-perfcon?amp",
-      "publishedDateTime": "2020-03-24T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202003/20200324_HT_Web_HIMSS-AI-panel_0.jpg?itok=NPF-w-tz",
-          "width": 1440,
-          "height": 500,
-          "title": "Artificial Intelligence in Healthcare: Why Transparency Matters",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

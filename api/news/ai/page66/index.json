@@ -2,6 +2,437 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2020-01-31-can-we-keep-facial-recognition-from-enabling-a-surveillance-state.md",
+      "title": "Can we keep facial recognition from enabling a surveillance state?",
+      "excerpt": "Researchers have been pursuing facial recognition technologies since the 1960s but its only been in the last few years that these systems have become so alarmingly capable. Neural networks able to match faces across thousands of features with better than 98 percent accuracy as well as an explosion of available training data sets have fueled the ...",
+      "heat": 179,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/31/can-we-keep-facial-recognition-from-enabling-a-surveillance-stat/",
+      "publishedDateTime": "2020-01-31T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://img.vidible.tv/prod/2020-01/31/5e33a59c7a51ca78cb66fec7/5e33b0dc093398265b55af20_o_U_v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Can we keep facial recognition from enabling a surveillance state?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-oscar-nominated-live-action-shorts-tragedies-near-tragedies-and-soccer-loving-kids.md",
+      "title": "Oscar-nominated live-action shorts: Tragedies, near-tragedies and soccer-loving kids",
+      "excerpt": "The five live-action short films vying for the 2020 Oscar either dance on the border of tragedy or fall headlong into it ... “I heard the recording of the emergency call on YouTube and it stuck with me for months,” said Girard. “I started to create a back story to every character so I could understand them and find their own particular ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.latimes.com/entertainment-arts/movies/story/2020-01-31/oscar-nominated-live-action-shorts",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-ibm-is-replacing-ginni-rometty-after-8-years-of-rocky-results.md",
+      "title": "IBM Is Replacing Ginni Rometty After 8 Years of Rocky Results",
+      "excerpt": "Apart from company founder Thomas Watson, who retired at the sprightly age of 82 ... As much as I appreciated Rometty's ideas, I'm excited to see Arvind Krishna's artificial intelligence focus and Jim Whitehurst's open-source mentality steering IBM into the next decade.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/31/ibm-is-replacing-ginny-rometty-after-8-years-of-ro.aspx",
+      "publishedDateTime": "2020-01-31T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555611%2Fibm-ceo-arvind-krishna.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 907,
+          "title": "IBM Is Replacing Ginni Rometty After 8 Years of Rocky Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-how-ai-in-healthcare-will-influence-the-path-to-value.md",
+      "title": "How AI In Healthcare Will Influence The Path To Value",
+      "excerpt": "From medical malpractice to single-payer healthcare, there is no shortage of topics to debate in healthcare. Though provision, funding and government involvement in our system continue to be central topics,",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-ai-in-healthcare-will-influence-the-path-to-value/amp/",
+      "publishedDateTime": "2020-01-31T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1147429610/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How AI In Healthcare Will Influence The Path To Value",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs.md",
+      "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
+      "excerpt": "AI comes in many different forms, and identifying which type is most suitable for a particular use case isn’t always easy.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/not-all-ai-is-created-equal-how-to-select-the-right-type-for-your-business-needs/amp/",
+      "publishedDateTime": "2020-01-31T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/888421376/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Not All AI Is Created Equal: How To Select The Right Type For Your Business Needs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-how-artificial-intelligence-is-improving-the-pharma-supply-chain.md",
+      "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+      "excerpt": "When coupled with machine learning and predictive analytics, the AI transformation goes much deeper than smarter search functions.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/how-artificial-intelligence-is-improving-the-pharma-supply-chain/amp/",
+      "publishedDateTime": "2020-01-31T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/807443170/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How Artificial Intelligence Is Improving The Pharma Supply Chain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology.md",
+      "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+      "excerpt": "The first step, which is the most important, is to view the enterprise AI challenge as a business problem instead of a technical problem.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/31/misconception-1-of-5-enterprise-ai-is-primarily-about-the-technology/amp/",
+      "publishedDateTime": "2020-01-31T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/921518908/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "Misconception 1 (of 5): Enterprise AI Is Primarily About The Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
+      "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
+      "excerpt": "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-31T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-ai-from-experimentation-to-adoption.md",
+      "title": "AI: from experimentation to adoption",
+      "excerpt": "has adopted IBM Watson and IBM Cloud to develop Ava, a new AI virtual Help-to-Buy mortgage adviser. Ava helps first time home buyers onto the property ladder by offering round the clock support ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/ai-from-experimentation-to-adoption",
+      "ampWebUrl": "https://www.techradar.com/amp/news/ai-from-experimentation-to-adoption",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/ai-from-experimentation-to-adoption",
+      "publishedDateTime": "2020-01-31T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": "AI: from experimentation to adoption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-russias-use-of-facial-recognition-challenged-in-court.md",
+      "title": "Russia's use of facial recognition challenged in court",
+      "excerpt": "Russia's increasing use of facial recognition technology is being challenged by a civil rights activist in court. Mayor of Moscow Sergei Sobyanin said earlier this month that live facial recognition cameras were operating \"on a mass scale\" in the city. This, argues Alyona Popova, poses a threat to privacy and human rights. She is being ...",
+      "heat": 939,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51324841",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51324841",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51324841",
+      "publishedDateTime": "2020-01-31T03:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1772/production/_110720060_moscowcameras.gif",
+          "width": 1024,
+          "height": 576,
+          "title": "Russia's use of facial recognition challenged in court",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-01-31-top-cloud-providers-in-2020-aws-microsoft-azure-and-google-cloud-hybrid-saas-players.md",
       "title": "Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud, hybrid, SaaS players",
       "excerpt": "AI, machine learning and analytics are the upsell opportunities for Google Cloud Platform ... (See: Salesforce plays multi-cloud game with Microsoft Azure, Google Cloud as AWS contract likely up for renewal) Alibaba has scaled rapidly with a bevy of enterprise partners. What remains to be seen is whether Alibaba can expand beyond China.",
@@ -859,435 +1290,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you.md",
-      "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-      "excerpt": "IBM estimates it takes 200 to 500 samples of hand-labeled images for an AI object-recognition model to detect a specific object. SEE: How to implement AI and machine learning (ZDNet special report ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/free-ai-developer-app-ibms-new-tool-can-label-objects-in-videos-for-you/",
-      "publishedDateTime": "2020-01-30T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/05/15/0f3f7afe-160c-451d-babe-17ed14a1c12a/thumbnail/1200x675/b87d99aee9c8455f3ae1be92387d7290/cloud-computing-and-ai-can-ibm-finally-c-5cd59307fe727300c4b89bff-1-may-15-2019-11-42-48-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Free AI developer app: IBM's new tool can label objects in videos for you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-google-researchers-release-audit-framework-to-close-ai-accountability-gap.md",
-      "title": "Google researchers release audit framework to close AI accountability gap",
-      "excerpt": "translates into practice values often espoused in AI ethics principles and tackles an accountability gap authors say exists in AI today. The work, titled “Closing the AI Accountability Gap ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/google-researchers-release-audit-framework-to-close-ai-accountability-gap/amp/",
-      "publishedDateTime": "2020-01-30T07:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/machine_learning.jpg?fit=2116%2C1357&strip=all",
-          "width": 2116,
-          "height": 1357,
-          "title": "Google researchers release audit framework to close AI accountability gap",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-ai-finds-square-structure-inside-triangle-on-ceres-failing-experiment-to-see-if-it-could-be-used-to-find-aliens.md",
-      "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
-      "excerpt": "In an experiment designed to see if artificial intelligence could be used to discover extraterrestrials, it detected an unusual \"square structure\" inside a \"triangle\" on Ceres, a dwarf planet that sits in the asteroid belt between Mars and Jupiter.",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856",
-      "ampWebUrl": "https://www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-weird-square-structure-ceres-aliens-1484856?amp=1",
-      "publishedDateTime": "2020-01-30T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1563805/bright-spots.jpg",
-          "width": 720,
-          "height": 400,
-          "title": "AI Finds 'Square Structure' Inside 'Triangle' on Ceres, Failing Experiment to See If It Could Be Used to Find Aliens",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done.md",
-      "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
-      "excerpt": "When you get behind the wheel of a car, it is a solemn duty and one that holds you responsible for what the car ends up doing. While driving, if you suddenly realize that you are about to ram into another car,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/01/30/backup-drivers-for-ai-self-driving-cars-arent-a-guarantee-of-safety-so-heres-what-needs-to-be-done/amp/",
-      "publishedDateTime": "2020-01-30T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1037080322%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D8678%26cropY1%3D427%26cropY2%3D5309",
-          "width": 1200,
-          "height": 677,
-          "title": "Backup Drivers For AI Self-Driving Cars Aren’t A Guarantee Of Safety, So Here’s What Needs To Be Done",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-ibms-new-ai-powered-tool-will-automatically-label-images-for-developers.md",
-      "title": "IBM’s new AI-powered tool will automatically label images for developers",
-      "excerpt": "Developers building machine learning or object detection models have to manually label hundreds to thousands of images to train them. To make the task easier, IBM has introduced a new auto-labeling tool. The new feature is available for everyone through Cloud Annotations GUI, IBM’s online tool for labeling images. If you’re a developer ...",
-      "heat": 166,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/artificial-intelligence/2020/01/30/ibms-new-ai-powered-tool-will-automatically-label-images-for-developers/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/IBM-tool-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": "IBM’s new AI-powered tool will automatically label images for developers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated.md",
-      "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
-      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of the progress of AI highlight anxiety about AI eliminating jobs, the competition for AI talent, questions about employees AI preparedness,",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/01/30/ai-stats-news-35-of-workers-worldwide-expect-their-job-will-be-automated/amp/",
-      "publishedDateTime": "2020-01-30T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1050855180%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AI Stats News: 35% Of Workers Worldwide Expect Their Job Will Be Automated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-aquant-raises-30-million-for-ai-that-gives-customer-service-agents-mission-critical-data.md",
-      "title": "Aquant raises $30 million for AI that gives customer service agents mission-critical data",
-      "excerpt": "Assaf Melochna and Shahar Chen, former colleagues at workforce management and service optimization company ClickSoftware, advocate an AI- and machine learning-based solution. The two cofounded Aquant, which algorithmically mines and analyzes data from various sources to learn manufacturing, utilities, and telecom companies’ unique service ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/30/aquant-raises-30-million-for-ai-that-supplies-customer-service-agents-with-relevant-info/amp/",
-      "publishedDateTime": "2020-01-30T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/call-center-e1580239807390.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Aquant raises $30 million for AI that gives customer service agents mission-critical data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-google-ai-chief-the-promise-of-multi-modal-learning.md",
-      "title": "Google AI chief: The promise of multi-modal learning",
-      "excerpt": "Google's Jeff Dean explains multi-modal learning and why it's the next big challenge for AI researchers. Read more: https://zd.net/2RWOWVq",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/google-ai-chief-the-promise-of-multi-modal-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/30/982ecb2e-09ab-44ee-a2e9-a132a038b050/thumbnail/770x578/79de21a8c75b1f253e83a6992a2be950/20200129-dean-steph.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "Google AI chief: The promise of multi-modal learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regulation.md",
-      "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-      "excerpt": "A debate on the future of artificial intelligence (AI ... revolutionising areas like voice recognition and translation. In healthcare it's expected to allow huge leaps in drug development. But facial recognition is an AI technology that is much less ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.euronews.com/2020/01/30/artificial-intelligence-may-be-life-or-death-for-you-says-vestager-as-meps-discuss-regula",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T05:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/04/46/77/08/1000x563_cmsv2_4b54ef2d-a930-5c2b-8df2-fdd3463c9b63-4467708.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": "'Artificial Intelligence may be life or death for you,' says Vestager as MEPs discuss regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-two-sundance-docs-sound-the-alarm-on-the-dangers-of-modern-ai.md",
-      "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
-      "excerpt": "Cautionary tales about AI were all over Sundance screens this year, and not as sci-fi flights of fancy. Two new documentaries, The Social Dilemma and Coded Bias, dig into the pitfalls of artificial intelligence as it currently exists — manipulating our social-media feeds, determining our financial or professional futures, surveilling us on ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review/",
-      "ampWebUrl": "https://mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/coded-bias-social-dilemma-documentary-review.amp",
-      "publishedDateTime": "2020-01-30T05:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F30%252F2b%252F197609c9e4b0492b9aad0d764ab4085e.746b6.jpg%252F1200x630.jpg?signature=NmOmlZmtuGjdTlPu2UY9_ACFzbc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Two Sundance docs sound the alarm on the dangers of modern AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

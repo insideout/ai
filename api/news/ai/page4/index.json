@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-09-startup-stimulus-how-logjams-and-ethics-are-impacting-federal-loans-for-tech-companies.md",
+      "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
+      "excerpt": "Several startup founders attributed their experience, good or bad, to the bank facilitating the loan. Dan Wachtler, CEO of an artificial intelligence upstart called Darklight, immediately recognized that the type of bank he chose would impact his likelihood of success. Wachtler’s background working with big banks as clients informed his decision.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/",
+      "ampWebUrl": "https://www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/startup-stimulus-logjams-ethical-questions-impacting-federal-loans-tech-companies/amp/",
+      "publishedDateTime": "2020-04-08T18:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/20190209_145224-630x473.jpg",
+          "width": 630,
+          "height": 473,
+          "title": "Startup stimulus? How logjams and ethics are impacting federal loans for tech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-zoom-hires-ex-facebook-security-chief-alex-stamos-as-google-bans-desktop-app.md",
       "title": "Zoom hires ex-Facebook security chief Alex Stamos as Google bans desktop app",
       "excerpt": "Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes exclusive access to webinars to interact with C-level executives from ...",
@@ -1203,7 +1248,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/Insights-Worldwide-Automated-Machine-Learning-Market-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T01:36:00-07:00",
@@ -1267,50 +1312,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-telstra-uses-ai-as-first-hurdle-for-prospective-hires-to-clear.md",
-      "title": "Telstra uses AI as first hurdle for prospective hires to clear",
-      "excerpt": "Telstra has said it has been using artificial intelligence (AI) to filter through the 19,000 applications it received for its extra 1,000 temporary call centre positions in Australia that was announced by the telco last month. Group executive of transformation and people Alex Badenoch said the telco had been able to move from screening to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/telstra-injecting-ai-as-first-hurdle-for-prospective-hires-to-clear/",
-      "publishedDateTime": "2020-04-08T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2016/10/17/e4ac0eaa-1191-4650-ba6d-dfefa8816d88/thumbnail/1200x675/0cbfe385425f1f51ffa4c8788617645c/sky-and-space-nano-satellite.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Telstra uses AI as first hurdle for prospective hires to clear",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

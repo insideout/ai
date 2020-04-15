@@ -227,6 +227,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-08-aws-to-azure-services-comparison.md",
+      "title": "AWS to Azure services comparison",
+      "excerpt": "This article helps you understand how Microsoft Azure services compare to Amazon Web Services (AWS). Whether you are planning ... including single virtual machine or multiple virtual machine solutions. SageMaker Machine Learning A cloud service to train ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/architecture/aws-professional/services",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "AWS to Azure services comparison",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-security-measure-or-big-brother-civil-rights-groups-ask-amazon-to-stop-selling-its-facial-recognition-system-to-law-enforcement.md",
       "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
       "excerpt": "The technology, called Rekognition, was released in 2016 through Amazon’s cloud computing division. For a low price, it helps users identify people, objects, scenes and activities in videos or ...",
@@ -343,6 +388,43 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-example-notebooks-that-show-how-to-apply-machine-learning-deep-learning-and-reinforcement-learning-in-amazon-sagemaker.md",
+      "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+      "excerpt": "These examples provide quick walkthroughs to get you up and running with the labeling job workflow for Amazon SageMaker Ground Truth. These examples provide a gentle introduction to machine learning concepts as they are applied in practical use cases ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/awslabs/amazon-sagemaker-examples",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://camo.githubusercontent.com/95b6d72381a76a923718ae1d6e56b079f3307e7b/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f61646133346163383236353638393938363337633563633637653837383031333f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634",
+          "width": 420,
+          "height": 420,
+          "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -727,6 +809,80 @@
       ]
     },
     {
+      "path": "_news/2020-04-01-2020-aws-sagemaker-ai-and-machine-learning-with-python.md",
+      "title": "2020 AWS SageMaker, AI and Machine Learning - With Python",
+      "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Udemy",
+        "domain": "udemy.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/udemy.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-this-support-code-is-used-for-making-machine-learning-frameworks-eg-mxnet-tensorflow-run-on-amazon-sagemaker.md",
+      "title": "This support code is used for making machine learning frameworks (e.g. MXNet, TensorFlow) run on Amazon SageMaker.",
+      "excerpt": "SageMaker Containers gives you tools to create SageMaker-compatible Docker containers, and has additional tools for letting you create Frameworks (SageMaker-compatible Docker containers that can run arbitrary Python or shell scripts).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/aws/sagemaker-containers",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://camo.githubusercontent.com/50f1dd680303dc0933b75b712d90b22cf235c403/68747470733a2f2f302e67726176617461722e636f6d2f6176617461722f33356561353162616631666537663031343261643566393530383535646465303f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634",
+          "width": 420,
+          "height": 420,
+          "title": "This support code is used for making machine learning frameworks (e.g. MXNet, TensorFlow) run on Amazon SageMaker.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
       "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
       "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
@@ -815,6 +971,88 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-aws-machine-learning-ai.md",
+      "title": "AWS Machine Learning / AI",
+      "excerpt": "In this section you will finish up with one last AI tool, Rekognition, and you'll also learn about the deeper side of machine learning with the powerful Sagemaker and Deep Learning Instances on AWS. A fully managed machine learning service is a great place ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pluralsight.com/paths/aws-machine-learning-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png",
+          "width": 512,
+          "height": 512,
+          "title": "AWS Machine Learning / AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-aws-certified-machine-learning-specialty-2020-hands-on.md",
+      "title": "AWS Certified Machine Learning Specialty 2020 - Hands On!",
+      "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.udemy.com/course/aws-machine-learning/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Udemy",
+        "domain": "udemy.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/udemy.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1000,277 +1238,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-aws-delivers-sessions-online-at-nvidia-gtc-digital.md",
-      "title": "AWS delivers sessions online at NVIDIA GTC Digital",
-      "excerpt": "Starting Tuesday, March 24, 2020, NVIDIA GTC Digital is offering courses for you to learn AWS best practices to accomplish your ML goals faster and more easily. Registration is free, so register now. The following sessions are available from AWS: \nS22492: Train BERT in One Hour Using Massive Cloud Scale",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-delivers-sessions-online-at-nvidia-gtc-digital/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T17:57:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": "AWS delivers sessions online at NVIDIA GTC Digital",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
-      "title": "Building a trash sorter with AWS DeepLens",
-      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T13:37:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
-          "width": 1200,
-          "height": 545,
-          "title": "Building a trash sorter with AWS DeepLens",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-making-accurate-energy-consumption-predictions-with-amazon-forecast.md",
-      "title": "Making accurate energy consumption predictions with Amazon Forecast",
-      "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts, without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including energy demand forecasting, estimating product demand, workforce planning, and computing",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/making-accurate-energy-consumption-predictions-with-amazon-forecast/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T08:17:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/forecast-energy-production-1.gif",
-          "width": 1000,
-          "height": 374,
-          "title": "Making accurate energy consumption predictions with Amazon Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-this-week-amazon-has-a-chance-to-prove-it-can-do-the-right-thing-on-its-own.md",
-      "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
-      "excerpt": "The second solicits an independent investigation and report on Amazon’s facial recognition tech, Rekognition, detailing “the extent to which such technology may endanger, threaten, or violate ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379",
-      "ampWebUrl": "https://gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-week-amazon-has-a-chance-to-prove-it-can-do-the-r-1834894379/amp",
-      "publishedDateTime": "2020-03-24T03:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/iz0nebw8k7iptywzjctx.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "This Week, Amazon Has a Chance to Prove It Can Do the Right Thing on Its Own",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-investigating-performance-issues-with-amazon-codeguru-profiler.md",
-      "title": "Investigating performance issues with Amazon CodeGuru Profiler",
-      "excerpt": "Amazon CodeGuru (Preview) analyzes your application’s performance characteristics and provides automatic recommendations on how to improve it. Amazon CodeGuru Profiler provides interactive visualizations to show you where your application spends its time. These flame graphs are a powerful tool to help",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/investigating-performance-issues-with-amazon-codeguru-profiler/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T09:58:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/18/investigating-performance-codeguru-9.gif",
-          "width": 800,
-          "height": 478,
-          "title": "Investigating performance issues with Amazon CodeGuru Profiler",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
-      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
-      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
-      "publishedDateTime": "2020-03-22T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
-          "width": 1200,
-          "height": 675,
-          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     }
   ],
