@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-ro
 cdnAmpWebUrl: "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

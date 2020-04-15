@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 91
 published: true
 
 provider:
@@ -39,6 +39,6 @@ related:
       domain: techinasia.com
     quality: 45
 
-secured: "vVrXCrIhoDwqjji/0vj07bOSZIHjBK7J56yOWL6ClXE+lE11TyVJTlT4AuYI1XrIYSNtk2DOiQHolBCbsHOJedDH4Co8o8kxFpaxvOH9Na65F9IdhCpMtMBNmE8crn+DEb7d4VANIT/8Dj1FwkIWvtbCgYEoXn7V4av6qh/+sJsUc6PBMOxeuRTcxvtRQawt7NzIT4kFtvfJMDEujrqKYoXO0NzbMkk3SMrKQ9T19g2W4PhsA32e/xucphh/hb90Gub4vMprN8GoIJBybhVdVZZqHVY2EUsRNykV1xmEwbd3d14cc43D7bkGQUUH7au7LXttw/+R9E3r/C6y1vy+eeuyeMRA+KF4plAGWbFHjgK3Pkj5N7Zsz0Lat3AiVedXM7uYw9YId2BV1nFR+j0eSIp6GUtyNiIo7iPaCGvwaTWyLWmhkOakHZaZVCpKvD68J9DwFtbDwykFMVhzUItbh0L/6tGWWnMeJhyF6zmg6ZQ=;HOJt8Yy2jsepemWawrV8YA=="
+secured: "5cZp/k2H7qLox3W+X7iw+4EPl3uuKRxDwJDl8eSTyhw6fCxyUWHfU7MXUsKqH8NbRYffFh9ectM0zy2AgS9YGTPUg8A6HPnp56C9n0YHq5xHLxys1cIUDE8jHJYTleSNswuOi45zcIh+Pv/7TWKGT1xev9f+oS5fTXunNRMfj9B1Kl420G+8L7upUxQiiW4WJcogjYRIq+vEc+19+KXqo4q/368oYzgWlB7ZBo6d4Hfg84+yhODS4uBoTE9EUnE24GuvY0DiQMx6YfURQRzcj9vplttfoKkx7fIeWftRIiFS5btpmfQSLe9YxzfZ0GywXdeEeAAv2cauaDuRbDVTd5woxr2v6f0YL2WmLjqdc2hhRNSkZTbmX0nqO3sfvj1VVqzUddNVzgjxG994P64KtwyU8iNLBgrVBQZwkbTp6XiLJsVLqfzaHyx6qNBiVo6QamJHJ+uLb5wiM0STzIaCUNCOVbxpToTuCBBtilU+Fmg=;baoWqdIiIEtJI7ZlT8jR8w=="
 ---
 

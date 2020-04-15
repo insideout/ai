@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Global and China HD Map Industry Report, 2019-2020"
-excerpt: "It can be seen from use of HD map in automakers' L3 self-driving cars to be soon mass-produced that the map leaders like Amap, Baidu Map, NavInfo and eMapgo stay ahead in HD map application. In addition to HD map services for third parties, more companies ..."
+excerpt: "HD map industry study: the HD map market is burgeoning with the roll-out of L3 autonomous vehicles. The automakers (except Volvo, Ford and NIO that claimed a leap over L3) have set foot in L3 autonomous vehicle successively,"
 publishedDateTime: 2020-03-24T22:51:00Z
-webUrl: "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139?mod=mw_quote_news"
+webUrl: "https://www.marketwatch.com/press-release/global-and-china-hd-map-industry-report-2019-2020-2020-03-24-181845139"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "Global and China HD Map Industry Report, 2019-2020"
 
-secured: "vdwXTEFLToUx3484XgqBc1ylUdRWmWPWdwwyoJMuf1ScwHmojMCc1Kek7OxV6FDkrbxoTkdlP2d+Up1LDYLyXM/XNLWF60icqSSZ0TGXQyYOpHT2nOR6GCIwQ9IpEeZ7k9TJRKqAztcBMFRYrfdW0lQT+9nh+Phuuqv7vtFDUBBIo25oKIQjbfA49DwLMFjBMNgzTBN+I9BBW1GYVZPdWo9VDmliswGvUrQeMqRXzJggc3K8N0ZZ1VRFyrFeq92LMTMAzy4CCiREdm6wcoao5MJl4MkAwf6nY0aX+pGL6TTrXK1PjQFmgVBZzk03nGEz;EtYchFDhgsIbiGbzX7SwJQ=="
+secured: "5QoiRA5KMhDELu1vjYztetIF1dSywaQ/MKyV0SqDX/VLX5UuQPxjI1YoeAKWUrC9Qs4esxihghF9ghvpFn8zMTLGwJ/2w/mfjp0RolOphHQZ3OKWGWEC9lYmUNw37sIpUEbWAgMKaw7RkV9NI2W1AVp58IVcAalolz9hDwGbPx6h9UAqXzEjFoClxKdGTH7fMjzKc+7vllOh335pDlU1vPqaQuuIRHPz4IDJhijfnyucynP9p90OmyIveMnIoNywxofXhJiWirPJM5KBypBGmdkcbmoMIK8NBjYGCLqhMhC2jsm8jiyUUHHV7KJWAjdk;sM4LjO1buoOWSoiAOAPzgw=="
 ---
 

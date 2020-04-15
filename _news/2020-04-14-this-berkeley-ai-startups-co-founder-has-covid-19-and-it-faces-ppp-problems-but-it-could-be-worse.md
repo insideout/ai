@@ -24,6 +24,6 @@ images:
     height: 399
     title: "This Berkeley A.I startup’s co-founder has COVID-19, and it faces PPP problems. But it could be worse."
 
-secured: "DWl69z3EQ3pxB8TslbqgO/ywQM3l0piinLgMS2KoD94ebXdnS7MAAiUgAVxZKEsLJCYM2MfnWYAP3g8TRHoG+bEW4+GkrY95Bt+5Z+/4nGLlAoRsWsS0OE31QhZOK/D+SY7ZkvGTRiAVdHGhLabUT8B8hGCZSktWasbdWyjFImGUBV+cX11tfc7HfsHteilysTiIQOnUlyrUS1x4y385ghmPM7RHTu5+luNG43aBpL9A5Zul8etqt2lm3KPU9vQJCUYvo1dxqOewLeShqT+WlF/LF71NsCKsHF7OkEbQGo1ErGVQTEZqJIdU9k+lMyyj;5/sDUkviCuPzI8me29xn3w=="
+secured: "y/heTmAQOrgA/AlswibTAEscxz7glTkPYFcy5CxdhHOEL/2ghLV0G/n5nrDqjUuQxLMuu1LN5iR8bmyXNlNxcgxYzVFCM61yMNtPyYhcxmCP2vZ3RRazupjJuFRJYPR3O1nQLX9t5qLRC14OQwl+KiUsU8ocQWERx0vK6+AM5amUoC8gM9EI9gvFjZSZD5O3OduWGAzdcppxz5tnpjyZgZhF7/BlYn3eCFcwS129YpOQO2y3fLeqrKP90A59nh+NwUU56Ue70RTZ/90Yr9WR55SjrW0qHxU6LfB0w+8SFAZBuccGg4OouCVfz/x5N8ZLF3Ic5VD73R9UImv/2KCIXHgyNRdxK5fz93cuK78V94HBnjV0wOsF1ccuTSyB7nKs/T3h3fnd8hPId2HgFOBQpPErJG2DJl94V1nNVnWUGU8mw8tN7fq6v7tuNNjIeM9hIEyzN04LXX9fHUzvkuy3db7dvZl/eNVQIPdma2u9F7Q=;BpdjJopA1ocWoeipTNlPDQ=="
 ---
 

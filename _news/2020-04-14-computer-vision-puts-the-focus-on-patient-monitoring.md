@@ -23,6 +23,6 @@ images:
     height: 300
     title: "Computer Vision Puts the Focus on Patient Monitoring"
 
-secured: "Oqr496OCVHTj/pmfjc96MBLPhtQrZXrs1ilzA7WAw9ABZrgoUPaKdO7s/W81hPsp0NRxY+rkfSzdpXDyGoAPTo7dDQbBGjRb9YLDaC4I0+ouPRifpklb22Ba01KwKfsnKTdzBXrcTOKO+R/24J/gfZOZZcdjA6GP1os3k9XcfqajCD8OwIs9wxd8ls+w2HAkHyEAg2CxmJR9SlIfRpz/gw8q1+jhha9iTTgtz2aX/csAc40aiswgmyiQs04GB+QHa71bf/yFSu5iw2a99gKgqymHb2ynWJqHiRr89Q5XXijlmUySR5MgcEx5o6Pmu7z9;kFzwTmRIgeulgkcRIVe88g=="
+secured: "cbuZrNSGAaZHgMwKmhxV3ixqZpqZajBuaPx+mR8mNiAkFAhtlOkqImRaXt1fa+kW2BvHzw387XfYimO0Pa+q/HO3pNOi/trZeBG+HWv8BxdVote0HzqkYPf44RAoGVQp7XTg6IDnHp4GeGDcZOi7ax8iAJJbYrllmv+TocGYBqTAueKgsm4rl7tWh/2lf6bZi0wh80JbjEuwQm7PvGjkv5hvSAWQYqFxr82JaN2ZQ0nMhy+6WcW8Es1b6pE8TcJnFsct4O+r0QyQg8kkHt7R5aVZ/CRuNIHsOUEi4LKOvCMwDqjzNA+BPl0+5qNJ/lQdJUDSoVIMSxfr+y5nfACPh52cfZbupXzjA2j41beHY9xvBxJGipwx6Cyccg7JXO07ffixlhk0OR0dvqvS7zzauAMJsLCRaTp+yZFB9lySYtCI/TOMnr40r+sB8o+ozUgd+eVdLZz5ubdjMJS73AG6qPTtVNFvnKWAVTKzIDK0U+k=;0lwoS6JVSBW88r9YJlBYyA=="
 ---
 

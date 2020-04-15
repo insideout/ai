@@ -2,6 +2,153 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-03-18-natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital.md",
+      "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
+      "excerpt": "/PRNewswire/ -- Convizit, a startup applying unique AI technologies to disrupt the product analytics market, announced today the closing of a $5M seed",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-product-analytics-startup-convizit-closes-a-5-million-seed-round-led-by-pitango-venture-capital-301026080.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "AI Product Analytics Startup Convizit Closes a $5 Million Seed Round Led by Pitango Venture Capital",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
+      "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
+      "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002586/0/en/Enzo-Villani-Former-Nasdaq-Strategist-and-Fintech-M-A-Executive-Raising-100-Million-for-New-Hedge-Fund-Focused-on-Blockchain-and-Digital-Currencies.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance.md",
+      "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
+      "excerpt": "/PRNewswire/ -- Lanner Electronics, a world leader in design and manufacturing of intelligent edge appliances, announced partnering with Gorilla",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/lanner-teams-with-gorilla-technology-to-launch-secure-edge-ai-appliance-301025613.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1134798/Lanner_Gorilla_Edge_AI.jpg?p=facebook",
+          "width": 1265,
+          "height": 664,
+          "title": "Lanner Teams with Gorilla Technology to Launch Secure Edge AI Appliance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-heres-what-facebooks-internal-facial-recognition-app-looked-like.md",
       "title": "Here's What Facebook's Internal Facial Recognition App Looked Like",
       "excerpt": "Facebook developed an internal facial recognition app that allowed users to scan peoples' faces and identify them. Images obtained by Motherboard now show what that app looked like. Business Insider first reported the existence of Facebook's facial recognition app in November last year. The app, made between 2015 and 2016, was available to ...",
@@ -1010,146 +1157,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-axon-appoints-chris-harris-to-ai-ethics-board-to-supervise-ai-technologies-jeff-kunins-quoted.md",
-      "title": "Axon Appoints Chris Harris to AI Ethics Board to Supervise AI Technologies; Jeff Kunins Quoted",
-      "excerpt": "Axon has named Chris Harris to its AI Ethics Board to supervise the development and production of the company’s AI technology, Axon announced on Tuesday. \"Our new AI Ethics Board members bring a wealth of knowledge and experience including privacy, social justice, and some of the most directly relevant core science and applied machine ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.executivegov.com/2020/03/axon-appoints-chris-harris-to-ai-ethics-board-to-supervise-ai-technologies-jeff-kunins-quoted/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Executive Gov",
-        "domain": "executivegov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://executivebiz.secure.force.com/archintelmedia/servlet/servlet.FileDownload?file=00Pf300001397deEAA",
-          "width": 272,
-          "height": 270,
-          "title": "Axon Appoints Chris Harris to AI Ethics Board to Supervise AI Technologies; Jeff Kunins Quoted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-four-ways-ai-can-positively-impact-pharmaceutical-development.md",
-      "title": "Four Ways AI Can Positively Impact Pharmaceutical Development",
-      "excerpt": "This capability can be helpful for more common treatments like medication for depression or new drugs with little or no formal history. Audio Listening and Language Translation AI can help screen the myriad of audio files from call centers, which can help identify adverse events that may be mentioned in unrelated contexts. For example ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidebigdata.com/2020/03/16/four-ways-ai-can-positively-impact-pharmaceutical-development/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-multithreaded-cores-handle-machine-learning-chores.md",
-      "title": "Multithreaded Cores Handle Machine-Learning Chores",
-      "excerpt": "The cores and software support are designed to handle real-time communication between the cores. This is facilitated by the switch that connects everything, including the new vector-processing unit, DSP support, machine-learning support, and cryptographic support. This distribution keeps the RISC cores simple while providing access to the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21126392/multithreaded-cores-handle-machinelearning-chores",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools.md",
-      "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
-      "excerpt": "These are the companies that are working on hardware, robotics, AI, machine learning or tools for developers ... Morphle: Designed to replace outdated analog microscopes, Morphle’s system uses robotic automation to improve imaging. The startup processes higher-resolution images than far pricier systems and with a much smaller failure rate.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/17/all-the-companies-from-y-combinators-w20-demo-day-part-iii-hardware-robots-ai-and-developer-tools/amp/",
-      "publishedDateTime": "2020-03-17T12:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/agnoris.png?w=680",
-          "width": 680,
-          "height": 412,
-          "title": "All the companies from Y Combinator’s W20 Demo Day, Part III: Hardware, Robots, AI and Developer Tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

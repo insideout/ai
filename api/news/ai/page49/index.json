@@ -2,6 +2,178 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-02-19-grok-combines-machine-learning-and-the-human-brain-to-build-smarter-aiops.md",
+      "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+      "excerpt": "A few weeks ago I wrote a piece here about Moogsoft which has been making waves in the service assurance space by applying artificial intelligence and machine learning to the arcane task of keeping on keeping critical IT up and running and lessening the business impact of service interruptions. It’s a hot area for startups and I’ve since ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops",
+      "ampWebUrl": "https://diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/grok-combines-machine-learning-and-human-brain-build-smarter-aiops?amp",
+      "publishedDateTime": "2020-02-19T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2020-01/shutterstock-%20Antonov-Serg-1576515697.jpg",
+          "width": 3000,
+          "height": 2000,
+          "title": "Grok combines Machine Learning and the Human Brain to build smarter AIOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room.md",
+      "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+      "excerpt": "Scientists are excited about the potential for artificial intelligence, improved connectivity, and other technological advancements to make robotic",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/these-companies-are-investing-billions-so-robots-can-perform-surgery-without-a-doctor-in-the-room-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/E98B2CC0-5278-11EA-B5C7-52AF3B60D99D",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/E98B2CC0-5278-11EA-B5C7-52AF3B60D99D",
+      "publishedDateTime": "2020-02-19T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA008_0220_b_ZH_20200210151151.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "These companies are investing billions so robots can perform surgery without a doctor in the room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla.md",
+      "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+      "excerpt": "Two McAfee researchers managed to trick a 2016 Tesla into a dangerous burst of acceleration by changing a speed limit reading from 35 m.p.h to 85 m.p.h.",
+      "heat": 127,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/story/85-in-a-35-hackers-show-how-easy-it-is-to-manipulate-a-self-driving-tesla-2020-02-19",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/C82D90AE-5322-11EA-9A69-DD6044AC3CC1",
+      "publishedDateTime": "2020-02-19T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s.marketwatch.com/public/resources/images/MW-IA488_tesla_ZH_20200219100228.jpg",
+          "width": 890,
+          "height": 501,
+          "title": "85 in a 35? Hackers show how easy it is to manipulate a self-driving Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
+      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
+          "width": 300,
+          "height": 225,
+          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-high-risk-artificial-intelligence-to-be-certified-tested-and-controlled-commission-says.md",
       "title": "High-risk Artificial Intelligence to be ‘certified, tested and controlled,’ Commission says",
       "excerpt": "Commission President Ursula von der Leyen praised Europe’s efforts in the field of Artificial Intelligence thus far, saying that such technologies can be of vital use in a number of sectors including in healthcare, agriculture and energy, and can also ...",
@@ -1077,176 +1249,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-document-understanding-ai-google-cloud-explained.md",
-      "title": "Document Understanding AI — Google Cloud Explained",
-      "excerpt": "Hey, folks How are you doing. Today I am going to discuss Document Understanding AI using Google cloud in simple steps. I know I know you say there is a lot of complexity!!!. Don’t worry folks ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/document-understanding-ai-google-cloud-explained-193ae84cda75",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-18T14:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/688/1*JQnPt8Ct4mzzzyEFVKW7zg.png",
-          "width": 688,
-          "height": 273,
-          "title": "Document Understanding AI — Google Cloud Explained",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-y-combinator-startup-humanly-helps-companies-screen-job-candidates-at-scale-with-the-help-of-ai.md",
-      "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
-      "excerpt": "Startup Spotlight profiles emerging tech companies in the Pacific Northwest. Do you run a standout startup? Apply for Startup Spotlight. The Humanly team at Y Combinator, from left, CTO Bryan Leptich, CEO Prem Kumar and COO Andrew Gardner. (Humanly Photo) Automation may be a means to replacing humans in specific types of jobs. But for Humanly ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/humanly/",
-      "ampWebUrl": "https://www.geekwire.com/2020/humanly/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/humanly/amp/",
-      "publishedDateTime": "2020-02-18T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/humanly-630x619.jpg",
-          "width": 630,
-          "height": 619,
-          "title": "Y Combinator startup Humanly helps companies screen job candidates at scale, with the help of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-google-updates-its-collection-feature-to-add-ai-capabilities.md",
-      "title": "Google Updates Its Collection Feature To Add AI Capabilities",
-      "excerpt": "Google has started the year with a range of updates to its most popular services. This time, it’s the recent AI upgrade to Google’s Collections feature.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/02/18/google-updates-its-collection-feature-to-add-ai-capabilities/amp/",
-      "publishedDateTime": "2020-02-18T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198299608%2F0x0.jpg%3FcropX1%3D393%26cropX2%3D4662%26cropY1%3D0%26cropY2%3D2401",
-          "width": 1200,
-          "height": 675,
-          "title": "Google Updates Its Collection Feature To Add AI Capabilities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-the-greatest-gift-machine-learning-ever-gave-us-is-this-archive-of-mark-zuckerberg-haircuts.md",
-      "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
-      "excerpt": "Even the most commonplace of objects, sufficiently decontextualized, has the power to take on new meaning. We see this, perhaps most famously, with Marcel Duchamp's \"Fountain.\" The so-called readymade sculpture was in fact simply a signed urinal. However, in part by separating it from the whole, Duchamp challenged his audience to see the ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts/",
-      "ampWebUrl": "https://mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/mark-zuckerberg-machine-learning-haircuts.amp",
-      "publishedDateTime": "2020-02-18T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F02%252F18%252F93%252F671446455065416791c366d047a0f8eb.c1d5a.jpg%252F1200x630.jpg?signature=AIlDxMdA7Eso7mMc3YYiavO5Md4=",
-          "width": 1200,
-          "height": 630,
-          "title": "The greatest gift machine learning ever gave us is this archive of Mark Zuckerberg haircuts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

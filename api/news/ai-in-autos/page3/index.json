@@ -2,6 +2,186 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-23-mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world.md",
+      "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
+      "excerpt": "In a recent study, researchers hailing from MIT’s Computer Science and Artificial Intelligence Laboratory and the Toyota Research Institute ... uses a real-world data set to synthesize viewpoints from trajectories a car could take. While driverless car companies including Waymo, Uber, Cruise, Aurora, and others use simulation environments ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
+      "publishedDateTime": "2020-03-23T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
+      "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
+      "excerpt": "SoftBank said it plans to raise as much as $41 billion to buy back shares and reduce debt, in an unprecedented move to restore investor confidence as a financial market rout pummels its shares and its portfolio companies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-softbank-group-didi/softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information-idUSKBN21A2TG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21A2TG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21A2TG",
+      "publishedDateTime": "2020-03-23T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200323&t=2&i=1507150339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2M1ON",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
+      "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
+      "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/softbank-group-didi-idUSL4N2BG4PA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BG4PA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BG4PA",
+      "publishedDateTime": "2020-03-23T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027.md",
+      "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+      "excerpt": "Mar 23, 2020 (Business Arrival via Comtex) -- the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
       "title": "Tesla files patent for sourcing self-driving training data from its fleet",
       "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
@@ -1042,142 +1222,6 @@
           "width": 1200,
           "height": 630,
           "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-fortinet-introduces-self-learning-artificial-intelligence-appliance-for-sub-second-threat-detection.md",
-      "title": "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection",
-      "excerpt": "FortiAI’s Virtual Security Analyst embeds one of the industry’s most mature cybersecurity artificial intelligence – developed by Fortinet’s FortiGuard Labs – directly into an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/",
-      "ampWebUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
-      "publishedDateTime": "2020-03-16T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOL",
-        "domain": "ciol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-artificial-intelligence-ai-market-analysis-trends-growth-industry-size-and-forecast-2025.md",
-      "title": "Artificial Intelligence (AI) Market Analysis, Trends, Growth, Industry Size and Forecast 2025",
-      "excerpt": "BMW, Tesla, and Toyota are also taking interest in robotics and machine learning to develop driverless cars. Get Sample Copy of Artificial Intelligence (AI) Market at: https://www.omrglobal.com/request-sample/artificial-intelligence-market Some of the key players contributing significantly in the growth of AI market include AIBrain, Amazon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.openpr.com/news/1968035/artificial-intelligence-ai-market-analysis-trends-growth",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T00:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-westworld-premiere-doloress-road-to-revenge-crosses-paths-with-jesse-pinkman.md",
-      "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
-      "excerpt": "It’s slowly revealed, however, that Francis died and is now nothing more than artificial intelligence himself, a familiar character in Caleb’s ... There were several other intriguing technological achievements I could have selected here: driverless cars, those implants everyone seems to like, Dolores’s telescopic sunglasses, Dolores ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theringer.com/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "ampWebUrl": "https://www.theringer.com/platform/amp/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "cdnAmpWebUrl": "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "publishedDateTime": "2020-03-15T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ringer",
-        "domain": "theringer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/iiSAPg8mTmVPZ86oHhVnDgRRQDc=/0x0:1200x800/1400x1050/filters:focal(439x232:631x424):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66505019/westowrld_31_chin_hbo_ringer.0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
-      "title": "BMW says large-scale production of self-driving cars likely in next decade",
-      "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bmwblog.com/2016/03/16/bmw-says-large-scale-production-self-driving-cars-likely-next-decade/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMW BLOG",
-        "domain": "bmwblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bmwblog.com/wp-content/uploads/2015/03/xc_24_dwn_20_2014_hres.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "BMW says large-scale production of self-driving cars likely in next decade",
           "attribution": null
         }
       ],

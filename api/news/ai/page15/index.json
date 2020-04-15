@@ -2,6 +2,185 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-28-tesla-deal-boosts-chinese-presence-in-us-auto-tech.md",
+      "title": "Tesla deal boosts Chinese presence in US auto tech",
+      "excerpt": "Baidu has invested in Nio, as well as in Uber and Velodyne, a California maker of laser-based lidar sensors for self-driving cars. Alibaba's mobility investments include Didi and Lyft. As Tesla is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "publishedDateTime": "2020-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104329942-IMG_5438.JPG?v=1491839432",
+          "width": 1445,
+          "height": 964,
+          "title": "Tesla deal boosts Chinese presence in US auto tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-teslas-china-business-is-booming.md",
+      "title": "Tesla's China business is booming",
+      "excerpt": "Elon Musk's Tesla is a growing player in China, where the global fight to develop electric, self-driving cars is raging ... and companies like Tesla or Baidu could take a cut of that,\" she said.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
+      "publishedDateTime": "2020-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104369093-GettyImages-462398776.jpg?v=1549975676",
+          "width": 2000,
+          "height": 1333,
+          "title": "Tesla's China business is booming",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-her-future-summit-to-explore-ai-and-the-future-of-work-for-women-leaders.md",
+      "title": "Her Future Summit To Explore AI And The Future Of Work For Women Leaders",
+      "excerpt": "The Her Future Summit serves to teach fundamentals of future technology and the leading social impact applications of Artificial Intelligence, among other technologies.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/her-future-summit/amp/",
+      "publishedDateTime": "2020-03-27T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e7ef008eb080006520dab%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5926%26cropY1%3D310%26cropY2%3D3643",
+          "width": 1200,
+          "height": 675,
+          "title": "Her Future Summit To Explore AI And The Future Of Work For Women Leaders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-27-responding-to-covid-19-with-ai-and-machine-learning.md",
+      "title": "Responding to COVID-19 with AI and machine learning",
+      "excerpt": "I’m Mihaela van der Schaar, and I’m the University of Cambridge’s John Humphrey Plummer Professor of AI and machine learning in Medicine. I’m also a Turing Fellow, and Chancellor’s Professor at UCLA. Today I published a perspective paper on COVID-19. The paper is co-authored with members of the Cambridge Centre for AI in Medicine ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/responding-covid-19-ai-machine-learning-mihaela-van-der-schaar/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQH69hdyhFprRQ/article-cover_image-shrink_720_1280/0?e=1591228800&v=beta&t=v-amgkHXhOSfGfjH5-Q0F0Sn5oP8f4zegbC1XCaZdCk",
+          "width": 1080,
+          "height": 720,
+          "title": "Responding to COVID-19 with AI and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-these-machine-learning-enhanced-clips-might-be-our-only-chance-of-seeing-hd-star-trek-voyager-any-time-soon.md",
       "title": "These Machine Learning-Enhanced Clips Might Be Our Only Chance of Seeing HD Star Trek: Voyager Any Time Soon",
       "excerpt": "While there have been attempts both officially and unofficially before—What We Left Behind, the expansive, loving crowdfunded documentary for Deep Space Nine produced by former co-showrunner Ira Steven Behr, for example, managed to produce new HD clips of the show as part of its runtime, and fans had previously turned to machine learning to ...",
@@ -1076,187 +1255,6 @@
           "width": 800,
           "height": 600,
           "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-will-this-crisis-help-set-autonomous-ai-on-the-right-course.md",
-      "title": "Will this crisis help set autonomous AI on the right course?",
-      "excerpt": "There are still a lot of questions that we need to answer. But the good news is that we have started to do so. And we seem to be heading in the right direction. Bastiane Huang is a product manager at OSARO, an AI/robotics startup based in San Francisco backed by Peter Thiel and Jerry Yang’s AME Cloud. She previously worked for Amazon Alexa.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/26/will-this-crisis-help-set-autonomous-ai-on-the-right-course/amp/",
-      "publishedDateTime": "2020-03-26T15:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/coronavirus_robots.jpg?fit=1024%2C683&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": "Will this crisis help set autonomous AI on the right course?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology.md",
-      "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
-      "excerpt": "Advance Market Analytics released the research report of Global Healthcare Artificial Intelligence Market, offers a detailed overview of the factors influencing the global business scope. Healthcare Artificial Intelligence Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-is-booming-worldwide-ibm-microsoft-micron-technology-2020-03-26",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Healthcare Artificial Intelligence Market is Booming Worldwide | IBM, Microsoft, Micron Technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-      "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "publishedDateTime": "2020-03-26T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-needed-humans-to-break-artificial-intelligence-out-of-its-silo.md",
-      "title": "Needed: Humans To Break Artificial Intelligence Out Of Its Silo",
-      "excerpt": "AI will fill many roles, but perhaps its greatest potential is in its ability to reach across or break through organizational silos. At this point, however, with most implementations in pilot stages,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/26/needed-humans-to-break-artificial-intelligence-out-of-its-silo/",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/26/needed-humans-to-break-artificial-intelligence-out-of-its-silo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/26/needed-humans-to-break-artificial-intelligence-out-of-its-silo/amp/",
-      "publishedDateTime": "2020-03-26T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e33857fe32a410007e7d6ff%2F0x0.jpg",
-          "width": 1200,
-          "height": 806,
-          "title": "Needed: Humans To Break Artificial Intelligence Out Of Its Silo",
           "attribution": null
         }
       ],

@@ -23,6 +23,6 @@ images:
     height: 400
     title: "TDi(TM) | SonoVision(TM) Receives 510(k) Clearance for the First Machine Learning Enabled Ultrasound Product in Spine Surgery"
 
-secured: "dJeJC52V7n0e8VjvpTbuWDOrVDRJYe5/BUnH/qv5AWp6app89908cY21ig4mtqGla/5tE35bKgsk2MRC4pywZ7UZ/m3N3JAVAPqW0yv8GgeaCPQ/sOdNdYe/Ex4LresdTAk7jeaup0vnwK1CGtmJfJ0wuxbObOV67CZ8vMssyNWu+8pU+TqXiMH1y1HWyeAcBfAwBfTIPtVMbl4FYpeIXFkgO+QKuXJNMHImmiKOS7Cvuo6d23JXP2tlPLoEhVtF/NrZGjab73slpVAd9baCesqOlQ3t+7FgHP5MLcvyKHb1xc1y68yNe7fffgBGpOzv;GUX6M/6nYtU2a2ro4NOFcw=="
+secured: "kCP0GlfGI+opzJZtZPJbZw3ALx+eigUEUtSfeSNx6OR5TXljldV7kgQ4NWU2SvLGbBWsQkQ/oavIRAA5Gc1SAtf9uS5MiwIKR5vj6PKH0P4TdG7+HNUSv8IS+5096s7TZb7EXEBfMEwPZDCD9YEtWcYJ9IYIa/eIUhr52e+KTZ7xjKdIovgtTvsr3ntMhkjYoZ9qTbeo9FhVtOvKzSAIIx0INX7E+QJduIBWr2msawoS9uER4wCW8RsbbaH7ENYR8WHQmFoqvBgWxmuHrfrujvwiPJuBQ0E8Ku5fzLnKU11u4RMa6NkYURZdZEORCshzBG0Dnbx6RuAkbEfUIpg7YoFACpVOney6Rvn/RfNwsU9Mr+Cw7QUHh3Xvulb05WsI1ZxXs6ur3C6PkKhMPRY24Bf5Vsk2RlYfHrMOFQ2gvoieSQGpx14uAYIaedlKeej/2dFhJJC8oJ2+Gh45GNBgF9FHXqX2vARadB1TK/RLHLQ=;xxBeVPdwsXMEj0oSR7+FEQ=="
 ---
 

@@ -1,11 +1,11 @@
 ---
 category: news
 title: "Huawei open-sources TensorFlow competitor MindSpore"
-excerpt: "Huawei has announced that its framework for AI app development MindSpore is now open source and available on GiHub and Gitee. The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all scenarios across the ..."
-publishedDateTime: 2020-03-31T21:48:00Z
-webUrl: "https://www.techradar.com/nz/news/huawei-open-sources-tensorflow-competitor-mindspore"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
+excerpt: "The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all ..."
+publishedDateTime: 2020-03-31T21:46:00Z
+webUrl: "https://www.techradar.com/news/huawei-open-sources-tensorflow-competitor-mindspore"
+ampWebUrl: "https://www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/huawei-open-sources-tensorflow-competitor-mindspore"
 type: article
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 547
     title: "Huawei open-sources TensorFlow competitor MindSpore"
 
-secured: "LxdYXHSZnZI0YLrtQ2ZO6jJT+uAU1Y4Wx9MpdQ8tex0NZGnyg4NLGBSWndLByffIiYYMuuFBQDzd2QWHZUFUagCTaU85KM1N6urRQB4hztl/DE7xDii1R95oGhxWe6UFJ+erD5bO8SqFyGSq/fyEZiNYbcVuOa83G42TFDEOssPk2fddsOWYdQNlYG966jZWGr0JGPYCKqF+UqTeV+/gP7jr4AltWHqm1+hvjyGnPaDkcWTa/3ipx/bZBi1v5PiS0hXw58ATr2fvIkS9GNfzinpTnlGga4MOCPLg0U2y/taw2tstzTt5ENyvE7SJ9He8;MvfAsPYapfGyPcOjqsNwCg=="
+secured: "/GZ4DNdxhvce2DAhtrhVE0K8w1WMR+43rV4uETN7uj7iq1SuH0yllQS/tH4IvzClOe4l2GyfIv7/9TRQFbI67Of0wPJCQ03BudhXz9fpa2CrSgzGs29MbL4Xv3RDs/XjQuDEROGsBwLBzs9/5SSrCCkFEnrlsfzNSTsqAdc3rtlMLa+zkzD2K7SyGnkQiJPw+eTfZjtBJ81fmm7MrilCr9uaPFg6EGFi/RkitssVLvERsUOqzJfx2rxiCHQGeFMdDvcsl/CsMid1meuCpWtQlbY3rwr1JWqNTKnrl8JvrpkF/HAIscoQiiyhNNDpXX1Z;K9XTnmF41fSoUcS3IGszvA=="
 ---
 

@@ -229,27 +229,27 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
+      "excerpt": "Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large Enterprise, Small & Medium Enterprise),",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/automated-machine-learning-automl-market-301035747.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:41:00-07:00",
+      "publishedDateTime": "2020-04-06T18:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -333,6 +333,51 @@
           "width": 1630,
           "height": 952,
           "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023.md",
+      "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023-2020-04-06?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
           "attribution": null
         }
       ],
@@ -604,6 +649,51 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries.md",
+      "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
+      "excerpt": "The 5G vehicle is part of the KuGaea Kun series developed by Cool High Technology, a Beijing-based maker of autonomous drones and cars. A self-driving version has been certified for Baidu’s Apollo autonomous open vehicle platform, taking advantage of Beijing’s 300-plus miles of self-driving test roads. Beijing Institute of Technology’s ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
+      "publishedDateTime": "2020-04-06T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/beijing5gcar.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -983,87 +1073,6 @@
           "width": 600,
           "height": 350,
           "title": "IBM shares AI tools to better understand and treat COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-coronavirus-could-be-catalyst-for-healthcare-ai-advances.md",
-      "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
-      "excerpt": "Just as the U.S. government significantly invested to put Neil Armstrong and others on the moon by 1969 – $200 billion in today’s dollars by his estimate – Scott said similar funding in artificial intelligence technology could be a difference-maker for our nation’s battered health care system. Scott, 48, whose new book about AI will be ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html",
-      "ampWebUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
-      "publishedDateTime": "2020-04-06T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_710348230.jpg",
-          "width": 839,
-          "height": 630,
-          "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms.md",
-      "title": "Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms",
-      "excerpt": "During the “COVID-19 and AI” livestream event run by the Stanford Institute of Human-Centered AI (HAI), Stanford professor and HAI codirector Dr. Fei-Fei Li presented a concept for an AI-powered in-home system that could track a resident’s health, including for signs of COVID-19, while ensuring privacy. It’s designed to keep seniors ...",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/stanford-researchers-propose-ai-in-home-system-that-can-monitor-for-coronavirus-symptoms/amp/",
-      "publishedDateTime": "2020-04-06T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/elderly-at-home-covid-19.jpg?fit=1205%2C606&strip=all",
-          "width": 1205,
-          "height": 606,
-          "title": "Stanford researchers propose AI in-home system that can monitor for coronavirus symptoms",
           "attribution": null
         }
       ],

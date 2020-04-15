@@ -2,6 +2,190 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-21-artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026.md",
+      "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
+      "excerpt": "The major factors propelling the growth of the Global Artificial Intelligence (AI) market include the rise in the adoption of cloud-based applications and services and the growth of big data across the globe.",
+      "heat": 224,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-is-projected-to-reach-usd-1699-billion-in-2026-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) Market is Projected to Reach USD 169.9 Billion in 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-self-driving-car-companies-complain-california-test-data-may-mislead.md",
+      "title": "Self-driving car companies complain California test data may mislead",
+      "excerpt": "Developers of self-driving cars are amping up criticism of a California reporting requirement on test data, saying the data could mislead, as the state prepares to release the latest results for 2019.",
+      "heat": 289,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-autos-self-driving-california/self-driving-car-companies-complain-california-test-data-may-mislead-idUSKBN20F2F7",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN20F2F7",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN20F2F7",
+      "publishedDateTime": "2020-02-21T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200221&t=2&i=1493407844&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1K1LU",
+          "width": 830,
+          "height": 545,
+          "title": "Self-driving car companies complain California test data may mislead",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment.md",
+      "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
+      "excerpt": "The on-going evolution of technologies like artificial intelligence (AI) and machine learning (ML) brings in disruption and innovation in the AI Logistics and Supply Chain Ecosystem. AI is transforming global logistics and supply chain management.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-logistics-and-supply-chain-with-detailed-overview-and-opportunity-assessment-2020-02-21",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-21T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Logistics and Supply Chain With Detailed Overview and Opportunity Assessment",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation.md",
+      "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
+      "excerpt": "Although Goodyear is a mature company, they are on the cutting edge of using today’s newest technology to propel innovation and their business in the 21st century.",
+      "heat": 130,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/02/21/the-amazing-ways-goodyear-uses-artificial-intelligence-and-iot-for-digital-transformation/amp/",
+      "publishedDateTime": "2020-02-20T21:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4f6b9f765d4500072cd7f2%2F0x0.jpg",
+          "width": 1200,
+          "height": 577,
+          "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-google-parent-alphabet-is-pruning-its-other-bets.md",
       "title": "Google parent Alphabet is pruning its 'other bets'",
       "excerpt": "YouTube and more), Access (Fiber broadband), Calico (aging), Capital (late-stage investment), DeepMind (artificial intelligence), Google Ventures (startup investment), Life Sciences (health), Nest (smart home appliances), Sidewalk (smart cities) and Google X, which still looked after Boston Dynamics (robots), Waymo (self-driving cars), Loon ...",
@@ -1122,187 +1306,6 @@
           "width": 600,
           "height": 350,
           "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
-      "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
-      "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/02/10/friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift/amp/",
-      "publishedDateTime": "2020-02-10T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/trim/301x0:5190x3667/fit-in/711x533/smart/https://specials-images.forbesimg.com/imageserve/1124494417/0x0.jpg",
-          "width": 711,
-          "height": 533,
-          "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
-      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "publishedDateTime": "2020-02-09T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
-          "width": 1000,
-          "height": 563,
-          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-09-why-the-race-for-ai-dominance-is-more-global-than-you-think.md",
-      "title": "Why The Race For AI Dominance Is More Global Than You Think",
-      "excerpt": "When people hear about the race for Artificial Intelligence dominance, they often think that the main competition is between the US and China. But, many countries have AI efforts, funding, technologies,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/09/why-the-race-for-ai-dominance-is-more-global-than-you-think/amp/",
-      "publishedDateTime": "2020-02-08T22:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1144319087%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Why The Race For AI Dominance Is More Global Than You Think",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-08-cadillac-brings-self-driving-smarts-to-the-new-escalade.md",
-      "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
-      "excerpt": "He is a member of the Academy of Motion Pictures Arts and Sciences. TopicsCadillac Self-Driving Cars SUVs WIRED is where tomorrow is realized. It is the essential source of information and ideas that make sense of a world in constant transformation. The WIRED conversation illuminates how technology is changing every aspect of our lives—from ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/",
-      "ampWebUrl": "https://www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/2021-escalade-super-cruise-self-driving/amp",
-      "publishedDateTime": "2020-02-07T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e3c9fc2184f8b00092042da/master/pass/Transpo-2021-Cadillac-Escalade-053.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Cadillac Brings Self-Driving Smarts to the New Escalade",
           "attribution": null
         }
       ],

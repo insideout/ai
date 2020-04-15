@@ -29,6 +29,6 @@ images:
     height: 433
     title: "Google’s AutoML Zero lets the machines create algorithms to avoid human bias"
 
-secured: "L401xKB0LXA/ZzeEhRfaHSB0x2WbFPeogf7KFEflChqEkZoicSb8/J4Qv0bxg52drHo3n6O/ozwtMSLj+eg7uryRmPjZIg5qq1P7WetpUSrEhaAzAxPozz1S0vwgWCVMeDOH4BlRfGUA4pxhc8cqmsMARv6H6eERG6q3DZt3BbZ02ttCn0I/zSGG/tI+VySCNrHKh+EkPDfQ8bTqXHPKdaVIPeKabLgfBrQgklB51F5ZzJFObIgShaRw5LChrGqmSMKc56J9CWncVAKdKEx5pBKPXHg+npo1TXTVWYeRKmBvji06bav3RBxxGhPfwUxQ;qC5POQRpVpuUjPZd1rFPqQ=="
+secured: "1d8S1ynxia+I77R0PWRBtC3j/oOZMb2BpQFN39k8oEgJfbuQa2uteBB0GMr9RssMN8tD9FCBG6HcSSCySyUtu+I8+iCdxM9gvU5slO2Sr8G2H+M0j1Sjyf25PDZJIZTjXlwG6+Wh+UxXMfdlb/JkvhiUtZsMlp6rupc8IwvESCn0ummsfy2z514kDDYLfUD/QcHb4CQLM/q8va0Yn2+rciH3POdoDfuuMJl2mUE187fYsoXejkbLu0GFpl5t+jimgLLlru8cFTeGNdsh41HYKU4UMkEPDSTvTCvE3K1bcfjpCcOvOHxue7+E7g4xxoGz6Zxl8FmY+QPgOUyLz26Brti9hDZ6kJReH/qb6ErFvef8PgiocWb6/u1YARAWkokdjxxos+M7zlPJgWaCIpbQWvPK0fySISQwOZpZADrEuzHyKi61arbhb/hvFOY73OXulSuMIS6LvZV+CJD0psu3yotrJPjBE/+gR0cIJuX7YQ0=;KQSK4ppGr9UFvZ/81ufKuw=="
 ---
 

@@ -791,6 +791,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-06-north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023.md",
+      "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
+      "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023-2020-04-06?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T16:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-self-driving-shuttles-are-ferrying-covid-19-tests-at-a-florida-clinic.md",
       "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
       "excerpt": "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ...",
@@ -881,6 +926,88 @@
       ]
     },
     {
+      "path": "_news/2020-04-06-robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries.md",
+      "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
+      "excerpt": "The 5G vehicle is part of the KuGaea Kun series developed by Cool High Technology, a Beijing-based maker of autonomous drones and cars. A self-driving version has been certified for Baidu’s Apollo autonomous open vehicle platform, taking advantage of Beijing’s 300-plus miles of self-driving test roads. Beijing Institute of Technology’s ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
+      "publishedDateTime": "2020-04-06T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/beijing5gcar.jpg?fit=2000%2C1000&strip=all",
+          "width": 2000,
+          "height": 1000,
+          "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-velodyne-lidar-blames-pandemic-for-sudden-job-cut-its-being-sued-over.md",
+      "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
+      "excerpt": "Velodyne Lidar, the San Jose autonomous driving sensor pioneer, says it cut jobs last week because of \"sudden and unexpected\" changes caused by the coronavirus pandemic. A worker lawsuit accuses it of using the crisis as cover for moving jobs overseas.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.amp.html",
+      "publishedDateTime": "2020-04-06T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11235449/velodyne-4-022619*600xx3427-2285-0-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-heres-the-top-stock-to-buy-with-your-coronavirus-stimulus-check.md",
       "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
       "excerpt": "Alphabet's artificial intelligence (AI) initiatives should open up a ginormous market opportunity for the company. Its Google Nest AI-enabled smart home products represent just the tip of the iceberg. My view is that Alphabet's Waymo self-driving car business could really take off over the next decade. I'm not the only one who is optimistic ...",
@@ -913,6 +1040,43 @@
           "width": 2160,
           "height": 1387,
           "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-velodyne-lidar-accused-of-using-pandemic-as-excuse-for-big-job-cuts.md",
+      "title": "Velodyne Lidar accused of using pandemic as excuse for big job cuts",
+      "excerpt": "Businesses everywhere are shedding jobs because of #COVID-19. One San Jose company, Velodyne Lidar, is being accused in a federal lawsuit of using the #pandememic as an excuse to cut 140 jobs on a day's notice as cover to move them overseas.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/04/04/velodyne-lidar-accused-of-using-pandemic-as-excuse.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/04/04/velodyne-lidar-accused-of-using-pandemic-as-excuse.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/04/04/velodyne-lidar-accused-of-using-pandemic-as-excuse.amp.html",
+      "publishedDateTime": "2020-04-04T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/10307832/velodynelidarsj-6-of-14*600xx1996-1329-0-171.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "Velodyne Lidar accused of using pandemic as excuse for big job cuts",
           "attribution": null
         }
       ],
@@ -1125,172 +1289,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration.md",
-      "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
-      "excerpt": "Anthony Levandowski, the star self-driving car engineer who was at the center of a trade secrets lawsuit, has filed a motion to compel Uber into arbitration in the hopes that his former employee will have to shoulder the cost of at least part of the $179 million judgment against him. The motion to compel arbitration filed this week is part of ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/self-driving-car-engineer-anthony-levandowski-files-motion-to-force-uber-into-arbitration/amp/",
-      "publishedDateTime": "2020-04-01T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1176871826.jpeg?w=1024",
-          "width": 1024,
-          "height": 718,
-          "title": "Self-driving car engineer Anthony Levandowski files motion to force Uber into arbitration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023.md",
-      "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
-      "excerpt": "A self-driving car, also known as the driverless car or an autonomous car or robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel between ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-overview-and-scope-industry-outlook-size-forecast-2018-2023-2020-04-01?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Latin America Self-driving Car Market Overview and scope, Industry Outlook, Size & Forecast 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work.md",
-      "title": "AI vs your career? What artificial intelligence will really do to the future of work",
-      "excerpt": "In a similar vein, Gartner recently suggested that HR departments start including a section dedicated to \"robot resources\", to better manage employees as they start working alongside robotic colleagues. \"Getting an AI to collaborate with humans in the ways that we collaborate with others at work, every day, is incredibly hard,\" said McDonald.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-vs-your-career-what-artificial-intelligence-will-really-do-to-the-future-of-work/",
-      "publishedDateTime": "2020-04-01T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/12/04/657acd78-13b6-4989-8ecf-673fb8d38d60/thumbnail/1200x675/ab7a6c328b2d02457d5800ac6d49ad7f/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AI vs your career? What artificial intelligence will really do to the future of work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "IBM AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
-      "title": "How artificial intelligence will reshape the contact centre in 2020",
-      "excerpt": "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://itwire.com/sponsored-announcements/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020-202003310513.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
