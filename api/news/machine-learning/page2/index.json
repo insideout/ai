@@ -185,32 +185,24 @@
     },
     {
       "path": "_news/2020-04-02-brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-virtual-conference.md",
-      "title": "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
-      "excerpt": "Mankar’s presentation will introduce product details of the AKD1000, BrainChip's first event-based neural-network IP and NSoC device ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. The solution is high ...",
+      "title": "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
+      "excerpt": "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200402005259/en/BrainChip-Introduces-Company’s-Event-Based-Neural-Network-IP-NSoC",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15726504",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15726504",
       "publishedDateTime": "2020-04-02T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200402005259/en/782937/23/BrainChip-Logo_tagline_full_color_header_retina.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -587,6 +579,51 @@
           "width": 1200,
           "height": 630,
           "title": "Machine Learning as a Service (MLaaS) Market to Garner Overwhelming Hike In Revenues by 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-how-to-find-a-perfect-deep-learning-framework.md",
+      "title": "How to Find a Perfect Deep Learning Framework",
+      "excerpt": "Many courses and tutorials offer to guide you through building a deep learning project. Of course, from the educational point of view, it is worthwhile: try to implement a neural network from ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/sciforce/how-to-find-a-perfect-deep-learning-framework-3cc00a56334d",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*L1ilYCg5mEcEQ_E2",
+          "width": 1200,
+          "height": 432,
+          "title": "How to Find a Perfect Deep Learning Framework",
           "attribution": null
         }
       ],
@@ -1049,6 +1086,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-27-deep-learning-to-power-ai-growth-in-apac.md",
+      "title": "Deep learning to power AI growth in APAC",
+      "excerpt": "Spending on artificial intelligence in Asia Pacific is set to soar over the next five years as the demand for deep learning ramps up. By 2024, the APAC region is estimated to account for about 30 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.arnnet.com.au/article/672264/deep-learning-power-ai-growth-apac/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-27T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/deeplearning.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "Deep learning to power AI growth in APAC",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-the-globus-pallidus-orchestrates-abnormal-network-dynamics-in-a-model-of-parkinsonism.md",
       "title": "The globus pallidus orchestrates abnormal network dynamics in a model of Parkinsonism",
       "excerpt": "Oscillatory changes between basal ganglia nuclei occur in Parkinson’s disease. Here the authors determine that the globus pallidus is the source of beta oscillation generation in a rodent model of the disease.",
@@ -1192,88 +1266,6 @@
           "width": 640,
           "height": 640,
           "title": "Artificial Intelligence, Machine Learning And Deep Learning: What's The Difference?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-how-autism-researchers-are-applying-machine-learning-techniques.md",
-      "title": "How autism researchers are applying machine-learning techniques",
-      "excerpt": "From identifying a new antibiotic to generating the first-ever image of a black hole, machine learning is changing how scientists approach questions in many fields. Autism researchers are being equally creative, using machine-learning methods to improve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.spectrumnews.org/news/how-autism-researchers-are-applying-machine-learning-techniques/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/03/23142010/20200325-MachineLearnV2-8441.jpg",
-          "width": 844,
-          "height": 570,
-          "title": "How autism researchers are applying machine-learning techniques",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-is-machine-learning-the-quantum-physics-of-computer-science.md",
-      "title": "Is Machine Learning The Quantum Physics Of Computer Science",
-      "excerpt": "Quantum Physics was a new way of thinking about physics. It seems there are parallels in the world of computer science.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/",
-      "ampWebUrl": "https://www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rahulrazdan/2020/03/25/is-machine-learning-the-quantum-physics-of-computer-science-/amp/",
-      "publishedDateTime": "2020-03-25T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7b33c59f46de0006e48c79%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Is Machine Learning The Quantum Physics Of Computer Science",
           "attribution": null
         }
       ],

@@ -37,6 +37,21 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8466feb0-7f13-11ea-bfef-587f798de2ed&client=amp-blogside-v2&signature=63a511e40e2fa13f86595a02e9e8f9bc58651366"
         width: 600
         height: 350
+  - title: "Tesla’s latest self-driving visualization comes to life in this impressive picture"
+    excerpt: "Tesla has made some impressive progress in self-driving visualization with its latest software updates. Check out this new beautiful picture that represents that progress extremely well. In an update called “Full Self-Driving Sneak Preview” late last year, Tesla made a series of “Driving Visualization Improvements”: The driving ..."
+    publishedDateTime: 2020-04-15T15:49:00Z
+    webUrl: "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/"
+    ampWebUrl: "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 83
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-self-driving-visualization-hero.jpg?quality=82&strip=all&w=1000"
+        width: 1000
+        height: 480
   - title: "Tesla wins monetary settlement in lawsuit over self-driving car startup Zoox stealing secrets"
     excerpt: "Zoox is a relatively secretive startup that has been developing a fully electric and autonomous vehicle. You’d think that if Tesla would have an intellectual property issue with them it would be about self-driving, but Tesla is actually claiming that Zoox has stolen “proprietary information and trade secrets” about their logistic systems."
     publishedDateTime: 2020-04-15T12:57:00Z

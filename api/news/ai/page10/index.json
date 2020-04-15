@@ -2,6 +2,133 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-02-you-can-now-buy-aws-99-deepcomposer-keyboard.md",
+      "title": "You can now buy AWS’ $99 DeepComposer keyboard",
+      "excerpt": "DeepComposer, which also works without the actual hardware keyboard, is more of a learning tool, though, and belongs to the same family of AWS hardware like DeepLens and DeepRacer.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/amp/",
+      "publishedDateTime": "2020-04-02T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/2020-04-02_1429_001.png?w=1024",
+          "width": 1024,
+          "height": 518,
+          "title": "You can now buy AWS’ $99 DeepComposer keyboard",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-deploying-machine-learning-models-as-serverless-apis.md",
+      "title": "Deploying machine learning models as serverless APIs",
+      "excerpt": "Machine learning (ML) practitioners gather data, design algorithms, run experiments, and evaluate the results. After you create an ML model, you face another problem: serving predictions at scale cost-effectively. \nServerless technology empowers you to serve your model predictions without worrying about",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/deploying-machine-learning-models-as-serverless-apis/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T14:38:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/01/deploy-machine-learning-model-apis-1.jpg",
+          "width": 407,
+          "height": 297,
+          "title": "Deploying machine learning models as serverless APIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-microsoft-expands-the-availability-of-azure-kinect-to-japan-germany-and-the-uk.md",
+      "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
+      "excerpt": "At MWC 2019, Microsoft first announced Azure Kinect, a connected depth camera that enables organizations to build AI vision solutions. Azure Kinect features best in class depth sensor, high definition 4K camera and a microphone array (7 mics). In July 2019, Microsoft announced the general availability of Azure Kinect in the US and China.",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/",
+      "ampWebUrl": "https://mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/",
+      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-azure-kinect-japan-germany-uk/amp/",
+      "publishedDateTime": "2020-04-02T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSPoweruser",
+        "domain": "mspoweruser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mspoweruser.com/wp-content/uploads/2019/02/Azure-Kinect-1.jpg",
+          "width": 1080,
+          "height": 608,
+          "title": "Microsoft expands the availability of Azure Kinect to Japan, Germany, and the UK",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ibm-watson-offers-free-service-to-answer-covid-19-questions.md",
       "title": "IBM Watson offers free service to answer COVID-19 questions",
       "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, natural language processing capabilities from IBM Research, and enterprise artificial intelligence (AI) search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19, IBM said. \"While helping government agencies ...",
@@ -915,32 +1042,24 @@
     },
     {
       "path": "_news/2020-04-02-brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-virtual-conference.md",
-      "title": "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
-      "excerpt": "Mankar’s presentation will introduce product details of the AKD1000, BrainChip's first event-based neural-network IP and NSoC device ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. The solution is high ...",
+      "title": "BrainChip Introduces Company's Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
+      "excerpt": "AKD1000 is the first event-based processor for Edge AI with ultra-low power consumption and continuous learning BrainChip Holdings Ltd. (ASX: BRN), a leading provider of",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200402005259/en/BrainChip-Introduces-Company’s-Event-Based-Neural-Network-IP-NSoC",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15726504/brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-vi",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15726504",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15726504",
       "publishedDateTime": "2020-04-02T05:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200402005259/en/782937/23/BrainChip-Logo_tagline_full_color_header_retina.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1171,135 +1290,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ai-is-greedy-but-we-can-teach-it-to-share.md",
-      "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-      "excerpt": "Running Artificial Intelligence processes isn’t a lightweight computing operation. The so-called ‘data science workloads’ that AI solutions need to perform processes require more than your average laptop and,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/04/02/ai-is-greedy-but-we-can-teach-it-to-share/amp/",
-      "publishedDateTime": "2020-04-02T01:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84b1f12b3ff900068e6813%2F0x0.jpg",
-          "width": 640,
-          "height": 449,
-          "title": "AI Is ‘Greedy’, But We Can Teach It To Share",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
-      "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
-      "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
-      "publishedDateTime": "2020-04-02T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/c374ux/article30591370.ece/ALTERNATES/LANDSCAPE_615/bl1817bgakrPGR8705KHD3jpgjpg",
-          "width": 615,
-          "height": 384,
-          "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-train-a-deep-learning-image-classification-model-with-mlnet-and-tensorflow.md",
-      "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-      "excerpt": "Image classification takes an image as input and categorizes it into a prescribed class. This sample shows a .NET Core console application that trains a custom deep learning model using transfer learning, a pretrained image classification TensorFlow model and the ML.NET Image Classification API to classify images of concrete surfaces into one ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-transfer-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T22:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "Train a deep learning image classification model with ML.NET and TensorFlow",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stoc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "5 of the Smartest Stocks to Buy With $10,000"
 
-secured: "X5KEjav3aR3LTxZAfN69UuD8PhFYyHtTQC0ziq4oVGdlRR83SSDTXQCXvuPbQPIaxakIU2+XyYY+VGaidUAehLtrtHl4X5klL70f4rVM25Fdp7CYxVQVsZfj/dwPnvB2E/ZvkvqppSVYp3rykfe6YRkVRPan3wYnKqO7n2pA3roYOWS9dmnhKvlt4PCuSgimntWep+wtnlJd1Jp3I6SoW8qf8BFlv5bk79PYi5sh4Y5X83SkjfYc0bzZ2yREVJ7HvKfQdS4ComcXgrRO2OYXwQwI1izASRm31/cTCCnGUF6Wsd28FRTkzRyZlgSFcyij;CwYVHqvj2dM8pR4iMidZ+Q=="
+secured: "6I+V4rGAx/PFmDPaTzlbzoPMIn3zhzpriM4FISaX5Cgs9jD2UeW2lRTqQPqYaRhNmsI/8Q82CYqr5/W80G7pEAHk8g+d5OUJh2MpBOfh2Pn0tW6kSXfvkmQG000kU6FX0fRhze0H8pAK5L7BpHi5ex4wKELEN5GRTXL+AHRZzeinKoRfyptNYyoLzKHmuhMC4FkOYrAuY5IiUQGgkBb6aWPH+LclxdhdtpPCn7nhf9p7beAf/8XTk8Yj5kg+lfNAhPMmJ9fiHXzdPWNBDp+rfHNFtb5VmKL+9TDSLKX69kc00HS5V4wUsIViCyLxtqPN;Ar12og+quNG5A7MDqRZe8A=="
 ---
 

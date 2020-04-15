@@ -1,13 +1,10 @@
 ---
 category: news
 title: "Deep learning to power AI growth in APAC"
-excerpt: "Spending on artificial intelligence in Asia Pacific is set to soar over the next five years as the demand for deep learning ramps up. By 2024, the APAC region is estimated to account for about 30 per cent of the global AI platform revenue at approximately ..."
-publishedDateTime: 2020-03-27T03:30:00Z
-webUrl: "https://www.arnnet.com.au/article/672264/ai-apac-expansion-to-be-powered-by-deep-learning/"
+excerpt: "Spending on artificial intelligence in Asia Pacific is set to soar over the next five years as the demand for deep learning ramps up. By 2024, the APAC region is estimated to account for about 30 ..."
+publishedDateTime: 2020-03-27T14:30:00Z
+webUrl: "https://www.arnnet.com.au/article/672264/deep-learning-power-ai-growth-apac/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: ARN
@@ -23,6 +20,6 @@ images:
     height: 500
     title: "Deep learning to power AI growth in APAC"
 
-secured: "MDuHwNg5VjI9s1o3CeWoA+CRNNqOyvPPb5JIxCLBN7BXn31hhbTBqBV4vRfNDjY9f39f20WaSIWe2A5U77M3miJEdutYIrNdRvOyC/MHVzr5C+WDCB6FFqFMhQ4quopZWeJw9iznWXqesRnNwqb7GEP3pZSONkXCGPY9P714qynq3e8XJUWM4BLagdcVU1BfhVdS1fwY1dthBH+ei1b5iZeWcfhNCa++sU7Zh9Sl/+15EWNuUvZsfkjduiUiSCtQqYs9fQUVHhtKGqgtVVE874ZjAW73Qau61VTuw6HWqkBBKu1JS2woGSadQLEeHSuh;/WGRNmsBQv/TEpXfWqbxMA=="
+secured: "dj8qWUWJ9Fy6vNZeb9jW+VtoFCQAWXXzZYhLTGSULnqtaZKxMkgE/UKZF8Oe24GldlZ5FEF4UElIPDoRRluiwkzlbMVvKFc25FZBoi4jrFofx/sn6xrExk1SKLapPQeCsnWUAS1/TH1+4WtE7RNIDWkgp5HmubiCI6hpTmw7z7Et+t0f+oui58EpznpjzA2GwJhAoWxsWRta3ecu7aMJq/4DKUU3w1k+rEbOxuibqIz+4PLL3q0deSePYsm78O8OFbPFxVMjYFQbd92VaWt5rB0cVhiqcX18foP7WMZNwbmnfrHc+IKIrw01QGAqttnD;S+JlIT2MGIFUUmJeMS9wQQ=="
 ---
 

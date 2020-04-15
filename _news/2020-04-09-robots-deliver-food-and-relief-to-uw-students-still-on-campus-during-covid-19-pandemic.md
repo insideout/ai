@@ -22,6 +22,6 @@ images:
     height: 701
     title: "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic"
 
-secured: "Hb5o1b+nxnXX21f4GtY0CGRx7KMdogKiKLY8dmMdqreeHyWXUbkUjNQSqI0jdN52U7fXfZmbw8ebL50IVWrg1KKVbYkwZi+xIxEuZTiGaHJM1cH5gYPFDbLkAdYedVUxFa0v44FjEvPC6nt72+6hTthiwzm9nwbT4gMYBpZsNa+MQHQMy0Jy+epUumTHTEYlN7+iYMRCHlCzXGehQPu6LYXAfPqYVORSXt6jEd/JEE+wCp7Z4GNM9UA2Dl1lLkVjNanmHkm/OvD+Yt9pSK0oI9/7nE8NM7pM7T83B1Uxtxu9eZo0vzi/nHz6cNaWiXq/;5NsBFVFNUxT8yuyKsJu/Og=="
+secured: "rZEPMSLZVeJ6Iqbit1S2AtyhZNn6EcWbcwMgrYLsj3iZ7lMSai5Ph8hykzLheTj6xGWsjukv+i/t6nlxgwXfdKk0u/t8qmuGmn12k9L4bXp7Ndqf5dO/HiCocUp39WoCoZUjc59sogF5tSzJYPeSOdWaEOZ6PF47i8wnTjdy7PWlJpLWeqgsEhqg2crJy5VGiiE6WcAAEj3Sq2yebiQxvKvYE7aHhmn4HkfHq5JieQvh2AWJE+HKVt2HsTvLYzaSbx6tA60sLJIJyHG6670UXkWzWWhsDjE3THmu+J5ONcUFhs+6sl7nPiximGavLjNuN6lTpPb2+QE8s4LkunpPg4KQt+zGelwQC9Mb8cR/FDf867ajmVvE9dBHBaTGKh4s0Q3YWmf1xk30uddoE7ohy3gjDdNdf/MC2/rS4souHwskwQpGac42eXbHg/yLVKv5Wvr8x0zEgEku3iumWGbLBKD/4y3sOJwfI1PtqL4mSD8=;GbI1dSrZBQF9ydC3mw8JMA=="
 ---
 

@@ -2,6 +2,274 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
+      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
+      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next.md",
+      "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
+      "excerpt": "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2020/02/28/the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next/amp/",
+      "publishedDateTime": "2020-02-28T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1199766600%2F0x0.jpg",
+          "width": 1200,
+          "height": 784,
+          "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-facebook-just-rolled-out-a-new-tool-that-uses-ai-to-turn-photos-into-3d-renderings-heres-how-it-works.md",
+      "title": "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works",
+      "excerpt": "Most Android and iOS devices will be able to use the new 3D Photos tool, as Facebook tries to establish itself as a leader in AI.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/facebook-ai-tool-3d-photos-how-it-works-2020-2?amp",
+      "publishedDateTime": "2020-02-28T09:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e594f5afee23d04d777ff63?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook just rolled out a new tool that uses AI to turn photos into 3D renderings — here's how it works",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-facebooks-3d-photos-no-longer-require-portrait-mode.md",
+      "title": "Facebook’s 3D photos no longer require portrait mode",
+      "excerpt": "Thanks to AI, any photo can become a “moving” 3D image ... The company says it can make 3D pics out of everything from recent selfies to \"decades-old\" shots stored on your phone. Eventually, Facebook says it hopes to also apply the research to video, which could open up some interesting possibilities for its AR and VR efforts.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/28/facebook-converts-3d-photos-without-portrait-mode/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/28/facebook-converts-3d-photos-without-portrait-mode/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/28/facebook-converts-3d-photos-without-portrait-mode/",
+      "publishedDateTime": "2020-02-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Ff0e99b70-5a4b-11ea-b3fd-fc6cf580e7a6%26client%3Da1acac3e1b3290917d92%26signature%3D6b8d8f896f6feb0b58798ec2c38a7baa36f11d36&client=amp-blogside-v2&signature=822ec0bbdb91cf6c312f1890b87e5886bccc4948",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook’s 3D photos no longer require portrait mode",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai.md",
+      "title": "RSA CTO outlines pitfalls to avoid when operationalizing AI",
+      "excerpt": "Ramzan leads technology strategy for the organization and holds more than 50 patents. He said that AI and machine learning have been part of the security world for more than a decade. The difference now is that people are talking about the tool instead of the problem. \"The focus became the mechanism for solving the problem instead of the actual ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
+      "publishedDateTime": "2020-02-28T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/27/ec6f77a5-8dc5-430b-9e5a-4a21acbb2bbf/resize/1200x/1ba6e5e4b1e825599800a381001f43b9/screen-shot-2020-02-27-at-3-16-08-pm.png",
+          "width": 1200,
+          "height": 756,
+          "title": "RSA CTO outlines pitfalls to avoid when operationalizing AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-would-you-work-with-a-robot.md",
+      "title": "Would You Work With A Robot?",
+      "excerpt": "It’s 2035. Booting my iMac, after checking email and my favourite newsfeeds, I start iDavid, my digital assistant, I tasked yesterday with some research I need for a feature I'm doing next month for my Forbes channel.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhowell1/2020/02/28/would-you-work-with-a-robot/amp/",
+      "publishedDateTime": "2020-02-28T07:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1152951190%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6974%26cropY1%3D354%26cropY2%3D4278",
+          "width": 1199,
+          "height": 675,
+          "title": "Would You Work With A Robot?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-salesforces-einstein-vision-language-services-will-get-named-entity-recognition.md",
       "title": "Salesforce’s Einstein Vision & Language services will get named entity recognition",
       "excerpt": "But Laraki notes that Salesforce’s goal isn’t necessarily to create the best natural language processing engine in the world. Rather, the idea is to tailor Einstein Vision & Language to customer relationship management and Salesforce clients’ needs. “This goal is very specific. We’re focused on solving problems in a way that drives ...",
@@ -814,259 +1082,6 @@
           "width": 630,
           "height": 420,
           "title": "Smart camera startup Wyze sued following data breach that exposed customer information",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-ibm-and-microsoft-sign-vatican-pledge-for-ethical-ai.md",
-      "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
-      "excerpt": "Tech giants promise to develop new technology in way that protects the rights of all people The 'Rome Call for AI Ethics' document calls for artificial intelligence to safeguard the rights of all humankind and for new regulations in fields such as facial recognition IBM and Microsoft have signed an “ethical resolution” with the Vatican to ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
-      "ampWebUrl": "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
-      "publishedDateTime": "2020-02-27T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-scientists-make-artificial-and-biological-neurons-communicate-over-the-internet.md",
-      "title": "Scientists make artificial and biological neurons communicate over the internet",
-      "excerpt": "But scientists in the U.K., Switzerland, Germany, and Italy are here to remind you that it really isn’t. In a recent experiment, the researchers fired up a working neural network that let biological and silicon-based artificial brain cells communicate with one another over an internet connection. At present, it’s still early stages for the ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/",
-      "ampWebUrl": "https://www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cool-tech/neural-network-rat-neurons/?amp",
-      "publishedDateTime": "2020-02-27T10:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-newlab-and-the-boston-globe-team-up-to-launch-ai-tools-startup-applied-xlabs.md",
-      "title": "Newlab and The Boston Globe team up to launch AI tools startup applied XLabs",
-      "excerpt": "Applied XLabs is also the first startup to emerge Newlab’s venture studio program. When we first visited Newlab back in 2016, it described itself as a workspace for companies in robotics, AI and other fields. Now it’s created a studio model where it aims to bring together “diverse stakeholders” to create new companies in frontier tech.",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/27/newlab-boston-globe-applied-xlabs/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/27/newlab-boston-globe-applied-xlabs/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/27/newlab-boston-globe-applied-xlabs/amp/",
-      "publishedDateTime": "2020-02-27T09:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Copy-of-NEW-LAB-img_1796-1.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": "Newlab and The Boston Globe team up to launch AI tools startup applied XLabs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-optimizing-application-performance-with-amazon-codeguru-profiler.md",
-      "title": "Optimizing application performance with Amazon CodeGuru Profiler",
-      "excerpt": "Amazon CodeGuru (Preview) is a service launched at AWS re:Invent 2019 that analyzes the performance characteristics of your application and provides automatic recommendations on ways to improve. It does this by profiling your application’s runtime (with CodeGuru Profiler) and by automatically reviewing",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-application-performance-with-amazon-codeguru-profiler/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-27T09:08:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/26/codeguru-5.gif",
-          "width": 800,
-          "height": 498,
-          "title": "Optimizing application performance with Amazon CodeGuru Profiler",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-robot-uses-ai-to-personalize-teaching-of-autistic-children.md",
-      "title": "Robot uses AI to personalize teaching of autistic children",
-      "excerpt": "“AI methods cannot and must not be used as a cheaper substitute for treatment by human doctors,” Alena Buyx, a Professor of Ethics in Medicine and Health Technologies at the Technical University of Munich, said last year. The researchers stress that they want robots to augment human invention rather than replace it. “Human therapists ...",
-      "heat": 201,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/",
-      "publishedDateTime": "2020-02-27T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-40-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Robot uses AI to personalize teaching of autistic children",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-researchers-propose-ai-that-improves-the-quality-of-any-video.md",
-      "title": "Researchers propose AI that improves the quality of any video",
-      "excerpt": "Increasingly, researchers are using AI to transform historical footage — like the Apollo 16 moon landing and 1895 Lumière Brothers film “Arrival of a Train at La Ciotat station” — into high-resolution, high-framerate videos that look as though they’ve been shot with modern equipment. It’s a boon for preservationists, and as an ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/researchers-propose-ai-that-improves-the-quality-of-any-video/amp/",
-      "publishedDateTime": "2020-02-27T08:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/IMG_20190521_085108-e1582820427554.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Researchers propose AI that improves the quality of any video",
           "attribution": null
         }
       ],

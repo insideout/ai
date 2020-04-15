@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T20:28:00Z
 webUrl: "https://menafn.com/1100023122/Deep-learning-has-Revolutionized-the-Banking-Sector-Says-Deltec-Bank-Bahamas"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -22,23 +22,6 @@ images:
     width: 1920
     height: 1080
     title: "Deep learning has Revolutionized the Banking Sector Says Deltec Bank, Bahamas"
-
-related:
-  - title: "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector"
-    excerpt: "Innovation” Machine Learning Uses Three Structures to Produce Improvements – Deltec Bank Machine learning is a prerequisite feature"
-    publishedDateTime: 2020-04-10T22:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/04/ab15784506/deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/15784506"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784506"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 73
-    images:
-      - url: "https://www.abnewswire.com/uploads/7d1cdecfaa1f9896ac0a4752d6ed7d1c.jpg"
-        width: 600
-        height: 352
 
 secured: "+8J1HOZeMxt/EwrCQwpJAmTUculssoYWus4Qd8RXLyW+Q7pxV20pgnxquLkFo2vwj7hsRqZi9EcsbjO3I9+fbKrWkIcCoSV4hFF3+bqsdJIIzQ8znHoDsBxyTYOkC9zFEMVwdHCWHpYaqCQZnmpbZ0hbrDFV7Aeq1Bnt5BwrSWsmMwxTlyUKzyTSHkUlm61/BUWUw8qjxIuS/dQ2MtC68dfxG90RUV4VIU2sbg7fsMgK67nO4dR98kooapCHM8lwYWIXLfGE06PCakJtK6OmNKbR2Q/rnnQNXeBcqjvomp7yWGp3amumIQmzeggrqBIQSYdD0yK/HFQO0hiS15hRSDUI7SqxJwKKP/9htYg5uuyhbO7nvz61w0Fcna5Om/DQGuKakx4jRnDOkAGNTfAg5W6iAtXSTwg/iEmUc+mmJ/0DvMTNZrPK+0GT6SMCEBwULr3S9iMHsD0tQOgefjLOK0ZR5LNbGrHkXlulL/erVUU=;UTRtVuMd/rXhAI2gSoBAIA=="
 ---

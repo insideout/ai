@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/adobes-releases-ai-powered-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "Adobe releases AI-powered product recommendations tool in Magento Commerce"
 
-secured: "B+ncX6lxdhPzKPVeSW/isvbHBaJki2OtuxjcuybCUTY+vM77swZGW5rNik9R4oTgmfGE021mDZEkTnlZ58/Jv/Q8154smdQEOcsTzLbvAPE4QT+u4ovnWjGeZ5vS9VJl5t008VWJkjlh5m1q9G4GOuPGvZXCNgD7ZYqDGDaTd1cGk6+gkm0SR6jiPl5QZPV5Mmr9YD5iM9dlKEEzjrUx4HxjYT4a/OuUnpCMY5db+WRudXxaPZm5C9sLTzYPxDVAGu7iet+1KYc6P51591NUxOH9o0hBsTSHm3u/H8KHbl4HGspi5mUycgXEBHUEbHN9c6r5IZipe72W17kWUTId67pVohtIACVOApn+kOli50scgapRb/yJlgRWP7FIeRLYoCadc61wyQFzpGbo3hzpzA3sNZHy6VJ5u5qp/VyTNM1HLv9sbKJxX11DpgE1jAH5XsJoJHcd6+pllTNYmMU0NEWfxFZZksISt6895GurQX8=;XK2IoIoYkjJtCMHgPbKOyQ=="
+secured: "UXJDxi32mEF7tu4jWHce0k3aX8YLxI7qmw3+NlGjkQ6lDpZ5vl9wmPM/j/MNJQLpC6pUiUVum/wq7jUMbRU/3886kguFr4Nz/M6nk7wICqMPGF+uLxIDW4yvp1aJPRYiLSmpvcBjqH4aMZ1bZQA+7CH6+WaEgkvqL8KlF/Gthrrsr2U9RRdRuMpYvR9wUkpakd6e8rRwH/MoTsCi4wIwfQsLVrSMw+DkaihvtPXWzDBUrOlEmu5mzN1YrM/kVlmUtsejECspHJXfjdvckE1CTsR0ajpRNzbi99Z+UYjXayqx/cDACewy1M0Xd8uFwd5K5BIJV3gX4Z5HPQUyWRiOxlZZhwAslTmVvkgsnaR42atgYznMl8sfyCYTyqW1cXez5bSQ/aWEB5+T8Mnd0dswY4ba/JmfCSEpidol2xQ6ZO+hM7XgSwb0hzMGUWOikmX5j5W6+cu0U96vhLr/IK4wpkyfu6amBBr2qlRYhbKtiO4=;QyWgTg1w+b1Bx1bx3Czmmw=="
 ---
 

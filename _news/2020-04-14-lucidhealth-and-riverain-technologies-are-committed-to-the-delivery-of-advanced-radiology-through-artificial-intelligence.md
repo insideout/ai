@@ -1,27 +1,28 @@
 ---
 category: news
 title: "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence"
-excerpt: "MIAMISBURG, Ohio--(BUSINESS WIRE)--LucidHealth, a physician-owned and led radiology company, announced today that it is using FDA-approved ClearRead™ CT by Riverain Technologies, an artificial intelligence (AI) imaging software solution for the early detection of lung disease. LucidHealth is one of the first radiology companies in the Midwest ..."
-publishedDateTime: 2020-04-14T17:24:00Z
-webUrl: "https://www.businesswire.com/news/home/20200414005825/en/LucidHealth™-Riverain™-Technologies-Committed-Delivery-Advanced-Radiology"
+excerpt: "LucidHealth, a physician-owned and led radiology company, announced today that it is using FDA-approved ClearRead™ CT by Riverain Technologies, an artificial intelligence (AI) imaging software solution for the early detection of lung disease."
+publishedDateTime: 2020-04-14T17:58:00Z
+webUrl: "https://apnews.com/Business Wire/95b1f040075840809ed653e18925e54b"
 type: article
-quality: 26
-heat: 26
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200414005825/en/785010/23/Riverain_Technologies_Logo.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     title: "LucidHealth™ and Riverain™ Technologies Are Committed to the Delivery of Advanced Radiology Through Artificial Intelligence"
 
-secured: "kq9mjNiVq85FKCN65s5O8EKJ2g6tgUJhVNS8m8oe2Cim7W5l/BDkLsz5U8ydba4Arno1yPsCGPkMKv1rlLAFDKTsuGGqQj8W5CMObuK669dX6xhxTQ8CKW5Xl8iHaH5qrqPV6Oj49Qk5QhSw2rJjVemX+J1B7EfkQLw9EUF8DqccQQ/ZidXCQ5vg5rGvThWvOUUkJoKTCiyOaOoI0P1AsKTkVCWrA8VPO+ORdAJjKM3RP0eX3gZbnpGfGx8BRuYONhBMXk953OX1LefLfbuJHa85e9ArI7uEFb2Yp8ELCjW2yk9TmDMmJpFovdiUSqLb;kLEkdoTcciqNFHjUC6wV/w=="
+secured: "f23/A7EHeN59KFPaMEU2QVqDnA+oP0Pfn2SNT2VVQ8bX1HnSqqfGpHLZey4qdIx766PyJ9MrRlD03oZPxg7X3xVAY6OF2jGKIokC6aJvpVgfldq0sjNoVGcqtp3XlZy98CICcl2HI/i5gtV1meQxM6c39NjSpL+YYhdtIviKVYEamzAcicx/HhqTk9bh2z3RgA/GID4v6UIaFHb8UzjJIkhL2NNfY2Ne+nbWldz3E780uqlhv44kwiVJdjiRLaGv6KvcXq2/MhpDCFGqCeca5BNDuKH6p23QMAPNgAscwX+sXnmZTiyHicUXPzVNvM2e;tHmUWQUz8yKxfhnR4GJCWA=="
 ---
 

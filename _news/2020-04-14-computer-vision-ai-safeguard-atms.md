@@ -2,21 +2,25 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:24:00Z
-webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:47:00Z
+webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 67
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "foX602C1183CY4QcXV7fiJg8mKGI9HhOwg24O0tzYlRIFyCYExFniCoHdFN/2xg7a6d/1pTzxFSs4JFNvqGQAL+jHkBILwq/2IzPjBFheMeTO3paXKimAvGCLhRvFEIiF4MijdGXcLmlnTWDdf+0RFY+4OIacciYYBjaJ7C/Rlk6X4D1TNw18Y104bwmkAobrRaOR9akwyfL9StmY8RJzIfU5/vluCXUNlPQ4j0rV6dZ+vyGMJi+77W6zqZ180xbkwjT10s35N1su13tEYbc+xmMJVTnecAEmhy/CvD8rv2nhdLad4KYjgSy5MoCs17auA6YQiloH2cIHA8HORG1xGKLS8guQ2RnB//EI3hLE5jyaOpAxFYgEwX9MFgLbLnWNRWe0nBzXa59SlYMzHkjv3xyc7oscGsPyNPWhQQaC6o/HTGScc8RhPnkvfMOp/NKtCoZdbBQsaSATuTcSID66BonXA38AVhGFNg7ZSsD02g=;cT7Mu1pt5TJ0s5ztJXlOoA=="
+secured: "Vj4a1rJLLr4dUBzU+nmTF3HMiWajLJgEjTqPerh1VI6Z+NUD8izwFtq4WKt2zE1SYNSKt+ZXnZYEZG7zb5VeR1nFUg35oXhl3unNaqGzdGJQJyFQk0jSSUYU7roI72P25no+P+a+U0R0y23BOAzDNE1jGP6nFfyoLPVvT6zs4iA8JJPo9TD6T71WNF2XSUTbe8oOGKDv2XM/zd4QaTiGILxXGoHxwt9IJ9tP8PBgvUikOeQzWZIg36KAau5M23Z/verOPvmzakdTRCFLJ4bZ0Q60r1+OLFJ1T8O/EuSKl3X3w8wyRh0HL0eigk5J9D4r0KDZCCWgObuVlDGwd0pjpG7iBnIkQsw+At93NBR/d7nr0V9ttrHJ5KlgSuFGlvxEOdloaClTPQ7fEX1CbX/vakIuvGkG4xBK3zxz/AmQEbve4j+t47DN9lYxL1TQ4NkSnwFMcEg8CWECbd07EESLxKdFuLNpdxjkn8rutYR6oWc=;TE2c4oYrh9SuNAymp4/Keg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-12T05:05:00Z
 webUrl: "https://thenextweb.com/syndication/2020/04/12/conversational-ai-might-be-key-to-informing-citizens-about-covid-19/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -37,6 +37,6 @@ related:
       domain: bradenton.com
     quality: 9
 
-secured: "GKGgxTfy0oDOXW85SrGQA9jyGkvxOtMuQWkK+f97boXgoyfSWE9ji5BOJoCYFR0d8s4O3dl2ZLPRzpiExzakLO/zejpESmhEEdNsaiuAG2ZRGLHXj5ualhThUgAOGQ4jpFYQqDKlifjNyjcPu06/NtAN/Puqsn9ujH7tJlhiKaHgAlb69e5rG8MDWmjywxAkrzHxCrQ4k/rz6XQBkJoMoLL7OREW/38RpEmB39FlCGeYSYadYvqil6A0B/pjtbEGFme5rkY0XWj7OEubdnd5ClFRDrv0eCuleVnNPE5vyMzyMglA/fIZ2iVincfFO+qdpJsLdUHkJLWVZQxS3lJKUxxMsI5j/6suy3failrqOhwVqVGAdwzlk+e24iW6JBkgQarHJyYNzjibbHwkLTA38om9Ap7cJaLMGYA++NlcaLIoG07SPRtMDZ3SGxOWJBDzSZXX/H35d7lGKBkSPURtkGZWm+oKDrkzglYAb1eDBKs=;YVdcOw7nI602NQngYtgUew=="
+secured: "216i53qOOelabujNrLITofOuryjtTQtfmm1yAReSlgg3w4vS+EJXPQhVld0dRl2TVmJ+vZ34iRwyiy1PkXdB8R1d4pIBYYqi1eWFeHWSiWoqGMivFXIhG4/OMf1cC8kxzJoWlzHrafztZyQWB/vlvqFlMwsPjmWGVg9ixUg1jHKh4HB+K+OXDit8eD8nEvA43OyVDe/TdfdUBwYncEJy6ejv2kBL3TUUpQgOzZSBPF7JKNES3ZyMALxxRz522GA5KZUJJbwxMP4cpQYcfgzTL3jiL4Kod2lsENOmRt5UMBPBeuIP2ZzXMabnEMuI+p5gr4fkbimR+7EVCR/PxNknnorsmt650/JVDM1ZHppcVkFpCXX5eY7xvrEshtNbumunRlFuq5myonUpGgiFZOmGVhznIQZPLhXxFCtxLEaVXJm3deOLnqovQL8WG67SJ9pWe58K50dwmnPvjARtJxyD/hfFih72q4fUb05XA6tTaWE=;2u7KLGcYy4KkG6BLvfbu8w=="
 ---
 

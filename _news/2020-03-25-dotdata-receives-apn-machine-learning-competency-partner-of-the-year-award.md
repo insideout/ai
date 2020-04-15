@@ -3,7 +3,7 @@ category: news
 title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 excerpt: "dotData has been recognized as a leader by Forrester in the 2019 New Wave for AutoML platforms. dotData has also been recognized as the \"best machine learning platform\" for 2019 by the AI ..."
 publishedDateTime: 2020-03-25T00:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-2020-03-25?dist=bigcharts&tesla=y"
+webUrl: "https://www.marketwatch.com/press-release/dotdata-receives-apn-machine-learning-competency-partner-of-the-year-award-2020-03-25"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 630
     title: "dotData Receives APN Machine Learning Competency Partner of the Year Award"
 
-secured: "XnspaD4giUlwVhMSXj09kAWOWEKAH3PKvkWUOG6Xj2nXHD0SJjiz2UDXa6FYTi0F9NyhJ8i0y8TmXIntPX8ROsnRN0wYHKhV0soD4I3bHAicjTUk176ee1nkmsvHqsUtslGmGV6yOid3aHa0+ZvRkCjCqJ6ZYGfZ9PUiwpEnLt55VwV92jvCyvHTiH3npC3/sDjwyoFqZv/7vha8QvfqnfR0vtL+RRJDNQelmeLQyUJrQAdXyiMMOAjIvb+Camug3fKrGIq0+X//UpSgNDrnzQQCPLwOU6MAe55Y36GQ92/WNRe8nm2VW5jnQhNItEKZ;M8nc9q/7OcbY9hCGXFK2+Q=="
+secured: "0s5qwE6e/pG7Ua9ZDVJHHynVooWOSVioIGUpY69dxVarcS/cHNk4/fUd4etpePl3wZ84R9JT/9UMyykOrSSXUej5XaXdxch8rOO6NLhD78ax43eOFgaFwghN0t7IbEju4NEXupfx8ot7GE3Q6EISFnpWajQyJuKxYcW78C+IfZvnw7bV/IZYAG/mvxME+9bZLV7cycoS/15ZQIyaDNTnUnyehLOQegi6xjxQeMiWYHgfIxU9/7+vakq31oWaK0Cj9KcmSyIjbJrtckNVrgpzELb5xJxjhh5fwFRkmbNCFigRmKy2WO+52u80RjuwC6Ph;4qgzWu1ekezHflMqB0HfqA=="
 ---
 

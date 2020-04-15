@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-fin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

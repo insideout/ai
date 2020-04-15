@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
