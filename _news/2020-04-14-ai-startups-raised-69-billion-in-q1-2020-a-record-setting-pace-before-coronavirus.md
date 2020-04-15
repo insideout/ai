@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/"
 type: article
 quality: 80
-heat: 91
+heat: 90
 published: true
 
 provider:

@@ -4,6 +4,8 @@ title: "Add another chip on Luka Garza's shoulder"
 excerpt: "Oh yeah, I don't even think it's close,\" senior center Ryan Kriener said when asked if Luka Garza is the national player of the year. \"If you look at the other guys who are up for it, (Garza's) numbers are better."
 publishedDateTime: 2020-04-03T16:43:00Z
 webUrl: "https://247sports.com/college/iowa/Article/Luka-Garza-Naismith-Player-of-the-Year-Iowa-Hawkeyes-Big-Ten-Conference-NBA-Draft-145669828/"
+ampWebUrl: "https://247sports.com/college/iowa/Article/Luka-Garza-Naismith-Player-of-the-Year-Iowa-Hawkeyes-Big-Ten-Conference-NBA-Draft-145669828/Amp/"
+cdnAmpWebUrl: "https://247sports-com.cdn.ampproject.org/c/s/247sports.com/college/iowa/Article/Luka-Garza-Naismith-Player-of-the-Year-Iowa-Hawkeyes-Big-Ten-Conference-NBA-Draft-145669828/Amp/"
 type: article
 quality: 39
 heat: 39
@@ -23,6 +25,6 @@ images:
     height: 630
     title: "Add another chip on Luka Garza's shoulder"
 
-secured: "Bxn8+ZpwxAYS/6j1qsYsES/rGU0BwSwHCkKltkTMT3f0hJi12BDTP3JZI6NMiCTelbuy0W5mCfyH+ncx3qVChPrJGw7iR/tZd+3V6YGmQuILAP/pYxF7MYeR5LfLV9xmff03AqBGJyQBIAsRIPwsvI/Q1GUAG52uDuJiIYfgOOo89TUc7ANnsbruw+fy5Xy5UTvZ5oAjs8tfTopdm9G5JNj+/O3SOhSng8Q5vJiKxHSzsVIWF46OxCBI7aBb2cV0lQ0M+E7oHUMr1aX+iIVrhkG3ME9oJvbgZZmiPRxu8gpfm+gyNGxuA08OLkgFHO6X;y+4qpNDrqFXiy39W2h0mgg=="
+secured: "VSeI1Ztpl3GzRG78GJO9sE/VcBfyYot1RHuUubBJzxBnN3CwfflXH3WnJw/l76IuwPqb8EG0Fn+ZH+jXEsOxIrlcwTgONcbSN+TdrNvHBmO4hCgYbtgcdlBXJumiZfiX0f0hdL8Fc3ajxp1dOjpuhQTDIYXMxo35x1Oao006sD3PM4VgTFK4ICUpf/R/9wZvQxWKtAAcsw3PP0+KEa4t0eLRYkKDC57p3+FyxAEhboeZvoTh3U5O3FhUGouaZsrDGAL7LD6XA882XKVYeDCn/1WjtTsOpI+WmFUiieLQ3XAdzM8ycylocJAmbWiporsBK+4/q1EdunQ49EKl2mM3rKoNRbncxQLcFC50fhwyqpnADx00PRSzKeBfVhC9SDdJwQMbyoWOz+WjA0rIYnUy/7oTnxdaTd2Q0jBZ3q9Dh+qffTKEyXD3Ld6aLZPjT7LJCeqKAI70Dh7vKNnAVKBTlYh3SXB+52LSPkpx7w8nkLM=;2VuqbmNch/NlliUTf5D0nA=="
 ---
 

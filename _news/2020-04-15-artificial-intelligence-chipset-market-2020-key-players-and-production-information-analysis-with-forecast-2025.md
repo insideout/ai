@@ -5,8 +5,8 @@ excerpt: "New York, April 15, 2020: The global Artificial Intelligence Chipset m
 publishedDateTime: 2020-04-15T07:31:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-key-players-and-production-information-analysis-with-forecast-2025-2020-04-15"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

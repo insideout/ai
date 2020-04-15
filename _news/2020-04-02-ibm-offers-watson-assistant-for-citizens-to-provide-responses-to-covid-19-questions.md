@@ -1,25 +1,19 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ..."
-publishedDateTime: 2020-04-02T04:38:00Z
-webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
+excerpt: "With Watson Assistant for Citizens, IBM is helping government agencies, healthcare organizations and academic institutions use AI to put trusted data and information into the hands of their ..."
+publishedDateTime: 2020-04-02T04:12:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions/article_cfc92023-2c3e-5cc2-b30f-7bb4a0be50ca.html"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
-    width: 1650
-    height: 864
-    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-
-secured: "Xuqr35xBupzllhsm7TYRxz7a+6klvDwfnZPfpDvZoelBmaXJCN1zmBeXwH2KqipCBSVsxx47UJft7IblwqXcbHLXRV1EMvV4lPKKxJKQi2QqKuFifKjV/N3nLpLXMb7nDFk+MoM9309XaUbZ784NeYdsMjYE+4cxK6k5JyEQoMjsHYW73YjnKh2bAa6WLd+hJFTOGoE0jW+Jw0xMRZ7UGqBxbuJE5AOSLbIuIg+jkcpd3rYnuwy97ka9Ve6vajxUSJ/j6qG/TKlGGuwq0wZOamrs96ujQEcDjLaD6s75MGTaPmUXSXLmJxS23Fqi8pov;yx+cdOWF221oMb/arWm1sg=="
+secured: "rcpwIBJidKPF1NukGWg8y4oxVHbopMifkZWRaW027dhaFktbdJyBdieO+bFodYCWwGaflN/TDsaHq52bFR5148ce8lYLHw+9s6yJYs/fpcfM0FOcgQ4th86wmjQByxK2AildBpt7MOb9cLrikxXRzgJhic8BCMmulzIYLaarxaN1l08b95+cnb9iAvhWOacSajnij/unq8W9GSv9uzax7GyfwbgtkVLC1fkqg9qfO/LSmLOoaD8q+uRnMHTfH/saqWapOmj0C11Xy1GT0cEmSXq2avicOi10B21zpwEm49FluJMrYmSTzDfjvaFqGaJx;24TTZ5M8PeYEdNIXkJ6pvw=="
 ---
 

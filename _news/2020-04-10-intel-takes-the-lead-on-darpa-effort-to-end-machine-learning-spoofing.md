@@ -25,21 +25,6 @@ images:
     title: "Intel takes the lead on DARPA effort to end machine-learning spoofing"
 
 related:
-  - title: "New DoE Program Drives Demand For Machine Learning Programmers"
-    excerpt: "Machine learning is leading to numerous changes in the energy industry. The Department of Energy recently announced that it is taking steps to accelerate the integration of machine learning technology in energy research and development. The head of the Department of Energy announced that they will be investing $30 million in artificial ..."
-    publishedDateTime: 2020-04-10T15:31:00Z
-    webUrl: "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/"
-    ampWebUrl: "https://www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/"
-    cdnAmpWebUrl: "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/new-doe-program-drives-demand-for-machine-learning-programmers/amp/"
-    type: article
-    provider:
-      name: SmartData Collective
-      domain: smartdatacollective.com
-    quality: 59
-    images:
-      - url: "https://www.smartdatacollective.com/wp-content/uploads/2020/04/machine-learning-in-energy-sector.jpg"
-        width: 1000
-        height: 676
   - title: "Intel takes over DARPA effort to end machine-learning spoofing"
     excerpt: "The U.S. Department of Defense (DoD) has recruited Intel Corp. and Georgia Tech to lead an effort to prevent criminals from fooling critical and otherwise trustworthy artificial intelligence object-recognition algorithms. The pair is taking the reins of a four-year program — Guaranteeing AI Robustness against Deception, or GARD — created by ..."
     publishedDateTime: 2020-04-10T18:57:00Z

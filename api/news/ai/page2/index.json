@@ -138,7 +138,7 @@
       "path": "_news/2020-04-13-automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025.md",
       "title": "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025",
       "excerpt": "By Technology (Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Context Awareness),",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-04-13",
@@ -473,7 +473,7 @@
       "path": "_news/2020-04-12-conversational-ai-might-be-key-to-informing-citizens-about-covid-19.md",
       "title": "Conversational AI might be key to informing citizens about COVID-19",
       "excerpt": "Conversational AI is changing that. Several government health organizations have turned to conversational AI as their solution for the outpouring of calls from concerned citizens, while making sure they are providing personalized engagements. Using a conversational AI system to battle the response around COVID-19 can fill the holes left by ...",
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "type": "article",
       "webUrl": "https://thenextweb.com/syndication/2020/04/12/conversational-ai-might-be-key-to-informing-citizens-about-covid-19/",
@@ -1197,19 +1197,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T06:08:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15782410/automl-in-smart-iot-devices-a-sensiml-whitepaper",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15782410",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15782410",
+      "publishedDateTime": "2020-04-10T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
+          "width": 400,
+          "height": 208,
+          "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

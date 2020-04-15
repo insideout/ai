@@ -25,6 +25,6 @@ images:
     height: 648
     title: "Chris Craiker's Architex Angle: COVID-19 and the future of hospitals and healthcare"
 
-secured: "vHxRNMrsGih2fxvKXIx7+ed/0sdiD5dXNxvPaISnjKfi9M9qZnPKtSCbmXaa9TH0aQqN4+ncZIvYFP6hB2LUXUenTrucI3sVj+NpjHmah6rNqvgKuzwnz61bjRERd6GDuVbhIToY7HLy+eABfUrZivu/3lcdhh3vDnq/EWyB4JIB+RMF04xoaO2VlQ/EVwutDDa5znr/1a0wCpOxRHlB7cuCs7cK/HSlNet7/u3I09q5Tsf8mB6P0nfUCMRiJ0UKRKvYovo3O5D/R4tpOwQiTZxH0f8MaSIb/ABuepckycre3muUQwbgwcBd/KwcFL9X;nD0HIC3tii3b1XmlkdjIVA=="
+secured: "YrkHCuPWImh6QvjTpqA1+y47pT73YSoeFTZK0e3Ky7hhI5XQRO3v+uDLXneHXlN9pQ008HPu0I6YlBiYq/KGvJY6Yb2336fKhxnZMR/DtVPjxH/4o/ulvbr6gG7aGXZ+8yU5daoX7T5au5XU60PfFPjeaayWjwMqWHB0/Bt6JY0NT1Pg510tSYCoVqO45uaprpV/6ZE/LyTs7stDXoMRqEj7mPv+UC5FFkZ3iPPPiojhrfw8oWaj7HuR3a2Ms/FxKlvmoqOkbr5WnJ29gteKRwHEmz/1LkC7kK7Dh3tnbQh4T9jYKE4moS6tIBofKIaEJ5wY8e/fQoGlkt4naPzwisXVDZ2e74cKUXyWUSZY80T/hqpWHhB7Ix6YcPSnu6SvzoTs6ce+mxBJoGha3IRTHMwNBDtM+K6JopHjSCb6dR5xn+FPf6uFw/1m2mB7VctnSqlEsk3FRJXXAc4oB/3cNcWpETpa51AW+4qGslfF54I=;icdtodrpAEzSnewmCAAa6Q=="
 ---
 

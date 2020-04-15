@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/adobes-releases-ai-powered-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:
