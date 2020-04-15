@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html"
 type: article
 quality: 89
-heat: 132
+heat: 122
 published: true
 
 provider:
@@ -45,21 +45,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-self-driving-visualization-hero.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 480
-  - title: "Tesla wins monetary settlement in lawsuit over self-driving car startup Zoox stealing secrets"
-    excerpt: "Zoox is a relatively secretive startup that has been developing a fully electric and autonomous vehicle. You’d think that if Tesla would have an intellectual property issue with them it would be about self-driving, but Tesla is actually claiming that Zoox has stolen “proprietary information and trade secrets” about their logistic systems."
-    publishedDateTime: 2020-04-15T12:57:00Z
-    webUrl: "https://electrek.co/2020/04/15/tesla-wins-monetary-settlement-lawsuit-self-driving-car-startup-zoox-stealing-secrets/"
-    ampWebUrl: "https://electrek.co/2020/04/15/tesla-wins-monetary-settlement-lawsuit-self-driving-car-startup-zoox-stealing-secrets/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/15/tesla-wins-monetary-settlement-lawsuit-self-driving-car-startup-zoox-stealing-secrets/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 78
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000"
-        width: 1000
-        height: 482
   - title: "Self-driving startup Zoox settles trade-secrets lawsuit filed by Tesla"
     excerpt: "Autonomous-vehicle startup Zoox said late Tuesday it has settled a lawsuit by Tesla Inc. undefined that alleged theft of trade secrets. Last year, Tesla"
     publishedDateTime: 2020-04-15T00:23:00Z
@@ -81,6 +66,6 @@ related:
       domain: usnews.com
     quality: 49
 
-secured: "FkYx5kZGuxeeA4FANsNSzlYbh7KmSCKmAPIf8G5n5wSzWJHmn0iF0hlx1Ib3ibbu172jKEi5MUj6wfWDs+/kraLNcaPhCACJ9dR24IahEnpdes89bQ6F6KiosKlYJASR3oQvPJ7czMW3FLRCTMl5dkAi7Ss7XtmgzRwM+DQ85CG6BvAstTFShmKiYJ59u4r9qntiCTSZAJbgecjhpNj1/Zdr8AJnl6fnVyigFo3FNabxN0pDCHpkwh3M95nRf/BA4X459EGeMxM4XLdDcoVPhuIUVO1WrLOOLUzp7WpD2nJbfHljOrOjcXNu7LIDmUE0O/IcsK+fv74nVbJzsdycHMYo6ueS5p9pLvAui6zWLNcq7/7Gg8t1QpuvwHdPJMqp1Cr6cQiYn4RWRuRovJ7lQgqZUw6C75EaB4se/YnqG6qiSXONWls6DRaX8RJ8mPmnv1gquSXdD7olKENcW3s0vZRLVS669vGqEJQOYucFGbE=;06WL3Cu5nL8vKx7dqb9Feg=="
+secured: "WmWn5ag84anMnFJib5gb8vRsMKqPoeSANozrU+pbNQrOIZG06h68S1hkEYYr1/2Nro8vt4vsSjHdDmGO22QhGNcUI6HxGahqzNWj+nE+2wySJxCTLXgfzCx9E+qnquwoOOMyLKG03nF8Zk4D1KbEj3Ea51ESJBfTob5uVvWcaUgaPEDwg8TuDdgDJ0iqBEGIfIRxmHd8PaIm2U8t1HLY3ub60SvPKl/wKu12qjIBLhnVXOSjPOeva/ALL0+YgDMrQ0u2E8XmGG+vB+VcOPD06udQFZqa/9kJI6gf/9Ndmot2tdXUHieu7Up/HZpW2pLHVRIuid0lGIAhEk0nn2D9ixT/dc6PsR772sFL4OStD7xzxCiy2yPqS3B+N78llWDidvFKFEN6AKi5eNv9eAHHTG8qdM0HK4jLj8B6C/gHEioiWbKi0JMubtV03MbLK2urhGZU5N8+PwfNgV0Lrpny75UM/69UldDjuZp81XoIR84=;lMGb3EUMLYq/7v2LiuZHYg=="
 ---
 

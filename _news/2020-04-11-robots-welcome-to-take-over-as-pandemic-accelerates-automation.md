@@ -2,25 +2,25 @@
 category: news
 title: "Robots welcome to take over, as pandemic accelerates automation"
 excerpt: "Since the coronavirus took hold in the United States last month, AMP Robotics has seen a “significant” increase in orders for its robots that use artificial intelligence to sift through recycled material ... A new wave of automation could also mean that when companies start hiring again, they do so in smaller numbers."
-publishedDateTime: 2020-04-11T17:14:00Z
-webUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
-ampWebUrl: "https://www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+publishedDateTime: 2020-04-11T13:39:00Z
+webUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html"
+ampWebUrl: "https://www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/coronavirus/sns-nyt-coronavirus-workplace-robots-automation-20200411-bwhb2bsm5zb6npb7rap6qwdz7i-story.html?outputType=amp"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
+  - url: "https://www.chicagotribune.com/resizer/hUzD0bA3oLj-KvR_sy-QUQYAYrM=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/OTPACKPGK5E6DPAX4G2NPH5WIU.jpg"
     width: 1200
     height: 900
     title: "Robots welcome to take over, as pandemic accelerates automation"
@@ -57,6 +57,6 @@ related:
         width: 300
         height: 225
 
-secured: "LKhUlQE7p9JcZ43XgTwwproG8KMehADueMsCh3BuOfdeWMdVFvLAzvXbLUaKzC61ExZGvnR2eK9LkxmmMPWWaEsx51cEEufqt1QcrG6D++Ql5ySIafhUQoVuG/hYeySwBjX4tPdB09QGYqKQg/7Q1fOUBkaDomQ2fKU6tBqH2jqy6te/GKXVRg1+Fm32iUwHbU0Z2k+yta9WMm3dapYZO+/o49Fp+rKEfLZtX4m/8C2JmO+Jxv/W1LfqiQalmKiN4cAZBVux9DqDzVbuz6VV57T1GGVyLq9yxq5g3Qd20BUcaSQrgqnJBaauKUh2YHa71sCgfLErz3qwLwxI8gY3TbQopnX4i9k2Uhs7imKC0gzFGNePBQI8ooseeGIBBEj38POPvVKdlRgzxmrqf13tVDYb7SoTU1iQAvD3orhSo+78D2vWdY8/BvMNDKR+HwreYUeXVadRvZfyte+TT5CPLzkSL7PBfvLlOIQae6F7CB0=;ItEI4fe1tUIpU1N2YGKRzw=="
+secured: "Kg2+W9fnRRAihUCUy/6uVv6yywsu5QIHsh9Oyf/4Ftaypvd594uokUuZtZ/oJnwAsYnjun0C/HsRFOGF/otOCC6RzF4HH3AU+EggpBMfr0PMKYi6LJPx9Sgr6x0nEFHQQfhSaxpby4x5CMH7Hf7sdB/76yEnRP+bqSoqoNrYdkYrHPi9WgBL5WyQ7mDPjGQyL1Ag7CPgrEpRWXBUhCPmUUtcZJo+05GbnOowJG6WpHFX9HOFRLnknwcSmSMU4zJo2bymE7NKAXVbLa+tUBHammK5GB9hIz5LX1LAhodV0C4qYuIHyXpn6FvintM2g06b;nEWmTawmgJrPTtTfHZ3v0Q=="
 ---
 

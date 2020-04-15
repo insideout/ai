@@ -1,28 +1,28 @@
 ---
 category: news
 title: "COVID-19 Pandemic Impact: Global R&D Spend For AI in Healthcare and Pharmaceuticals Will Increase US$1.5 Billion By 2025"
-excerpt: "OYSTER BAY, N.Y., April 15, 2020 /PRNewswire/ -- The Coronavirus outbreak has proven that healthcare institutions can no longer ignore the role of Artificial Intelligence (AI) in their daily workflow. AI spending in the healthcare and pharmaceutical industries is expected to increase from US$463 million in 2019 to more than US$2 billion over ..."
-publishedDateTime: 2020-04-15T14:08:00Z
-webUrl: "https://www.prnewswire.com/news-releases/covid-19-pandemic-impact--global-rd-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us1-5-billion-by-2025--301041073.html"
+excerpt: "ABI Research whitepaper identifies the short-and long-term impacts the global pandemic will have on Artificial Intelligence and Machine"
+publishedDateTime: 2020-04-15T18:04:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/covid-19-pandemic-impact-global-r-d-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us-1-5-billion-by-2025-1029095691"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/covid-19-pandemic-impact-global-r-d-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us-1-5-billion-by-2025-1029095691"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/covid-19-pandemic-impact-global-r-d-spend-for-ai-in-healthcare-and-pharmaceuticals-will-increase-us-1-5-billion-by-2025-1029095691"
 type: article
-quality: 29
-heat: 29
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/276887/abi_research_logo.jpg?p=facebook"
-    width: 643
-    height: 337
-    title: "COVID-19 Pandemic Impact: Global R&D Spend For AI in Healthcare and Pharmaceuticals Will Increase US$1.5 Billion By 2025"
-
-secured: "fGwyyahMS+z9HDrQVSnlnXXoE9XwR+bJiVMMUXdEilkQFelXJMOJuMUDv6sQmHr/lspvPiHlmpG2yhrB7t/p+RcEQ3zHE6cv7dg8nkw3rH1QkauAphwg8iht7oMAXTJVDuwpcRJizg9gFLGdOl+7RyJkHPczxGxQD9TntgZvz4p/bKUbd3NJHavkC/2h3DSXYhs/T5AOnzt6CPvZ/q30fHjQlZ5yKwyJWI3Mjq4TXbENFSauVFnb7Oqeof618n0nd6nXRDjI5Ybr6tWS1MXyXXxfTrPxkMd4bhqXW+2TY1p57qG3Uu29xfi+l87ErEYX;gjvBfwcvvkdZgJJjOLDxVg=="
+secured: "QWs7LdBEx3xTtN6OtNzjt8YLs7szuwFpjtCSATR1eCkvCZfvFspWXH7TJXc+WBrDBe+LmESOzwMlhyRsd/a+/mpDkWFL2GA/dorgllXLALoiIUr/cvhZ/+7O1h0NqTRvRVvSDwuJA4QDoJ9Gw/XOZIGqSaRa6aCPKvJ2yOtzvkDWLInYaBjMZSOuM4AdG9Yu9yZU4cV1FyKEOltW9quLFjKpfUTS5MVmhSqTFvaCWVrIZ23pMz0I2jdcHBKOde/R/Ee98zxqzIDeUkZdaGJYmupaV3/exB36Lw5VMZKtb9DNgCxJGgFI5ocehZrMZdls;Dt11f7x/xCbBGaNBb5tvkw=="
 ---
 

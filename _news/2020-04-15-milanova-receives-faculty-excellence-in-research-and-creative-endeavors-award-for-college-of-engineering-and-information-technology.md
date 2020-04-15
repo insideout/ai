@@ -23,6 +23,6 @@ images:
     height: 770
     title: "Milanova receives Faculty Excellence in Research and Creative Endeavors award for College of Engineering and Information Technology"
 
-secured: "NYGhWa7Z/OstcDbHsVn7EIwfJcs8xtKXMNydDQQvMttg0HLF+Ix12ECGPGR1wmjytgDO3oA6sB+vfrOJ3h8laUA8QVukquqiLlJAJAG/O4QF65O8QdnvU5b7e+bOYHKQFswIvZADmnI5cQL2Rp4WUh21INQxsWM+Mg1I0HAeygtYfzu2TYGgRrT8pn8L+1Zcdv80uk3jcfT+SWvwr//NHEl+DNKMtDF7bsbWO89an2656NXZN+F/e+lVn0r/Frqu4C6nNo8MnLGgAdRicWF2hm6avCapn9LP57rGfDr6oKOZ7DL3rKTENan26qCbBv5V;sz52eXZnQpniKChGCUwlZw=="
+secured: "euWvQnFctEnj15zbYB81R2cR0sbcrM+BoFPBAEgW3J7Z70Chn4C7cXPj7a3S4WqLo8jzic4utc+QvnaLHf9UqtqYTx7YTYEU57brMuUS9Mf+9/Jw+pnQ29X33qi82z6VrSQtwcNT4NJ5XP6CkbsVrAEHwckJKUw7+kIyJrl3DwY5RHr1k3gQmJ9foUX3CwjH1RW7vxubkhr0tRQtIL+bG/NVs5cxa4+8g3Co9BuotlvZeh18CAQLmbQD/mmTqX5pxzghzDrFQtGXkbdesX7M4KP/GlQXZ/gS6WADsFbxcj4yhVgxK7TOeJYovuRSurxQi7qybq2arHJzCcrczh/TVOJvxW+a0GpiASKJcqyZE88i6IC6qNVScuhgKljN2mG2nHJxrftnuNLf2EiNYnJ8c7dMj4Ch9ivhseaHXblvifh7bBQz4RcuuyH0bKGtn5F+yaxEe/XA/YGZjgzWXitglwEUmWXgngRKLFBsRpVuvsc=;Lr/Mj40A8kHxoYMKjPSZUw=="
 ---
 

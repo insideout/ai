@@ -2,27 +2,27 @@
 category: news
 title: "Computer Vision Puts the Focus on Patient Monitoring"
 excerpt: "Patient falls are among the 10 most consequential incidents that occur in hospitals and care facilities. Developments in computer vision as well as cameras and algorithms that process 3D images make it feasible to accurately observe multiple patients from afar."
-publishedDateTime: 2020-04-14T19:41:00Z
-webUrl: "https://www.networkworld.com/resources/201324/computer-vision-puts-the-focus-on-patient-monitoring"
+publishedDateTime: 2020-04-14T13:40:00Z
+webUrl: "https://www.computerworld.com/resources/201324/computer-vision-puts-the-focus-on-patient-monitoring"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Network World
-  domain: networkworld.com
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/nww/nww_logo_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "Computer Vision Puts the Focus on Patient Monitoring"
 
-secured: "9xLNuc4trGkjFbis1YUaYAL63W3zCbNxZppEXsg1Ebc43BvZz0/f4JmsO+x/eCXAz7obTmhbD67bw89WCPzVvF2gBpVBDbRZSCCechZAc+ZUs2EMDU1GL3rFImdntbnWnL4gxRlSPKSnKU9HDwyDdGiPVxkC9AZdXHBvjWAGDqs4pK6Kdc+RcpGpdZtyKTPO1yiJghiDSBaovR3WmjD5YAgyf5oPps5I/+20Qayx8aBhhvYlrvxVgLXcOHNqA8INL7jCr+1oJV4foxK/NrkWjod1yCU3n3k8rBGaFV/tzWWFwlP8wUneufeQxZt+UoCUv8E6fE02ZW8L02bq6OIUekY0aXGwP1Oq0J1IgyUQN7wCoPFq89QRoFpJZ5C/Ud/gfWkltvaXAGdhy+gqgZCy7kbqQFlKI5x0zeZzja0nHRDNQOVv2egP10o1H8uUf5Fok5BAf0s8PsMMNjv5bdEjdCV549ZVpXp9FmXKYW1teMs=;s9m8iyPOjLTqiQaS7wffmg=="
+secured: "sN7lcKP9YDVKvf3t8S1NBBCmTrDmYezOUggZVynNL1UtHHPPPsxlaNqihxWoXBI6eCbleyYLRIKUcYpAGN5KemPJgVr3WfDE5aBucH9rK8fZtFLfxwHiZNd6Mh/CMtj2fMj61wXkJ+MC+4bPZssxvs+0qjJQKiSGmD4csY2iuzEdNp/FX19ywf/5UyxVKhH/33nBes4HLLYE+Azggz5djf9yX96vv8v8JhkWMK9M/ENks8faP6bJzL51mpFF16YT6PA4cZxM/X55w1DEDFr8ghr6HXWQKWyyA/Ik8G5McdBs3FQrbNVd0aVkkO6a5wav;/Q2zLUWsDX4zIGO9u+G71A=="
 ---
 

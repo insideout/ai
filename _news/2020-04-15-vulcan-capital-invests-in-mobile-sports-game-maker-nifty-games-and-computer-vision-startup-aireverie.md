@@ -7,8 +7,8 @@ webUrl: "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game
 ampWebUrl: "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/"
 type: article
-quality: 72
-heat: 72
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2020/04/aireverie_cities-630x354.png"
@@ -28,6 +29,6 @@ images:
     height: 354
     title: "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie"
 
-secured: "bCe05eSEGhPRJUFbyP9ml2ql6Q6A5bt431Feww7YwpqTadrZXWa6Y0ho8NTdCFaV0cn5y1N2rcSVmVJIJay2seVQcKuXAvH2bNu6JEDKF9Pnr/JjCiP3PkPogOCjTCE+x4bQkhDB51NGepvkv+eEgyP1yUgiDl3iG7Ey7YoWqv1DqSbMmaryncnfAVUpvQo47aPfyLMeYUvOoJQ4zhYJ/kb06v7HnduVfpm2BDvPXeQyKHDn13djlribfc9R0KGIgvirFr9cB+qAGM5qW2yHgroVGqKD3SY+RwVIsf2BVkool4sLLtBR34hOMDlqQRso;IIXDkjEdGumFb2A18FGtdw=="
+secured: "4WvKSfypva06UgUB/oGJLXZuIGqG4uFpu+dij4GaRCg/6UcyBlvXzHOus8lneYCs97GfaGApd2KsGn1TEwl+mCu2KPNi5gWlBRFLmyR0i4gNbedM0VPgYLoiUkIXWvzmAjHqaq5RPq4uKJf9rxc7EbOdfR7jA4puJPKV+/jVf8d7VoBhSJGtHyuibn/K25mAmMU9hmFkPWUiLDxyLU5QIMNf6txjWLoF3GYqb767w/GN5AyBGErFdNG+3VpVfOpr46hA4Zi1GGRJeJp+k4hBQLpqSIlTWuupxVeUvMeDjRAHM0IMOnutdkMX738u6W+Z/2aqJ+S5VQpXzqwCmlaFG9ug4m2Mflo5+lkis944SDdqUSG2dPruhRkBt1QJ7FkuyYzHqK/76pAgXYaPOHaTIVP3i9FHuo7RCsFTz1YcqQsKAYC+IBklbPv+HCRCaousjjDlricG11pF9Yke7hfeJLAu6bevQRLqeV+R+5TMaDQ=;7kM8znaDVKaj/3kCn/3qXg=="
 ---
 

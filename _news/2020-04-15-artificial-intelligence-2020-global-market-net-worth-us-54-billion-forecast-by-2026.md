@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence Market 2020 Summary: - The Global Artificial I
 publishedDateTime: 2020-04-15T17:14:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-2020-global-market-net-worth-us-54-billion-forecast-by-2026-2020-04-15"
 type: article
-quality: 60
-heat: 60
+quality: 62
+heat: 62
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
