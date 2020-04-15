@@ -2,21 +2,25 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:24:00Z
-webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:47:00Z
+webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 67
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "WOxXYB9pNIOe+RvIO/qRDvpADSqH4Yd0R2nroBTH7mR6ZSN9r7/8d2xoTXpDwfy1c6tDEIaOaKc2kOEPG9hQCQa0V83MNA4zyHPTJatmqZodkkhzkNSp6oevBGAlFsakpHxla5ILpNqskY6/pfbi7URH/I+u0jNGbVqztljMRfWVPmBhz5eUippXMuJNNZuiiOPKFCtji3R7JbwHzI6RynDSf8JKbJXPTt+SerX8WvLWJWnOGFvxZDG3MC6ZsMcKiOYw+xPo6blL9st3N7cNjxkRA73M4nfPv/peIGpPJrqtbpkC4W0/gmtIy26gqMUHG6mhL+SzOQVOJ/UeWySq2+Rgkk6xgo4fgCOtqTPaAs/0AjGW15VPEmeWckOY5gKzGdFKR5FDWIfv+U2+jSZPggFypJsSboBB4tyqxpUoZUJnELVh2GDyPsGbnb44pcCkxbw7+nQVQDkiHrxwYyB5wtAX+x22Ee7koq7DUEo2vCI=;n2ac5PO8Lh5q/y+ZAWjqGg=="
+secured: "NuFnEVkVy1kWRZkEQ3bCjixFfD5K0BBA1kkEdkne4kcbbXRc5v0D9iL7hhj8ALazowUqC5NfHF6NvfCmSwDB8urYzIa5flo8wJ60D9Oab+BjOOWXzePo7pqhx7P9f2MQ5yZaKIzBiaNkpt7K1JJ7WsVY2sXROyI6XUzgeyhdzISFV/HoLQfl5IC10Z4Xz7KunRhYLo2HlfNL+Ocz/rGMAuxLl8q1BEQV4lIt/rSYa7zl8ydp/IingcaR/SpfljstIhDZCijcgNhfYIxE2UB48SlVPAOaaGa3FLTpahxesG+c/+NahhCuH/OPXLpFaAMYyLZGCLlCME96BsiWu0mQzLCoaeATuvFY8B6lOkonpYRMPRDnenlE557BxoTJI/Suc7MUmimLOOEe+4L6sMgGkGyN2iq7fSqOF6RwHt6sZ+wmmBwL6ZYo/A3G5q0fWrplUZao9OCzwsEv+hJE5GBScQTk4WiMLGzd/T7sYkq+e88=;xWz+5ZkOuc8CYIQ0Ee5toQ=="
 ---
 

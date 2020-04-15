@@ -7,8 +7,8 @@ webUrl: "https://www.technologyreview.com/2020/04/15/999426/making-ultrasound-mo
 ampWebUrl: "https://www.technologyreview.com/2020/04/15/999426/making-ultrasound-more-accessible-with-ai-guidance/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/04/15/999426/making-ultrasound-more-accessible-with-ai-guidance/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/04/cropped-MJ20-MIT-CN-Cadieu-2_web.jpg?w=1024"

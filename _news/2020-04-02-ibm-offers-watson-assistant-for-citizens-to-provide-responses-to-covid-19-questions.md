@@ -1,19 +1,25 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "With Watson Assistant for Citizens, IBM is helping government agencies, healthcare organizations and academic institutions use AI to put trusted data and information into the hands of their ..."
-publishedDateTime: 2020-04-02T04:12:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions/article_cfc92023-2c3e-5cc2-b30f-7bb4a0be50ca.html"
+excerpt: "With a flood of information requests from citizens, wait times in many areas to receive answers can exceed two hours. Available for no charge for at least 90 days and available to our client's ..."
+publishedDateTime: 2020-04-02T04:38:00Z
+webUrl: "https://www.prnewswire.com/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-301033802.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "rcpwIBJidKPF1NukGWg8y4oxVHbopMifkZWRaW027dhaFktbdJyBdieO+bFodYCWwGaflN/TDsaHq52bFR5148ce8lYLHw+9s6yJYs/fpcfM0FOcgQ4th86wmjQByxK2AildBpt7MOb9cLrikxXRzgJhic8BCMmulzIYLaarxaN1l08b95+cnb9iAvhWOacSajnij/unq8W9GSv9uzax7GyfwbgtkVLC1fkqg9qfO/LSmLOoaD8q+uRnMHTfH/saqWapOmj0C11Xy1GT0cEmSXq2avicOi10B21zpwEm49FluJMrYmSTzDfjvaFqGaJx;24TTZ5M8PeYEdNIXkJ6pvw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+    width: 1650
+    height: 864
+    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
+
+secured: "OkCsy2w32Bl6QjLEJcmKwp02xQ7c130GN705OAYbwL95e6S1DF5ybbck58/Ykm2oHZMwzl5wlCeMGBJ6chPPCluw6jjUSjBAnFUBBw9yKQxHKJ4AZPkLy3twwm5hCXFhi0ENLUBGuYUgQR/FDRh7sguGjV5v3+I5n4tb4dLW87mEqM94Bb7Qop5qtDMlxkXtLsXbs0Mveafulf/1ZeCt9ycL7PX7sJwUMGr8z2xOAxF8R2aEckYm5YfLjMdKtNpXrRiskkJkTCXbDoIGFSJ6UyIocOjK/NKZ19SAyMG4fcTASl1jrCiv7JXIaEmKKA7W;BPt1PvaJH9Fq5sKmFmLVKQ=="
 ---
 

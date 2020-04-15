@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-15-onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg.md",
+      "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
+      "excerpt": "Onfido, which uses AI to “read” a person’s identity documents and then uses facial recognition and other datapoints to verify that a person says who she or he is online — customers for its tech include major banks, government bodies, and businesses doing recruitment: any organization running parts of its processes virtually — is today ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
+      "publishedDateTime": "2020-04-15T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/April-15_Onfido-Company-Photo_FINAL.jpg?w=680",
+          "width": 680,
+          "height": 404,
+          "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-onfido-raises-100-million-to-verify-identities-with-ai.md",
+      "title": "Onfido raises $100 million to verify identities with AI",
+      "excerpt": "Onfido — which was founded in 2012 by three Oxford University graduates who observed that background checks were largely done manually and were therefore prone to human error — develops a software-as-a-service (SaaS) platform that taps AI to perform background checks on would-be employees at each stage of the hiring and recruitment process.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
+      "publishedDateTime": "2020-04-15T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/ONFIDO_RGB_WORDMARK_BLUE-e1586551350126.png?fit=1199%2C599&strip=all",
+          "width": 1199,
+          "height": 599,
+          "title": "Onfido raises $100 million to verify identities with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-fareye-raises-25-million-to-orchestrate-deliveries-with-ai.md",
       "title": "FarEye raises $25 million to orchestrate deliveries with AI",
       "excerpt": "Additionally, Serve provides delivery progress reports and a drag-and-drop, single-touch interface that lets managers update customer preferences on the fly, alongside an AI-powered chat platform that plugs into existing systems to expedite customer inquiry resolutions. According to CEO Kushal Nahata, the platform handles over 10 million ...",
@@ -933,6 +1021,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-14-wearable-artificial-intelligence-ai-market-trends-industry-analysis-share-growth-product-top-key-players-and-forecast-2025.md",
+      "title": "Wearable Artificial Intelligence (AI) Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2025",
+      "excerpt": "According to the research report titled 'Wearable Artificial Intelligence (AI) Market Size By Product, Earwear), By Application",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Wearable Artificial Intelligence (AI) Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-coronavirus-how-ready-is-ai-to-detect-and-prevent-pandemics.md",
       "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
       "excerpt": "But the technological landscape has changed. Can AI, alongside machine learning, natural language processing (NLP), and robotics be called upon to detect, prevent, and manage pandemics? Bluedot, a Canadian startup used an AI-based algorithm to warn people against traveling to China due to the possibility of a flu-like outbreak. The startup ...",
@@ -1148,141 +1281,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-amazon-translate-added-to-memsource-translate-memsources-machine-translation-management-feature.md",
-      "title": "Amazon Translate added to Memsource Translate, Memsource’s machine translation management feature",
-      "excerpt": "This is a guest post from Memsource. In their own words, “By leading the industry in AI-powered translation technology, we make localization easier, faster, and more cost-effective.” \nMemsource and Amazon Translate are strengthening their partnership. You can now use Amazon Translate with Memsource Translate,",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-added-to-memsource-translate-memsources-machine-translation-management-feature/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T12:12:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2018/05/25/Amazon_Translate_SOCIAL.png",
-          "width": 1024,
-          "height": 512,
-          "title": "Amazon Translate added to Memsource Translate, Memsource’s machine translation management feature",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-google-releases-a-data-set-to-spur-development-of-multilingual-ai-models.md",
-      "title": "Google releases a data set to spur development of multilingual AI models",
-      "excerpt": "Google today released a natural language processing systems benchmark — XTREME — with nine tasks that require reasoning about semantics across 40 languages and 12 language families. Researchers at the tech giant assert it can evaluate whether AI models capture knowledge shared across languages, which can be useful for a growing number of ...",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/13/google-releases-a-data-set-to-spur-development-of-multilingual-ai-models/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/13/google-releases-a-data-set-to-spur-development-of-multilingual-ai-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/13/google-releases-a-data-set-to-spur-development-of-multilingual-ai-models/amp/",
-      "publishedDateTime": "2020-04-13T11:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases a data set to spur development of multilingual AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024.md",
-      "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
-      "excerpt": "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Retail market, which is a detailed analysis of",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,98 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-05-us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.md",
+      "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+      "excerpt": "One proposal would require Amazon to cease offering facial recognition ... that might result from the service, known as Rekognition. Both proposals face uphill battles to receive a majority ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2019/04/05/us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.html",
+      "publishedDateTime": "2020-04-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104409576-GettyImages-522170209.jpg?v=1532563864",
+          "width": 2000,
+          "height": 1333,
+          "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-artificial-or-human-intelligence-companies-faking-ai.md",
+      "title": "Artificial Or Human Intelligence? Companies Faking AI",
+      "excerpt": "Some companies are choosing to approach these AI challenges not by scaling back their AI ambitions, but rather by using humans to do the task that they are otherwise trying to get their AI systems to",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/04/artificial-or-human-intelligence-companies-faking-ai/amp/",
+      "publishedDateTime": "2020-04-04T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1126179832%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6480%26cropY1%3D292%26cropY2%3D3936",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial Or Human Intelligence? Companies Faking AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-ai-runs-smack-up-against-a-big-data-problem-in-covid-19-diagnosis.md",
       "title": "AI runs smack up against a big data problem in COVID-19 diagnosis",
       "excerpt": "The painful lack of data is evident in one particular use case for AI, the development of diagnostic tests for COVID-19 based on X-rays or on \"computed tomography\" scans of the lungs. While definitive tests for the disease are genetic tests, called \"RT-PCR,\" those tests have been in notoriously short supply in many parts of the world ...",
@@ -1161,95 +1253,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
-      "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-      "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "publishedDateTime": "2020-04-03T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103262515-GettyImages-468904608.jpg?v=1450870935",
-          "width": 4000,
-          "height": 2667,
-          "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-automation-may-take-jobsbut-ai-will-create-them.md",
-      "title": "Automation May Take Jobs—but AI Will Create Them",
-      "excerpt": "Kevin Scott is the CTO and executive vice president of AI and research at Microsoft. He's the author of the book Reprogramming the American Dream: From Rural America to Silicon Valley—Making AI Serve Us All. Musk’s words are very much on my mind as the car I drive (it’s not autonomous, not yet) crests a hill in the rural southern Piedmont ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/",
-      "ampWebUrl": "https://www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/automation-may-take-jobs-but-ai-will-create-them/amp",
-      "publishedDateTime": "2020-04-03T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e85223e5cf5b3000849ce15/master/pass/OpEd-AI-Factory-833655698.jpg",
-          "width": 2400,
-          "height": 1618,
-          "title": "Automation May Take Jobs—but AI Will Create Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

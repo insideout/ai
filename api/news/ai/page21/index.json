@@ -2,6 +2,95 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-03-23-google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80.md",
+      "title": "Google open-sources framework that reduces AI training costs by up to 80%",
+      "excerpt": "Google researchers recently published a paper describing a framework — SEED RL — that scales AI model training to thousands of machines. They say that it could facilitate training at millions of frames per second on a machine while reducing costs by up to 80%, potentially leveling the playing field for startups who couldn’t previously ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
+      "publishedDateTime": "2020-03-23T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources framework that reduces AI training costs by up to 80%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
+      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
+      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
+      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
+      "publishedDateTime": "2020-03-23T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
       "title": "What Machine Learning Trends You Should Watch In 2020",
       "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
@@ -1164,88 +1253,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-artificial-intelligence-system-aimed-at-preventing-drownings.md",
-      "title": "Artificial intelligence system aimed at preventing drownings",
-      "excerpt": "The device resembles a stingray, except it doesn’t patrol the water in search of prey -- rather than threaten humans, it aims to save them",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wpxi.com/news/pennsylvania/artificial/RSZP6PEMV7XNLKA4RNIQSDO3IM/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-21T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPXI",
-        "domain": "wpxi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.wpxi.com/pb/resources/images/share_logos/WPXI_1200x630.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial intelligence system aimed at preventing drownings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-21-10-artificial-intelligenceai-apps-that-are-being-used-in-android.md",
-      "title": "10 Artificial Intelligence(AI) Apps That are being Used in Android",
-      "excerpt": "Artificial Intelligence is one of the science and technology ... A psychologist said that Wysa uses a rational evidence-based therapy approach with meditation components. It’s one of the best ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@palajay/10-artificial-intelligence-ai-apps-that-are-being-used-in-android-6ab16b1c5dbf",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-21T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*9oD1-QIp3FQSOiG8-KSPig.png",
-          "width": 1200,
-          "height": 490,
-          "title": "10 Artificial Intelligence(AI) Apps That are being Used in Android",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

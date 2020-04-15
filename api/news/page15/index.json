@@ -2,6 +2,88 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-31-lenovo-teams-with-microsoft-azure-at-the-edge.md",
+      "title": "Lenovo Teams With Microsoft Azure At The Edge",
+      "excerpt": "At the Transform 2019 event, Lenovo introduced the ThinkSystem ES350, an edge server about the size of a notebook powered by Intel’s Xeon-D chip and Nvidia Tesla T4 GPU accelerators and aimed at workloads like machine learning inference ... The new offerings are tied closely to Microsoft’s Azure software stack for enterprises operating ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/",
+      "ampWebUrl": "https://www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/03/31/lenovo-teams-with-microsoft-azure-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-31T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/ab_cloud-edge-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": "Lenovo Teams With Microsoft Azure At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-microsoft-launches-edge-zones-for-azure.md",
+      "title": "Microsoft launches Edge Zones for Azure",
+      "excerpt": "As far as the details of the various Edge Zone versions go, the focus of Edge Zones is mostly on IoT and AI workloads, while Microsoft notes that Edge Zones with Carriers is more about low-latency online gaming, remote meetings and events, as well as smart infrastructure. Private Edge Zones, which combine private carrier networks with Azure ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/31/microsoft-launches-edge-zones-for-azure/amp/",
+      "publishedDateTime": "2020-03-31T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-675949746.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Microsoft launches Edge Zones for Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-finally-progress-on-regulating-facial-recognition.md",
       "title": "Finally, progress on regulating facial recognition",
       "excerpt": "The post Finally, progress on regulating facial recognition appeared first on The AI Blog.\n",
@@ -989,95 +1071,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss.md",
-      "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
-      "excerpt": "Head of Artificial Intelligence, Cognizant — A leader in AI and applying it to drive digital transformation across industries. A leader in AI and applying it to drive digital transformation across industries. bretgreenstein The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/03/31/entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss/amp/",
-      "publishedDateTime": "2020-03-31T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/ai-alphago-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service.md",
-      "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
-      "excerpt": "That’s not the case for 5G network hardware maker Nokia, however, which today announced AVA 5G Cognitive Operations, offering AI as a service so mobile carriers can optimize their 5G networks and enterprise services. The key to AVA 5G ... The service will use Microsoft’s Azure cloud technology for its underpinnings, while supporting ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/nokias-ava-5g-cognitive-operations-offers-carriers-ai-as-a-service/amp/",
-      "publishedDateTime": "2020-03-31T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/screen-2020-03-27-at-1.07.49-PM-e1585339730516.jpg?fit=2394%2C1197&strip=all",
-          "width": 2394,
-          "height": 1197,
-          "title": "Nokia’s AVA 5G Cognitive Operations offers carriers AI as a service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,6 +2,80 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
+      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "publishedDateTime": "2020-03-17T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-mccs-azure-based-ai-solution-detects-eerie-silence.md",
+      "title": "MCC’s Azure-based AI solution detects eerie silence",
+      "excerpt": "After two years of careful design and another two of intense deployment and ongoing refinement, a sophisticated Azure-based AI solution at the Melbourne Cricket Club (MCC) is possibly feeling a little confused by an entirely new and unexpected sound triggered after teams score or players are dismissed on the field: crickets. As the coronavirus ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.html",
+      "ampWebUrl": "https://www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/3532277/mcc-s-azure-based-ai-solution-detects-eerie-silence.amp.html",
+      "publishedDateTime": "2020-03-17T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio-street-sign-cricket-ground-by-ctrphotos-gettyimages-516114501-100835591-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "MCC’s Azure-based AI solution detects eerie silence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
       "title": "Why SD-WANs Need Artificial Intelligence",
       "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
@@ -1058,80 +1132,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ibm-commercialises-ai-communication.md",
-      "title": "IBM commercialises AI communication",
-      "excerpt": "IBM is commercialising a new technology that makes it easier for computers to understand human communication. AI has struggled to understand the kinds of nuances that appear in everyday communication among people. Now Big Blue is adding new tools to its AI system, Watson, which can address that problem and better understand human language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/ai/50483-ibm-commercialises-ai-communication",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/31c2c7604349f9615a8f77c09e482964_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": "IBM commercialises AI communication",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
-      "title": "Now AI will understand language of business",
-      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": "Now AI will understand language of business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
