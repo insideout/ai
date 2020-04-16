@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-08-how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19.md",
+      "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
+      "excerpt": "The AI company Black Swan Data has turned its skills to help clinicians, researchers and the medical community in their work on analysing COVID-19.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
+      "publishedDateTime": "2020-04-08T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8daa7c2b720000076d7b44%2F0x0.jpg",
+          "width": 1019,
+          "height": 734,
+          "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-machine-learning-market-value-booming-us-768-bn-by-2026.md",
       "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
       "excerpt": "According to the Acumen Research and Consulting, the global Machine Learning market is expected to reach at US$ 76.8 Bn by 2026, along with the projected CAGR of 40.1% from 2020-2026. The published report global Machine Learning market provides a holistic overview of the current market covering the current trends.",
@@ -764,6 +808,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
+      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+      "excerpt": "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200407005781/en/BlackRock-Microsoft-Form-Strategic-Partnership-Host-Aladdin",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T13:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200407005781/en/783707/23/ALA_eng_black_rgb.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-uc-san-diego-health-uses-ai-to-augment-covid-19-lung-imaging-analysis.md",
       "title": "UC San Diego Health uses AI to augment COVID-19 lung imaging analysis",
       "excerpt": "To quickly detect pneumonia -- and therefore better distinguish between COVID-19 patients likely to need more supportive care in the hospital and those who could be followed closely at home -- UC San Diego Health radiologists and other physicians are now using artificial intelligence ... by Amazon Web Services (AWS). The new AI capability ...",
@@ -841,51 +922,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation.md",
-      "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-      "excerpt": "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1012,43 +1048,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-self-driving-cars-are-helping-the-coronavirus-fight-in-florida.md",
-      "title": "Self-driving cars are helping the coronavirus fight in Florida",
-      "excerpt": "With already limited staff, it's hard for people to be everywhere at once. Now, the Mayo Clinic is using self-driving cars to ease the burden. On March 30, the Mayo Clinic in Florida launched its program with four vehicles. The shuttles, which do not have any attendants or people onboard, transfer coronavirus tests and medical supplies from a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125",
-      "ampWebUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
-      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
-      "publishedDateTime": "2020-04-07T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mic",
-        "domain": "mic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/image/2020/4/7/29123b17-85f2-46ca-b31f-a9dcde4d2b1e-screen-shot-2020-04-07-at-15630-pm.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving cars are helping the coronavirus fight in Florida",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

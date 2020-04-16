@@ -2,6 +2,88 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-11-police-used-facial-recognition-to-arrest-over-1100-people-in-india-last-month.md",
+      "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+      "excerpt": "Shortly after one of the worst riots New Delhi has seen in decades, law enforcement agencies in India used facial recognition technology to identify more than 1,100 people who allegedly took part ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965",
+      "ampWebUrl": "https://gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/police-used-face-recognition-to-arrest-over-1-100-peopl-1842277965/amp",
+      "publishedDateTime": "2020-03-11T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ettkddlwrqgiro3hlrjc.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Police Used Facial Recognition to Arrest Over 1,100 People in India Last Month",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-abb-partners-with-covariant-for-integrated-ai-robotic-solutions.md",
+      "title": "ABB partners with Covariant for integrated AI robotic solutions",
+      "excerpt": "ABB and Silicon Valley AI start-up, Covariant, have partnered up to bring AI-enabled robotics solutions to market, starting with a fully autonomous warehouse order fulfillment solution. According to ABB, the partnership brings together the two companies with a vision for robotics enabled by AI, where intelligent robots work alongside humans in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controldesign.com/industrynews/2020/abb-partners-with-covariant-for-integrated-ai-robotic-solutions/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T13:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Design",
+        "domain": "controldesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controldesign.com/assets/Uploads/ABB-robots-sorting-different-packages-with-Covariant-AI-sb.jpg",
+          "width": 880,
+          "height": 440,
+          "title": "ABB partners with Covariant for integrated AI robotic solutions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
       "title": "New Scientist got an early glimpse of voice recognition technology",
       "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
@@ -1107,72 +1189,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-the-ethical-use-of-ai-on-low-wage-workers.md",
-      "title": "The ethical use of AI on low-wage workers",
-      "excerpt": "Also read: Should there be a code of ethics in technology? Hourly workers such as warehouse workers may be adversely impacted by AI-enabled workforce management systems. Lower-wage workers stand to lose the most with the rise of automation while white-collar workers are generally unaffected, the report noted. It cited a McKinsey & Co. study ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.workforce.com/news/artificial-intelligence-ethics-for-managing-low-wage-workers",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Workforce",
-        "domain": "workforce.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
-      "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-      "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "publishedDateTime": "2020-03-11T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/10/16/artificial-intelligence-ibm-watson-ai.jpg",
-          "width": 928,
-          "height": 696,
-          "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

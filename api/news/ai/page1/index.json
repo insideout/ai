@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-16-sproutai-raises-25m-to-speed-up-insurance-claims.md",
+      "title": "Sprout.ai raises $2.5M to speed up insurance claims",
+      "excerpt": "Founded in 2018, Sprout.ai has developed AI-based software that it says enables insurance claims to be settled within “just 24 hours”. Specifically, it uses natural language processing and optical character recognition to understand unstructured insurance claim data, and then combines this with real-time external data such as weather ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/sprout-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/sprout-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/sprout-ai/amp/",
+      "publishedDateTime": "2020-04-15T22:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/50A1597.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Sprout.ai raises $2.5M to speed up insurance claims",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-samsung-to-tap-us-semiconductor-firm-xilinxs-chips-for-5g-network-equipment.md",
       "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
       "excerpt": "The companies said Samsung will use Xilinx’s “Versal” computing chips, which will help with a technology called beamforming that lets 5G gear handle more wireless data than previous generations of networks. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ...",
@@ -317,7 +362,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026.md",
       "title": "Artificial Intelligence in Aviation Market 2020 Development Analysis and Future Estimations 2026",
       "excerpt": "The Market Research Intellect has recently added an extensive report to its repository titled Artificial Intelligence in",
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026-2020-04-15",
@@ -361,7 +406,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
@@ -1287,50 +1332,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg.md",
-      "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-      "excerpt": "Onfido, which uses AI to “read” a person’s identity documents and then uses facial recognition and other datapoints to verify that a person says who she or he is online — customers for its tech include major banks, government bodies, and businesses doing recruitment: any organization running parts of its processes virtually — is today ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
-      "publishedDateTime": "2020-04-15T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/April-15_Onfido-Company-Photo_FINAL.jpg?w=680",
-          "width": 680,
-          "height": 404,
-          "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

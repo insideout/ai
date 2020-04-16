@@ -2,6 +2,88 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-10-forwardx-debuts-computer-vision-amr-fleet.md",
+      "title": "ForwardX debuts computer vision AMR fleet",
+      "excerpt": "ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in logistics, manufacturing and retail facilities abroad. Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.logisticsmgmt.com/article/forwardx_debuts_computer_vision_amr_fleet",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
+          "width": 300,
+          "height": 400,
+          "title": "ForwardX debuts computer vision AMR fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-facebooks-ride-encourages-ai-agents-to-explore-their-environments.md",
+      "title": "Facebook’s RIDE encourages AI agents to explore their environments",
+      "excerpt": "A preprint paper coauthored by scientists at Facebook AI Research describes Rewarding Impact-Driven Exploration (RIDE), an intrinsic reward method that encourages AI-driven agents to take actions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
+      "publishedDateTime": "2020-03-10T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s RIDE encourages AI agents to explore their environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-are-ai-ethicists-making-any-difference.md",
       "title": "Are AI ethicists making any difference?",
       "excerpt": "Tech companies, consulting firms, and even the US military are rushing to add ethics boards and hire “AI ethicists.” They’re asking them to think about everything from bias and fairness to the circumstances under which it is acceptable to use autonomous weapons. It’s a welcome acknowledgment of the harm AI can do. But many people are ...",
@@ -888,80 +970,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-machine-learning-could-be-canadas-edge-in-the-global-quantum-computing-arms-race.md",
-      "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
-      "excerpt": "Her work applies machine learning to quantum physics problems ... Recently, 1QBit was listed as Microsoft’s only software partner on Azure Quantum, which aims to bring its cloud computing software to quantum computers and make them mainstream. “It’s about getting the whole ecosystem up and standing and feeding into each other ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://betakit.com/ai-nation-quantum-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2020/01/2000Q-Chip_feature-1024x680.jpg",
-          "width": 1024,
-          "height": 680,
-          "title": "MACHINE LEARNING COULD BE CANADA’S EDGE IN THE GLOBAL QUANTUM COMPUTING ARMS RACE",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-to-be-topic-for-1st-tectalk.md",
-      "title": "Deep Learning to be Topic for 1st teCTalk",
-      "excerpt": "One of your neighbors posted in Business. Click through to read what they have to say. (The views expressed in this post are the author’s own.)",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/connecticut/hartford/deep-learning-be-topic-1st-tectalk",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/20886760/20200310/083208/styles/patch_image/public/tectalk-logo___10082846546.jpg",
-          "width": 716,
-          "height": 537,
-          "title": "Deep Learning to be Topic for 1st teCTalk",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

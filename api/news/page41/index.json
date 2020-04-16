@@ -2,6 +2,80 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-03-13-boosting-the-power-of-machine-learning.md",
+      "title": "Boosting the power of machine learning",
+      "excerpt": "Eigen Technologies Co-founder and CEO Dr Lewis Liu said “In the years we have worked with ING we have found them to have some of the most advanced thinking in the market on the application of machine learning in financial services, something that comes from their fantastic innovation culture.” “To have ING join us as both an investor and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ing.com/Newsroom/News/Boosting-the-power-of-machine-learning.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ING",
+        "domain": "ing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ing.com/upload/d72ef16a-4651-440e-b6cf-d625a1bcb29f_orange-juice_1200x675.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Boosting the power of machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-week-in-review-design-low-power.md",
+      "title": "Week In Review: Design, Low Power",
+      "excerpt": "Synopsys revealed DSO.ai (Design Space Optimization AI), an autonomous AI application that searches for optimization targets in very large solution spaces of chip design, inspired by the process of DeepMind’s game-playing AlphaZero. DSO.ai engines ingest ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://semiengineering.com/week-in-review-design-low-power-85/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i0.wp.com/semiengineering.com/wp-content/uploads/2019/05/iStock-509646667-brainchip.jpg?fit=663%2C527&#038;ssl=1",
+          "width": 663,
+          "height": 527,
+          "title": "Week In Review: Design, Low Power",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-infosys-ranked-a-leader-in-nelsonhalls-cognitive-and-self-healing-it-infrastructure-management-services-report-2020.md",
       "title": "Infosys Ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services Report 2020",
       "excerpt": "BENGALURU, India, March 13, 2020 /PRNewswire/ -- Infosys has been ranked a Leader in NelsonHall's Cognitive and Self-Healing IT Infrastructure Management Services report 2020. Infosys emerged as ...",
@@ -849,64 +923,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-swiss-re-announces-ai-data-tie-up-with-microsoft.md",
-      "title": "Swiss Re Announces AI Data Tie-Up With Microsoft",
-      "excerpt": "The service would be available to insurer clients, but also used internally to aid the company’s own pricing. As part of the deal, Swiss Re said it would move its internal operating system to Microsoft’s cloud product, Azure. That would enable the reinsurer to access “advanced data processing” and artificial intelligence systems ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.law360.com/articles/1252636/swiss-re-announces-ai-data-tie-up-with-microsoft",
-      "ampWebUrl": "https://www.law360.com/amp/articles/1252636",
-      "cdnAmpWebUrl": "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1252636",
-      "publishedDateTime": "2020-03-12T06:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law360",
-        "domain": "law360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-how-ai-could-help-translate-the-written-language-of-ancient-civilizations.md",
-      "title": "How AI could help translate the written language of ancient civilizations",
-      "excerpt": "But a technological breakthrough at the University of Chicago may finally make automated transcription of these tablets—which reveal rich information about Achaemenid history, society and language—possible ... Krishnan applies deep learning and AI techniques to data analysis, including video and other complex data types.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.html",
-      "ampWebUrl": "https://phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-03-ai-written-language-ancient-civilizations.amp",
-      "publishedDateTime": "2020-03-12T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,88 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-03-24-8-d-list-characters-who-tried-and-failed-to-replace-a-list-superheroes.md",
+      "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
+      "excerpt": "Apparently their best idea for replacing the Human Torch was a woefully annoying robot. Pitched by Stan ... having been mind controlled by time-traveling supervillain Kang the Conqueror.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950",
+      "ampWebUrl": "https://io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/8-d-list-characters-who-tried-and-failed-to-replace-a-l-1705795950/amp",
+      "publishedDateTime": "2020-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1260906929369303437.png",
+          "width": 800,
+          "height": 450,
+          "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-library-of-deep-learning-models-and-datasets-designed-to-make-deep-learning-more-accessible-and-accelerate-ml-research.md",
+      "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+      "excerpt": "This iPython notebook explains T2T and runs in your browser using a free VM from Google, no installation needed. Alternatively, here is a one-command version that installs T2T, downloads MNIST, trains a model and evaluates it: pip install tensor2tensor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://github.com/tensorflow/tensor2tensor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GitHub",
+        "domain": "github.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://avatars2.githubusercontent.com/u/15658638?s=400&v=4",
+          "width": 400,
+          "height": 400,
+          "title": "Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-ram-shankar-siva-kumar.md",
       "title": "Ram Shankar Siva Kumar",
       "excerpt": "Ram is a Data Cowboy in Azure Security at Microsoft, working in the intersection of Machine Learning and Security. At Microsoft, his primary focus is modeling massive amounts of security logs to surface malicious activity. For instance, how do you detect ...",
@@ -996,87 +1078,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
-      "title": "How AI Makes Big Data Smarter",
-      "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/23/how-ai-makes-big-data-smarter/amp/",
-      "publishedDateTime": "2020-03-23T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-54-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Makes Big Data Smarter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-brainchip-and-socionext-provide-a-new-low-power-artificial-intelligence-platform-for-ai-edge-applications.md",
-      "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
-      "excerpt": "... an advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. This innovative, event-based, neural network processor is inspired by the event-based nature of the human brain.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tmcnet.com/usubmit/-brainchip-socionext-provide-new-low-power-artificial-intelligence-/2020/03/23/9119201.htm",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T05:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/cloud-computing-mag/images/cloud-computing-0515-cover.jpg",
-          "width": 252,
-          "height": 335,
-          "title": "BrainChip and Socionext Provide a New Low-Power Artificial Intelligence Platform for AI Edge Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

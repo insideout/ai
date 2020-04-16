@@ -30,6 +30,21 @@ images:
     title: "Self-driving startup Zoox settles with Tesla over trade secret theft"
 
 related:
+  - title: "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla"
+    excerpt: "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup."
+    publishedDateTime: 2020-04-15T22:59:00Z
+    webUrl: "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN21X034"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H"
+        width: 766
+        height: 545
   - title: "Tesla’s latest self-driving visualization comes to life in this impressive picture"
     excerpt: "Tesla has made some impressive progress in self-driving visualization with its latest software updates. Check out this new beautiful picture that represents that progress extremely well. In an update called “Full Self-Driving Sneak Preview” late last year, Tesla made a series of “Driving Visualization Improvements”: The driving ..."
     publishedDateTime: 2020-04-15T15:49:00Z
@@ -56,15 +71,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
-  - title: "U.S. Self-Driving Car Startup Zoox Agrees to Settle Lawsuit With Tesla"
-    excerpt: "Tesla lawyers filed a lawsuit in March last year against four former employees and Zoox, alleging the employees stole proprietary information and trade secrets for developing warehousing, logistics and inventory control operations. Zoox said the settlement required it to pay Tesla an undisclosed amount and undergo an audit to ensure that none ..."
-    publishedDateTime: 2020-04-15T01:34:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-04-14/us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "Tesla Settles Trade Secret Fight With Self-Driving Start-Up"
     excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
     publishedDateTime: 2020-04-15T22:39:00Z
@@ -88,6 +94,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "VNmOZiuMuJWoS6Nri0YSTTBPEhC2k+JqDAYBQRz+5xqiFYhuW7TyfMolrYyLIk/LucFIJsYYDbEMyoGiAb39orzyLMwgFtWpdGUG9PVSPSohxZ/aZpPg+FKn9oeQHU+ZsHLCjmlpfsgVdc1qIGVLv34G8+LovP9S6BfNcaQRaN9l/iZKhVrG97Ra3veEY06HSv4QzBeVV1Sz+8MMPrGlNKLbbHqWZc+20EAy7NDaX0sdquA7S2Rxr8q4Lkf4Ac5s5Lt8CgSPOUUO5aMAo3ryFFwYExS+eqDHglg/VO8LxT5m3n9qnaGyHCCM60ntW6rZjkbmR+aJVX2IeSekjzlLpA+wmeBN9qvpYOO+q62eKRkTzNx15UmO7A8AtXHHqbU6zCjVbLBe5aaMsVjmx7bq9ou64BtZppo2aCo0PF3QhBCycZEgtjwmVnJ9m3rXVbzEovD/lKog7Uy3gQlvIBfF6U8qZgocMBOyPQFzZ+KRZvE=;4j0PXFK88KuUXnnoBpyQ2Q=="
+secured: "Tq8VSU66c2HMPx6KkOW5+3XRnqzhV9QyU7ZeWQM+yGzcn3/NvgKBxG2QyE7PdnwJ3+SJ/X8cnpFwnCpyYdSwnWxxWH43CZ2dRkx+Mu2qYoO6+u5ishM+nTjEckz8y5IgL1aBkCLQCU6uEDYj2GTJM3PPhwhTIE+CEckhIDx29H32gMGfq0RJfORhQ9kbqpMqPEfZwP542qokhxp1cgSKn5ZTYb8ZQky0Qj2qNSRL7bXOEsiL8wquK8t7gbDTQy4vJvhvvJe5SVY/MqsR11KWwITJLm0dYrJd2xJZEyjMgZT3wyCU2VWW8xti3eA9rRgy3ICC9DmJNfw3PgrpqH++majaXyzwm25jUv2is0q9Xjs0/Ox62FujZvLKzzU2YhDK6lxo57DZTMoxPAbJ6PYLAzesFSHf85ijg0I+Q5jEKl+oFNLzv0lX0PrMtpgn4Y0z4RlrjmcyVG1PXkKsmHZWxE9yaXm81x2dHADSsmZNIrc=;xVmwWH94n1frWKORCCkh+A=="
 ---
 

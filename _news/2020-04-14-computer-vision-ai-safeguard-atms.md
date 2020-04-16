@@ -2,25 +2,21 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:47:00Z
-webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:24:00Z
+webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 64
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "RyWbbxOghMdPtKWK6OWaL6JY8ijPItpgUBXInhfAA8nW5NqdeXv5ZGtcye47Z+F1SZWm4FtMFmrmplLV1lWcfJSAfzhrKnYHjOLYeRP7EzeJ52A7gh5au9IjC4tjAZF83kEBqxGOd2tJg7yPibSc+LYttcMOTBYBRKtMkfwfxAK8qnSMe5+DL2TiXVJnKg3KrpKqE7UBqZ8q206d3+US/FDmFLTMFy3r0HEvYPtqEo8NFPQ4mWxR4NuF48dYCyxRPwMtdtGhJt44240XKUTWR9Q6DIRBYuoZ7GC012j87CC0W60yzHjnNULLfOpY3VcRJa17csQ9uavwN+sHAAgnSqbzx75aH9wI6oHiXrE+wUo0E65IVhXv2ISIaVbvNqv6V3Rfta0AtbVl0Cu2V7ownTuaZezkkvfsk0sFU5wvdhdDxqzJqHUDcOQSQI8KVbg8E6WH3LYeUx9hgEaq564P0vNEtcTaWcIiLja8ZTT0AF0=;TkuDeBBtlIoaZ8ZhtvJw2Q=="
+secured: "FqKoRWCjrkp3kdBBjKMPlgAJFkaRHiUakvCMZizi1vbYKdhq6Zh+PN8vIrrlWEwpYMUfgCqKfc7D5XcWzMzxqILDyRSOboqe0zy7gIvL0tGSwv6ivGEABup2rkfLpaqhTwmEinT9wRio2sF/4qtc7zp/NpkSJfwQ00v1U6v9BAmtB+eoDwFpNNBf6UXD80sQhgmpm30eXWRQ/uibQJ8RANDWinO5k5zqJnqrY0o5wy/n8wk7qVEC+O5bPSS+jCuqYJphENasIiXV8D9ml6K90d7+tU2ILysct1G+mCeRmdicCL3lhU20Z3qIJEXtRBJRr6+OjJLvEdFkGCdUii+XObNIv3ulRg8vRk0jeirfG9KD3Hu8QU9yN2xdGmJiwJKFme/Y6m835B+mf0u/BLGaIZU2LWZp4puTKuccpywbYv5OZ65SSRRRLcfILsXX3IkAHghvvYO6uwN2VGRHN//Dp4Nm2g798aJpMHqR6pspdJ4=;N3d7PRRWdt3YkPtzbTAIJA=="
 ---
 

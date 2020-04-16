@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp"
 type: article
 quality: 82
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,19 @@ images:
     height: 3785
     title: "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025"
 
-secured: "JkZiq2GPk9YmjECyraD84GravDGzFMSI0N54DIIKgpeDQa5oSdc72K1Lt7mVfeOgFGxlp0FSlCErnzIolmhVeLZcl1bPuZkn5ouCI4WPUS3JDAWvfoKbl1BmZaER8pA/mjFQhwVk8v2Lw4FqHM7T1CCghdFtBabJ+U5Et9os4rQVrokNgpgSkcEV2yVFYxBZ1bY7NwFRu3GjKugbMrItTCjz0sclTicIwijKvOnidTjsDw8EVfdBUiOkwlYUHHeIlwRaPcG1/ugnOrZ4+6ckMykwIaf34Sj27eDkcyCg1DUjyvgg6/rRX804bgOrCaWu;iKw07hrpyIo1lT3TxzjfUQ=="
+related:
+  - title: "Global Computer Vision in Healthcare Market Analysis to Reach by USD 1,171.6 Million by 2025"
+    excerpt: "Zion Market Research has recently added latest report, titled “Global Computer Vision in Healthcare Market Analysis to Reach by USD 1,171.6 Million by 2025“, which examines the overview of the various factors enabling growth and trends in the global industry. The global Computer Vision in Healthcare Market report portrays an in-depth ..."
+    publishedDateTime: 2020-04-16T05:22:00Z
+    webUrl: "https://galusaustralis.com/2020/04/599398/global-computer-vision-in-healthcare-market-analysis-to-reach-by-usd-1171-6-million-by-2025/"
+    ampWebUrl: "https://galusaustralis.com/2020/04/599398/global-computer-vision-in-healthcare-market-analysis-to-reach-by-usd-1171-6-million-by-2025/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/04/599398/global-computer-vision-in-healthcare-market-analysis-to-reach-by-usd-1171-6-million-by-2025/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 28
+
+secured: "QBWPQVf46P38JZm2qTxyXB8EyyBKf/fkysB1tZ30XSLtQRDad9Q+gNgy+hg50MtP9tGYrUhQUM4Rx8D/3izax0e6Cir+IDQazkeUfA+ySGofp05JKlYhSU2rF/osJP757bXCFvuahuYiYZhYp0L7VoK8FLFAa19zZRk/A8swjhphcJ/BKIm+0CYswnlvVnrIK4jXW9JNIAd/8mVSq69ht1TpXyWr3TIrbgLMO60ytCdgyS4IB+stVtgLKGoye4s8/9C0EENL0kMO3lZzi9ijZuaTqwP8hqVvkf4ygT8+v9XFDLqqDFiuu5rwdVhxHSIN;KmapR5NlbeFY1CHGN3FjHA=="
 ---
 

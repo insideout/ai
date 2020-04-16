@@ -53,6 +53,17 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Global Artificial Intelligence In Accounting Market Analysis to Reach by USD 7,085 Million By 2025"
+    excerpt: "Zion Market Research has recently added latest report, titled “Global Artificial Intelligence In Accounting Market Analysis to Reach by USD 7,085 Million By 2025“, which examines the overview of the various factors enabling growth and trends in the global industry. The global Artificial Intelligence in Accounting Market report portrays an ..."
+    publishedDateTime: 2020-04-16T05:39:00Z
+    webUrl: "https://galusaustralis.com/2020/04/599423/global-artificial-intelligence-in-accounting-market-analysis-to-reach-by-usd-7085-million-by-2025/"
+    ampWebUrl: "https://galusaustralis.com/2020/04/599423/global-artificial-intelligence-in-accounting-market-analysis-to-reach-by-usd-7085-million-by-2025/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/04/599423/global-artificial-intelligence-in-accounting-market-analysis-to-reach-by-usd-7085-million-by-2025/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 23
 
 secured: "jzBF4dN9FBXLvnkblEYeAwbD1550jtTNzKfVIbOskVRVRSEw+7XE1Ps048XfS0WtkiPPOi3ezOVofK04dhxMvLjCLrbGDSa/prCOlMEEBO28Gs3zsDsLbLFf7udjhRU82bFIAWJ4EWudyEoGZCXoGCagrUtq6yLY79uKljhpoWnFtNZI+cqSVpwudlJ3dBnJr7FGBQUVM6jpnTDR38WjmBkcDnDZVfBmWcJ6rzm+zXZ6zNHsdqWXjaFuC1722jRl390seGM1kUjpsAOKV9QWsbQ/lsTLuL3y+Ja9t5Sf9SOTCzxiLnQILA0ltVqQnqR0;76PKeKd66CsoU29fUx4/xg=="
 ---

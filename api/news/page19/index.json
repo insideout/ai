@@ -2,6 +2,97 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
+      "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+      "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/microsoft-365-ai-tools/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T08:33:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/03/Microsoft-365-AI-Sumit-Chauhan-Mira-Lane_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite.md",
+      "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
+      "excerpt": "Let’s see what this lite framework is all about. According to official documentation, TensorFlow Lite helps in deploying our models on mobiles and IoT devices i.e. it converts your TensorFlow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/datadriveninvestor/deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite-99d3ccdfc853?source=---------2------------------",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/565/0*ig0fBXW0W8OfKILY.jpg",
+          "width": 565,
+          "height": 427,
+          "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral.md",
       "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
       "excerpt": "Reports claim that Tesla Autopilot might soon get a red light auto-stopper feature, which causes some to worry.",
@@ -135,43 +226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
-      "title": "Artificial intelligence can speed up the detection of stroke",
-      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/uot-aic033020.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/228023_web.jpg",
-          "width": 453,
-          "height": 509,
-          "title": "Artificial intelligence can speed up the detection of stroke",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -999,51 +1053,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-10-business-functions-that-are-ready-to-use-artificial-intelligence.md",
-      "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-03-29T21:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81761ea1a0ef0007d89a39%2F0x0.jpg%3FcropX1%3D406%26cropX2%3D2635%26cropY1%3D0%26cropY2%3D1254",
-          "width": 1200,
-          "height": 675,
-          "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

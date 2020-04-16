@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg"
@@ -24,6 +25,6 @@ images:
     height: 712
     title: "Watson Speech to Text review"
 
-secured: "7hWakbuYHVSVpyYs+XrCVyw8sNYdNupdi0HQghPraU6DWnKT5j2RmCANTQkFiTKalkLpAklzcidKGHnm8chrk7MJ5XKrJY62ST+pkahwBTGfGtrHDPOJz1nVHLV1VK82izqkbMNFcynIfLbK86bu8HKsBpQB9Ae3f+vpQTfF/6F+cbq92RGv3/5DisqeDNp4Pgquyoqjx80DTdIPRGVKnPEaRAmOmbNjJWWgjeVsbii90bYOcSBDuoEksLDXOEP62pwmd3rhMeFrqDTyD4bXrYg4CAHn1nOxj1rre5H4HnZ4ZWu03a2p5yv4Wiel95mA;tZkRas4j2W6uAFunjBWLRA=="
+secured: "oNU47gqdthvcBMthwH/6i1llyMd4jotluLfLEMzC4vPhddO+P0WN60IIt1l44p+KOiIUW5XtV+LdxDy4z1pwmEEgpC3TkZp9Y1P1IJsNiAVbYyw3V02/4yE1jXBZwiRp+cK6TOoU0f5j7C4p0iTehMTb4s3sx5q5ZUbhgYr3LwlrwY/BhxdXbBtn29iN3frarlIIre2a4Rzxu9/a7UtnQmHHVUmAnycSlWGOMuf38QkJLa3lfDsi11S44Dcr0YSShMG84PF9rCqYvwMyzrLuR1eYiw62xTW3KYagOda3Eccf4VbojyuUrJP9Ih9+d+WcAFxzGdB3edRyXCkDDyyynsEvGFULXOfKpvuENh++wNymV4H7krL3Fw6HTyLWDuhwikWn+2NCtPADNu4V5ZVxQPfLk5BeVCnu7JBgGHhcPuT6xhGYX2leDG/FQPKnlo/88VZaC64xE2yQKGjSdidaNVKJz5F+Csf5MlgIx5B0mnI=;BNdyt80xj3gk+JiTNTGrqg=="
 ---
 

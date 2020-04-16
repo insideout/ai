@@ -1,19 +1,25 @@
 ---
 category: news
 title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
-excerpt: "With Watson Assistant for Citizens, IBM is helping government agencies, healthcare organizations and academic institutions use AI to put trusted data and information into the hands of their ..."
-publishedDateTime: 2020-04-02T04:12:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions/article_cfc92023-2c3e-5cc2-b30f-7bb4a0be50ca.html"
+excerpt: "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. \"While helping government agencies and healthcare ..."
+publishedDateTime: 2020-04-02T12:38:00Z
+webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-884893590.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - IBM AI
   - AI
 
-secured: "SZ+sS4ikGkmWsqisi1Ywu2ZwWnsvdy3zFHQ/Pt5fU2Nk9Gz4mVjq1dIZnqF5y1q5JiT062PgRquFedIrM0IQjjvZvNaa91Qbo6YXDhZydi1ZgjMOADodupq1NzD1sSrba1OmX8MTIJf5kRefs5RyqTldn26bGFsicG2/XeEHY4brePpAVbhFvNKUjb1Zp614u1VIhNaNbUcQrYbeEHhWKfw9/D65bUna91rtGpPRQYsu9iL29ESYFs5KUUloLxN1aDVXbNs8f8r466XKBriteSjm4UYY6KrsK4onUqr2neAf3cytmbZyPZQxrckXldDg;nskTMROapGmR3gfOk7q6xQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook"
+    width: 1650
+    height: 864
+    title: "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions"
+
+secured: "BS93LZd1JaNQ8x+YBkQGMPuoS92r+dbKoGDOEahMMWBGjuEBuAAT9hh1vuYgkFPPJrYDQ0SlrDZ0CSzXKvF5hYQ4t45X9CUtjPVeuvqRTC4aKxhx1VMLAEgHsg034ORwMm1h57466CbwUcWsYewzSyRWY93gB8ZEhnvK00PzM2UiI9l4VPbP5lFLuyYoF6KgFd89VMn0Dk2WIFytYW/SBSejqbMZh1VMkTaPJVFnIML8dE4+Zdqw8f/JR69uqZKPxy234oboq8LaaRN0lJIokPF1pcyxrLfb+7b1V7kBnIqZ4c4M11wHOep4RpELnfVE;O2s/NJemQ3Q6EAbF5z1tLA=="
 ---
 

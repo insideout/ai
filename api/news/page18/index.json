@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-31-how-ai-helped-dominos-improve-pizza-delivery.md",
+      "title": "How AI helped Domino’s improve pizza delivery",
+      "excerpt": "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
+      "publishedDateTime": "2020-03-31T03:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2015/04/drone-pizza-delivery-thinkstock-100579669-large.jpg",
+          "width": 1200,
+          "height": 1100,
+          "title": "How AI helped Domino’s improve pizza delivery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-entrepreneurs-must-warm-up-to-ai-or-risk-their-own-alphago-loss.md",
       "title": "Entrepreneurs must warm up to AI — or risk their own ‘AlphaGo loss’",
       "excerpt": "Head of Artificial Intelligence, Cognizant — A leader in AI and applying it to drive digital transformation across industries. A leader in AI and applying it to drive digital transformation across industries. bretgreenstein The evolution of AI continues apace. Deep learning has established its place in the world of tech but its next iteration ...",
@@ -434,6 +479,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-omniq-reports-full-year-2019-revenue-increase-to-572-million-gross-profit-increases-to-140-million.md",
+      "title": "OMNIQ Reports Full Year 2019 Revenue Increase to $57.2 Million; Gross profit increases to $14.0 Million",
+      "excerpt": "OMNIQ has recorded several major achievements that have transformed the Company into an AI - Machine Vision Object Recognition leader: - Launch of our SeeCube™ solution which is a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008754/0/en/OMNIQ-Reports-Full-Year-2019-Revenue-Increase-to-57-2-Million-Gross-profit-increases-to-14-0-Million.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -985,97 +1059,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-new-ai-tools-help-writers-be-more-clear-concise-and-inclusive-in-office-and-across-the-web.md",
-      "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
-      "excerpt": "The post New AI tools help writers be more clear, concise and inclusive in Office and across the web appeared first on The AI Blog.\n",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/microsoft-365-ai-tools/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T08:33:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/03/Microsoft-365-AI-Sumit-Chauhan-Mira-Lane_1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "New AI tools help writers be more clear, concise and inclusive in Office and across the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite.md",
-      "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
-      "excerpt": "Let’s see what this lite framework is all about. According to official documentation, TensorFlow Lite helps in deploying our models on mobiles and IoT devices i.e. it converts your TensorFlow ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite-99d3ccdfc853?source=---------2------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/565/0*ig0fBXW0W8OfKILY.jpg",
-          "width": 565,
-          "height": 427,
-          "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
         "AI"
       ]
     }

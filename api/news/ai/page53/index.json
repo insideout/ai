@@ -2,6 +2,95 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
+      "title": "AI At The Edge: Creating Coordinated Autonomy",
+      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
+      "publishedDateTime": "2020-02-18T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
+          "width": 800,
+          "height": 512,
+          "title": "AI At The Edge: Creating Coordinated Autonomy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
+      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
+      "publishedDateTime": "2020-02-18T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
+          "width": 770,
+          "height": 474,
+          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-18-google-experiments-with-ai-to-design-its-in-house-computer-chips.md",
       "title": "Google experiments with AI to design its in-house computer chips",
       "excerpt": "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ...",
@@ -1211,97 +1300,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-arm-ups-its-iot-intelligence-game-with-new-chips.md",
-      "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-      "excerpt": "Patrick Moorhead gives his take on Arm unveiling last week's key parts of their portfolio moving forward—a selection of offerings and IP geared specifically towards machine learning and AI.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/02/17/arm-ups-its-iot-intelligence-game-with-new-chips/amp/",
-      "publishedDateTime": "2020-02-17T14:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4b097ba854780006b19d78%2F0x0.jpg",
-          "width": 975,
-          "height": 658,
-          "title": "Arm Ups Its IoT Intelligence Game With New Chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-17-new-artificial-evolution-research-could-finally-prove-darwin-was-right.md",
-      "title": "New artificial evolution research could finally prove Darwin was right",
-      "excerpt": "A successful artificial evolution paradigm could result in a Darwin Machine-based neural network capable of better emulating the natural selection process and, possibly, the human brain’s own ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/new-artificial-evolution-research-could-finally-prove-darwin-was-right/amp/",
-      "publishedDateTime": "2020-02-17T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/bacteria-796x437.jpg",
-          "width": 796,
-          "height": 437,
-          "title": "New artificial evolution research could finally prove Darwin was right",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -14,6 +14,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "z3vGqzqho2WhkdcCtVchWdLyF6PohtWIgqlHlQOivftKqj9ZLG4jHwSdwINpbqYX+Xr2c5+LBwfLgTgR7kGwaf9SENnNHKtYcJvH9R4NVIIo3x5ZO2J6I6HtxZ7LD09jUjv3xSxl7lqrG1CQ3/GSoP2UOJ6cwH98MQxLdzJ6rG9rPi2Bi4VgLZHbXuUPawPXFwmfqZv6hkv1FP03vSla0i7zhJiUA2gNTomkfBI1mnoryHfhxbYwxMpagvQQwn66+y7aEyj0qVfmDCsIiiosUFJajaEyVI/RC+J7H01H/lciHF3OMVi8TuEbmz2Se0YU;cfFMluURQYK+IhB/dcFe1Q=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    title: "Automated Machine Learning (AutoML) Market"
+
+secured: "UFkdFu0WUT3YUsrG0HVFzjEq0MTBRHxUCtZeccIBl/welosfnlnqWj5qUaFjh0CosjjklRjfwVT9vru1E1d+fYNcY9Ujr1T7XASlNmAHRWsh86pJ7cBZ6XfjrUnw5XcnUhn01xuNFcQvF4rn5VICDEX3JKOrQY91qrslKAa9XryL5MA71Zggl9QNfwzBDjuccNaJMGbgcKUTX0oW7k/249J+3kiof6KjIg/obADjbiHIUK8c+X4Ceb2uw/OtGLF3geQ2l8DBt+pGNmCpSYu6ssmgy/dczotPbTdlkkoIJiFuof6itGOSwP9nxlqoR2kj;56jDIUxheBT47I6dY47Xqw=="
 ---
 

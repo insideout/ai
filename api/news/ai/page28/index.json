@@ -2,6 +2,80 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-18-here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financial-gains.md",
+      "title": "Here to Help: Formations Comes Out of Stealth to Help Full-Time Self-Employed Maximize Their Financial Gains",
+      "excerpt": "The Kirkland-Based Fintech Startup Embraces the Latest Cloud-Accounting Technology, Big Data and Machine Learning to Detect Patterns and Find Opportunities for Smarter Financial Decisions That Can Add Up to $20,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/b15578143/here-to-help-formations-comes-out-of-stealth-to-help-full-time-self-employed-maximize-their-financ",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15578143",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15578143",
+      "publishedDateTime": "2020-03-18T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses.md",
+      "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
+      "excerpt": "Deepgram, a Y Combinator graduate building tailored speech recognition models, today announced it has raised $12 million in series A financing. CEO and cofounder Scott Stephenson says the proceeds will bolster the development of Deepgram’s platform, which helps enterprises to process meeting, call, and presentation recordings. If all goes ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/18/deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses/amp/",
+      "publishedDateTime": "2020-03-18T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/voice-recognition.shutterstock_10831770921-e1584378309976.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-deepgram-raises-12m-for-enterprise-speech-recognition.md",
       "title": "Deepgram raises $12M for enterprise speech recognition",
       "excerpt": "Deepgram, a startup focused on high-quality, real-time speech recognition, announced a $12 million Series A this morning. The startup, founded a half decade ago, according to Crunchbase data, with just a few million in raised capital, is interesting, as its success to date was founded on two consecutive experiments. The first dealing with its ...",
@@ -1068,80 +1142,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd.md",
-      "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-      "excerpt": "Michael D. Abramoff, MD, PhD, is the Robert C. Watzke, MD Professor of ophthalmology and visual sciences at the University of Iowa Carver College of Medicine. He is also a professor of electrical and computer engineering and a professor of biomedical engineering at the University of Iowa.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ajmc.com/newsroom/artificial-intelligence-for-the-diagnosis-of-diabetic-retinopathy-an-interview-with-michael-d-abramoff-md-phd",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hraresearch.s3.amazonaws.com/_media/_core/ajmc-twitter-logo.jpg",
-          "width": 1667,
-          "height": 1667,
-          "title": "Artificial Intelligence for the Diagnosis of Diabetic Retinopathy: An Interview With Michael D. Abramoff, MD, PhD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-javascript-face-detection-with-face-apijs.md",
-      "title": "JavaScript Face Detection with face-api.js",
-      "excerpt": "The face-api.js JavaScript module implements convolutional neural networks to solve for face detection and recognition of faces and face landmarks. The face-api.js leverages TensorFlow.js and is optimized for the desktop and mobile web. As explained by face-api.js creator Vincent Mühler, face recognition with deep learning is a detailed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/face-api-js/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/face-api-js/en/headerimage/faceapi-1584401193144.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "JavaScript Face Detection with face-api.js",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-03-31-what-can-agencies-reasonably-do-to-benefit-from-ai.md",
+      "title": "What Can Agencies Reasonably Do To Benefit From AI?",
+      "excerpt": "AI has changed our lives in countless ways, but I've noticed most agencies still struggle to harness its power to improve their business.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/31/what-can-agencies-reasonably-do-to-benefit-from-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/31/what-can-agencies-reasonably-do-to-benefit-from-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/31/what-can-agencies-reasonably-do-to-benefit-from-ai/amp/",
+      "publishedDateTime": "2020-03-31T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F142.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "What Can Agencies Reasonably Do To Benefit From AI?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-the-three-main-test-automation-factors.md",
       "title": "The Three Main Test Automation Factors",
       "excerpt": "When creating a test automation culture, you need to look at the three main test automation factors: product, people and process.",
@@ -618,6 +662,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-omniq-reports-full-year-2019-revenue-increase-to-572-million-gross-profit-increases-to-140-million.md",
+      "title": "OMNIQ Reports Full Year 2019 Revenue Increase to $57.2 Million; Gross profit increases to $14.0 Million",
+      "excerpt": "OMNIQ has recorded several major achievements that have transformed the Company into an AI - Machine Vision Object Recognition leader: - Launch of our SeeCube™ solution which is a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008754/0/en/OMNIQ-Reports-Full-Year-2019-Revenue-Increase-to-57-2-Million-Gross-profit-increases-to-14-0-Million.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
       "title": "Key Takeaways From AMD's Financial Analyst Day",
       "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
@@ -1211,97 +1284,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite.md",
-      "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
-      "excerpt": "Let’s see what this lite framework is all about. According to official documentation, TensorFlow Lite helps in deploying our models on mobiles and IoT devices i.e. it converts your TensorFlow ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/datadriveninvestor/deploy-your-deep-learning-models-on-iot-devices-using-tensorflow-lite-99d3ccdfc853?source=---------2------------------",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/565/0*ig0fBXW0W8OfKILY.jpg",
-          "width": 565,
-          "height": 427,
-          "title": "Deploy your deep learning models on IoT devices using TensorFlow lite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral.md",
-      "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-      "excerpt": "Reports claim that Tesla Autopilot might soon get a red light auto-stopper feature, which causes some to worry.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/30/coming-release-of-tesla-autopilot-red-light-auto-stopping-could-trigger-a-self-driving-downward-spiral/amp/",
-      "publishedDateTime": "2020-03-30T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F39403725%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Coming Release Of Tesla Autopilot ‘Red Light’ Auto-Stopping Could Trigger A Self-Driving Downward Spiral",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

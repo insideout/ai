@@ -2,6 +2,88 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-26-how-a-freshly-funded-robotics-startup-wants-to-help-hospitals-dealing-with-coronavirus.md",
+      "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
+      "excerpt": "The Austin startup makes robot assistants that help hospital staff with routine tasks. Moxi is the name of their current robot. It uses artificial intelligence to help hospital staff take care of things like delivering clean linens, gauze and syringes and setting up rooms for patients. DNX Ventures led the round, which also included existing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.html",
+      "ampWebUrl": "https://www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/austin/news/2020/03/26/how-a-freshly-funded-robotics-startup-wants-to.amp.html",
+      "publishedDateTime": "2020-03-26T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11238834/diligent-robotics-founders-moxi*600xx5725-3817-0-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "How a freshly funded robotics startup wants to help hospitals dealing with coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-tusimple-zf-partner-to-develop-and-produce-autonomous-truck-technologies.md",
+      "title": "TuSimple, ZF partner to develop and produce autonomous truck technologies",
+      "excerpt": "The companies will accelerate self-driving tech developed for big rigs with true driverless tests start in 2021.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/tusimple-zf-autonomous-truck-technology-partnership/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/tusimple-zf-autonomous-truck-technology-partnership/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tusimple-zf-autonomous-truck-technology-partnership/",
+      "publishedDateTime": "2020-03-26T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/4pHgn_zavWjuSyUQlY-w2dLTIJE=/2020/03/26/c78205ca-e6b7-438e-a579-08892973d5ae/p1133202-scaled-ogi.jpg",
+          "width": 2560,
+          "height": 1344,
+          "title": "TuSimple, ZF partner to develop and produce autonomous truck technologies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-how-ai-can-help-pinpoint-opportunity-zones-true-opportunities.md",
       "title": "How AI Can Help Pinpoint Opportunity Zones' True Opportunities",
       "excerpt": "Alternative sources like street views, cellular data and social media, rather than out-of-date information from U.S. Census data, offer clearer views of potential opportunities within Opportunity Zones.",
@@ -918,72 +1000,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-introducing-finis-lanevision-the-worlds-first-ai-computer-vision-swim-training-technology.md",
-      "title": "Introducing FINIS LaneVision: The World’s First AI & Computer Vision Swim Training Technology",
-      "excerpt": "The Aspiricx team is a unique blend of people with a passion for technology (AI, computer vision, data science, etc.) and for swimming. Natalie Coughlin, a 12-time Olympic medalist and 20-time World Championship medalist, holds the title of chief aspirer; her role is to bridge the gap between the two worlds and introduce all swimmers to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.athleticbusiness.com/industry-press-room/introducing-finis-lanevision-the-world-s-first-ai-computer-vision-swim-training-technology.html?_escaped_fragment_=/ccomment",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Athletic Business",
-        "domain": "athleticbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19.md",
-      "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
-      "excerpt": "Image used courtesy of BlueDot Artificial intelligence can help to chart the course of epidemics and advise epidemiologists as to where and when the novel coronavirus will spread next. It is also implemented on MCUs, allowing the host device to make ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.allaboutcircuits.com/news/ai-devices-are-helping-us-stay-one-step-ahead-of-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "All About Circuits",
-        "domain": "allaboutcircuits.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.allaboutcircuits.com/uploads/thumbnails/BlueDot_Feature.jpg",
-          "width": 800,
-          "height": 435,
-          "title": "AI Devices Are Helping Us Stay One Step Ahead of COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

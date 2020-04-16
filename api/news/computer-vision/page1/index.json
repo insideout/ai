@@ -887,6 +887,35 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-omniq-reports-full-year-2019-revenue-increase-to-572-million-gross-profit-increases-to-140-million.md",
+      "title": "OMNIQ Reports Full Year 2019 Revenue Increase to $57.2 Million; Gross profit increases to $14.0 Million",
+      "excerpt": "OMNIQ has recorded several major achievements that have transformed the Company into an AI - Machine Vision Object Recognition leader: - Launch of our SeeCube™ solution which is a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008754/0/en/OMNIQ-Reports-Full-Year-2019-Revenue-Increase-to-57-2-Million-Gross-profit-increases-to-14-0-Million.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GlobeNewswire",
+        "domain": "globenewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
       "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
       "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
@@ -1221,51 +1250,6 @@
           "width": 1350,
           "height": 750,
           "title": "Microsoft sells stake in Israeli face recognition firm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
-      "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-      "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-anyvision-idUSKBN21E3BA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "publishedDateTime": "2020-03-27T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200328&t=2&i=1509159992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2Q222",
-          "width": 818,
-          "height": 545,
-          "title": "Microsoft to divest AnyVision stake, end face recognition investing",
           "attribution": null
         }
       ],

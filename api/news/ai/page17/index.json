@@ -2,6 +2,88 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-29-nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal.md",
+      "title": "NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal",
+      "excerpt": "DLSS 2.0 improves upon the original release in just about every way. Game developers are still required to implement the technology into their games, but they no longer have to provide game-specific assets to NVIDIA to train the AI model.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2020/03/29/nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal/",
+      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2020/03/29/nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2020/03/29/nvidias-deep-learning-super-sampling-dlss-20-technology-is-the-real-deal/amp/",
+      "publishedDateTime": "2020-03-29T16:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e812c2f281468000685f50e%2F0x0.jpg",
+          "width": 1200,
+          "height": 771,
+          "title": "NVIDIA’s Deep Learning Super Sampling (DLSS) 2.0 Technology Is The Real Deal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-29-inside-chinas-controversial-mission-to-reinvent-the-internet.md",
+      "title": "Inside China's controversial mission to reinvent the internet",
+      "excerpt": "Instead, it was peppered with images of futuristic technologies, from life-size holograms to self-driving cars ... by private tech companies such as Baidu and Tencent. Although anyone anywhere ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12320843",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/dgtR0oUjatxTffZfyPUq5qILMQg=/1200x0/smart/filters:quality(70)/arc-anglerfish-syd-prod-nzme.s3.amazonaws.com/public/LBCNRHA7AJCWZH6JR4HECUXRYI.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": "Inside China's controversial mission to reinvent the internet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-29-microsoft-divests-from-israeli-facial-recognition-firm-anyvision.md",
       "title": "Microsoft divests from Israeli facial recognition firm AnyVision",
       "excerpt": "Pro-BDS groups have hailed as a victory a decision by the US-based Microsoft company to divest from the Israeli firm AnyVision after a sustained campaign against the company for use of its facial recognition technology against Palestinians in the West Bank. “BDS Win!” tweeted the left-wing US-based NGO Jewish Voices for Peace upon hearing ...",
@@ -1211,95 +1293,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden.md",
-      "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-      "excerpt": "A University of California, Berkeley robotics lab is developing AI systems for polyculture gardening as part of AlphaGarden ... and we’re basically trying to monitor the state of the garden every single day so that we can see how it evolves, and then start to understand what the effect of actions are,” Goldberg said. AlphaGarden also ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/27/uc-berkeley-robotics-lab-wants-to-fully-automate-a-polyculture-garden/amp/",
-      "publishedDateTime": "2020-03-27T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/alphagarden.png?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "UC Berkeley robotics lab wants to fully automate a polyculture garden",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage.md",
-      "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-      "excerpt": "SaaS is helping manufacturers and trucking companies save money and boost efficiencies by making the supply chain easier to manage and more transparent. Until recently, company executives have chalked up the cost and headaches of managing the supply chain as an unavoidable cost of doing business. Walmart started to change this trend several ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-platforms-and-ai-are-turning-the-supply-chain-from-a-cost-center-to-a-competitive-advantage/",
-      "publishedDateTime": "2020-03-27T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/01/10/14d74bfd-5f87-4518-82bc-b0ace8aa23cf/thumbnail/1200x675/3286603a2fa4dfecf28b20f2988dfc29/20200110-ibm-jason-teena.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud platforms and AI are turning the supply chain from a cost center to a competitive advantage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

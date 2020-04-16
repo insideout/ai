@@ -2,6 +2,97 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-02-26-ai-growth-spurts-hardware-is-cool-again-part-1-of-3.md",
+      "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
+      "excerpt": "the visionaries are making the frameworks accessible to every company in the world with scalable Enterprise grade ML platforms such as Amazon SageMaker, Google AI platform, etc. Below is an image ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@saarthi/ai-growth-spurts-hardware-is-cool-again-part-1-of-3-df4c31b995a2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/395/0*BBtx9QcpsGVIgtSq",
+          "width": 395,
+          "height": 271,
+          "title": "AI Growth Spurts — Hardware is cool again (Part 1 of 3)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-artificial-unintelligence-driverless-vehicles-deep-learning-and-dirty-datasets.md",
+      "title": "Artificial Unintelligence — Driverless Vehicles, Deep Learning and Dirty Datasets",
+      "excerpt": "Artificial intelligence (AI) makes it possible for ... ness contributes to the inherent uncertainty of the whole endeavor. Driverless Vehicles — What are the values that we are going to embed ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/artificial-unintelligence-driverless-vehicles-deep-learning-and-dirty-datasets-9f1793fdf3fe",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T11:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*LKtVmOR4Aui7X7djt8nMrg.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Unintelligence — Driverless Vehicles, Deep Learning and Dirty Datasets",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-computer-vision-custom-model-which-ai-provider-to-choose.md",
       "title": "Computer vision & custom model : Which AI provider to choose",
       "excerpt": "For Amazon, on the other hand, the task is much more complicated: accessing their new Amazon Rekognition Custom Label service remains a mystery. We used a direct link to this service to access it.",
@@ -1193,80 +1284,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-augean-robotics-mechanizing-food-production-from-farm-to-table.md",
-      "title": "Augean Robotics: Mechanizing Food Production From Farm To Table",
-      "excerpt": "It spanned over 120 feet and took up a considerable area inside the already overpacked robotics section of the Las Vegas Convention Center, leaving many to wonder, ‘What on earth is a tractor doing at CES?’ Ever the since the acquisition of the artificial intelligence startup Blue River Technologies for $305 million, John Deere has been ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/",
-      "ampWebUrl": "https://www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/amp/",
-      "cdnAmpWebUrl": "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2020/02/augean-robotics-mechanizing-food-production-from-farm-to-table/amp/",
-      "publishedDateTime": "2020-02-25T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "alleywatch.com",
-        "domain": "alleywatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.alleywatch.com/wp-content/uploads/2020/02/deere.jpg",
-          "width": 600,
-          "height": 450,
-          "title": "Augean Robotics: Mechanizing Food Production From Farm To Table",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.md",
-      "title": "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare",
-      "excerpt": "A working group of 52 healthcare and tech organizations convened by the Consumer Technology Association released on Feb. 25 a common framework for the development and use of artificial intelligence technology in healthcare. The set of 11 definitions and characteristics is the first standard regarding the use of AI in healthcare to be accredited ...",
-      "heat": 261,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ama-google-50-more-health-it-leaders-unveil-standard-for-ai-in-healthcare.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-25T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "AMA, Google & 50 more health IT leaders unveil standard for AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

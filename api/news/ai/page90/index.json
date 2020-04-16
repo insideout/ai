@@ -2,6 +2,88 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2019-12-31-will-deeptechs-fortunes-turn-in-2020.md",
+      "title": "Will Deeptech's Fortunes Turn In 2020?",
+      "excerpt": "Smartphone-based cognitive behavioral therapy is showing promise for ... and setting up AIRAWAT (Artificial Intelligence Research, Analytics and knowledge Assimilation platform), a cloud computing ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/344414",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/344414",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/344414",
+      "publishedDateTime": "2019-12-31T01:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190109070104-shutterstock-529299211.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Will Deeptech's Fortunes Turn In 2020?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2019-12-30-a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown.md",
+      "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
+      "excerpt": "That reality check could come in the form of disappointing results when AI products are ushered into the real world. Even Topol, the author of “Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again,” acknowledges that many AI products are little more than hot air. “It’s a mixed bag,” he said. Experts such as Dr ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/",
+      "ampWebUrl": "https://khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
+      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/a-reality-check-on-artificial-intelligence-are-health-care-claims-overblown/amp/",
+      "publishedDateTime": "2019-12-30T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kaiser Health News",
+        "domain": "khn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://khn.org/wp-content/uploads/sites/2/2019/12/AI_illustration_02.jpg",
+          "width": 1350,
+          "height": 900,
+          "title": "A Reality Check On Artificial Intelligence: Are Health Care Claims Overblown?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2019-12-30-baidu-beats-microsoft-and-google-in-natural-language-processing-competition.md",
       "title": "Baidu beats Microsoft and Google in natural language processing competition",
       "excerpt": "Organizations developing natural language processing models can evaluate their models using this benchmark. Until recently, Microsoft’s MT-DNN-SMART model was at the top of GLUE leaderboard followed by Google’s T3. Now, China’s Baidu has beaten both Microsoft and Google with its ERNIE (Enhanced Representation through kNowledge IntEgration ...",
@@ -1185,87 +1267,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2019-12-19-tiny-robotic-insect-can-withstand-multiple-heavy-hits-from-a-fly-swatter.md",
-      "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-      "excerpt": "Scientists have pulled inspiration from insects in order to create a tiny ... It might sound like science fiction, but it's actually more plausible than you might think.' It is also designed ...",
-      "heat": 141,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7810779/amp/Tiny-robotic-insect-withstand-multiple-heavy-hits-fly-swatter.html",
-      "publishedDateTime": "2019-12-19T10:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2019/12/19/17/22463342-0-image-a-30_1576777846491.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Tiny robotic insect can withstand multiple heavy hits from a fly swatter",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-19-12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks.md",
-      "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-      "excerpt": "However, previous research in visually-grounded language understanding have been mostly task-specific. Researchers from the Facebook AI Research, Georgia Institute of Technology, and Oregon State University found that the skills required for different V&L ...",
-      "heat": 65,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/12-in-1-facebook-ais-new-framework-tackles-multiple-vision-and-language-tasks-e4553d91599d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-12-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*0vHYTrZBDprt8NP4KByFkg.png",
-          "width": 1200,
-          "height": 419,
-          "title": "12-in-1: Facebook AI’s New Framework Tackles Multiple Vision-and-Language Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

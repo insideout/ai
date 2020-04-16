@@ -1,25 +1,33 @@
 ---
 category: news
-title: "U.S. Self-Driving Car Startup Zoox Agrees to Settle Lawsuit With Tesla"
-excerpt: "Tesla lawyers filed a lawsuit in March last year against four former employees and Zoox, alleging the employees stole proprietary information and trade secrets for developing warehousing, logistics and inventory control operations. Zoox said the settlement required it to pay Tesla an undisclosed amount and undergo an audit to ensure that none ..."
-publishedDateTime: 2020-04-15T01:34:00Z
-webUrl: "https://money.usnews.com/investing/news/articles/2020-04-14/us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla"
+title: "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla"
+excerpt: "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup."
+publishedDateTime: 2020-04-15T22:59:00Z
+webUrl: "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN21X034"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034"
 type: article
-quality: 49
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H"
+    width: 766
+    height: 545
+    title: "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla"
 
 related:
   - title: "Self-driving startup Zoox settles with Tesla over trade secret theft"
@@ -86,6 +94,6 @@ related:
       domain: law360.com
     quality: 39
 
-secured: "lDClM/NzrTx6bLKk//H2XvF6N2OvukQ5Oenh/S+iVNz3/MK9GIlVnDxgvAKJbnWOPaUPICjKab/rAkBA+CxrPTudxUkSN3L0RVyrOOmyOjNvR1YVYE2/RAy8HZTqTiSlVIziazt7f5CO2FyyhsNWR026sVGq8WqZJTEnpbB3Y2hfS/hhI64zreWuh7t6DWtV1wpb6xaOcoMtA+Wotdf9LiNVFBK6Nac++nHgQfhfdTzIiWNsJEw0s2Bsj3DvtfjtRCqanDwxrMIn0UJ7/1e+wXwHLyUb0mTJIjZgdXapYBAmb8e1ycSE8W+MLVdoZxrP4dCFl2VxpEN12FxGt35wktgLBMTkI7mL9D1PfIdK+uVkVJiiI83ngcYf/MZrtzEWlLmf9Su6G/jIKUE8VQSqY/QEQ1UrdhSWm9EyAprW1s7jldhovtYP0r7a4snS6nYSu+mqs7EkJkwSBG6HZrwOoMQmVtVMCdwIfuTHdKnfMOg=;2wVTOfYgz/xKw+l2MyeVfA=="
+secured: "Ag3oaDaegP0Y5/6n693OFzrhNQZ9g45mXmczaA4OETpRCiozpBy816BtuDMJH08pBMzmhfIWKBwXEkdqHPfK2vsxp/Xlo5sl/RK0p9IKB+hyeZSOVJaZ6limzMF6EIdAZS955lJ31ToRKqcW+hkgqZo0L5uijfxVB5oOmw1RGdXTJPgyK/PcQjj2VXppo+M1lqlybLnLl+hBkeGb77ZMqQbFvNuHC7EC5Lrj2gP8KpkOEI8WWKILlU7bj1623hXbcLQxAXU01TmS0d2jmFZWeEsliw2m3iulle22lobrnGFRQdvy1eeu/afKUyyqC1kt;B1MFdSIY0oFTxkPpSQuPPA=="
 ---
 
