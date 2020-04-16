@@ -5,8 +5,8 @@ excerpt: "In this article, you learn how to use Apache Spark MLlib to create a m
 publishedDateTime: 2020-04-16T05:25:00Z
 webUrl: "https://docs.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-mllib-notebook"
 type: article
-quality: 34
-heat: 34
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"

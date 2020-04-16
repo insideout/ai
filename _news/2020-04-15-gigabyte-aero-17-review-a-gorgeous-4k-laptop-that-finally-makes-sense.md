@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense"
 
-secured: "i09MwQjea32fLnZHnCCe1bc9JbiCnhwD+/YPpiEL56/CQxiVqB7V0jI6bqMnv3g0FJONdRBJ4FIMryw0p5fbEMjs28999w9o8HOXds109G93C9E0GYJ0e9iiShIJK14HhE3nyzl0I/DIk3ZCN8D9W320iE0UzBU06C4FPpVeG72kMdDCr3f1iOzlvCBxpekz+P43yHiC3EX005FtTHvOLsLbV/DmlWzVzvp3zCnKWaPXtfx9G1Fekg/ZgQ0i5NnV4tgeLQ/IbJL/QjyWPgt8madoOBNfvzCVLbw0/Db5d2vKJmNqCSphFESxREu1FlGf;UaHPQZSPCO78oxjNbocEOw=="
+secured: "oOYhkjKypT6MSsx/JJ+RJiMX1XV9S2gGmQvrA4ix2txBaijKEb5JIEm++teQ7Sq+v8yP4eos6jbH9upis+/re/cDHdn1auEROn6jAmCzz0tzrYjlw0jyoa/738qxtJKGHyQgnUXQ1zrxEvEvC7VgIzJWeC1ifxJlCil7G+1MC9dHCAyj5Rg8zNz2OreewxB/r5aiqICJvBBJFz59wK0eqfTaOLV50To5353WQ92hnJDdKuwSu0lxXJx9tIPFnnmaVgoz9L/RlPj1VGtFf+ZZJFaxqeo9+2+aF+ydCzeoWPObaTD6gVF2d7nxthkIGYaN;JKxXgnGBCJjHEPXjZzh9rg=="
 ---
 

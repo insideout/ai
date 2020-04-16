@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-16-chinese-startup-rokid-pitches-covid-19-detection-glasses-in-us.md",
+      "title": "Chinese startup Rokid pitches COVID-19 detection glasses in U.S.",
+      "excerpt": "Thermal imaging wearables used in China to detect COVID-19 symptoms could soon be deployed in the U.S. Hangzhou based AI startup Rokid is in talks with several companies to sell its T1 glasses in America, according to Rokid’s U.S. Director Liang Guan. Rokid is among a wave of Chinese companies creating technology to address the coronavirus ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/",
+      "publishedDateTime": "2020-04-16T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/China-COVID-19-Stats-April-15-2020-I.png",
+          "width": 516,
+          "height": 465,
+          "title": "Chinese startup Rokid pitches COVID-19 detection glasses in U.S.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-some-countries-in-the-middle-east-are-using-artificial-intelligence-to-fight-the-coronavirus-pandemic.md",
+      "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
+      "excerpt": "AI's ability to crunch large amounts of data has allowed governments worldwide to collect information to try and stop the pandemic.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "publishedDateTime": "2020-04-15T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106491036-1587017369683gettyimages-1209811046.jpeg?v=1587017408",
+          "width": 3317,
+          "height": 2083,
+          "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-sproutai-raises-25m-to-speed-up-insurance-claims.md",
       "title": "Sprout.ai raises $2.5M to speed up insurance claims",
       "excerpt": "Founded in 2018, Sprout.ai has developed AI-based software that it says enables insurance claims to be settled within “just 24 hours”. Specifically, it uses natural language processing and optical character recognition to understand unstructured insurance claim data, and then combines this with real-time external data such as weather ...",
@@ -1243,96 +1332,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-ai-behavioral-biometric-startup-biocatch-raises-145-million.md",
-      "title": "AI behavioral biometric startup BioCatch raises $145 million",
-      "excerpt": "Behavioral biometrics startup BioCatch today announced it has raised $145 million ... averaging out to nearly $600 per consumer. BioCatch’s AI-driven platform protects identities by analyzing more than 2,000 behavioral parameters of user-device interactions to generate real-time risk scores, stopping new account fraud and detecting the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/ai-behavioral-biometric-startup-biocatch-raises-145-million/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/ai-behavioral-biometric-startup-biocatch-raises-145-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/ai-behavioral-biometric-startup-biocatch-raises-145-million/amp/",
-      "publishedDateTime": "2020-04-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Biocatch-TM-e1586810558496.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI behavioral biometric startup BioCatch raises $145 million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-it-help-desks-can-accelerate-service-delivery-for-remote-employees.md",
-      "title": "How IT Help Desks Can Accelerate Service Delivery For Remote Employees",
-      "excerpt": "We’re already aware that AI is transforming the IT help desk. The recent global pandemic, however, calls new attention to AI’s capabilities. As health concerns continue to spread, more enterprises are implementing remote work.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/15/how-it-help-desks-can-accelerate-service-delivery-for-remote-employees/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/15/how-it-help-desks-can-accelerate-service-delivery-for-remote-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/15/how-it-help-desks-can-accelerate-service-delivery-for-remote-employees/amp/",
-      "publishedDateTime": "2020-04-15T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-27-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How IT Help Desks Can Accelerate Service Delivery For Remote Employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],
