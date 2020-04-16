@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Facebook AI model beats Google, runs 5 times faster on GPUs"
-excerpt: "San Francisco, April 12 (IANS) A team from Facebook AI Research (FAIR) has developed a novel low-dimensional design space called 'RegNet' that outperforms traditional available models like from Google and runs five times faster on GPUs. RegNet produces simple, fast and versatile networks and in experiments, it outperformed Google's SOTA ..."
-publishedDateTime: 2020-04-12T08:10:00Z
-webUrl: "https://www.sify.com/finance/facebook-ai-model-beats-google-runs-5-times-faster-on-gpus-news-topnews-uemnughaiccgj.html"
+excerpt: "A team from Facebook AI Research (FAIR) has developed a novel low-dimensional design space called 'RegNet' that outperforms traditional available models like from Google and runs five times faster on GPUs."
+publishedDateTime: 2020-04-12T13:27:00Z
+webUrl: "https://news.webindia123.com/news/Articles/Science/20200412/3539172.html"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Facebook AI
   - AI
-
-images:
-  - url: "http://iansphoto.in/web/photoimages_new/400/2019/06/14/684aa667a3f557cbb11694f40b087d8b.jpg"
-    width: 400
-    height: 251
-    title: "Facebook AI model beats Google, runs 5 times faster on GPUs"
 
 related:
   - title: "Facebook's RegNet AI model tops Google's EfficientNet, runs 5 times faster on GPUs"
@@ -51,6 +45,6 @@ related:
       domain: hindustantimes.com
     quality: 39
 
-secured: "szLLzjkwItmho+c58hPJVNG8GlmZ2QVpUh+vL/CUz6M24Simal82vifyWJ7a7qlP8N4abY6NlmZbrOlyoBq0QY205+BnYgzRPbUP2CbTUmnB0Df1s0AWTc+43JPRBGCgxMXxSiNHw0qYFNhQdCcxxUPo3B1w5hW/hMbBJth4mWJ5XBDHY1OQe2XJX7N/gX4aFjaF/1zpKmBymZeTqNWcKlJUE1APtPWSVBzsYJfdYsxzoCKqhj9UikZFG4s5B6n5XehEit/n9nXczAK1OUHejteFBAtZkH5VTRpKC4vtfxi5vswZGiY6RNn5KebGvDzD;cPr8duCeLN+VzZQSVzbT/A=="
+secured: "EVhvgYslOBZTanQv3joO/41N5Dp8FVB1xpJfMcSv4IL/Ph44DpGHMWvgcu7M/8Va/SRJJUrU+WBA583G9A6mZA8GFlB6RETt03kNwGlwBinTMeXVTuhXG0uBg+EnIGA/F+j5Z7uALWRArJ3cHxz0gARYiiIBmeQM0HwaveGIfASmz2eT/XdzBHP9/WEKVPqgRkqRJBEPlQwQMYfn+ELrZb2fdkLTUn45FtwpX9w+3uVb6ELdS9FENkF3D9Z8RQ16h1rxDomTD0FDTu2LBLGTuv5Y5l41E9PiEawnhGrAWHfvAjrR1C//wqJDw5a5P0P/;0QkMVari9WKQ9+eHIK/EKA=="
 ---
 

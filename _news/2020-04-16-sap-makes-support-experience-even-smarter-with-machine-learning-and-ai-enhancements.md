@@ -5,8 +5,8 @@ excerpt: "SAP SE today announced several updates, including the Schedule a Manag
 publishedDateTime: 2020-04-16T13:00:00Z
 webUrl: "https://www.prnewswire.com/news-releases/sap-makes-support-experience-even-smarter-with-machine-learning-and-ai-enhancements-301040813.html"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/847591/SAP__Logo.jpg?p=facebook"
@@ -23,6 +24,6 @@ images:
     height: 900
     title: "SAP Makes Support Experience Even Smarter With Machine Learning and AI Enhancements"
 
-secured: "1L9Oj2vV3IYjg0oop/PYyWwnv1QN+F03mWtb5KO7DHN+ht3uqd2UTq9OUY3DPFqz3hI5giX29BMtlbIDLpTAeBpMD0x0fd0t3Vh3/XbknLF927NbX+SPvsB1pHgByIkye+A4DPrsx88KbIJwRwTaeIMSaOP4c/nV1Lanb5MRmGhnMkMJMq4rGxaDiQ94kolvh/oY+qcwUs+r47DQTRdQtAiDYMGLE6QpB0c5Z38yEIO7xR2bCoIYJc4eiOMQNf/+C2QxkjAxF70NBTs0AkprDCOqIxpDwpROaPhs4zA3Lje5noFMuyXRzKtEXP9/8gmC;DV6VFtVa5K2eDw3GparGvA=="
+secured: "3Vun5JKGoC0OcP2ASJLMB0O+wh50WIjYhQ3W/duL2FqgEVLXwgvSvdB4NgLo5CimuhNaR0C+ESOW0yYWncaoGQswQlFfsCJhFiA0LOz+RAsV7uUEFdnVxCa3NN2hU0aRQYo50kY1rLCRbuvvx2XKJ3QTG4HY49Q30DsSWdjPTJOQcarViy2gR8FQ//HFFlVlfjpsEKXk1D7uEWRheP9gGQmFzMrRR3RPrHROMw7DKTYK9apch3KNLJETB+zejLa/5X+Aiqw/6OOiAcH80an6ZArYFG/uoW37fVxFeZjxYIV4qN2BuO0VjeYniGCK1h786wy1C+6fEz8EGfy0LKRnxqTpdbRtZTbPvtRZu4XLhZkkq/8ruQMzcVOzD9tDQv+q1gCOcxaPmBie0eZrGBrwAfVm2Dl9Q04mdHtcWlpRLGqxTtMYvjvkTLTcS9cRzZw8I0hw0Uj6UcA8k5Ka2l6RESLXpCyHzL2GYb+6qEurTNc=;lYUnZxhlV6L3o00XXeYPyg=="
 ---
 

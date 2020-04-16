@@ -5,8 +5,8 @@ excerpt: "Market Insight The growth of the global artificial intelligence in the
 publishedDateTime: 2020-04-16T13:12:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-military-market-is-anticipated-to-grow-at-a-cagr-of-1435-during-forecast-period-2019-to-2024-2020-04-16"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

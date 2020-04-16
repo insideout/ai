@@ -80,6 +80,19 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Self-driving car startup settles with Tesla over allegedly stolen data"
+    excerpt: "Self-driving car startup Zoox has settled a lawsuit filed against it a year ago by Tesla over allegedly stolen data. In a case similar to the one between Uber and Waymo from a couple of years back, Zoox has admitted that some former Tesla employees it hired were in possession of documents containing proprietary information from the electric car ..."
+    publishedDateTime: 2020-04-16T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127835_self-driving-car-startup-settles-with-tesla-over-allegedly-stolen-data"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/zoox-logo_100744037_h.jpg"
+        width: 1920
+        height: 1339
   - title: "Tesla Settles Trade Secret Fight With Self-Driving Startup"
     excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
     publishedDateTime: 2020-04-16T00:57:00Z

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html"
 type: article
 quality: 89
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -82,6 +82,19 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Self-driving car startup settles with Tesla over allegedly stolen data"
+    excerpt: "Self-driving car startup Zoox has settled a lawsuit filed against it a year ago by Tesla over allegedly stolen data. In a case similar to the one between Uber and Waymo from a couple of years back, Zoox has admitted that some former Tesla employees it hired were in possession of documents containing proprietary information from the electric car ..."
+    publishedDateTime: 2020-04-16T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1127835_self-driving-car-startup-settles-with-tesla-over-allegedly-stolen-data"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/zoox-logo_100744037_h.jpg"
+        width: 1920
+        height: 1339
   - title: "Tesla Settles Trade Secret Fight With Self-Driving Startup"
     excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
     publishedDateTime: 2020-04-16T00:57:00Z
@@ -107,6 +120,6 @@ related:
         width: 800
         height: 600
 
-secured: "Ug+1fugsmOo8VABery9AnC6Tia/i8Ka8qXrZmEflBqDvbCTRkXja84Utl2UdE3fE7a3MX5LzGtdNZ7QQbKMZIzAxBR6/QHjUtGidlraCpgSFFdaBSbiR+puMqtraIXnJRp3m6iVXDZ7TfP1MImMEXt0F+DEnvVqeK12j157d/Zopjdxzz3LG9pZ0HqcsEvG3/a+bHjfAudCr+hOtLFmi+RBJTrtJCf3DKeoiG4nvnhnzslJWNc2CZxR9T++A+6WJEfoT9WniCUe2EmP2O04ArlY2mzhCJOe1ar5Rd4IBXKh2A4Z3n9Fpazb3SODPQKyGGznPbFgvh1h7Srdyle58/emlkD4i45E3m5g6jfPzUmZVx7+GH+Z7wKLrFn8RAQtOoTpf2KzXTn/nlWUYCWXQy27jUZcAOK83lyrEMWLKkx1noAtQdunjFvmTH8wK7OdOV7wcbnUQRykoSKWHFfPo8rjaeK0VLTESRjHAKwhDhVE=;/lpQ95SGeGRYByl+YosVyA=="
+secured: "/N+c5fdmrEeIbNEWSyEAu2ipGpAU8EJUvVkT3rMqRblNJtkm30Sn2oWRgwzRGbFKZY46gIxkT+J7ttodq1O3/yaDFjF4NuY3eULge+HmHJ2d1KRQDsja1jj396SgQZIPZGtJnHSdTUj8fTZAKDFn/fJNPi+SkyRu2GdkrFFXgEnmlaft63S+lwqQ9SZLEC/bYgFmSVO2flAXC+d4mG6wEU0kQqdBcIEdaIAc+X70GSjUfuocuJVDwNGEtKgU+wgX4d2puMVQ9xyrUKqAqyBW9+u6vbXDzdco8O29F4W/B95dB4fAEKsadSjTa0twbInOHTU4xeXEbu3QJDX49l7Ea+uZ20YVkT8MkFWYcmqCs0FAKWYvgkPd/T+PD2FIslf0/AroacoKxVq0NYru2AnzOnofsMXijxjpHIo8l+H5hwJqOXb+jG8rP0vhwXC2APFjpCD9FE3fcn5FmBxuyTp4yyFVd0ez+Rx3hlIO+HRAghM=;Qp4jIZH3l2OEbv9uknPx3A=="
 ---
 

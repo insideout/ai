@@ -2,6 +2,364 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-03-23-mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world.md",
+      "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
+      "excerpt": "In a recent study, researchers hailing from MIT’s Computer Science and Artificial Intelligence Laboratory and the Toyota Research Institute ... uses a real-world data set to synthesize viewpoints from trajectories a car could take. While driverless car companies including Waymo, Uber, Cruise, Aurora, and others use simulation environments ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/mit-csails-vista-autonomous-vehicles-simulator-transfers-skills-learned-to-the-real-world/amp/",
+      "publishedDateTime": "2020-03-23T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0fbe7281-0cb5-4d7c-9fc5-70e5ca1b45a0-e1585003152630.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s VISTA autonomous vehicles simulator transfers skills learned to the real world",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-monitoring-is-critical-to-successful-ai.md",
+      "title": "Monitoring is critical to successful AI",
+      "excerpt": "Amit Paka is co-founder and chief product officer at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. Krishna Gade is co-founder and CEO at Fiddler Labs, an explainable AI startup that enables enterprises to deploy and scale risk- and bias-free AI applications. As the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/23/monitoring-is-critical-to-successful-ai/amp/",
+      "publishedDateTime": "2020-03-23T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/adeolu-eletu-unRkg2jH1j0-unsplash.jpg?w=640",
+          "width": 640,
+          "height": 424,
+          "title": "Monitoring is critical to successful AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
+      "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
+      "excerpt": "SoftBank said it plans to raise as much as $41 billion to buy back shares and reduce debt, in an unprecedented move to restore investor confidence as a financial market rout pummels its shares and its portfolio companies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-softbank-group-didi/softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information-idUSKBN21A2TG",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21A2TG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21A2TG",
+      "publishedDateTime": "2020-03-23T14:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200323&t=2&i=1507150339&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2M1ON",
+          "width": 785,
+          "height": 545,
+          "title": "SoftBank nears deal to invest in Didi's self-driving unit: The Information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-apple-musics-ai-generated-upbeat-playlist-helps-you-cope-with-reality.md",
+      "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
+      "excerpt": "The playlist is rolling out this week. Apple is trying something new to keep people's spirits up during the coronavirus pandemic. In Apple Music, it's introducing a new algorithmic playlist called the Get Up! Mix that the company says is full of \"happy-making, smile-finding, sing-alonging music.\" With the help of human editors, it will update ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-03-23-apple-music-get-up-mix.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/03/23/apple-music-get-up-mix/",
+      "publishedDateTime": "2020-03-23T13:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F07a201d0-6d3a-11ea-bf47-e4e4f9df29c0%26client%3Da1acac3e1b3290917d92%26signature%3D7a66d47a4dc4e944e3620250179345469011b0fd&client=amp-blogside-v2&signature=fcc19d346f99286c069caa46ba5faf0cf0a34dac",
+          "width": 600,
+          "height": 350,
+          "title": "Apple Music's AI-generated upbeat playlist helps you cope with reality",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-there-is-a-racial-divide-in-speech-recognition-systems-researchers-say.md",
+      "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
+      "excerpt": "Technology from Amazon, Apple, Google, IBM and Microsoft misidentified 35 percent of words from people who were black. Whites fared much better. SAN FRANCISCO — With an iPhone, you can dictate a text message.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.amp.html",
+      "publishedDateTime": "2020-03-23T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/03/19/business/00speechbias1/merlin_161494506_df529ece-4549-4890-866d-bc00b148d3eb-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "There Is a Racial Divide in Speech-Recognition Systems, Researchers Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80.md",
+      "title": "Google open-sources framework that reduces AI training costs by up to 80%",
+      "excerpt": "Google researchers recently published a paper describing a framework — SEED RL — that scales AI model training to thousands of machines. They say that it could facilitate training at millions of frames per second on a machine while reducing costs by up to 80%, potentially leveling the playing field for startups who couldn’t previously ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/23/google-open-sources-framework-that-reduces-ai-training-costs-by-up-to-80/amp/",
+      "publishedDateTime": "2020-03-23T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources framework that reduces AI training costs by up to 80%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering.md",
+      "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
+      "excerpt": "Alongside the RTX Global Illumination SDK, Nvidia also launched Deep Learning Super Sampling (DLSS) 2.0 today. At the heart of DLSS 2.0 is an artificial neural network that uses Nvidia RTX TensorCores to boost frame rates and generate sharp frames that approach or exceed native rendering. DLSS 2.0 was trained on tens of thousands of high ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering",
+      "ampWebUrl": "https://www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/nvidia-launches-deep-learning-super-sampling-20-to-boost-ai-rendering/",
+      "publishedDateTime": "2020-03-23T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/03/1584979888_screenshot_(582)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Nvidia launches Deep Learning Super Sampling 2.0 to boost AI rendering",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-what-machine-learning-trends-you-should-watch-in-2020.md",
+      "title": "What Machine Learning Trends You Should Watch In 2020",
+      "excerpt": "What are the most important machine learning trends as we head into 2020? This question was originally answered on Quora by Anima Anandkumar.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2020/03/23/what-machine-learning-trends-you-should-watch-in-2020/amp/",
+      "publishedDateTime": "2020-03-23T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1137284435%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "What Machine Learning Trends You Should Watch In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
       "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
       "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
@@ -727,325 +1085,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf.md",
-      "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
-      "excerpt": "Senior Writer, Growth Quarters — Yessi leads the writing efforts at TNW’s Growth Quarters. Yessi leads the writing efforts at TNW’s Growth Quarters. Then, in September of that same year, the ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/",
-      "ampWebUrl": "https://thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/growth-quarters/2020/03/23/darktraces-co-ceo-on-trusting-ai-to-fight-cyberattacks-on-our-behalf/amp/",
-      "publishedDateTime": "2020-03-23T03:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/darktrace-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Darktrace’s co-CEO on trusting AI to fight cyberattacks on our behalf",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
-      "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
-      "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-23T02:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc79bf49-2bc6-41e8-951f-4e43e946ab06.jpg",
-          "width": 999,
-          "height": 619,
-          "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning.md",
-      "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
-      "excerpt": "The reward for building the next generation of developer tools for machine learning will be many billions of dollars of enterprise value.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/03/22/a-massive-opportunity-exists-to-build-picks-and-shovels-for-machine-learning/amp/",
-      "publishedDateTime": "2020-03-22T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F959488846%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4344%26cropY1%3D575%26cropY2%3D3017",
-          "width": 1200,
-          "height": 675,
-          "title": "A Massive Opportunity Exists To Build “Picks And Shovels” For Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-aws-announces-support-for-pytorch-with-amazon-elastic-inference.md",
-      "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
-      "excerpt": "With Amazon’s announcement, PyTorch can now work with Amazon’s SageMaker and EC2 cloud services. PyTorch is the third major deep learning framework to be supported by Amazon Elastic Inference, following in the footsteps of TensorFlow and Apache MXNet.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datanami.com/2020/03/23/aws-announces-support-for-pytorch-with-amazon-elastic-inference/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/shutterstock_1489195400.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": "AWS Announces Support for PyTorch with Amazon Elastic Inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-robots-handle-the-tough-jobs.md",
-      "title": "Robots Handle The Tough Jobs",
-      "excerpt": "Robots can be a quick way to automate a shop, boost production, improve part handling, and free workers from back-breaking manual labor. Robots can be a quick way to automate a shop, boost ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.machinedesign.com/archive/article/21816290/robots-handle-the-tough-jobs",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-23-some-math-behind-the-balloon-boy-story.md",
-      "title": "Some math behind the balloon boy story",
-      "excerpt": "In what represents a major advance in mind-controlled prosthetics for amputees ... intuitive control of the fingers on a robotic hand. To do this, the researchers had to develop a way to safely ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.machinedesign.com/home/article/21830196/some-math-behind-the-balloon-boy-story",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Machine Design",
-        "domain": "machinedesign.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-5-ai-policy-questions-our-presidential-candidates-must-address.md",
-      "title": "5 AI policy questions our presidential candidates must address",
-      "excerpt": "Our 2020 presidential candidates will be questioned about their stance on artificial intelligence (AI) policy, especially with regard to the job displacement AI could cause in manufacturing, transportation, and other industries. An over-regulation of AI could hand technical superiority to countries like China and Russia, leading to a ripple ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/22/5-ai-policy-questions-our-presidential-candidates-must-address/amp/",
-      "publishedDateTime": "2020-03-22T12:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/AI_winter.jpg?fit=1731%2C868&strip=all",
-          "width": 1731,
-          "height": 868,
-          "title": "5 AI policy questions our presidential candidates must address",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-22-coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic.md",
-      "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
-      "excerpt": "Robots sterilize, deliver food and supplies and perform other tasks Robots aren ... In a global pandemic such as COVID-19, technology, artificial intelligence, and data science have become critical to helping societies effectively deal with the outbreak. LinkedIn has ranked Bernard as one of the world’s top 5 business influencers.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/coronavirus-how-artificial-intelligence-data-science-technology-marr",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-22T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGI7E6XkSufXw/article-cover_image-shrink_720_1280/0?e=1591228800&v=beta&t=M2PNyzPyDk7Ohtl4DuJMLb1ZKN0YX1kOGbOM_uTWK2Q",
-          "width": 1080,
-          "height": 720,
-          "title": "Coronavirus: How Artificial Intelligence, Data Science And Technology Is Used To Fight The Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

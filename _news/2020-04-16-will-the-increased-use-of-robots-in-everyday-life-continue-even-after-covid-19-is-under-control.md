@@ -1,0 +1,66 @@
+---
+category: news
+title: "Will the increased use of robots in everyday life continue even after Covid-19 is under control?"
+excerpt: "Meantime, a limiting factor in the short term has been the supply chain disruptions caused by the pandemic, with most robot suppliers relying on stockpiled inventory to meet demand. Beijing-based OrionStar, an artificial intelligence and robotics start-up backed by Cheetah Mobile, has received enquiries from previously unserved markets ..."
+publishedDateTime: 2020-04-16T14:30:00Z
+webUrl: "https://www.scmp.com/tech/enterprises/article/3080230/will-increased-use-robots-everyday-life-continue-even-after-covid"
+ampWebUrl: "https://amp.scmp.com/tech/enterprises/article/3080230/will-increased-use-robots-everyday-life-continue-even-after-covid"
+cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/enterprises/article/3080230/will-increased-use-robots-everyday-life-continue-even-after-covid"
+type: article
+quality: 76
+heat: -1
+published: false
+
+provider:
+  name: South China Morning Post
+  domain: scmp.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/16/8e995d82-7fa0-11ea-8736-98edddd9b5ca_image_hires_234558.JPG?itok=IReL6XYI&v=1587051966"
+    width: 1200
+    height: 630
+    title: "Will the increased use of robots in everyday life continue even after Covid-19 is under control?"
+
+related:
+  - title: "AI, robotics start-ups leverage tools to combat Covid-19"
+    excerpt: "As India battles to contain the spread of coronavirus, artificial intelligence and technology start-ups in the country are leveraging their tools and solutions to help those in the frontline combat the crisis. Invento Robotics, a Bengaluru-based start-up, has been re-purposing its robots — to screening and diagnostics robots — to help ..."
+    publishedDateTime: 2020-04-16T15:52:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 89
+    images:
+      - url: "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/qtcfto/article30934970.ece/ALTERNATES/LANDSCAPE_615/BL28THINKFTV"
+        width: 615
+        height: 384
+  - title: "Chinese startup Rokid pitches COVID-19 detection glasses in U.S."
+    excerpt: "Thermal imaging wearables used in China to detect COVID-19 symptoms could soon be deployed in the U.S. Hangzhou based AI startup Rokid is in talks with several companies to sell its T1 glasses in America, according to Rokid’s U.S. Director Liang Guan. Rokid is among a wave of Chinese companies creating technology to address the coronavirus ..."
+    publishedDateTime: 2020-04-16T07:17:00Z
+    webUrl: "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/"
+    ampWebUrl: "https://techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/chinese-startup-rokid-pitches-covid-19-detection-glasses-in-u-s/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/04/China-COVID-19-Stats-April-15-2020-I.png"
+        width: 516
+        height: 465
+
+secured: "F55WYbO290kYJfBD3jDJN7cM2iBUayLP5fv4pKIf1ELFyKETTsM9VM+HXU7ruc63wsXNkilRqfSZoJc3PH23l0mc3Q2GCsUJ+hUKyIGwBGMdpMNvEgHe3Gi9claH3r78cPWIUi/gYEWHv2oEyMe7cfLLUHkWZgDUxzbURAyZBQxJAHarccWFMGFCsMvB/kUS2b5GR8Cc8PGgsNiF+0/a1L3LSQmixK33LJpDclwjSFRHPYsHNure4B43barz9D1TyEw1l2IpS7Ow/9XlKePUs5M+NeuKWOMathhBEEy5BagG69LqmDJWHoajxUeHEg65;GBLgtO4ZeMxNCwF59S+0gQ=="
+---
+

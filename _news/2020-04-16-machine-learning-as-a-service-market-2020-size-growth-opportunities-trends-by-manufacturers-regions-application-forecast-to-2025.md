@@ -5,8 +5,8 @@ excerpt: "New York, April 16, 2020:Machine learning as a service Market incorpor
 publishedDateTime: 2020-04-16T13:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-2020-size-growth-opportunities-trends-by-manufacturers-regions-application-forecast-to-2025-2020-04-16"
 type: article
-quality: 22
-heat: 22
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

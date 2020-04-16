@@ -5,8 +5,8 @@ excerpt: "Neural networks control the brain's thinking processes. By studying ne
 publishedDateTime: 2020-04-16T11:52:00Z
 webUrl: "https://slator.com/machine-translation/cambridge-researchers-tackle-neural-machine-translations-gender-bias/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +17,7 @@ topics:
   - Machine Learning
   - AI
   - Natural Language Processing
+  - Google AI
 
 images:
   - url: "https://slator.com/assets/2020/04/neural-machine-translation-gender-bias-april-2020.png"
@@ -39,6 +40,6 @@ related:
         width: 874
         height: 583
 
-secured: "OXVLB2bXG/gi4eB46vCBIYxlFY5mVJ/EVN0Dn1ICKN7qa4TJ0/6sgfZyApX2ZnGnYKsns89D9WeG2Jaw5Q69G+aJsRq+8g//Y+9AcwkUvU7ttX3zyGokj4XN3vOyh0DY+5BdOtYng3v6cfwW+JkrjwaMYShlkaK9+o2KNnmivNt7FVUvwy/jnl3pmUZx0FF+hBko78SVA/6UB5wkNr3fgW2D4Fs0nboCWHRdU5jQTbNQVWuqiad9nwjkCqp8l4wKVY+HUX8RMpC6zJW1xHo5AaY4h+u8AHX+iEe/DOBedG9ueMYSS64/iT1PVdzqAiKX;tK2a699QkmlZ/UKdtkqZgw=="
+secured: "FosjG2ptrG30DJ+ucprzShfkT+Vh9GzQwxBPdAWreMbXCxrZJQ/ZM0/jq9LqkX3Dc+apSbFBwFLqESsxd1hFw/bZJVPTjlOSnr64CODQTKn5XmMV5Hawhae8Wqegkj5YTetydXIbVxhXMjnY5Snplm7REiYLTYX37RLuCgOtGH8VyS6NZw4KVGmSRPdQWr/+bYi15zieIeNaRzT5DjB92S7Adn5eJ/RrG9oaD0rXi7cKJ3i99B0I5TcQr4WEH0T9T+xWA73ztcuBsl/C0TNUKm0N7un/5MV2+9BMPTKuXe6h0Pjs3SEIDgQZzL/3FD3Ghin3jSGPPKxy5qCKIG3q4bg2q7qF8zeleo7V4KOkIhQEbbLwvyrDYocayBCqtosHzYSfXjihMj9NvDK9GaE2PQl+5MC8EjDk9FSoL/f2nRFTQ0iZKakPMHdrKqEtg1fQmBciaf8QgMAB+1S3gsQSP9ZnSg37/xpfWSTuU/MrHnM=;Q91G69sTuRmTsLNYTDU2Lg=="
 ---
 

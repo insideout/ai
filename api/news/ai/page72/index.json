@@ -2,6 +2,354 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-01-29-deepmind-develops-ai-with-an-imagination.md",
+      "title": "DeepMind Develops AI With An Imagination",
+      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geek.com",
+        "domain": "geek.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
+          "width": 690,
+          "height": 388,
+          "title": "DeepMind Develops AI With An Imagination",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
+      "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
+      "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
+      "publishedDateTime": "2020-01-28T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ShowcasePic-1.jpg?fit=2000%2C925&strip=all",
+          "width": 2000,
+          "height": 925,
+          "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-ai-driven-biomarkers-of-aging.md",
+      "title": "AI Driven Biomarkers Of Aging",
+      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
+      "publishedDateTime": "2020-01-28T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 585,
+          "title": "AI Driven Biomarkers Of Aging",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
+      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-28T14:55:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
+          "width": 800,
+          "height": 428,
+          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware.md",
+      "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+      "excerpt": "\"The way we look at it is as an expert system,\" says Mukkamala, using a traditional term from the AI literature for software programs that include a great deal of domain expertise. \"What are my signals?\" he asks, rhetorically. \"First, a strong signal would be end-point vendors detecting it and blocking it, a second is Microsoft paying attention ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/risksense-working-on-ai-to-predict-if-vulnerabilities-will-turn-into-ransomware/",
+      "publishedDateTime": "2020-01-28T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/01/28/9c16f4ed-c84d-4107-98b1-bd33cfbcd800/risksense-ransomware-dashboard-jan-2020.png",
+          "width": 2424,
+          "height": 1735,
+          "title": "RiskSense working on AI to predict if vulnerabilities will turn into ransomware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-replace-punxsutawney-phil-with-robot-animal-rights-group-says.md",
+      "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+      "excerpt": "People for the Ethical Treatment of Animals are advocating a radical change in how Groundhog Day is celebrated.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://patch.com/pennsylvania/pittsburgh/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "ampWebUrl": "https://patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/pennsylvania/pittsburgh/amp/28547641/replace-punxsutawney-phil-robot-animal-rights-group-says",
+      "publishedDateTime": "2020-01-28T14:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Patch",
+        "domain": "patch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://patch.com/img/cdn20/users/22920172/20200128/033110/styles/patch_image/public/phil2-getty___28150658187.jpg?width=984",
+          "width": 897,
+          "height": 673,
+          "title": "Replace Punxsutawney Phil With Robot, Animal Rights Group Says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-meena-is-googles-attempt-at-making-true-conversational-ai.md",
+      "title": "Meena is Google’s attempt at making true conversational AI",
+      "excerpt": "Conversational AI is a catch-all term for natural language models for artificial intelligence that can interpret human words, speak to people, or carry out tasks or computation with natural language. But talk to any of the best-known AI assistants today — Alexa, Siri, Google Assistant — and they’re not exactly conversational. They can ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/meena-is-googles-attempt-at-making-true-conversational-ai/amp/",
+      "publishedDateTime": "2020-01-28T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/google.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Meena is Google’s attempt at making true conversational AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3.md",
+      "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+      "excerpt": "TechCrunch’s fourth Robotics and AI show is coming up on March 3 at UC Berkeley’s Zellerbach Hall. If past experience is any guide, the show is sure to draw a big crowd (cheap student rates here!) but there’s still time to grab a pass. If you’re wondering why you want to take a day out to catch a full day of interviews and audience Q&A ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/28/five-reasons-you-really-dont-want-to-miss-techcrunchs-ai-and-robotics-show-on-march-3/amp/",
+      "publishedDateTime": "2020-01-28T13:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/5.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "Five reasons you (really) don’t want to miss TechCrunch’s AI and Robotics show on March 3",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-28-facial-recognition-startup-clearview-ai-is-struggling-to-address-complaints-as-its-legal-issues-mount.md",
       "title": "Facial Recognition Startup Clearview AI Is Struggling To Address Complaints As Its Legal Issues Mount",
       "excerpt": "One of Clearview AI's investors defended the company, “We do not have to be hidden to be free.” By Ryan Mac and Caroline Haskins and Logan McDonald Posted on January 28, 2020, at 3:34 p.m. ET A screenshot of Clearview's search results. Clearview AI, the facial recognition company that claims to have amassed a database of more than 3 billion ...",
@@ -930,341 +1278,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.md",
-      "title": "Uber's self-driving cars are a key to its path to profitability",
-      "excerpt": "Uber plans to launch its self-driving cars in pockets of cities where weather, demand and other conditions are most favorable.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/28/ubers-self-driving-cars-are-a-key-to-its-path-to-profitability.html",
-      "publishedDateTime": "2020-01-28T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104181597-GettyImages-605519688.jpg?v=1529473695",
-          "width": 1024,
-          "height": 681,
-          "title": "Uber's self-driving cars are a key to its path to profitability",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira.md",
-      "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
-      "excerpt": "The massive global investments that are fueling rapidly developing technologies like Artificial Intelligence (AI) and robotics present huge opportunities for Nigeria to pull our currency out from the deep water. Currently, big tech players like the United Kingdom (UK) are outsourcing AI, robotics, and other related jobs to China, where the ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/",
-      "ampWebUrl": "https://nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
-      "cdnAmpWebUrl": "https://nairametrics-com.cdn.ampproject.org/c/s/nairametrics.com/2020/01/28/disruptive-opportunities-can-developing-ai-and-robotics-stabilise-the-naira/amp/",
-      "publishedDateTime": "2020-01-28T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nairametrics",
-        "domain": "nairametrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/nairametrics.com/wp-content/uploads/2020/01/Robotics.jpg?fit=900%2C563&#038;ssl=1",
-          "width": 900,
-          "height": 563,
-          "title": "Disruptive Opportunities: Can developing AI and robotics stabilise the Naira?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-new-dog-in-town-a-k9-robot-for-construction-and-more.md",
-      "title": "New dog in town? A K9 robot for construction and more",
-      "excerpt": "\"What we wanted to do was find a way of bringing intelligence into the real world, so [we're] aiming to build a robotics body for the artificial intelligence revolution that we've all seen coming,\" said Dr. Charles Galambos, CTO and co-founder at React Robotics. \"DogBot is about opening the way to robots that really understand the world and ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/new-dog-in-town-a-k9-robot-for-construction-and-more/",
-      "publishedDateTime": "2020-01-28T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/01/28/bc6eb458-84b2-472e-a0d2-0d9ce8088096/dogbot.jpg",
-          "width": 3936,
-          "height": 2624,
-          "title": "New dog in town? A K9 robot for construction and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-this-chicago-software-firm-hired-300-people-last-year-it-just-raised-100-million-and-plans-to-hire-more.md",
-      "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
-      "excerpt": "Software firm ActiveCampaign raised $100 million in venture capital funding and plans to continue a hiring spree that added 300 people in the past year. “We’re not slowing down,” said CEO and founder Jason VandeBoom. The Chicago company makes software for targeted marketing and managing customer data. Demand for those types of tools is ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html",
-      "ampWebUrl": "https://www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/business/ct-biz-activecampaign-software-firm-hiring-20200128-oamyrcw2z5bn7n3uyofzinibyu-story.html?outputType=amp",
-      "publishedDateTime": "2020-01-28T03:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/pLXUUaKhyPqMSfI_wcdjQdC9An8=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/YP7LCJEF7JBGNGKYYZ5CZAMOLY.jpg",
-          "width": 1200,
-          "height": 673,
-          "title": "This Chicago software firm hired 300 people last year. It just raised $100 million and plans to hire more.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept.md",
-      "title": "Miso Robotics puts Flippy on a rail for new kitchen concept",
-      "excerpt": "Miso Robotics ... team was also working with the AI algorithm to understand the differences in cooking times for different food types and adapt accordingly so orders and food can be ready at the same time. For example, if one “steak” is ordered medium, and one is ordered medium-well, the system knows to start the medium-well item first ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/miso-robotics-puts-flippy-on-a-rail-for-new-kitchen-concept/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE.png",
-          "width": 1425,
-          "height": 887,
-          "title": "Miso Robotics puts Flippy on a rail for new kitchen concept",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-miso-robotics-unveils-its-next-gen-robot-kitchen-assistant.md",
-      "title": "Miso Robotics unveils its next-gen robot kitchen assistant",
-      "excerpt": "This might seem like cause for alarm, but Miso Robotics, a startup developing automation products for fast-food and quick-service ... On the software side, it benefits from improvements to Miso AI (Miso’s eponymous cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken ...",
-      "heat": 144,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/miso-robotics-unveils-its-next-gen-robot-kitchen-assistant/amp/",
-      "publishedDateTime": "2020-01-28T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Miso Robotics unveils its next-gen robot kitchen assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential.md",
-      "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
-      "excerpt": "Unlock new opportunities in Artificial Intelligence (AI) in Agriculture Market; the latest release from HTF MI highlights the key market trends significant to the growth prospects, Let us know if any specific players or list of players needs to consider to ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-global-market-study-reveal-explosive-growth-potential-2020-01-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Agriculture Global Market Study Reveal explosive growth potential",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-deep-graph-library-part-2-training-on-amazon-sagemaker.md",
-      "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
-      "excerpt": "Well, as DGL is available on Amazon SageMaker, I’ll show you in this post how to quickly and easily adapt your DGL code for SageMaker. As you probably guessed, we’re going to use script mode ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@julsimon/deep-graph-library-part-2-training-on-amazon-sagemaker-54d318dfc814",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T01:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/891/1*Ti5TbBkB0vxxKOC5DyESHQ.png",
-          "width": 891,
-          "height": 514,
-          "title": "Deep Graph Library, part 2 — Training on Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

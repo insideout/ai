@@ -39,6 +39,21 @@ related:
       - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-2-796x417.png"
         width: 796
         height: 417
+  - title: "Facebook develops BOTS to identify trolls and scammers"
+    excerpt: "Similarly, by artificial intelligence systems simulation can train players. In this case bots work to violate Facebook’s terms and conditions in order to understand the spams and trolls. A research paper about WES says that WES(Web-Enabled Simulation ) will help Facebook engineers to identify and fix the undesired consequences of new updates ..."
+    publishedDateTime: 2020-04-16T15:16:00Z
+    webUrl: "https://www.theindianwire.com/social-media/facebook-develops-bots-to-identify-trolls-and-scammers-269106/"
+    ampWebUrl: "https://www.theindianwire.com/social-media/facebook-develops-bots-to-identify-trolls-and-scammers-269106/amp/"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/social-media/facebook-develops-bots-to-identify-trolls-and-scammers-269106/amp/"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 44
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/04/facebook-newF-logo-1920.png"
+        width: 1920
+        height: 1080
 
 secured: "HChhYCATZyFdzEGLscDDddvlGNRZqyTLhv/f86+RQCqZUNn+2H78/pceDlOL42ozj17VBGNp5bANKvPUV5Fzttm4+gMbYzhW835Ep0muagu+GjEYiiMijEStkWy9ktVkQsZ5cCKtDu9UKfbifT6J3yu6JIgsvD9udCvl9tjD/zwsIBdb5zrHiXU2CP1YIBd0eXK90UMpSdVFywPn+cej1Eo05holDhdtsBTmpZKpSou9VJV3FUvj0itXgo5U7E22+Mqg85XznGfyly/WzEcgqjtvp6hFaWpIVsaSLr5O8QQprPzc1t0MnWMrVZrA5dL4Pzc8+JYWiBEfF2oPL7+0+Oaxfd3Um62u9U2S7bys/F3ANv2z9FM6nV6cFA1fQreG7gZsXf85Li8l3sz5N4G2W11VsHF1KSxMnTTfx4YScZfdlOT6BUnQyTQp8q1eqydoPnam7NCJYTkcFmcwC9IdC2eXnxJn8D82ysBonhzyW9A=;13E/MfqWzvTOhPosZjq77A=="
 ---

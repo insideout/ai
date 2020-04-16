@@ -1,28 +1,28 @@
 ---
 category: news
 title: "WorkFusion Again Named Leader in Everest Group’s 2020 Intelligent Document Processing PEAK Matrix®"
-excerpt: "WorkFusion, a top provider of Intelligent Automation software, today announced it was named a Leader in Everest Group’s “Intelligent Document Processing PEAK Matrix® 2020” report for the second year in a row."
-publishedDateTime: 2020-04-16T13:56:00Z
-webUrl: "https://apnews.com/Business Wire/1e55a535db4844489603bf51d81db27b"
+excerpt: "“WorkFusion is addressing a unique market need with core extraction and natural language processing, distinctive capabilities such as use case navigation to access pre-built solutions, use case evaluation to validate extraction process and train models, robust analytics dashboards, and integrated robotic process automation and business ..."
+publishedDateTime: 2020-04-16T14:17:00Z
+webUrl: "https://www.businesswire.com/news/home/20200416005132/en/WorkFusion-Named-Leader-Everest-Group’s-2020-Intelligent"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20200416005132/en/713671/23/WorkFusion_H_1_RGB.jpg"
+    width: 1200
+    height: 627
     title: "WorkFusion Again Named Leader in Everest Group’s 2020 Intelligent Document Processing PEAK Matrix®"
 
-secured: "nBs7jbXcD/rad+/Y9HGqjqD+qK3Ua1AMCihXYXSsFxZ0rqShlEPPgkx94PiTG6A5CPYq+UlygdAs5zRDh/PPr/cra2fCmapTUC9YmNRpxZFLo9TkEi8Bh2wnYq3dZ4qyJht2g1ilUFV1YKoGtOpQUfbjVqvm0QDnxob7nma0VmaziROvgniHgfEOKwB8oRjZYuOT5NfnBJ67LB6rBwtxzZb2kVKTTLDgvoJTZEcx1XxUOTdNqxUuFkML84fxuNwJMf4BuyrLLSI/uxfy06p2xD1vVO5sA3TRuA2/IIvVM4DA6RcT6hzYO6QumLFVPL5j;tSU8PKdv3i3VSeiy+hWsJw=="
+secured: "RSap06zFXbPVUG8I41Ba1MR/ZvX9smoiaSOlBDgXCHlO3zZSmlQgY8LwSZBaGbESdxGUmKGRYwxZPIHNcitfuuwAI3G807ruzGkH+81M0yRjbqKucBqzYtYftBlBTAI0ITVxWtrVP+IuX8ZWT1tqYSIs8/hkTaGrKxGFDHzJOw69puqiHdlvaYgvj+bggDQxDq/d4z9+btrgeoFPGoj/3JXY7iBgosz53ShQvAxe4/utTyMlPnm87dz9OXKZ5pBTz2EnF4ru4k5t+Iu+LmiB3cXMGdf7cuRklNzYB8OyoDBtZUwO0X452vLM9Vc+FHSn;T8uNqgZq3nbQg4hKaePpzA=="
 ---
 

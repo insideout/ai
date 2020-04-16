@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-t
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/facebook-clones-itself-to-test-security-measures-by-letting-bots-roam-free/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -30,6 +30,21 @@ images:
     title: "Facebook clones itself to test security measures by letting bots roam free"
 
 related:
+  - title: "Facebook develops BOTS to identify trolls and scammers"
+    excerpt: "Similarly, by artificial intelligence systems simulation can train players. In this case bots work to violate Facebook’s terms and conditions in order to understand the spams and trolls. A research paper about WES says that WES(Web-Enabled Simulation ) will help Facebook engineers to identify and fix the undesired consequences of new updates ..."
+    publishedDateTime: 2020-04-16T15:16:00Z
+    webUrl: "https://www.theindianwire.com/social-media/facebook-develops-bots-to-identify-trolls-and-scammers-269106/"
+    ampWebUrl: "https://www.theindianwire.com/social-media/facebook-develops-bots-to-identify-trolls-and-scammers-269106/amp/"
+    cdnAmpWebUrl: "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/social-media/facebook-develops-bots-to-identify-trolls-and-scammers-269106/amp/"
+    type: article
+    provider:
+      name: The Indian Wire
+      domain: theindianwire.com
+    quality: 44
+    images:
+      - url: "https://www.theindianwire.com/wp-content/uploads/2020/04/facebook-newF-logo-1920.png"
+        width: 1920
+        height: 1080
   - title: "Facebook is building a 'shadow' social network just for bots"
     excerpt: "Facebook has developed a shadow social network inhabited entirely by bots in an effort to better understand how trolls and scammers operate on its platform. The Web-Enabled Simulation (WES) was revealed in a research paper that explains how artificial intelligence sims that mimic human behaviour are being deployed on a hidden version of Facebook."
     publishedDateTime: 2020-04-16T11:06:00Z
@@ -44,6 +59,6 @@ related:
         width: 2500
         height: 1651
 
-secured: "Tn/EWd1UC92/pwsoTPk7jebyVrJybUwV3quCUbKU5cv5LGin9GZGi3l/shVNena414MtV9+mcP3nUDQFSqPXxTr8lVICjwmOAEBNQFcxEzTSPC82i3cbVGoHtaozBGaj2mv9efdaswZ0oipTteyAbhDvwfdOW5lMJ/xAJhd1WXOY7v+ctH2c1ZcmWX+SDEVQ4g0ETaPkG/mOfxLE8fd3sYHmhQsbCaAmULPVo62E2NX6B+T6OkMzanir2i8SDhvTKwz54rRcsZ8pAZr56H0zfmHMrbRZ+qsXA0Ydrq3vv+es7DAGgR7CPQZHLCTjYv9e;BhEqhJnPy4VZLO96K+fuRg=="
+secured: "N1SEGy4M5VMkhvoVowiI9N74ccjH/OIsPFtSr+NQxqXE69zxnfoo0fIbgXoW5h/bpNkWjUxjRhzqeCwNJJJ2eQS5Eba7r/JfmRctnyR5lzTDt77ETJuN7/Tncp5kRCOfngRxOBiUHd5n3lXRznJk8i+PSlxPSqSBsghEYNNjqkuRw3dGHK7NZ6IBIWM+Wtq+xMeXNVMYruahHbjKoAeVc3GQEKCKW4xtc5kTTlSqE3zeDOT8ZL2OzuMX1z0sFijvhwBpbQhMFU3xOF4HK5YkhCYz9Qbr7iECW87lHPhSr5SAR6TJD/KjKuRDm0fuIdGOirjJ5DKrDm4UJPSbZRiDQc+SgJBcia48y5Rghbo0FZFKwbwVqM3jBQfUJy4LkD/smT64ZbmkyrWwAhU8/CqKsOpzLX1uIza57lB0at8qa69rsJ4B90pyhdN69E4zfpDr+Te4F/MKBQm0DI7JtK0v5vC6z66DPkxJq6Whd9DV8yE=;g8e7a2/8C1XWF4GCnozUoQ=="
 ---
 

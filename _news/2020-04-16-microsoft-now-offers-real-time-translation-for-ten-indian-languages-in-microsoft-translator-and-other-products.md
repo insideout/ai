@@ -32,12 +32,12 @@ related:
     provider:
       name: Slator
       domain: slator.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://slator.com/assets/2020/04/neural-machine-translation-gender-bias-april-2020.png"
         width: 600
         height: 400
 
-secured: "KwFD7aOSYvCFxLBvGcSiEflfNrcy2Yt4o6G3+M1setdPzLzxTyH520ufM+9nIvsDz/50hklupnlUPOu4FL6BDdg7mJ5PdeLzsj4HSmGY7ppyz8j7igfigDg91yUWEoPTRLIlwFbvBmzPZcX8gc57fXbYXviBCr+4GjDzrCbwN8NblEsDRhn0o9BniBdJ5iEalRcr3RkGmRdrvjTM+zNbb6/K3hNu+rqzIY6xInbNpFzEDF01g944Z0AHA2Izo0Iv/bsE923HcJmzVJB4wp+V+IIgo0tBboMZRTusAmho+pUc2RQe3eKSjWNyXI6SPoli;HdEUXgGGaBZpdaVDjIckwg=="
+secured: "u6qBg+HxrSJoTCmgBPmlilerOsncfrJl7uwJA/r82PeHbCp2MAL4nkrY+/qntMuSbGA4E+e5u6qyQYjYtuqFFMqcLRcmwOHpgvVE+njq0/8w0rXdSeGGIv2vpxIpbQZEHpI7R0FMH+EzlvN0JqmH+y5VnYslTrBDKupZQOB3RwFrouwZf8/Evx19c0zQ3FiynElBdA7rWdO5M85gE1B/0/v9tFVWMseaimlL0X978+LLA5EwKRdi3ocJ/Uy3XQD0bPqrYFAXVfHQfLkZjkPSvOlC0YmVQxbWd9XsSxTrXKeZ3eLS3K2z+gO8ZD1V+Mz2RGMcqJ263J8XmER5+Zc8IdrF8bSk7IvwzGIACf7vNWCfY0XMDz3rrwS97YFKBNZ9RBz+7C88pgEscn4uaKYi7yqqCme8eRooGh2G0xwdyL6v0laffrzShNCL3Mn53adSOHuy1C5IST7Tx5M1Ppz0r2nWWHQ7YNui7Szhmn5ao8E=;9//dMjM1BCwq1TA5BuCj9Q=="
 ---
 
