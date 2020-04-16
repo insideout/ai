@@ -1,25 +1,29 @@
 ---
 category: news
 title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
-excerpt: "By adopting Microsoft Azure, BlackRock will both accelerate innovation on Aladdin through greater computing ... of sustainability-related risk on investment portfolios and company performance. Big data, machine learning and AI can all play a critical role in improving access to and the impact and quality of sustainability data."
-publishedDateTime: 2020-04-07T20:15:00Z
-webUrl: "https://www.businesswire.com/news/home/20200407005781/en/BlackRock-Microsoft-Form-Strategic-Partnership-Host-Aladdin"
+excerpt: "BlackRock and Microsoft Corp. have formed a strategic partnership to host BlackRock’s Aladdin infrastructure on the Microsoft Azure cloud platform,"
+publishedDateTime: 2020-04-07T20:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/blackrock-and-microsoft-form-strategic-partnership-to-host-aladdin-on-azure-as-blackrock-readies-aladdin-for-next-chapter-of-innovation-2020-04-07"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200407005781/en/783707/23/ALA_eng_black_rgb.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
 
-secured: "axc/PYfmo1YE800HxfuoR3FCON/OeefOLQwRMKw2+C694ss2jkD95Iz6lOV42Es6ZmFUpNZSVVlnrqNH2gWKdSyqVPp59KTDjtqXZmU73ZRCz7BkYi+Gl7xZClcth/lPApV/w+onkHqyUS64axp12YRwtEG+JuNVjmDeS0XnxYwy6b3LR2FCnIcDcJmg9In4qz4vQ7ILSOFxQY/27OOxn1Aw/y/Gy8dQ0MHOK/0V0IOcrsFGxCXr49myj+oKNGPutOghMF4OYEQvsWNcdzVBn//FFxjxUJ33WxjDf1T7iNNxNaHkqa3fK/4Ji7nERans;bwf2gHVOxT5XB5kv68c7YA=="
+secured: "efly6WjMvnA7Ao4uLnqTZPVeihbYsDl8Hz1WMoFI28fvsb6/O7RrYjhcU8cpZD3OPDE4jW8jUi+0nr/sAxOTPfNBcRGr+Id6yVeZWt9s6UYxBvSgRrCBQewmAMlSnFQr+Nm4p+ZJmA5SOh4W9Hslm1QeMJH4vDA+3dM0spZNPzlx+kSbkIkpwQF27isGcE/hoEAE+1FILJ1EOOHYJ6IcNvhAnhkRojfN43hftXVNvN/1zWmk9WMLUaaIVr9PFAISmiuPcywazPfhAsUlsJVn5IGMpZJx1gC5BTW1GbBEX1kPtS9MKIUSxYj8Bbm670Ux;XbUvEqnaja+LmkqcKJsDuw=="
 ---
 

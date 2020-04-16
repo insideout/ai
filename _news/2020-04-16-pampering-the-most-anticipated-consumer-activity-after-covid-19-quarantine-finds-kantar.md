@@ -23,6 +23,6 @@ images:
     height: 483
     title: "‘Pampering’ the most-anticipated consumer activity after COVID-19 quarantine, finds Kantar"
 
-secured: "IaG/OBzVW//FiFrCK7y0QGQvFkashfk7UE1BjwYCmMXcTa8JlZsu4qceRFFTshz2RIfPrjwnopNbMBFwsE6W3TfhalBY+J3FKlfOEWzzyDimKs+zkH5HotuMtao4/EtUNkaBNtvFDcquKzw2+zzSXBM6IkZPSEwusmqMzjpxa6CKiayyedBNWKBcva64kdZLttKh2w1Ce7ucwXlgQWtOkGBMDPO/0f7oUsgDdBdL9yeB/eCVAxOByXfA1g4gwtRu7Ds9n6HOxz9ZWM+b6Zd/6AyJjh4qg8oSQ9BBWRNjIBuPItvAz1UzvqctV8ORS/Uk;76l5dT7GlOSuTc/J+yi9Ow=="
+secured: "R5biqEDwzciywitgjtRCNxDZaBVf/G0oZVHszck7y0IBMDSQykTdYeDgO/Srq//y5acNRURr8b2Jr+zJGGFYR3nZuCp+ROMvTjcNrFfpXc3pKj/9jI+Ttfb0A4dxe6Vs4vz0b2o1MXsJoRaxGcudfPjgEBuboES4aYG/TGyPZeRPNq4BJ0z5z2HfW4plZtNL4wF2Mn57IPL3wefi0tGrwMMuJsDBJLCPSSTnvvDuEAUtlyTJ72TXwdYgLyCX4SiRYVxH8JLpgVgKyssIt33tiAgc15cgKIq/+tImdqLA7wy/CZGFDqLR6ZYBXSs3djuJiUsA+VEOtHiQtT+7WiE13+kYBDEjjt3ZzoiXFD2qMOClAFjGC+zuKUvW5kp+S5oFnRBEmhht7v2dmua80nRwGR8BSBAiYjHr2PHE+2XD81sOvS+cBNYE3qJ7ZLh3kSIyPetS6QPzOewTaCcz1vpyyctKudeDS+BQT+jSz37HOEY=;SPCRnCejT5mg/wKaXpQgwA=="
 ---
 

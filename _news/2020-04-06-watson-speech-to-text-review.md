@@ -3,7 +3,7 @@ category: news
 title: "Watson Speech to Text review"
 excerpt: "But price, integration complexity, and somewhat patchy BETA features may put some businesses off. Watson is IBM’s natural-language-processing computer system. It powers the famous question-answering supercomputer as well as a series of AI-based enterprise products, including Watson Speech to Text. In our Watson Speech to Text review ..."
 publishedDateTime: 2020-04-06T10:24:00Z
-webUrl: "https://www.techradar.com/in/reviews/watson-speech-to-text-review"
+webUrl: "https://www.techradar.com/uk/reviews/watson-speech-to-text-review"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 712
     title: "Watson Speech to Text review"
 
-secured: "1sSJJBquZkAw1CMmCdZ8feqbse2WiiryZLL0Hn0BF5WbB3JJuCcm+C1ycbBA2J1+4in2KJEKbcuPBplqfcSINBXeOq0Dj12Obr7wLZ23DivK+GY12hb8YyDHLGcN+uzK2wIUIk534HFTyqcCzPknrdOCdtx2A/Aun9yW7jd/AJbXvxdyAPho1jkTKe7ChSXFws+9vLKzotVMeDtCRv/xRoWFPecmwUuUXC4W3M+n+U8FbGhc0NyNxYRn1PXdci8tlOi/yKDmUWA9WE8rDqYtm8ruYK2LnasWjNMzUWbDhoYP1lQo4UZ8wuPWKyAtQDIE;Ybqpq/x3P88F1gQQZR9oMw=="
+secured: "wkgbLTuckqs8J1o4T9pxBNTwfr4nFwsOSAsBlHCNz2Pe+18p8WDm2zi5TtqEppbsfXK6HKRDaPXM70uD/snPMGGIsP7IrUiGEfLkZC6hq/V6QHZeCfYL/ZTVwLdOmcHjg2koFBivUMjr0VAVC6NWpaBVn8tK4wfVGz5wV0kylVqkL9vjvp84+5zL3cbCPrlrG410zurR3jg2t7qNgANVfOlLTu0Ee7YJ1IBl7Q6/yTSL28uMAGdDIi1SbWQdlB+n/tAdRnxkWz3+cRBOpcc5xkunkyURXmj2uopxUjMIoMDkkq6gHevt7q8/cBV7MgLk;Cvz366vw3i9v8k/dDS3NEg=="
 ---
 

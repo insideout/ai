@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Edited raises $29 million to optimize product pricing with AI"
 
-secured: "eSwjus75FMjldUik/pvpXiOw+D2+71MZP12bm2EGF7uBZg+uFRpMkm2RqUJPDpKfsPo7xQco0O16GnAU8ObFAb9OfN/vCOKkuy5iLZ1VHc/dSCN1i0ZNnUEdkuZ0U3TrL3AIGjCOT1eFhjTYTvMk44r8UGezyV11XUDTjfeeGCNoLcgS4UctZeqWBZDYbVU4bVLE3PcsLsGH7XvTTPQdgBIPXdZ5IyuAxicK9NJgV9k87X2ppzeQoKspzLKYCiu3v6JoznuDM1tHUjX2ip8GsdWiRhTlZdZS0ey3cARO+xSVi/hpsUNEsK3P0sCamvtm;CQ6RWwfqZKV/6+SqEnenOw=="
+secured: "JbHZJNubi37lNNddixcAzin5JL+Ckq1vy3c9UOxCdo6NANb4y9dLVbx63EcHaEr+RyLlY73hcnPVtthcaSt7gGJJDdMkwKfHd5O+oB9NyZLGwT7Y4cS3DGEnFZI6QmrrEfMI6quqU1K+61modozxcLTcV3h6YFG+tMZDVbrkGqgAU0/M68uC1sTAnz6aUsJyx0+AaywA+PmDcdmohp1OVTa33L7fGpyCHcb7kPbd50joXXACoV+vzQSwxoTDnpB9pauXUPoj/HXe52zbdwP5X6H3FAphvBvAHdzReUghgbm3AUViroOR+FkEFFXQnNrq;iTvfH2jZi1X3atgzUgRYNg=="
 ---
 

@@ -1077,6 +1077,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
+      "title": "Artificial intelligence driving autonomous vehicle development",
+      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IHS Markit",
+        "domain": "ihsmarkit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
+          "width": 636,
+          "height": 370,
+          "title": "Artificial intelligence driving autonomous vehicle development",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-north-america-self-driving-car-market-overview-and-scope-market-size-future-outlook-of-the-market-2018-2023.md",
       "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
       "excerpt": "A self-driving car also known as the driverless car or an autonomous car or a robotic car uses a combination of cameras, radars sensor, GPS system and artificial intelligence (AI) to travel ...",
@@ -1244,43 +1281,6 @@
           "width": 2000,
           "height": 1000,
           "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-velodyne-lidar-blames-pandemic-for-sudden-job-cut-its-being-sued-over.md",
-      "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
-      "excerpt": "Velodyne Lidar, the San Jose autonomous driving sensor pioneer, says it cut jobs last week because of \"sudden and unexpected\" changes caused by the coronavirus pandemic. A worker lawsuit accuses it of using the crisis as cover for moving jobs overseas.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.html",
-      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.amp.html",
-      "publishedDateTime": "2020-04-06T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11235449/velodyne-4-022619*600xx3427-2285-0-0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
           "attribution": null
         }
       ],

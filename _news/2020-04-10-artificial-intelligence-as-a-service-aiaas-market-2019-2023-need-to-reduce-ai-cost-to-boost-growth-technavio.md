@@ -20,6 +20,6 @@ images:
     height: 564
     title: "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio"
 
-secured: "dXoDqQHpVbYZ+EfQEcYGvbTxERNFVDJl/f1CZ1kEINaFWgT6mqTsF9QrUNeBHhMlMYxYTSDhzg5dRCZWHk9NaC/i/d+l5pvjFeGXLU1yaYOWFLSLG7BNUdS89cuJN1nJ5PKzKOwB0BRJoq5K2u88UbqqphXSLzY8CG/qSDNtICvOE3Kp2jB/wak3LuyHRo8JiHRFuq1FvciDAEsMMTYd8WqGpv0yjF6l0m6YbseUzv4yr1j21Iq0F6NwLephY9BT4Qvhc1QsVs+wAiP54c78KUjsrECKLVwM7Ksi8e6M6+jKFA1r3QcS8lnfiIUWH2c9;ZIpuP6SYXXEwshngTnuUHw=="
+secured: "8YwkjvmNaJYqHetcA7WoBjqHgIIKNhjUkAYoA6v4TJLHqoGAKsnIWmbtlWJwl0Ru/55NukeSfaOLAYHZR0Gxnqnb71IKVsYcN3b1NeAn81aRcBt8U4zyT1GOBDzvMWjFBMGUQR+r8cPGUzweGD8LxCscZZktHU5GpuTaaxaA9fXvbl//OlUp1vNOd3oy+MqVBEHmHZYtIJGY7DqBbhVGzZ+Y+jqgBYyyVdpuk+jb/R4JtMq/eH3L24jwbmpwJDx2NnAvLb6GnNj3aoli4URrkC8W156IDGc2rUtbjhVrIC2E1jueABMdbxL/DEpUnfyZLYm4zxTgCVQKSXLTUs0tBuSTuvdkpd5/tEQ5YAt6ETWCHJloCWdJ79DrvHSfS0nJ0aWRG3weJeeObyHpje+XhZA2ajF/NCt2ras997+8fwp0p58f7KdNLzH0VZ45AVRrGx50CyP2bXrnVrVQ1v+bWsc8QQ7fB8lGs9jS4MFHsXo=;Q9JNscaooPr+k1ChYji+dA=="
 ---
 

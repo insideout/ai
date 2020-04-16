@@ -5,8 +5,8 @@ excerpt: "A new research report titled “Global Artificial Intelligence (AI) in
 publishedDateTime: 2020-04-16T08:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16"
 type: article
-quality: 60
-heat: 70
+quality: 77
+heat: 87
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
