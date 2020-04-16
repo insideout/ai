@@ -69,7 +69,16 @@ related:
       - url: "https://images.assettype.com/freepressjournal%2F2020-04%2Fd561d636-0a81-4a26-9a3e-04195d699bdc%2Fmicrosoft.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 687
+  - title: "Microsoft adds 5 new Indian languages to its Translator service"
+    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
+    publishedDateTime: 2020-04-16T17:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
-secured: "q9Sfs7GMndlc8tdU4lp/nCQnpvFxumw4SFmKRkNxSLSChgTZJ5c1arUtwacQg2srfNYedUDctf65+RXPIoAfj06+NR6HAGsIb5aRYrcWBGhjBaM61e2yJFjI9jdaxaflhSEwwSzK0Lbb/v5ZrVU57uT7a1tbNMsfZemDxdVf45/Fq+3Tu1158sduzX2o8cae/K1LGUPQij4zp/8uqFVwEVweasKajjIDztVRPirOTGcGjtYXKjUdFpkIYiKOO95JplQyzVlIPq4Oe+icw1Tr8vHdW76oIct5an01knw9+gNMgprsJVREnoM1oaxaPIfn;ijgSLkwYduN93XBE8jSpuQ=="
+secured: "fH3WFSy+nec6qyVkWlbc4gWfe0gUy30ccH+i5BOYGlf0Z8iyTtX/M5uJVa7fn+PabPnjS5Ao2I0xlbQboPA78/cqdSJ5oo8qXU81GVkO0VEPLRdAK8Q8RgD38W5aPMjdK/1J8wqEUOSgbUlnXF1OrAUW/c+ifF/E9LXcGljo+iUvPYmx5jY0Gis7NLw42XxNv0+n/Lb9TWwfPDwCAg0pShIohjDDtBxjez88wf4batTWVLDLmrUtPxPZrl6boxXj3GEcpXRHJ2h63v4h+zIvSWYfiW58mvXZR5b+xV5xlcPSyjxo/Wt52tQbwlsyomaGYL9auloh7s4NgbMMo1pejrVNgeAG/3xZHvsHsWzHJyxZ4e4ezoXRUZGXKwuR8kWiEsHX7LGow2vcIF2orBjgJyYFUOV5eaUe4IylzUdQFx0ORRCtyxGIWVBDM83+OHlCeFecQbd42lO6EWOoNUB0oiM5RqGvBG1ULCmHKfEmkDM=;JgX7bW6DVFdkK2/haHCNag=="
 ---
 

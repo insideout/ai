@@ -54,6 +54,19 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence in Security Market Industry Analysis, Size, Share, Growth, Trends and Forecast 2025"
+    excerpt: "New York, April 16, 2020: The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion"
+    publishedDateTime: 2020-04-16T12:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-industry-analysis-size-share-growth-trends-and-forecast-2025-2020-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
 secured: "/vkDJerI2MFoiIAMHx1wRDWyAX1PgNsjTX2J7ckr5j6q3H5m0ZuLX825lrJPGFPztZCtItwX2yRePevJy26sMJLggT2hErHvpV0Pt9g+y4YMuyssjebLVQ/R1d5IneoWBERIa5UGwbAc2nCZ+Je6rd62l2ZHVJxCBlncorLaq4QgtYLX/FrtxofswRAjZCYo49TrtO5GEEZS7BppmbKirh5ohT0R0i9TwZhPVtAwieN+nGOUYYvu39uWq2fmE16kXuiGiR9yFymAlm5jjDpmKcKb7s/2+nuSr+5z8CdCnyNWNKaXUvlQPypK/ED0RPvu;tluD8b6g8aO3rQe840E+Fg=="
 ---

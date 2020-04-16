@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-n
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
       - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-Translator-India.jpg"
         width: 874
         height: 583
+  - title: "Microsoft adds 5 new Indian languages to its Translator service"
+    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
+    publishedDateTime: 2020-04-16T17:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "5fZXpPGdQI4EUQuY1yw0OZuwZihHy2WCbzlWYPM+pvWG6TrfNjAL0tWSTscpuzvPf3MqgKkaWHmzWVWZa4+wFwUHRvcArN3+nFzTu554h+R/NQhACobWJHRdM4I3Bt01JkblHoyM5Av/4INJWogPkKnH5H1LYKXxKp7REfZV0P/qabGMvYsotD7coMhEsxBDANI4Apgetmycu5kyjAPjDW+juGyRLChD6KAjid4uay+jzA31RWLepM92vtJ1xGajf2BSM56RUzr05FYb/Lf/PWRgjfGeq9L99kK5rm0QgAaus9UUmp5bA4PyjeNVWsOU5nWLrRyvMxQAqEW2MMgdNbCsMKH69UlQb6lkuN7BhqZp275CVrIND/M8el7WOovZVGBeicFhbrzmuEUVCA9cuwFK91R/Z+59objTvPhNGX1f8UMgWJVVd+jy8IP6VyK4GdCHqUelXI0w8V6nG4tpaz4hBJwSQ9NBvGBQS/vWfrg=;S81peFDWOzeZuPT3yY0HJw=="
 ---

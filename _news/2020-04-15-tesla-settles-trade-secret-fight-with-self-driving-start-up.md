@@ -76,6 +76,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+  - title: "Self-driving startup Zoox settles claim that it stole secrets from Tesla"
+    excerpt: "The self-driving startup Zoox has settled claims that four Tesla employees stole trade secrets on the way out the door to new jobs at Zoox. Zoox has ambitious plans to build a vertically integrated taxi service, with Zoox engineers designing a vehicle, self-driving software, and a ride-hailing network. Zoox has raised hundreds of millions of ..."
+    publishedDateTime: 2020-04-16T16:53:00Z
+    webUrl: "https://arstechnica.com/cars/2020/04/self-driving-startup-zoox-settles-claim-that-it-stole-secrets-from-tesla/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
   - title: "Self-driving car startup settles with Tesla over allegedly stolen data"
     excerpt: "Self-driving car startup Zoox has settled a lawsuit filed against it a year ago by Tesla over allegedly stolen data. In a case similar to the one between Uber and Waymo from a couple of years back, Zoox has admitted that some former Tesla employees it hired were in possession of documents containing proprietary information from the electric car ..."
     publishedDateTime: 2020-04-16T14:00:00Z

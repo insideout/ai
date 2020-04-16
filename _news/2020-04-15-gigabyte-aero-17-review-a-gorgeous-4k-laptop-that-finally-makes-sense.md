@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

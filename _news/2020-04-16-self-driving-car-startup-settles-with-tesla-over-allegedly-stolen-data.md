@@ -80,6 +80,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 69
+  - title: "Self-driving startup Zoox settles claim that it stole secrets from Tesla"
+    excerpt: "The self-driving startup Zoox has settled claims that four Tesla employees stole trade secrets on the way out the door to new jobs at Zoox. Zoox has ambitious plans to build a vertically integrated taxi service, with Zoox engineers designing a vehicle, self-driving software, and a ride-hailing network. Zoox has raised hundreds of millions of ..."
+    publishedDateTime: 2020-04-16T16:53:00Z
+    webUrl: "https://arstechnica.com/cars/2020/04/self-driving-startup-zoox-settles-claim-that-it-stole-secrets-from-tesla/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 63
   - title: "Tesla Settles Trade Secret Fight With Self-Driving Start-Up"
     excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
     publishedDateTime: 2020-04-15T22:39:00Z
@@ -116,6 +125,6 @@ related:
         width: 800
         height: 600
 
-secured: "z60SvJoZUpapn2QBcnDit5kTi8KpcCO61jwS6QL0Mo/ZyHBpjXGggI2RXH68UyFQGz9GPHnt+VMRD5EOy0LhWABKlzXMinZ23OmHGV4yx73b2qrVeoUfPkGTrZRfMKwV6aFi2QTgc/DMRUMAioqonOO+UyhMPXjDQQNTi/bJxqU9fyK2jF+sO/vUa/D+P+IyJA5clxtgln0KEyKKJ1CO/ZF7WOeRmcQ5e5PcC511vo24oBOA71msNo6Uv8pY+VVoWB1I7hpKkq+4RCV8k1F1YcXCto4xOlxrve+qZWtFD9FUACdQs9gLjO72i6wIuYH0;HNjBlZc5nB5gBU7tvzrflQ=="
+secured: "kjtxygTUbzvflxPjCBFmoykUzbd17nPIGn+fmXDj+UnjnMux+q0QSe3sYAjvZ1uY0YVsggQQmSTPEPyVgHaiCRpvWpjeZBmwpVszPmL7Wec0uwHBSxmhxuw7jHX6uhoHyzeMQDtgJ8aGRc5b3uIzfuWSp95xixBZymrGkr5n/PtqxztorVnZJdUjhwyqH+m9tBy5qp5bEfASDvLHhEcnjROR3UyHE7p0zKjQcjtelzU1w0rBnNAVO9jIGEqhhDs4gK34/8OF5Gj3dmko66cjv1n6f1swvV9a9grQpq8q1IgqnIZSkggp0OMGswT8OgrpZLri3z9Ps1pMxRQlPJVzYYyoYlaz1uCseSDF0lfRSFqav+xbtPGKzJyi5gVa3ekYX1ul3ypoowO4TH+nkU368x7PuFvnstR58bWr7JK/pEXusXeLGCvu+2UzR5nxhnd5Z0tzoBnaxKPvmTb4C19P/7MPnmRIxwei3rFY5rsAYws=;u79VBqpPGV12x+C+VhPgRw=="
 ---
 

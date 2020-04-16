@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-so
 ampWebUrl: "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/Adam-Jorge-YCombinator.jpg?fit=1800%2C900&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 900
     title: "MindsDB raises $3 million for open source automated machine learning"
 
-secured: "prXqk0ltZZ5JJBj2ahVfogRedp+jJiBki2ApDnk9mYkTtbkexw7KNM+tABEGHfCemeRVU/lLcSmSxX7aHVXuJKT8f+dlY/NqmRjzWp2cWEiml+159es+AquwLLe7K2UzKaQ3GzMpS8mEuppZA9sHuaUOyT5Z/uNmWs0B1ksiYqGko172hkPkEcxfgAJW6abf8cTIjBVTw+Q33wDEE6Yj2y9Kd0ea2dkFPwu2m1aTFV/3afdAGk7DPE+AmsPO3SAB32fAnwjDF2IQrwYDrGRnc4mRdt+oUVxxjMLENmhjYj5py15BBqWxONJNkLF/36ds;XtegJGy5BfosdxOTPgYlkA=="
+secured: "soei1Y9+bi+r+h9MPSlsCbX0vzm3ZvJkoneoqS4Nha1PTI0Vweh33MX/p92rYpyoyJQwSZSZ1DT38CEwuhRJ3tExHIlz/aXPxPkV6M+NEVa3ExrxaEqdM5WzNv1jRGEgM+7BzQ/fNjifW+WJYIKd37xwSlH7t3SmcyoUQCBdL6B45Ma3G2FG2wPIHn3Jitdph5jh/ujzhXfbEwQHIMDb3buTLlXw4J45FCgRAbXlf63DXczLkENPrEukB5qOETQ5LKB3aK0rOEm8AX3+9RSmzhVY6+Y64DYOKsxHEpcx2HLWPOB4FBdAoGdsmI3LFc5ZVK5ftTZuP9gRDbIqbU3RaVFscvxG0Zu2dl7aILCSRdo5zelGbboyBm2iTEcuAjFOhyPQHdQDTpp4LAmnXS2pZpNrqaErHfw0Ud0Ta8OBx3G20YtBv3rUp6NbUX1lWKYok7oWNBmFUGezYdqFehSGmcGFnTtnUrZ91L9kk5fqmzA=;ZXFazkklFWh5nUGUsOOMJQ=="
 ---
 

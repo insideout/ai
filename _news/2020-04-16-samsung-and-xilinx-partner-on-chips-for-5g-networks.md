@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 770
     title: "Samsung and Xilinx partner on chips for 5G networks"
 
-secured: "fKO6lRA6ZVjsWRGVT0NIHDqxNOFWylLmJP3JudHtVUw3xBAm1Rbh2QcDLMJp5m9OOeuXRdgdywOzKBmRXe+sdT6t6zVSyBWse3BEej5W/iEedmuFDUjZRHXX2BuCRPdJe+6esLo9ffYcogBSgFazQ4avzxtC9H/MenKas5r7tTj/xlz2N9oPiFNbqbCUtsHcloYOPw8JC9Xsd2sOyU9r4d42C54uHu+pG49jwgw1l8to6zngQnEemUErpvkdJ6x9jGSLKa45HAJq1gT8NUkg4JldSy2l7Tze2lV6n7/1yuixqbWdBTyn+n1q2/5clSXYAeDOEf73xvpdQcoyHUdywm6PMSR4/XKUrJGlmT0jTkaYMz/9ieAPZXxCSZJ3BHpLiOa3aJjvFz7bqm05ot75LPDX/JkUvK+JdXxrgaBTw0U0+ox7qjnoJrzkfenWVN5U1AXDC2+JfnmAPtb1FGnMVzGTdudUXRFYGmH5TPe0O7g=;8cUsGnLRrN+wxhUY66SrGA=="
+secured: "L0Hd90fpaLMCVEoyLhGAkRcy5CNYmHL4HiMFE9V+iVLiT8o4bqDMeF+yEA/wYf9kTKS3MD+r0ZmX/Dk/4QOWih/bGAxzGZ0HtH9mBm9FKO+xfDTtGN6MxDCtkQj7TMz2EAV/ISyd0l/SqgfqQBRo4kYJ006dtgW+TvN5G7GWG3apqox9BQQenBIEK0o2K8rSDjs33y+CBowGAiotmZCX+yG0TLxyZFyfEE5Cs3SuIxDS/5kmzOtmUJsCNCasNXUHbC09Ve3S0aTy31nzzf6F7ozI6d6pHl8MYphneilImauxkHQBumFZ0MsqRRZOzNnapkWt2Tsw84z9UZlMMeDdx0XxEFRwPc9mvHaJAObVu1a8/P3P9VaSmaN8mdnOdQjjgeJ9eWKQKjAipdEFzNCcG5KQpPeROUVvt+iKCLvhftl5OTAsIE4OkrsEA4YJ0IRGoMCjTBpALVqnupzeoLGOg4J06bZfb5jqVmEjivLfSFI=;4FY8X1/VIm7xXJli7u28/w=="
 ---
 
