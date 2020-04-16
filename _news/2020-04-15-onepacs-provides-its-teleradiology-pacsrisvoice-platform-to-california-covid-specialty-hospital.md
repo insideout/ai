@@ -1,28 +1,28 @@
 ---
 category: news
 title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
-excerpt: "In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California"
+excerpt: "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department"
 publishedDateTime: 2020-04-15T07:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital-301040761.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html"
 type: article
 quality: 11
 heat: 11
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital"
 
-secured: "B3AFh4IF3lABYxeRPcgwyGSdx4CkV3zzo5/tfovpHD6331JZRn5Hzlasumk2r6w2ZO2J3inb6q6OfulV+HdvqfB0a7fiqAOqhKZvGNYJua580QLygOMf06S7DG4AHex1Vj8DUXfumgNBJ5lGLIBUouHsJ31MpVZabtcJS5zP8COIgeMG+YHRVMlDLwuHZzvKpfhnigYS0AF2o3VTKi4+Y9mbgHSPwbYPZFYcd73PVj3p6WQe/CLEnP6YsdObGp343EPC57rIahEwr4jWgQbNNBLv12TYqYunVCJkLYkAfi/fafsHNkHtAdv3yjfcfFEU;LYZx6EJUMqq6CC4EFDXb2Q=="
+secured: "zao8hPzL5b3nNFnO8Qoo8+Ka4nC4A3ptblFZxpo8XetVRpZAA4Sj9h62bxPiq+M5l00iWcH4smcgi1XBvzCWecRkt+TWe94lGsbV7mZ1FG2E4+/7lsUHqe69DdK36+cJeCLBQM1/C0qKrvm3fKlad5CrFnaKiI9Hh2b9BVODVSWqmsJBOLvGlWm0DMBJgpuEvr1RYRQBsDGgtl7GRK4xBS+1rTiLyQypNB7cxZt6rxSgS1QgMwgvTZ4sGwOTROSYO1V8cqiaFsW1hZDKAQ59AmNiQpJ9Y6zPmXNBQUdUGBjAiUSImisQrnAIg+yE5asc;S6TZAu3OKCx3Joa4JHXhSw=="
 ---
 

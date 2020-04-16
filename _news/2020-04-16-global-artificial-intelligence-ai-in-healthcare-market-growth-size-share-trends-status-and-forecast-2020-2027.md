@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T08:13:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16"
 type: article
 quality: 77
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,19 @@ images:
     title: "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027"
 
 related:
+  - title: "Deep Learning Market Industry Analysis, Size, Share, Growth, Trends and Forecast 2025"
+    excerpt: "New York, April 16, 2020: The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42%"
+    publishedDateTime: 2020-04-16T12:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-industry-analysis-size-share-growth-trends-and-forecast-2025-2020-04-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
     excerpt: "By Technology (Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Context Awareness),"
     publishedDateTime: 2020-04-13T09:55:00Z

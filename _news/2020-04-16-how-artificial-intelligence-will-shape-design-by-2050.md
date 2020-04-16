@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How Artificial Intelligence Will Shape Design by 2050"
-excerpt: "Artificial intelligence is transforming how we design and build. By 2050, the effects of AI adoption will be widely felt across all aspects of our daily lives. As the world faces a number of urgent and complex challenges, from the climate crisis to housing, AI has the potential to make the difference between a dystopian future and a livable one."
+excerpt: "Construction has been one of the most challenging sectors for artificial intelligence. British multinational infrastructure company Balfour Beatty published their predictions for 2050 in their Innovation Paper. The report outlines a series of conclusions: robots will work in teams to build complex structures using dynamic new materials ..."
 publishedDateTime: 2020-04-16T11:45:00Z
-webUrl: "https://www.archdaily.com/937523/how-artificial-intelligence-will-shape-design-by-2050/"
+webUrl: "https://www.archdaily.com/937523/how-artificial-intelligence-will-shape-design-by-2050"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -14,6 +14,7 @@ provider:
   domain: archdaily.com
 
 topics:
+  - AI in Robotics
   - AI
 
 images:
@@ -22,6 +23,6 @@ images:
     height: 1334
     title: "How Artificial Intelligence Will Shape Design by 2050"
 
-secured: "2Kn56bj47Qp+3Tf5km1cj7xeIQl8NywVxWcZu/GkkiHjvKvsaOVLRVk55gdsxWnrSOnBRYKGKJ2XUEqAv6lmzBf407y+jeYtQHZMCf9KND5g72qPL1PxU7Qa2cg+785gkD9iD67cboqKoA5WvfCZPtZzVtg5WHrJYhIddWi5raUoocSe+JNAWQ7FAJKIFA99SRCndlCCZkkKBAEenh1KPCmou2+Gm2B7e8XQLmCkmSm3AQP6W7FAROwmJcc9PlkoU7u3P8I0iJ94h6ZLk3loOoy6gndWt0aer7AFI9y4qJIc/jUglswBVGP87/GnVwZr;TXhLP1vn7DhPLhbZlGdTJA=="
+secured: "JkJwTONutqJ48dLHdq/XGX81JQddhXTLiKJ584ti7XzCqLwg7BcbiLkQwHvfVgfdL1PYRv1Yvp/cqP2NkB06LxTojIPLdmOGYUSvnNWkwt7k3eK4k6x62SBSxNHUu7tUC5lZxJ79wrhbCkO8dx18n3UfTxvmiC4/H828z7PS9ZWG8tUvsB6KELrOD3ekQST1S2Nkk4mS26rtS5PgVvHgJnV6XRgnfcismQo0szpKUeBfE6xxJ38F0nSbQGSwWOY+eOsZWME6mbrEWiF3jnEoGIxXZVQiZOWnCdS6p1xsBsGauVatP3WCr+8ntu9Ov16V;WmNA0stAyoHgIPeRt3f/2Q=="
 ---
 

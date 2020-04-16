@@ -2,8 +2,8 @@
 category: news
 title: "Revolutionary Machine Learning Company Identifies Two Possible Treatments for Intractable Breast Cancer Type"
 excerpt: "Pattern Computer®, Inc. has received confirmation from Lawrence Berkeley National Laboratory that drug therapy combinations it identified"
-publishedDateTime: 2020-04-14T21:57:00Z
-webUrl: "https://www.prnewswire.com/in/news-releases/revolutionary-machine-learning-company-identifies-two-possible-treatments-for-intractable-breast-cancer-type-829959391.html"
+publishedDateTime: 2020-04-14T12:27:00Z
+webUrl: "https://www.prnewswire.com/news-releases/revolutionary-machine-learning-company-identifies-two-possible-treatments-for-intractable-breast-cancer-type-301038860.html"
 type: article
 quality: 20
 heat: 20
@@ -23,6 +23,6 @@ images:
     height: 898
     title: "Revolutionary Machine Learning Company Identifies Two Possible Treatments for Intractable Breast Cancer Type"
 
-secured: "eVKNFXLupem0Ishh9sK8sApYsYZKNeShgukzgTIzNJuNjqqDMNHm7YYHTYJf5YdAKKfqfBWw9dCyuAhlQ1Se/urYs0LmRb5uxBKoZ5TIN/kmDBt7NFC3suOSGpgUKhL+5NHeWwQYZ3ejMJKpJvZQWdDOWxRA5TSexW6d3j7paAdbN3ZQXqgmv2ADgWcjiE+IYZC3fdMdGcW+ccLCb+d/LqKJvrFVzCCM2fF3SQ6GcW+iZifn7pHRDoGwLTs7HBZuoxfnPf2RVO5djkGWzoMDvR08nTNYnkFZxK3i1wDSL0dMydn1N32QyzY7lONYD5jXE7D7myp1AaOPxcJrSKt+Kk6BoE7Pu+D6iRnL3qrv9j2nipW7TCbpsIORAkShS7NY65bz4eg0XJs/VCIBZEUstR5v+uP/E/Had5SzufmUgzgtnq8Tz+Bim2Q4UIiq3bt1MHeRqo7qHu9wuzcgAr2W0nbAB9PnHt2rzCW16nfY+g4=;wdg/IxzHiQuf3AYyVCYosw=="
+secured: "9ri4CIa/NxEH7hRbZgsaLr8VDbEi3P7j5oJotGBijEZ53KvmT13NVqByEUZIEicuotNxLIOUkhdO+DA0uPQbR6jcMSoU+dmaZLk/ibNKw7AIKB828KMLKGajajYTxoeOpXiGnjzkJ93AmmljFNBxzb9u0DjMqNIeLu2OsQyNZo8RzsWlSCVPWKqsemJFYMJo7pRmZzw4zl/7rfAc/hqRomBbEsCwXkWKUs9ZDbOm/hn9jGkLt4zesfMQgOjIOrS86iAiBDt5RVDD3xKOtKp5gWZiqmdSa7uSIgW1Baaj4OeWifoyc3N6dDs6XnNtQzQS;BjSnvH5HJOMnt/jPKh+vuQ=="
 ---
 
