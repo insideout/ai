@@ -7,8 +7,8 @@ webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/ar
 ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp"
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp"
 type: article
-quality: 80
-heat: 80
+quality: 82
+heat: 82
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Google AI
 
 images:
   - url: "https://media.itpro.co.uk//image/upload/v1586980466/shutterstock_608550530.jpg"

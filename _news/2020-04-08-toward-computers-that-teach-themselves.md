@@ -23,6 +23,7 @@ topics:
   - AI in Autos
   - AI
   - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://static01.nyt.com/images/2020/04/09/business/09sp-AI-cover/09sp-AI-cover-facebookJumbo.jpg"

@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027"
-excerpt: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance"
+excerpt: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance Tracking & Monitoring), By End Use, And Segment Forecasts, 2020 - 2027 Read the full report:  The global facial recognition market size is expected to reach USD 9."
 publishedDateTime: 2020-04-06T14:40:00Z
-webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-size-share--trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020---2027-301035717.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    title: "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027"
-
-secured: "jfmgvGLmOK+MDAInasWBik8xBCiyIsbVqocyTEp0hc2XmGMWePoL4/0lptZcgFAoxssE29M7Jz095mh9IKDGN0rfly1Lanty3XnG+Amz/cTenS5Jst1a13hny+Ivva8MKFHbLaGIMvxqqfDFgWtY6MzyZCr6pi7vsk6G3rDH+3PUIAi/ppxCoBVgxmDHvCSoBVOf5d5HSenh4STH++XE1bsPn7dHKQRDbI5OT2vxJWe7Xb5Jday+JtUp3eF8KjQE+zW5ceTDWDzvwd1Y1LGESQ/7bCOTMX23B7VE5OW2lB+NxwPdXGXYp77vv9+pKjN2;uAGQkJ+6EHzsvIyK/ltDuA=="
+secured: "Bh/tgUK1N4qwUaCQOnbyzXVrgwCi9xsIbNd1cgfYVIiGKC7j/G7QyCzo7oS3204vYrFHP36zPCYrsDLDhGm4SXtduNAdDOX1bEEpKisxP2iR7Reka01fcnPGwhb0dymCTECboO22PKekaqf8oWJORkHlvV9GMAMb2NhEVyn50KqtIU4EpIjInxAPVAzxTr5B7G2Egxeaef5uelbN5y/4xQD6hOjgsLAnIGhzh9WDGAqW74oZbW3cvRVoKzrHwkwP4rk2R4dms/icZP+g7fwjLq7oiVQMmJIMrz9HTwH8aW2/qqB2PmImDhlVhVNWw1p0;K+ZDzJXA9XGYSmTBLAR/9Q=="
 ---
 

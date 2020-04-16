@@ -27,19 +27,17 @@ images:
 related:
   - title: "Fintech Company Launches AI Platform To Automate Hardship Relief For Financially Stressed Borrowers"
     excerpt: "PORTLAND, Maine, April 14, 2020 /PRNewswire/ -- Constant, a Maine-based financial technology company, has launched an AI-powered software platform for banks and non-bank consumer lenders that provides faster and more accurate decisions about payment deferrals, loan modifications and other workouts. The solution significantly reduces massive ..."
-    publishedDateTime: 2020-04-14T12:30:00Z
-    webUrl: "https://www.finanzen.ch/nachrichten/aktien/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-1029089405"
-    ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-1029089405"
-    cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-1029089405"
+    publishedDateTime: 2020-04-14T08:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-301039573.html"
     type: article
     provider:
-      name: Finanzen
-      domain: finanzen.ch
-    quality: 45
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
     images:
-      - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-        width: 344
-        height: 344
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
 
 secured: "eTAeEuJcrWeBWMwjTFnqm6EpUja73ZGb9m5IN7FjIwbvNPu81ydfPmb2AdDisXQamVrmp7AjRXuWtT/bxKJcIkk8vzn0W1AHJpGMWQ81QJZqwQtTgaFHQV9R04kszAHkickVzLqZ83uvGbGILtal1gVtxS4HNBYIV0MX/cthwGNxPv0e04e98YXgUMyONN01EhKns3bVa65k+T4RtyMWTJTx2nmEnAxjQucq8bYYKu1mScldZ4QbfB5+xS6rgosae18Xipj6vKtkuqayO+xEF4+dK0uJXSzITGYqV9uaMAuUpUC9o4OpKD8afE1pol27;/vmHby+YpvXuOoA8Kns88Q=="
 ---

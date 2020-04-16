@@ -2,27 +2,25 @@
 category: news
 title: "Fintech Company Launches AI Platform To Automate Hardship Relief For Financially Stressed Borrowers"
 excerpt: "PORTLAND, Maine, April 14, 2020 /PRNewswire/ -- Constant, a Maine-based financial technology company, has launched an AI-powered software platform for banks and non-bank consumer lenders that provides faster and more accurate decisions about payment deferrals, loan modifications and other workouts. The solution significantly reduces massive ..."
-publishedDateTime: 2020-04-14T12:30:00Z
-webUrl: "https://www.finanzen.ch/nachrichten/aktien/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-1029089405"
-ampWebUrl: "https://www.finanzen.ch/nachrichten/amp/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-1029089405"
-cdnAmpWebUrl: "https://www-finanzen-ch.cdn.ampproject.org/c/s/www.finanzen.ch/nachrichten/amp/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-1029089405"
+publishedDateTime: 2020-04-14T08:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/fintech-company-launches-ai-platform-to-automate-hardship-relief-for-financially-stressed-borrowers-301039573.html"
 type: article
-quality: 45
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Finanzen
-  domain: finanzen.ch
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.finanzen.ch/images/finCH_Logo_AMP.png"
-    width: 344
-    height: 344
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     title: "Fintech Company Launches AI Platform To Automate Hardship Relief For Financially Stressed Borrowers"
 
 related:
@@ -42,6 +40,6 @@ related:
         width: 400
         height: 300
 
-secured: "bwYrcEKeRYnUBKKNptvkUJ+MjtJ6SDz+mIhbDuGAZz44pSX6a6xjvRsNx3fGzXEIrUq2x+/LLbjXXDpeISKX5VzkjPaeOchZ7CL/aWw+AQg49RMNTzCnuuBBbzmsrW8H60vQyKzVZeww5jLGQD8S/Sw8sE9hFgEhueMoTgmoQCuMM2+4ELRvcJfinV6fgL+AB4EP6f1MJJmty21vi7tQo4k80Oc8jHbQ0NXLg+QysH0+dD6jg7Hn9Tutvi1D62XgO4UxS3qsGpDmnjq5iv6OxmL+t/2hMsZWVCMcTgo4Je44sjzLxL7UJqhf10u3TYAi;dYA0JVz/rmeYvo3FBWMAig=="
+secured: "1sPRK28MaAIFOkdGF0azzvXErvJPpTBtuSrVIAcALdAH7Dw2iqJytqKmZDeuEI1dZ9wqS4oxmTV7zdrXQUyG07A/gAe/+OVKFrpdVkvCESBwxS5wq3ZVzLFrSRJKSMeroDJoa3jOdx8bNJajgXP5gp1jvayCKJukkTnE6PXoYK2cN00vFx63TSJPTNZFCGthNhkuWgqm+eppdavZX9ncw7147ekf7ziwiNpBT01AbBmsIrxUuzzQPbsoehu1QfOZJRmveDVMmuh+1OLZY+RNgJztpNDWPEk9CoPqvqWtf8kCFjoG3ZZEcAAb2Jxf50Vt;z1R+qN9Lxaj8Xhx8YiL+Ow=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html"
 type: article
 quality: 89
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -76,7 +76,18 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "Tesla Settles Trade Secret Fight With Self-Driving Startup"
+    excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
+    publishedDateTime: 2020-04-16T00:57:00Z
+    webUrl: "https://www.law360.com/articles/1264045/tesla-settles-trade-secret-fight-with-self-driving-startup"
+    ampWebUrl: "https://www.law360.com/amp/articles/1264045"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1264045"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 39
 
-secured: "lf8yqprXho+CoZ8nwdLTAmk42AwTvPt4hqRtKPFL2QvVaxBLst/gARTbvQ0799cjyU5zd4jaoCjfRaLrPBdBXW5CrC5hblnzsDOLnFwrNph49GCLYLQK5YRWKGDXNBQ1Zk1lkcqxqxqUs0jPf2zqH80speckTfn+NM6Rk4a6kldy8GCj+iKjuAmGNbyDatrobynD0u8qTpcihEem8Uz4b+jNbOZbELlxRdJDCL37vm5ZNMjh7QLOCHNRu8b0DGd7PlmvlUxqaZtAb6gwbFQ5DsqNPxct0PjRayVSkPBXSYPUx/A4CX+5hGw37A8j30/oSh1p4Dvx0fz13zBF2RhcD/HxLI6f94OalXHkPs42Q/i9eF3GZMqSi5V+GIsM74rG7pIYMdAq/IQzhAvf53+fIr76ssqLhkFy/7kLwgMkecM7vod087tMrZcnPzs7ZLTk3vEnz7hLa7yLAIayf04sJ+jaslzwxwe/x1z9Y58u0EI=;kIanLxBqsgn6ye3hqXbebg=="
+secured: "oyN50PMsbAbzOSXKn4aNOSKoWyN0TmuNsTMPRmBc3IF2IEE49dJVjkTPpPrOYudjr4EEETx+6PEjpdTRNWOFCSmoi+wL1q6UTGRjT3YjsMwr+hljYamWq4beDUzMj0xxY9Agcww3SDYMkWkQr5rTLyEtbpF4MneMP+GPkJ5D/YP0YR70Trzy87retMh9j+ng0BWRZrMZVlNk8KvcyP1rhR6YcJhjmNWIvLbemVMbNKhsY4ZAk/YZYf5FgMdAJ/PLV+TFg+xcQLsfCKnk1DYUq92GyHG7TsU1rmUaQ6wS+mpCsX81K2Cnzb9owSTWVrD4WerzPhAz4TP1P4FDXSYTHeBEySt/6jsvL5RvKZ4fp1XdKQDeRyx0DVaWObUJRm8hDG/jZVqcvhxdS+8FI56RDhCAny2D5s3SkjwKr/UAix2/W7BFyTigYYH4j7boBVSzMmdC0ueTtHr98nygbh4PF8/KLQTxBz/i6i0p5fxW71E=;V2sKOxp8UbRUs0G38OtGbg=="
 ---
 

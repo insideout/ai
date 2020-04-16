@@ -5,8 +5,8 @@ excerpt: "With the official issuance of 5g commercial license plate, relevant ap
 publishedDateTime: 2020-04-15T23:45:00Z
 webUrl: "https://www.marketwatch.com/press-release/wimi-nasdaqwimi-sensetime-and-megvii-ai-recognition-technologies-are-outstanding-in-5g-era-2020-04-15"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
