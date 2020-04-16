@@ -7,8 +7,8 @@ webUrl: "https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-
 ampWebUrl: "https://www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html"
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/106491036-1587017369683gettyimages-1209811046.jpeg?v=1587017408"
@@ -29,6 +30,6 @@ images:
     height: 2083
     title: "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic"
 
-secured: "XcpYij0RoFWcpJNMhbMmDq/wSl2uqnFC4hwHFgaW84hHrMva5WjbsxT3xRf5nyGh/4pwP/AacLg6kupwvWM0tbZUHW1WbuX+fM7D/4I9mSZjgTlYQBfkvwB/TOKUfGQU03wMqvkuj5diZoDXXtrh6sWJUYHnMW7qy/aYCSdXDSwiEIC8FoSMjuwAEPvKl44wk3w8og3+UT7eydlxIoYBL84bEZVvf9RdBMulgOP7KS+U68EoEzaux/SForY6nwoildAdwCNcDGBSfVP+4fr8yRyGEPRrxcKRcMUC+dZB5LBUR0QDQnspaxn3A/xHbbxB;q7PJkCAjDj2NxUCuCTlspA=="
+secured: "df3O+GGP5W+DrggouxLdotnigKg16wT+FYq2c5/iJm1d9kEHoT9ttYkAlt+do08NuSmWdQzakHOZcBnwz7xmfrLg+Z8icMBqXkqvpDB4ffmgJzorzcYTKvWGC9WoNdnGZtATPDVPY4JjNmqphyfTvQrkoIbg39udowKhI0D7SWBQre+S7FlqXJkWhUoOef8qJ5GBkjJa3yI8r6w56Oo04MaRYWYlAkO5TyK2B23VsYTI85bST3y6elLouppiyjgY3elqpmCVO02jStyvwZvrlttAKI3m9SC8NHocuyC3RAws2QhatLthP/Y8MhB9g+VuC016ospADH2SNVimzihgTOkxUpruiRZyo/Mp2KH+kP4CLrYzHJyI6EuPlvsMg2nlOcR5BF+vIkmSPzqM8RdMRVZiKDjLG9ZhJGBtCSD4l/jryBo9wmm54Iq4NsNGu7iyYRX85jMGTV4ofL89xbTrATFMO/RX5tymNhaXHSr+E5s=;iHEyOzSLfIp0wFcAF9ZPYw=="
 ---
 

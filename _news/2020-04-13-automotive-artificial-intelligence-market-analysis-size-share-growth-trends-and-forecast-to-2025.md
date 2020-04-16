@@ -28,28 +28,15 @@ images:
     title: "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
 
 related:
-  - title: "Wearable Artificial Intelligence (AI) Market Trends- Industry Analysis, Share, Growth, Product, Top Key Players and Forecast 2025"
-    excerpt: "According to the research report titled 'Wearable Artificial Intelligence (AI) Market Size By Product, Earwear), By Application"
-    publishedDateTime: 2020-04-14T05:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-trends--industry-analysis-share-growth-product-top-key-players-and-forecast-2025-2020-04-14"
+  - title: "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027"
+    excerpt: "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments."
+    publishedDateTime: 2020-04-16T08:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Wearable AI Market Size Estimation, Demand, Growth Trends, Business Opportunities, Industry Analysis, Top Players and Forecast 2025"
-    excerpt: "New York, April 15, 2020: The global Wearable AI market is segregated on the basis of Product as Smart Watch, Ear Wear,"
-    publishedDateTime: 2020-04-15T08:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-ai-market-size-estimation-demand-growth-trends-business-opportunities-industry-analysis-top-players-and-forecast-2025-2020-04-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

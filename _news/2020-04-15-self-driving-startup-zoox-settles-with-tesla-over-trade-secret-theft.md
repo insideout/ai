@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secr
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html"
 type: article
 quality: 89
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -93,7 +93,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "U.S. self-driving startup settles trade secrets lawsuit with Tesla"
+    excerpt: "U.S. self-driving car startup Zoox said on Tuesday it had settled a lawsuit with Tesla after admitting that some new hires from the electric car maker were in possession of certain Tesla documents when they joined Zoox. Tesla lawyers filed a lawsuit in March last year against four former employees and Zoox, alleging the employees stole ..."
+    publishedDateTime: 2020-04-16T09:46:00Z
+    webUrl: "https://europe.autonews.com/automakers/us-self-driving-startup-settles-trade-secrets-lawsuit-tesla"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/zoox.jpg"
+        width: 800
+        height: 600
 
-secured: "jZF2AFs/EBTGpm2Hh/+CumKoVTv2i1OBQGlC/yCEncFGVncMiNrl3OGO20lInClkPY4vOUggMbSEvD+c7s8Ra60ycoIXz/2n5pFyznvK+l+e1jJPH8zj+16P7WNQHLAXcpcfrBGGJGdZsLNO7SFT0wYewhCEngn0kPNjS+UL1TjqRWMQ/lkfqgk5OMJX5xJAAjSQLo7eVxISHQOxZpB8Ej9Kfmeo88iwNRJS64hrDh8mSThOFt3Dl4AVnwJ6yvVigZtdQ8RV6egsW3NgpUAzx7YaG7Q0HGMPrxoRV9zBMSFgJKCTL16ZmAP9GNH9VthqnAvO7ZTLWhE9P+7pPtLuj6LcOZyfPO4+e5LSLbFbQTXF8vxnZ71CSEWi9y1KexHKL2NLyMLrmFB7PatjRQekINLxFR9PKfX/3JI474fLdMZgfIZw7ID+FyIY9wcrq/rKvbGVW7iXHh2aKkE5f7Q+fHY9GN4SE6qUK+1BzUJ2DEU=;bcmiIYqIP4Cmq5IKhRXAiw=="
+secured: "sByLU0u54PR/bY+hEBG7jic9nS/hMAjN8Wn3ixSuveD514UWsWEVnw+AN0FyKMD3ZXMe/kT05V5KhccndPX9y5cNUuWpTWCPisGvJguLjAP1LQT2GOhxTa/IdJDdnBYgXjgimPE1JigQBAPd59pyhH1w5v9R5WtgklBOhv8fF4EFcNldX6taFZk0OdVfqB3EAFmpVvmFsV2Nit3+cq55CrzwRYAWCXE7yJVt/oNl8WoX4EnG1yVt2utoju7A++N5iwZ80xSXSHZcVNmJjfGu6vomGlcnBZmK261io1xM3AVTqYFWHd2l3ixiJdFXzgGVFrOcuPLW0lAwqRbztyp7Or8tblb/hNn5nrJsx57xnGRmXQzY6Vec7lnpDjSX3pqSif6Ni2XKu5u52Nfw9FKV9yqaW4Y+Cf/7V4utptdH8IdiYWsvGkVIzAsg591IJq9rsieh78xjCxLEJ1r9DpTrAnFM93DRIlkLhcPlJNjjkXE=;VJDVJuUMtO88uMKOn/XMaA=="
 ---
 

@@ -87,6 +87,19 @@ related:
       name: Law360
       domain: law360.com
     quality: 39
+  - title: "U.S. self-driving startup settles trade secrets lawsuit with Tesla"
+    excerpt: "U.S. self-driving car startup Zoox said on Tuesday it had settled a lawsuit with Tesla after admitting that some new hires from the electric car maker were in possession of certain Tesla documents when they joined Zoox. Tesla lawyers filed a lawsuit in March last year against four former employees and Zoox, alleging the employees stole ..."
+    publishedDateTime: 2020-04-16T09:46:00Z
+    webUrl: "https://europe.autonews.com/automakers/us-self-driving-startup-settles-trade-secrets-lawsuit-tesla"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/zoox.jpg"
+        width: 800
+        height: 600
 
 secured: "ioVtsdmEkeUX3x9XUJPqKsEN/5g+mxSLDbqPZ889zY5RtGaYPzBv5S77DblvH37ViOGzmGaMJogWcM4vzifbhhqAEt4+b7w5S7AXX1QpvnQbAiO7hvqYnsNhEFuvG5zgxvCgV0P4XyPrilOAl6xI+ilrQNBittGesBp2GlcOOB+6yebylieE2xkzYT8A7rkok6pJZ7dS8E9C2PRxSqOu3cnlt7MahLGA/hHDexM1cKCVtlCE8eobDfx2p4AsyFe+086x7KvmlkOBEgalT0OwNkzT0IRkzBtRNmFlBLasuCvlG+yX5/r+MSFIUNxi1fJ/;xYl1l4xg1iwgdHIbWIIuRA=="
 ---

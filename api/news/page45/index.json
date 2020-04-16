@@ -2,43 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2020-03-10-the-top-7-use-cases-for-touch-screen-object-recognition.md",
-      "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-      "excerpt": "Use these examples to inspire your own brand campaigns for touchscreen object recognition and interactive displays, tables, and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a special marker chip or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://customerthink.com/the-top-7-use-cases-for-touch-screen-object-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/technology-785742_1280-pixabay-technology-computer-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-10-microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies.md",
       "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
       "excerpt": "While speaking on a panel recently, Landing AI founder and Google Brain cofounder Andrew Ng described a moment when he read the OECD’s AI ethics principles to an engineer, and the engineer told him the words give no instruction on how he should change how he does his job. That’s why, Ng said, any code of conduct should be designed by and ...",
@@ -970,6 +933,43 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-scientists-linked-artificial-and-biological-neurons-in-a-networkand-amazingly-it-worked.md",
+      "title": "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked",
+      "excerpt": "As Moore’s law is dying, we even said that neuromorphic computing is one path towards the future of extremely powerful, low energy consumption artificial neural network-based computing—in hardware—that could in theory better link up with the brain. Because the chips “speak” the brain’s language, in theory they could become ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/",
+      "ampWebUrl": "https://singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/03/10/scientists-linked-artificial-and-biological-neurons-in-a-network-and-amazingly-it-worked/amp/",
+      "publishedDateTime": "2020-03-10T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2020/03/neurons-582054_1280.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": "Scientists Linked Artificial and Biological Neurons in a Network—and Amazingly, It Worked",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }
