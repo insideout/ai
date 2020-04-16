@@ -26,6 +26,6 @@ images:
     height: 675
     title: "Can AI keep firefighters safe on the frontline?"
 
-secured: "O1c6qLmZB3MjjSBHdpZuNZDP+wDE03PubC/7q9Mus49OsHyptiPZtB6SLUIdfRa0qRY8tn4VlHXerCfItX4APBUQdAm6SDpt5dr0CfWLRPGttSw2Cbvb1cGlWOfdF0cyro9VrvT5Kf5Mnr9J+oNec/zfIY4g+EOXiYt/rzlyWn37S+XG6BJzv/8mkkqCDgRGu3LOClvoXZsVJpcXksh0X48W94ajUIDxj/0gZWzxUaBfdpnTg7lGT+9X+lCW/m9M3Db6OwJBb963ZTPgBb8hbezseBvOYPLOWjdfX8YmjTU8+3eQss8s0QooqkmXhPw0;q2cBUIq3Pg33edrT97Hc5Q=="
+secured: "lZG6m90rlwdFUIH5dIWWr6mUp7m2MO6EOrZt8z7EVWLTpxAaoHXbcxRksP+ce9cIi9LeSAqqrywiesebxTWYByBxD/oxvmpo5H7Yokqc/gKvds/t+/hJ2adF/V++pLpqpDe0XqHhO2r4P7W5bgNQCPYQtHPiLLTOJ8E3IQhza5wZKxLi6KNI94lj457PraS52ELzpPmIe68y1epXD4bi60eTyShl5EWy4nyZZP9DyYALb/gcMHOWRSkJRcxWb1zizm3ejIh7A7Eyi/Kgzg1xhCkVhq2ChUO0cMT+PhQhl/4fv6qnsE/moQleybzW2ljoc5cMaO0Q2gh0foIsbnPau3rL3BknWWyF7ftIdMKFZM+XetWwtD0pkZGF+zaqu6Ubl4p5TKUVADs0TeRCjFtQgYU/lBy/elGIYJ/0JMBECtVDQ2Km4jPqoLESINGnIj0DjTY7LmBCWNwtTUFLaCqGxTAYCVGsXhTw796pLVdwu/8=;SHb03SkK6W67XHEy161aZQ=="
 ---
 

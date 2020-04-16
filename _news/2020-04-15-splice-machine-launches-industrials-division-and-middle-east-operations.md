@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Splice Machine Launches Industrials Division and Middle East Operations"
-excerpt: "SAN FRANCISCO, April 15, 2020 /PRNewswire/ -- Splice Machine, the leading scale-out SQL database with native machine learning, has today announced that it has launched a new Industrials division, including establishing a Middle East presence in Riyadh, Saudi Arabia. The new regional office will focus on providing predictive maintenance for ..."
-publishedDateTime: 2020-04-15T17:30:00Z
-webUrl: "https://www.prnewswire.com/ae/news-releases/splice-machine-launches-industrials-division-and-middle-east-operations-301040683.html"
+excerpt: "Splice Machine, the leading scale-out SQL database with native machine learning, has today announced that it has launched a new"
+publishedDateTime: 2020-04-15T12:30:00Z
+webUrl: "https://www.prnewswire.com/news-releases/splice-machine-launches-industrials-division-and-middle-east-operations-301040683.html"
 type: article
 quality: 24
 heat: 24
@@ -14,7 +14,7 @@ provider:
   domain: prnewswire.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 628
     title: "Splice Machine Launches Industrials Division and Middle East Operations"
 
-secured: "VoNrjN4kcmQKxOsF47ll8dwX0qOqc0In8MdfS9H/Fc71koocVADyU29g+Pieqtxg7Dlm5TZuk/O0tdyVoEtSfCT5vqHMVVzx4ODRCa7Dt6KYy7NTjLcglBoEaXV5vQh2FvqABZyeVr9UNIb/ZRnvO9yVloxVT/8jtKWkjkrytziPlQtIYXmdlQqcJUeiA08UBXbhTyDphC4j+oASX35GMvOLQ1xwpv7r350HBWifoGoo+b9uVTZNoQDOnpwcOewnaUG0/E4i9gOQb8Y/FCwN6g8d1zTwhKlhoJLyrqJxM0rZQarnjZQC0Mx2e25ghCeT;zvI/db6PMyPdQQmgp5LOLw=="
+secured: "hcdIDd6O8PPGg2DHlpzNpPsR+iHUjmxfb8A3vnXPidtiud68ZdEQ7AdEyREBGeNGQqs1wt/DU4uKPnHZpi6fZ4Mo0S8j/Fp/hvunGb9bxWGnx224qGJJr/IdZ4bndWecNqUL9a3wKO9pntW7QunOIwDh2ih+TB8+xGDlbGBrq0T5R8qkrDYI88C9j6Bh2tCNBQp73UfKD+IGYIlpH81bUpo5gBrOjWSWchxsBnWk5ST2h44fkxQzIasqUEX06Mm2oqylss+cTCJDSdjn1rHLOqNwW9WS2bsTsy/J2qFlPDUz4lVeQ7JTwyoWRSG67u3H;d3C6z6JHB3Bm98xuaezTAA=="
 ---
 

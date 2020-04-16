@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/15/edited-raises-29-million-to-optim
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Edited raises $29 million to optimize product pricing with AI"
 
-secured: "7Xe7Tw07S0p4FThNQNOPZZMCG603NogEubujCr+6L/e3/KIdYw9e3Eoj7IG237cTlfJG1rS+JwI7ttCSxg+RGo7+1QDlZvAPV3CwW0Sv1I+xqE4AF3VVk6QuuHhaAk+Y5/ObbSBitdR2mnsmcrtyW5+2P/L6S7BC3K/P4C2Vetf4dWav4DM1R7Y7tyCKoXn3aSAnwkX2smhjUas48cNTURbyyBHL7viDhX1c+KAlEe38mSY828fax4leLHIxW1T8k4hlbwIEsRN/LjJPlBky6quQ37CJNuZtWieCmya3gR+1FspKioHVrKDJrnBSbzIV;xExKOwxPL2AgSEhBb68zhw=="
+secured: "2qwFThyS2cmllphdhNH9v0QqVN3R/xVknInBJbikoxc80vGyaouhitI1nZF4j85S00KSIdwRvFv4w4mKFCC7HghaHBsqk9q06Mc7UMVt9jqzcty/kyVPTniiHqhLZ7WzNeWNTm6s0EfUTPEm8EapkyA6QHh42cDkq8CWYyHbgEdJJPRaESZZZru1UwJ0uaEVfaYb23FOPADDdXTmGXzczrqC4QzXbBTvI0fLvh8GSEQrpMHYZFa9x/LHistVyB60Nhu+PKN9JprDE44G4Hur624kDBNV5XLl6zYxOuH2qj1d+qX1S1KPtrRS7kSqqVOw;UKtnsRNhR75fgVauckQkmQ=="
 ---
 

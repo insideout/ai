@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-14T13:47:00Z
 webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
 quality: 64
-heat: 67
+heat: 64
 published: false
 
 provider:

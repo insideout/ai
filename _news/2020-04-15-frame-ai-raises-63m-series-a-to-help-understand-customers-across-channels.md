@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-h
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 682
     title: "Frame AI raises $6.3M Series A to help understand customers across channels"
 
-secured: "9AOHo29Xc/fs8wR3cCUjYSt0+Rn/TMgbf31AsUH2Igy34cEQEZSf/t3E2CV4FQ3F2lfSRbZQrhkOh4IKEq0VpDciTEgCR8YOcjWDs94A0zt7H7lZsaa5F63ofK+9ivKnL5/pfv8YbwBvtRpArXbwKGXquEeYAu4Kvjsvz3FXcoYGZMtJAtCg4QzCVjxyMsnRO9M24S9dBz/1GBmqHVSL0MF8awLiNwzCGYVh5P+vBO8uf7GYLYdoQEopmDuL6Ud4IMUxrw9YzdtUeoRDVyK1vZr0ZrChaZdAa+hylbKxvLh3gwEiUfX8VG4GrNb89OitmTN36+G3pc0UrLddTLlx/22AZApLlLpYWR49SiA2nyVCznq+8U7AhvRCdsfsoFOG8vVB/gQQPkneU5etEOAL0YHx2+7Mfl8bkyNAWuQAzRnRUJh6qMEe2te7qLDbl/OpzkGXtUo76+YyHirGRYbyeHOK9CG7ZHvok9ZFuFYTajE=;eCNxSz4GBbOvYzIrndl8VQ=="
+secured: "SHsOq31h8qBHhTL5dHzFnfUO3fe8SBj8/d50eHm18gAysdMrdjZHhjKDecFI1vQ0Rs+x6XuRirsQUfxCBXGN6YNHF6Cc/Ql2YrWghK9Kkp2xx4Qxlq2P8qflseIbAAEIKnlKVpQDYBqxzP/Sb/VNiG+57ZewHimGDgta0a4+mcDxeDF2WhFcpm1NWfyVoAUOWBcUyqJndmXK95+gkOHU5Q785jifxN53QtP2nBRszZhrOQ03eIP3UtSZ8juVldTLGWaDBvhKI6nN9q2EU97Na5jUX5Ra3V0FpP7vugUJPDtB4yHELHDMAFKT3W32S6Nkog1wnoH1D5ePWeLH9tj0Vcy8ycQMovCBK1RxhUdGqLAkZ8tLxi8JIiaD8i1Io5WSoOb5t3r4ijjwoOc7/8bc4/pb62ybWnCWtezdG9xCd3YPjHOpui+wcerh6NXJl+opv2pAj8mWkIHAVjQA4vNkC6rf6Kxyio1ceOzs8e6hCPo=;Lv7U1paZL/io1U1OLgxwfA=="
 ---
 

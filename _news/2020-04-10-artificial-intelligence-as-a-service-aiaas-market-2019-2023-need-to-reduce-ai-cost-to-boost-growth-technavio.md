@@ -1,42 +1,25 @@
 ---
 category: news
 title: "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio"
-excerpt: "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers ..."
+excerpt: "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period."
 publishedDateTime: 2020-04-10T11:30:00Z
-webUrl: "https://www.businesswire.com/news/home/20200410005079/en/Artificial-Intelligence-as-a-Service-AIaaS-Market-2019-2023-Reduce-AI"
+webUrl: "https://www.register-herald.com/region/artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to/article_60905b39-6f72-547d-8ec5-a2ca4ff1c12a.html"
 type: article
-quality: 30
-heat: -1
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: The Register-Herald
+  domain: register-herald.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20200410005079/en/784312/23/IRTNTR30279.jpg"
-    width: 1200
-    height: 627
+  - url: "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/56/d56fd7d1-9b5f-510e-ab82-2929c2a90a99/5e905cb07d069.image.jpg?resize=1000%2C564"
+    width: 1000
+    height: 564
     title: "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio"
 
-related:
-  - title: "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio"
-    excerpt: "Need to reduce AI cost has been instrumental in driving the growth of the market. Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023: Segmentation Artificial Intelligence-as-a-Service (AIaaS) Market is segmented as below: End-user Retail and healthcare BFSI Telecommunications Government and defense Others Geographic Landscape"
-    publishedDateTime: 2020-04-11T05:43:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-04/49354075-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 32
-    images:
-      - url: "https://mms.businesswire.com/media/20200410005079/en/784312/4/IRTNTR30279.jpg"
-        width: 480
-        height: 271
-
-secured: "X3zj5qf54N5tM47TGXlutGPMAECuJZfR7VdNSxaybtuZPaDraoHxgLzSArr2qIlA22x1mgJueZHiUqf+nZO0A5AOmDfNGq0av141/+l5jZMl5Haafl5hqFyZW2YI5KTJLZUgfYdA4YOYhuQNnK06WxTkxybvY0VBXkO9sYvJq4LK0mAT6SaLJENwEZmeQwBeVWeAu1BKi8bgsxi6iW2fi/vHL9j9hTM4qd8zmVAMIwI3CPieMe8K7i1r8Fgdcde7OVJ2iptfEjwdighfJXTEyVjw4+W+YygefmoZlffW9LQb+G8TcOd7HNwl24C9LCqFfFRAiTWukmH2iDcoo+ocNY/ELhO5HowLIVbcx8V6EdUdCfTlK6hMzx/kXaiJ3RNFe+Bk/bmou20WtOjLbuyQXRTrdmUNV3IeuhrWs2+E+9NcTLQEn0qPb060zNGgGzvtOpfs0jGSwZ0KC6g9SqEDvy5eN/xW84/7vIcTcOL9Jao=;xr1UoYizzWO7LzwiccMMew=="
+secured: "dXoDqQHpVbYZ+EfQEcYGvbTxERNFVDJl/f1CZ1kEINaFWgT6mqTsF9QrUNeBHhMlMYxYTSDhzg5dRCZWHk9NaC/i/d+l5pvjFeGXLU1yaYOWFLSLG7BNUdS89cuJN1nJ5PKzKOwB0BRJoq5K2u88UbqqphXSLzY8CG/qSDNtICvOE3Kp2jB/wak3LuyHRo8JiHRFuq1FvciDAEsMMTYd8WqGpv0yjF6l0m6YbseUzv4yr1j21Iq0F6NwLephY9BT4Qvhc1QsVs+wAiP54c78KUjsrECKLVwM7Ksi8e6M6+jKFA1r3QcS8lnfiIUWH2c9;ZIpuP6SYXXEwshngTnuUHw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-12T05:05:00Z
 webUrl: "https://thenextweb.com/syndication/2020/04/12/conversational-ai-might-be-key-to-informing-citizens-about-covid-19/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

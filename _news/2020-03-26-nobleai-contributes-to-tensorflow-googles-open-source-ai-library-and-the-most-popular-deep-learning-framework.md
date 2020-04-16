@@ -13,6 +13,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mma.prnewswire.com/media/1138197/Noble_AI_Logo.jpg?p=facebook"

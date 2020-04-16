@@ -8,7 +8,7 @@ ampWebUrl: "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.
 cdnAmpWebUrl: "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 800
     title: "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense"
 
-secured: "fGhW68n1oj4oLgnywPD0dsyT0ri97U4h/wj+xtgQmWthmgFdqgyhQTGx7mRpBe0BfT3ZAKXeXVQRplEkgxbalBDnJ16qhqmMlPPJj1KkqW8OQA931H44kCEa5kQ2oR6FiM6wuC5oypHYOyUJY+U2KZPDV8TbZvz/vG9wLNrZ0I2oWpBjh1+tsUYTPlOmpxOniluUmvzLVX3hTlSCs+5EUMKiLjAA3id5ysAGv6DoqFteMCwVd9aHhFtEjwcbjQfFfYid3OTzpZqlRcjV9j0xMnBow9L6Shs97tuBB1p9SJXf4HQGOEIA+twPcfbBwUfL;zcXlU9y+jVHjBmVanyl4cQ=="
+secured: "IqsOd6DSomvyRkyyeRKASJb7GyFFu3oJh9GOU+HobBst6BqisuX5Rn9vBjM8qDYjfgtDy88XVguTQleA7yPZ738Y/loT1fpPatsydcGYK5KKplgDiiVpeEMnXYHnP4Zz1ITzyLOQWCtlmnEgXNUMOi8atuUFEWRXQYCxSlYb3Pddh/4YgoBcb7xZIut+FPe/cexGfkzNoRNebcmXinb9NAXsyDj0V4WruvgDZUKd33FYNo9y6eftfHCYbYMmsRczyc2OKSeNUzEx3ZgxjuC8EhDZuK8h3V18EYtVWV4CXE15+VfpWQRGi/YK0aBCmZeq;ozAHHqa+NxGFcsbFkJlRtA=="
 ---
 

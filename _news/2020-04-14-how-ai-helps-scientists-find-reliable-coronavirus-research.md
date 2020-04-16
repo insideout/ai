@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-fin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
       domain: bostonglobe.com
     quality: 21
 
-secured: "6YEgfiBCHbMjLBlNT7YdCMek/6wD1JwVurufqhNk7AZOpenWddkEyeuEYRYr7bEXrhb5YmwQvVAPQR0PR+RccPxMyE3akIDnbB/vfUW7WGrIN49Bmkv2d2gm3unduqiEVJtG3tBq7v2LLVY5WotPTwdG9tSyaDo+7h6dxCBieWsYv90BercGX6bokfFoqlN8Ckw7OCCNAUkAGErrY59Zdx+wSiVnEFyp5fCyky78RcjjFLdzS2eqKKZN7SJt4ooV62OgymzQx+zfTkpRvHNsOgg04UqamPNN8fOqeqr6yQMSd+Iy7ZIy93nxVraBttotvfXgBPcaGSiV2dZudHqXWV0Axm56VN201OEskMWj0o4Vf+YoSAXQCfgic+G7hm+svhddjO1R8oHNijHWXhcmeVghgS1weDOZDMtPSKgDqaWwkGVe8L/nZsNo9qxrBx2bc1xSgzeoOcL1x6pZEKQxHk2wP+eRG9CNG4Gx3xMRe5s=;NV7AGdx8j0IzlOCy7jp7sw=="
+secured: "ekLqFdXpDm2V7ddyC7zYTz4y5r3cLzuC1qH19bimTeUcsDBG/RCGzNYFAyVjRRTfgbJ3D8LY6IzWYN7cuqE4WYUO0XUm3c1YRgo/VLPUKmlMlf6HyNmcbkML2dUvt69yQ4AvNtGw6KXc0GvVbhRmgNkLhsZDI84DfwDHhdhNT10P/RsdbFOdIoEsguzWEf+472AK4B4k9te4q+jWkU9x5CT7DiPPDmLivP/I3zMHjkTn5yXptdu/L6l1pWBHuGxSa2E1LEZXviWPNqLDCsFQQH4TusFm92P5HsRyNGqPLi8h9CGVOhKujQfHdjF0JQJvuw/Da/9K3awsF4KxenNHkMg5IiQSeSl9q71fJCwNoMNZ8rAN663UUJfp7GkHdgpO2rte+11mZJleO9UoGpmp1TPe860FG1PuOt2OExXsuleTC7NQsJQadT5jUoybqd5WO3CKgUUeK0N1dOT+KY27lW4EqcP87fWahaQCot+2ZxQ=;JCZM/ejqBRsYkOgz2g8g8Q=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verificatio
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,19 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot_2020-04-15-Awake-Security-Technology-Walkthrough.png?fit=1244%2C661&strip=all"
         width: 1244
         height: 661
+  - title: "ID recognition + face verification technologies: the alliance for digital freedom or servitude?"
+    excerpt: "Today, multi-factor authentication seems to be the only solution to user verification, namely a combination of ID document and biometric face recognition. The process would go like this: upon successful recognition of document fields, including the photo — which most ID documents have, — the technology checks the document on falsification ..."
+    publishedDateTime: 2020-04-15T15:34:00Z
+    webUrl: "https://www.biometricupdate.com/202004/id-recognition-face-verification-technologies-the-alliance-for-digital-freedom-or-servitude"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 12
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/08/14141716/identity-document-and-smartphone.jpg"
+        width: 770
+        height: 420
 
 secured: "Jt6BUpG5XzEXgjZMyBvOZeouOoJo3vFVswQMCWQTJ5VEsGxNfA2dPiAH6ORf0p/Ow5wlAih2EIaIrnx9PveXEB2nhi+R1rkrX5zRP2Sk2rpvat1WycSj6tF83iQGpIbrU9X7MkpKeTTjywgJgQi6InSo/orkinL9SAg2klNV5hhPJybsMY1Q7PZtzey434yDgxbwh5yUZ2ALLaLRb0FIIFMrWRaOAvm6u4HhvQmfjuISZsSr9HF3ZAa9yaaHoqkhUt5SONQceEGN85PQ9T84mTl5pBYmdhtc6W9xq6AEgQiZ8Po7KQ/IsVDANi9yLvUU;zS23E4bQut/Hwlc/EdQT7A=="
 ---

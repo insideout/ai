@@ -8,7 +8,7 @@ ampWebUrl: "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fi
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP"
 type: article
 quality: 74
-heat: 77
+heat: 74
 published: true
 
 provider:
