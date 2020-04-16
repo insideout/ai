@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 623
     title: "10 Ways AI Can Improve Digital Transformation's Success Rate"
 
-secured: "5JqNuc9otEfvkF2VrUJwaBmjVVZq/e4AbKosxkAq5g6rKeYCg3pFJ0TrNBRl7VDFFnT+yJLbwI9dsyJYIwAOCxd4YZB6gluZh003s+G7IOQKpUJuD8USKVI/lyACF6xdSaHn0iBjPnkcnibuqhEpTGgfUIlUDowzotGKsU2Z+8uFin3kyaawTTCqSZIOMD99CJeICkGVLLe/C+Y3rsNMlljrXWg8kWd8w1y+LWc25knoOV9PSibhfAHLxUJpPj+xnktIF8vJlwCOBjrR0LabFnU/PkkSvir162J83ZBmy63N8M3qHL/fI8UgqHV3NvhL3XMYIeTwFAtgOojkYIx6o4AGlasz7xIfSLzRv7/sgBQg6Z4HKLSfy3IaUtR4bqBeeb3UuE8EBeQ5zOWXHV4zftVtn1QpT9aBxoPXLJUhuHaqFSNVvPQGSCzDKG7G5SlIjVCK11jgsw/W+RcnNc8IWFoz/kW5ADA02togYhBlxJ4=;WCw4ZVYxE4w0n3BtcpIh5A=="
+secured: "nngwATF7kwz+RRXUE3wH8afPcceJOD1qTqvb6oSnBMWx9rMsD0sA2AEak+pF3YzZbQqOG5Bjj885Kvx5N7IknMh7vtcIMK4NVkirmItav7l2zSihY2eIIVmJW9sNo+IrpleyoXKGAx3qIZOmpEzp0EBoFphfFyeU9XfN5ehPA4GUcqfvpk8mkuEzgy3jruEujM49PrQkkDmuSusy4CgWE+0oV+NfNFg/EmlDl20tOpZGTNgS9rVWdaSu7IN/JtC1lvNcslJTInPWtP8C2z0223zH1RWUeAj4o8uBMcdVEprUogYcTHg11QyRxF8tvqU6Is7Iv5esKBtOefM7dyIklql0VUyljSDFj/Aw0b+FkzkcMthiQjjFe32B2gdjaGrvVnspqX1vcnicy9b2oeB6REsZ/xiKFyUTdeZTCtuKR1gSZwQ46lNj52r+eFVT1EJTn++tc0XhrPTy4quDqmd4fl9IQ0W81LuuLLonynxDbhE=;FKRIokTN1b57mUQKH+FiDQ=="
 ---
 

@@ -2,6 +2,35 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-03-03-machine-learning-25-million-students-in-the-country-to-train-on-ai-soon.md",
+      "title": "Machine Learning! 2.5 million students in the country to train on AI soon",
+      "excerpt": "Last week, NITI Aayog’s Atal Innovation Mission (AIM), in collaboration with the National Association of Software and Services Companies ... AI and machine learning touted to form the basis ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/",
+      "ampWebUrl": "https://www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/machine-learning-2-5-million-students-in-the-country-to-train-on-ai-soon/1886957/lite/",
+      "publishedDateTime": "2020-03-02T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
       "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
       "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
@@ -1237,50 +1266,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-28-rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai.md",
-      "title": "RSA CTO outlines pitfalls to avoid when operationalizing AI",
-      "excerpt": "Ramzan leads technology strategy for the organization and holds more than 50 patents. He said that AI and machine learning have been part of the security world for more than a decade. The difference now is that people are talking about the tool instead of the problem. \"The focus became the mechanism for solving the problem instead of the actual ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/rsa-cto-outlines-pitfalls-to-avoid-when-operationalizing-ai/",
-      "publishedDateTime": "2020-02-28T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/27/ec6f77a5-8dc5-430b-9e5a-4a21acbb2bbf/resize/1200x/1ba6e5e4b1e825599800a381001f43b9/screen-shot-2020-02-27-at-3-16-08-pm.png",
-          "width": 1200,
-          "height": 756,
-          "title": "RSA CTO outlines pitfalls to avoid when operationalizing AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

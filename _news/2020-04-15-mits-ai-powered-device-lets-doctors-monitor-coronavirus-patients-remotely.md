@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 349
     title: "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely"
 
-secured: "MP7lzVvdwWnXt3264ugTFhSpdphfcgiBK5TRZ9DB8Vgrj9hcB5rIdMALqLyyIiUXp0E5qNRLsv1gOR2lCW2i1wZzSpQtcz9D49P7XMFkxPvCfuCc75BFZZSrF2asxQzhJj3bWnKOVLI9TAMcRO/wW5104RvAr51/C6YC2xMAKIrW/uHoxuAN3WwGax4M+FOU+I3q35L0m3cbh1xDwwQ7jo3LiuFlIRH9q56UZhpXBd3iCP3LtTkab1wh0Os320gSp6TD2ZZ0g6SSIm13c/CNWJNArtj6IRfp7PLIwE97AtkB5QxXil+g0U7AVEgcueES2+g/lfOyKUPHHdLQlFxcKPFmt3EapHa2Bm0LwYdEG8sjNZZYjNxcDCahQfLdAdfgAWjWlS+7TbX6MC0NYM7dx6+VsiCpECpY+iWsayZO4ROGVyYtq153NE/wBHDpEIDvcRlFsCYqJFWZ78ANHhrydvP4rOHcW6TW6wZDnbkkoDA=;Wg5jR+FKa4Q75n4xWUWTTQ=="
+secured: "oWEjpElSfrDkXymwEmfpZyHVAKJPbRt2kWkTskrmYkOzF2/AfL/I7TAinMrumY6L8sMpOV1vja6U9dAhjXkn+XKszFmyG8v6Kx2e2jojjIMKP0SHa3I23vktSP9uy+j2EPVcgx3K4Weot/fyQlnli8SLxKfFoYkVP3x3snEcxZ1AZJgDXE9uHCNwkn0sWbwqlrCciJen2NCqrkM5vpddyw2s8SiVv0X93tEhoFmKeeRciPE6jq4nCkSNzkpB6gOj92aFn7E969BcYXg+uQNOwZD+rRUYxQLwLDPoRKobX9rffwSC/1/HIl8eK21BZj9HFKG3mpVgvssMGbkZbzeJJmGoYOIg8hq9rUrPCJY4MOSlQgRL9g12jBHkxsp6UJtLT9ner2Y886C49i+nVOG/zVl1VwhM/sXosho9q1E1OhpmRurAlWM2RlXfnG84z7z7YyCHdWG07zxUr7n3VDOgXx0HwK6rU618F9ltz08PMKY=;8V3rAzrZUBj/NMRUBM/CFA=="
 ---
 

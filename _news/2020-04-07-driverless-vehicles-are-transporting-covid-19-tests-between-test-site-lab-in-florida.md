@@ -4,8 +4,8 @@ title: "Driverless vehicles are transporting COVID-19 tests between test site, l
 excerpt: "Driverless vehicles are being used in northeast ... according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using ..."
 publishedDateTime: 2020-04-07T16:37:00Z
 webUrl: "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html"
-ampWebUrl: "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html"
-cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html"
+ampWebUrl: "https://www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-sun--sentinel-com.cdn.ampproject.org/c/s/www.sun-sentinel.com/coronavirus/fl-ne-driverless-vehicles-covid19-tests-20200407-cksqi4yfrfbb7dae57a2am23c4-story.html?outputType=amp"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 635
     title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
 
-secured: "OoI9WOozW0R8VC0Y8Vo4XgmwyrTFhnAxF8h9ZgnWp9XmulG/RgfifLQYvW9D0FnP9SnflRBGVbjVtOrnvVbUTfriDPOb1wrNFnEPAXQImfq3n8hC/Qll5UhKaQjMtFXRbhQrixaUOUW70d8+CsVt/UhNQfv2NkEdFNvwDNWgNQRbn+eUF58YJAm/JHxmLUi7P09n3WVCJRuoof13PrUYKo8ZL1yOiPkckeiiko87QZtILjODQa+wUbeHmDWv9Pv3tX4pa2s036J5MxLmpXCV8RTFDImz0lTOlEheCCMWEYnf2nNxD2BNg7kzBWDEZ4wj;Ve3XzHr/+8cGYe/+SfWHHA=="
+secured: "0k5AllVg3R8UaOxi8AEtkLR7Ax83LZubIHXSvNZOZxhwYlbqY1H3gdFlaKxPc5xD34+g2MN6x5+G0RBkijRAWhyq9UisMEPlRZtJ+WB/ElPZbDDQahqDWXXR0IkT9AUxFUo/Mra5ke3k9rhz6yWRYdFn+VAzEfNIaUa373d/DSUH8md/2zgcxD53o95nPHaERvrLPhqHGb3QNuHNsOb2aNJjIFDnhufWnATd+fuTcgwmRj26MyEGOIhYaa2ULFWZ/n0xXuF+bqrYibHq/tj7IySLZ5Za0vEbLoNlTQp21K3gzC2ELDfm6ILUkHtcRZOk;THDlQcHS499uqmOSzYrl+Q=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp"
 type: article
 quality: 82
-heat: 82
+heat: 85
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 3785
     title: "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025"
 
-secured: "WR36kgEQ30iEqbC5WaR/i9vZ2OGB7RbCfvox2GHwHYZo5UuBWOQrLcT4VPfGchij7b49ot/4iVXk7eOz8sQccRW5zzLnvCBeTNznEUNv3V+rEUZy6TUuTY44LZZORNUss8GX6aRTO8omWSp1VcYUlVVqRcK5r3jzypYFHvY62lXokXneriB8X5SVfY4JxXkEovDt522A4Hb1tpiv5JJSDT4SMfuMEvullVEUaQsnUwk+ZmT53SZLamrwFeUAKV53ZaauRTIFKEivuEtzbBLO4seGxIHHOB2t7QgVdCtIh1H6HYWSFgpv+H4DvrwbcE7Y;nEWhZEHDvKoQ7Saqp2HoPw=="
+secured: "JkZiq2GPk9YmjECyraD84GravDGzFMSI0N54DIIKgpeDQa5oSdc72K1Lt7mVfeOgFGxlp0FSlCErnzIolmhVeLZcl1bPuZkn5ouCI4WPUS3JDAWvfoKbl1BmZaER8pA/mjFQhwVk8v2Lw4FqHM7T1CCghdFtBabJ+U5Et9os4rQVrokNgpgSkcEV2yVFYxBZ1bY7NwFRu3GjKugbMrItTCjz0sclTicIwijKvOnidTjsDw8EVfdBUiOkwlYUHHeIlwRaPcG1/ugnOrZ4+6ckMykwIaf34Sj27eDkcyCg1DUjyvgg6/rRX804bgOrCaWu;iKw07hrpyIo1lT3TxzjfUQ=="
 ---
 
