@@ -41,6 +41,17 @@ related:
       - url: "https://tr3.cbsistatic.com/hub/i/r/2018/11/16/0385ba0d-bb3e-4032-bc04-923383e3a7a8/thumbnail/1200x675/7bf52ee09733fde53fdfa55bd994c88b/20181116steve2teena.jpg"
         width: 1200
         height: 675
+  - title: "Intel, Udacity launch nanodegree program for edge AI developers"
+    excerpt: "Intel and Udacity on Thursday launched a new nanodegree program to help developers learn how to build and deploy deep learning models at the edge. The Intel Edge AI for IoT Developers Nanodegree Program uses the Intel Distribution of OpenVINO toolkit and is designed to accelerate the development and deployment of AI-powered edge devices."
+    publishedDateTime: 2020-04-16T23:01:00Z
+    webUrl: "https://www.zdnet.com/article/intel-udacity-launch-nanodegree-program-for-edge-ai-developers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-udacity-launch-nanodegree-program-for-edge-ai-developers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-udacity-launch-nanodegree-program-for-edge-ai-developers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "Intel & Udacity announce new training program for AI at the edge"
     excerpt: "The goal of the new Intel Edge AI for IoT Developers Nanodegree program is to familiarize developers with ... The course also provides access to Intel’s IoT DevCloud, where students can develop, test and run applications on a variety of Intel chips. Intel said the course costs $1,077 and will take about three months to complete."
     publishedDateTime: 2020-04-16T13:15:00Z

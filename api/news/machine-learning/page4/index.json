@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-19-artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast.md",
+      "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
+      "excerpt": "Artificial Intelligence in Retail Market Global Artificial Intelligence in Retail Market, Application",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-2023-size-share-business-growth-competitive-landscape-historical-analysis-and-forecast-2020-03-19",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market 2023 Size, Share, Business Growth, Competitive Landscape, Historical Analysis and Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-scientists-linked-artificial-and-biological-neurons-in-a-network-and-it-worked.md",
       "title": "Scientists linked artificial and biological neurons in a network — and it worked",
       "excerpt": "Scientists have linked up two silicon-based artificial neurons with a biological one across multiple countries into a fully-functional network. Using standard internet protocols, they established a chain of communication whereby an artificial neuron ...",
@@ -1073,51 +1118,6 @@
           "width": 400,
           "height": 400,
           "title": "Podcast: Applying Deep Learning to Extreme Weather",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-10-questions-about-deep-learning.md",
-      "title": "10 questions about deep learning",
-      "excerpt": "Learn why neural networks are so powerful, how and where they’re used, and how to get started — no programming necessary It seems everywhere you look nowadays, you will find an article that describes a winning strategy using deep learning in a data science problem, or more specifically in the field of artificial intelligence (AI).",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3532058/10-questions-about-deep-learning.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "10 questions about deep learning",
           "attribution": null
         }
       ],

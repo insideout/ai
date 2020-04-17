@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

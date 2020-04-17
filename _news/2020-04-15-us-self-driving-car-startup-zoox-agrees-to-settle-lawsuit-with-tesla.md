@@ -1,33 +1,25 @@
 ---
 category: news
-title: "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla"
-excerpt: "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup."
-publishedDateTime: 2020-04-15T22:59:00Z
-webUrl: "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN21X034"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034"
+title: "U.S. Self-Driving Car Startup Zoox Agrees to Settle Lawsuit With Tesla"
+excerpt: "Tesla lawyers filed a lawsuit in March last year against four former employees and Zoox, alleging the employees stole proprietary information and trade secrets for developing warehousing, logistics and inventory control operations. Zoox said the settlement required it to pay Tesla an undisclosed amount and undergo an audit to ensure that none ..."
+publishedDateTime: 2020-04-15T01:34:00Z
+webUrl: "https://money.usnews.com/investing/news/articles/2020-04-14/us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla"
 type: article
-quality: 89
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H"
-    width: 766
-    height: 545
-    title: "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla"
 
 related:
   - title: "Self-driving startup Zoox settles with Tesla over trade secret theft"
@@ -129,6 +121,6 @@ related:
         width: 800
         height: 600
 
-secured: "9x8VjkOU5+NkCyQAmV8wuSAVWKrvYBGpbOypTJ5JqTGNy9zgyWN0jyfDE7H2AtnZim+/CRnL+Gzp1UifzH83q5jJ6sgpJC/9Myn0XkdtwqBzL+jS5J0wGGK9hGsjX1kkoSCZ+r6aJqQZW4WZBUzuLBs/HpHVfgm43j9h1zl4o/BTuTSHlxb9xL+KAUWKQHJdE9nNB1X1knNpFk/IvCH/rpdJ8oQVwv1SyvFt4ITQJ6entqcbrS4qMlpIKdhbrHBnDPl6rww6OFseng8K6MgPqDiK5WdcAjUH4XA3FmajgGPO1CuNdBrnfn+S6lbD6uPCmyzyC7LdUF/4hbXa5qlYFy3ePJ28gPKYKE60rD6UWMR/wUthr8h0z8wy+GFTxNpXXcDgERTDLddXvtRDYpBw+Cj9gjIcwwh5K3XRavLWTpiefIOj4CC1Hyx2bKCFdxmUtwdKMp6RGKCeLX7dAhubeiyfxxKzU99vosc1RF5lT0c=;8bmLd1hlvZrgvRhajGE+Mw=="
+secured: "MItgNfWfxAgERUgWOo6SzAYrMENfNEOQ+YygeWbHFTeRjgzwGSATa39aYP2g2wWQzo5eNka4AQ+8YS8psHaovehNujrDWjQhiPbeWAdg3ZWqAj6rYgPLJnl4MNbPtNyuxKTqWeXPQ9JfpfuqjfcjFKRkGo5q/kiJquxk2RKvlYbscqqOTQBYBIc2WEW1w2aVy9edd34BQXLJyTwQeVvNSMIppoDyTqDSc4VOvIQjceAxJkpp4/7VQ8TdkanR8VcsQt0cfxve3X0fQLHD+1M+M8JZblelfdtriLRTxFUgdzM/wfee3e8Y0rb6ioX9xynCJL8rvYj8YWCyWRaSNfaxpOYUIFDlNSy/Kzg0NrrYuncWMn0KQORBaybod82yMrU7Lq9ASY21WzOsYRNBo5UA+EOOwAXs6DarWDuD9Ry82MCm4r+yuGhm0nt5C+JONFt0kGV1wf8tg3e0ArVV/PKZHOzgd9Spuod4rokqW5w9KuY=;kr8YqjIctNW0ORz7oCQuYw=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-16-venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days.md",
+      "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
+      "excerpt": "Transform will also host its popular Women-in-AI breakfast, sponsored by Intel and Capital One. Transform will include a focus on diversity and inclusion topics, reflecting how ethics has become an important part of smart AI practice, and host its 2nd annual AI Innovation Awards. VentureBeat’s virtual event will allow AI innovators and ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/venturebeats-flagship-ai-event-transform-goes-fully-digital-and-extends-to-3-days/amp/",
+      "publishedDateTime": "2020-04-16T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/VB-Transform-2020.png?fit=1800%2C1200&strip=all",
+          "width": 1800,
+          "height": 1200,
+          "title": "VentureBeat’s flagship AI event, Transform, goes fully digital and extends to 3 days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-futurelaw-2020-showcases-how-tech-is-transforming-the-law-including-the-impacts-of-ai.md",
       "title": "FutureLaw 2020 Showcases How Tech Is Transforming The Law, Including The Impacts Of AI",
       "excerpt": "As his point vividly suggests, when it comes to law and the practice of law, there is a great deal of human reasoning involved, far beyond the reach of any simplistic calculating machine. Of course, his authoritative remark was proffered in the late 1940s when computers were massive in size and minuscule in computational capabilities when compared to the power of today’s computing,",
@@ -1235,43 +1280,6 @@
           "width": 272,
           "height": 270,
           "title": "Axon Names Dr. Wael Abd-Almageed to AI Ethics Board; Jeff Kunins Quoted",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-5-elements-of-a-comprehensive-government-ai-strategy.md",
-      "title": "5 Elements of a Comprehensive Government AI Strategy",
-      "excerpt": "Strategy architects should identify appropriate performance metrics for the AI, adopt data ethics guardrails, and explicitly define performance standards in terms of accuracy, explainability, transparency and preventing bias. An AI upgrade may require platform, data and technical upgrades. The U.S. Department of Health and Human Services ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html",
-      "ampWebUrl": "https://www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/5-Elements-of-a-Comprehensive-Government-AI-Strategy.html?AMP",
-      "publishedDateTime": "2020-03-18T01:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/amazon+echo.jpg",
-          "width": 770,
-          "height": 513,
-          "title": "5 Elements of a Comprehensive Government AI Strategy",
           "attribution": null
         }
       ],

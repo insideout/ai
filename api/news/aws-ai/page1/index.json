@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-16-aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives.md",
+      "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+      "excerpt": "The recent post Working from Home? Here’s How AWS Can Help shared several ways AWS is helping you set up and scale remote work and work-from-home initiatives. Getting these solutions set up is sometimes best—and achieved more quickly—with expert help. You can get the help you need with AWS IQ, which",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-iq-waives-fees-until-june-30-2020-to-help-you-stand-up-and-scale-remote-work-initiatives/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:40:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/15/no-fee-aws-iq-2.gif",
+          "width": 1000,
+          "height": 380,
+          "title": "AWS IQ waives fees until June 30, 2020, to help you stand up and scale remote work initiatives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-spanish-newscaster-speaking-style-now-available-in-amazon-polly.md",
+      "title": "Spanish Newscaster speaking style now available in Amazon Polly",
+      "excerpt": "Amazon Polly is launching its first non-English Newscaster speaking style voice, Lupe. This female US Spanish voice is the third Newscaster speaking style voice in Amazon Polly, following the launches of US English voices Matthew and Joanna. All Newscaster voices are made possible by the Neural Text-to-Speech",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/spanish-newscaster-speaking-style-now-available-in-amazon-polly/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T11:08:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Spanish Newscaster speaking style now available in Amazon Polly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
       "title": "MindsDB raises $3 million for open source automated machine learning",
       "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
@@ -51,7 +141,7 @@
       "path": "_news/2020-04-15-5-of-the-smartest-stocks-to-buy-with-10000.md",
       "title": "5 of the Smartest Stocks to Buy With $10,000",
       "excerpt": "Through the use of artificial intelligence and copious amounts of data ... But make no mistake about it, cloud-service segment Amazon Web Services (AWS) is where this company's real growth lies. Cloud margins are many times higher than retail margins, which is a good thing considering that AWS is growing more than twice as fast as Amazon's ...",
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
@@ -1181,88 +1271,6 @@
         "AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-aws-machine-learning-ai.md",
-      "title": "AWS Machine Learning / AI",
-      "excerpt": "In this section you will finish up with one last AI tool, Rekognition, and you'll also learn about the deeper side of machine learning with the powerful Sagemaker and Deep Learning Instances on AWS. A fully managed machine learning service is a great place ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pluralsight.com/paths/aws-machine-learning-ai",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png",
-          "width": 512,
-          "height": 512,
-          "title": "AWS Machine Learning / AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-aws-certified-machine-learning-specialty-2020-hands-on.md",
-      "title": "AWS Certified Machine Learning Specialty 2020 - Hands On!",
-      "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.udemy.com/course/aws-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Udemy",
-        "domain": "udemy.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/udemy.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

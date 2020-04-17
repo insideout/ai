@@ -51,7 +51,7 @@
       "path": "_news/2020-04-16-new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases.md",
       "title": "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases",
       "excerpt": "MIT has developed a new model of the spread of COVID-19 infection, based on publicly available data, combined with established epidemiological equations about outbreaks, and neural network-based inference. The model, described in a new report, proves accurate when trained on data spanning late January to early March in terms of anticipating the ...",
-      "heat": 80,
+      "heat": 81,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/",
@@ -514,6 +514,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-10-smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi.md",
+      "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+      "excerpt": "After collecting about 400 images in many different conditions, I uploaded them into Firebase AutoML Vision Edge and had it automatically train a model for us. Upload the data to the Firebase console.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/firebase-developers/smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi-834fa0eaa7c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D_0ACizWrSG-jDfpde6cfQ.png",
+          "width": 1200,
+          "height": 674,
+          "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
       "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
       "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
@@ -894,11 +939,11 @@
     {
       "path": "_news/2020-04-08-insights-on-the-worldwide-automated-machine-learning-market-2020-to-2030-growing-healthcare-industry-presents-opportunities-researchandmarketscom.md",
       "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
-      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the deployment type segment is expected to record the fastest growth during the forecast period.",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/Insights-Worldwide-Automated-Machine-Learning-Market-2020",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T01:36:00-07:00",
@@ -1067,27 +1112,27 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the ...",
+      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T19:03:00-07:00",
+      "publishedDateTime": "2020-04-06T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Finanzen",
+        "domain": "finanzen.net",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -1219,51 +1264,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
-      "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-      "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "publishedDateTime": "2020-04-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

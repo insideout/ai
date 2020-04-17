@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/science/ai-robotics-start-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
@@ -57,6 +57,6 @@ related:
         width: 516
         height: 465
 
-secured: "q3cL3GAhE6av+eeN1k/viNrL32hJvxS0XOhtKdlrd7htlRwfC1iwQcwuMqnvD4bK7GAc6LeRFn5odfNugaJBA+u+8rXQHTg1NWBc2qwhtRdtwExePJOJ6LNU8z447n0dYtF6pSCSnketU2sK+FiNgg9YHG3jKMgGjLqEkX8zGW8a5eU6Zqux25rLcJJSIWG9cJfWGW6pLgpK+tmF/YxEgklw8xIMjNztm7kU5MEK3CP156ojD+MbMzkg39he/mUVMSEkwVEsX3gyvrQxPUxTxR0SR0R8vsu6MNEkjuYggpd528xef3AX/hqYA2RuQN3B;KgOwQ4IloGxKUmJ++lrXXQ=="
+secured: "RSjNXIAQ1GL49IdbteupEbVi3YTJz1HAb5DOzKGbhe3zslUEOCEFtpLunei6IPSZMUAV2u+6m2kz2QsqMvUcFOSpaf4Qtj8cxWP2DTNWLF/3B0o+Q6A3KfCjojbKPTIrssvN/4GNJEeyjk+R7qzueiA5LhNnoKdT8yTlepRQ6t3xjBSyChILNWlz1oWNDSHZgAW4ylUZR+61fISTW2DRUREqUeL5QBECbH9PovI6Sgp6XBW3wM0GMeHVbib7WZgZ5F4ow/WHr4xQQFQT+I/uESqm3JqvXZQYLnmxMioLGElsE/GGV/HqNMukTqH9j3ZEIJQPSGmJRc5cg84kOrL6RLOQ2gramwwUZ174H91uNrxIpYL85xF3ePZNlxJKZTnRYir3br1o1689ZDWKNbc62Zq9ypImgT1Ix2vrL49dmIrl4O6DBWjAkPoGKg/lP2w9BbJwDjyTrPHXrSBXbkA8kdn/BJuU4stbIOT2+cKyOBg=;xiuQFtrYJ3Ki+R2+QDKUnw=="
 ---
 

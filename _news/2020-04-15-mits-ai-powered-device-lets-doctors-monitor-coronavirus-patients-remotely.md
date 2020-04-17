@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:

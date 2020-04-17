@@ -5,7 +5,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
@@ -424,7 +424,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "TensorFlow"
       ]
     },
     {

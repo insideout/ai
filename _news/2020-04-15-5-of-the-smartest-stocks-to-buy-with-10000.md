@@ -8,7 +8,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stoc
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

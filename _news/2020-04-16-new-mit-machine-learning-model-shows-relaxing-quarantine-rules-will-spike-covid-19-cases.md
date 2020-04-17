@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-sho
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/"
 type: article
 quality: 80
-heat: 80
+heat: 81
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 668
     title: "New MIT machine learning model shows relaxing quarantine rules will spike COVID-19 cases"
 
-secured: "UYb6zADqUALAO2gViA/wip5UmTnGBtghyd4zFFSPtUotjU8VUji4tKH9zIIFdsFes8e6zWplZvVCGaEPTTKab719YUwXibw9Jc6y7vcY5k/UaEmUKiVjUzp39KghrKQzGHak2+7ftmlOgdesBmdW+IMTz1XWoeAo/5NjZNfk0yMbon2PecWTXnNGqdqib5rMhzaDLlz/gaP49/RtCtTwTiQ+DMkU0EviHDOvqA18d/sO2ntR8i/7fka3kZXTJpfQ7ryaTQCO2PjZRrO7KEExVT1PykxCeOSd/4Myqk8VrCItGjje3P/WZzd4H+W8xKF6wk8X1hcn/rM/Hxr4empwHkeRj+UEsb7y9jYGOfwRNzK8bXllFRzOVosRi81syIHNkkm4+dPHbYO/1L7ETWos2AFHzr2kp4lCi+sO4saGY2hCzeuoAPRgUTlHCo6maAxQoa3Rwpa5XLhxGoDuBEK5aRgwWJVJv//8V/13Rg72nVk=;Cle5AqdxMwXZ36+Wa+kXUw=="
+secured: "knH/wwnNxQ2OofToPJwBxFPZw2VcdIv2GQI+rzXz44nxR4KKoDlXSBWkXQOUrr8x/57ZkpLlJxdNR1gGpYgWCfDUYimXXSIE2dQtnZxsBsCnk4LBqCU4XxHYknwi4QPNz7lmjGATQoCFcBlO0EkaJQfUlwaRd0gfzBWAPSflfuJoIDnp0Ry+j5Pgg38vBcZSWwkkbrPVDZzJR1t+/VMhNtmosvZdbNbGEJMV1RVbQ3yGHJL8eKNyUaXoV/j0toXVEXAAfzl4lmIejqIHWijqxVa9acxiSFNeT6Q4BAY8w+JW9M/4Wyl/lMTUXFs++q7Od2/8irFRsg3vYFTfx0cheie2D7ILJUAku4mLv0mn4vcqGJBiGAZ8yp6jOMcJQC86PieJs9JjmbO5zZ5iyn0JSiKYfsY2eRd/0D44xCvPw7Swn9KetAhQfRyKdt0c2OYu7OGiDkVgt6mos/XJrKC/+RqeivkbPMzJuMKLHAbzd94=;O4MCozfXJTea6aeir8yC5w=="
 ---
 

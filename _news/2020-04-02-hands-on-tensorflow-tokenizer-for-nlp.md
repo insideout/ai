@@ -17,6 +17,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://miro.medium.com/max/770/1*Y8VE4Swklmj-LtCEXh_rxw.png"

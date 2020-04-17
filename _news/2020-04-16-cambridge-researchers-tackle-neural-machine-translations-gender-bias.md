@@ -26,6 +26,21 @@ images:
     title: "Cambridge Researchers Tackle Neural Machine Translation’s Gender Bias"
 
 related:
+  - title: "Microsoft Translator now offers real-time translation in five additional Indian languages"
+    excerpt: "these new languages are available via the Microsoft Translator text translation API. “We’re committed to empower every Indian and every business in India by bringing the power of AI into their daily life. Microsoft celebrates the diversity of languages in India and wants to make the vast internet even more accessible. We have supported ..."
+    publishedDateTime: 2020-04-16T15:00:00Z
+    webUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/"
+    ampWebUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/amp/"
+    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-translator-translation-languages/amp/"
+    type: article
+    provider:
+      name: MSPoweruser
+      domain: mspoweruser.com
+    quality: 35
+    images:
+      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-Translator-India.jpg"
+        width: 874
+        height: 583
   - title: "Microsoft now offers real-time translation for ten Indian languages in Microsoft Translator and other products"
     excerpt: "Language translation is a core part of Microsoft products and services. These languages are available now on all Microsoft Translator apps, add-ins, Bing Translator, Microsoft Office and through the Azure Cognitive Services Translator API for businesses and developers. Microsoft provides APIs on Azure that organizations can use in their ..."
     publishedDateTime: 2020-04-16T12:01:00Z

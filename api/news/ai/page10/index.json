@@ -2,6 +2,569 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
+      "title": "AI & Blockchain: Transforming the banking sector",
+      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "publishedDateTime": "2020-04-06T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
+          "width": 378,
+          "height": 213,
+          "title": "AI & Blockchain: Transforming the banking sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
+      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/facial-recognition-market-size-share--trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020---2027-301035717.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-samsung-demonstrates-worlds-first-mcptx-video-call-on-aws.md",
+      "title": "Samsung Demonstrates World’s First MCPTX Video Call on AWS",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200406005496/en/Samsung-Demonstrates-World’s-MCPTX-Video-Call-AWS",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200406005496/en/783465/23/Samsung_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Samsung Demonstrates World’s First MCPTX Video Call on AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
+      "title": "Microsoft Azure Speech to Text review",
+      "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/reviews/microsoft-azure-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T06:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/a2keRkLBXmPhMntS5HAZci-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft Azure Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans.md",
+      "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
+      "excerpt": "AI has revealed that mice have a range of facial expressions that show they feel — offering fresh clues about how emotional responses arise in human brains. Scientists at the Max Planck Institute of Neurobiology in Germany made the discovery by recording the faces of lab mice when they were exposed to different stimuli, such as sweet flavors ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/ai-reveals-that-mices-faces-express-a-range-of-emotions-just-like-humans/amp/",
+      "publishedDateTime": "2020-04-06T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design51-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "AI reveals that mice’s faces express a range of emotions — just like humans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-artificial-intelligence-that-can-diagnose-covid-19-using-x-rays-could-help-identify-cases-of-coronavirus-more-quickly-and-predict-outcomes-for-patients-computer-programmers-claim.md",
+      "title": "Artificial Intelligence that can diagnose COVID-19 using X-RAYS could help identify cases of coronavirus more quickly and predict outcomes for patients, computer programmers claim",
+      "excerpt": "Developers at the Oxford-based data-visualisation company, Zegami, have created a machine learning model that can diagnose the virus from the images.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8191549/Artificial-Intelligence-help-diagnose-COVID-19-using-X-RAYS.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8191549/amp/Artificial-Intelligence-help-diagnose-COVID-19-using-X-RAYS.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8191549/amp/Artificial-Intelligence-help-diagnose-COVID-19-using-X-RAYS.html",
+      "publishedDateTime": "2020-04-06T05:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/04/06/12/26862700-0-image-a-6_1586171210666.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Artificial Intelligence that can diagnose COVID-19 using X-RAYS could help identify cases of coronavirus more quickly and predict outcomes for patients, computer programmers claim",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-velodyne-lidar-blames-pandemic-for-sudden-job-cut-its-being-sued-over.md",
+      "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
+      "excerpt": "Velodyne Lidar, the San Jose autonomous driving sensor pioneer, says it cut jobs last week because of \"sudden and unexpected\" changes caused by the coronavirus pandemic. A worker lawsuit accuses it of using the crisis as cover for moving jobs overseas.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/04/06/velodyne-lidar-job-cuts-covid-19-pandemic-lawsuit.amp.html",
+      "publishedDateTime": "2020-04-06T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11235449/velodyne-4-022619*600xx3427-2285-0-0.jpg",
+          "width": 600,
+          "height": 400,
+          "title": "Velodyne Lidar blames pandemic for sudden job cut it's being sued over",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-watson-speech-to-text-review.md",
+      "title": "Watson Speech to Text review",
+      "excerpt": "But price, integration complexity, and somewhat patchy BETA features may put some businesses off. Watson is IBM’s natural-language-processing computer system. It powers the famous question-answering supercomputer as well as a series of AI-based enterprise products, including Watson Speech to Text. In our Watson Speech to Text review ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/uk/reviews/watson-speech-to-text-review",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6WnT9aAw8R87L9RDATTztk-1200-80.jpg",
+          "width": 1200,
+          "height": 712,
+          "title": "Watson Speech to Text review",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-the-top-10-most-innovative-and-disruptive-insurtech-companies.md",
+      "title": "The top 10 most innovative and disruptive Insurtech companies",
+      "excerpt": "Brolly, as the first insurtech advisory app in the UK to be powered by artificial intelligence, provides customers with vital insights into their ... with Trov helping to power emerging mobility services. Customers include Waymo, Groupe PSA, Suncorp (Australia) and Sompo (Japan), with Trov delivering modern insurance solutions built with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.information-age.com/the-top-10-most-innovative-insurtech-companies-123488729/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/04/the-top-10-most-innovative-insurtech-businesses-2020.jpeg",
+          "width": 1013,
+          "height": 675,
+          "title": "The top 10 most innovative and disruptive Insurtech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
+      "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+      "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money-11586103205",
+      "publishedDateTime": "2020-04-05T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-172689/social",
+          "width": 1280,
+          "height": 640,
+          "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-ai-translates-human-brain-signals-to-text.md",
+      "title": "AI Translates Human Brain Signals to Text",
+      "excerpt": "Now scientists are one step closer towards a computer interface driven by human thoughts. Neuroscientists at the University of California, San Francisco (UCSF) published a study last week in Nature Neuroscience that shows how their brain-computer interface (BCI) is able to translate human brain activity into text with relatively high accuracy and at natural-speech rates using artificial intelligence (AI) machine learning.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202004/ai-translates-human-brain-signals-text",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-05T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-heres-the-top-stock-to-buy-with-your-coronavirus-stimulus-check.md",
+      "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
+      "excerpt": "Alphabet's artificial intelligence (AI) initiatives should open up a ginormous market opportunity for the company. Its Google Nest AI-enabled smart home products represent just the tip of the iceberg. My view is that Alphabet's Waymo self-driving car business could really take off over the next decade. I'm not the only one who is optimistic ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/05/heres-the-top-stock-to-buy-with-your-coronavirus-s.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-05T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/566132/us-capitol-building-with-100-bills.jpg",
+          "width": 2160,
+          "height": 1387,
+          "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-rd-roundup-ultrasoundai-medical-imaging-assistive-exoskeletons-and-neural-weather-modeling.md",
+      "title": "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling",
+      "excerpt": "Another approach from Stanford applies deep learning techniques to ultrasound imagery and shows that an AI agent can recognize the parts of the heart and record the efficiency with which it is moving blood with accuracy comparable to experts. As with other medical imagery AIs, this isn’t about replacing a doctor but augmenting them ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/05/rd-roundup-ultrasound-ai-imaging-assistive-exoskeleton/amp/",
+      "publishedDateTime": "2020-04-05T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/heartscan2.gif",
+          "width": 800,
+          "height": 457,
+          "title": "R&D Roundup: Ultrasound/AI medical imaging, assistive exoskeletons and neural weather modeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-why-ai-is-transforming-the-banking-industry.md",
+      "title": "Why AI Is Transforming The Banking Industry",
+      "excerpt": "Large banks are industry leaders adopting AI to stay ahead of competition, provide greater customer service to customers, more relevant services and offerings, as well as helping transform many back end processes.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/05/why-ai-is-transforming-the-banking-industry/amp/",
+      "publishedDateTime": "2020-04-05T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e89ef4e3d12df0006ba2e70%2F0x0.jpg",
+          "width": 1200,
+          "height": 1680,
+          "title": "Why AI Is Transforming The Banking Industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-natural-language-processing-for-structuring-clinical-text-data-on-depression-using-uk-cris.md",
       "title": "Natural language processing for structuring clinical text data on depression using UK-CRIS",
       "excerpt": "Natural language processing (NLP) methods can be used to automatically extract clinically relevant information. Objective Our aim is to use natural language processing (NLP) to capture real-world data on individuals with depression from the Clinical Record Interactive Search (CRIS) clinical text to foster the use of electronic healthcare data ...",
@@ -635,600 +1198,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-waymos-halts-self-driving-car-fleet-due-to-coronavirus.md",
-      "title": "Waymo's halts self-driving car fleet due to coronavirus",
-      "excerpt": "Following news Waymo's curtailed its fleet of self-driving car prototypes in California and Arizona, the company has grounded its entire fleet amid the coronavirus outbreak in the",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-operations-suspended-coronavirus/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-operations-suspended-coronavirus/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-operations-suspended-coronavirus/",
-      "publishedDateTime": "2020-04-03T12:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/Wn062NivEwbawPD0C1zzO0xkK3E=/2019/12/05/458deeb0-e5a7-42e8-8be3-7f24819fc3a7/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo's halts self-driving car fleet due to coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-reprogramming-the-american-dream-microsoft-cto-returns-to-rural-roots-to-find-the-future-of-ai.md",
-      "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
-      "excerpt": "Kevin Scott is Microsoft’s chief technology officer, its executive vice president of AI and Research, and the author, with Greg Shaw, of the new book, “Reprogramming the American Dream: From Rural America to Silicon Valley, Making AI Serve Us All.” Scott, who joined Microsoft with its acquisition of LinkedIn, goes back to his roots in ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/",
-      "ampWebUrl": "https://www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/reprogramming-american-dream-microsofts-cto-returns-rural-roots-find-future-ai/amp/",
-      "publishedDateTime": "2020-04-03T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/kevinscott-1-630x441.png",
-          "width": 630,
-          "height": 441,
-          "title": "‘Reprogramming the American Dream’: Microsoft CTO returns to rural roots to find the future of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic.md",
-      "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
-      "excerpt": "Matt Miesnieks, co-founder of 6D.ai, acquired by Niantic this week, told us they “just got in under the wire.” It could be good for the soul to drive less, prepare one’s own food, and clean one’s own home.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/04/03/this-week-in-xr-niantic-nabs-6dai-strivrs-big-raise-vr-sites-snarled-with-traffic/amp/",
-      "publishedDateTime": "2020-04-03T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e878166b0a4e4000746b68c%2F0x0.jpg%3FcropX1%3D1%26cropX2%3D1566%26cropY1%3D0%26cropY2%3D879",
-          "width": 1199,
-          "height": 674,
-          "title": "This Week In XR: Niantic Nabs 6D.ai, Strivr’s Big Raise, VR Sites Snarled With Traffic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report.md",
-      "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
-      "excerpt": "The Algorithmic Justice League has released a spoken word and visual project called “Voicing Erasure” to protest the demographic discrepancies or “bias” identified in popular speech recognition systems on the market, following its recent study of algorithmic bias, AI, and technology, writes VentureBeat. The Algorithmic Justice League ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.biometricupdate.com/202004/algorithmic-justice-league-highlights-automatic-speech-recognition-bias-report",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg",
-          "width": 900,
-          "height": 499,
-          "title": "Algorithmic Justice League highlights automatic speech recognition bias report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-a-conversation-with-kevin-scott-author-of-reprogramming-the-american-dream.md",
-      "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
-      "excerpt": "The post A conversation with Kevin Scott, author of “Reprogramming the American Dream” appeared first on The AI Blog.\n",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://blogs.microsoft.com/ai/kevin-scott-reprogramming-the-american-dream/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T11:04:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/04/kevin-scott-reporgramming-the-american-dream-rural-virginia_1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "A conversation with Kevin Scott, author of “Reprogramming the American Dream”",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-a-more-hopeful-view-of-ais-impact-on-americas-rural-worker.md",
-      "title": "A More Hopeful View of AI’s Impact on America’s Rural Worker",
-      "excerpt": "In a new book, Kevin Scott says artificial intelligence can promote opportunity in the U.S. heartland if it comes with a national investment in education, broadband and businesses.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/a-more-hopeful-view-of-ai-s-impact-on-america-s-rural-worker",
-      "publishedDateTime": "2020-04-03T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
-      "title": "IBM makes AI tools and resources available to coronavirus researchers",
-      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "publishedDateTime": "2020-04-03T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM makes AI tools and resources available to coronavirus researchers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
-      "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
-      "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord",
-      "ampWebUrl": "https://www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
-      "cdnAmpWebUrl": "https://www-gamepur-com.cdn.ampproject.org/c/s/www.gamepur.com/guides/how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord/amp",
-      "publishedDateTime": "2020-04-03T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gaming Polls",
-        "domain": "gamepur.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.gamepur.com/wp-content/uploads/2020/04/01122550/Sword-and-Shield-Mount-blade-2.jpg",
-          "width": 1917,
-          "height": 1196,
-          "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
-      "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-      "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "publishedDateTime": "2020-04-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6146265.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-artificial-intelligence-ai-challenge-regulators-and-induce-recovery.md",
-      "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
-      "excerpt": "Artificial intelligence with machine learning is expected not only to enhance the processes and transparency but also to improve the relationship between financial advisors with clients. This will be done because the overriding feature of artificial intelligence is that it will be able to provide services for all clients at a low cost.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fxstreet.com/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "ampWebUrl": "https://www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "cdnAmpWebUrl": "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/analysis/artificial-intelligence-ai-challenge-regulators-and-induce-recovery-202004031643",
-      "publishedDateTime": "2020-04-03T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FXStreet",
-        "domain": "fxstreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://editorial.fxstreet.com/images/Macroeconomics/Countries/taking-his-business-global-gm528981107-54255008_Small.jpg",
-          "width": 320,
-          "height": 217,
-          "title": "Artificial Intelligence (AI) challenge regulators and induce recovery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-washington-state-passes-new-facial-recognition-legislation.md",
-      "title": "Washington state passes new facial recognition legislation",
-      "excerpt": "Microsoft has long been calling for stricter regulation of facial recognition technology, and now is revealing the progress it has made since its 2018 call for the government to publicly regulate the technology. Since their public call in 2018, a number of countries have banned or put moratoriums on the use of the technology, but none have ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/msft/washington-state-passes-new-facial-recognition-legislation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T09:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/04/blackbackground.png",
-          "width": 1920,
-          "height": 1080,
-          "title": "Washington state passes new facial recognition legislation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars.md",
-      "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-      "excerpt": "Some of you might be familiar with a parable that many refer to as the Upstream Parable or alternatively the River Story. Attributed to various originating sources, some believe it was initially brought up in the 1930s by Saul Alinksy,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/03/the-venerable-upstream-parable-helps-in-these-trying-times-and-applies-to-the-future-of-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2020-04-03T09:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F502060284%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D7360%26cropY1%3D385%26cropY2%3D4523",
-          "width": 1200,
-          "height": 675,
-          "title": "The Venerable Upstream Parable Helps In These Trying Times, And Applies To The Future Of AI Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service.md",
-      "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-      "excerpt": "98point6, a telemedical startup whose platform pairs clinicians with AI to provide text-based care, today announced that it secured $40 million in financing. CEO Robbie Cape, a former Microsoft executive and the founder of the family organization company Cozi, said the capital would be used to hire three times more physicians by the end of April.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/98point6-raises-43-million-to-expand-its-ai-powered-telehealth-service/amp/",
-      "publishedDateTime": "2020-04-03T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "98point6 raises $43 million to expand its AI-powered telehealth service",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-experimental-covid-19-test-attempts-to-use-your-voice-to-check-for-symptoms.md",
-      "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
-      "excerpt": "That’s why a research team at Carnegie Mellon University developed a cheaper, more accessible way to potentially detect signs of the virus: voice detection (h/t: Futurism). The team has been working on this solution for a while, and now it has released an early version of a web app called the COVID Voice Detector. The app uses an in-house ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/",
-      "ampWebUrl": "https://www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/experimental-coronavirus-test-voice-recognition-1102427/amp/",
-      "publishedDateTime": "2020-04-03T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/10/Pixel-4-XL-back-in-hand-2-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": "Experimental COVID-19 test attempts to use your voice to check for symptoms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

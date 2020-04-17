@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-02-25-bosch-launches-ai-training-program-for-developers-and-managers.md",
+      "title": "Bosch Launches AI Training Program for Developers and Managers",
+      "excerpt": "The German industrial firm, known for home appliances, power tools, automotive parts and more, is training 20,000 employees, roughly 5% of its global workforce, in the use of AI. The education program will include an AI code of ethics, which the company published on Feb. 19.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/bosch-launches-ai-training-program-for-developers-and-managers-11582626602",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-25T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-157352/social",
+          "width": 1280,
+          "height": 640,
+          "title": "Bosch Launches AI Training Program for Developers and Managers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-uk-police-are-using-ai-to-predict-who-could-become-violent-criminals.md",
       "title": "UK police are using AI to predict who could become violent criminals",
       "excerpt": "[Read: Predictive policing AI is a bigger scam than psychic detectives ... which was commissioned by the UK government’s Centre for Data Ethics. The report revealed major legal and ethical ...",
@@ -1245,43 +1290,6 @@
           "width": 1024,
           "height": 768,
           "title": "Online targeting needs tighter controls, UK data ethics body suggests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-algorithms-on-social-media-need-regulation-says-uks-ai-adviser.md",
-      "title": "Algorithms on social media need regulation, says UK's AI adviser",
-      "excerpt": "Report also urges government to consider making firms such as Facebook share their data",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "ampWebUrl": "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "publishedDateTime": "2020-02-03T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95",
-          "width": 600,
-          "height": 360,
-          "title": "Algorithms on social media need regulation, says UK's AI adviser",
           "attribution": null
         }
       ],

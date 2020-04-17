@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp"
 type: article
 quality: 82
-heat: 95
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,6 @@ related:
       domain: galusaustralis.com
     quality: 28
 
-secured: "XPptLZyvom7105fkW+CIXSOJHMfnz3iVnXfkXiUUw0foh4nJX+tx+NfKMGHIoBoMwREqhWARSkiAyZ/WSm+19Lc2GnFXJ8EiCKEWcllrxw0ck7naJXupntplKJWPDa/c06GOysAccEiqTB3t2FOj5DQXhkMS2KCV+zsIl2RIwAsp86FnSRd3Q4Yx0yNWmDxOCVV9VDnM9tlfR6Owy2yXAHiWF3uRB0jCLco95/KWgXjAXLJC9rA21xetUUlpVzTeojIZHZp61Vq/g/FnYe/3kW4lEdLZZ2NKHjqa5nKRk0TvIb3Dq9FtsBC+HGuR27dY;rGLwo+dTCvQX+Homqsw4Ew=="
+secured: "C+clxF/0YviDgaJcFYZDoLmXKsAqTOaV/LRx0O5ZRxuXWSxXMHxPylDW7YllXeyJFjqjCctqynA+193pQRM7PlZ63+3lr1wfyGXUUP9nUbb2lh7FfNPLx8WzP7K36IDG4Ffegg9fjH9p4d8nhnPhePnhLz01EjOeMh1IUETsN9wTP2LtPMsmVtvPOGPJzeMh3woug7IjwdAztNVMAWwSy1++pFxCQjo5v1l7rYYSrfOdXPvDCapqcQAXVr1U0I9uAft0aORcN9nkf98ImdnWYEj5CF7om/80oOSCrK8S1EUDA9q0+KpYFzTZxBluXu7I;9GaHlat/oHaFhKBf8GXAFQ=="
 ---
 

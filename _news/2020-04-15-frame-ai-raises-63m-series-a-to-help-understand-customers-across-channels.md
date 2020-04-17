@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-h
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/"
 type: article
 quality: 85
-heat: 87
+heat: 85
 published: true
 
 provider:

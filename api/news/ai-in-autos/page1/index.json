@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
+      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "publishedDateTime": "2020-04-16T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
       "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
       "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
@@ -230,7 +275,7 @@
       "path": "_news/2020-04-15-self-driving-startup-zoox-settles-with-tesla-over-trade-secret-theft.md",
       "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
       "excerpt": "It acknowledged that new hires took Tesla documents. Tesla has prevailed in a key lawsuit over trade secret theft. Self-driving car startup Zoox has settled with Tesla and acknowledged that some of its new logistics recruits “were in possession of Tesla documents” that covered shipping and warehouse processes. Zoox agreed to both pay an ...",
-      "heat": 173,
+      "heat": 169,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.engadget.com/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
@@ -1085,6 +1130,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
+      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
+      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
+          "width": 2000,
+          "height": 1333,
+          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
       "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
       "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
@@ -1191,96 +1281,6 @@
           "width": 1200,
           "height": 630,
           "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-self-driving-shuttles-are-ferrying-covid-19-tests-at-a-florida-clinic.md",
-      "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-      "excerpt": "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "ampWebUrl": "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97",
-          "width": 600,
-          "height": 350,
-          "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold.md",
-      "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
-      "excerpt": "Recent news reports have heralded the latest research on sensors and suggested that such devices will revolutionize the advent of AI-based true self-driving cars. Though it certainly will be exciting to potentially have GPR added into the mix of sensors used for achieving driverless cars,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
-      "publishedDateTime": "2020-04-06T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066670684%2F0x0.jpg%3FcropX1%3D1816%26cropX2%3D5712%26cropY1%3D0%26cropY2%3D2600",
-          "width": 1200,
-          "height": 801,
-          "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
           "attribution": null
         }
       ],

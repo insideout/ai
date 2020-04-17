@@ -2,6 +2,564 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-07-autonomous-shuttles-ferry-covid-19-tests-around-florida.md",
+      "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
+      "excerpt": "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348874",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348874",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348874",
+      "publishedDateTime": "2020-04-07T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144650-02Uzj2HrrZtgBqdy58SfAOx-1fit-scalesize-1028x578v1586254195.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-deepmind-cambridge-ml-professor-asks-ai-winter-or-the-wonder-years.md",
+      "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
+      "excerpt": "And will the promise of AI be delivered without heavy recruitment in more ML specialists? The issues will be addressed by former Amazon ace and the first DeepMind Machine Learning Professor at Cambridge University, Neil Lawrence, in a Cambridge Network virtual lecture on April 21. The Network's first online business lecture – introduced to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessweekly.co.uk/news/hi-tech/deepmind-cambridge-ml-professor-asks-‘ai-winter’-or-wonder-years",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Weekly",
+        "domain": "businessweekly.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.businessweekly.co.uk/sites/default/files/styles/article350/public/field/image/neil-lawrence_0.jpg?itok=ys7IWhhc",
+          "width": 605,
+          "height": 400,
+          "title": "DeepMind Cambridge ML professor asks: ‘AI winter’ or the wonder years?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-automl-20-is-the-data-scientist-obsolete.md",
+      "title": "AutoML 2.0: Is The Data Scientist Obsolete?",
+      "excerpt": "In the world off AI & Machine Learning, AutoML has become a \"go-to\" technology to accelerate development and achieve better results. But does AutoML threaten the data scientist's role? And how do new,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/07/automl-20-is-the-data-scientist-obsolete/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/07/automl-20-is-the-data-scientist-obsolete/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/07/automl-20-is-the-data-scientist-obsolete/amp/",
+      "publishedDateTime": "2020-04-07T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7e6fb2f40ef500079f894d%2F0x0.jpg%3FcropX1%3D1800%26cropX2%3D3883%26cropY1%3D0%26cropY2%3D3125",
+          "width": 1200,
+          "height": 1799,
+          "title": "AutoML 2.0: Is The Data Scientist Obsolete?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
+      "publishedDateTime": "2020-04-07T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training.md",
+      "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
+      "excerpt": "Tenstorrent, an AI and machine learning hardware startup based in Toronto, Canada, today emerged from stealth with over $34 million in financing and an all-in-one computer system dubbed Grayskull. Cofounder and CEO Ljubisa Bajic, a former Nvidia senior architect who previously served as director of integrated circuit design at AMD, claims that ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/tenstorrent-reveals-grayskull-an-all-in-one-system-that-accelerates-ai-model-training/amp/",
+      "publishedDateTime": "2020-04-07T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Tenstorrent reveals Grayskull, an all-in-one system that accelerates AI model training",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed.md",
+      "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+      "excerpt": "Between October last year and now, Huawei‘s Hisilicon chip department has released two high-end chipsets ... In a Weibo post today, the Honor VP shared the latest AI benchmark ranking with the Kirin 985 in the third spot. The chipset has ahead of it, only the Kirin 990 which is in the first spot and the MediaTek Dimensity 1000 in the second ...",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/",
+      "ampWebUrl": "https://www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/07/honor-confirms-the-kirin-985-soc-features-and-ai-benchmark-ranking-revealed/?amp",
+      "publishedDateTime": "2020-04-07T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/kirin-985.jpg",
+          "width": 600,
+          "height": 337,
+          "title": "Honor confirms the Kirin 985 SoC, features and AI benchmark ranking revealed!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-intel-pledges-50m-to-help-fight-covid-19.md",
+      "title": "Intel pledges $50m to help fight COVID-19",
+      "excerpt": "The University of Sydney has used Microsoft cognitive services to build the \"AI-infused bot\" that has been tackling between 200 and 400 individual student inquiries daily. Microsoft said each student is typically asking two to three questions. It said the bot provides the most appropriate answer to the question and, where necessary, directs the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "publishedDateTime": "2020-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/15/d734a519-076b-4e3d-8bfe-63dde72da3b4/thumbnail/1200x675/c14f1f558417c2eb9f6962e04f2a29df/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel pledges $50m to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
+      "title": "Glassbox raises $40 million to track customer journeys with AI",
+      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
+      "publishedDateTime": "2020-04-07T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Glassbox raises $40 million to track customer journeys with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-ai-adoption-is-on-the-rise.md",
+      "title": "AI Adoption Is On The Rise",
+      "excerpt": "Company resources, processes and bottom lines will be constantly scrutinized and re-prioritized more than ever. That's why 2020 is a key window for AI adoption and acceleration to take place across the world.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/07/ai-adoption-is-on-the-rise/amp/",
+      "publishedDateTime": "2020-04-07T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "AI Adoption Is On The Rise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-self-driving-vans-are-delivering-food-and-disinfecting-streets-in-china.md",
+      "title": "Self-driving vans are delivering food and disinfecting streets in China",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus/",
+      "ampWebUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
+      "publishedDateTime": "2020-04-07T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F07%252F8a%252F1bd7e389d2a6478ca53b9a6e24e3697f.9ab8b.jpg%252F1200x630.jpg?signature=MAIYeu2PrROrVIOpyuCaPa2od8U=",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving vans are delivering food and disinfecting streets in China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-from-artificial-intelligence-to-smart-pens-technological-advancements-in-diabetes-care.md",
+      "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+      "excerpt": "By creating an interface through which the pen can keep a track of insulin doses, store the data in an app and share the data with users, care givers and health care professionals ... For the past few years, artificial intelligence has been touted to be the game changer in diabetes care, but somehow AI has not lived up to its initial promise.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348861",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348861",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348861",
+      "publishedDateTime": "2020-04-07T02:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160126153527-sugar-glucose-test-diabetic-diabetes-insulin-blood-test-glucometer.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
+      "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+      "excerpt": "The self-driving vans reduce overall potential exposure to the virus and free up healthcare workers.",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp",
+      "publishedDateTime": "2020-04-07T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e8c3f97b3b0922413616ca4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-emil-miso-robotics-launches-crowdfunding-campaign-for-autonomous-kitchen-robots.md",
+      "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
+      "excerpt": "Today marks the official start of Miso Robotics‘ series C equity crowdfunding campaign ... On the software side, it benefits from improvements to Miso AI (Miso’s cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken wings, tater tots, french fries and waffle fries ...",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
+      "publishedDateTime": "2020-04-07T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-introducing-incremental-enrichment-in-azure-cognitive-search.md",
       "title": "Introducing incremental enrichment in Azure Cognitive Search",
       "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
@@ -139,27 +697,27 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the ...",
+      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T19:03:00-07:00",
+      "publishedDateTime": "2020-04-06T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Finanzen",
+        "domain": "finanzen.net",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
+          "width": 600,
+          "height": 315,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -216,6 +774,51 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
+      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
+      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
+      "publishedDateTime": "2020-04-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
+          "width": 2000,
+          "height": 1333,
+          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -461,603 +1064,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices.md",
-      "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-      "excerpt": "Running today’s advanced neural networks has been significantly beyond the reach of many small and battery-powered devices.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b6257c095010007bffe6f%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-self-driving-shuttles-are-ferrying-covid-19-tests-at-a-florida-clinic.md",
-      "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-      "excerpt": "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "ampWebUrl": "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97",
-          "width": 600,
-          "height": 350,
-          "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold.md",
-      "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
-      "excerpt": "Recent news reports have heralded the latest research on sensors and suggested that such devices will revolutionize the advent of AI-based true self-driving cars. Though it certainly will be exciting to potentially have GPR added into the mix of sensors used for achieving driverless cars,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
-      "publishedDateTime": "2020-04-06T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066670684%2F0x0.jpg%3FcropX1%3D1816%26cropX2%3D5712%26cropY1%3D0%26cropY2%3D2600",
-          "width": 1200,
-          "height": 801,
-          "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsoft-is-using-ai-machine-learning-to-find-covid-19-antibodies-says-cto.md",
-      "title": "Microsoft Is Using AI Machine Learning to Find COVID-19 Antibodies, Says CTO",
-      "excerpt": "Kevin Scott, Microsoft chief technology officer, discusses how Microsoft is helping with internet access and in the healthcare arena during the COVID-19 crisis. He speaks with Emily Chang on \"Bloomberg Technology.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/videos/2020-04-06/microsoft-is-using-ai-machine-learning-to-find-covid-19-antibodies-says-cto-video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-todays-cache-duo-uses-ai-to-improve-calls-and-more.md",
-      "title": "Today’s cache | Duo uses AI to improve calls, and more",
-      "excerpt": "Google Duo is using AI technology from DeepMind to enhance call quality to fill gaps in transmission losses. In the US, Tesla’s engineers are using car parts to build ventilators for COVID-19 ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/todays-cache-duo-uses-ai-to-improve-calls-and-more/article31273477.ece/amp/",
-      "publishedDateTime": "2020-04-06T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/6msqdv/article31273476.ece/ALTERNATES/LANDSCAPE_615/06THCACHEGOOGLEAI",
-          "width": 615,
-          "height": 384,
-          "title": "Today’s cache | Duo uses AI to improve calls, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries.md",
-      "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
-      "excerpt": "The 5G vehicle is part of the KuGaea Kun series developed by Cool High Technology, a Beijing-based maker of autonomous drones and cars. A self-driving version has been certified for Baidu’s Apollo autonomous open vehicle platform, taking advantage of Beijing’s 300-plus miles of self-driving test roads. Beijing Institute of Technology’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries/amp/",
-      "publishedDateTime": "2020-04-06T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/beijing5gcar.jpg?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-kc-robotics-company-gets-2m-investment-from-umb-bank.md",
-      "title": "KC robotics company gets $2M investment from UMB Bank",
-      "excerpt": "Among Tesseract Ventures' aims are turning memories into something more than a 2-D picture and the future of the greeting card.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.html",
-      "ampWebUrl": "https://www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/kansascity/news/2020/04/06/umb-tesseract-ventures-investment-robotics-ai.amp.html",
-      "publishedDateTime": "2020-04-06T12:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11642345/john-boucard-headshot*600xx2134-1417-0-164.jpg",
-          "width": 600,
-          "height": 398,
-          "title": "KC robotics company gets $2M investment from UMB Bank",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-introducing-recommendation-scores-in-amazon-personalize.md",
-      "title": "Introducing recommendation scores in Amazon Personalize",
-      "excerpt": "Amazon Personalize enables you to personalize your website, app, ads, emails, and more, using the same machine learning technology as used by Amazon.com, without requiring any prior machine learning experience. Using Amazon Personalize, you can generate personalized recommendations for your users through",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-scores-in-amazon-personalize/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T12:54:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/06/recommendation-scores-3-799x630.gif",
-          "width": 799,
-          "height": 630,
-          "title": "Introducing recommendation scores in Amazon Personalize",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-nvidia-is-contributing-its-ai-smarts-to-help-fight-covid-19.md",
-      "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
-      "excerpt": "NVIDIA will add to this by providing expertise in AI, biology and large-scale computing optimizations. NVIDIA is also providing access to its own SaturnV supercomputer, but the primary focus is on its AI experience. The company likened the Consortium’s efforts to the Moon race. Ideally, this will speed up work for scientists who need ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/nvidia-joins-covid-19-consortium-170757511.html",
-      "ampWebUrl": "https://www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-joins-covid-19-consortium-170757511.html",
-      "publishedDateTime": "2020-04-06T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C400&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-04%252F0bdb02a0-77e5-11ea-9dbf-fe1d33f05e47%26client%3Da1acac3e1b3290917d92%26signature%3D339e80f4c01cbfcea068f19c8d953914536d6951&client=amp-blogside-v2&signature=e166ceba169fb26e58c6346bd2eb7c38916320d1",
-          "width": 600,
-          "height": 400,
-          "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsofts-cto-wants-to-spread-techs-wealth-beyond-the-coasts.md",
-      "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
-      "excerpt": "The post Microsoft’s CTO wants to spread tech’s wealth beyond the coasts appeared first on The AI Blog.\n",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fastcompany.com/90485120/microsofts-cto-wants-to-spread-big-techs-wealth-to-the-heartland",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T11:06:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/04/p-1-american-dream-kevin-scott.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Microsoft’s CTO wants to spread tech’s wealth beyond the coasts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources.md",
-      "title": "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources",
-      "excerpt": "IBM Research is making multiple free resources available to help healthcare researchers, doctors, and scientists around the world accelerate COVID-19 drug discovery. The resources can help with gathering insights, to applying the latest virus genomic information and identifying potential targets for treatments, to creating new drug molecule ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-research-releases-a-new-set-of-cloud-and-artificial-intelligence-based-covid-19-resources/",
-      "publishedDateTime": "2020-04-06T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/30/9d77cb26-0bf8-4a88-9914-3b3b1476683a/thumbnail/1200x675/e399bd4202906ef1cb6b7a5fac192bd4/20200324-scott-karen-3d-tr-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "IBM Research releases a new set of cloud- and artificial intelligence-based COVID-19 resources",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody.md",
-      "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
-      "excerpt": "An AI system that turns the coronavirus‘ structure into music could help scientists spot details about COVID-19 that a microscope would miss. The AI-generated tune is an audible representation of the coronavirus’ “spike” proteins, which spread the infection by poking out of the virus and binding to human cells. These spikes make the ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/06/mit-researchers-use-ai-to-turn-the-coronavirus-into-a-haunting-melody/amp/",
-      "publishedDateTime": "2020-04-06T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design52-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "MIT researchers use AI to turn the coronavirus into a haunting melody",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-ibms-ai-classifies-seizures-with-984-accuracy-using-eeg-data.md",
-      "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-      "excerpt": "In a paper published on the preprint server Arxiv.org this week, IBM researchers describe SeizureNet, a machine learning framework that learns the features of seizures to classify various types. They say that it achieves state-of-the-art classification accuracy on a popular data set, and that it helps to improve the classification accuracy of ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/ibm-ai-eeg-data-classify-seizures-98-4-accuracy/amp/",
-      "publishedDateTime": "2020-04-06T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s AI classifies seizures with 98.4% accuracy using EEG data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-cvg-becomes-first-us-airport-to-have-autonomous-robots-cleaning.md",
-      "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-      "excerpt": "Cincinnati/Northern Kentucky International Airport is the first U.S. airport to use a certain type of robot to clean its floors, a practice that started earlier this year but has become even more useful given the COVID19 crisis.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.html",
-      "ampWebUrl": "https://www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/cincinnati/news/2020/04/06/cvg-becomes-first-u-s-airport-to-have-autonomous.amp.html",
-      "publishedDateTime": "2020-04-06T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/11642104/neocvg2*600xx3281-2187-0-0.png",
-          "width": 600,
-          "height": 399,
-          "title": "CVG becomes first U.S. airport to have autonomous robots cleaning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

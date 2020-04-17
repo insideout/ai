@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-17-knives-out-tech-tackles-violent-crime.md",
+      "title": "Knives out: tech tackles violent crime",
+      "excerpt": "“This means that in a crowded environment like a train station or shopping centre, video-recognition systems that are enhanced by AI-powered threat-object recognition software can be used to identify and flag forbidden objects such as knives,” he says.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/03/knives-out-tech-tackles-violent-crime/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/10910/gettyimages-175224409-2048x2048_440107723754523852.jpg?crop=0.0000000000000013895057943753,0.27276577721304568,0,0.22691656077932973&cropmode=percentage&width=1200&height=450&rnd=132288417420000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Knives out: tech tackles violent crime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-ice-officials-running-unchecked-facial-recognition-searches-on-maryland-drivers.md",
       "title": "ICE officials running unchecked facial recognition searches on Maryland drivers",
       "excerpt": "US Immigration and Customs Enforcement (ICE) has been using facial-recognition software to search through Maryland’s state database of registered drivers and hunt down undocumented immigrants without seeking state or court approval. The data for driver’s licenses is collected by the Maryland Motor Vehicle Administration (MVA). The software ...",
@@ -1120,43 +1157,6 @@
           "width": 500,
           "height": 598,
           "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
-      "title": "Three applications deep learning and computer vision can improve",
-      "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/three-applications-that-improve-with-deep-learning-and-computer-vision/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/ctlx_icon_MachineVision_Slider_01-3-3.jpg",
-          "width": 485,
-          "height": 260,
-          "title": "Three applications deep learning and computer vision can improve",
           "attribution": null
         }
       ],

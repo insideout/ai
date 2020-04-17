@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-18-natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027.md",
+      "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-trends-market-share-growth-opportunity-and-2027-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market 2019: Trends, Market Share, Growth, Opportunity And 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-deepgram-raises-12-million-to-train-custom-speech-recognition-models-for-businesses.md",
       "title": "Deepgram raises $12 million to train custom speech recognition models for businesses",
       "excerpt": "Deepgram, a Y Combinator graduate building tailored speech recognition models, today announced it has raised $12 million in series A financing. CEO and cofounder Scott Stephenson says the proceeds will bolster the development of Deepgram’s platform, which helps enterprises to process meeting, call, and presentation recordings. If all goes ...",
@@ -1132,43 +1177,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
-      "title": "New Scientist got an early glimpse of voice recognition technology",
-      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Scientist got an early glimpse of voice recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/15/sprout-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/sprout-ai/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 682
     title: "Sprout.ai raises $2.5M to speed up insurance claims"
 
-secured: "cyaMgnMGYVqsGH2FjLRcSupc0Ztlf14HBwS8J+aO/E6R9TzT3OXq/GS4v+OFRT7drQPkZaMY5SnOsUEwIwTx5kcAhNOmWz+yKb7f0pVbt96W/4aztROp6s7SPqp29Wn7vx43DkJI39YeVUY6kgqaIejySKHgnDHqmW0W2neJxQ3eNsSfaG3VnA2XUZ4cDX7akDBLAUJwfTPjrKjIf/zYvGHkwtNGWaVP670SFCwT09hGZAs9qYRg3GWUmAstENBLWzXb6DRAhltt+ZzLYMVCnsAUiJ4SBeRZd6YOGUdElISWwCRkUahU+RTrzUYhpEaLBZvAMwi2pDVPieJGzThksXdnLyUFGWRLz4rLnf5/tgD7NdXl/TgN/soD90Lk5WrDNDwjt40iCe334o5Bo3RbVVLMWMv8VHZ6bOK36nMKqLK6HYoFj7tXckxCIP5qbf9ic4uVy+QaeS5vqv+dmb91Pii/eY7lnSFt7bsBFPYsjqk=;j+sV50Elxyy2vs4Nw5YpiA=="
+secured: "qrxfqzrrAuC19sn/5Jjd5+Bjkh0VhmTr2q8cSdSR+h3SxtXxAf3hB13P2H5g+TqIp1Rd5VTwCOXE3h0fr8yL7qGZoxx/7ZA1KWtA619scY4rWYFE90VdhVObS982EBE+xy9QLXpOSR1NjcihN1j4DaAC8zV77hvTPCiRd9WmQtpaQnOoe6orj7nW+huOuymN32oQX3qSIt2gUtODWtpHRW66h+zRkSwzi8WTG8YQtcKAtHxS6nNusH7fBKp8iOvqVSLc5CQli7XNLxBnI9k3Qbazga4AwA/0S+wmyF0WRL7wflLuM4yBH93iy+jn6BeiA9KtM/L2+VAxbhXHjGPRd8/bdhqbTQp5oZyJPR5EVQdi8KYG03hEBtGy4vIEA52B3b/y8E3P3kusBPTmqGxJ8GkVYbjZWkMX6hTdbol98JZxL+Y9PVHAWRgn2M1/QShb2J25LOxW51u9REl6cDlPo32qltjvg/3K7Xktmu+bZhY=;nc4iywTUxbA8XxKWepbpmQ=="
 ---
 

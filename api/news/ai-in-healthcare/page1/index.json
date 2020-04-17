@@ -50,7 +50,7 @@
       "path": "_news/2020-04-16-some-countries-in-the-middle-east-are-using-artificial-intelligence-to-fight-the-coronavirus-pandemic.md",
       "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
       "excerpt": "AI's ability to crunch large amounts of data has allowed governments worldwide to collect information to try and stop the pandemic.",
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
@@ -141,7 +141,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
@@ -1086,43 +1086,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
-      "title": "Artificial intelligence can speed up the detection of stroke",
-      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/uot-aic033020.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/228023_web.jpg",
-          "width": 453,
-          "height": 509,
-          "title": "Artificial intelligence can speed up the detection of stroke",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-10-business-functions-that-are-ready-to-use-artificial-intelligence.md",
       "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
       "excerpt": "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured.",
@@ -1203,6 +1166,43 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
+      "title": "Artificial intelligence can speed up the detection of stroke",
+      "excerpt": "Scientists have created a fully automated method for acute ischemic lesion segmentation on brain MRIs and shows how artificial intelligence ... for endovascular therapy. Lesion segmentation ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/03/200330152137.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

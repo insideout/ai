@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/15/edited-raises-29-million-to-optim
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

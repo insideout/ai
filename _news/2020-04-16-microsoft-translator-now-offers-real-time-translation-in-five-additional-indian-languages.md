@@ -26,58 +26,32 @@ images:
     title: "Microsoft Translator now offers real-time translation in five additional Indian languages"
 
 related:
-  - title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
-    excerpt: "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs provided on Azure to create custom software products for their businesses. The Microsoft Translator service enables text translation API into an ..."
-    publishedDateTime: 2020-04-16T10:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
+  - title: "Cambridge Researchers Tackle Neural Machine Translation’s Gender Bias"
+    excerpt: "Neural networks control the brain's thinking processes. By studying neural networks, scientists realized that once computers had become fast enough, and there was enough data on the internet, they could create an algorithm that trains large artificial neural networks. The wide adoption of neural machine translation has now resulted in the ..."
+    publishedDateTime: 2020-04-16T11:52:00Z
+    webUrl: "https://slator.com/machine-translation/cambridge-researchers-tackle-neural-machine-translations-gender-bias/"
     type: article
     provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
+      name: Slator
+      domain: slator.com
+    quality: 43
     images:
-      - url: "https://www.thehindubusinessline.com/info-tech/wr5xdp/article31355588.ece/ALTERNATES/LANDSCAPE_615/microsoft-translatorjpg"
-        width: 615
-        height: 384
-  - title: "Microsoft Translator gets 5 new Indian Languages: Know what they are"
-    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
-    publishedDateTime: 2020-04-16T14:24:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news-microsoft-translator-5-new-indian-languages-see-whay-they-are-608339"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-translator-5-new-indian-languages-see-whay-they-are-608339"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-5-new-indian-languages-see-whay-they-are-608339"
+      - url: "https://slator.com/assets/2020/04/neural-machine-translation-gender-bias-april-2020.png"
+        width: 600
+        height: 400
+  - title: "Microsoft now offers real-time translation for ten Indian languages in Microsoft Translator and other products"
+    excerpt: "Language translation is a core part of Microsoft products and services. These languages are available now on all Microsoft Translator apps, add-ins, Bing Translator, Microsoft Office and through the Azure Cognitive Services Translator API for businesses and developers. Microsoft provides APIs on Azure that organizations can use in their ..."
+    publishedDateTime: 2020-04-16T12:01:00Z
+    webUrl: "https://www.onmsft.com/news/indian-languages-microsoft-translator"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
+      name: On MSFT
+      domain: onmsft.com
+    quality: 19
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/04/microsoft-translator-1587047031.jpg"
-        width: 1200
-        height: 675
-  - title: "Now Microsoft Translator available in five new Indian languages"
-    excerpt: "According to the company, users can avail the benefits of artificial intelligence (AI) and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows. The app can recognise and translate languages from ..."
-    publishedDateTime: 2020-04-16T14:16:00Z
-    webUrl: "https://www.freepressjournal.in/technology/now-microsoft-translator-available-in-five-new-indian-languages"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 39
-    images:
-      - url: "https://images.assettype.com/freepressjournal%2F2020-04%2Fd561d636-0a81-4a26-9a3e-04195d699bdc%2Fmicrosoft.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 687
-  - title: "Microsoft adds 5 new Indian languages to its Translator service"
-    excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
-    publishedDateTime: 2020-04-16T17:26:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20200416/3541908.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
+      - url: "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/04/microsoft-translator.jpg?fit=874%2C583&ssl=1"
+        width: 874
+        height: 583
 
 secured: "fH3WFSy+nec6qyVkWlbc4gWfe0gUy30ccH+i5BOYGlf0Z8iyTtX/M5uJVa7fn+PabPnjS5Ao2I0xlbQboPA78/cqdSJ5oo8qXU81GVkO0VEPLRdAK8Q8RgD38W5aPMjdK/1J8wqEUOSgbUlnXF1OrAUW/c+ifF/E9LXcGljo+iUvPYmx5jY0Gis7NLw42XxNv0+n/Lb9TWwfPDwCAg0pShIohjDDtBxjez88wf4batTWVLDLmrUtPxPZrl6boxXj3GEcpXRHJ2h63v4h+zIvSWYfiW58mvXZR5b+xV5xlcPSyjxo/Wt52tQbwlsyomaGYL9auloh7s4NgbMMo1pejrVNgeAG/3xZHvsHsWzHJyxZ4e4ezoXRUZGXKwuR8kWiEsHX7LGow2vcIF2orBjgJyYFUOV5eaUe4IylzUdQFx0ORRCtyxGIWVBDM83+OHlCeFecQbd42lO6EWOoNUB0oiM5RqGvBG1ULCmHKfEmkDM=;JgX7bW6DVFdkK2/haHCNag=="
 ---

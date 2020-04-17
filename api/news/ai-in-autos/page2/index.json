@@ -2,6 +2,96 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-06-self-driving-shuttles-are-ferrying-covid-19-tests-at-a-florida-clinic.md",
+      "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
+      "excerpt": "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/self-driving-shuttles-carry-covid-19-tests-231758913.html",
+      "ampWebUrl": "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
+      "publishedDateTime": "2020-04-06T16:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97",
+          "width": 600,
+          "height": 350,
+          "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold.md",
+      "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
+      "excerpt": "Recent news reports have heralded the latest research on sensors and suggested that such devices will revolutionize the advent of AI-based true self-driving cars. Though it certainly will be exciting to potentially have GPR added into the mix of sensors used for achieving driverless cars,",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/06/ground-penetrating-radar-gpr-sensors-will-be-useful-for-ai-self-driving-cars-but-not-likely-to-strike-gold/amp/",
+      "publishedDateTime": "2020-04-06T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066670684%2F0x0.jpg%3FcropX1%3D1816%26cropX2%3D5712%26cropY1%3D0%26cropY2%3D2600",
+          "width": 1200,
+          "height": 801,
+          "title": "Ground-Penetrating Radar (GPR) Sensors Will Be Useful For AI Self-Driving Cars, But Not Likely To Strike Gold",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-robotic-5g-car-can-id-faces-check-for-fevers-and-make-deliveries.md",
       "title": "Robotic 5G car can ID faces, check for fevers, and make deliveries",
       "excerpt": "The 5G vehicle is part of the KuGaea Kun series developed by Cool High Technology, a Beijing-based maker of autonomous drones and cars. A self-driving version has been certified for Baidu’s Apollo autonomous open vehicle platform, taking advantage of Beijing’s 300-plus miles of self-driving test roads. Beijing Institute of Technology’s ...",
@@ -317,6 +407,43 @@
           "width": 1920,
           "height": 1080,
           "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self-driving-car-plans.md",
+      "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
+      "excerpt": "Policy & regulation are aligning with renewables cost declines to make projects more profitable and portfolios more sustainable. Batteries are helping to optimize the power grid and opening up new ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.greentechmedia.com/articles/read/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
+      "ampWebUrl": "https://www.greentechmedia.com/amp/article/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
+      "cdnAmpWebUrl": "https://www-greentechmedia-com.cdn.ampproject.org/c/s/www.greentechmedia.com/amp/article/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
+      "publishedDateTime": "2020-04-02T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Greentech Media",
+        "domain": "greentechmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/XL_Editors-news-feed_New_410_282_c1.png",
+          "width": 410,
+          "height": 282,
+          "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
           "attribution": null
         }
       ],
@@ -1078,141 +1205,6 @@
           "width": 2000,
           "height": 1294,
           "title": "AI to become main way banks interact with customers within three years: Accenture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-tesla-deal-boosts-chinese-presence-in-us-auto-tech.md",
-      "title": "Tesla deal boosts Chinese presence in US auto tech",
-      "excerpt": "Baidu has invested in Nio, as well as in Uber and Velodyne, a California maker of laser-based lidar sensors for self-driving cars. Alibaba's mobility investments include Didi and Lyft. As Tesla is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
-      "publishedDateTime": "2020-03-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104329942-IMG_5438.JPG?v=1491839432",
-          "width": 1445,
-          "height": 964,
-          "title": "Tesla deal boosts Chinese presence in US auto tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-teslas-china-business-is-booming.md",
-      "title": "Tesla's China business is booming",
-      "excerpt": "Elon Musk's Tesla is a growing player in China, where the global fight to develop electric, self-driving cars is raging ... and companies like Tesla or Baidu could take a cut of that,\" she said.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/tesla-is-sending-a-lot-more-cars-to-china.html",
-      "publishedDateTime": "2020-03-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104369093-GettyImages-462398776.jpg?v=1549975676",
-          "width": 2000,
-          "height": 1333,
-          "title": "Tesla's China business is booming",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-theres-a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do.md",
-      "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
-      "excerpt": "There was a bit of extra excitement in the San Francisco Bay Area traffic last year when a baby sea lion decided it was time to checkout rush hour activities and so wandered or waddled onto the hectic and perilous Highway 101 (a similar occurrence happened a few years ago in northward Mendocino County).",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/03/27/theres--a-baby-sea-lion-on-highway-101-what-would-a-self-driving-car-do/amp/",
-      "publishedDateTime": "2020-03-27T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2Fe341b8d42ae9446faa5a1f4a0bce99aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 762,
-          "title": "There’s A Baby Sea Lion On Highway 101, What Would A Self-Driving Car Do?",
           "attribution": null
         }
       ],

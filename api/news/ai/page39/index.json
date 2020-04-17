@@ -2,6 +2,661 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-03-10-microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies.md",
+      "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
+      "excerpt": "While speaking on a panel recently, Landing AI founder and Google Brain cofounder Andrew Ng described a moment when he read the OECD’s AI ethics principles to an engineer, and the engineer told him the words give no instruction on how he should change how he does his job. That’s why, Ng said, any code of conduct should be designed by and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/amp/",
+      "publishedDateTime": "2020-03-10T14:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-forwardx-debuts-computer-vision-amr-fleet.md",
+      "title": "ForwardX debuts computer vision AMR fleet",
+      "excerpt": "ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in logistics, manufacturing and retail facilities abroad. Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.logisticsmgmt.com/article/forwardx_debuts_computer_vision_amr_fleet",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T14:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Logistics Management",
+        "domain": "logisticsmgmt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.mmh.com/images/2020_article/forwardx2020.jpg",
+          "width": 300,
+          "height": 400,
+          "title": "ForwardX debuts computer vision AMR fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-facebooks-ride-encourages-ai-agents-to-explore-their-environments.md",
+      "title": "Facebook’s RIDE encourages AI agents to explore their environments",
+      "excerpt": "A preprint paper coauthored by scientists at Facebook AI Research describes Rewarding Impact-Driven Exploration (RIDE), an intrinsic reward method that encourages AI-driven agents to take actions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/facebooks-ride-encourages-ai-agents-to-explore-their-environments/amp/",
+      "publishedDateTime": "2020-03-10T13:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook’s RIDE encourages AI agents to explore their environments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-are-ai-ethicists-making-any-difference.md",
+      "title": "Are AI ethicists making any difference?",
+      "excerpt": "Tech companies, consulting firms, and even the US military are rushing to add ethics boards and hire “AI ethicists.” They’re asking them to think about everything from bias and fairness to the circumstances under which it is acceptable to use autonomous weapons. It’s a welcome acknowledgment of the harm AI can do. But many people are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/1814436/what-is-an-ai-ethicists-job/",
+      "ampWebUrl": "https://qz.com/1814436/what-is-an-ai-ethicists-job/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/1814436/what-is-an-ai-ethicists-job/amp/",
+      "publishedDateTime": "2020-03-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/03/GettyImages-1056547320-e1583669963557.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 790,
+          "title": "Are AI ethicists making any difference?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation.md",
+      "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
+      "excerpt": "/PRNewswire/ -- TransPerfect, the world's largest provider of language and technology solutions for global business, today announced the TransPerfect",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/transperfect-announces-metrics-service-and-additional-capabilities-to-enhance-accuracy-in-translation-301020975.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T12:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/321003/transperfect_logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": "TransPerfect Announces Metrics Service and Additional Capabilities to Enhance Accuracy in Translation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-ubers-self-driving-cars-to-cruise-san-francisco-streets-once-again.md",
+      "title": "Uber's self-driving cars to cruise San Francisco streets once again",
+      "excerpt": "Uber's self-driving cars are back on San Francisco's streets in full autonomous mode after a two-year hiatus. The move comes after one of the company's cars was involved in a fatal accident ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ubers-self-driving-cars-to-cruise-san-franciscos-streets-once-again/",
+      "publishedDateTime": "2020-03-10T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/zaSXhbmBw7XTe5v8-kcJNSzHt5Q=/756x567/2016/12/12/5e3fa950-a136-40b2-b361-32d5a2055329/uber-mapping-car-7145.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Uber's self-driving cars to cruise San Francisco streets once again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-google-launches-machine-learning-framework-for-training-quantum-models.md",
+      "title": "Google launches machine learning framework for training quantum models",
+      "excerpt": "The machine learning framework has the ability to construct quantum datasets ... The release of TensorFlow Quantum comes after Microsoft's launch of Azure Quantum and the recent news that Honeywell is developing a quantum computer with a quantum volume of at least 64 which will be available in the next three months. In an abstract for a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/uk/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/google-launches-machine-learning-framework-for-training-quantum-models",
+      "publishedDateTime": "2020-03-10T11:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/PUkY2vFk37Kh5uzdiWBBgW-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Google launches machine learning framework for training quantum models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-imx-8-applications-processor.md",
+      "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+      "excerpt": "The cloud stack is deployed directly from the device in just a few steps via AWS CloudFormation as a dedicated AWS instance. AWS enabled the NXP i.MX 8 applications processor as a target for Amazon SageMaker Neo. Amazon SageMaker Neo allows developers to optimize a ML model for a certain device. Lastly, a trained and optimized model is included ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.embedded-computing.com/news/toradex-collaborates-with-amazon-web-services-and-nxp-to-release-apalis-ai-vision-starter-kit-for-the-i-mx-8-applications-processor",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T11:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "http://share.opsy.st/5e67d3c91f0cd-76219803_toradex_aws_nxp.jpg",
+          "width": 5000,
+          "height": 1934,
+          "title": "Toradex Collaborates with Amazon Web Services and NXP to Release Apalis AI Vision Starter Kit for the i.MX 8 Applications Processor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age.md",
+      "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
+      "excerpt": "AI was so transformative because of the huge amount of data it was able to process at speed, changing and shaping everything we do. She continued: “The reason why we’re talking so much about ethics in AI is over the last few years we have seen the best of technology – but also the worst.” AI was already being used to detect cancer and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.research-live.com/article/news/the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age/id/5066342",
+      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
+      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5066342&name=the-new-privacy-rules-why-its-time-to-talk-ethics-in-an-ai-age",
+      "publishedDateTime": "2020-03-10T11:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "research",
+        "domain": "research-live.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
+          "width": 1000,
+          "height": 581,
+          "title": "The new privacy rules: Why it’s time to talk ethics in an AI age",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners.md",
+      "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+      "excerpt": "We tried something new at last week’s TC Sessions: Robotics + AI. For the first time ever, we incorporated a pitch-off into the event. With a site as embedded in the startup world, it made sense to find a way to give some stage time to some early-stage startups. On Monday night, I was joined by Aaron Jacobson (NEA), Jennifer Roberts (Grit ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/agriculture-cameras-tire-changes-and-drive-throughs-here-are-our-robotics-pitch-off-winners/amp/",
+      "publishedDateTime": "2020-03-10T10:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/49615823798_a99646b439_c.jpg",
+          "width": 799,
+          "height": 533,
+          "title": "Agriculture, cameras, tire changes and drive-throughs: Here are our robotics pitch-off winners",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-microsoft-and-cisco-team-up-to-integrate-cloud-and-iot-platforms.md",
+      "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+      "excerpt": "Microsoft has announced a partnership with Cisco to integrate its Azure cloud ... It is focusing on offering customers a fully integrated solution that gives access to powerful design tools, advance analytics, global connectivity and cognitive services for analysing IoT data. In November 2019, Cisco made an unspecified investment on Titan ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.iottechnews.com/news/2020/mar/10/microsoft-and-cisco-team-integrate-cloud-and-iot-platforms/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iottechnews.com",
+        "domain": "iottechnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.iottechnews.com/media/img/news/iStock-1184908397.jpg.600x600_q96.png",
+          "width": 600,
+          "height": 440,
+          "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-neural-networks-are-now-being-used-to-track-exotic-particles-at-cern.md",
+      "title": "Neural networks are now being used to track exotic particles at CERN",
+      "excerpt": "Research within the domain of physics has profited from the rise of artificial neural networks and deep learning. In the past, we've seen them being applied to study dark matter and massive galaxies. Continuing this pattern, we now have artificial neural networks being used in the study of exotic particles. At the Compact Muon Solenoid (CMS ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern",
+      "ampWebUrl": "https://www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/neural-networks-are-now-being-used-to-track-exotic-particles-at-cern/",
+      "publishedDateTime": "2020-03-10T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2017/05/1494180366_lhc_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Neural networks are now being used to track exotic particles at CERN",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-genomic-computation-platform-launches-on-microsoft-azure.md",
+      "title": "Genomic computation platform launches on Microsoft Azure",
+      "excerpt": "The application is available on Amazon and Google Cloud, and it will now be made available for purchase on the Microsoft Azure platform, an online marketplace created by Microsoft for buying and selling of software services. EPAM Cloud Pipeline will be open-source, and will utilize machine learning capabilities, allowing scientists to build and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2020/03/10/EPAM-launches-its-service-on-Microsoft-Azure",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/epam-launches-its-service-on-microsoft-azure/10792245-1-eng-GB/EPAM-launches-its-service-on-Microsoft-Azure.jpg",
+          "width": 748,
+          "height": 467,
+          "title": "Genomic computation platform launches on Microsoft Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-superwiseai-secures-45m-in-seed-funding-to-accelerate-the-adoption-of-its-ai-assurance-platform.md",
+      "title": "Superwise.ai Secures $4.5M in Seed Funding to Accelerate the Adoption of Its AI Assurance Platform",
+      "excerpt": "Google AI Platform, Azure Machine Learning, Kubeflow, H20.ai and custom-built platforms. According to Gartner’s report, Help the Board Deal With Automated Decisions at Digital Speed (G00433877), “In digital businesses, many operational decisions are ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200310005701/en/Superwise.ai-Secures-4.5M-Seed-Funding-Accelerate-Adoption",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-insurance-ai-startup-synthesized-raises-28m-from-iq-capital-and-mundi-ventures.md",
+      "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+      "excerpt": "Like many industries, it would like to automate much of this, but it’s just not that simple. Synthesized is a U.K. startup that tries to reduce friction on preparing all the data that’s needed, to enable insurers to share data safely, complying with regulations. The more that happens, the more innovation can happen, such as insuring for a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/10/insurance-ai-startup-synthesized-raises-2-8m-from-iq-capital-and-mundi-ventures/amp/",
+      "publishedDateTime": "2020-03-10T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/Denis-Nicolai.jpg?w=1024",
+          "width": 1024,
+          "height": 642,
+          "title": "Insurance AI startup Synthesized raises $2.8M from IQ Capital and Mundi Ventures",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center.md",
+      "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+      "excerpt": "It also leans on AI and automation to anticipate what a customer might be looking for, detect sentiment and intent, translate between languages, and more. Inbox will be available for free to companies with up to five customer service agents and 500 customer contact threads — above that, it will offer customized pricing depending on the number ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/twilio-rival-messagebird-launches-inbox-an-ai-powered-contact-center/amp/",
+      "publishedDateTime": "2020-03-10T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Inbox-by-MessageBird_Press-Voice.png?fit=1866%2C925&strip=all",
+          "width": 1866,
+          "height": 925,
+          "title": "Twilio rival MessageBird launches Inbox, an AI-powered contact center",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
       "title": "Training robots revolutionize therapy",
       "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
@@ -508,609 +1163,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you.md",
-      "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-      "excerpt": "Officials from BNSF and Union Pacific, the two largest freight railroads in the Pacific Northwest, declined to comment about their interest in driverless trains. Michael Rush, senior vice president for safety and operations at the Association of American Railroads, said the industry is embracing technology like artificial intelligence but that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/",
-      "ampWebUrl": "https://www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/how-autonomous-freight-trains-powered-by-artificial-intelligence-could-come-to-a-railroad-near-you/?amp=1",
-      "publishedDateTime": "2020-03-10T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.seattletimes.com/wp-content/uploads/2020/02/02182020_train_083439-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "How autonomous freight trains powered by artificial intelligence could come to a railroad near you",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-deep-learning-accelerates-scientific-simulations-up-to-two-billion-times.md",
-      "title": "Deep Learning Accelerates Scientific Simulations up to Two Billion Times",
-      "excerpt": "Researchers from several physics and geology laboratories have developed Deep Emulator Network SEarch (DENSE), a technique for using deep-learning to perform scientific simulations from various fields, from high-energy physics to climate science. Compared to previous simulators, the results from DENSE achieved speedups ranging from 10 million ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/03/deep-learning-simulation/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/03/deep-learning-simulation/en/headerimage/deep-learning-simulation-1583679280070.jpg",
-          "width": 1200,
-          "height": 477,
-          "title": "Deep Learning Accelerates Scientific Simulations up to Two Billion Times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-artificial-intelligence-image-guided-robotics-for-automatic-blood-draw.md",
-      "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
-      "excerpt": "Rutgers University engineers have created a tabletop device that combines a robot, artificial intelligence (AI), and near-infrared and ultrasound imaging to draw blood or insert catheters for fluid and drug delivery. Research results, published in the journal Nature Machine Intelligence, suggest medical robots could reduce injuries, improve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.todaysmedicaldevelopments.com/article/medical-device-robotic-image-guided-artificial-intelligence-blood-draw/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T04:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Today's Medical Developments",
-        "domain": "todaysmedicaldevelopments.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://www.todaysmedicaldevelopments.com/fileuploads/image/2020/03/04/Artificial-intelligence-image-guided-robotics-automatic-blood-draw.jpg?w=736&h=414&mode=crop",
-          "width": 736,
-          "height": 414,
-          "title": "Artificial intelligence, image-guided robotics for automatic blood draw",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-xilinx-provides-alibaba-cloud-faas-with-ai-acceleration.md",
-      "title": "Xilinx provides Alibaba Cloud FaaS with AI Acceleration",
-      "excerpt": "In order to maintain a consistent experience on e-commerce sites, oversight on images is required and creates a large AI inference compute workload. Alibaba historically used GPUs to run Yolo-v2 Tiny with Float32 data type to understand the content in tens of millions of images every day. As the architecture was not well optimized, the GPU ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fudzilla.com/news/memory-and-storage/50450-xilinx-provides-alibaba-cloud-faas-with-ai-acceleration",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/c7ae68805af1193525566aed721d1123_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": "Xilinx provides Alibaba Cloud FaaS with AI Acceleration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-human-and-computer-estimations-of-predictability-of-words-in-written-language.md",
-      "title": "Human and computer estimations of Predictability of words in written language",
-      "excerpt": "When we read printed text, we are continuously predicting upcoming words to integrate information and guide future eye movements. Thus, the Predictability of a given word has become one of the most important variables when explaining human behaviour and information processing during reading.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61353-z",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61353-z/MediaObjects/41598_2020_61353_Fig1_HTML.png",
-          "width": 685,
-          "height": 310,
-          "title": "Human and computer estimations of Predictability of words in written language",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aws-makes-bee-gains-dangles-r365m-to-sas-smes.md",
-      "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-      "excerpt": "Additionally, says AWS, it will enable more organisations across Sub-Saharan Africa to leverage advanced technologies such as artificial intelligence, machine learning, IOT, mobile services, and more to drive innovation. As SA awaits the launch of the facilities, there is already some excitement in the market. Last year, insurer Old Mutual said ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/nWJadvbenwBqbjO1",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/03/Prabashni-Naidoo-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-how-ai-can-take-the-drudgery-out-of-tuning-machine-learning-models.md",
-      "title": "How AI Can Take The Drudgery Out Of Tuning Machine-Learning Models",
-      "excerpt": "Data scientists can spend weeks tuning machine learning for specific needs. Artificial intelligence can do the job many times faster, Oracle Labs finds.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/oracle/2020/03/10/how-ai-can-take-the-drudgery-out-of-tuning-machine-learning-models/",
-      "ampWebUrl": "https://www.forbes.com/sites/oracle/2020/03/10/how-ai-can-take-the-drudgery-out-of-tuning-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/oracle/2020/03/10/how-ai-can-take-the-drudgery-out-of-tuning-machine-learning-models/amp/",
-      "publishedDateTime": "2020-03-10T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e6753f2e1e61700080e6099%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D692%26cropY1%3D10%26cropY2%3D400",
-          "width": 692,
-          "height": 391,
-          "title": "How AI Can Take The Drudgery Out Of Tuning Machine-Learning Models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.md",
-      "title": "Concerns raised after facial recognition software found to have racial bias",
-      "excerpt": "One of the cops surreptitiously snapped a cellphone photo of the man and sent it to a crime analyst, who ran the photo through facial recognition software. The facial recognition algorithm ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestar.com/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.thestar.com/4JWXKVT5I2IpefurhPWg37bIpGk=/1200x800/smart/filters:cb(1583942249743)/https://www.thestar.com/content/dam/thestar/news/gta/2020/03/10/concerns-raised-after-facial-recognition-software-found-to-have-racial-bias/toni_morgan3.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Concerns raised after facial recognition software found to have racial bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-looking-at-how-ai-can-improve-computer-vision.md",
-      "title": "Looking at How AI Can Improve Computer Vision",
-      "excerpt": "And doing so in a manner that provides noticeable improvements in productivity, efficiency and capability. The ability to blend artificial intelligence into the computer vision process could be a prime example. I recently had the opportunity to connect with Johann Beukes, vice-president of data science and analytics at Levatas to hear his insights.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21125741/looking-at-how-ai-can-improve-computer-vision",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-top-7-baselines-for-image-recognition.md",
-      "title": "Top 7 Baselines For Image Recognition",
-      "excerpt": "SVHN is obtained from house numbers in Google Street View images. SVHN was introduced to develop machine learning and object recognition algorithms with a minimal requirement on data preprocessing and formatting. In this paper, a simple procedure called AutoAugment is defined to automatically search for improved data augmentation policies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/image-classification-models-benchmark-state-of-the-art/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/imrec.png",
-          "width": 667,
-          "height": 500,
-          "title": "Top 7 Baselines For Image Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-recruitment-start-up-recognised-at-microsofts-ai-awards-20.md",
-      "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-      "excerpt": "Talview helps its clients with digital hiring process by leveraging the capabilities of Microsoft Azure to automate talent screening, video interviews, and securely proctor cognitive assessments for hiring decisions ... need to be a goal for employers in Singapore in 2018. The services sector is attracting top talent as China's economy shifts ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://hrmasia.com/talview-named-best-ai-application-for-societal-impact-at-microsofts-ai-awards-2-0/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hrmasia.com",
-        "domain": "hrmasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hrmasia.com/wp-content/uploads/2019/12/81473998_m.jpg",
-          "width": 2508,
-          "height": 1672,
-          "title": "AI recruitment start-up recognised at Microsoft’s AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-aci-worldwide-launches-advanced-machine-learning-capability-to-dramatically-reduce-payment-fraud-for-banks-and-merchants-and-their-customers.md",
-      "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-      "excerpt": "“Traditional machine learning models in many cases are not sufficient to stop fraudsters in their ... “We are the first vendor globally to roll out the new Incremental Learning technology across the merchants, payments and financial services sectors,” commented Fabian Gloerfeld, head of Payments Intelligence, ACI Worldwide.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200309005518/en/ACI-Worldwide-Launches-Advanced-Machine-Learning-Capability",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T23:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200309005518/en/408535/23/ACI_logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "ACI Worldwide Launches Advanced Machine Learning Capability to Dramatically Reduce Payment Fraud for Banks and Merchants and Their Customers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-education-and-ethics-who-should-profit-from-learning.md",
-      "title": "AI, education and ethics: who should profit from learning?",
-      "excerpt": "“AI will be introduced into classrooms, introduced into education ... “It is challenging to implement this,” Mr Minevich adds. “It comes down to privacy and ethics.” According to Mr Riese of Up Learn, constant data collection would represent an improvement on the current means of assessing students, by drawing on hundreds of hours ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "ampWebUrl": "https://amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/8d79405c-02ba-11e9-bf0f-53b8511afd73",
-      "publishedDateTime": "2020-03-09T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb20e8b5e-5ef6-11ea-ac5e-df00963c20e6?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": "AI, education and ethics: who should profit from learning?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-canadian-correctional-facility-to-test-threat-detection-platform.md",
-      "title": "Canadian Correctional Facility to Test Threat Detection Platform",
-      "excerpt": "\"The contract from Innovative Solution Canada was awarded to Patriot One for its PATSCAN Platform, with specific interest around the Video Object Recognition Software (VRS) solution for the detection of visible make-shift knives, cellphones, as well as ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.streetwisereports.com/article/2020/03/09/canadian-correctional-facility-to-test-threat-detection-platform.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T17:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "streetwisereports.com",
-        "domain": "streetwisereports.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.streetwisereports.com/images/AS_Prison3-9-20-900.jpg",
-          "width": 900,
-          "height": 514,
-          "title": "Canadian Correctional Facility to Test Threat Detection Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
-      "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-      "excerpt": "MUMBAI, India, March 9, 2020 /PRNewswire/ -- AI Recruitment startup, Talview, has received the prestigious \"Best AI Application for Societal Impact\" award in the partner category in the Microsoft ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/in/news-releases/ai-recruitment-startup-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsoft-s-ai-awards-2-0-895565156.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1121668/Talview___Microsoft_AI_Awards.jpg?p=facebook",
-          "width": 1198,
-          "height": 628,
-          "title": "AI Recruitment Startup Talview Wins The \"Best AI Application for Societal Impact\" Recognition at Microsoft's AI Awards 2.0",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-predictive-modelling-automl-which-ai-provider-to-choose.md",
-      "title": "Predictive modelling & AutoML: Which AI provider to choose",
-      "excerpt": "This is how Auto Machine Learning (AutoML) appeared, designed to make Machine Learning accessible to the greatest number of people, especially developers who do not have any knowledge in mathematics.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@aicompare/predictive-modelling-automated-machine-learning-which-ai-provider-to-choose-5b6075b07da7",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T15:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*CmkQe29XGO19x9qt.png",
-          "width": 1200,
-          "height": 733,
-          "title": "Predictive modelling & AutoML: Which AI provider to choose",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

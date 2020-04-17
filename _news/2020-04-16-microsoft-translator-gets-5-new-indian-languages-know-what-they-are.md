@@ -8,7 +8,7 @@ ampWebUrl: "https://www.indiatvnews.com/amp/technology/news-microsoft-translator
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news-microsoft-translator-5-new-indian-languages-see-whay-they-are-608339"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -26,21 +26,6 @@ images:
     title: "Microsoft Translator gets 5 new Indian Languages: Know what they are"
 
 related:
-  - title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
-    excerpt: "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs provided on Azure to create custom software products for their businesses. The Microsoft Translator service enables text translation API into an ..."
-    publishedDateTime: 2020-04-16T10:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/wr5xdp/article31355588.ece/ALTERNATES/LANDSCAPE_615/microsoft-translatorjpg"
-        width: 615
-        height: 384
   - title: "Now Microsoft Translator available in five new Indian languages"
     excerpt: "According to the company, users can avail the benefits of artificial intelligence (AI) and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows. The app can recognise and translate languages from ..."
     publishedDateTime: 2020-04-16T14:16:00Z
@@ -54,21 +39,17 @@ related:
       - url: "https://images.assettype.com/freepressjournal%2F2020-04%2Fd561d636-0a81-4a26-9a3e-04195d699bdc%2Fmicrosoft.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 687
-  - title: "Microsoft Translator now offers real-time translation in five additional Indian languages"
-    excerpt: "these new languages are available via the Microsoft Translator text translation API. “We’re committed to empower every Indian and every business in India by bringing the power of AI into their daily life. Microsoft celebrates the diversity of languages in India and wants to make the vast internet even more accessible. We have supported ..."
-    publishedDateTime: 2020-04-16T15:00:00Z
-    webUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-translator-translation-languages/amp/"
+  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
+    publishedDateTime: 2020-04-16T17:58:00Z
+    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 35
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-Translator-India.jpg"
-        width: 874
-        height: 583
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 24
   - title: "Microsoft adds 5 new Indian languages to its Translator service"
     excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
     publishedDateTime: 2020-04-16T17:26:00Z

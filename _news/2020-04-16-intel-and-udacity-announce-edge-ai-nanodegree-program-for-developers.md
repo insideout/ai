@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-and-udacity-an
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/"
 type: article
 quality: 87
-heat: 107
+heat: 118
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     title: "Intel and Udacity announce edge AI nanodegree program for developers"
 
 related:
+  - title: "Intel, Udacity launch nanodegree program for edge AI developers"
+    excerpt: "Intel and Udacity on Thursday launched a new nanodegree program to help developers learn how to build and deploy deep learning models at the edge. The Intel Edge AI for IoT Developers Nanodegree Program uses the Intel Distribution of OpenVINO toolkit and is designed to accelerate the development and deployment of AI-powered edge devices."
+    publishedDateTime: 2020-04-16T23:01:00Z
+    webUrl: "https://www.zdnet.com/article/intel-udacity-launch-nanodegree-program-for-edge-ai-developers/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-udacity-launch-nanodegree-program-for-edge-ai-developers/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-udacity-launch-nanodegree-program-for-edge-ai-developers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "10 developer skills on the rise — and five on the decline"
     excerpt: "As companies dive deeper into digital transformations and pivot to data-driven cultures, tech disciplines such as AI, machine learning, internet of things (IoT) and IT automation are driving organizations’ technology strategies and boosting demand for skills with tools, such as Docker, Ansible and Azure, that will help companies innovate and ..."
     publishedDateTime: 2020-04-16T10:23:00Z
@@ -58,6 +69,6 @@ related:
         width: 1280
         height: 853
 
-secured: "rjWAdaGwZWNiUMNFltWmh/gKtvx74uduOqyXUnZVpqQupc2AxSUTc6+Cv/neFH9wYl2wnz9KMj6ZhxrAzePQHX9n3QS+EQQhRHFG61A7pmR3Hq/rQQu57fqL5jzXJXExLLXld+kwYJ2yRXUtvTORNroB7VAMsTXUQqE0V84os/55UOc5J1MzNVWhHpFidQJWCeNfgus17658+gwfDvWqUzdgrjFHSS7t692oVZMKeVlI8QDtMXgACQW9JAVvwuNpEzpHYxqZIweQRJF3Ydn/OKfA7Oh535IhJBuVggNOje1jwphDmWSHvW1IGFWsLpjUlgmQLh/9aqV+vIDjE5rjT3sux8Teziu3pMbApbXl+CKRsyHryKhghUL+uMS5zdzAVZZrqRiITFosd9nI/YoSNoTzhoOaGT0eODFSQYg3SXxV9xLvnZtLrXET9sXxaNZ0zKceqnPjnBtFT4OViLRq+a5JjI8grm46/EuCL1b8MNo=;QgLZpCISnpOaGs1jyoaIbQ=="
+secured: "73vft9AO9RYsaKtLnu7H1VbddvcLQxspnpbOx7U26I2om9nNZBC71LQAEKB8UcVrahucE0i9WESnaqM9CCAS9OCM31nkWLwfJEoIFK+wAZvLti5V/e1oQYWKchE2SyNeWkytc7qGk/BxOUy3tT+QU8UGJgnyiqs8rlwU+ByA6d5kfOmH4anr5beE2/lu1jj2QQAxcPRBP/xlmOqSexFm0GnzoxB9Zt4+A1hWnyNI4/iw3Nfo/6veoOkWOQmMrylXOIs7PRYUi+30JeIQoIlgZoBLxgeemipzgznXQM0FltQ7xabnETl0xjuT4mYko0dmn6Aa7u3M2Rs0/omV5kXG/0tK0gWSmzjIJpgAdV1pLeK3KnsJGAIS3uXoZGlf1z613QrdfTEpPXIu73MSUswSvDQ1O6RFZfhhM/Zu1Lh6bR98n2IM5Ejh5LtXEuSPzJvWuiw5DMKhXovhDwnain006druC4b8wJ2aJD7pHYA7yiU=;Mv5lgQ7mUTgKKpnvW195yg=="
 ---
 

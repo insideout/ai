@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-au
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/"
 type: article
 quality: 116
-heat: 116
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     title: "Kebotix raises $11.5 million to automate lab experiments with AI and robotics"
 
-secured: "yvtjXZ7hUxjZIQKdroclvQ4zDSj9fgxE6WIDietMRmxXwBXrzmjyllT1eNKtlNpiV/npV4/Dk62+rPl8O+b+qbEB6Kjhj5dooAb3rtgwRAIqKDaqWe4PHbkh5tGPcNUlUsNlaeBaUL42i/iefLt4+zkctvV2WFUpdIstwCrcIxmLVHAU4Yl/F0u/c04I4jIUSJ6OjFjwmrLkxi9JHJdoN83fmtpRx26G+s0fVFUyN5qB/VvnFM5LlKmKDBNvJY8jxn95fVzZZnY0I5ewd2UCOXWpT+VP23Vh6K17lTZln3gMAzK/FYTSDP0V9zCjx0PODeJk572gp3MaAAEmgeun5ZEoVrFRu5vyl4ybil4GfAhB0Rh3XR01GCLmlxEElyhmoFSqZSI2UkSEV1sVqfJpaSKMh3Ed6NvCKdd0hTfeHGtuUffkmbD4QQH7lCxjSpGtZaBWF4FDoc9zHnSfG8W8wjztSc9ONPfiXW//KC4jzhA=;3Bj5Vi6CyLTLQmyd6Nicsg=="
+secured: "dO/dk77e9qYzpc4m8KLW4oj/jXNDBIAPuGKGaO0bmEc39yYmaiT4mYtO+op6lJ4ULMNVLzXN2T3nilzAgqJECb+mMG5k1xc+JHssp3yq3hZnipK8kpx78rLP/zrkt4eJK4sBP0gneSQueGLyuYEuvX/pyDSlwi0DQttOE31SwXA4TClP9F+RSSPr8HulZBJm1V4PE2PZh+GubZHVOzKDoFnYjhsoT2bOkP4TXvVLZb6zrwdzJ84UOwgg7HT4QKpAAenXHIOHX8aHqRC0wmfWvqKkOMx/SVgBh7zP0LMsnIfevKMvSbvNy+wPXXHv8/DN14W/Bzv9ysmhzsRyTMGYgkcQcGm6532bop9KGFj4WBNczitsWOjbLwCTsaaWPdzGUNSOiUjXCrtVaSWJRnBsGKM821HVE1I7EvS+o43IfJatFHy7lVmPXVbNUgPIE8yxey1WaQwE8St03GzxziQc1ycc3LSZUoZ/r55X8f0/DXI=;AylFkWMh66OjRhW1qDi17Q=="
 ---
 

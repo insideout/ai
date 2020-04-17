@@ -2,6 +2,43 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
+      "title": "Three applications deep learning and computer vision can improve",
+      "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.controleng.com/articles/three-applications-that-improve-with-deep-learning-and-computer-vision/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Control Engineering",
+        "domain": "controleng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/ctlx_icon_MachineVision_Slider_01-3-3.jpg",
+          "width": 485,
+          "height": 260,
+          "title": "Three applications deep learning and computer vision can improve",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-forwardx-debuts-computer-vision-amr-fleet.md",
       "title": "ForwardX debuts computer vision AMR fleet",
       "excerpt": "Nicholas Temple, VP of sales for ForwardX, illustrates how the company’s computer vision-based AMRs use AI and deep learning to extract insights from camera inputs. ForwardX Robotics (Booth 1207) recently launched in the Americas what it claims is the world’s only computer vision-based AMR fleet, which has already been installed in ...",
@@ -1112,43 +1149,6 @@
           "width": 1400,
           "height": 933,
           "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-chinese-facial-recognition-can-now-identify-people-wearing-masks.md",
-      "title": "Chinese facial recognition can now identify people wearing masks",
-      "excerpt": "Chinese companies specialising in facial recognition have upgraded the technology to identify people wearing masks in the wake of the coronavirus outbreak. China's AI champion SenseTime, the most valuable AI startup in the world, is one of several firms ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/Chinese-facial-recognition-identify-people-wearing-masks.html",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
-      "publishedDateTime": "2020-02-26T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mail Online",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg",
-          "width": 636,
-          "height": 382,
-          "title": "Chinese facial recognition can now identify people wearing masks",
           "attribution": null
         }
       ],

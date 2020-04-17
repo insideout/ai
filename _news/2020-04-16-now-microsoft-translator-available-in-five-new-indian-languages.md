@@ -24,21 +24,6 @@ images:
     title: "Now Microsoft Translator available in five new Indian languages"
 
 related:
-  - title: "Microsoft adds five new Indian languages to its Microsoft Translator service"
-    excerpt: "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs provided on Azure to create custom software products for their businesses. The Microsoft Translator service enables text translation API into an ..."
-    publishedDateTime: 2020-04-16T10:58:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service/article31355525.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 56
-    images:
-      - url: "https://www.thehindubusinessline.com/info-tech/wr5xdp/article31355588.ece/ALTERNATES/LANDSCAPE_615/microsoft-translatorjpg"
-        width: 615
-        height: 384
   - title: "Microsoft Translator gets 5 new Indian Languages: Know what they are"
     excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
     publishedDateTime: 2020-04-16T14:24:00Z
@@ -54,21 +39,17 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/04/microsoft-translator-1587047031.jpg"
         width: 1200
         height: 675
-  - title: "Microsoft Translator now offers real-time translation in five additional Indian languages"
-    excerpt: "these new languages are available via the Microsoft Translator text translation API. “We’re committed to empower every Indian and every business in India by bringing the power of AI into their daily life. Microsoft celebrates the diversity of languages in India and wants to make the vast internet even more accessible. We have supported ..."
-    publishedDateTime: 2020-04-16T15:00:00Z
-    webUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/"
-    ampWebUrl: "https://mspoweruser.com/microsoft-translator-translation-languages/amp/"
-    cdnAmpWebUrl: "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/microsoft-translator-translation-languages/amp/"
+  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
+    publishedDateTime: 2020-04-16T17:58:00Z
+    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
     type: article
     provider:
-      name: MSPoweruser
-      domain: mspoweruser.com
-    quality: 35
-    images:
-      - url: "https://mspoweruser.com/wp-content/uploads/2020/04/Microsoft-Translator-India.jpg"
-        width: 874
-        height: 583
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 24
   - title: "Microsoft adds 5 new Indian languages to its Translator service"
     excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
     publishedDateTime: 2020-04-16T17:26:00Z
