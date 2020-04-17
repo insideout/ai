@@ -19,16 +19,14 @@ topics:
 
 related:
   - title: "Amazon Alexa gets long-form speaking style"
-    excerpt: "Amazon has introduced a new speaking style for Alexa and also added some speaking styles for other Artificial Intelligence (AI) voices. The feature was introduced back in November and now, starting this week in the US,"
-    publishedDateTime: 2020-04-17T13:39:00Z
-    webUrl: "https://newsd.in/amazon-alexa-gets-long-form-speaking-style/"
-    ampWebUrl: "https://newsd.in/amazon-alexa-gets-long-form-speaking-style/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/amazon-alexa-gets-long-form-speaking-style/amp/"
+    excerpt: "Starting today, you can use a new long-form Alexa speaking style to create a more natural and engaging experience for content such as news articles or blogs,\" Amazon said on its developer website on Thursday."
+    publishedDateTime: 2020-04-17T19:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20200418/3542639.html"
     type: article
     provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 24
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 4
 
 secured: "QxdO427yJXmjxErGw1l9DsJOVHUx1NH6rbt+hNGd8/RqOCYGCXgWGpXJlYlYHV6rVh65hNncqtDBPqKhPKtHn5E/QVnuc1VVgHyQcaNsdHTXFv1GtF5yTFywfk/e30KoWdOt20Pwibp0ybMN01Pz0d76ANclKH4wObGtkwtuj8tPh87D/lzAUDX94BI14t+pmHeV+dAXTZJpa39IlfUn7qizhpjUpnCeKQXDER4xJo8EoRMgz1gxHGt6APLwNPNymm3cwb3iHfy26n8VQcaxKCJdkJ6oXZEu3ddJH9MUUPoHiywdwDrNyMC/ZGM5v4r6;bFbnZTYndDPmhaviRePsfg=="
 ---

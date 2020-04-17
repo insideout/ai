@@ -8,8 +8,8 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/maker-villages-start-up-la
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Line
@@ -40,6 +40,15 @@ related:
       - url: "https://www.thehindu.com/news/cities/Kochi/ngjagy/article31369554.ece/ALTERNATES/LANDSCAPE_615/ai-aerial-dynamics-spraying-uav"
         width: 615
         height: 384
+  - title: "New AI-driven UAV drone to combat Covid-19"
+    excerpt: "A startup at a village in Kochi has developed an Unmanned Aerial Vehicle ( UAV) drone supported with artificial intelligence that can help combat Covid-19 by monitoring body temperature, supplying essential commodities and spraying disinfectants. The unmanned 'Garud' has been designed and engineered by AI Aerial Dynamics at the Maker village ..."
+    publishedDateTime: 2020-04-17T19:56:00Z
+    webUrl: "https://news.webindia123.com/news/articles/India/20200418/3542647.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "71A8FMYigUYGjdj5ph3+spKM7V7LosaXU5oAL6Hz82nxh10IoM6baouyPf98hvNRWbxOyuhVu5Mka8W2iMZmlqYEAaieGuIosMLy0q16ynfZ9rN9BZAPGMWeSbSMEOQ/g6CfaJ6HUXhsBUGWLdI8d/WRiJXj++Pwm4uBXOpiMqyNxapWW+fegdoLqfLt0ZGfJeexRZZh6GbpDNeEzvkf8kFQsptBKzNCLFXAfLvthwU5n58q6GQ+nRzBtWLxlksJXMVA4RHjTEeZ0ODs7t3xq5rjY+TGzC7oEsnBY+QqQSYuFjPtoMzm8MOKDWAHzFFm;AVSG2vVSe37vgvYmeM/N4A=="
 ---

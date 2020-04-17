@@ -2,21 +2,25 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:24:00Z
-webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:47:00Z
+webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 34
-heat: 34
+quality: 64
+heat: 64
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "/nhj4syxur+tljMpOhoFfPEjSARpbcn0JDnWH1Ulaqm5SquyCpvAFb9g3nVylUKMdh3KWW7QR3anz+3it/FAG7IGhEJmwb/+JgSxqTAWcmoqK7k3puJlTILcDELaAha8DFVnX1y8H2XHxRJYB9JWRHhDUEhckFa9GQ6dAjGJPn/mELnTbo/9bUG4ur05E/GmYkI8n9pkMiQU3aPtnIro3SohRkPx/KwJW/Id5Y4i8BlMy6W7+N+OufxI4qIEhdHoDZG1kOFNfC6+OybZVQkw3xtkkNCUNC2pnpyu0GGRvuxzYaGnnZCb9Nv/WPAYjaU39liCkC4EnmvfZiVaNHN6X4Aa/+OQU+CP6e3Ay/FThJa9GcbQdu7PzxBGF9xgZhbT0XD9A5yCr+hEhXekOBznGxlirFQ3Fg4vIB2NDeVw+k92F3Lv36XyGAvVao1z+NYR7hGDYxbWEponZG33a6ZJprmRgLPJ6o3kl3uCCcZax3A=;yzn3CpXxusXqM6RweqjMag=="
+secured: "cLDf9nhyUK5vZWTr8HdB6t0H3dsPqAYFS28DjCaRpiBn3RQH5H7NPPt3X2OPcMWVkud3ZWDf5l1BuPbs7egag2299eXGLwJJhHoD1Xba7YsyjpVO88AmSzCAKOHsHrU21IUT49dUqtR4xE4+GhOaysb4qjQk4q94UL6o1xlvb81nAgG89EU5abGUZZYT/2+2UM4rr4M06jLY2Ub6mKKjKYbnVsLTirt7pLbYvpCTKhkLz8NpgDrisaHkqEHyMx4f+3ZGpNkyfi119g08H1F7mcpseloYKyH88+ynFi+gXmDLV7+kFnJDodZtflgGyvVomrWBUsvnse4X4TjmKoFwJeth2eiRAODkSul8z9n8km/fMmuBlq5S7wiLVUWcIjL458a2yI3wjJCNLz+EOpx8+VOPXRsAItI54WLSN7v/9VEs9OlVoAd+l9k5yZYA/wSP8/iVy8hOXDGvjZ8kGAi/SiYIkcV7Ma7prIhB3DbxnXk=;0wl/XR6CPaI7kXvi3N3GXg=="
 ---
 
