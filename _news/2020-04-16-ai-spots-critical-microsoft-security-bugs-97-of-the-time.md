@@ -28,6 +28,6 @@ images:
     height: 573
     title: "AI spots critical Microsoft security bugs 97% of the time"
 
-secured: "/a+2p3CeWcX+9cV6q/1CZ4w3UX2DQJj/CKQQbutccDlyTNuotU4S6yBTxp7VE0TQIaBnNbSPcDq0k8s/tAjkZdMHCnDqGATTrb3xvC6vhzEouOiPQSzJipB2aOP8ZqMIendMeewqaV74n/R2bwHr7UYmnWkxrrT5EM98alw/8IDvJfBf+21aEiwhpTzizOun2o8nnGCUVnGj4GsTQD/OU+uSU4TcF5D3Mcm9jwAtIztNwz1e1CU5RmwHz2k/keTmTDorKfVTXCtIVy/MLFW+dIgPOvfp9xVCo7oXCepWdtzp+bt9BZ6Get/a3JGuKt5M;d5LKRFdn0Cq6kqhTy5sVuQ=="
+secured: "synI+szglhsgElugOgO8gV+z8NF3HwC+Fbx+9pAiojRuu90Lkv+VEihGnsQR+hbQ6tyz8bljQ34cgAM8I5ElyKpb1IqyMQ/dXKrQ7SLwzR70xVz6V9JGl9BD2ojH5wIhLobg06r0NUcg17VIc/BFrvNZWUbxIFgpjLrpQbpnbThJzlPLcyrx9NJCkjedG8E8PeD5PimLRjwOsKP4jqhGpLqZtwxXNdJJSHvx7RR9wMR2QLtRcsIJevbRV8zYaHeMIz/ePKSgnzBpVkQdsz+AkZMECuID0YX4byx73tUHaOqrl1jOe8/F1XV+vO4amzNs;ZWxWoHb84n2l1nhGFOCyXA=="
 ---
 
