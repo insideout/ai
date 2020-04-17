@@ -2,6 +2,96 @@
   "page": 82,
   "value": [
     {
+      "path": "_news/2020-01-18-deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now.md",
+      "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+      "excerpt": "The reason: they both invest in so-called deep tech, and they meet routinely with startups whose central focus is ... Siraj Khaliq is a partner at the global venture firm Atomico, where he tries to find world-changing startups that are enabled by machine learning, AI, and computer vision. He has strong experience in the area, having cofounded ...",
+      "heat": 66,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/17/deep-tech-vcs-on-what-they-view-as-some-of-the-most-impactful-young-startups-right-now/amp/",
+      "publishedDateTime": "2020-01-17T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/07/space.jpg?w=1024",
+          "width": 1024,
+          "height": 649,
+          "title": "Deep tech VCs on what they view as some of the most impactful young startups right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-18-artificial-intelligence-cant-get-here-soon-enough-executives-say.md",
+      "title": "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say",
+      "excerpt": "Seven in ten executives across a range of industries wish their organizations would get more aggressive in adopting AI technology",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/01/17/artificial-intelligence-cant-get-here-soon-enough-executives-say/amp/",
+      "publishedDateTime": "2020-01-17T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e212af6980ca10006aa9f5b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Intelligence Can’t Get Here Soon Enough, Executives Say",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
       "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
       "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
@@ -1187,94 +1277,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape.md",
-      "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
-      "excerpt": "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "publishedDateTime": "2020-01-17T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/Tiid1ZAgHJWSHQdKzyENKcS7TFo=/756x567/2020/01/16/ceedacb8-85c9-4017-8972-6591c818f319/mg-2832.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-apple-buys-another-artificial-intelligence-start-up.md",
-      "title": "Apple Buys Another Artificial Intelligence Start-Up",
-      "excerpt": "CEO Tim Cook confirmed last year that the tech titan tends to buy smaller companies every two to three weeks. Apple's latest acquisition is all about low-power edge-based artificial intelligence (AI). Here's what investors need to know. Apple chip exec Sri Santhanam detailing the A13 Bionic's machine-learning capabilities in September.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/17/apple-buys-another-artificial-intelligence-start-u.aspx",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-17T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/553773/apple_keynote-event_sri-santhanam-a13-bionic_091019.jpg",
-          "width": 3008,
-          "height": 2000,
-          "title": "Apple Buys Another Artificial Intelligence Start-Up",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

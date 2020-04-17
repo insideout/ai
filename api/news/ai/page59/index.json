@@ -2,6 +2,87 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-12-this-startup-is-building-infrastructure-for-the-first-factory-in-space.md",
+      "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+      "excerpt": "In the quest to build bigger things in space, one Colorado-based company is readying for an epic construction demonstration mission. Blue Canyon Technologies will provide the spacecraft vehicle infrastructure supporting a “factory” that will 3D-print solar arrays in space.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/",
+      "ampWebUrl": "https://www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elizabethhowell1/2020/02/12/employee-owned-space-company-assists-with-assembling-stuff-in-orbit/amp/",
+      "publishedDateTime": "2020-02-12T08:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e43fce9f133f400076c4041%2F0x0.jpg",
+          "width": 1200,
+          "height": 778,
+          "title": "This Startup Is Building Infrastructure For The First Factory In Space",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-artificial-intelligence-for-machine-tool-maintenance.md",
+      "title": "Artificial intelligence for machine tool maintenance",
+      "excerpt": "If there is a need for action, the system informs the user automatically.\" The new system combines a camera with light source attached to the nut of the drive and an artificial intelligence (AI) that evaluates the image data. As the nut moves on the spindle, it takes individual pictures of each spindle section, enabling the analysis of the ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eurekalert.org/pub_releases/2020-02/kift-aif021120.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-12T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/223953_web.jpg",
+          "width": 720,
+          "height": 652,
+          "title": "Artificial intelligence for machine tool maintenance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-12-why-clearview-ai-is-a-threat-to-us-all.md",
       "title": "Why Clearview AI is a threat to us all",
       "excerpt": "The surveillance system offers police unprecedented surveillance power. When London's Metropolitan Police Department announced its decision to adopt the controversial and intrusive ClearView AI surveillance system at the end of January, a global cacophony of protest erupted. Concerns, fear and trepidation surrounding facial recognition ...",
@@ -1203,96 +1284,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-aptivs-self-driving-vehicles-top-100000-rides-in-las-vegas.md",
-      "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
-      "excerpt": "Waymo got a lot of media coverage for the December 2018 commercial launch of its automated ride-hailing service. But Waymo wasn’t the first company to open such a service to the general public and start charging for rides.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2020/02/11/aptiv-self-driving-vehicles-top-100000-rides-in-las-vegas/amp/",
-      "publishedDateTime": "2020-02-11T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41bec0a854780006b0f2a8%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Aptiv’s Self-Driving Vehicles Top 100,000 Rides In Las Vegas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks.md",
-      "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
-      "excerpt": "McAfee, one of the big players in the industry, is adding AI capabilities to its own suite of tools that protect users from increasingly automated attacks. A whole wave of startups — like Israel ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/mcafee-cto-how-ai-is-changing-both-cybersecurity-and-cyberattacks/amp/",
-      "publishedDateTime": "2020-02-11T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/11-McAfee-interview.jpg?fit=2160%2C1078&strip=all",
-          "width": 2160,
-          "height": 1078,
-          "title": "McAfee CTO: How AI is changing both cybersecurity and cyberattacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

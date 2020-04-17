@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-28-microsoft-pulls-out-of-facial-recognition-startup-anyvision.md",
+      "title": "Microsoft pulls out of facial recognition startup AnyVision",
+      "excerpt": "Microsoft has pulled its minority investment out of a facial recognition startup that made headlines last year for allegedly surveilling Palestinians, while Microsoft also said it would halt any minority investments in companies selling facial-recognition technology,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-pulls-out-of-facial-recognition-startup-anyvision/",
+      "publishedDateTime": "2020-03-28T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/JsUigaPqhHEO0XUYO41ZqO-Z-vo=/756x567/2020/01/18/2bde6ea9-4f91-4473-a8fb-1418d9ac5c7d/facial-recognition-james-martin-promo-1.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft pulls out of facial recognition startup AnyVision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-28-microsoft-pulls-its-smaller-investments-in-facial-recognition-tech.md",
       "title": "Microsoft pulls its smaller investments in facial recognition tech",
       "excerpt": "It's selling a stake in the surveillance firm AnyVision. Microsoft has been vocal about setting limits on facial recognition, and it's now backing that up with its financial support -- or lack thereof. The company is ending minority investments in facial recognition startups and is pulling its stake in AnyVision, an Israeli startup whose ...",
@@ -1156,43 +1201,6 @@
           "width": 510,
           "height": 300,
           "title": "Computer Vision and Image Analysis online course offered by Microsoft",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
-      "title": "With painted faces, artists fight facial recognition tech",
-      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
-      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
-      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
-      "publishedDateTime": "2020-03-17T03:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
-          "width": 1024,
-          "height": 738,
-          "title": "With painted faces, artists fight facial recognition tech",
           "attribution": null
         }
       ],

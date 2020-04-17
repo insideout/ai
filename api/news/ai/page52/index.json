@@ -2,6 +2,90 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-02-20-the-zacks-analyst-blog-highlights-microsoft-applied-materials-sap-se-lam-research-and-tencent.md",
+      "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
+      "excerpt": "Chicago, IL – February 20, 2020 – Zacks.com announces the list of stocks featured in the Analyst Blog. Every day the Zacks Equity Research analysts discuss the latest news and events impacting stocks and the financial markets.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-zacks-analyst-blog-highlights%3A-microsoft-applied-materials-sap-se-lam-research-and?amp",
+      "publishedDateTime": "2020-02-20T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "The Zacks Analyst Blog Highlights: Microsoft, Applied Materials, SAP SE, Lam Research and Tencent",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-aera-launches-cognitive-business-brain-operating-system.md",
+      "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+      "excerpt": "The software industry is pushing to extend the definition of the operating system that started with software built for mainframes in the 1950s and then into the PC revolution in the 1980s - it now explains the use of AI-driven business operational software.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/02/20/aera-launches-cognitive-business-brain-operating-system/amp/",
+      "publishedDateTime": "2020-02-20T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e8413d378190007f3e652%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D960%26cropY1%3D12%26cropY2%3D552",
+          "width": 960,
+          "height": 541,
+          "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
       "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
       "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
@@ -1214,86 +1298,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-google-used-ai-and-human-moderation-to-take-down-over-75-million-google-maps-reviews.md",
-      "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
-      "excerpt": "But user contributions are intrinsically fraught. That’s why increasingly, Google is using AI and machine learning to spot malicious contributions at submission time, ensuring they don’t reach the over 1 billion users who regularly use Maps. In a blog post, Google said that it uses automated detection systems, including machine learning ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/google-used-ai-and-human-moderation-to-take-down-more-than-75-million-policy-violating-google-maps-reviews/amp/",
-      "publishedDateTime": "2020-02-19T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1.-Intro-Image-e1580880177276.png?fit=1198%2C601&strip=all",
-          "width": 1198,
-          "height": 601,
-          "title": "Google used AI and human moderation to take down over 75 million Google Maps reviews",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo.md",
-      "title": "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO",
-      "excerpt": "The Series E funding comes just eight months after SentinelOne closed a $120 million Series D round, and will help the fast-growing endpoint security vendor expand its geographic footprint in Europe and Asia. By Michael Novinson February 19, 2020, 11:30 AM EST SentinelOne Wednesday closed a $200 ... raise any more money prior to filing for an ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crn.com/news/security/endpoint-protection-vendor-sentinelone-raises-200-million-eyes-ipo",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/025a-0ebd3d78ff5f-cb22610bd78b-1000/86796455.jpeg",
-          "width": 399,
-          "height": 399,
-          "title": "Endpoint Protection Vendor SentinelOne Raises $200 Million, Eyes IPO",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

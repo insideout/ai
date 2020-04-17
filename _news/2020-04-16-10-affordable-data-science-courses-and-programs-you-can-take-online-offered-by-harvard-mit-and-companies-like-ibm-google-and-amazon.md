@@ -7,8 +7,8 @@ webUrl: "https://www.businessinsider.com/data-science-courses-online"
 ampWebUrl: "https://www.businessinsider.com/data-science-courses-online?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/data-science-courses-online?amp"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://i.insider.com/5e97a3aab3b09228be4e02c3?width=1200&format=jpeg"
@@ -29,6 +30,6 @@ images:
     height: 600
     title: "10 affordable data science courses and programs you can take online — offered by Harvard, MIT, and companies like IBM, Google, and Amazon"
 
-secured: "n/y0WcQEWpCAjnb0SEK84/lnwdpt+y1czPjaWz9S17YRMwYYKFlhtZjUZykI626REZxsKPH2JNQv4PaCK7HVlN9tt1uny8RUJNKnrjLfY1dghYA8bkjEjhHGa/rPmJVjYPfXg92iulffqmu1oEi/1/4VgiGAfEQfLIWCmSXhXtDsXd85QX+58Q7RjtuoN2FQWIyfubh+vKOnRsSJJMEYtsVxHPpEyg4UynqtXxW8CamyUtBa2hYSSt97U0PGZORjPJxOknpKaHEXWTOPXzYghahYM7+koqFqqq73CoC8PC1dglD/vuQZ3oiR1C9K6TWS;s8bWaV1EBbswOFCdyl7B4Q=="
+secured: "56GKljwAwdsCiGj3fYC1zgr0MyDeQfDR7kx374TEUbsdofFkdncqO+5Qelkwa7VveFzWXHeNgmIIF8ZFlDuqnFRS/92VGBn+9dH4r9sWb+lXa2V/uovX03iMuj0pbSknoytfLlwBUsx6OVevVn+1PFAKHQIb6JTjbyrqDXjPOn5FRlKbjGFsr6KEluhWB89bX7dkSMEbIUH7+vKj/Dt9DYURrhLN/fp15/lRllpTlRwa3VHuGrx/PanE94Egeqxvl6EJZwNpjMpjhqSl3MHYTNtKxNyFczHD4MRSh66vVdl/14QK8If6Xuc+EjiRUqowc+Ct1VoJr7F2CNesdF2empcSyfjJSX9cJFd4LaZaDc2wgoKF3apSWc/jCQFTDucRZrzM6aoF8XK2XPyXQ1YAhJ/EBzX3RyUyYrMjEv/gfvGhJfVu/Vh02QBkz6AcVkySYWCHqMNnqIQfM+oVlxDvp56OVSbrxDSFh3T3XvhPd4E=;EXp7n5/gR2FPUVLf8xd5xQ=="
 ---
 

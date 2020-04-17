@@ -7,8 +7,8 @@ webUrl: "https://www.physiciansweekly.com/artificial-intelligence-a-new-paradigm
 ampWebUrl: "https://www.physiciansweekly.com/artificial-intelligence-a-new-paradigm-in-obstetrics-and-gynecology-research-and-clinical-practice/amp/"
 cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/artificial-intelligence-a-new-paradigm-in-obstetrics-and-gynecology-research-and-clinical-practice/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.physiciansweekly.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg"

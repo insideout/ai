@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
+      "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
+      "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
+      "publishedDateTime": "2020-04-14T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
       "title": "Coronavirus Brightens Outlook for Robotics ETFs",
       "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
@@ -1019,51 +1065,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast.md",
-      "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-2019-2027-segments-and-supply-demand-forecast-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market 2019-2027 / Segments and Supply Demand Forecast",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

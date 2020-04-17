@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T08:44:00Z
 webUrl: "https://galusaustralis.com/2020/04/599851/global-computer-vision-in-healthcare-market-2017-2026-nvidia-corporation-microsoft-intel-corporation-xilinx-inc-ibm/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,36 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Artificial Intelligence In Aviation Market Technology Advancement and Business Outlook 2020"
+    excerpt: "The report begins with the overview of the Artificial Intelligence In Aviation Market and offers throughout development. It presents a comprehensive analysis of all the regional and major player segments that gives closer insights upon present market conditions and future market opportunities along with drivers, trending segments, consumer ..."
+    publishedDateTime: 2020-04-17T03:37:00Z
+    webUrl: "https://galusaustralis.com/2020/04/600906/artificial-intelligence-in-aviation-market-technology-advancement-and-business-outlook-2020/"
+    ampWebUrl: "https://galusaustralis.com/2020/04/600906/artificial-intelligence-in-aviation-market-technology-advancement-and-business-outlook-2020/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/04/600906/artificial-intelligence-in-aviation-market-technology-advancement-and-business-outlook-2020/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 47
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2019/05/AI-in-Aviation-1024x615.png"
+        width: 1024
+        height: 615
+  - title: "Police use of facial recognition technology gets spotlight"
+    excerpt: "For all intents and purposes, facial recognition technology for law enforcement agencies is in its beta stage. Now that doesn’t mean police departments haven’t begun to (problematically) implement it in some form — with mixed results, along with legitimate concerns about racial bias and privacy. But as law enforcement agencies across the ..."
+    publishedDateTime: 2020-04-16T16:08:00Z
+    webUrl: "https://www.boulderweekly.com/news/police-use-of-facial-recognition-technology-gets-spotlight/"
+    type: article
+    provider:
+      name: Boulder Weekly
+      domain: boulderweekly.com
+    quality: 39
+    images:
+      - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
+        width: 1280
+        height: 1066
 
 secured: "TIb0+eZcSUJGsiKh8CW99X7Uihcxv8YesxfANtVQatWkfmYilaHm3/B2BXXX8awztRsiYrfuq4wH+ORUZNhHbquAKEET8rVH0aviIiFlse0e3Gf3QJc08L0vMhLbZFoMpImiMl2NY4qgOIAtziYMDSfBBRDckczeYWUemg9fLKqgATWpnjRNECOI+z1+cpIr68CaP0lqvBdAxcJtCo+EMRzjJX8xK7RC/ZR+dgG6HEw0Rg+opR0ZdfwSzF0qf0hi9qeC/YtoUuu2E8dkDXidyw6SdibpV9daH9RYZj5LoxGdADairEdxPZu+Tw1TNjbEDG3LSSw+X8sGK8Ei+Hjbxd97nBg0VRIkK8TqAhG5pmjWckVmkwQqV7oUK5x2VsO6ke5DoL4oiL8XsKI1rHcLqGnCCKARzCXBUMohbefkJq4F30u2GZlo+Pb/rBk4rRt2bZ5/9w7QC8N6S3LrJ/ExhREfZIED+TZ/cBl31Mris1c=;yRQVXbFktQLfyXXTt4+sKw=="
 ---

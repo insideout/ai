@@ -2,6 +2,43 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-03-17-with-painted-faces-artists-fight-facial-recognition-tech.md",
+      "title": "With painted faces, artists fight facial recognition tech",
+      "excerpt": "As night falls in London, Georgina Rowlands and Anna Hart start applying makeup. Instead of lipstick and eyeliner, they’re covering their faces with geometric shapes. Rowlands has long narrow blue triangles and thin white rectangles criss-crossing her face.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pressofatlanticcity.com/business/ap/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.html",
+      "ampWebUrl": "https://www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "cdnAmpWebUrl": "https://www-pressofatlanticcity-com.cdn.ampproject.org/c/s/www.pressofatlanticcity.com/business/with-painted-faces-artists-fight-facial-recognition-tech/article_02a8e5a7-fbb9-5373-b709-0ea722c0406b.amp.html",
+      "publishedDateTime": "2020-03-17T03:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Press of Atlantic City",
+        "domain": "pressofatlanticcity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/pressofatlanticcity.com/content/tncms/assets/v3/editorial/b/75/b75ab181-5b9b-5c17-bb85-ed0894c739a1/5e42e53a5ff29.image.jpg?resize=1024%2C738",
+          "width": 1024,
+          "height": 738,
+          "title": "With painted faces, artists fight facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-knives-out-tech-tackles-violent-crime.md",
       "title": "Knives out: tech tackles violent crime",
       "excerpt": "“This means that in a crowded environment like a train station or shopping centre, video-recognition systems that are enhanced by AI-powered threat-object recognition software can be used to identify and flag forbidden objects such as knives,” he says.",
@@ -1120,43 +1157,6 @@
           "width": 2016,
           "height": 1132,
           "title": "Here's Why I'm Campaigning Against Facial Recognition in Schools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-industry-key-events-2020-2025.md",
-      "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
-      "excerpt": "“Computer Vision in Healthcare Market 2020-2025” Summary: – Wiseguyreports.Com Adds \"Computer Vision in Healthcare – Market Demand, Growth,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15524368/global-computer-vision-in-healthcare-market-latest-innovations-drivers-restraints-challenges-and-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15524368",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15524368",
-      "publishedDateTime": "2020-03-11T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583916027.jpeg",
-          "width": 500,
-          "height": 598,
-          "title": "Global Computer Vision in Healthcare Market: Latest Innovations, Drivers, Restraints, Challenges and Industry Key Events 2020 – 2025",
           "attribution": null
         }
       ],

@@ -2,29 +2,74 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-07-pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update.md",
+      "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
+      "excerpt": "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/",
+      "ampWebUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
+      "publishedDateTime": "2020-04-06T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/google-pixel-4-30.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:45:00-07:00",
+      "publishedDateTime": "2020-04-06T19:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -1218,50 +1263,6 @@
           "width": 2545,
           "height": 1273,
           "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
-      "title": "Why AI startups’ economics will likely improve over time",
-      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
-      "publishedDateTime": "2020-04-06T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Why AI startups’ economics will likely improve over time",
           "attribution": null
         }
       ],

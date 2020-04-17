@@ -23,6 +23,6 @@ images:
     height: 430
     title: "CollabNet VersionOne, XebiaLabs, and Arxan are now Digital.ai, helping orgs realize the benefits of DX"
 
-secured: "vAb+PbfrZEmx7nivUl61oFYpQrTrQ+3KcwLq6o5nEm4RC7o6iSb1qcktsf+zP/V1gsx3+zTnhNAMhs2RtLxYHT9R1mJ7GH6x+ih65MDNQIBCeqU2cTL1xIEgWEesPgKEqoQOtSNW/PH84aeTkorNit/uHZy9AkYExITimKkUwMdGuHIjwz/jBbNCDstzqVRaOniG+O0CkOhHS5s35iNgzn6MHO+3DUqyEV16iuaJ3A9j4iTqNFUif/BWOxAZOXV6N7CssNsFycsZMmMnORuIIo2EsDC5tVsrKKsuaPzuP26PDB6hRd49ZizH/O/Yph+s;FWwHkJb5TNSoNifycYBtYQ=="
+secured: "quN7d8qmeWnbnC9fhEh50W7n4dGHkIecqu+bRdVZ+dVTsib357OpU+4BlCh+5AAk+ZjQmEd6tDOGqleIiXxmpWDqibwrwaHaBFnK+A18OlNogMOX4Wg+znc6J2ix+Mm0sZYx1Y01YwOdf/BG0dLdEXdp1gPWyF1q62Enor0UH20iVdakUqpzfq5WkmqzSb055CWSd7txq87IlvWFesBQRp3esNmPh30NK3PIuNQhkXjNurWdRIYfcvo81+1Yjm8UEVMUcPXzUYuW4B6Gb2b7Q5dc4ZW10ibuWp6HqNdkuT2M248Eg9gRpyWWc+qi8/AZqUXTstYMkAXt6AoUZ6+bVnoFZfvrGR9BnG29mSne3pYf1UTqn7iK5mf/QiiC3z9Q3uP0x/Vo7PD8hM8WPQvWKlmqoTitnnAbRDHtiL9U5n0OKQvV4R8xI6uBPPpZGvL9oc2mkizujLVKtLcXEC3EaDMl+nGTH2LtHMl7aCPthpg=;M7qtyG9gXLcOgb0BLWABYg=="
 ---
 

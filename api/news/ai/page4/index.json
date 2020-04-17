@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-14-coronavirus-how-ready-is-ai-to-detect-and-prevent-pandemics.md",
+      "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
+      "excerpt": "But the technological landscape has changed. Can AI, alongside machine learning, natural language processing (NLP), and robotics be called upon to detect, prevent, and manage pandemics? Bluedot, a Canadian startup used an AI-based algorithm to warn people against traveling to China due to the possibility of a flu-like outbreak. The startup ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/348804",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348804",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348804",
+      "publishedDateTime": "2020-04-13T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144446-GettyImages-1185375168.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
       "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
       "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
@@ -1237,50 +1282,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference.md",
-      "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
-      "excerpt": "In an academic paper published this week on the preprint server Arxiv.org, a team of Princeton, Microsoft, the nonprofit Algorand Foundation, and Technion researchers propose Falcon, an end-to-end framework for secure computation of AI models on distributed systems. They claim that it’s the first secure C++ framework to support high-capacity ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/researchers-propose-falcon-a-privacy-preserving-communication-protocol-for-ai-training-and-inference/amp/",
-      "publishedDateTime": "2020-04-10T08:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ai-brain.jpg?fit=1200%2C595&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": "Researchers propose Falcon, a privacy-preserving communication protocol for AI training and inference",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

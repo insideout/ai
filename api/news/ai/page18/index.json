@@ -2,6 +2,80 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-30-fintech-company-payby-launches-mobile-payment-services-in-the-uae.md",
+      "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
+      "excerpt": "PayBy is a fintech company with world-class payment infrastructure that provides a fast, secure, AI-powered, one-stop payment solution. The company is committed to offering unified and inclusive financial services for everyday work and life, connecting with people around the world. PayBy collaborates with a variety of leading institutions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/Fintech_Company_PayBy_Launches_Mobile_Payment_Services_in_the_UAE-ZAWYA20200330093210/",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20200330093210/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200330093210/",
+      "publishedDateTime": "2020-03-30T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
+      "title": "Huawei steps up ambitions in self-driving vehicles race",
+      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F6%2F6%2F3%2F25873661-1-eng-GB%2FRTX4YZOMre.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Huawei steps up ambitions in self-driving vehicles race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
       "title": "Extending the power of Azure AI to Microsoft 365 users",
       "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
@@ -1167,95 +1241,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
-      "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-      "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-anyvision-idUSKBN21E3BA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "publishedDateTime": "2020-03-27T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200328&t=2&i=1509159992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2Q222",
-          "width": 818,
-          "height": 545,
-          "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-textio-lays-off-30-amid-covid-19-seattle-startup-hopes-its-ai-writing-tech-will-aid-all-job-seekers.md",
-      "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
-      "excerpt": "Textio, the Seattle startup whose augmented writing platform helps companies use language that attracts ... there’s some opportunity to support job seekers in this environment,” Snyder said of the desire to quickly implement new features in Textio’s AI-powered natural language processing technology. Job seekers using Textio would be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/",
-      "ampWebUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
-      "publishedDateTime": "2020-03-27T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/11/textio_life_new_brand_800px-630x323.jpg",
-          "width": 630,
-          "height": 323,
-          "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

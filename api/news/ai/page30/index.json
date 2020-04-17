@@ -2,6 +2,80 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-18-quickstart-create-ml-services-cluster-in-azure-hdinsight-using-resource-manager-template.md",
+      "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
+      "excerpt": "In this quickstart, you use an Azure Resource Manager template to create an ML Services cluster in Azure HDInsight. Microsoft Machine Learning Server is available as a deployment option when you create HDInsight clusters in Azure. The cluster type that provides this option is called ML Services. This capability provides data scientists ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://docs.microsoft.com/en-us/azure/hdinsight/r-server/quickstart-resource-manager-template",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "width": 400,
+          "height": 400,
+          "title": "Quickstart: Create ML Services cluster in Azure HDInsight using Resource Manager template",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle.md",
+      "title": "Behringer DeepMind 6 Analog 6-Voice Polyphonic Synth Bundle",
+      "excerpt": "Free shipping to the the 48 Contiguous States. Hawaii and Alaska orders are welcome but may incur an additional shipping charge. Please message us for details if necessary. The standard shipping method on smaller items is USPS Priority and larger items ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://reverb.com/item/10753498-behringer-deepmind-6-analog-6-voice-polyphonic-synth-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reverb.com",
+        "domain": "reverb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
       "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
       "excerpt": "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ...",
@@ -1074,80 +1148,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-after-test-san-diego-pd-bans-facial-recognition-app.md",
-      "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-      "excerpt": "(TNS) — Imagine a \"search engine for faces.\" That's how a co-founder of Clearview AI has described the facial recognition app, a relatively new tool for law enforcement agencies to use to identify suspected criminals by matching photos of suspects to images and profiles online. With an internal database of more than three billion images ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html",
-      "ampWebUrl": "https://www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/After-Test-San-Diego-PD-Bans-Facial-Recognition-App.html?AMP",
-      "publishedDateTime": "2020-03-17T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_145677227.jpg",
-          "width": 940,
-          "height": 627,
-          "title": "After Test, San Diego P.D. Bans Facial Recognition App",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-moodys-analytics-vince-il-regtech-innovation-award-ai-fintech-breakthrough-awards.md",
-      "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
-      "excerpt": "LONDRA--(BUSINESS WIRE)--Moody’s Analytics, fornitore globale di intelligence finanziaria, ha vinto il premio RegTech Innovation Award ai 2020 FinTech Breakthrough Awards. Il riconoscimento ha premiato le nostre soluzioni tecnologiche normative software-as-a-service (SaaS). L'anno scorso abbiamo vinto un riconoscimento per Best Wealth ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200317005471/it/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200317005471/it/779410/23/FinTech_Breakthrough_Awards_2020_Moodys.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Moody’s Analytics vince il RegTech Innovation Award ai FinTech Breakthrough Awards",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

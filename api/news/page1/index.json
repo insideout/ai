@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-17-microsoft-becomes-nbas-official-technology-partner-games-to-be-broadcasted-on-azure.md",
+      "title": "Microsoft Becomes NBA's 'Official Technology Partner,' Games To Be Broadcasted On Azure",
+      "excerpt": "The National Basketball Association has signed a multi-year contract with Microsoft Corporation (NASDAQ: MSFT) to make the latter its \"official technology partner,\"",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/news/20/04/15825420/microsoft-becomes-nbas-official-technology-partner-games-to-be-broadcasted-on-azure",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15825420",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15825420",
+      "publishedDateTime": "2020-04-16T20:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.benzinga.com/files/images/story/2012/bball.jpeg",
+          "width": 1967,
+          "height": 1283,
+          "title": "Microsoft Becomes NBA's 'Official Technology Partner,' Games To Be Broadcasted On Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-facebook-to-warn-users-who-liked-or-shared-coronavirus-hoaxes.md",
       "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
       "excerpt": "Facebook says those warning labels have stopped 95 per cent of users from clicking ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
@@ -1048,50 +1085,6 @@
           "width": 1200,
           "height": 675,
           "title": "Project Florence: How AI-powered online learning is training nurses to fight COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-coursera-taps-ai-to-match-on-campus-courses-with-online-curricula.md",
-      "title": "Coursera taps AI to match on-campus courses with online curricula",
-      "excerpt": "Online learning startup Coursera today debuted CourseMatch, an AI tool that matches classes in schools’ on-campus course catalogs to relevant offerings in Coursera’s catalog. It’s a part of the startup’s Coronavirus Response Initiative that launched in early March, and Coursera says it’s intended to enable universities to facilitate ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/coursera-taps-ai-to-match-on-campus-courses-with-online-curricula/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/coursera-social-logo.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 625,
-          "title": "Coursera taps AI to match on-campus courses with online curricula",
           "attribution": null
         }
       ],
