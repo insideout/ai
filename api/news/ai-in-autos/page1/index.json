@@ -2,10 +2,55 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-17-has-elon-musk-set-up-regulatory-boogeyman-as-scapegoat-for-ongoing-delay-in-promise-of-self-driving-teslas.md",
+      "title": "Has Elon Musk Set Up Regulatory Boogeyman As Scapegoat For Ongoing Delay In Promise Of Self-Driving Teslas?",
+      "excerpt": "A tweet by Elon Musk this recent Easter weekend has sprung forth an erstwhile Easter egg hunt by the media and industry about the self-driving car status of Tesla. Let’s first consider the self-driving car ambitions of Tesla and then get to Musk’s latest tweet.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/17/has-elon-musk-set-up-a-regulatory-boogeyman-as-scapegoat-for-delay-in-his-self-driving-tesla-promise/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/17/has-elon-musk-set-up-a-regulatory-boogeyman-as-scapegoat-for-delay-in-his-self-driving-tesla-promise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/17/has-elon-musk-set-up-a-regulatory-boogeyman-as-scapegoat-for-delay-in-his-self-driving-tesla-promise/amp/",
+      "publishedDateTime": "2020-04-17T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F35029753%2F0x0.jpg%3FcropX1%3D219%26cropX2%3D3774%26cropY1%3D0%26cropY2%3D2666",
+          "width": 1200,
+          "height": 900,
+          "title": "Has Elon Musk Set Up Regulatory Boogeyman As Scapegoat For Ongoing Delay In Promise Of Self-Driving Teslas?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-how-facebook-works-for-trump.md",
       "title": "How Facebook Works for Trump",
       "excerpt": "In the artificial-intelligence field, this system is the opposite of self-driving cars or robots or virtual assistants: a deeply boring, basically invisible application of machine learning that is dramatically reshaping our lives not someday, but right now. Facebook wired a machine into electoral decision making. Political campaigns have ceased ...",
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.theatlantic.com/technology/archive/2020/04/how-facebooks-ad-technology-helps-trump-win/606403/",
@@ -95,7 +140,7 @@
       "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
       "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
       "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
@@ -1244,43 +1289,6 @@
           "width": 1630,
           "height": 952,
           "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
-      "title": "Artificial intelligence driving autonomous vehicle development",
-      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IHS Markit",
-        "domain": "ihsmarkit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
-          "width": 636,
-          "height": 370,
-          "title": "Artificial intelligence driving autonomous vehicle development",
           "attribution": null
         }
       ],

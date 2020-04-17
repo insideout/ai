@@ -8,7 +8,7 @@ ampWebUrl: "https://www.thehindubusinessline.com/news/science/ai-robotics-start-
 cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://i.dailymail.co.uk/1s/2020/04/09/01/26975694-0-image-a-31_1586390435961.jpg"
@@ -36,6 +37,6 @@ related:
       domain: arstechnica.com
     quality: 30
 
-secured: "yC/gAnAwKEgJr2Jvdz38TcWHMppyFG0itWzeHcbSpFXl4fWm6c/jK6JJ+XzezHSw5XctJCC6Mp7sDY65+Hc44ei6SZv6rQEPP3EBPOC3ozNk1LVT2whVMcUzCC47Z0rY+SEZ1Ab6TzYmRd2MLvMlDRrovICHAJ9br8bpXtsVW/ZMa+ZcMdtc88A15pm/zJo5axkD2TuGL7z6BKjz1AnJTywhOlycEHdsKK053hJkiooaCKu/YvyW/WY3vKU3sPQ0KXlEBRSpOG7icmOvWTlKZQpI4jZOk3SZpH/AO4PFYc2dSd6TY6dgWNrB9jxgsci+;4Hz8Bwm22EnBnSbhB2AVCw=="
+secured: "oG1KJ0Ie78L06llen8R6XtdY4ScgIx+dQwqNP84BFheUAyZTO2hpxnaXSL27Ni2iEAXcEMXNuzpfda6vyNGKOKZ4er3sJOAcimzX0rBpgpDeLnvZEqgH3lGRePP/GkIXxZkcFUPNsfPKVFSkbHYXGEwPeIVapbkjxzSM1LUr9ne22StDUolBKbZ96AFLdmmXyZvqltWLsokVZc3tLTy26MP7IcDmnS8VUI8LqXxHuf62CDBYajVkANYZ8sKX8dFFuZrUTHXyG7oZuXtWAM3W6RaWzooaj/PCV9UC4qo9BY7lvWQxu55nC26r4YNsNRkICV9ccNO95zirurL6OBupFecdiV2L/VDt5uq+RC3vJq3ohORTWi1Y7+STBgjSAsdjHQJYZhdMFq2MSvJGeEJyyWGJRLJv1RNSXgH0vUM4ciPr8DXeEa8ZBfoxmKCfk3LoujPeUvWRITo/hf8TwWySeOp2EyWNwbZJG1lFGS8GyQU=;pSX0EFhA5KMoH+CYxxr62Q=="
 ---
 

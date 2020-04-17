@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
 type: article
 quality: 104
-heat: 124
+heat: 125
 published: true
 
 provider:
@@ -61,6 +61,6 @@ related:
         width: 1400
         height: 933
 
-secured: "62kx9HprYtS6ngxYogINH+THt5Ez5HVW30VNipHXAGvemTl+8mmcW4Nk19b0YvHZHvRDI1JYLp6e9R5/Tqjoz937sYPF3N/yYDBcHb1cS74E0IphCyTfgIdscitUQL/VtWBpz/n9We5NayeH4fz63qXNFYQcHI8Mi6+Vwf7VKKCN3v15X6lIKNe6j3UdX58v2oV6Lbnwskgx62nolBhsE+FTw8g+fRyvlF65mLF4Cy1mDIOxkJs09au+Rhah7Ns8OR7nvzpOKDyXH+eekN4UjAOkGvxp4u0Ka+KGP9Z+fNablIPAM35rz6hqkrsDVRerx3Qd5Alnl8oIlo6jr6eU0dvnoqH1SzkKRjkn+bJ/txHjt+es2RRbIjfqmohOyHL3vC0kaU7SCkNOc59bG/TooV3hFOOiJgkBOUlYjzxzDGOL110oL0hX2UwUseN1q0fcaXxvn7hm/S1juTPK3vhCMtMUNt5wCplb6s8iLd6X9RY=;q0Trb0wXq5gsgV7bdcGM/A=="
+secured: "0IoZ6Pz9QL/W9qFCpJhgoM0v1HLirQsUVcVQ5nUpeb+R8aZxqcNPj1JPHkdPeMBYzuKJyZGaaSHcFQtCO52LmVDTs9S77o5fLqmfPMB17ib1PfNe+47GM1m/r3mSbUmHJF1HaSoP0ucjlCqBdqH554W5lSzfu0gJFf5+Bqu6RYKHO/6ocF6R+h8wkf/m5p5BRCMlurwXzLtH7+G7GUptuICGy5qdb3JjKwQ4BMubLR3nVtagEzBe4QVw29CDZasoFTboo8Xzx+nvO7G5hZ9riZcd9G9bteQm1eW9Kijpi+71idpJbPHpJxQG+fCL6MdIAmXaOg6kNHbyTFBqYZ4xQbS5tiAnnitcS11H9cQ/222010HKzMTb2zcpk6a4B2dUAfGqb7EJZGQv4i90HHBEsi30Eky+OEeSxGNC8fN9GGk4WYiHqCgMRPGdww5sMBculn8r4WAvr4gS/Grp3ezZvE24ELysanomfkhyFDrlzuM=;TbNlS2d/BtZ6HEvt25a+Yw=="
 ---
 

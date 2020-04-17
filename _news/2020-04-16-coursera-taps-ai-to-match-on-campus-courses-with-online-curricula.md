@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T13:05:00Z
 webUrl: "https://venturebeat.com/2020/04/16/coursera-taps-ai-to-match-on-campus-courses-with-online-curricula/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -41,6 +41,6 @@ related:
         width: 1200
         height: 630
 
-secured: "vcr9JCvNgX/1I86H1vWR+uxkcDa4mWdQ+W9GE1qxFj2Gdn9Otp26WF5JVbWFCkpqKMf3oo+qCIVtuhbWpia9f4sHMPvMYacJK86Ypcu3qCybVHOQ8gJQZjv+kFym54OEabAhhSuYC3DNXH3DtvFKxvcpEiG3e0BNEJhsVqWD7DfEoWoEkioVdU+b+rVbIbX6MKqpF1iu/3/AUVI5yL8sl7HV1p4o9OjOlY5XRAvts1zxOOe/5IBoiec5kuANTSvdrbbJIoSQToQYl349iIEY13CH0kGtMoif97qRhftQLJpom/5KTZ+Kj7HyXKdLq6H8;WyLyT8t2c9QYH7d1rRn7mQ=="
+secured: "ZQH6RE4jc7HPwBw1bwTJZyzFmKF3Uh0/oAbmjjL3OClWzHUtNXU4jI7oEw3EulpidNy6nuPcqub8phirPvwZT1CBlZk3v52VNeA8CEoTY6dYnVe5ifVim5rng20Jmt6NwaNCK76fA399zfoHnq6LziD0pzFcSTXBEFOt+zSVDQAw7P5yoh5fQ0m9uWSFTI1i4i7eQRoNdNphNdKR1/CnduTPL6etzq/E6xSQtVgeU75cjMCzkb90l+qY7oQ3T8ns5LRpb8ssEmBvJFwD8xhTiE1zmVoN2nH25328MnSyRMuluplgr8U2j28FktUxrC8y;4zEdSJzsd4OflRZcvImS0g=="
 ---
 

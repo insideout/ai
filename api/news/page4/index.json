@@ -2,6 +2,177 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-15-frame-ai-raises-63m-series-a-to-help-understand-customers-across-channels.md",
+      "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
+      "excerpt": "Frame AI, a New York City startup that uses artificial intelligence and machine learning to help companies understand their customers better across multiple channels, announced a $6.3 million Series A investment today. G20 Ventures and Greycroft led the round together. Bill Wiberg, co-founder and partner at G20, will join Frame’s board under ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/",
+      "publishedDateTime": "2020-04-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1136194804.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-gigabyte-aero-17-review-a-gorgeous-4k-laptop-that-finally-makes-sense.md",
+      "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
+      "excerpt": "For our testing, we didn’t rely on Gigabyte’s “AI” feature, which references an AI database for guidance on how hard it can push loads. Instead we set the laptop to its “gaming” fan threshold and set the GPU and CPU settings to their maximum setting. We don’t believe this to be an overclock, but it’s also hard to say because the ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.html",
+      "ampWebUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
+      "publishedDateTime": "2020-04-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/aero_17_lid-100838518-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-intel-10th-gen-comet-lake-h-review-the-best-core-i7-in-a-laptop-you-can-buy.md",
+      "title": "Intel 10th-gen Comet Lake H review: The best Core i7 in a laptop you can buy",
+      "excerpt": "The pure CPU-focused AI upscale test takes hours to run. We then ran Topaz Video Enhance AI on a GPU, upping the conversion resolution to 4K. This is a realistic task for someone who wants to take a 2009-era Flip video and convert it to 4K for display on a TV.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.html",
+      "ampWebUrl": "https://www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.amp.html",
+      "publishedDateTime": "2020-04-15T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/gigabyte-aero-17-intel-core-i7-10875h-primary-100838509-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Intel 10th-gen Comet Lake H review: The best Core i7 in a laptop you can buy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing.md",
+      "title": "Microsoft’s New Azure Edge Zones Highlights Opportunity To Combine 5G And Edge Computing",
+      "excerpt": "Microsoft's latest Azure Edge Zone offerings typify the kind of widely distributed, heterogenous computing-focused and modern software-based efforts that 5G networks will start to enable.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/",
+      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
+      "publishedDateTime": "2020-04-15T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-edited-raises-29-million-to-optimize-product-pricing-with-ai.md",
       "title": "Edited raises $29 million to optimize product pricing with AI",
       "excerpt": "Edited, a retail tech company leveraging AI to optimize product pricing, today announced that it raised $29 million. CEO Geoff Watts said the tranche will be put toward R&D and hiring as the company expands its global presence. Tools like Edited serve a real and present need in the over $3.53 trillion retail ecommerce market. Where price ...",
@@ -891,185 +1062,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-deep-learning-market-value-expand-at-a-us-564272-mn-by-2026.md",
-      "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
-      "excerpt": "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-a-closer-look-at-microsoft-azure-synapse-analytics.md",
-      "title": "A closer look at Microsoft Azure Synapse Analytics",
-      "excerpt": "Then came AI, which depending on whether it's machine learning or deep learning, has diverging resource requirements. So, bringing the data warehouse together with the data lake is no mean feat. Azure Synapse has attacked the workload issue with a cloud-native architecture that builds on the separation of compute from storage in SQL Data ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/a-closer-look-at-microsoft-azure-synapse-analytics/",
-      "publishedDateTime": "2020-04-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/09/ceef9f66-5c03-441e-b01b-07f3d706125b/thumbnail/1200x675/f59cb62c717acfcb85d3f3b1f0d107d5/coronavirus.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "A closer look at Microsoft Azure Synapse Analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-ai-startups-raised-69-billion-in-q1-2020-a-record-setting-pace-before-coronavirus.md",
-      "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
-      "excerpt": "AI startups continued to outpace the overall U.S. venture capital market in the first quarter of 2020, but the coronavirus is expected to have a severe impact on funding across all sectors for the rest of the year. According to data from the National Venture Capital Association, 285 AI-related companies in the U.S. raised $6.9 billion in the ...",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/ai-startups-raised-6-9-billion-in-q1-2020-a-record-setting-pace-before-coronavirus/amp/",
-      "publishedDateTime": "2020-04-14T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/10/artificial_intelligence.shutterstock_673672549-e1586861549970.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI startups raised $6.9 billion in Q1 2020, a record-setting pace before coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd.md",
-      "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
-      "excerpt": "So, if you're looking for something a little more faithful, and own the PC version of the original game, feast your eyes on the Remako HD mod, an AI-powered fan-made upgrade that's just about to ... In China, Nintendo's games are available on the Nvidia Shield, with the chip maker using its neural processing techniques to give the likes of ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/cant-wait-for-final-fantasy-7-remake-on-pc-this-mod-ai-upscales-original-to-hd",
-      "publishedDateTime": "2020-04-14T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hzHvuwLmTMnaGtDNL77TLF-1200-80.jpg",
-          "width": 960,
-          "height": 540,
-          "title": "Can't wait for Final Fantasy 7 Remake on PC? This mod AI upscales original to HD",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

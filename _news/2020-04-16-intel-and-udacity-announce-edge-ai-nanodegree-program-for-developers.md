@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/intel-and-udacity-an
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/"
 type: article
 quality: 87
-heat: 118
+heat: 117
 published: true
 
 provider:

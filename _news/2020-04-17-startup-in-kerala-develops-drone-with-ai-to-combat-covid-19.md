@@ -24,6 +24,6 @@ images:
     height: 275
     title: "Startup in Kerala develops drone with AI to combat COVID-19"
 
-secured: "7huF9WXHxCsOCxupLykVbXD4cgxLLXa8YpMrw78nwVUIEyv323kgtjKF0pszXctwS/kK2o52T9aLebaT+1d6wMi2Px+obfC54KemqneP0hOaqXLM+Sh7NK7EoUvxora/jRioB6N+ou8E0BNXsNO3hN/FwZPDcWA2IlPFqjMg0kbJ9J9FAazXgjmg3vSFHkvmt6kNhxYc7igtxDuKzQQSDBoYG8w2C/8JqZFSL/DgsEeudLZ7Tf7UAZW8ILe/CGnQb4/rdkkeTPhATTQP3FD9XZJns+1i7O+h0dF+0vzklVYTwGWqBxDYd7eQNZnv00PV;GFa+mINxR2PzdswhArKLPQ=="
+secured: "AGFkJuVLIK3AXHkOLfygKI1HbsO+p8ewmZhP+nWIDe6ltP8WuTqvPdf/1VteYwimvWh3V4Dv9NtZj3vBdf9OiGOPdkpzxzbTnM8IzjVg52veFp8x0rPsGwuNh1n4R5O3IZ/CUCivGLCy6QV9HbFg/oZXQjFbFBPUdodyPFrQ7pd/YakcNzxbM4f8CQrkqu/uMODt5QNuy6y97Jx5qoCNd79lWxk+jLTBQAcSdl+7YZrUWi50DXjMtGH9U0OqbcyCH/sTHdxqBEA9iOrkwrDeedGcTsNDKFfzUrvJGQRjDFki+olt9T3kVzA1ipJtIy39qtSZU6QjfinE/+af9gP23TeZYXBSV9htBmUnH+wcWQ2WX4wR4P8s3p0Gb7SKxG1mEKDhIt2gAUO/izMI4lh4MeoVD79paGiDbO2ef9bvphzptyz7O76v8+wRusVgk6pgw+vwNY9GZcSpG5iwPOr1yhpDodXu67E1wQ5s27/zODM=;jtlxWJXcq6HLJqD1/ozC5Q=="
 ---
 

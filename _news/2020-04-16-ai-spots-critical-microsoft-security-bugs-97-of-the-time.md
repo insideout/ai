@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-secur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

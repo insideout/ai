@@ -2,6 +2,177 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-16-ibm-introduces-ground-breaking-ai-astronaut-assistant.md",
+      "title": "IBM introduces ground-breaking AI astronaut assistant",
+      "excerpt": "The latest version of the artificial intelligence-powered astronaut assistant, CIMON-2, powered by IBM Watson technologies, was both successfully launched (December 5, 2019) and deployed (February 2020), signifying CIMON-2's completion of the next step in its research on the effects of stress and isolation during long-term missions.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ibm-introduces-ground-breaking-ai-astronaut-assistant/",
+      "publishedDateTime": "2020-04-16T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2019/11/21/74f82f4c-9bf0-45d0-b25b-dc531bda7522/thumbnail/1200x675/d6c68e9704c02b8e85ffd06c329c02c0/20191031-veronica-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "IBM introduces ground-breaking AI astronaut assistant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
+      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
+      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
+      "publishedDateTime": "2020-04-16T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
+          "width": 6720,
+          "height": 4480,
+          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-mits-ai-suggests-that-social-distancing-works.md",
+      "title": "MIT’s AI suggests that social distancing works",
+      "excerpt": "Unlike most of the models that have so far been proposed, this one doesn’t rely on data from studies about previous outbreaks, like SARS or MERS. Instead, it taps an AI algorithm trained to capture the number of infected individuals under quarantine using the SEIR model, which groups people into classes like “susceptible,” “exposed ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mits-ai-suggests-that-social-distancing-works/amp/",
+      "publishedDateTime": "2020-04-16T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_.jpg?fit=1200%2C675&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": "MIT’s AI suggests that social distancing works",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ai-robotics-start-ups-leverage-tools-to-combat-covid-19.md",
+      "title": "AI, robotics start-ups leverage tools to combat Covid-19",
+      "excerpt": "As India battles to contain the spread of coronavirus, artificial intelligence and technology start-ups in the country are leveraging their tools and solutions to help those in the frontline combat the crisis. Invento Robotics, a Bengaluru-based start-up, has been re-purposing its robots — to screening and diagnostics robots — to help ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
+      "publishedDateTime": "2020-04-16T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/qtcfto/article30934970.ece/ALTERNATES/LANDSCAPE_615/BL28THINKFTV",
+          "width": 615,
+          "height": 384,
+          "title": "AI, robotics start-ups leverage tools to combat Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-futurelaw-2020-showcases-how-tech-is-transforming-the-law-including-the-impacts-of-ai.md",
       "title": "FutureLaw 2020 Showcases How Tech Is Transforming The Law, Including The Impacts Of AI",
       "excerpt": "As his point vividly suggests, when it comes to law and the practice of law, there is a great deal of human reasoning involved, far beyond the reach of any simplistic calculating machine. Of course, his authoritative remark was proffered in the late 1940s when computers were massive in size and minuscule in computational capabilities when compared to the power of today’s computing,",
@@ -141,7 +312,7 @@
       "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
       "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
       "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
-      "heat": 70,
+      "heat": 72,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
@@ -275,7 +446,7 @@
       "path": "_news/2020-04-16-coursera-taps-ai-to-match-on-campus-courses-with-online-curricula.md",
       "title": "Coursera taps AI to match on-campus courses with online curricula",
       "excerpt": "Online learning startup Coursera today debuted CourseMatch, an AI tool that matches classes in schools’ on-campus course catalogs to relevant offerings in Coursera’s catalog. It’s a part of the startup’s Coronavirus Response Initiative that launched in early March, and Coursera says it’s intended to enable universities to facilitate ...",
-      "heat": 77,
+      "heat": 78,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/16/coursera-taps-ai-to-match-on-campus-courses-with-online-curricula/",
@@ -453,7 +624,7 @@
       "path": "_news/2020-04-16-intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers.md",
       "title": "Intel and Udacity announce edge AI nanodegree program for developers",
       "excerpt": "Graduates of the program will be able to accelerate computer vision and deep learning solutions within the Intel OpenVINO toolkit. Intel and Udacity announced that their Intel Edge AI for IoT Developer Nanodegree program is open for enrollment. The collaboration, announced on Thursday, aims to train developers in deep learning and computer ...",
-      "heat": 118,
+      "heat": 117,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/intel-and-udacity-announce-edge-ai-nanodegree-program-for-developers/",
@@ -748,7 +919,7 @@
       "path": "_news/2020-04-16-some-countries-in-the-middle-east-are-using-artificial-intelligence-to-fight-the-coronavirus-pandemic.md",
       "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
       "excerpt": "AI's ability to crunch large amounts of data has allowed governments worldwide to collect information to try and stop the pandemic.",
-      "heat": 77,
+      "heat": 76,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
@@ -794,7 +965,7 @@
       "path": "_news/2020-04-16-sproutai-raises-25m-to-speed-up-insurance-claims.md",
       "title": "Sprout.ai raises $2.5M to speed up insurance claims",
       "excerpt": "Founded in 2018, Sprout.ai has developed AI-based software that it says enables insurance claims to be settled within “just 24 hours”. Specifically, it uses natural language processing and optical character recognition to understand unstructured insurance claim data, and then combines this with real-time external data such as weather ...",
-      "heat": 90,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/15/sprout-ai/",
@@ -1144,186 +1315,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026.md",
-      "title": "Artificial Intelligence in Aviation Market 2020 Development Analysis and Future Estimations 2026",
-      "excerpt": "The Market Research Intellect has recently added an extensive report to its repository titled Artificial Intelligence in",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-2020-development-analysis-and-future-estimations-2026-2020-04-15",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Aviation Market 2020 Development Analysis and Future Estimations 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
-      "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
-      "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp",
-      "publishedDateTime": "2020-04-15T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1586980466/shutterstock_608550530.jpg",
-          "width": 5669,
-          "height": 3785,
-          "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-tesla-receives-monetary-settlement-in-lawsuit-against-self-driving-start-up-zoox.md",
-      "title": "Tesla Receives Monetary Settlement in Lawsuit Against Self-Driving Start-Up Zoox",
-      "excerpt": "The electric-vehicle maker and Zoox, a self-driving-car start-up, announced yesterday that they've reached a settlement regarding Tesla's March 2019 lawsuit, according to which Tesla will receive an undisclosed monetary payment. Additionally, Zoox has agreed to conduct an internal audit to confirm that former Tesla employees are adhering to ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
-      "publishedDateTime": "2020-04-15T11:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568067%2Fcourtoom.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Tesla Receives Monetary Settlement in Lawsuit Against Self-Driving Start-Up Zoox",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
-      "title": "Pileus helps businesses cut their cloud spend",
-      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "publishedDateTime": "2020-04-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
-          "width": 622,
-          "height": 364,
-          "title": "Pileus helps businesses cut their cloud spend",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

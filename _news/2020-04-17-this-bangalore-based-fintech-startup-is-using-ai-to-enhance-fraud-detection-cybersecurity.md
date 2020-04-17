@@ -23,6 +23,6 @@ images:
     height: 469
     title: "This Bangalore-Based Fintech Startup Is Using AI To Enhance Fraud Detection & Cybersecurity"
 
-secured: "EfNjFSop97HEfAiFXuAjAbfm4Xt13eCidB4UhMb/+64x+dvVrPk7645fFXhY0edCfaXVzP6Tlmd6u/0SSR6kWSYuFewU6Ne8O6RrmkOU5AgLddecXm8I8SDTPmEmvym4pOmyijYsZZBaeT6rKqoqBZm/bejs5KKQo4KrrSzv3wOYwJur9iPoUW5ZiNiZlS9dBNksarOjL6za6VsV+cQMag9d2nWPNfn1SlFm90acFXIVQkqKWFAoaacgX07kqBJTat/YQ2V6mBSxz/XHEJ4JgGgzsb6LkK/ZUIicUz6CmFWtDtcqmL+pClRENW49VxQn;LCI3tkPYrOtYGopFYiSp7w=="
+secured: "MVWZ3TB96r2zPYeIlt/3IHEXgux2qBmjJ8Y4ml3BhWkubHuAdjg7fg7/rHVU1IJvz42w5tp4Ek37whGeNcpIuHOfZT61Av9WdhGlsOE64pY078csROOlj/dYv1YJJiBT4DTCykVnMBsDW/bUQ8gsNBvvE8K72VXpdNpvIc8negt6tIJo5r4HdCZef7Fa1zplpSggVo5OBWCWh+objgLeA+Ai7T/ZTGlROWFdCX66F7cNwZqSiX7Rl+GoZg++Zs3mhLbcVxv9H3KPGkx77DSrmGR53I0ZTDtcPg/WUsiHQLzLQ57ICM5Wk+ei09LF/q+7s11J+3trddo013u81v8VtrpYoGqyscHkiGllEtgnmAQ8l/MS/c5Htm4Y63kw0vJ4mTNCTza1vWk5E3isq9xYhXwc9vBor4O8g/+vnd25md/CGh0gjCOjcfPtKdlYaHuROCdtluRMBaizWSIUA2xuTOexPd2FW5YcFv35M6+/DzQ=;y9dYCnpZE42W5GMCHNyVdg=="
 ---
 

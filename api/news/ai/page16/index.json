@@ -2,6 +2,177 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-03-31-babylon-health-claims-its-ai-appropriately-triages-patients-in-85-of-cases.md",
+      "title": "Babylon Health claims its AI appropriately triages patients in 85% of cases",
+      "excerpt": "A team of researchers at Babylon Health, the well-funded UK-based startup that facilitates telemedical consultations between patients and health experts, claim that they’ve developed an AI system capable of matching expert clinician decisions in 85% of cases. If it holds up to scrutiny, the system could lift a burden off of the overloaded U.S ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/babylon-health-ai-triages-patients-85-of-cases/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/babylon-health-ai-triages-patients-85-of-cases/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/babylon-health-ai-triages-patients-85-of-cases/amp/",
+      "publishedDateTime": "2020-03-31T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Babylon Health claims its AI appropriately triages patients in 85% of cases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ibm-ai-brandvoice-4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience.md",
+      "title": "IBM AI BrandVoice: 4 Steps Financial Services Firms Can Take With AI To Improve Customer Experience",
+      "excerpt": "AI promises nothing short of a CX revolution ... summoned cleansed and well-structured data from its inception. Powered by IBM Watson Assistant, Red was originally designed to help with basic ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/",
+      "ampWebUrl": "https://www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ibmai/2020/03/31/4-steps-financial-services-firms-can-take-with-ai-to-improve-customer-experience/amp/",
+      "publishedDateTime": "2020-03-31T13:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8357cc2814680006860b23%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1120%26cropY1%3D0%26cropY2%3D630",
+          "width": 1121,
+          "height": 630,
+          "title": "IBM AI BrandVoice: 4 Steps Financial Services Firms Can Take With AI To Improve Customer Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-perceive-claims-20-100x-ai-efficiency-at-the-edge.md",
+      "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
+      "excerpt": "Analyst Karl Freund examines Perceive Corporation's recently unveiled Ergo chip and what it could mean for AI processing at the edge.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/31/perceive-claims-20-100x-ai-efficiency-at-the-edge/amp/",
+      "publishedDateTime": "2020-03-31T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839a3c458d700006815131%2F0x0.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": "Perceive Claims 20-100X AI Efficiency At The Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-lessons-learned-on-building-a-common-operating-picture-across-networks.md",
+      "title": "Lessons learned on building a common operating picture across networks",
+      "excerpt": "AI/ML as potential game changers for cybersecurity Artificial intelligence and machine learning technology are the key ... This gives government users who do not want to share threat data externally the ability to deploy a neural network-based threat-discovery and mitigation tool that is both effective out of the box and gets smarter as it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fedscoop.com/lessons-learned-build-common-operating-picture-federal-network-security/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.fedscoop.com/wp-content/uploads/2020/03/Fortinet_Header.png",
+          "width": 1920,
+          "height": 1080,
+          "title": "Lessons learned on building a common operating picture across networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-niantic-buys-a-3d-mapping-startup-to-enable-planet-scale-ar.md",
       "title": "Niantic buys a 3D mapping startup to enable 'planet-scale' AR",
       "excerpt": "6D.ai could lead to advanced 'Pokémon Go' and 'Harry Potter' experiences. As much as Niantic might be focused on making its location-based games more playable at home, it's also thinking about its future. The developer has bought 3D mapping startup 6D.ai to help it develop \"planet-scale\" augmented reality. The relative newcomer's work on 3D ...",
@@ -1114,186 +1285,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-the-three-main-test-automation-factors.md",
-      "title": "The Three Main Test Automation Factors",
-      "excerpt": "When creating a test automation culture, you need to look at the three main test automation factors: product, people and process.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/31/the-three-main-test-automation-factors/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/31/the-three-main-test-automation-factors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/31/the-three-main-test-automation-factors/amp/",
-      "publishedDateTime": "2020-03-31T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-27-3.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Three Main Test Automation Factors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them.md",
-      "title": "The Challenges Of Applying AI To Healthcare And How To Address Them",
-      "excerpt": "Though the AI health market is rapidly growing, implementing technology for medical purposes still entails a range of challenges.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/31/the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/31/the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/31/the-challenges-of-applying-ai-to-healthcare-and-how-to-address-them/amp/",
-      "publishedDateTime": "2020-03-31T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-32-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "The Challenges Of Applying AI To Healthcare And How To Address Them",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-huawei-execs-response-to-the-us-limiting-tsmc-chip-supply.md",
-      "title": "Huawei exec’s response to the US limiting TSMC chip supply",
-      "excerpt": "In other words, this will limit the Chinese tech giant’s global chip supply which is integral to its operations since it has its own ... Editor’s Pick: Xiaomi rolls out MIUI 11.0.16.0 Stable Update for Mi 10 Pro in China, Adds AI 8K video recording Xu Zhijun read the report from Reuters and People’s Daily and thinks it endangers the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/03/31/huawei-execs-response-to-the-us-limiting-tsmc-chip-supply/?amp",
-      "publishedDateTime": "2020-03-31T03:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2019/05/huawei-logo.jpg",
-          "width": 4122,
-          "height": 2825,
-          "title": "Huawei exec’s response to the US limiting TSMC chip supply",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-how-ai-helped-dominos-improve-pizza-delivery.md",
-      "title": "How AI helped Domino’s improve pizza delivery",
-      "excerpt": "The fact is, AI and ML should be something all industries are looking at, including retail. We are now in the customer service era and small differences in service can make a big difference in market share. This past week Nvidia held a virtual version of its annual GPU Technology Conference (GTC), which has become a showcase for real life AI/ML ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3535230/how-ai-helped-domino-s-improve-pizza-delivery.amp.html",
-      "publishedDateTime": "2020-03-31T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2015/04/drone-pizza-delivery-thinkstock-100579669-large.jpg",
-          "width": 1200,
-          "height": 1100,
-          "title": "How AI helped Domino’s improve pizza delivery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

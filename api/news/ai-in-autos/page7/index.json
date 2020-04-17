@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-17-teslas-biggest-problem-with-self-driving-cars-is-that-it-actually-has-to-sell-them-to-customers.md",
+      "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
+      "excerpt": "Tesla is trapped, having created great products that consumers want and love, but also watching as competitors design all-new businesses.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/teslas-biggest-problem-with-self-driving-cars-is-that-it-has-to-sell-them-2020-2?amp",
+      "publishedDateTime": "2020-02-17T07:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5dd9a902fd9db212ca6834d3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Tesla's biggest problem with self-driving cars is that it actually has to sell them to customers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-please-check-your-data-a-self-driving-car-dataset-failed-to-label-hundreds-of-pedestrians-thousands-of-vehicles.md",
       "title": "Please check your data: A self-driving car dataset failed to label hundreds of pedestrians, thousands of vehicles",
       "excerpt": "Roboflow has since corrected the errors on the dataset, and issued an improved version. Standing up to patent trolls works: Mycroft AI, a startup building an open-source voice-controlled assistant for Linux-based devices, was sued for allegedly infringing a couple of patents, as we reported earlier this month. Mycroft’s CEO Joshua Montgomery ...",
@@ -1258,51 +1303,6 @@
           "width": 1200,
           "height": 800,
           "title": "Nuro Claims A Self-Driving First: U.S. Approval To Deploy Toaster-Styled Delivery Bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-who-is-responsible-in-a-crash-with-a-self-driving-car.md",
-      "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
-      "excerpt": "It's not just the car manufacturers. It turns out that people take advantage of conservative self-driving cars to act more reckless.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/",
-      "ampWebUrl": "https://www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/fernandezelizabeth/2020/02/06/who-is-responsible-in-a-crash-with-a-self-driving-car/amp/",
-      "publishedDateTime": "2020-02-06T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x459/https://specials-images.forbesimg.com/imageserve/5e20c343980ca10006aa994c/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 459,
-          "title": "Who Is Responsible In A Crash With A Self-Driving Car?",
           "attribution": null
         }
       ],

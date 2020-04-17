@@ -2,6 +2,176 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2020-01-22-ibm-chief-calls-for-precision-regulation-on-ai-that-weighs-privacy-against-benefits-to-society.md",
+      "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
+      "excerpt": "\"You want to have innovation flourish and you've got to balance that with security,\" IBM CEO Ginni Rometty said in a CNBC interview from Davos.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/22/ibm-ceo-ginni-rometty-calls-for-precision-regulation-on-ai.html",
+      "publishedDateTime": "2020-01-22T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106348968-1579704741780dp40l17y.jpg?v=1579704990",
+          "width": 5424,
+          "height": 3724,
+          "title": "IBM chief calls for 'precision regulation' on AI that weighs privacy against benefits to society",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
+      "title": "Octi launches a social network built around augmented reality",
+      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
+      "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+      "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/how-machine-learning-uncovers-opportunities-for-business-optimization/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 494,
+          "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-what-you-need-to-know-about-ai-in-2020.md",
+      "title": "What You Need To Know About AI In 2020",
+      "excerpt": "In 2017, when I wrote about the preconditions for AI to flourish, the adoption of AI was just beginning. Now, IDC is predicting that by 2025, at least 90% of new enterprise applications will embed AI and \"over 50% of user interface interactions will use AI-enabled computer vision,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/22/what-you-need-to-know-about-ai-in-2020/amp/",
+      "publishedDateTime": "2020-01-22T06:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F545163577%2F0x0.jpg%3Ffit%3Dscale",
+          "width": 1200,
+          "height": 776,
+          "title": "What You Need To Know About AI In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-five-methods-for-marketing-your-bespoke-cloud-service-to-developers.md",
       "title": "Five Methods For Marketing Your Bespoke Cloud Service To Developers",
       "excerpt": "By focusing on what your audience needs, you can craft a marketing approach that is just as tailored as your product. Give developers the confidence that you have something that is built just for them,",
@@ -1087,178 +1257,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-why-most-self-driving-car-companies-use-these-3-models.md",
-      "title": "Why most self-driving car companies use these 3 models",
-      "excerpt": "Russia's Yandex and China's Baidu have programmed cars to stop at ... they’re the same. So what cars are self-driving companies using? Qualcomm is building an advanced driving system that ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles/",
-      "ampWebUrl": "https://mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/self-driving-cars-most-common-vehicles.amp",
-      "publishedDateTime": "2020-01-21T13:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F01%252F21%252Fc8%252F40f5cb33588a4135af22b9a2e25916ac.56330.jpg%252F1200x630.jpg?signature=1D6rRydRXq4QYr5tkd6IeRon3TU=",
-          "width": 1200,
-          "height": 630,
-          "title": "Why most self-driving car companies use these 3 models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020.md",
-      "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-      "excerpt": "The 720G (the G stands for gaming) is an octa-core chipset aimed at higher-end smartphones. Features include on-device AI (a privacy-focused priority for handsets from Samsung and others) and display resolution up to 2,520 x 1,080, along with 800Mbps top down speeds - still a respectable number, especially compared to the lower-band 5G networks.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "ampWebUrl": "https://www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/4g-isnt-dead-yet-this-chip-will-power-non-5g-phones-in-2020",
-      "publishedDateTime": "2020-01-21T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/uiwrFz8a2mmzeGUNyGgShg-1200-80.jpg",
-          "width": 1200,
-          "height": 677,
-          "title": "4G isn't dead yet: this chip will power non-5G phones in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-ibms-biology-inspired-ai-generates-better-hash-codes-than-classical-approaches.md",
-      "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
-      "excerpt": "To overcome this limitation, researchers at Princeton, the University of San Diego, IBM Research, and the MIT-IBM Watson AI Lab developed BioHash, which applies “local” and “biologically plausible” synaptic plasticity rules to produce hash codes. They say that it outperforms previously published benchmarks for various hashing methods ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/ibms-biologically-inspired-ai-generates-hash-codes-faster-than-classical-approaches/amp/",
-      "publishedDateTime": "2020-01-21T11:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/87c3b4c5-3db3-461e-b3f9-266dfa23d445-1-e1579635316665.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-more-privacy-better-battery-life-ai-everywhere-what-apples-xnorai-deal-says-about-its-ambitions.md",
-      "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-      "excerpt": "Arm Holdings CEO Simon Segars shows an Xnor.ai board at a 2019 event. Speaking on stage last year about the rise of artificial intelligence on devices, Arm Holdings CEO Simon Segars touted the capabilities of the chip giant’s Cortex-M4 processor to help identify objects using image recognition technology. But the circuit board on the slide ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/",
-      "ampWebUrl": "https://www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/privacy-better-battery-life-ai-everywhere-apples-xnor-ai-deal-says-ambitions/amp/",
-      "publishedDateTime": "2020-01-21T11:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/01/arm-630x373.jpg",
-          "width": 630,
-          "height": 373,
-          "title": "More privacy, better battery life, AI everywhere: What Apple’s Xnor.ai deal says about its ambitions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -29,6 +29,6 @@ images:
     height: 810
     title: "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer"
 
-secured: "oQSFOpu5yFylFJ0rX6x7mNjt+E30CyhjPn4xP7rQxpPFjHcjPAZl/9Ye/AsZYG6jBjzXAOyQe7HpR5w6rKv7UU4nZu0/zhI9QAogfHY2dpl0VbpZ7SuSxs4CSkfI6vvnyyn6bxg823B4adBQC0tRUm8pU4boZmj+ENlzYxLyzIgxV7lRZ/mZdrSKxDJRYmc+QBWm+E3cHQszrdDT2galuh9IkCWNasxJGVKGEyyfkrFRG+MYFAVBvWFQ4meDWtpxOMEMkqtc92JiZXk43PT3+mzh+MRNz7ph5Aa47S9GkSTUzcwN34PqgNSXI+hReC++;4DPKGJmcaU6Bf/NjJRg6TQ=="
+secured: "XdSzLERrzlPN84p17u9MmH96NRy7dde+uGhE4u3OVX1dZ0WGQSyWCOqXSu3rrO8GkMkgt7QVkM32NFJuMO+ZHT0kukxWrwcjUppHrfGCg8M265CAxM5UPym2VuhYGCgbjNbrI2pjDIeWnJ73J4UrHbjQJpIxjWmDQd+dbEflNIm0DKsgNQ60F3gsic3oPHvGDz0I2d42X2iZGDL4dr5DZpCw0wcscm+6DXAbqOwBSkJkZoYqpZSw0BurBdnznTn2bg3eLqagE7XcvkydAsDIrqUkx7v57UnFepRqkOt3OfqgaWq03ZButXIO2tLSbFZxSWr8EYV2AjC+abbaAQu2MpkFD9oDSn3K57tskfC/qQ7L+yPeMQnONeRCA5Qf8JXDWST//+3o3ycu5SgeWzBXndjlSd5okSnjUAKdErqcUzY7Qd7rQGVRjlB02Ut10Z5B5obD6/oXgfcBNR+1HhV1W7Yq0pGaPniHlSLjbKsVrwE=;44BJi92o6DepXnl61MKwuA=="
 ---
 

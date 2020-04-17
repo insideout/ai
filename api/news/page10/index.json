@@ -2,6 +2,171 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-07-how-voice-technology-is-reshaping-businesses.md",
+      "title": "How Voice Technology Is Reshaping Businesses",
+      "excerpt": "It’s AI that makes voice tech as effective as it currently is. The voice recognition software is only part of the equation. The real utility here lies in the fact that AI can understand what you’re saying. As machine learning continues to improve, we’ll see voice tech becoming even more useful. Initially, voice tech seemed like passing fad.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hostreview.com/blog/200407-how-voice-technology-is-reshaping-businesses",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Host Review",
+        "domain": "hostreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "How Voice Technology Is Reshaping Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-self-driving-cars-are-helping-the-coronavirus-fight-in-florida.md",
+      "title": "Self-driving cars are helping the coronavirus fight in Florida",
+      "excerpt": "With already limited staff, it's hard for people to be everywhere at once. Now, the Mayo Clinic is using self-driving cars to ease the burden. On March 30, the Mayo Clinic in Florida launched its program with four vehicles. The shuttles, which do not have any attendants or people onboard, transfer coronavirus tests and medical supplies from a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125",
+      "ampWebUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "publishedDateTime": "2020-04-07T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2020/4/7/29123b17-85f2-46ca-b31f-a9dcde4d2b1e-screen-shot-2020-04-07-at-15630-pm.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars are helping the coronavirus fight in Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-optimizing-japanese-text-to-speech-with-amazon-polly.md",
+      "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+      "excerpt": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-japanese-text-to-speech-with-amazon-polly/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T10:59:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-microsofts-cto-explains-how-ai-can-help-health-care-in-the-us-right-now.md",
+      "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
+      "excerpt": "Scott’s book tackles how artificial intelligence and machine learning can help rural America in a more grounding way, from employment to education to public health. In one chapter of his book, Scott focuses on how AI can assist with health care and diagnostic issues — a prominent concern in the US today,",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "publishedDateTime": "2020-04-07T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TrMdv5CKOKd-anE8ovz4hZ2WC84=/0x0:1314x739/1400x933/filters:focal(558x160:768x370):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66617290/y648_1.0.jpg",
+          "width": 1314,
+          "height": 739,
+          "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-the-quest-for-a-better-blockchain-former-microsoft-ai-chief-invests-in-seattle-startup-asensys.md",
       "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
       "excerpt": "Harry Shum, former head of Microsoft’s AI and Research Group, in his Redmond office in 2017. (GeekWire File Photo / Todd Bishop) Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the ...",
@@ -907,178 +1072,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-self-driving-vans-are-delivering-food-and-disinfecting-streets-in-china.md",
-      "title": "Self-driving vans are delivering food and disinfecting streets in China",
-      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe. ©2020 Mashable, Inc. All Rights Reserved. Mashable, MashBash and Mashable House are among ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus/",
-      "ampWebUrl": "https://mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/self-driving-van-delivers-food-china-coronavirus.amp",
-      "publishedDateTime": "2020-04-07T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F07%252F8a%252F1bd7e389d2a6478ca53b9a6e24e3697f.9ab8b.jpg%252F1200x630.jpg?signature=MAIYeu2PrROrVIOpyuCaPa2od8U=",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving vans are delivering food and disinfecting streets in China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-from-artificial-intelligence-to-smart-pens-technological-advancements-in-diabetes-care.md",
-      "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
-      "excerpt": "By creating an interface through which the pen can keep a track of insulin doses, store the data in an app and share the data with users, care givers and health care professionals ... For the past few years, artificial intelligence has been touted to be the game changer in diabetes care, but somehow AI has not lived up to its initial promise.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348861",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348861",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348861",
-      "publishedDateTime": "2020-04-07T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160126153527-sugar-glucose-test-diabetic-diabetes-insulin-blood-test-glucometer.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "From Artificial Intelligence to Smart Pens: Technological Advancements in Diabetes Care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-a-florida-lab-is-using-self-driving-vans-to-ferry-coronavirus-tests.md",
-      "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
-      "excerpt": "The self-driving vans reduce overall potential exposure to the virus and free up healthcare workers.",
-      "heat": 114,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4",
-      "ampWebUrl": "https://www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mayo-clinic-autonomous-vans-coronavirus-tests-2020-4?amp",
-      "publishedDateTime": "2020-04-07T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e8c3f97b3b0922413616ca4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A Florida lab is using self-driving vans to ferry coronavirus tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-emil-miso-robotics-launches-crowdfunding-campaign-for-autonomous-kitchen-robots.md",
-      "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
-      "excerpt": "Today marks the official start of Miso Robotics‘ series C equity crowdfunding campaign ... On the software side, it benefits from improvements to Miso AI (Miso’s cloud-based platform) that expand the number of cookable food categories to over a dozen, including chicken tenders, chicken wings, tater tots, french fries and waffle fries ...",
-      "heat": 125,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/miso-robotics-launches-fundraising-campaign-to-develop-autonomous-kitchen-robots/amp/",
-      "publishedDateTime": "2020-04-07T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Emil Miso Robotics launches crowdfunding campaign for autonomous kitchen robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

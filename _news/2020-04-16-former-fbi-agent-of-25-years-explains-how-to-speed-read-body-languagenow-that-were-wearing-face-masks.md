@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-bo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

@@ -2,6 +2,177 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-03-26-kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams.md",
+      "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
+      "excerpt": "Now to add to that we’re starting to see a new theme: apps to help agents track how they work and to work better. Today comes the latest startup in that category, a Dutch company called Kaizo, which uses AI and gamification to provide feedback on agents’ work, tips on what to do differently, and tools to set and work to goals — all of ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/",
+      "ampWebUrl": "https://techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/26/kaizo-raises-3m-for-its-ai-based-tools-to-improve-customer-service-support-teams/amp/",
+      "publishedDateTime": "2020-03-26T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/personal-agents-training-space.png?w=680",
+          "width": 680,
+          "height": 502,
+          "title": "Kaizo raises $3M for its AI-based tools to improve customer service support teams",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds.md",
+      "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+      "excerpt": "Many of the studies claiming AI outperforms doctors when interpreting medical images are poor quality and “arguably exaggerated,” according to new research. The researchers warn that overhyping the power of these systems could lead to “inappropriate care” that poses a risk to “millions of people.” [Read: Facebook wants to get into ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/26/dubious-claims-that-ai-outperforms-doctors-pose-risk-to-millions-of-patients-study-finds/amp/",
+      "publishedDateTime": "2020-03-26T08:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design39-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Dubious claims that AI outperforms doctors pose risk to ‘millions of patients,’ study finds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025.md",
+      "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
+      "excerpt": "Mar 26, 2020 (AmericaNewsHour) -- Kenneth Research has published a detailed report on AI in Fintech Market which has been categorized by market size, growth indicators and encompasses detailed market analysis on macro trends and region-wise growth in North ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2025-2020-03-26?tesla=y",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-26T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fintech Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-26-amds-processors-to-power-microsoft-azure-virtual-machines.md",
+      "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+      "excerpt": "AMD recently announced that its second generation EPYC processors and Radeon Instinct MI25 GPUs have been adopted by Microsoft’s MSFT Azure division to power its NVv4 virtual machines (VMs). AMD’s hardware will enable Azure to provide customers with a cloud based virtual desktop capable of handling memory and graphics intensive as well as high-performance computing workloads.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amds-processors-to-power-microsoft-azure-virtual-machines-2020-03-26?amp",
+      "publishedDateTime": "2020-03-26T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1371717012",
+          "width": 1024,
+          "height": 512,
+          "title": "AMD's Processors to Power Microsoft Azure Virtual Machines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework.md",
       "title": "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework",
       "excerpt": "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more ...",
@@ -1052,162 +1223,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-sleeping-in-self-driving-cars-its-no-pipe-dream.md",
-      "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
-      "excerpt": "When you absolutely, positively have to get there overnight, autonomous sleeper cars may be your best bet in the future, says Dan Neil",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/sleeping-in-self-driving-cars-its-no-pipe-dream-11585165420",
-      "publishedDateTime": "2020-03-25T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-168010/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Sleeping in Self-Driving Cars? It’s No Pipe Dream",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-artificial-intelligence-model-can-detect-covid-19-on-chest-ct.md",
-      "title": "Artificial intelligence model can detect COVID-19 on chest CT",
-      "excerpt": "(HealthDay)—Artificial intelligence allows coronavirus ... a deep learning model COVID-19 detection neural network was developed. To test the robustness of the model, CAP and other nonpneumonia ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence-covid-chest-ct.amp",
-      "publishedDateTime": "2020-03-25T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ibm-launches-an-interactive-dashboard-to-track-coronavirus-on-phone-and-the-web.md",
-      "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-      "excerpt": "IBM’s dashboard runs on the IBM public cloud and uses IBM Watson to access and analyze data from the World Health Organization and multiple national, state and local governments. The dashboard has the following features: An AI-enhanced interactive “Incidents Map” of COVID-19 data and stats, including confirmed cases and more by U.S. state ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/",
-      "ampWebUrl": "https://mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
-      "cdnAmpWebUrl": "https://mspoweruser-com.cdn.ampproject.org/c/s/mspoweruser.com/ibm-dashboard-track-coronavirus-phone-and-online/amp/",
-      "publishedDateTime": "2020-03-25T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSPoweruser",
-        "domain": "mspoweruser.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mspoweruser.com/wp-content/uploads/2020/03/IBM-Cognos-Analytics-Dashboard_County-Level-1000.png",
-          "width": 1000,
-          "height": 625,
-          "title": "IBM launches an interactive dashboard to track coronavirus on phone and the web",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia.md",
-      "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
-      "excerpt": "The system uses object recognition algorithms that detect the unique features of bomb craters, including their shapes, colors, textures, and sizes. These algorithms then scan satellite images for ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/25/ai-is-searching-for-unexploded-vietnam-war-bombs-in-cambodia/amp/",
-      "publishedDateTime": "2020-03-25T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design38-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI is searching for unexploded Vietnam War bombs in Cambodia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

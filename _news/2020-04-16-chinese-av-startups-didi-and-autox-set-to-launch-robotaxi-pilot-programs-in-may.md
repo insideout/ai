@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-a
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp"
 type: article
 quality: 70
-heat: 70
+heat: 72
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 1080
     title: "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May"
 
-secured: "nfQkvTfx7+khHSwM88P9mMU821rRN+3CluCcMLW6CGxU6U+opWAssBLa2d1iGY8U9qfag+u71v+5AUyMdF6mcwpHnTwmVtKy7nZrYyJYK+7aU73oHmo9oDaTvkg12kyhMsTq8Xojha71ca0kb7w5vBRsLorSuGGsg0+NhKjgV91IY8Jb4ba+zQAvkH+LEow8kngEwAO8GzvWLDFufdnKq+NBEn+zinYV+TEMPvG5CJ057wUNseLPwqP+Zpt/Tpzz9znJmuulxx6H+trVijJlPUoXDnNVMiEY8bJIEFYizAJm5f5mTe958tyfyBTIbFE7T8vWMxR4YDrTZUbtmwShpQV6Zrr0uRar7C81bKvZSDJWJFH0+pZy5IR0GyvWEQ3uZyXd+XZDF4s36zQRSpBKNa29p3k/SfLfGzSi6FFl0eYJYRVqKNTTvxx4dHQmczWFDaL6eH4MEy8HTiOQc/R2yViDIWI7VSyVY62SPOMbwcc=;Z8MEqzF2r/F2ck922K6z/g=="
+secured: "hhxNauRgi5jnhV/xt1r7Jf/tHg848FBaY1Jvy7s0NS88O02g1iN9yK5WxysEFkXdQtQAfzfl52eRvwE723N/dsNotGeZrN1iUV1jLQAH9X108w1zwm6zDT2rWRc4Kg+hIYyiCR5WyzsVMjuQwz0GhU5hSRBs5ThnRYyszp2qVoyrs+ANM59a1sv+lnNv6sMiUMXmW2B+iT3cUlMFZHyGqVOmYu2m+FsWJ28/57ce4sebYmewUD3bStEUwJv95bs7mgZ4PkyPCnygZBKwpx7VGfPvjWRchp1g4uh82ER6DEb7bX5cGXfcjcu1WAV93s5lug6WRVUlkD4XNz7bHga0dlRoXHpLuIt7PBGtNBO2r1aern3Q34msGCnKXTlPUdWDN/8PjRQ38wVicB3jQZrUC+z5zp/7T35O2zM1eij1Dmvw4QUeVZCT2AruoBo6jB2ccm4HCHE3v/Cv/vl4fC5FAFkyeFFo+QXJ34PdgaHS6TE=;v/TX+qY0+JNccEi0JgiKhg=="
 ---
 

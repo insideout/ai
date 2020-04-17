@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.theatlantic.com/amp/article/606403/"
 cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/606403/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 321
     title: "How Facebook Works for Trump"
 
-secured: "GSemvMofScP1IOTJ7xRq+Up3AKy2IsMhzG7+kPCvaZilUHo4suN7tpayA6W6m8Tq/UXQsalcMSlDfusFqjv+uyiQlckXoQmeKwP82kCt0shzRijkfu5+9HvzzutL5wv8DxOXjJ+LNUGElTDmtPJCVx2hsGhPlAgxrsfJgG9eOfZe1d6qhebJDGr1LIRLEBd4vH6Gh+G7vzzRJi3WjhfZ8s6DZatHaib8nXF8pwEL8BODXAygwYy+KAtcdDqu/6Bzqek9edgJBYYR8+x4c2O1KMoPIq8RYpAIKkRGzXhl+mLtQR1JsDVE6ALVSwwW0s10;FNzyFY8QCcB09r+f/cNQvw=="
+secured: "BggVzJ8iDasuO8OwK85T2JeTMTU6A5kqeex2bleDIBX8TwAPpYjDeduiGRZa+9dBdJXml4yhqIcO0zF6NmISS+1FOuyMYmj67dRtTlg5+91meamFH/xDgG1c/HuGICe3XAXhRWw2SH6dYlv15/LKu231lRR/LT7J7lyATitUir0l0n5DVLJCvyh4KNp/C5MaEAtAJ3CkdQYEZwA9jRdqcUo/Tj0eNsIlxGVTE2bGWKD4VHKRkjWzyP0xFfKZHBMPK+gQ6jMOx4KGjDg3/wW+Fn80Mvks4n6nAPRes/n67Ay3TFJOqEiPhD66CrPDl2M8cPJNFIsOsdbvpz7wy71r6+VqB8Q+7C0LRLWTrv2QsYSvbK2a9bA9y/9py5a4VJFzLEabjS2kCHS58Gg2v+lW+vZ4zKXI+1s8DPVum42mQW4E8AM5o5ox4crJoXi5PWLM0LI5rWl28Xf7bl4XCQzMNSgKyoSOHc6luel5X8LIW6s=;9WBCElAxdcfEcZl5fxpTIQ=="
 ---
 

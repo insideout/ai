@@ -2,6 +2,177 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-02-12-met-police-rolls-out-live-facial-recognition-in-london.md",
+      "title": "Met Police rolls out live facial recognition in London",
+      "excerpt": "This is the Met Police’s first live deployment of facial recognition technology in London, following 10 trials around the city since 2016 and months of public debate about the use of the controversial biometric software on the public. The rollout comes in the wake of similar deployments in countries including China, Brazil, India and Wales.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
+      "ampWebUrl": "https://amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/db8bfc3c-4cf4-11ea-95a0-43d18ec715f5",
+      "publishedDateTime": "2020-02-11T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F104630ce-4cea-11ea-95a0-43d18ec715f5?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "Met Police rolls out live facial recognition in London",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race.md",
+      "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+      "excerpt": "(Reuters) — Andrew Yang, an entrepreneur whose unlikely White House bid evolved into a serious campaign thanks to grassroots enthusiasm, pulled out of the Democratic presidential race on Tuesday after New Hampshire delivered him a second straight poor showing. Yang, 45, who ran for president despite having no political background, surprised ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/andrew-yang-an-ai-first-candidate-drops-out-of-presidential-race/amp/",
+      "publishedDateTime": "2020-02-11T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/andrew-yang-1.jpg?fit=5048%2C2524&strip=all",
+          "width": 5048,
+          "height": 2524,
+          "title": "Andrew Yang, an AI-first candidate, drops out of presidential race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-12-fintech-startup-tribal-credit-secures-us55-million-in-funding-round.md",
+      "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
+      "excerpt": "The founding team consists of serial entrepreneurs, data scientists, and fintech execs who have had experiences in banking, risk and compliance, regulations, and scaling in emerging markets. Shady points out that the startup’s main advantage in the market is its proprietary AI algorithm, which they originally conceived based off their researc ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346215",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346215",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346215",
+      "publishedDateTime": "2020-02-11T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200211171501-Tribal-DarkCardMock-Simple.png?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Fintech Startup Tribal Credit Secures US$5.5 Million In Funding Round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-samsung-unveils-galaxy-s20-5g-lineup-with-new-camera-tech-ai-security-and-more-starting-at-1000.md",
+      "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
+      "excerpt": "The hybrid zoom's AI uses multi-image processing to reduce resolution loss at higher magnification ... the Galaxy S20 is protected by Knox—the industry-leading mobile security platform that protects the device from the chip level through to the software level,” says Samsung. The company also says that the S20 has a new “secure processor ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83976-samsung-unveils-galaxy-s20-5g-lineup-new-camera.html",
+      "publishedDateTime": "2020-02-11T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-11-ts3_thumbs-833.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Samsung unveils Galaxy S20 5G lineup with new camera tech, AI, security, and more starting at $1,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-us-lawmakers-hear-arguments-for-new-safeguards-for-self-driving-cars.md",
       "title": "U.S. lawmakers hear arguments for new safeguards for self-driving cars",
       "excerpt": "A U.S. House panel on Tuesday heard from advocates of imposing stricter safeguards for self-driving cars as part of any effort to speed the adoption of the vehicles on U.S. roads. By David Shepardson WASHINGTON,",
@@ -1101,177 +1272,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app.md",
-      "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-      "excerpt": "What started out as a temporary pilot project to test a robotaxi service in Las Vegas has turned into a multi-year partnership between self-driving software company Aptiv and Lyft and a new milestone that suggests the operation is ramping up. The companies announced Tuesday that they’ve given 100,000 paid rides in Aptiv’s self-driving ...",
-      "heat": 259,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/11/aptivs-self-driving-cars-have-given-100000-paid-rides-on-the-lyft-app/amp/",
-      "publishedDateTime": "2020-02-11T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/aptiv-self-driving-car-technical-center.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": "Aptiv’s self-driving cars have given 100,000 paid rides on the Lyft app",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-mps-claim-ai-doesnt-need-a-new-regulator.md",
-      "title": "MPs claim AI 'doesn't need' a new regulator",
-      "excerpt": "There was more optimism for the work of the Office for AI, the Alan Turing Institute, the Centre for Data Ethics and Innovation (CDEI), and the Information Commissioner's Office (ICO) which he said were all \"commendable\". But on transparency and data bias, he called for practical guidance and enforceable regulation. \"We conclude that the UK ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/354744/mps-claim-ai-doesnt-need-a-new-regulator?amp",
-      "publishedDateTime": "2020-02-11T02:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/v1581416015/itpro/2020/AiPublicSector.jpg",
-          "width": 1000,
-          "height": 528,
-          "title": "MPs claim AI 'doesn't need' a new regulator",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth.md",
-      "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-      "excerpt": "The Global ML AI Market report provides information by Top Players, Geography, End users, Applications, Competitor analysis, Sales, Revenue, Price, Gross Margin, Market Share, Import-Export, Trends, and Forecast.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/market-updates-for-2020-ml-ai-industry-will-poised-for-strong-global-growth-2020-02-11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Market Updates for 2020 ML AI Industry will Poised for strong Global Growth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-3-big-trends-about-the-future-of-work-every-leader-should-know-about.md",
-      "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-      "excerpt": "For 2020, she has identified three issues that \"require immediate and intentional action\" if organizations want to thrive in the future of work. 1. Overlooked talent in people with disabilities and older workers. \"The United States has a jobs surplus of more than one million open positions, and there are record-high labor shortages across 12 of ...",
-      "heat": 122,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.inc.com/marcel-schwantes/3-big-trends-about-future-of-work-every-leader-should-know-about.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-11T02:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inc",
-        "domain": "inc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.incimages.com/uploaded_files/image/970x450/getty_867341882_412451.jpg",
-          "width": 970,
-          "height": 450,
-          "title": "3 Big Trends About the Future of Work Every Leader Should Know About",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

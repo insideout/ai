@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html"
 type: article
 quality: 76
-heat: 77
+heat: 76
 published: true
 
 provider:
