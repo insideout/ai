@@ -2,6 +2,140 @@
   "page": 86,
   "value": [
     {
+      "path": "_news/2020-01-15-using-azure-to-understand-azure.md",
+      "title": "Using Azure to Understand Azure",
+      "excerpt": "Azure Machine Learning (AML) is a great example. Over the years, my team has developed a portfolio of production models, spanning everything from behavioral clustering to anomaly detection.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/data-science-at-microsoft/using-azure-to-understand-azure-1c8f5dc60a0a",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/719/1*AtWm6tnTQH5QjELGerSUUg.jpeg",
+          "width": 719,
+          "height": 396,
+          "title": "Using Azure to Understand Azure",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech.md",
+      "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
+      "excerpt": "The voice and speech recognition tech market is anticipated to be worth $31.82 billion by 2025, driven by new applications in the banking, health care, and automotive industries. And Tom Livne ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/verbit-raises-31-million-for-human-in-the-loop-ai-transcription-tech/amp/",
+      "publishedDateTime": "2020-01-15T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/01/VERBIT-TEAM-e1578858528453.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Verbit raises $31 million for human-in-the-loop AI transcription tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience.md",
+      "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
+      "excerpt": "The AI platform also predicts how many baristas are needed for the store to run effectively every 30 minutes, making it easier for stores worldwide to manage scheduling and other rote tasks. The company, the world's largest coffee retailer, is now working on a voice activated system that can take a customer's order. Instead of having a ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-should-be-used-to-foster-connections-starbucks-ceo-tells-nrf-2020-audience/",
+      "publishedDateTime": "2020-01-15T09:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/01/15/b35f2106-b5a9-4262-8937-4c515543ae80/resize/1200x/b7e608c8aaa3570f82a2ed7538cae17e/img-4789.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
       "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
       "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
@@ -1140,131 +1274,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence.md",
-      "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-      "excerpt": "In addition, the league will build a cloud-based media archive by using other AWS ML services such as Amazon Rekognition. The media archive will automatically tag specific frames from over 150,000 ...",
-      "heat": 103,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14",
-      "ampWebUrl": "https://www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/germanys-bundesliga-to-use-amazon-web-services-artificial-intelligence-2020-01-14?amp",
-      "publishedDateTime": "2020-01-14T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Germany's Bundesliga To Use Amazon Web Services' Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations.md",
-      "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
-      "excerpt": "KeyMe boasts 3,000+ kiosks in retailers like Ikea, Rite Aid and Kroger. With the announcement of a new $35 million funding round led by Brentwood Associates, CEO Greg Marsh has ambitions to go even bigger.",
-      "heat": 181,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/",
-      "ampWebUrl": "https://www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marleycoyne/2020/01/14/keyme-plans-to-use-new-35-million-funding-round-to-build-10000-retail-locations/amp/",
-      "publishedDateTime": "2020-01-14T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e1cff34da6d38000629847c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "KeyMe Plans To Use New $35 Million Funding Round To Build 10,000+ Retail Locations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-14-ces-2020-older-adults-embrace-ai-with-transparency.md",
-      "title": "CES 2020: Older adults embrace AI with transparency",
-      "excerpt": "Tonya Hall talks with Kari Olson, chief innovation and technology officer at Front Porch, about how older adults are beginning to understand and embrace AI.",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/ces-2020-older-adults-embrace-ai-with-transparency/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/01/14/8d8ebb00-3f91-4110-adc1-769ce1d616d0/thumbnail/770x578/8cdde30d9fe62b9ee966452220fe3f7f/thumb.jpg",
-          "width": 770,
-          "height": 578,
-          "title": "CES 2020: Older adults embrace AI with transparency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -27,15 +27,15 @@ images:
     title: "Artificial Intelligence in Security Market Industry Analysis, Size, Share, Growth, Trends and Forecast 2025"
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027"
-    excerpt: "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments."
-    publishedDateTime: 2020-04-16T08:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027-2020-04-16"
+  - title: "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled \"Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence market size experienced healthy growth during 2014-2019."
+    publishedDateTime: 2020-04-17T08:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-ai-industry-trends-and-forecast-2020-04-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 77
+    quality: 81
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -66,6 +66,15 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+  - title: "Artificial Intelligence (AI) Market By Size, Share, Development, Industry Growth and Demand Forecast to 2026"
+    excerpt: "This Artificial Intelligence AI Market research report is focused on providing its reader with all the necessary details that can help them make necessary business decisions It provides wholesome information that is necessary to understand the market inside out ReportsnReports"
+    publishedDateTime: 2020-04-14T10:24:00Z
+    webUrl: "https://www.openpr.com/news/2009716/artificial-intelligence-ai-market-by-size-share"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 13
 
 secured: "wyW75+Gposeb0/Jo0ew+8FL8aoHnT0Y7Vv7SMf6cEyXgcSgdI43gxg11Er4219K2g9rAxj8jyW6fgTgRaKTJyXtKYmwRAtOmWCQeC9Gcps597KeXyOeqqGLC1I7kSjN5SZziseI6fLsdHE3qTOC4/P72QvHbKIuNse5y2QCDGKtYu0qZOaMbYBgeihqRnZqSWhpkLLcdKMobhkvIrIAkXOdFAzdxC2FwmRRFoiGMljjqYg9n5khtY0GODbu99ug59QCNQox2iVlgrdmiFxA6ucMswRK1pHzZ4Ccgdo0lNlT3X7Wrgj5dBwRTxDLxG9h3;QgN5StEgc2ucS693wV/NOg=="
 ---

@@ -23,21 +23,6 @@ images:
     height: 419
     title: "Global Image Recognition Market Outlook 2020-2027: Lucrative Growth Opportunities When Combined With AI"
 
-related:
-  - title: "Artificial Intelligence in Global Medical Imaging Markets, 2027: Growth Prospects, Key Trends, Leading Companies"
-    excerpt: "The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added"
-    publishedDateTime: 2020-04-15T18:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-global-medical-imaging-markets-2027-growth-prospects-key-trends-leading-companies-301041121.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 16
-    images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
-
 secured: "jjCwK+PjT+ot34lI3EWLW9MHRMZV7Hp1Uqn3qQXmyhozxXcrgJ0b+QzbrQK5me6d0U6dhAKRG5yItDxIp+05voRK/8CJC8o7cT4cyezVyCF/57ns7CRtclPCd/FmVceInZw0ievV5aAigl2p0HLKy6WTAm9NO1cFMPy3LeeDz6gOlLYFoLkH/AL4tkEtlm4zFPdyCqih44auaBZPKAuWqunnJG/ljjgQz4eKTld7fqcPC0Tk5Esx50qXMLXOA8snoBqOPkL7i4lOvJgsXXlgP8+Z3QOhS4KVlRNS29gsycNz1lidTjJmbRWdojCcEoWX71ycjdYexrKndyfRUxSZHispFosZhHzj+TyB0wNvuj6wS2kbMCO2dx/ajC0o3t8qPUVMF5MUOm2/xWh2gVPsvBhKhSy4yGoFunKk+PazsUZ1ogvjbbiv9n8+ehk0IuR2T+a9m1K8PVrp4wil2NRS6CxPLTQuFYXBafPLM0uOxMo=;w0lWLQq5HjIYbW8jnjfH3g=="
 ---
 

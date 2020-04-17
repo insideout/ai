@@ -2,6 +2,95 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-31-aws-machine-learning-ai.md",
+      "title": "AWS Machine Learning / AI",
+      "excerpt": "In this section you will finish up with one last AI tool, Rekognition, and you'll also learn about the deeper side of machine learning with the powerful Sagemaker and Deep Learning Instances on AWS. A fully managed machine learning service is a great place ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pluralsight.com/paths/aws-machine-learning-ai",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pluralsight2.imgix.net/paths/images/aws-certified-devops-engineer-25d912e3da.png",
+          "width": 512,
+          "height": 512,
+          "title": "AWS Machine Learning / AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-take-your-ai-project-from-concept-to-concrete-roi.md",
+      "title": "Take your AI project from concept to concrete ROI",
+      "excerpt": "Why do so many AI projects fail before they deliver actual ROI? Learn how to go from abstract business problem to concrete AI solution. Get business analysts and data scientists working together from start to finish. Get started with this free eBook to develop AI projects with real business impact. Download now! You’ll learn:",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/take-your-ai-project-from-concept-to-concrete-roi/amp/",
+      "publishedDateTime": "2020-03-30T14:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/woman-at-computer-through-glass.jpg?fit=6720%2C4480&strip=all",
+          "width": 6720,
+          "height": 4480,
+          "title": "Take your AI project from concept to concrete ROI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-omniq-reports-full-year-2019-revenue-increase-to-572-million-gross-profit-increases-to-140-million.md",
       "title": "OMNIQ Reports Full Year 2019 Revenue Increase to $57.2 Million; Gross profit increases to $14.0 Million",
       "excerpt": "OMNIQ has recorded several major achievements that have transformed the Company into an AI - Machine Vision Object Recognition leader: - Launch of our SeeCube™ solution which is a ...",
@@ -985,6 +1074,51 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-from-text-to-speech-with-polly-and-rekognition.md",
+      "title": "From text to speech with Polly and Rekognition!",
+      "excerpt": "Today, Artificial Intelligence (AI) is adding another dimension ... the text from images and transform them into audio using AWS services. The user uploads the image in S3 bucket.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@ZamiraJaupaj/from-text-to-speech-with-polly-and-rekognition-b0e12ee072b0",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/679/0*ALJJyqcnrwdPJuU2",
+          "width": 679,
+          "height": 335,
+          "title": "From text to speech with Polly and Rekognition!",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
       "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
       "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
@@ -1117,139 +1251,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.md",
-      "title": "AI transforms 'The Great British Bakeoff' into a horror show",
-      "excerpt": "Artificial intelligence (AI) can do astonishing things when given specific jobs, but it's terrible at understanding context -- something we've seen before in this series. Thanks to a new experiment inspired by The Great British Bakeoff (GBBO), we can again witness the tragedy of AI stepping outside its lane. Researcher Janelle Shane trained ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
-      "publishedDateTime": "2020-03-30T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F275fd480-71c1-11ea-b24b-34907b95e1ec%26client%3Da1acac3e1b3290917d92%26signature%3De0baf5c98e42526fd12bbdf4ea6db09610a94e60&client=amp-blogside-v2&signature=8ef779eeee62763e517efee42d0b6f6d9d4b1fc6",
-          "width": 600,
-          "height": 350,
-          "title": "AI transforms 'The Great British Bakeoff' into a horror show",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-four-ways-to-use-ai-for-marketing.md",
-      "title": "Four Ways To Use AI For Marketing",
-      "excerpt": "AI can automate many marketing tasks, improve performance and let you get back to work on other important things, like satisfying clients.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
-      "publishedDateTime": "2020-03-30T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F132.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Four Ways To Use AI For Marketing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
-      "title": "Why AI Will Create 'More Human' Executives",
-      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
-      "publishedDateTime": "2020-03-30T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why AI Will Create 'More Human' Executives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

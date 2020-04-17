@@ -2,6 +2,88 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-02-fintech-start-up-recko-raises-42-cr-in-series-a-round.md",
+      "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
+      "excerpt": "Vertex Ventures SEA and India has led a ₹42-crore ($6-million) Series A round in enterprise fintech start-up Recko, with participation from existing investor Prime Venture Partners. Recko, which enables AI-powered reconciliation of digital transactions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/fintech-start-up-recko-raises-42-cr-in-series-a-round/article31234152.ece/amp/",
+      "publishedDateTime": "2020-04-02T00:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/c374ux/article30591370.ece/ALTERNATES/LANDSCAPE_615/bl1817bgakrPGR8705KHD3jpgjpg",
+          "width": 615,
+          "height": 384,
+          "title": "Fintech start-up Recko raises ₹42 cr in Series A round",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-snowflakes-snowpro-certification-preparation-guide-how-to-pass-in-3-days.md",
+      "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
+      "excerpt": "Snowflake’s SnowPro Core Certification exam was just released a few months back (late 2019). The 2 hours, 100 questions exam tests an individual’s foundational and advance knowledge of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/weareservian/snowflakes-snowpro-certification-exam-preparation-guide-how-to-pass-in-3-days-5e5baa484c68",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*xhOBQS_ddKJjYxe69rZ-Aw.png",
+          "width": 1200,
+          "height": 505,
+          "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-amazon-web-services-aws-bank-on-ai-to-add-new-servers-everyday.md",
       "title": "Amazon Web Services (AWS) Bank On AI to Add New Servers Everyday",
       "excerpt": "He explained that artificial intelligence is playing a crucial role in anticipating the demand for its services. Not only it is helping AWS to meet the demand but also cutting down the cost of operations. “One of the least understood aspects of AWS is ...",
@@ -931,87 +1013,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
-      "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
-      "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
-      "publishedDateTime": "2020-04-01T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-google-deepminds-agent57-ai-bests-humans-at-beating-atari-games.md",
-      "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
-      "excerpt": "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winbuzzer.com",
-        "domain": "winbuzzer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg",
-          "width": 1440,
-          "height": 634,
-          "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

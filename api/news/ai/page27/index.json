@@ -2,6 +2,141 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-03-19-driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths.md",
+      "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
+      "excerpt": "Driverless truck startup Starsky Robotics is shutting down ... In a blunt post-mortem of what went wrong, founder and CEO Stefan Seltz-Axmacher blamed results-hungry investors, unexpected difficulties with getting the AI right, and the fact that safety just isn’t sexy for Starsky’s problems – and the problems that he predicts will ...",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/",
+      "ampWebUrl": "https://www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/driverless-truck-startup-starsky-robotics-folds-ceo-shares-tough-autonomy-home-truths-19613770/amp/",
+      "publishedDateTime": "2020-03-19T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/starsky-robotics-autonomous-truck.jpg",
+          "width": 1080,
+          "height": 680,
+          "title": "Driverless truck startup Starsky Robotics folds: CEO shares tough autonomy home truths",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-the-end-of-starsky-robotics.md",
+      "title": "The End of Starsky Robotics",
+      "excerpt": "In 2015, I got obsessed with the idea of driverless trucks and started Starsky Robotics. In 2016 ... to land many of the vulnerable jobs by the end of January and I’m in the process of selling ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/starsky-robotics-blog/the-end-of-starsky-robotics-acb8a6a8a5f5",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T09:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*u_7DPtYho3U38K5MelTEXA.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": "The End of Starsky Robotics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-amazon-researchers-develop-ai-that-improves-knowledge-graph-performance.md",
+      "title": "Amazon researchers develop AI that improves knowledge graph performance",
+      "excerpt": "In a new study, researchers at Amazon describe a technique that factors in information about knowledge graphs to perform entity alignment, which entails determining which elements of different graphs refer to the same “entities” (which might be anything from products to song titles). The idea is to improve computational efficiency while at ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/19/amazon-researchers-knowledge-graph-performance/amp/",
+      "publishedDateTime": "2020-03-19T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon researchers develop AI that improves knowledge graph performance",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-the-women-defining-the-21st-century-ai-movement-part-2-of-2.md",
       "title": "The Women Defining The 21st Century AI Movement: Part 2 Of 2",
       "excerpt": "In this two-part series I will highlight several of the dozens of women that I believe will lead the 21st century in the field of Artificial Intelligence. Part one was focused on Women in the ...",
@@ -1034,126 +1169,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-test-time-augmentation-for-deep-learning-based-cell-segmentation-on-microscopy-images.md",
-      "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-      "excerpt": "Recent advancements in deep learning have revolutionized the way microscopy images of cells are processed. Deep learning network architectures have a large number of parameters, thus, in order to reach high accuracy,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-61808-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-61808-3/MediaObjects/41598_2020_61808_Fig1_HTML.png",
-          "width": 685,
-          "height": 319,
-          "title": "Test-time augmentation for deep learning-based cell segmentation on microscopy images",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-automatic-optic-nerve-head-localization-and-cup-to-disc-ratio-detection-using-state-of-the-art-deep-learning-architectures.md",
-      "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
-      "excerpt": "Computer vision has greatly advanced recently. Since AlexNet was first introduced, many modified deep learning architectures have been developed and they are still evolving. However, there are few studies comparing these architectures in the field of ophthalmology.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nature.com/articles/s41598-020-62022-x",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-020-62022-x/MediaObjects/41598_2020_62022_Fig1_HTML.png",
-          "width": 685,
-          "height": 502,
-          "title": "Automatic optic nerve head localization and cup-to-disc ratio detection using state-of-the-art deep-learning architectures",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-explaining-machine-learning-models-to-the-business.md",
-      "title": "Explaining machine learning models to the business",
-      "excerpt": "Explainable machine learning is a sub-discipline of artificial intelligence (AI) and machine learning that attempts to summarize ... H2O.ai Figure 1: Explanations created by H2O Driverless AI. These explanations are probably better suited for data scientists than for business users. For issue 1, I’m going to assume that you want to use ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3533369/explaining-machine-learning-models-to-the-business.amp.html",
-      "publishedDateTime": "2020-03-19T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2016/03/thinkstockphotos-523692007-100648034-large3x2.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Explaining machine learning models to the business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

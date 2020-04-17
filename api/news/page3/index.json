@@ -2,6 +2,96 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-15-tesla-receives-monetary-settlement-in-lawsuit-against-self-driving-start-up-zoox.md",
+      "title": "Tesla Receives Monetary Settlement in Lawsuit Against Self-Driving Start-Up Zoox",
+      "excerpt": "The electric-vehicle maker and Zoox, a self-driving-car start-up, announced yesterday that they've reached a settlement regarding Tesla's March 2019 lawsuit, according to which Tesla will receive an undisclosed monetary payment. Additionally, Zoox has agreed to conduct an internal audit to confirm that former Tesla employees are adhering to ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/tesla-receives-monetary-settlement-in-lawsuit-agai.aspx",
+      "publishedDateTime": "2020-04-15T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568067%2Fcourtoom.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Tesla Receives Monetary Settlement in Lawsuit Against Self-Driving Start-Up Zoox",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
+      "title": "Pileus helps businesses cut their cloud spend",
+      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
+      "publishedDateTime": "2020-04-15T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
+          "width": 622,
+          "height": 364,
+          "title": "Pileus helps businesses cut their cloud spend",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-10-ways-ai-can-improve-digital-transformations-success-rate.md",
       "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
       "excerpt": "It's important to get beyond digital transformation as purely a technical, abstract construct and see it as a must-have strategy to retain customers and attract new ones.",
@@ -935,7 +1025,7 @@
       "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
       "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
       "excerpt": "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ...",
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
@@ -1017,95 +1107,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-ai-is-helping-us-combat-the-economic-problem-of-human-trafficking.md",
-      "title": "AI Is Helping Us Combat The Economic Problem Of Human Trafficking",
-      "excerpt": "When we think of human trafficking, we often think about the despondent faces of women and children who live in slums all over the world.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/14/ai-is-helping-us-combat-the-economic-problem-of-human-trafficking/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/14/ai-is-helping-us-combat-the-economic-problem-of-human-trafficking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/14/ai-is-helping-us-combat-the-economic-problem-of-human-trafficking/amp/",
-      "publishedDateTime": "2020-04-14T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e96238250a4fd0006f0684c%2F0x0.jpg",
-          "width": 640,
-          "height": 333,
-          "title": "AI Is Helping Us Combat The Economic Problem Of Human Trafficking",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias.md",
-      "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
-      "excerpt": "It looks like Google‘s working on some major upgrades to its autonomous machine learning development language ‘AutoML.’ According to a pre-print research paper authored by several of the big ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/googles-automl-zero-lets-the-machines-create-algorithms-to-avoid-human-bias/amp/",
-      "publishedDateTime": "2020-04-14T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/07/robots-796x433.jpg",
-          "width": 796,
-          "height": 433,
-          "title": "Google’s AutoML Zero lets the machines create algorithms to avoid human bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

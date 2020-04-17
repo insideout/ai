@@ -2,6 +2,141 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-24-customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live.md",
+      "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
+      "excerpt": "At the core of these activities is to have a holistic, evolving view of the customer over time. Data analytics and AI are at the core of future solutions. This means moving from communication to conversation by capturing both implicit and explicit data, and creating a “living” customer profile that changes as the customer goals and ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/customer-advocacy-the-secret-engagement-weapon-for-fintech-firms-vb-live/amp/",
+      "publishedDateTime": "2020-03-24T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/4.16-Yodlee-webinar.png?fit=1489%2C782&strip=all",
+          "width": 1489,
+          "height": 782,
+          "title": "Customer advocacy: The secret engagement weapon for fintech firms (VB Live)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-ibm-invests-in-ai-hardware.md",
+      "title": "IBM Invests In AI Hardware",
+      "excerpt": "While the IBM hardware business today is limited to POWER and Mainframe chips and systems, the technology giant is quietly building its expertise and capabilities in AI hardware. Where this could end up is anybody’s guess,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/24/ibm-invests-in-ai-hardware/amp/",
+      "publishedDateTime": "2020-03-24T14:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7a793610380d0006fc0469%2F0x0.jpg",
+          "width": 745,
+          "height": 489,
+          "title": "IBM Invests In AI Hardware",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-24-building-a-trash-sorter-with-aws-deeplens.md",
+      "title": "Building a trash sorter with AWS DeepLens",
+      "excerpt": "In this blog post, we show you how to build a prototype trash sorter using AWS DeepLens, the AWS deep learning-enabled video camera designed for developers to learn machine learning in a fun, hands-on way. This prototype trash sorter project teaches you how to train image classification models with custom",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-trash-sorter-with-aws-deeplens/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-24T13:37:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/23/deeplens-trash-sorter-1.gif",
+          "width": 1200,
+          "height": 545,
+          "title": "Building a trash sorter with AWS DeepLens",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-24-the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305.md",
       "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
       "excerpt": "NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive ... are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services ...",
@@ -1082,133 +1217,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-nvidia-azure-and-aws-offer-free-resources-to-fight-against-covid-19.md",
-      "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
-      "excerpt": "However, for these machine learning models to work, they need tremendous amounts of computational power ... NVIDIA Parabricks’ pipelines have been tested on Dell, HPE, IBM, and NVIDIA servers at Amazon Web Services, Google Cloud, and Microsoft Azure. NVIDIA advises users to start with a small server for a small number of samples and then ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/nvidia-aws-google-cloud-free-gpu-covid-19/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/03/nvidia-gpu-covid.png",
-          "width": 680,
-          "height": 383,
-          "title": "NVIDIA, Azure And AWS Offer Free Resources To Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024.md",
-      "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
-      "excerpt": "Global “Artificial Intelligence (AI) ChipsMarket“ Report 2020report recorddetailed estimation to improvement a",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-boosting-the-growth-worldwide-market-dynamics-and-trends-efficiencies-forecast-2024-2020-03-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) Chips Market boosting the growth Worldwide: Market dynamics and trends, efficiencies Forecast 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-miso-robotics-deploys-ai-screening-devices-to-detect-signs-of-fever-at-restaurants.md",
-      "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
-      "excerpt": "Miso Robotics, a startup developing robots that can perform basic cooking tasks in commercial kitchens ... can boost productivity by working with humans as opposed to wholly replacing them. Miso AI, Miso’s eponymous cloud-based platform, orchestrates the prep of over a dozen food items, including chicken tenders, chicken wings, tater ...",
-      "heat": 123,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/24/miso-robotics-deploys-ai-screening-devices-to-detect-coronavirus-covid-19-fever/amp/",
-      "publishedDateTime": "2020-03-24T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/FlippyROAR_IMAGE-1-e1579804235265.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Miso Robotics deploys AI screening devices to detect signs of fever at restaurants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
