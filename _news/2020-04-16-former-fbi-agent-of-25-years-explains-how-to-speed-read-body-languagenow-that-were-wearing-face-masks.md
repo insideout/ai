@@ -8,7 +8,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-bo
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 4480
     title: "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks"
 
-secured: "Z/cVTDokDEdxUl77FIGOCN0AH0jENCPxMHJF5L/83dV9YICqV/eeBUJfF0STMuCWOA+LyeT8LL1BtyHO9LPwb/trhkk0jvIfeZ51HTkPJYat4DyK5w9UvGrxJKfgCN5S6C6jqfUbROHB24i74vG9tpghB+N4kAXn2xP4uachgh07YJ3ytQXyt7bQ1nVEE7k7kSPG3L25UC8V6tz/97c7Kt9XZvbX9bhbZ30Vbb7sfwAYxHzsNefrmCgeMgY/XHcHQ39oH47zGsudFbUbu7Z9KXzUL+VSetmqPbjwQnbW7pAnnmtifr9NhAMsnqYES3l3;klP61hjbZQ7pXni3L3mhqA=="
+secured: "CAZu73/m77lECnuBuuG4ounsF7ZgwPihtyn4ZogrYhzl+7dWfIWzuv9BXNUPK07BGGhlC2ll+Kw8S1KHdL+YuD+Nup35DwYSdlZcZlfDm7jGX1VzTkRwa/XhAJSjfcwsTG6YD6cehhU3NsbP4rN8NnRNSnykI67XSqkVlA2K0QQvgJw8HtpmulvdmamUcx7mtzxMHZswp0+TNn4MnY6VT6zXkdLnTOTxK5N14kWKPCP3OBAH7mXwQvy8jCNU6AM1wVFokLK1AxbGntIA2mHAUNprDRdQtQMp2BwTh0Q6cPZ5IKC3MQGaaXbukZT7in5K;Yzs3QdedbFIdnXluT7VdXQ=="
 ---
 

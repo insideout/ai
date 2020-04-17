@@ -41,6 +41,21 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all"
         width: 1200
         height: 600
+  - title: "China’s Pony.ai rolls out US self-driving delivery service for groceries amid coronavirus lockdown"
+    excerpt: "Chinese autonomous vehicle start-up Pony.ai has launched a self-driving delivery service in Irvine, California, to help fulfil increasing online grocery orders during the coronavirus lockdown. The service, launched in partnership with Los Angeles-based e-commerce platform Yamibuy, enables residents in the area to receive their purchases of ..."
+    publishedDateTime: 2020-04-17T05:31:00Z
+    webUrl: "https://www.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries"
+    ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3080371/chinas-ponyai-rolls-out-us-self-driving-delivery-service-groceries"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 75
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fb5b3e40-805e-11ea-8736-98edddd9b5ca_image_hires_131136.jpg?itok=PuWGeKE8&v=1587100306"
+        width: 1200
+        height: 630
   - title: "Pony.ai rolls out self-driving deliveries during lockdown"
     excerpt: "Despite the short-term loss of data collection from self-driving start-ups’ usual operations, the pandemic could actually prove to be an “accelerator” of the trend towards autonomous driving, James Peng, cofounder of Pony.ai and a former developer at Chinese search engine Baidu, said in an interview. Deliveries will probably become an ..."
     publishedDateTime: 2020-04-16T23:01:00Z

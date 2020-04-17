@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/16/ai-spots-critical-microsoft-secur
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/ai-spots-critical-microsoft-security-bugs-97-of-the-time/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 573
     title: "AI spots critical Microsoft security bugs 97% of the time"
 
-secured: "NP0ZnWeNrUmu07+5xuXjzrveAswenNcfzIUIkYoG1DZKhhEFNsTW2+8hFTYd5uvUgQmuYbpBqXtMffGE3yRKT9VNBhNxrbhD26XNf9+FCnMXKf8YHCMtWvmqtZR8lL3wyuiYLUiZ75Zy2M/DU5NkEkSuK+/V7R2EjR1aaR2H4vDXaxV3BeaB6Qvg7DAIhF1g62tP5U1eTxMfK/3fkVBKg5rAi5CkTWnrQcyVoQolXA4KLc0rCgAg7xpzy2cZNtRiFH4M+otu4VBjMVgsJfaLl7BIKNWTyHHRJP98KWsDgcCfXqx6g5/9w8AMxJxhKvxY;6U0nmAuV1m9M36vFm52NtQ=="
+secured: "/a+2p3CeWcX+9cV6q/1CZ4w3UX2DQJj/CKQQbutccDlyTNuotU4S6yBTxp7VE0TQIaBnNbSPcDq0k8s/tAjkZdMHCnDqGATTrb3xvC6vhzEouOiPQSzJipB2aOP8ZqMIendMeewqaV74n/R2bwHr7UYmnWkxrrT5EM98alw/8IDvJfBf+21aEiwhpTzizOun2o8nnGCUVnGj4GsTQD/OU+uSU4TcF5D3Mcm9jwAtIztNwz1e1CU5RmwHz2k/keTmTDorKfVTXCtIVy/MLFW+dIgPOvfp9xVCo7oXCepWdtzp+bt9BZ6Get/a3JGuKt5M;d5LKRFdn0Cq6kqhTy5sVuQ=="
 ---
 

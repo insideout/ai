@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-au
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/kebotix-raises-11-5-million-to-automate-lab-experiments-with-ai-and-robotics/amp/"
 type: article
 quality: 116
-heat: 117
+heat: 116
 published: true
 
 provider:

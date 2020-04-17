@@ -46,6 +46,19 @@ related:
       - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
         width: 1280
         height: 1066
+  - title: "U.S Machine Learning Data Catalog Software Market Overview and Scope 2020 to 2025"
+    excerpt: "\"The Machine Learning Data Catalog Software Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patterns, and forecast in the coming years. \"The Machine Learning Data Catalog Software ..."
+    publishedDateTime: 2020-04-17T04:48:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/80309/us-machine-learning-data-catalog-software-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 34
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
 
 secured: "TIb0+eZcSUJGsiKh8CW99X7Uihcxv8YesxfANtVQatWkfmYilaHm3/B2BXXX8awztRsiYrfuq4wH+ORUZNhHbquAKEET8rVH0aviIiFlse0e3Gf3QJc08L0vMhLbZFoMpImiMl2NY4qgOIAtziYMDSfBBRDckczeYWUemg9fLKqgATWpnjRNECOI+z1+cpIr68CaP0lqvBdAxcJtCo+EMRzjJX8xK7RC/ZR+dgG6HEw0Rg+opR0ZdfwSzF0qf0hi9qeC/YtoUuu2E8dkDXidyw6SdibpV9daH9RYZj5LoxGdADairEdxPZu+Tw1TNjbEDG3LSSw+X8sGK8Ei+Hjbxd97nBg0VRIkK8TqAhG5pmjWckVmkwQqV7oUK5x2VsO6ke5DoL4oiL8XsKI1rHcLqGnCCKARzCXBUMohbefkJq4F30u2GZlo+Pb/rBk4rRt2bZ5/9w7QC8N6S3LrJ/ExhREfZIED+TZ/cBl31Mris1c=;yRQVXbFktQLfyXXTt4+sKw=="
 ---

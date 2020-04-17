@@ -38,6 +38,19 @@ related:
       - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
         width: 1280
         height: 1066
+  - title: "U.S Machine Learning Data Catalog Software Market Overview and Scope 2020 to 2025"
+    excerpt: "\"The Machine Learning Data Catalog Software Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patterns, and forecast in the coming years. \"The Machine Learning Data Catalog Software ..."
+    publishedDateTime: 2020-04-17T04:48:00Z
+    webUrl: "https://www.cmo.com.au/mediareleases/80309/us-machine-learning-data-catalog-software-market/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 34
+    images:
+      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+        width: 600
+        height: 246
   - title: "Global Computer Vision in Healthcare Market 2017-2026| NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc., IBM"
     excerpt: "The report involves insightful data on the main sectors of the Global Computer Vision in Healthcare Market. The report has segmented market, by its types and applications. Each segment has analyzed completely on the basis of its production, consumption as well as revenue. Further, it is classified on the basis of geographical areas which ..."
     publishedDateTime: 2020-04-16T08:44:00Z

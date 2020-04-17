@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Police use of facial recognition technology gets spotlight"
-excerpt: "For all intents and purposes, facial recognition technology for law enforcement agencies is in its beta stage. Now that doesn’t mean police departments haven’t begun to (problematically) implement it in some form — with mixed results, along with legitimate concerns about racial bias and privacy. But as law enforcement agencies across the ..."
-publishedDateTime: 2020-04-16T16:08:00Z
-webUrl: "https://www.boulderweekly.com/news/police-use-of-facial-recognition-technology-gets-spotlight/"
+title: "U.S Machine Learning Data Catalog Software Market Overview and Scope 2020 to 2025"
+excerpt: "\"The Machine Learning Data Catalog Software Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patterns, and forecast in the coming years. \"The Machine Learning Data Catalog Software ..."
+publishedDateTime: 2020-04-17T04:48:00Z
+webUrl: "https://www.cmo.com.au/mediareleases/80309/us-machine-learning-data-catalog-software-market/"
 type: article
-quality: 39
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Boulder Weekly
-  domain: boulderweekly.com
+  name: cmo.com.au
+  domain: cmo.com.au
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
-    width: 1280
-    height: 1066
-    title: "Police use of facial recognition technology gets spotlight"
+  - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
+    width: 600
+    height: 246
+    title: "U.S Machine Learning Data Catalog Software Market Overview and Scope 2020 to 2025"
 
 related:
   - title: "Artificial Intelligence In Aviation Market Technology Advancement and Business Outlook 2020"
@@ -39,19 +39,19 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2019/05/AI-in-Aviation-1024x615.png"
         width: 1024
         height: 615
-  - title: "U.S Machine Learning Data Catalog Software Market Overview and Scope 2020 to 2025"
-    excerpt: "\"The Machine Learning Data Catalog Software Market report provides a detailed analysis of the dynamic of the market with extensive focus on secondary research. The report sheds light on the current situation of the market size, share, demand, development patterns, and forecast in the coming years. \"The Machine Learning Data Catalog Software ..."
-    publishedDateTime: 2020-04-17T04:48:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/80309/us-machine-learning-data-catalog-software-market/"
+  - title: "Police use of facial recognition technology gets spotlight"
+    excerpt: "For all intents and purposes, facial recognition technology for law enforcement agencies is in its beta stage. Now that doesn’t mean police departments haven’t begun to (problematically) implement it in some form — with mixed results, along with legitimate concerns about racial bias and privacy. But as law enforcement agencies across the ..."
+    publishedDateTime: 2020-04-16T16:08:00Z
+    webUrl: "https://www.boulderweekly.com/news/police-use-of-facial-recognition-technology-gets-spotlight/"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
-    quality: 34
+      name: Boulder Weekly
+      domain: boulderweekly.com
+    quality: 39
     images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
+      - url: "https://www.boulderweekly.com/wp-content/uploads/2020/04/Face_Recognition_3252983.png"
+        width: 1280
+        height: 1066
   - title: "Global Computer Vision in Healthcare Market 2017-2026| NVIDIA Corporation, Microsoft, Intel Corporation, Xilinx Inc., IBM"
     excerpt: "The report involves insightful data on the main sectors of the Global Computer Vision in Healthcare Market. The report has segmented market, by its types and applications. Each segment has analyzed completely on the basis of its production, consumption as well as revenue. Further, it is classified on the basis of geographical areas which ..."
     publishedDateTime: 2020-04-16T08:44:00Z
@@ -62,6 +62,6 @@ related:
       domain: galusaustralis.com
     quality: 0
 
-secured: "ctPWoRGQEUdml/rVdgxE5rL0Yl4pWrFZEp9q46SAxpH61wEQQ+7H9TfwmGSRf8SZuwOEjZMeHl79ffearMiMjGt+JGlIFPf8ZvjhAIBM9ceMvdkzjNxFY44yiVkD0wp4vdNFpQUe0Cr3BG2wgCMvzfaokjq0fk4Brq2gLbM6m3IOjy3QDaJHvHTztYx547gK//9vVW3eiV9lj+S2RUPSGKSb8FzUz3hjgPhElZRrm+IbJFxbWOTzz3XrUezXIsGMTJj6CDEOMBpP79ZP1My1cmRS/FZoSPJI7KJNlhv1pSf+PdjAmjUMG9nD7vodSBdzVpRiYHUIsW7O7oy5ONJQW2qoAb9mPJPdsuXOruYYCGODf+nnDYO1FiJdeQBfkPl/XxC2Yk7GDFDIKAjBJq1l6Em6CZGV1i6Gy8tYIBRv4d9TP9d1XxTGqPF1CX8ps9Fd2J7Xx8/GAUXqb/dR51YX9zMzSgzvWAm4kIkYo/zhgd0=;WH4dxaxaIi1X9MPyEAcPiA=="
+secured: "KulC93f9fYkqBtEU2GB/juAcx0UAYGBr71hYYqh4qpokgn0f8hyfaYoAOGH6wDrurEY4bNVIbqPrupbDi7xvFcMF2jWqNlDn/KHLFkdn/4J8bB8o5nLlEIzF8hF/p3me9cNBW5RdPGpJTaYW1oBfuK2Tm1sCWcYXi9bv/E9hG94bq6JBSbzqW+USZdHGE1j2bt0lAnFpfQ4lfqobYAHpzMvuj4TYBlN2xH3Nlm8pmFRgtFbr7NFJKk3//bYFqY6e2k9fyrly/FO1ESDygAP7GMKHWBMHjIlUjMklodULabxYYz+WSb+cIUrdFAdr17Or;cAgolHbwedldYaSFSnBDrw=="
 ---
 

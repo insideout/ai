@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/16/new-mit-machine-learning-model-sho
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/new-mit-machine-learning-model-shows-relaxing-quarantine-rules-will-spike-covid-19-cases/amp/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:
