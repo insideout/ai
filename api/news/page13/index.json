@@ -2,6 +2,87 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-04-how-deepminds-agent57-outperformed-humans-in-57-atari-games.md",
+      "title": "How DeepMind’s Agent57 Outperformed Humans In 57 Atari Games",
+      "excerpt": "In a paper published by DeepMind, a team of scientists from Alphabet’s UK-based research division has claimed that Agent57 – the first deep reinforcement learning agent – has outperformed humans on all 57 Atari 2600 games in the Arcade Learning Environment data set. Agent57 combines an algorithm to efficiently explore a meta controller ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://analyticsindiamag.com/how-deepminds-agent57-outperformed-humans-in-57-atari-games/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-04T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/AGENT57.jpg",
+          "width": 1440,
+          "height": 634,
+          "title": "How DeepMind’s Agent57 Outperformed Humans In 57 Atari Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-04-how-travel-apps-are-using-ai-to-personalize-the-experience.md",
+      "title": "How Travel Apps Are Using AI To Personalize The Experience",
+      "excerpt": "The goal of AI implementation in the travel industry is to improve people’s experience in planning trips and booking accommodation.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/",
+      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/amp/",
+      "publishedDateTime": "2020-04-04T00:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198489788%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
+          "width": 1200,
+          "height": 675,
+          "title": "How Travel Apps Are Using AI To Personalize The Experience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
       "title": "The Global Face Recognition Market is expected to...",
       "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
@@ -962,87 +1043,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
-      "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-      "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
-      "publishedDateTime": "2020-04-03T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/103262515-GettyImages-468904608.jpg?v=1450870935",
-          "width": 4000,
-          "height": 2667,
-          "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-datarobot-intersystems-sign-integration-and-reseller-agreement.md",
-      "title": "DataRobot, InterSystems sign integration and reseller agreement",
-      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems’ IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in an intuitive, scalable manner. While InterSystems’ technology simplifies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "ampWebUrl": "https://amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "publishedDateTime": "2020-04-03T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/brain-test-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "DataRobot, InterSystems sign integration and reseller agreement",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

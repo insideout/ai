@@ -2,6 +2,96 @@
   "page": 72,
   "value": [
     {
+      "path": "_news/2020-01-29-nest-is-testing-detecting-hvac-problems-with-ai.md",
+      "title": "Nest is testing detecting HVAC problems with AI",
+      "excerpt": "Google today announced that it’s testing AI algorithms tailored to identify “unusual patterns” related to HVAC systems controlled by Nest, which can alert users to issues and put them in touch with a maintenance professional. Based on information like the thermostat’s historical data and current weather, Nest will learn to spot patterns ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/29/nest-is-testing-detecting-hvac-problems-with-ai/amp/",
+      "publishedDateTime": "2020-01-29T10:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/01/nest-thermostat-google-smart-home.jpg?fit=1280%2C600&strip=all",
+          "width": 1280,
+          "height": 600,
+          "title": "Nest is testing detecting HVAC problems with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-29-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into machine-readable data. And using the same kind of technology that translates English into Mandarin, they were able to translate problems into solutions.",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-29T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-google-shows-off-far-flung-ai-research-projects-as-calls-for-regulation-mount.md",
       "title": "Google shows off far-flung AI research projects as calls for regulation mount",
       "excerpt": "\"Right now, one of the problems in machine learning is we tend to tackle each problem separately,\" said head of Google AI Jeff Dean at Google's San Francisco offices Tuesday.",
@@ -1205,96 +1295,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-ai-driven-biomarkers-of-aging.md",
-      "title": "AI Driven Biomarkers Of Aging",
-      "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/28/ai-driven-biomarkers-of-aging/amp/",
-      "publishedDateTime": "2020-01-28T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e30aae6f133f400076af2dd%2F0x0.jpg",
-          "width": 1200,
-          "height": 585,
-          "title": "AI Driven Biomarkers Of Aging",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-building-a-business-intelligence-dashboard-for-your-amazon-lex-bots.md",
-      "title": "Building a business intelligence dashboard for your Amazon Lex bots",
-      "excerpt": "You’ve rolled out a conversational interface powered by Amazon Lex, with a goal of improving the user experience for your customers. Now you want to track how well it’s working. Are your customers finding it helpful? How are they using it? Do they like it enough to come back? How can you analyze their",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-business-intelligence-dashboard-for-your-amazon-lex-bots/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T14:55:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/27/bi-lex-1.gif",
-          "width": 800,
-          "height": 428,
-          "title": "Building a business intelligence dashboard for your Amazon Lex bots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-14-adobe-releases-ai-powered-product-recommendations-tool-in-magento-commerce.md",
+      "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
+      "excerpt": "Adobe said Tuesday that its AI-powered product recommendations tool is now generally available in Magento Commerce. The feature, first announced in October, allows merchants to analyze shopper behavior in order to generate highly personalized recommendations, which can be added to relevant store pages via widgets and flexible APIs. Adobe said ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
+      "publishedDateTime": "2020-04-14T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-deep-learning-market-value-expand-at-a-us-564272-mn-by-2026.md",
+      "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends.",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-a-closer-look-at-microsoft-azure-synapse-analytics.md",
       "title": "A closer look at Microsoft Azure Synapse Analytics",
       "excerpt": "Then came AI, which depending on whether it's machine learning or deep learning, has diverging resource requirements. So, bringing the data warehouse together with the data lake is no mean feat. Azure Synapse has attacked the workload issue with a cloud-native architecture that builds on the separation of compute from storage in SQL Data ...",
@@ -1206,95 +1295,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
-      "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
-      "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
-      "publishedDateTime": "2020-04-10T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot-2020-04-10-at-3.36.33-PM-e1586547649387.png?fit=1201%2C600&strip=all",
-          "width": 1201,
-          "height": 600,
-          "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving-and-more.md",
-      "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
-      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla ‘battery day’ being delay, Tesla Cybertruck new, Full Self-Driving news, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub, founder and publisher of ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/",
-      "ampWebUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
-      "publishedDateTime": "2020-04-10T12:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 562,
-          "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

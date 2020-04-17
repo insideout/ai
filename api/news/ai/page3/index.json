@@ -2,6 +2,140 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-15-vulcan-capital-invests-in-mobile-sports-game-maker-nifty-games-and-computer-vision-startup-aireverie.md",
+      "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
+      "excerpt": "Nifty Games, a San Francisco-based startup that develops mobile sports games, announced a $12 million investment round. Founded in 2018 by gaming veterans, the company is developing “clash-style” mobile games for sports fans, similar to Clash Royale. It has licensing partnerships with the NFL and NBA, a key differentiator. “Sports games ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/",
+      "ampWebUrl": "https://www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/vulcan-capital-invests-mobile-sports-game-maker-nifty-games/amp/",
+      "publishedDateTime": "2020-04-15T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/04/aireverie_cities-630x354.png",
+          "width": 630,
+          "height": 354,
+          "title": "Vulcan Capital invests in mobile sports game maker Nifty Games and computer vision startup AI.Reverie",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy.md",
+      "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
+      "excerpt": "It’s well-understood that without the ability to predict the decisions other drivers on the road might make, vehicles can’t be fully autonomous. In a tragic case in point, an Uber self-driving prototype hit and killed a pedestrian in Tempe, Arizona two years ago, partly because the vehicle failed to detect and avoid the victim. ATG’s ...",
+      "heat": 95,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
+      "publishedDateTime": "2020-04-15T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation.md",
+      "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
+      "excerpt": "New AI guidance from the White House meant to boost the sector will be interpreted by future administrations and policymakers in ways that advance regulatory agendas rather than free enterprise stances.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/",
+      "ampWebUrl": "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/",
+      "publishedDateTime": "2020-04-15T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e97210f1048ea0006cbdbc2%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-self-driving-startup-zoox-settles-with-tesla-over-trade-secret-theft.md",
       "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
       "excerpt": "It acknowledged that new hires took Tesla documents. Tesla has prevailed in a key lawsuit over trade secret theft. Self-driving car startup Zoox has settled with Tesla and acknowledged that some of its new logistics recruits “were in possession of Tesla documents” that covered shipping and warehouse processes. Zoox agreed to both pay an ...",
@@ -572,51 +706,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
-      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-      "excerpt": "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ...",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "publishedDateTime": "2020-04-14T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/105b9074-ceb1-4c7a-a8a0-d5581a1692fb/thumbnail/1200x675/307c4159c7d59289c5956ef469302170/fingerprint1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1197,95 +1286,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-adobe-releases-ai-powered-product-recommendations-tool-in-magento-commerce.md",
-      "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
-      "excerpt": "Adobe said Tuesday that its AI-powered product recommendations tool is now generally available in Magento Commerce. The feature, first announced in October, allows merchants to analyze shopper behavior in order to generate highly personalized recommendations, which can be added to relevant store pages via widgets and flexible APIs. Adobe said ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
-      "publishedDateTime": "2020-04-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-deep-learning-market-value-expand-at-a-us-564272-mn-by-2026.md",
-      "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
-      "excerpt": "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends.",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

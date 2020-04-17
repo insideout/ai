@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
+      "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+      "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html",
+      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "publishedDateTime": "2020-04-17T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252",
+          "width": 600,
+          "height": 350,
+          "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-computer-vision-market-key-facts-and-forecast-predictions-presented-until-2025.md",
       "title": "Computer Vision Market: Key Facts and Forecast Predictions Presented Until 2025",
       "excerpt": "According to our research team, the Global Computer Vision Market was valued at USD 11.02 billion in 2017 and is projected to reach USD 19.98 billion by 2025, growing at a CAGR of 7.8% from 2018 to 2025.",
@@ -134,51 +179,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation.md",
-      "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-      "excerpt": "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ...",
-      "heat": 110,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/",
-      "publishedDateTime": "2020-04-14T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/105b9074-ceb1-4c7a-a8a0-d5581a1692fb/thumbnail/1200x675/307c4159c7d59289c5956ef469302170/fingerprint1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "AFP used Clearview AI facial recognition software to counter child exploitation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

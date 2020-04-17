@@ -22,6 +22,6 @@ images:
     height: 900
     title: "Robots welcome to take over, as pandemic accelerates automation"
 
-secured: "jSDF/MIibrfSLnO7Bun+gcRnanKmCKuFK5z5TOcDqgd9CmOsrpZ/LJCVgb4QSF4Ltha75VM7CTeDwQWyC4N2YJfaEKASe/tfkXYMk+C/RtOTLMZKmd2EKje46tb6QmBVVkE9Syz4I2M1xN0AVhVsO7s0x7BvAnNneOey55iBKF2s+8GYH2ydMTZ/T8Tyb6R7V3kmyDTSAvq1aa13Je+Zmq8nKetjqCPpHNUMHSey51Hi51FYw/1SGhBZkvFkr0yRzyJd+9VzAYchpJg1DtIL4S+IHZ1ZW5E2DnB5+bW8WkTpE0v6M4Ao0fV3qzDuBrgm;xs/ZPnXtPyfNpi+TKoYznw=="
+secured: "B+BitA+DaFPErF7ehGdIT1H/y0DCb7Ih6nhOB9H1F+6rvXA6wcwNZl5w6Vvsz+l9kr9wExwz5ieCzZu45b0amWclaX9gpo/+a/VYeM04H0Ztj8+3yjNGYuIoswNQIVWZcfqDODj3ZCKUEN7N9PWysg2EgO2HsTzGALXjCeAM5HnGvI9UJaOEhFIiiDKemKWGN/WSggJpDUoZddTHMJZX+AgLTLFuJ/7nJAYYyEY5mN2yLlKU3jyC/fipXLxd5KI3blzbElPAyNcg1rBclcLV/EXKbcOZWBPbU9iaV7hmd8+gJCnY36KxKJnz46JPYH+t651vbRALCJXZoxJAahhfQSf8KEDob7IqhaH0Fabpsx6ruqCWHTIbLOFrZw3JU+kzQGOv9OrtbaUNLBzWy6/nWeLAfq71aojlmdCFLQ2VPzj+M10fn10gq4Cjq/i+GnIHzxcx+To3pqIUu/DadRTp6sdbvLSRX75fhgUXiQSTWh8=;AIkqNp0XZ+Gt+Gs1pzp47A=="
 ---
 

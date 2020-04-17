@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
 
-secured: "0nffvD4VtEzOTGg65FvXWvhh1ESactWB++39LpwBZleJtWiBd6elR/S5aLiPJECsieQ/xiB6sq5vq0l/BrIk+QZgKeUrEk00IaXnNDOCrlLhgRvV8KLRMpjMOKdiy393Fh1KEgmuvwotlBIrJH8SuPLfRZNksCeykfqUqDM64XAAg/ZPALtOUMwa4Q4jYiQ93+BC+Em7uLSwTYU0WEfqOwf9SOK4EEW536jTk0rHXlH+m7H2lRd9Yepv4ITE5Tsf3YRq6hBpOAuDjxEE6OgXSZk/QeTF+McZg396pyNFcl48085cQijb/lQDkOFDk1lA;mG9qoqJ2W6LzYV1KRChW6g=="
+secured: "/PjAsf8BEIsYgZnCY7Z+vJhfFF2jsmgUPy1muAG0Aez4KHlBJP9UFc/bFzLVDjH2bb3BcappXkDKglaz/KP/dKKmZoHrqcOJC6S0xGfj7tXklQlJ1a2uqnpkdGdf3jlSItljVP6Q29EM3mCKjFxZATzzIEWGJk27pin2t07fzZegEgLxCuSK5xf3wQPP1dXHtx+iODhGG3+pEK4vAK+ETr4I3vtyAlEcIILHeR+4sdvsxE7x4DArV7Z2NB/Lj25Nnpaj0PVeYeNpdrNPYo4sjAaOYNcWkpCkQFbaWbMXdsDyHfTLCYoBmQB80OHQSHPBgnbRAPQmA4k+V+L4PpB/IfBGK+7C+qGaOtN4duNUrj0HCasz0w7qM0SmZPrrZryjtfhi9ztvIB54lzvGakpjqJNyikU/GSWBRbZVh7NrfxoY/2tMcKF4JD3F1xpLBUqXJnIZBa6b+Q+e381q/Du550GMAVUP1OFSMCb8+xKHJjw=;nwaylEiLdk6yD0YPBO1BbA=="
 ---
 

@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-04-08-researchers-open-source-state-of-the-art-object-tracking-ai.md",
+      "title": "Researchers open-source state-of-the-art object tracking AI",
+      "excerpt": "A team of Microsoft and Huazhong University researchers this week open-sourced an AI object detector — Fair Multi-Object Tracking (FairMOT) — they claim outperforms state-of-the-art models on public data sets at 30 frames per second. If productized, it could benefit industries ranging from elder care to security, and perhaps be used to ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/08/researchers-open-source-state-of-the-art-object-tracking-ai/amp/",
+      "publishedDateTime": "2020-04-08T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/b9355a07-e2bb-4f05-9662-bdce9c625cb4-e1586377374664.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Researchers open-source state-of-the-art object tracking AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-using-cloudfront-to-secure-your-web-applications.md",
+      "title": "Using CloudFront to secure your web applications",
+      "excerpt": "Cybersecurity is a hot topic now. If you search on Google about how to protect your website, you may find many buzzwords, IDS, IPS, WAF, DDoS, Proxy, you name it. You may think protecting your ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/using-aws-to-secure-your-web-applications-3bd363206875",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*ner-yFUzwHIG_nkxW9C29g.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Using CloudFront to secure your web applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-storytelling-diversity-the-ai-edge-in-la.md",
       "title": "Storytelling & Diversity: The AI Edge In LA",
       "excerpt": "LA is known as the land of storytellers, but when it comes to its own story, the entertainment business is still front and center. In fact, LA has been at the core of a flourishing AI scene for decades.",
@@ -849,7 +938,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/Insights-Worldwide-Automated-Machine-Learning-Market-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T01:36:00-07:00",
@@ -994,87 +1083,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-mybuddyai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round.md",
-      "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
-      "excerpt": "MyBuddy.ai, a startup that develops virtual tools to help kids learn English, announced today that it has raised $1 million in seed funding from LETA Capital. The capital will be used to expand into new markets and develop new features including mini-classes about health. The San Francisco-based company’s app features a AI-based virtual tutor ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/07/mybuddy-ai-a-virtual-tutor-for-kids-learning-english-raises-1-million-seed-round/amp/",
-      "publishedDateTime": "2020-04-07T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-740526807.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "MyBuddy.ai, a virtual tutor for kids learning English, raises $1 million seed round",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-3-observations-amid-the-covid-19-crisis.md",
-      "title": "3 observations amid the COVID-19 crisis",
-      "excerpt": "And today, satellite images, foot traffic and transaction data are giving us a better read on the economy amid widespread global closures and re-openings. At the same time, the natural language processing of news flow,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-observations-amid-the-covid-19-crisis-2020-04-08?amp",
-      "publishedDateTime": "2020-04-07T23:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1308265199",
-          "width": 1024,
-          "height": 512,
-          "title": "3 observations amid the COVID-19 crisis",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

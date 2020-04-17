@@ -29,22 +29,37 @@ images:
     title: "Clearview AI’s source code and app data exposed in cybersecurity lapse"
 
 related:
-  - title: "Security lapse exposed Clearview AI source code"
-    excerpt: "Since it exploded onto the scene in January after a newspaper exposé, Clearview AI quickly became one of the most elusive, secretive, and reviled companies in the tech startup scene. The controversial facial recognition startup allows its law enforcement users to take a picture of a person, upload it, and match it against its alleged database ..."
-    publishedDateTime: 2020-04-16T19:08:00Z
-    webUrl: "https://techcrunch.com/2020/04/16/clearview-source-code-lapse/"
-    ampWebUrl: "https://techcrunch.com/2020/04/16/clearview-source-code-lapse/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/clearview-source-code-lapse/amp/"
+  - title: "Server screw-up exposes Clearview’s facial recognition AI software"
+    excerpt: "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ..."
+    publishedDateTime: 2020-04-17T09:31:00Z
+    webUrl: "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html"
+    ampWebUrl: "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Engadget
+      domain: engadget.com
+    quality: 104
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/04/hero-clearview-fakefaces.jpg?w=1024"
-        width: 1024
-        height: 568
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252"
+        width: 600
+        height: 350
+  - title: "AFP used Clearview AI facial recognition software to counter child exploitation"
+    excerpt: "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ..."
+    publishedDateTime: 2020-04-15T03:40:00Z
+    webUrl: "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/105b9074-ceb1-4c7a-a8a0-d5581a1692fb/thumbnail/1200x675/307c4159c7d59289c5956ef469302170/fingerprint1.jpg"
+        width: 1200
+        height: 675
 
-secured: "S+/n9ERTHtiL+NkVFR3xTCy9OEBjESuyDUIOFfEVphbT65PYMW5t3EzyEYOeLoT2M69Z+xhq4ong1WJq4OhT+GTcwZxKOIT8jYVYBLCuD8/h4F+KW2Zi6BGxcTKLOhbdXG0Aaap1fyM9PmEGW/5zXPpGkLZ1k+e05Gaj8safv7y0xPsuNln6VFdNbc2KVuBjaonfmCUUNub+acIBkQUjfUyORAa3NJ+AqEd3fOEaiLVxDjCXp2tKqGxddpStP4Yr4jRjll8oEWC7W0k+naa+IHmzc8ZHpUwd9Kypc9CkAzcCX+lwZMi7Cb9DRZwLyzzR;XROqYN9NO4rxzYB9/ZzTBw=="
+secured: "6U6rk+iJI/k9TgVyZwPsY8UM4QlxpZx3YwENBwvj5omIclkPDkUIQJbgX/CiaUTeKSqmC1TpuWYKH6WfLSqp4bJXa2K+DPaowZYrzCIX7Ib13yGFO3uR/sT6zs+SXbBxoEeJPSRvQfBw4JJUdY4ojSj3fgVO0XHdlEfqP0aVpp9ikmAtcj5uH7IUntts9XYPGkDiJ7wg88I9eGTBStrsUdC890pQ8cdttYlSk13WbrIOnwptswgFb6DoFqQyDo8EuG+9srI9k62udct4FPdVwdUXL/tvN5Mm1UKFQowF2QdZovT9lTzb9Vd+IA5FPKnF4BwbjprYCFN4NkPzUvE3TsLbsISyTaAF1kaka6BdDNsb3xAIRBIBIvyNwC04XVBhZRf4Fr1MT18VEFoX2DCKLPkSldng6RWXTic+qUsCg9QMFm/Rnri2yPuhlz9eJOEgN+YLFk2cpURq5DDEXY5ki8Dg2urN++6CesaxM9jVg78=;k3fnRMkITLV3GcKpD8mIIA=="
 ---
 

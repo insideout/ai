@@ -23,6 +23,6 @@ images:
     height: 338
     title: "Commentary: A final, cruel slap in the face"
 
-secured: "/9Z8Gb36G+q5cMihBh3AO2xRqAXu8O+2Zbg00zlFUvGk62OjWltP8KzfDT54IiQl4Z+LM/DL0HfJHHIM10W3aFmolRU0w8D2N0urBjPUdEpOw2DB/KSsA+4LVnuSFnsVesYiFhsdQ0bMjHtnOm+ZbMfjz9Wv5OSHY9YV4B4cXLO7wIoeRcCThXo7krmlKs9UdmWpabnoc9GfAb6i20cNCJtJgWOOPZNNJpa6Yc1FSqn63lqAo65qaluTlAohHUcsiP9PtTFQh46086l3OIN9W3vY+nUj+EV7BPud1xHbulRvHChcOu89vLenLUSAk+HN;rjnTaOYkd0pbsnFd6YXkzQ=="
+secured: "Ok/f8t/7uB8qoAgNqVKQwCMkWa1na/quKbyZv/h3XJ6EOHQrd5qlq01/MqrRHG+O5alqprBqtVu05mu91yeopQCZraYwMHmZO8iTZ9u+DeWXVVJkLH7JBi8X5FGeCWKj+jcG3yWfWGFztg5HeJzlMWaEwWLh1F9QpUvJd5197laLA/heum/ODWiXszF4zOeE0EvUTWwEl+1oSlLe+H+pGdKZTk8vznFIvRZ9GO99QrqDvyJXYOu0cBMFS50fX+csNxw/Ecrg0zFSjk9ZsKTBCBu7A/x0ByYUhbwP4uH6mCAM8ndYgJcosqog5Zmruq+Lu0aWe/ebXnB7U3/Fn/oWWszvUdqD+uFgbg58yxlxeVwSZYmNWc5wyuR1hLD3hzj48D1Goxfu0PRD8o/GjnhJpnb9M4rhrMz3t1GeQK32t1NJb8j6Jy6bXLs8ekIAFO2AKejkg54OyNPi9AkQZry7vr0agTWlBd2mQZp6qdiXTUU=;EU5R0XtAAUX9DGnsPYCxKw=="
 ---
 

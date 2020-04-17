@@ -7,9 +7,9 @@ webUrl: "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558
 ampWebUrl: "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 104
+heat: 124
+published: true
 
 provider:
   name: Engadget
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252"
@@ -44,7 +45,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/105b9074-ceb1-4c7a-a8a0-d5581a1692fb/thumbnail/1200x675/307c4159c7d59289c5956ef469302170/fingerprint1.jpg"
         width: 1200
         height: 675
+  - title: "Clearview AI’s source code and app data exposed in cybersecurity lapse"
+    excerpt: "A security lapse at controversial facial recognition startup Clearview AI meant that its source code, some of its secret keys and cloud storage credentials, and even copies of its apps were publicly accessible."
+    publishedDateTime: 2020-04-17T09:36:00Z
+    webUrl: "https://www.theverge.com/2020/4/17/21224718/clearview-ai-exposed-server-source-code-windows-ios-android-mac-apps-cloud-storage"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/4/17/21224718/clearview-ai-exposed-server-source-code-windows-ios-android-mac-apps-cloud-storage"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/17/21224718/clearview-ai-exposed-server-source-code-windows-ios-android-mac-apps-cloud-storage"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 87
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/COWsgOH7Xb7xKBnZ-42tDcbufkc=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66666576/jbareham_170417_1617_0001.0.jpg"
+        width: 1400
+        height: 933
 
-secured: "bLKqSPp6/aR97rLqkwlSu30TpljyljMw4SH3W9iulLLfPmBbRvPO1l3pi0YZWI/QF4O10yjBkHyh5s7HqoIY6KFmigH9i0vYjkEBYWNHeZzIWZ+kaFHDkbDKwZdSnBPi9tM6Pr+TudFz8oLSqDR7LcYWNr/+i8K2w3LlnR70urivGk2k91USqUlAF0d+4B3vskx59+jObUaauqMyb/3RuMRj2MoneOQd5SGQdmYrdmGxKNi8ID2ZH5Ar3+udG71R7k7qQ+8RDmB/7Gh2gJI0ofFyRgyNf7KWlh2g3rpItlWpkg6FQ50Gc+vMaHWpubZr;4NMpH7rTzBLzJuI9i/8JLQ=="
+secured: "62kx9HprYtS6ngxYogINH+THt5Ez5HVW30VNipHXAGvemTl+8mmcW4Nk19b0YvHZHvRDI1JYLp6e9R5/Tqjoz937sYPF3N/yYDBcHb1cS74E0IphCyTfgIdscitUQL/VtWBpz/n9We5NayeH4fz63qXNFYQcHI8Mi6+Vwf7VKKCN3v15X6lIKNe6j3UdX58v2oV6Lbnwskgx62nolBhsE+FTw8g+fRyvlF65mLF4Cy1mDIOxkJs09au+Rhah7Ns8OR7nvzpOKDyXH+eekN4UjAOkGvxp4u0Ka+KGP9Z+fNablIPAM35rz6hqkrsDVRerx3Qd5Alnl8oIlo6jr6eU0dvnoqH1SzkKRjkn+bJ/txHjt+es2RRbIjfqmohOyHL3vC0kaU7SCkNOc59bG/TooV3hFOOiJgkBOUlYjzxzDGOL110oL0hX2UwUseN1q0fcaXxvn7hm/S1juTPK3vhCMtMUNt5wCplb6s8iLd6X9RY=;q0Trb0wXq5gsgV7bdcGM/A=="
 ---
 

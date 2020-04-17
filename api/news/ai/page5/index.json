@@ -2,6 +2,95 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
+      "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
+      "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
+      "publishedDateTime": "2020-04-10T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot-2020-04-10-at-3.36.33-PM-e1586547649387.png?fit=1201%2C600&strip=all",
+          "width": 1201,
+          "height": 600,
+          "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving-and-more.md",
+      "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
+      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla ‘battery day’ being delay, Tesla Cybertruck new, Full Self-Driving news, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub, founder and publisher of ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/",
+      "ampWebUrl": "https://electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/10/podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving/amp/",
+      "publishedDateTime": "2020-04-10T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 562,
+          "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
       "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
       "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
@@ -1177,91 +1266,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-how-microsoft-teams-will-use-ai-to-filter-out-typing-barking-and-other-noise-from-video-calls.md",
-      "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
-      "excerpt": "Last month, Microsoft announced that Teams, its competitor to Slack, Facebook’s Workplace, and Google’s Hangouts Chat ... But one feature, real-time noise suppression, stood out — Microsoft demoed how the AI minimized distracting background noise during a call. We’ve all been there. How many times have you asked someone to mute ...",
-      "heat": 98,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/microsoft-teams-ai-machine-learning-real-time-noise-suppression-typing/amp/",
-      "publishedDateTime": "2020-04-09T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/microsoft-teams-real-time-noise-suppression-chips.png?fit=2000%2C1000&strip=all",
-          "width": 2000,
-          "height": 1000,
-          "title": "How Microsoft Teams will use AI to filter out typing, barking, and other noise from video calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI",
-        "AI Hardware",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks.md",
-      "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
-      "excerpt": "Intel is the prime contractor in this four-year, multimillion-dollar joint effort to improve cybersecurity defenses against deception attacks on machine learning (ML) models. This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20200409005168/en/ Intel Labs members demonstrate an example of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://journalstar.com/lifestyles/technology/intel-joins-georgia-tech-in-darpa-program-to-mitigate-machine-learning-deception-attacks/article_114d2da4-fffd-595a-b051-2562b0a1c18a.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lincoln Journal Star",
-        "domain": "journalstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/f/70/f709e77e-7284-5b9a-bc01-3169b8612fca/5e8f3cee90cb5.image.jpg?crop=728%2C410%2C0%2C118&resize=728%2C410&order=crop%2Cresize",
-          "width": 728,
-          "height": 410,
-          "title": "Intel Joins Georgia Tech in DARPA Program to Mitigate Machine Learning Deception Attacks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
