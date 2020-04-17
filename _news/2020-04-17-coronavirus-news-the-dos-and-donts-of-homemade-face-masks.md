@@ -28,10 +28,10 @@ images:
 related:
   - title: "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance"
     excerpt: "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ..."
-    publishedDateTime: 2020-04-17T19:22:00Z
-    webUrl: "https://www.vice.com/en_us/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
-    ampWebUrl: "https://www.vice.com/amp/en_us/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+    publishedDateTime: 2020-04-17T20:58:00Z
+    webUrl: "https://www.vice.com/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+    ampWebUrl: "https://www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
     type: article
     provider:
       name: VICE
@@ -42,6 +42,6 @@ related:
         width: 1920
         height: 1080
 
-secured: "HyuUomZXz2yLeWtw16rBhZs9FfXXVQ5WEb70cNem3AHYCW8CPI3VHfUYd5Mx85MNlIVVW+nvEHuFAQ/7CRzj41QjZbCn/eD3PAPq+GdoeLFTlDHLFMGuvnIrCBwlG6zKHLyaGKKAtFH0VFtqCNnhvGCWLbPK5EAb5fULwJB5MJXNc8tcOuYyNK4Q7HaAvvxdUrewnezMej46yODB0QV7wKScSpaHXl/4fKk48R1Fb2ySC+cU4Q0p3RhTmKJMA/aNzFXZr/8E+MU/MqB+ycAxe1l0qeQrPp2WjrFw16aMnLtZYHXAkL7BBg+NJx0QBjFL;2HoAa9Kjere76afViWcwvg=="
+secured: "YpB8WL82efX/ZTFU4O4SRt4MeYd+6rPA4funOKgjxxj1T2y7m9xuPY5Lbwdy9cIaQKRTunXa3zViXFzO66AQWZwD18BSbiLUJRjg2jeYp7EivmpE9lqEKSyYkt9NB5NMHPw9qAP2AiAb8Ui8HC64I5f/hHO0NVxi5KdsC9mjXSRs6JmgGRten3JYxmp5ZcLaOcI4lfueVrU4NDm3yqqtFKlV0sfc62rHicW3eIYnuf3bRTvx64vDndBAQwQbVaKvTMgFTXOoP2sm4xIIjGnXv8WBr83Y/csbeeRvFMrjROaSEMmE4AM50I0t8N9yYDI9Au+cHmVVaFiG1WjZheg+byD5WbYz1VRIdPsno19e6/9aOj6IXT8VKDprkIOTT//1JdjYvLmeOfDBgMtGqCYpUP2BL6wY25ZmFHfx8Y+aU4YrjbZVaXZhjgg/7E5zjnCY1NWzG2xZlEYy1PM7Ig10OIlCMAGdY0BLGWrsLe1Kkmo=;VyoJxIb4ewreaoPBIrQzjA=="
 ---
 

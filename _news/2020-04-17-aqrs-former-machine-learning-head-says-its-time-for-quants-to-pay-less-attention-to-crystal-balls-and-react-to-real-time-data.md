@@ -27,6 +27,6 @@ images:
     height: 600
     title: "AQR's former machine-learning head says its time for quants to 'pay less attention to crystal balls' and react to real-time data"
 
-secured: "U5GpG1TgAnFKAqtUVi/9yPougE6LrIMLZe0gONwm4TGpWNeifNoFUgliIlzNiiLFfjKuKsln+UNZj6ahU98ZWhpTySZaBp1F9zIB2wbIl6YDWmlybESl0w9f0sS7PsBAilAnjBM1rhJDs2n1duAFVU45v/Au22aI+P1+4TbVW/AhsQ/pr3JHWK3W4wCLfRBfSWzVk7UmK8BIjvKLjiVe8Ahq6qVEkdgDAIXhsh7CxyBqzTrXja93Yngz9AQODNqP+RejtZdpBFHCAcZ+T/UTFSn3PKLY25OXlde/t5LS9yvfTldk5suT4KqbtcrQbowr;n8gTDHXoWsGomaiEFcwFGQ=="
+secured: "2gUtw46Mgz7Ab40l6C71OO/ccQoaHjvuh4DP3kdowp0Wt5i2rJgI/6SuGBbBPD8/X3YQYmQitLdUmckA4zCLzMTrLsBySPHfld2X1UDsBYkkZvQyfHc+qkiTS3JMyH5VQJYcgs5tySeBP7Yw6XOMu/jF7L97jMi9WNZ5T8JaQPzJa8YN5IlD5ifKrfbgdERV71o5tj68PVoyUtE0vRznh5tiSF+ZeCVW/g/CD2XzpWWSd/TQznbBDj1/CajC2kmanFAw2N+59qJo2O9fyOrwEwo8tCqHs/2+gzzLOXZyN5Zsr9PjbGxEHQoYKdojLs3NUNfeaLNhuaQhSNQtXdrrqvtQQxOHKtKciMDLZyo6s85pmyvgc3OMQ/l0tDMkQ/eMOLJ3sWxBvjmnlFwuLGz9Oh5eltfomWFU0RGYgsLzS1GwhuogaScG6rKvAAQC5ojHxR8mcjriSA9N1zyFPRDUHohz232Y0+2EGZgjt0Hl25s=;bXlY6swUlS1aKAfPBUE+lA=="
 ---
 

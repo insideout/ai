@@ -2,8 +2,8 @@
 category: news
 title: "Clearview AI exposes source code to controversial facial recognition app and company credentials"
 excerpt: "A researcher found that a misconfiguration allowed anyone to register as a new user and access the database containing Clearview's code regardless of whether they had entered password."
-publishedDateTime: 2020-04-17T19:12:00Z
-webUrl: "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html?ns_mchannel=rss&ns_campaign=1490&ito=1490"
+publishedDateTime: 2020-04-17T19:56:00Z
+webUrl: "https://www.dailymail.co.uk/sciencetech/article-8231025/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html"
 ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html"
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html"
 type: article
@@ -53,6 +53,6 @@ related:
         width: 700
         height: 394
 
-secured: "KNDzPFO2tS1NAoYe4AylrfeTcuD81HYe5al8MKuSWYEVFtiYKrY9yHzy7qvE9EJJ8JwYu447CnmeNhSFsgie4Irn2ABfvJWSOUIHRbvKv5W+LaWt3GJ8at5HtWM8OVVp+KicT4qryOJfx5nzCqLo93jqul/3NPOrwnJmjE/AOTIDZ84aBK3uyF5WribIf+J6v4IgfohooeWNcMG7wkawU4oSJsRfUZjwPZBzY9q83/+24YAl1D8eR027NyaAn7a6Veeb8K5YFJDGJ8xlW3so+gc1aCagpF5KN/gYAnsH2QQPomixmJvQ/+onYzWNT3vB;IJo1dy3128Kv4/3YmtTBuQ=="
+secured: "48j+RzF24UlEWONUPCZC2j/C0NxVFzcIfENYzKe656H4QdMDGMZ1EzTdchD3Rw/I50cXaQUcXCqt/CpHvpMfioeOooqBUfjO46NggGv8KCxG+QO6ozr+Hb/j58Yg+JrNHqvWalGRSS+GJUUyVt+f6MjlGMMsGHmQwgF+XSsTvWNrFAj+6aAyDXIJpwt+kuh3OaAaUHwj/iGYMVYgzQxF+TRt97ApeNUKMkroSHIzVnYwi52Sr+YZtyxY56YojnDz0APOrzthacMJL3csu+Xo1Q8ONoizTRVCbEqsuIC90GHcwFL9yGzrXg05h8/EoPVP;mcHHsXMLzwXtmvvUbvsE7A=="
 ---
 

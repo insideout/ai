@@ -2,10 +2,10 @@
 category: news
 title: "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance"
 excerpt: "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ..."
-publishedDateTime: 2020-04-17T19:22:00Z
-webUrl: "https://www.vice.com/en_us/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+publishedDateTime: 2020-04-17T20:58:00Z
+webUrl: "https://www.vice.com/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+ampWebUrl: "https://www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
 type: article
 quality: 81
 heat: 91
@@ -46,6 +46,6 @@ related:
         width: 1280
         height: 720
 
-secured: "ozNIQjnPsJFZK3y0CPNadFSdnfYEELl1SENed0Eb/RwYuwW/mLucT7LE5w9r2y6C+hjRLxozw/53UyItoSZ+K5uu+wdNa6E1B5pk1r6923drGP50CJfWaifUB12aEXR2KaR9Mlraer+ltLPyPl+bNZeGBcRA7x+fXL+ZDPZ4qKbpwx5ragQ7C9EG0XspNbwJJUYiQj4xsQzCFekdWH65Z3c/xv3iMNm/DnBCGMw81NNwYja2U38633/XpN1dBFGUfe9OMXj4mrlxO2VJN9exf3xryjqTh3rFIcrFc/z5wSd7uZX2ovkzSqkEj571QJke;T8PDLXmIT4uwMDoorvIrXw=="
+secured: "oVQn19h+1sflRMbN2T6EkmTeXOGiW7X49gO0pepJ3/QZUT6O3vpNQj4cG6rCmeLxv+xWvPMf91LJKxDD/sagDQUXMN7r2GlvKHtmPs//UlDCOBrV7+/5rzrTQMusCIcKdpT3K4PYvfgXkaN4RffUJuph/bC7btOrQsP+UR+9QNEXwstDCviX84oO/E3lxeYmD/jGW9ykTLRoLpo9Bi8yf9m05mv7q+QV01RL0HI6IpcP51dIhvi7/yiQlsYr31DwzGPSYhYyaXKGgVv6nE7IvVxVPYU/Mu5vNVnpyEsvJUASQLM3b4LiO5ISPUJXb7VK;Db/fOm3HG1a36OZNadIgog=="
 ---
 
