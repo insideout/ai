@@ -28,6 +28,6 @@ images:
     height: 630
     title: "AI Could Save the World, If It Doesn’t Ruin the Environment First"
 
-secured: "1MWu8+otz3N7MWduAiTugd79Phy7lOrjUGhaxqhvs0DH4rIvwrbJUGdfQSUJgB0VMZbZ7W2pIjO58sobHm3nncFcWGWTV5HkpRE7w1xjUcVhGdXnKJ5LieNONfIXqGEa3CB39TwvGy2J61UOxWXPYs88X9fXeEVLdpqnQ+EX5vu/Yxg7DdUlkES0R99CFLbWAVnSX026BP63C7OvIwuGjaqtfwCoWqydnjRR5ElkmMm8DwoYZPVwdieSh9ro7YJQfdZXaIPdf3mDlyTk+nFopFQz9pv97Kvtt+VfOHQjmy/oyYukmDQK9jchPWm+dI3d;pXS28h4FwQF+kYvMWA1jPA=="
+secured: "aaMXTFeqGJ7Dv+ybL9JAkOfNHwIDrqF4Ysr/RTK8j6T+AeA20SnHhZd1flmMzaS3Dq9UwtErRNxVQINuDQnx3Mmu7Y42dNl6ggrRf0L2X2O9ysZsxv21N4Z2JhAhpXW4qAiDoMYehMdaCczcfy/Wo54sE/rkXHuIk21ur0R21LuB37dOVfh/dDJ/aaYM7a6KARmNwrFdeOe4C+le3EMdVSbH3NkpivrmO9N105XZnmr/RhNAiXhV/O+vgKnMGgDHqJBcX9PH/IcHvUX4jLRw8eBJORz+jKL4w8wRyaFo1eYA0Da2JyzVBm5leYccZ5xN;Mrm27bBI9nU73ZugYYpRfQ=="
 ---
 

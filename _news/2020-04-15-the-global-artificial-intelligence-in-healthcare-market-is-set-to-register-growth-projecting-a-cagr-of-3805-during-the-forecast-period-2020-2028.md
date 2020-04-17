@@ -1,43 +1,47 @@
 ---
 category: news
 title: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
-excerpt: "KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the"
+excerpt: "NEW YORK, April 15, 2020 /PRNewswire/ --KEY FINDINGS The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028."
 publishedDateTime: 2020-04-15T13:10:00Z
-webUrl: "https://www.prnewswire.com/news-releases/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-38-05-during-the-forecast-period-2020-2028--301040941.html"
+webUrl: "https://www.marketwatch.com/press-release/the-global-artificial-intelligence-in-healthcare-market-is-set-to-register-growth-projecting-a-cagr-of-3805-during-the-forecast-period-2020-2028-2020-04-15"
 type: article
-quality: 15
-heat: 15
+quality: 45
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     title: "The global artificial intelligence in healthcare market is set to register growth, projecting a CAGR of 38.05% during the forecast period, 2020-2028"
 
 related:
-  - title: "Management Market to Surge at 10.1% CAGR till 2026; Growing Uptake of AI-powered Software to Foster Promising Prospects: Fortune Business Insights™"
-    excerpt: "The global workforce management market size is projected to reach USD 5.25 billion by 2026, exhibiting a CAGR of 10.1% during the"
-    publishedDateTime: 2020-04-15T09:43:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/management-market-to-surge-at-10-1-cagr-till-2026-growing-uptake-of-ai-powered-software-to-foster-promising-prospects-fortune-business-insights-301040886.html"
+  - title: "Artificial Intelligence Chipset Market 2020 Key Players and Production Information Analysis with Forecast 2025"
+    excerpt: "New York, April 15, 2020: The global Artificial Intelligence Chipset market is segregated on the basis of Component"
+    publishedDateTime: 2020-04-15T07:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipset-market-2020-key-players-and-production-information-analysis-with-forecast-2025-2020-04-15"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://mma.prnewswire.com/media/1155584/Workforce_Management.jpg?p=facebook"
-        width: 999
-        height: 524
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "Vd52xYir/Ftz6PfTldc08pxaErqVSCzFn4egfXxktExE76sM34t23j54Dd6dejOuh7DIMeEgH7SYwqUGmG43waf8j1uzZ9jBGHtS8xKavF4xk8er0UjJeLqDk7vFGuKMVPBBvJTQpOv6t4slieDnCv5B75lqfr+u+53uqqOwGHxWYB6xJvG1zO7FuM/rB1fSoH31Mps0sS4QjBds7m2mBNAijoUCUpt4X2pRTAV9NqMw8ClA1A3cooO5gT3uvdG2L6tFPJI72AHXNvk8THccmgmNm2bHyroWCM1uG9seeLBUtI8F+NAMXjFm8bx/1WJc;s9USpQ1mz//jL7sYr+LYxw=="
+secured: "veBXpy05vFbFJt6vSRESZlAur9ESoAtzBgYi5uk9/2LzQrQTDR9rXrYS2yzUsHbIrGQMCuBNOJN4zvE34AaQnn7p8tkV0nH5sCfyfE8wYmv/S28a0QP7zQIc9H5/DTuntb9WcQUOq987cngHDO8k6/sDbqEr/7qJXpSLXvlWGRJW7Srl/03lI1K/woco6ECOFjhF32PyiDYfpK2F8M+qLwivEoENDc1a5UdOR56tV+BXa8eLjyq+ELKJ2f3m6JijbAdkWNPuWB0BNIQg3/7MxC7hM/5M8Bj9GZ0T1G3muWq0IOGBd2Hn0GhL5cI+22Iv;HF2uhdNkkWOzPA/ny5AIMw=="
 ---
 

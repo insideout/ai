@@ -2,6 +2,139 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-02-24-how-to-deploy-robotics-responsibly.md",
+      "title": "How To Deploy Robotics Responsibly",
+      "excerpt": "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
+      "publishedDateTime": "2020-02-24T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Deploy Robotics Responsibly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
+      "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
+      "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
+      "publishedDateTime": "2020-02-24T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 493,
+          "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics.md",
+      "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
+      "excerpt": "Due to pressures regarding data privacy, companies are often forced to set up stringent security processes that compromise the customer experience.",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
+      "publishedDateTime": "2020-02-24T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/970156432/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
       "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
       "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
@@ -912,140 +1045,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-the-case-against-ai-ux-and-coding-bootcamps.md",
-      "title": "The Case Against AI, UX, And Coding Bootcamps",
-      "excerpt": "By the year 2028, the technology industry will predictably experience a 21% rise in demand for software engineering talent, compared to a 5% growth rate for all other occupations. Traditional universities,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/",
-      "ampWebUrl": "https://www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aswinpranam/2020/02/22/the-case-against-ai-ux-and-coding-bootcamps/amp/",
-      "publishedDateTime": "2020-02-22T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x525/https://specials-images.forbesimg.com/imageserve/1005771222/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 525,
-          "title": "The Case Against AI, UX, And Coding Bootcamps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-hbo-hbo-max-are-heading-to-youtube-tv.md",
-      "title": "HBO, HBO Max Are Heading To YouTube TV",
-      "excerpt": "Google's live TV streaming platform will soon let users sign up for HBO, Cinemax, and HBO Max. WarnerMedia announced a distribution agreement that'll enhance YouTube TV with linear and on-demand content from the premium services.",
-      "heat": 172,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv",
-      "ampWebUrl": "https://www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/hbo-hbo-max-are-heading-to-youtube-tv?amp=true",
-      "publishedDateTime": "2020-02-22T10:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/03tOrEwaESGaiyYPQwFtpM1-1.fit_lim.size_1200x630.v_1582386528.png",
-          "width": 1120,
-          "height": 630,
-          "title": "HBO, HBO Max Are Heading To YouTube TV",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-22-why-ai-companies-dont-always-scale-like-traditional-software-startups.md",
-      "title": "Why AI companies don’t always scale like traditional software startups",
-      "excerpt": "At a technical level, artificial intelligence seems to be the future of software. AI is showing remarkable progress on a range of difficult computer science problems, and the job of software developers – who now work with data as much as source code – is changing fundamentally in the process. Many AI companies (and investors) are betting ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/22/why-ai-companies-dont-always-scale-like-traditional-software-startups/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-22T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/scaling.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 1067,
-          "title": "Why AI companies don’t always scale like traditional software startups",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Microsoft AI"
       ]
     }
   ],

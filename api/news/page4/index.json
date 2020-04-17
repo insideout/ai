@@ -2,6 +2,95 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-15-5-of-the-smartest-stocks-to-buy-with-10000.md",
+      "title": "5 of the Smartest Stocks to Buy With $10,000",
+      "excerpt": "Through the use of artificial intelligence and copious amounts of data ... But make no mistake about it, cloud-service segment Amazon Web Services (AWS) is where this company's real growth lies. Cloud margins are many times higher than retail margins, which is a good thing considering that AWS is growing more than twice as fast as Amazon's ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/15/5-of-the-smartest-stocks-to-buy-with-10000.aspx",
+      "publishedDateTime": "2020-04-15T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F567686%2Ffolded-money-cash-invest-retire-social-security-treasury-getty.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "5 of the Smartest Stocks to Buy With $10,000",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely.md",
+      "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
+      "excerpt": "A new device that uses AI to monitor coronavirus symptoms is helping doctors treat patients beyond the reach of infection. The box-like device emits wireless signals that bounce off human bodies before returning to the system. Algorithms then analyze changes in the signals to infer the person’s breathing rate, sleep patterns, and movements.",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/15/mits-ai-powered-device-lets-doctors-monitor-coronavirus-patients-remotely/amp/",
+      "publishedDateTime": "2020-04-15T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/BABY-BREATH-MONITOR.jpg",
+          "width": 600,
+          "height": 349,
+          "title": "MIT’s AI-powered device lets doctors monitor coronavirus patients remotely",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-frame-ai-raises-63m-series-a-to-help-understand-customers-across-channels.md",
       "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
       "excerpt": "Frame AI, a New York City startup that uses artificial intelligence and machine learning to help companies understand their customers better across multiple channels, announced a $6.3 million Series A investment today. G20 Ventures and Greycroft led the round together. Bill Wiberg, co-founder and partner at G20, will join Frame’s board under ...",
@@ -981,79 +1070,6 @@
           "width": 796,
           "height": 417,
           "title": "How AI helps scientists find reliable coronavirus research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-synopsys-powers-groq-processor-expands-in-ai-chip-market.md",
-      "title": "Synopsys Powers Groq Processor, Expands in AI Chip Market",
-      "excerpt": "Synopsys, Inc.’s SNPS ZeBu Server 4 product is generating a broad-based adoption by customers’ designing storage, networking and AI chips. Recently, the company announced that Groq has adopted the ZeBu Server 4 emulation solution to develop its Tensor Streaming Processor (TSP).",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/synopsys-powers-groq-processor-expands-in-ai-chip-market-2020-04-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-adobe-releases-ai-powered-product-recommendations-tool-in-magento-commerce.md",
-      "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
-      "excerpt": "Adobe said Tuesday that its AI-powered product recommendations tool is now generally available in Magento Commerce. The feature, first announced in October, allows merchants to analyze shopper behavior in order to generate highly personalized recommendations, which can be added to relevant store pages via widgets and flexible APIs. Adobe said ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/adobes-releases-ai-powered-product-recommendations-tool-in-magento-commerce/",
-      "publishedDateTime": "2020-04-14T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/27/97edf97a-b310-4039-9187-a171b3f4f42b/thumbnail/1200x675/b7184f33d5c3dbaa6df56d95e8bbd35b/screen-shot-2020-01-27-at-12-40-12-pm.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
           "attribution": null
         }
       ],
