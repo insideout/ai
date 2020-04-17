@@ -2,6 +2,228 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-16-samsung-and-xilinx-partner-on-chips-for-5g-networks.md",
+      "title": "Samsung and Xilinx partner on chips for 5G networks",
+      "excerpt": "In an email, Manuel Uhm, director of silicon marketing at Xilinx, said these chips work well for 5G. That’s because the AI engines within the AI Core series have been optimized for advanced signal processing, as well as AI inference. In particular, for signal processing, the AI engines were developed with 5G wireless algorithms in mind ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/amp/",
+      "publishedDateTime": "2020-04-15T18:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/xilinx-Versal_Angled-Left.jpg?fit=1200%2C770&strip=all",
+          "width": 1200,
+          "height": 770,
+          "title": "Samsung and Xilinx partner on chips for 5G networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-these-are-the-new-hot-spots-of-innovation-in-the-time-of-coronavirus.md",
+      "title": "These are the new hot spots of innovation in the time of coronavirus",
+      "excerpt": "Entrepreneurs are innovating in new ways as a result of the coronavirus. Potential examples include virus resistant nanoparticles for health worker protective gear and home schooling solutions, CEO of global start-up accelerator The Founder Institute Adeo Ressi tells CNBC Make It.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/15/hot-spots-of-innovation-as-a-result-of-coronavirus-pandemic.html",
+      "publishedDateTime": "2020-04-15T17:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106490055-1586970735615outschoolteam.jpg?v=1586970997",
+          "width": 1800,
+          "height": 1200,
+          "title": "These are the new hot spots of innovation in the time of coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai.md",
+      "title": "Healthcare organizations use Nvidia’s Clara federated learning to improve mammogram analysis AI",
+      "excerpt": "A group of healthcare organizations in the United States and Brazil have used federated learning to improve AI mammography classification models for recognizing tumors. An Nvidia spokesperson declined to share specific performance details, but said a combined effort led to better classification model performance than models made by any of the ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/healthcare-organizations-use-nvidias-clara-federated-learning-to-improve-mammogram-analysis-ai/amp/",
+      "publishedDateTime": "2020-04-15T17:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/nci-vol-2573-300.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "Healthcare organizations use Nvidia’s Clara federated learning to improve mammogram analysis AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-three-platforms-where-ai-bias-lives.md",
+      "title": "Three Platforms Where AI Bias Lives",
+      "excerpt": "Google made the decision to prevent its “Smart Compose”—a feature that predicts what users intend to write in emails and auto-completes sentences—from suggesting gender-based pronouns such as “him”, her”,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/",
+      "ampWebUrl": "https://www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/falonfatemi/2020/04/15/three-platforms-where-ai-bias-lives/amp/",
+      "publishedDateTime": "2020-04-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1158763612%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5616%26cropY1%3D585%26cropY2%3D3744",
+          "width": 1200,
+          "height": 675,
+          "title": "Three Platforms Where AI Bias Lives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio.md",
+      "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
+      "excerpt": "Digital health company Medopad today announced that it’s rebranding to Huma and acquiring two companies — BioBeats and Tarilian Laser Technologies (TLT) — to add support for new biomarkers to its AI-powered patient monitoring platform. When contacted for comment, a Huma spokesperson declined to disclose the purchase price for the two ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/medopad-rebrands-to-huma-makes-acquisitions-to-bolster-its-ai-health-monitoring-portfolio/amp/",
+      "publishedDateTime": "2020-04-15T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Medopad rebrands to Huma, makes acquisitions to bolster its AI health monitoring portfolio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-former-tesla-employees-brought-stolen-documents-to-self-driving-startup-zoox.md",
       "title": "Former Tesla employees brought stolen documents to self-driving startup Zoox",
       "excerpt": "Self-driving startup Zoox has admitted that four of its employees took confidential documents from their previous employer Tesla, according to a statement issued after the company settled a lawsuit this week over the matter.",
@@ -885,229 +1107,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-edited-raises-29-million-to-optimize-product-pricing-with-ai.md",
-      "title": "Edited raises $29 million to optimize product pricing with AI",
-      "excerpt": "Edited, a retail tech company leveraging AI to optimize product pricing, today announced that it raised $29 million. CEO Geoff Watts said the tranche will be put toward R&D and hiring as the company expands its global presence. Tools like Edited serve a real and present need in the over $3.53 trillion retail ecommerce market. Where price ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/amp/",
-      "publishedDateTime": "2020-04-15T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_654465205-e1586371476558.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Edited raises $29 million to optimize product pricing with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-ai-behavioral-biometric-startup-biocatch-raises-145-million.md",
-      "title": "AI behavioral biometric startup BioCatch raises $145 million",
-      "excerpt": "Behavioral biometrics startup BioCatch today announced it has raised $145 million ... averaging out to nearly $600 per consumer. BioCatch’s AI-driven platform protects identities by analyzing more than 2,000 behavioral parameters of user-device interactions to generate real-time risk scores, stopping new account fraud and detecting the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/ai-behavioral-biometric-startup-biocatch-raises-145-million/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/ai-behavioral-biometric-startup-biocatch-raises-145-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/ai-behavioral-biometric-startup-biocatch-raises-145-million/amp/",
-      "publishedDateTime": "2020-04-15T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Biocatch-TM-e1586810558496.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "AI behavioral biometric startup BioCatch raises $145 million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-how-it-help-desks-can-accelerate-service-delivery-for-remote-employees.md",
-      "title": "How IT Help Desks Can Accelerate Service Delivery For Remote Employees",
-      "excerpt": "We’re already aware that AI is transforming the IT help desk. The recent global pandemic, however, calls new attention to AI’s capabilities. As health concerns continue to spread, more enterprises are implementing remote work.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/15/how-it-help-desks-can-accelerate-service-delivery-for-remote-employees/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/15/how-it-help-desks-can-accelerate-service-delivery-for-remote-employees/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/15/how-it-help-desks-can-accelerate-service-delivery-for-remote-employees/amp/",
-      "publishedDateTime": "2020-04-15T04:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-27-1.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How IT Help Desks Can Accelerate Service Delivery For Remote Employees",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg.md",
-      "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-      "excerpt": "Onfido, which uses AI to “read” a person’s identity documents and then uses facial recognition and other datapoints to verify that a person says who she or he is online — customers for its tech include major banks, government bodies, and businesses doing recruitment: any organization running parts of its processes virtually — is today ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/onfido-the-ai-based-id-verification-platform-raises-100m-led-by-tpg/amp/",
-      "publishedDateTime": "2020-04-15T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/April-15_Onfido-Company-Photo_FINAL.jpg?w=680",
-          "width": 680,
-          "height": 404,
-          "title": "Onfido, the AI-based ID verification platform, raises $100M led by TPG",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onfido-raises-100-million-to-verify-identities-with-ai.md",
-      "title": "Onfido raises $100 million to verify identities with AI",
-      "excerpt": "Onfido — which was founded in 2012 by three Oxford University graduates who observed that background checks were largely done manually and were therefore prone to human error — develops a software-as-a-service (SaaS) platform that taps AI to perform background checks on would-be employees at each stage of the hiring and recruitment process.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/onfido-raises-100-million-to-verify-identities-with-ai/amp/",
-      "publishedDateTime": "2020-04-15T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/ONFIDO_RGB_WORDMARK_BLUE-e1586551350126.png?fit=1199%2C599&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": "Onfido raises $100 million to verify identities with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -24,6 +24,6 @@ images:
     height: 229
     title: "It's deadline day for the Computing AI & Machine Learning Awards"
 
-secured: "f05jDAHT3hGzo9L45cN5j5aZJOPR/dEyHie75EsM9LSCHU+SJcCvWrB6ladEWsMRNVnrxU01H5EWbpBD6fTl+1P/xQS1PyHpIkY9xPRo9AbX/WumZdyZJtf8HCQAvr3ZbIy3o/GPEiYksD5qvtjyaAG/loBJXCHFk8HcZxOEpbsdqjL2QcXO7SyK74WrJDsgJLr6GrlzxrQXQNR79XEBggBGjJjcPODRE0qTeoBawigSwVNsrfOXHID0XkXwtDVbwIr6x+sUUW8QqduAFlqtzL+wmTEtQhM5SF/+vzTBVjgR+9BLbOVSmzMzGvQkS5yX;NVNErNF8rnHgmIE4TfEiZw=="
+secured: "Nt3+5wSwn1EljeBYbNgA8OWGlc50ZlhVPAVszZM/+gqtE18ygEumNWfpUDZmEP+1IR7fhLUQT0TI/+++XfQTvj2TjkxfZxAdgaZE9xjnxQWghJJGUHEE9U+mt7/wWoB8KzMEdt+6KLeTX8+alZBO4yeRIGzW71mqyZEom/g48slLSfkNNXVCmhmcLL0z54MGdcDu59oWzbcdveB6wup1kJm0wFwDEWjDnMjnbrc06XQsQnvPmqk8lKIz5ArwPwGwngaFURI6GVyNPzlBLc6zPW6kdnPTL2zOHFgsmsckj3NSwO8tuGyL+0Qf6wmf3Ozh4Hb3xnyA6AeGFwxNKHlr24eWvFEfPwcZN1qrBQ2YBUfzUDUVQZ/BzR+WGQCTN0toSnWkDDcG5IgtHaRKqRvUkLQs5/xJinFXVQ10eEaVDg7O5pN5Wk20oIT1FEoB7RHN708NlKBn9Gx9a/oEV2GbgBJ9EyAdXn4rZy5x4m/M060=;prd3n9fBaVaZAYugKJr97w=="
 ---
 

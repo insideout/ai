@@ -5,8 +5,8 @@ excerpt: "Enterprise Artificial Intelligence Market Research Report- Forecast ti
 publishedDateTime: 2020-04-17T10:26:00Z
 webUrl: "https://www.marketwatch.com/press-release/enterprise-artificial-intelligence-market-to-expand-at-a-cagr-of-46-by-2023-enterprise-ai-market-research-size-share-growth-and-trends-2020-04-17"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

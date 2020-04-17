@@ -2,6 +2,266 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-03-23-nvidias-dlss-20-details-better-graphics-made-easier-with-ai.md",
+      "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
+      "excerpt": "DLSS 2.0 (Deep Learning Super Sampling) might be just the game-changing graphics technology we need at this strange point in history. DLSS 2.0 uses dedicated AI processors (Tensor Cores) on NVIDIA GeForce RTX graphics cards to bring boosted frame rates without the blurry textures that usually come along for the ride. While DLSS 2.0 works with ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/",
+      "ampWebUrl": "https://www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidias-dlss-2-0-details-better-graphics-made-easier-with-ai-23614073/amp/",
+      "publishedDateTime": "2020-03-23T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/03/nvidiadlss20.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "NVIDIA’s DLSS 2.0 details: Better graphics made easier with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-university-students-are-learning-to-collaborate.md",
+      "title": "University Students Are Learning To Collaborate",
+      "excerpt": "Penn State’s Nittany AI Challenge is teaching students the true meaning of collaboration in the age of Artificial Intelligence.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/23/university-students-are-learning-to-collaborate/amp/",
+      "publishedDateTime": "2020-03-23T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7528552a573300068fe6fb%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": "University Students Are Learning To Collaborate",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
+      "title": "Tesla files patent for sourcing self-driving training data from its fleet",
+      "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/",
+      "ampWebUrl": "https://electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/23/tesla-patent-sourcing-self-driving-training-data/amp/",
+      "publishedDateTime": "2020-03-23T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/03/Screen-Shot-2020-03-23-at-5.48.09-AM-e1584968198929.jpg?quality=82&strip=all&w=600",
+          "width": 600,
+          "height": 372,
+          "title": "Tesla files patent for sourcing self-driving training data from its fleet",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-nvidias-dlss-2-aims-to-upscale-its-low-res-reputation.md",
+      "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+      "excerpt": "Nvidia has slowly been climbing out of the reputational pit it dug with the initial release of DLSS, its AI-enhanced technology for upscaling games to run on higher-resolution displays without visual or framerate compromises.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidias-dlss-2-aims-to-upscale-its-low-res-reputation/",
+      "publishedDateTime": "2020-03-23T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/Mw-doFVfOEHFoIvyaKh_CJJRUms=/756x567/right/middle/2020/03/22/6c4d0e24-e46c-4b83-82e7-06d4766bdd06/nvidia-dlss-2.png",
+          "width": 756,
+          "height": 567,
+          "title": "Nvidia's DLSS 2 aims to upscale its low-res reputation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-smart-office-market-2016-technology-size-share-and-top-key-players-during-2022.md",
+      "title": "Smart Office Market 2016: Technology, Size, Share and Top Key Players During 2022",
+      "excerpt": "The world is moving at a rapid pace towards automation of labor. Artificial Intelligence and Internet of Things are",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-office-market-2016-technology-size-share-and-top-key-players-during-2022-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Smart Office Market 2016: Technology, Size, Share and Top Key Players During 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-global-artificial-intelligence-ai-market-investments-vs-potential.md",
+      "title": "Global Artificial Intelligence (AI) Market: Investments vs Potential",
+      "excerpt": "NEW YORK, March 23, 2020 /PRNewswire/ --Report Scope:The scope of this report is broad and covers the global markets for artificial intelligence,",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/global-artificial-intelligence-ai-market-investments-vs-potential-1029022424",
+      "publishedDateTime": "2020-03-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-how-ai-makes-big-data-smarter.md",
       "title": "How AI Makes Big Data Smarter",
       "excerpt": "We’re still in the early days for returns on AI investment, but through the potential of smart data, the business value it delivers will be worth the wait.",
@@ -762,265 +1022,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve.md",
-      "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-      "excerpt": "Very tricky thing to reason about. Intuition breaks down,” said Jeremy Howard in an interview with VentureBeat. Howard is the co-founder of Fast.ai, which offers free courses on deep learning, and is on the faculty at the University of San Francisco. He pointed out that there’s a long gap between an outbreak occurring and seeing the results.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/20/ai-weekly-how-data-scientists-are-helping-to-flatten-the-pandemic-curve/amp/",
-      "publishedDateTime": "2020-03-20T15:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/flatten-the-curve-cdc.png?fit=1200%2C608&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": "AI Weekly: How data scientists are helping to flatten the pandemic curve",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-7-best-computer-vision-courses-certification-2020.md",
-      "title": "7 Best Computer Vision Courses & Certification [2020]",
-      "excerpt": "Apart from this, you will also have the opportunity to gain hands-on experience in writing computer vision code through online labs using MATLAB and supporting toolboxes. – Chance to design ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@k2kshitij/1-convolutional-neural-networks-course-by-deeplearning-ai-coursera-73cfae02f340",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/925/0*d0KiHGtRom5YFl8l.jpg",
-          "width": 925,
-          "height": 618,
-          "title": "7 Best Computer Vision Courses & Certification [2020]",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-stuart-russell-on-how-to-make-ai-human-compatible.md",
-      "title": "Stuart Russell on how to make AI ‘human-compatible’",
-      "excerpt": "He joined us onstage at TC Sessions: Robotics + AI to discuss the threat he perceives from AI, and his book, which proposes a novel solution. Russell’s thesis, which he develops in “Human Compatible: Artificial Intelligence and the Problem of Control,” is that the field of AI has been developed on the false premise that we can ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/",
-      "ampWebUrl": "https://techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/03/20/stuart-russell-on-how-to-make-ai-human-compatible/amp/",
-      "publishedDateTime": "2020-03-20T15:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/stuart-russell-ai-robotics-2.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Stuart Russell on how to make AI ‘human-compatible’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-waymo-gamifies-self-driving-car-data-and-wants-everyone-involved.md",
-      "title": "Waymo gamifies self-driving car data and wants everyone involved",
-      "excerpt": "Waymo expands its Open Dataset program and issues some challenges that may result in prize money. Waymo is calling all intrigued minds to partake in an Open Dataset challenge, and it could result in some cold,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-car-data-game-prize/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-car-data-game-prize/",
-      "publishedDateTime": "2020-03-20T11:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/reqDD4K5243DNGVR3dFQcAi2c_o=/2019/08/21/3bba88b6-75ae-43fc-8e92-4d307cf9c2eb/waymo-data-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Waymo gamifies self-driving car data and wants everyone involved",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation.md",
-      "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
-      "excerpt": "A new AI system has revealed that we’re finally getting better at wildlife conservation. Researchers came to this conclusion after using machine learning to analyze more than 4,000 studies on species reintroduction across four decades. The system evaluated the outcomes of conservation programs by assessing the study abstracts with sentiment ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/ai-analyzes-biology-studies-to-find-out-were-getting-better-at-wildlife-conservation/amp/",
-      "publishedDateTime": "2020-03-20T11:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design32-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI analyzes biology studies to find out we’re getting better at wildlife conservation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-20-anthony-levandowski-admits-stealing-googles-self-driving-car-secrets.md",
-      "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-      "excerpt": "A former Google engineer has admitted stealing trade secrets relating to the company's self-driving car work. Anthony Levandowski was accused of downloading thousands of proprietary files from Google in 2015 prior to leaving the company. One of the files downloaded by Levandowski to his personal laptop was called 'Chauffeur TL weekly updates ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iottechnews.com/news/2020/mar/20/anthony-levandowski-stealing-google-self-driving-car-secrets/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-20T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iottechnews.com/media/img/news/anthony_levandowski_google_uber_trade_secrets_self_driving_cars_autonomous_iot.png.600x600_q96.png",
-          "width": 600,
-          "height": 401,
-          "title": "Anthony Levandowski admits stealing Google's self-driving car secrets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
