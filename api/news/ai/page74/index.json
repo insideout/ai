@@ -2,6 +2,51 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2020-01-29-a-warehouse-robot-learns-to-sort-out-the-tricky-stuff.md",
+      "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
+      "excerpt": "At a facility near Berlin, a new kind of robot is automating tasks that until recently had been out of the reach of machines. LUDWIGSFELDE, Germany — Inside a warehouse on the outskirts of Berlin, a long line of blue crates moved down a conveyor belt,",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/29/technology/warehouse-robot.amp.html",
+      "publishedDateTime": "2020-01-29T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/29/autossell/29robopicker-video1/29robopicker-video1-facebookJumbo-v3.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "A Warehouse Robot Learns to Sort Out the Tricky Stuff",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-29-ai-powered-robot-pickers-will-be-the-next-big-work-revolution-in-warehouses.md",
       "title": "AI-powered robot pickers will be the next big work revolution in warehouses",
       "excerpt": "As it comes out of stealth today, Covariant has announced a raft of private backers, including some of the most high-profile names in AI research. They include Google’s head of AI, Jeff Dean; Facebook’s head of AI research, Yann LeCun, and one of the “godfathers of AI,” Geoffrey Hinton. As Abbeel says, the involvement of these ...",
@@ -1227,50 +1272,6 @@
           "width": 620,
           "height": 480,
           "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-28-using-ai-people-who-are-blind-are-able-to-find-familiar-faces-in-a-room.md",
-      "title": "Using AI, people who are blind are able to find familiar faces in a room",
-      "excerpt": "Theo is now one of several members of the blind and low-vision community who are working with Regan, Grayson, researcher Cecily Morrison and her team on Project Tokyo, a multipronged research effort to create intelligent personal agent technology that uses artificial intelligence ... “To get the vision of Project Tokyo done, you have to ...",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/innovation-stories/project-tokyo/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-28T06:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/549/2020/01/Project-Tokyo_3631-1200x630-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": "Using AI, people who are blind are able to find familiar faces in a room",
           "attribution": null
         }
       ],

@@ -2,6 +2,52 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2020-02-27-robot-uses-ai-to-personalize-teaching-of-autistic-children.md",
+      "title": "Robot uses AI to personalize teaching of autistic children",
+      "excerpt": "“AI methods cannot and must not be used as a cheaper substitute for treatment by human doctors,” Alena Buyx, a Professor of Ethics in Medicine and Health Technologies at the Technical University of Munich, said last year. The researchers stress that they want robots to augment human invention rather than replace it. “Human therapists ...",
+      "heat": 201,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/27/robot-uses-ai-to-personalize-teaching-of-autistic-children/amp/",
+      "publishedDateTime": "2020-02-27T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-40-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Robot uses AI to personalize teaching of autistic children",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-researchers-propose-ai-that-improves-the-quality-of-any-video.md",
       "title": "Researchers propose AI that improves the quality of any video",
       "excerpt": "Increasingly, researchers are using AI to transform historical footage — like the Apollo 16 moon landing and 1895 Lumière Brothers film “Arrival of a Train at La Ciotat station” — into high-resolution, high-framerate videos that look as though they’ve been shot with modern equipment. It’s a boon for preservationists, and as an ...",
@@ -1010,51 +1056,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-classifying-images-using-tensorflow-and-faced-challenges-a-case-study.md",
-      "title": "Classifying images using TensorFlow and faced challenges — a case study",
-      "excerpt": "We decided to use Deep Learning with TensorFlow by setting up a Convolutional Neural Network (CNN) to classify these images. It was necessary to have a large data set with training data for each page. Instead of taking many different pictures (which would have been very time consuming), we decided to make a video of each page and then take ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@simon.huber/classifying-images-using-tensorflow-and-faced-challenges-a-case-study-f283c039d720",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/freeze/max/400/1*DB25tGjRiWmvzRODq9TEOg.gif",
-          "width": 400,
-          "height": 224,
-          "title": "Classifying images using TensorFlow and faced challenges — a case study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

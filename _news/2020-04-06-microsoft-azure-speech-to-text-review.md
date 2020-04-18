@@ -24,6 +24,6 @@ images:
     height: 675
     title: "Microsoft Azure Speech to Text review"
 
-secured: "gfG9faM+Xi70QYInyAJCx4iG4+rw22rtDSd0e7oswPDGwz2rqHZ4cuaiUQ7yq2OunIxeYKZkS8U2RBUN5XPTpn/SH27r/usMm2o3ds8hIeVYmjYRrzTiZvRbWWEC7X2ObKyWUYyo27wXIkz0THl3kowOpHvusB598W+Xs8hOypif/0Xum4pLcbH4p4VeTnFH4sfdxnzL/Fj7XqEwuMJ0x210UbH5E1e+2AW1hV+Egb69/BUnSM+/g85RetWoDT3ugX+MyEwKh+eFn5cMHTgYehhGFmCuLyn+6ZdrrNnBwvfPk6XgdXYYtvv7fxEWlvCZ;cFL1nwQ7rQt8szHS4Nxllg=="
+secured: "Dfac1ou6Ba7602gxv7P57KjA5NIUAVVQp8D1JsRhtb//lW1UXP4N5wEmZXaAhQkiOSC0yS5XlThB+DldF9wSo1K52HVdKBtQVJLo+3g7oBT7vlzIivDitbbRVtr/Cmji/poQjAthgjG9U8W6yRmd1oDi3OC0Zivs6kUQWRZvcRoodqHrzuwIAm/ZGSDBdzz8d52oTf37Fo+N8FjlbFkzpWgu58y/5N9d3bY4RTu9hn2/25QiRMm8Cqnik4c6gLVd18vPgoCs1uQ2159PVnGMup+sL1EOgpdyTFnAJX+b0EF7wQn5fzhAXnPpS+vUhTqwm6iTeffrhMws+HrO9tSKSEAGnUeKX+/DCZ2VPgOIXLlt7ho1VRxkdDhquR4zBb+PxuPiXX4rY2PUv3RO2NpFinSxwaxlm8l9RkTfXUiHjIUM5/ulA86OihZT7rvKh08ed6pvAOGPSkbHofrYIXetOmvqWuFJk+XI+y5gkmBzZxM=;vPHva6IhEKUgs0CcMSl8mQ=="
 ---
 

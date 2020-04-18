@@ -1,42 +1,42 @@
 ---
 category: news
 title: "Artificial Intelligence in Global Medical Imaging Markets, 2027: Growth Prospects, Key Trends, Leading Companies"
-excerpt: "The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added"
+excerpt: "The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added to ResearchAndMarkets.com's offering."
 publishedDateTime: 2020-04-15T18:15:00Z
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-global-medical-imaging-markets-2027-growth-prospects-key-trends-leading-companies-301041121.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/artificial-intelligence-in-global-medical-imaging-markets-2027-growth-prospects-key-trends-leading-companies/article_38c2a66d-b3f2-5edd-ac97-89ae2d557209.html"
 type: article
 quality: 16
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI
 
 images:
-  - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     title: "Artificial Intelligence in Global Medical Imaging Markets, 2027: Growth Prospects, Key Trends, Leading Companies"
 
 related:
-  - title: "Global Image Recognition Market Outlook 2020-2027: Lucrative Growth Opportunities When Combined With AI"
-    excerpt: "The \"Image Recognition Market Size, Share & Trends Analysis Report by Technique, by Application, by Component (Hardware, Software),"
-    publishedDateTime: 2020-04-15T11:46:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/global-image-recognition-market-outlook-2020-2027-lucrative-growth-opportunities-when-combined-with-ai-301040957.html"
+  - title: "Artificial Intelligence in Manufacturing Market Competitive Analysis 2018-2025 and Key Players - Bosch, Cisco, GE, IBM"
+    excerpt: "The report includes the study of artificial intelligence in the manufacturing market. The global artificial intelligence"
+    publishedDateTime: 2020-04-15T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-competitive-analysis-2018-2025-and-key-players---bosch-cisco-ge-ibm-2020-04-15"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
 
-secured: "0Iqpc11gb26m94RvBo+be3d+G2PJebn/58hBPM/i2e3nBkNBxRJCoVaWclnRAdBSIx7qTfPDKdBZMRgGSR6mmmnt1Av2cgjzRR1pJ3Ada9IM3Gc5g3XhVcHSkpmBMw2xYDTe/7bKqFD5gWJnH10L8q8ucyYQGkEH4thNfiV3LebygZTLTLJIRGK294q5ZOdzODOsqaMJ63bbxAm+dObjrRkoI9THfQMwXGpsr7cJNlsjOD0Jj2WvpS2D+yCLvpQb5WoZ8nt1Z05Pnu/gEA8gpMmrXKoCnHKeQe6xd3Akm91SnNfkihoSY3aA1Xc8hbKd;O14CtkI1/W1D7sMcJNj9Nw=="
+secured: "V+McX7KtVNOxPomhC5pkeLATzE9ffJDVUHfEX3QFf9PsQG5O1IiAllv9bc0OSJOAeBDHezNo8+tTRFlE8QHhO8omfyBWV4EsNB2s9VZzhTpk4uW/9a1XFsm+Taz9kI2XzhjSUrZpcDwWYduS3QXiDQMTH4o408JkSPA9xr5pptrzxDA129X1bBiRj7AcbAQlXfOchV4Q19I8vqJnxHfVOJilLMb+oJsZ5uArXpGyQsZSuPcTMNxHvcnoE4r30tV29l5ipEOYQYxqC8Np3tjANGsMw3WMUHX6ytFdPpTh+a7nUF4yPfoxIuUS5EqPspqZ;jsdeHaYud9ns4xLGKifc7Q=="
 ---
 

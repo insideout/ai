@@ -2,6 +2,35 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-08-michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence.md",
+      "title": "Michael del Vecchio discusses how business accounting is changing due to artificial intelligence",
+      "excerpt": "has become a mainstream expression lately, and keeping in mind that it is difficult to isolate the publicity from practical possibilities, AI is established on a strong rule. Essentially expressed, AI is one of the most exceptional ideas in framework creation and dynamic,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/w15504476/michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504476",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504476",
+      "publishedDateTime": "2020-03-08T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-installing-the-tensorflow-object-detection-api-on-windows-10.md",
       "title": "Installing the Tensorflow Object Detection API on Windows 10",
       "excerpt": "In order to achieve this goal, first I have to experiment with the Tensorflow Object Detection API. I have a Windows 10 system so I will use Tensorflow in Windows environment. Let’s get started ...",
@@ -1144,43 +1173,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-cisco-and-microsoft-partner-on-cloud-iot-stuff.md",
-      "title": "Cisco and Microsoft partner on cloud IoT stuff",
-      "excerpt": "The thinking is that Microsoft’s Azure IoT platform is great at the datacenter ... global connectivity, advance analytics, and cognitive services for analyzing IoT data.” “This partnership between Cisco and Azure IoT will significantly simplify ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://telecoms.com/502899/cisco-and-microsoft-partner-on-cloud-iot-stuff/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T02:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecoms",
-        "domain": "telecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://servedby.informatm.com/avw.php?zoneid=1472&cb=1420915497594&n=a5477f91",
-          "width": 300,
-          "height": 250,
-          "title": "Cisco and Microsoft partner on cloud IoT stuff",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

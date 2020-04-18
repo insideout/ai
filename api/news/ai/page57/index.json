@@ -2,6 +2,50 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-17-why-ai-systems-should-be-recognized-as-inventors.md",
+      "title": "Why AI systems should be recognized as inventors",
+      "excerpt": "This could also play a major role in the AI arms race, as countries that adapt their patent systems most quickly will get a head start over their slower rivals. It’s important to note that the Artificial Inventor Project doesn’t want AI systems to own the patents for their creations. Such an interpretation of the case confuses ownership of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/17/why-ai-systems-should-be-recognized-as-inventors/amp/",
+      "publishedDateTime": "2020-02-17T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-15-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Why AI systems should be recognized as inventors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-17-israel-risks-falling-behind-in-ai-despite-growth.md",
       "title": "Israel risks falling behind in AI despite growth",
       "excerpt": "Habana Labs. Mobileye. Hailo. Wix. There are more than 1,150 AI-focused startups in Israel, and that number is growing. Even so, some people within the government are concerned that the nation risks falling behind because it lacks a unified AI policy. AI policy refers to national strategies like the U.S.’s American AI Initiative and Canada ...",
@@ -1167,43 +1211,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-15-are-robots-better-investors-than-humans.md",
-      "title": "Are Robots Better Investors Than Humans?",
-      "excerpt": "Would you entrust your money to an artificial intelligence? On one hand, that could seem like stacking risk atop risk. On the other hand, it’s unlikely that a robot would suddenly develop Bernie Madoff-ish tendencies and begin defrauding investors. If nothing else, we’re pretty sure the Three Laws of Robotics prevent financial misdeeds.",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans",
-      "ampWebUrl": "https://www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
-      "cdnAmpWebUrl": "https://www-insidehook-com.cdn.ampproject.org/c/s/www.insidehook.com/daily_brief/tech/are-robots-better-investors-than-humans/amp",
-      "publishedDateTime": "2020-02-15T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InsideHook",
-        "domain": "insidehook.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.insidehook.com/wp-content/uploads/2020/02/Sophia_at_the_AI_for_Good_Global_Summit_2018_27254369807.jpg?fit=1280%2C853",
-          "width": 1280,
-          "height": 853,
-          "title": "Are Robots Better Investors Than Humans?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

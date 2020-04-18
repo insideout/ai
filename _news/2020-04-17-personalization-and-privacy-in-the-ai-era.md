@@ -5,8 +5,8 @@ excerpt: "Holding too much customer information is now seen as problematic, espe
 publishedDateTime: 2020-04-17T19:14:00Z
 webUrl: "https://customerthink.com/personalization-and-privacy-in-the-ai-era/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/ipad-605420_1280-pixabay-technology-computer.jpg"

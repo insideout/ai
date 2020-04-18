@@ -2,6 +2,43 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-30-google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can.md",
+      "title": "Google is using AI to design AI processors much faster than humans can",
+      "excerpt": "At Google, AI algorithms are even being used to design AI chips. This is not a complete design of silicon that Google is dealing with, but a subset of chip design known as placement optimization. This is a time-consuming task for humans. As explained by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcgamer.com/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
+      "ampWebUrl": "https://www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/google-is-using-ai-to-design-ai-processors-much-faster-than-humans-can/",
+      "publishedDateTime": "2020-03-30T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dw6iBNHkdr8xXjXPs7tnaW-1200-80.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Google is using AI to design AI processors much faster than humans can",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-sapio-fund-invests-in-deepgram-for-gleaning-new-insights-from-speech.md",
       "title": "SAP.iO Fund Invests in Deepgram for Gleaning New Insights from Speech",
       "excerpt": "With a new approach to speech recognition, Deepgram’s flexible API architecture enables real-time transcription for customer support, sales engagement and video/phone interviews and makes them searchable. Wing Ventures led the Series A round, which included existing investors Nvidia, Y Combinator and Compound. “As SAP continues to focus on ...",
@@ -242,35 +279,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
-      "title": "Artificial intelligence can speed up the detection of stroke",
-      "excerpt": "Artificial intelligence can speed up the detection of stroke by University of Turku Examples of the manual and automated lesion segmentations.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence.amp",
-      "publishedDateTime": "2020-03-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -637,6 +645,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
+      "title": "Artificial intelligence can speed up the detection of stroke",
+      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/uot-aic033020.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228023_web.jpg",
+          "width": 453,
+          "height": 509,
+          "title": "Artificial intelligence can speed up the detection of stroke",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-aitxd-artificial-intelligence-technology-solutions-inc.md",
       "title": "AITXD Artificial Intelligence Technology Solutions Inc",
       "excerpt": "Dividend History information is presently unavailable for this company. This could indicate that the company has never provided a dividend or that a dividend is pending.",
@@ -987,50 +1032,6 @@
           "width": 600,
           "height": 350,
           "title": "AI transforms 'The Great British Bakeoff' into a horror show",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-four-ways-to-use-ai-for-marketing.md",
-      "title": "Four Ways To Use AI For Marketing",
-      "excerpt": "AI can automate many marketing tasks, improve performance and let you get back to work on other important things, like satisfying clients.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/03/30/four-ways-to-use-ai-for-marketing/amp/",
-      "publishedDateTime": "2020-03-30T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F03%2F132.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Four Ways To Use AI For Marketing",
           "attribution": null
         }
       ],

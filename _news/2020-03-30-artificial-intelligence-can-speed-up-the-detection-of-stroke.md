@@ -1,21 +1,25 @@
 ---
 category: news
 title: "Artificial intelligence can speed up the detection of stroke"
-excerpt: "Artificial intelligence can speed up the detection of stroke by University of Turku Examples of the manual and automated lesion segmentations."
-publishedDateTime: 2020-03-30T16:08:00Z
-webUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-03-artificial-intelligence.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence.amp"
+excerpt: "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion ..."
+publishedDateTime: 2020-03-30T14:28:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-03/uot-aic033020.php"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "6+Q4hUWZdT8zJ+za8xtY7i0pEQmMqeqbuRfjkGRRN2tNszzwgSm2HTX6epCdJMyaiIKeSFiKKaCN9ntFm8v8kW/Ets+UK/8ffGXbc49PQzRY6IWH7SjT0e87Vn5Z/sZpMlaSRJHTfVlzrOhN2onCWipsSA386qdXvsoHOY06SvO6OdKEyjvO8aam0ctfV0iwTC2MKLYAyNw6yhqvoStkjxz52Fx9C0Lq19/Xz079bVZFrR/xoUc8OfwA97wVR1wUOgAhfcU8Wx57qZL4B5vGaHsDuyofydE/K8tq0E5luFxc64inwCdAFsiq2xRppzKK;Jgi/x1WDplQP/qLgzfNP8A=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/228023_web.jpg"
+    width: 453
+    height: 509
+    title: "Artificial intelligence can speed up the detection of stroke"
+
+secured: "6OVkENsIU+gFQ20YEcyFmsQb/DnkWw35yi4IE4SPC4QuX1rEYRyNwafLJYUMkOCKlrVJ4vQODSUtnYRGlQ+4Ooa7l6XTNRGhqqOkJp5EzqrAbLUKpiEfqhGiFjvqqRvf8kS/Srq28e51TrBh76IprwG6jlCwtkmfPOtL6PsHpTtqaPa8ivmEAJNQOMnI6V75sNIWO3qmdmCOpNgPZzGObokq98BKpzVTX493zNOmj+cRqi1n0rBPlswaIPVn2Wg6Ft/9YhFMkI+b1L5GqsdBYPuvuz7QcLmrsJHVtp7+ZgX2sX3wG2ANFoRRZQbPXp4e;4mWfQMDfmSZdRNWT+UR/dQ=="
 ---
 
