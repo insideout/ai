@@ -172,6 +172,52 @@
       ]
     },
     {
+      "path": "_news/2020-04-03-google-introduces-tensorflow-hub-for-reusable-machine-learning-models.md",
+      "title": "Google introduces TensorFlow Hub for reusable machine learning models",
+      "excerpt": "Google announced new improvements to the TensorFlow developer experience at its annual TensorFlow Developer Summit last week. The company announced an improved programming model for Python ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/google-introduces-tensorflow-hub-reusable-machine-learning-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2018/04/tenssorflow.png",
+          "width": 800,
+          "height": 450,
+          "title": "Google introduces TensorFlow Hub for reusable machine learning models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-hands-on-tensorflow-tokenizer-for-nlp.md",
       "title": "Hands-on TensorFlow Tokenizer for NLP",
       "excerpt": "In this tutorial, I will describe how to use TensorFlow Tokenizer which helps to handle the text into sequences of numbers with a number was the value of a key-value pair with the key being the word.",

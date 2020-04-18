@@ -2,6 +2,80 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-03-how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai.md",
+      "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
+      "excerpt": "VOLUSIA COUNTY, Fla. – A cutting-edge facial recognition tool called Clearview AI will help law enforcement officers get one step closer to making arrests, according to Volusia County Sheriff Mike Chitwood. The sheriff’s office invested $10,000 for one year to see if the program is worth it long-term. Chitwood said six analysts at the real ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/",
+      "ampWebUrl": "https://www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickorlando-com.cdn.ampproject.org/c/s/www.clickorlando.com/news/local/2020/02/03/how-volusia-county-sheriffs-office-will-and-wont-use-facial-recognition-ai/?outputType=amp",
+      "publishedDateTime": "2020-02-03T15:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Click Orlando",
+        "domain": "clickorlando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.clickorlando.com/resizer/PcJi2Ag6SraUM_iwCJL7aX2vp7Y=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/02-03-2020/t_8fba58e202f84dd7aafc4f5ebe91544b_name_image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "How Volusia County Sheriff’s Office will --and won’t-- use facial recognition AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-intel-stopping-nervana-development-to-focus-on-habana-ai-chips.md",
+      "title": "Intel Stopping Nervana Development to Focus on Habana AI Chips",
+      "excerpt": "Just two months after acquiring Israeli AI chip start-up Habana Labs for $2 billion, Intel is stopping development of its existing Nervana neural network processor line. Instead, Intel will focus on technology from Habana whose inference (Goya) chip and training chip (Gaudi) are in the market and have gained traction. Intel had purchased ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hpcwire.com/2020/02/03/intel-stopping-nervana-development-to-focus-on-habana-ai-chips/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-03T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/Habana-Goya_839x.jpg",
+          "width": 839,
+          "height": 580,
+          "title": "Intel Stopping Nervana Development to Focus on Habana AI Chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-03-ai-startup-cresta-launches-from-stealth-with-millions-from-greylock-and-a16z.md",
       "title": "AI startup Cresta launches from stealth with millions from Greylock and a16z",
       "excerpt": "Cresta is more focused on using AI suggestions to help human contact center workers make the most of an individual ... Udacity co-founder Sebastian Thrun is the startup’s board chairman and is listed as a co-founder. Enam met Thrun during his PhD research at Stanford focused on workplace productivity. Cresta is launching from stealth and ...",
@@ -1193,95 +1267,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-02-intel-is-sacrificing-previous-ai-acquisitions-for-habana.md",
-      "title": "Intel is sacrificing previous AI acquisitions for Habana",
-      "excerpt": "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ...",
-      "heat": 199,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
-      "publishedDateTime": "2020-02-02T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-02-ts3_thumbs-dcf.jpg",
-          "width": 800,
-          "height": 560,
-          "title": "Intel is sacrificing previous AI acquisitions for Habana",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-02-executives-report-ai-investment-up-but-implementations-lag-expectations.md",
-      "title": "Executives Report AI Investment Up, But Implementations Lag Expectations",
-      "excerpt": "Side face of AI robot by network form. Is there a lag between enthusiasm for investment in Artificial Intelligence (AI) capabilities and delivery of AI results? Apparently so. A 2019 Harvard Business Review article,",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/",
-      "ampWebUrl": "https://www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ciocentral/2020/02/02/executives-report-ai-investment-up-but-implementations-lag-expectations/amp/",
-      "publishedDateTime": "2020-02-02T08:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1189020673%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5700%26cropY1%3D300%26cropY2%3D3506",
-          "width": 1200,
-          "height": 675,
-          "title": "Executives Report AI Investment Up, But Implementations Lag Expectations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,88 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-20-how-to-ride-the-third-wave-of-ai.md",
+      "title": "How to ride the third wave of AI",
+      "excerpt": "Object recognition is the same. Vehicles are now pretty good at recognising other vehicles and pedestrians as part of their advanced driving assistance. However, how effective it is depends on ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itproportal.com/features/how-to-ride-the-third-wave-of-ai/",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/how-to-ride-the-third-wave-of-ai/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/how-to-ride-the-third-wave-of-ai/",
+      "publishedDateTime": "2020-03-20T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/ruuTz8N3nacxJhaZVw8HwN-1200-80.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "How to ride the third wave of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-20-understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements.md",
+      "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+      "excerpt": "After a prolonged winter, artificial intelligence is experiencing a scorching summer mainly thanks to advances in deep learning and artificial neural networks. To be more precise, the renewed interest in deep learning is largely due to the success of convolutional neural networks (CNNs), a neural network structure that is especially good at ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/20/understanding-the-limits-of-convolutional-neural-networks-one-of-ais-greatest-achievements-syndication/amp/",
+      "publishedDateTime": "2020-03-20T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-...-2-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Understanding the limits of convolutional neural networks — one of AI’s greatest achievements",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-20-how-embedded-vision-and-ai-can-reduce-manufacturers-costs.md",
       "title": "How embedded vision and AI can reduce manufacturers’ costs",
       "excerpt": "Embedding the camera and processing onto a single device allows manufacturers to sneak embedded vision into places where computer vision technology would never fit. Image processing is more accessible and can deliver savings to total system costs. Within embedded vision systems, pre-processing and advanced processing correction tasks quickly ...",
@@ -951,80 +1033,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-how-machine-learning-improves-banks-customer-experience.md",
-      "title": "How Machine Learning Improves Banks’ Customer Experience",
-      "excerpt": "Improved machine learning algorithms are pushing this process into the mainstream as a way for banks to significantly improve customer service. Here are four ways financial firms are using machine learning algorithms to their advantage. Customers applying for credit or looking for loan application approval historically waited weeks. Now ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience",
-      "ampWebUrl": "https://biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2020/03/how-machine-learning-improves-banks-customer-experience?amp",
-      "publishedDateTime": "2020-03-19T07:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202003/banks%20ML%20hero.jpg?itok=kxlpkwBL",
-          "width": 1440,
-          "height": 500,
-          "title": "How Machine Learning Improves Banks’ Customer Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-fairy-tail-rpgs-story-trailer-reveals-gildarts.md",
-      "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-      "excerpt": "The official PlayStation YouTube channel began streaming a story trailer for KOEI Tecmo Games and Gust's Fairy Tail role-playing game on Thursday. The video reveals the new playable character Gildarts. KOEI Tecmo America and Gust also revealed details fo the game's new Eclipse arc. The arc centers on the “Project Eclipse” experiment \"that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.youtube.com/watch?v=8tq1C8spV_g",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Anime News Network",
-        "domain": "animenewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8tq1C8spV_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Fairy Tail RPG's Story Trailer Reveals Gildarts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

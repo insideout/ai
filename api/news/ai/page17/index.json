@@ -2,6 +2,95 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-03-31-this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk.md",
+      "title": "This Startup Is Using AI To Trace COVID-19 Patient Contacts At Risk",
+      "excerpt": "Veronica Yurchuk and Kostyantyn Shysh founded Traces.ai in Sunnyvale, California last year, when San Francisco and two other cities banned the use of facial recognition in video and still image analysis.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/",
+      "ampWebUrl": "https://www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amyguttman/2020/03/31/this-startup-is-using-ai-to-trace-covid-19-patient-contacts-at-risk/amp/",
+      "publishedDateTime": "2020-03-31T12:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e839229a1a0ef0007d8b695%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2044%26cropY1%3D356%26cropY2%3D1506",
+          "width": 1199,
+          "height": 675,
+          "title": "This Startup Is Using AI To Trace COVID-19 Patient Contacts At Risk",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-self-driving-car-market-share-size-and-forecast-report-by-2023.md",
+      "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
+      "excerpt": "The report on SELF-DRIVING CAR MARKET offers a detailed analysis of the SELF-DRIVING CAR MARKET size, growth, segments, key players, growth drivers as well as the challenges faced by the industry ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-share-size-and-forecast-report-by-2023-2020-03-31?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving Car Market Share, Size and Forecast Report By 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-modelops-is-the-key-to-enterprise-ai.md",
       "title": "ModelOps Is The Key To Enterprise AI",
       "excerpt": "ModelOps is a capability that focuses on getting models into 24/7 production. It’s a capability that must be owned by the CIO’s organization or the technology center of a large organization. In 2018,",
@@ -1205,72 +1294,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era.md",
-      "title": "Nokia launches AVA 5G Cognitive Operations to help telcos enter the 5G era",
-      "excerpt": "Nokia AVA 5G Cognitive Operations is underpinned by Microsoft Azure cloud technology ... portfolio of network equipment, software, services and licensing opportunities across the globe.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15702747/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15702747",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15702747",
-      "publishedDateTime": "2020-03-31T00:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.md",
-      "title": "How artificial intelligence will reshape the contact centre in 2020",
-      "excerpt": "GUEST OPINION by Brendan Maree, VP Asia Pacific 8x8: Artificial intelligence (AI) and machine learning (ML ... An AI-powered future When considering AI, it’s easy to focus on its use in things such as self-driving cars and drones. However its increasing deployment within contact centres is equally important. Together, AI and ML tools will ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itwire.com/market/how-artificial-intelligence-will-reshape-the-contact-centre-in-2020.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWire",
-        "domain": "itwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itwire.com/media/k2/items/cache/206b256a9fe53afb209f382f04fff56a_M.jpg",
-          "width": 375,
-          "height": 450,
-          "title": "How artificial intelligence will reshape the contact centre in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
