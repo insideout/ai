@@ -2,6 +2,206 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-01-alphabets-deepmind-ai-is-better-than-you-at-atari-games.md",
+      "title": "Alphabet’s DeepMind AI is better than you at Atari games",
+      "excerpt": "Having AI agents learn how to play simple video games is an ideal way to test their effectiveness, thanks to the ability to measure success via a score. Alphabet's DeepMind designated 57 particular Atari games to serve as a litmus test for its AI, and established a benchmark for the skills of an average human player. The company's latest system ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020-04-01-deepmind-agent57-ai-atari.html",
+      "ampWebUrl": "https://www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-04-01-deepmind-agent57-ai-atari.html",
+      "publishedDateTime": "2020-04-01T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5600%252C3035%252C0%252C701%26quality%3D85%26format%3Djpg%26resize%3D1600%252C867%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-04%252F99e3f5c0-742f-11ea-b93f-3ab31fad626d%26client%3Da1acac3e1b3290917d92%26signature%3D50e87b16d59bff72a11f5cd3c3bba0eaaac088ba&client=amp-blogside-v2&signature=11dace15f5dff7bbf1c1c07bb67f847e04c238e5",
+          "width": 600,
+          "height": 350,
+          "title": "Alphabet’s DeepMind AI is better than you at Atari games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-deal-looking-for-an-exciting-cutting-edge-career-dive-into-artificial-intelligence.md",
+      "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+      "excerpt": "Artificial intelligence is just starting to break out into the mainstream through applications like self driving cars and analytical software. If you want to dive into an exciting career field ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://pocketnow.com/artificial-intelligence-deal",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketnow.com",
+        "domain": "pocketnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://pocketnow.com/wp/../files/2016/07/PN-Complete-Machine-Learning-Bundle.jpg",
+          "width": 760,
+          "height": 473,
+          "title": "Deal: Looking for an exciting, cutting-edge career? Dive into Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-automation-anywhere-named-a-leader-and-star-performer-in-intelligent-document-processing-peak-matrix-assessment-by-everest-group.md",
+      "title": "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group",
+      "excerpt": "SAN JOSE, Calif., April 1, 2020 /PRNewswire/ -- Automation Anywhere, a global leader in Robotic Process Automation (RPA), today announced that Everest Group, a leading research and consulting firm, has named it a Leader and a Star Performer in its Intelligent Document Processing (IDP) 2020 PEAK Matrix.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://apnews.com/PR Newswire/87142a4026b665a22a1eee05c9532f6a",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": "Automation Anywhere Named a Leader and Star Performer in Intelligent Document Processing PEAK Matrix® Assessment by Everest Group",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems.md",
+      "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+      "excerpt": "Last August, Microsoft Research Asia detailed an AI system dubbed Super Phoenix (Suphx for short) that could defeat Mahjong players after learning from only 5,000 matches. A revised preprint paper out this week delves a bit deeper, revealing that Suphx — whose performance improved with additional training — is now rated above 99.99% of all ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/microsofts-mahjong-winning-ai-could-lead-to-sophisticated-finance-market-prediction-systems/amp/",
+      "publishedDateTime": "2020-04-01T09:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft’s Mahjong-winning AI could lead to sophisticated finance market prediction systems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-google-deepminds-agent57-ai-bests-humans-at-beating-atari-games.md",
+      "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
+      "excerpt": "DeepMind’s Agent57 AI because the first tool to beat humans at all Atari games in the Arcade Learning Environment (ALE) data set. Google parent company Alphabet this week revealed its Agent57 artificial intelligence (AI) has become the first machine learning tool to beat humans across all Atari games in the Arcade Learning Environment data set.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://winbuzzer.com/2020/04/01/google-deepminds-agent57-ai-bests-humans-at-beating-atari-games-xcxwbn/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-01T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winbuzzer.com",
+        "domain": "winbuzzer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://winbuzzer.com/wp-content/uploads/2020/04/Agent57-ALE-DeepMind.jpg",
+          "width": 1440,
+          "height": 634,
+          "title": "Google DeepMind’s Agent57 AI Bests Humans at Beating Atari Games",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-is-this-ai-powered-mirror-gym-the-future-of-home-exercise.md",
       "title": "Is this AI-powered 'mirror gym' the future of home exercise?",
       "excerpt": "Designer Yves Behar and entrepreneur Trent Ward just unveiled a new design for a mirror fitness system, Forme, which uses machine learning to optimize workouts at home.",
@@ -856,222 +1056,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-enterprise-artificial-intelligence-along-with-telehealth-and-teleconferences-can-help-in-fighting-covid-19.md",
-      "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-      "excerpt": "In the fight against COVID-19, enterprise artificial intelligence (AI) is not getting the same attention as teleconferencing and telehealth technologies. A massive shift to working from home to avoid spreading the virus means virtual collaboration companies like Zoom Video Communications are in the headlines. The same dynamic is playing out in ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348557",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348557",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348557",
-      "publishedDateTime": "2020-04-01T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20190416142211-shutterstock-1168340332.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Enterprise Artificial Intelligence Along With Telehealth And Teleconferences Can Help In Fighting COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-how-deepmotion-uses-ai-to-create-believable-characters.md",
-      "title": "How DeepMotion uses AI to create believable characters",
-      "excerpt": "As an engineer, He wanted to find an efficient way to create more lifelike animations, and he was convinced that advanced physics simulation and AI could solve that problem. So in 2014, He struck out on his own to start DeepMotion. The goal of the San Mateo, California-based company is to provide developers with powerful software development ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/01/how-deepmotion-uses-ai-to-create-believable-characters/amp/",
-      "publishedDateTime": "2020-04-01T01:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/DeepMotion_VB_SS-e1585696653316.png?fit=1200%2C687&strip=all",
-          "width": 1200,
-          "height": 687,
-          "title": "How DeepMotion uses AI to create believable characters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-microsoft-president-calls-washington-states-new-facial-recognition-law-a-significant-breakthrough.md",
-      "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
-      "excerpt": "Microsoft President Brad Smith took a break from responding to the COVID-19 outbreak Tuesday to praise Washington state’s landmark facial recognition regulations. Washington Gov. Jay Inslee signed a bill Tuesday that establishes rules specifically governing facial recognition software. Smith called the law an “early and important model ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/",
-      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-president-calls-washington-states-new-facial-recognition-law-significant-breakthrough/amp/",
-      "publishedDateTime": "2020-03-31T23:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/09/20190920_Brad_Smith_1301-630x450.jpg",
-          "width": 630,
-          "height": 450,
-          "title": "Microsoft president calls Washington state’s new facial recognition law ‘a significant breakthrough’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-about-azure-edge-zones-preview.md",
-      "title": "About Azure Edge Zones - Preview",
-      "excerpt": "... using SD-WAN appliances on the same Private Edge Zone appliances and manage them from Azure. Typical use cases include: Real-time command and control in robotics Real-time analytics and inferencing with Artificial Intelligence and Machine Learning Machine Vision Remote rendering for mixed reality and VDI scenarios Surveillance and security ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/azure/networking/edge-zones-overview",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
-          "width": 400,
-          "height": 400,
-          "title": "About Azure Edge Zones - Preview",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-acm-prize-in-computing-awarded-to-alphago-developer.md",
-      "title": "ACM Prize in Computing awarded to AlphaGo developer",
-      "excerpt": "Silver is a Professor at University College London and a Principal Research Scientist at DeepMind, a Google-owned artificial intelligence company based in the United Kingdom. Silver is recognized ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/afcm-api033120.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/228188_web.jpg",
-          "width": 720,
-          "height": 813,
-          "title": "ACM Prize in Computing awarded to AlphaGo developer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

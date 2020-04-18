@@ -8,7 +8,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-dr
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 224
     title: "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery"
 
-secured: "LwaQlda0jHLR2J5hxFa/JRbijOHGvhPTFhL7sH67xBNr2tFxeA5ECWTHvfflBvVdmnIbql3BhYfqRJv7oYpaPiuUUtOWWLRfbzNlSZDVkQABkw6/g1DeKYsGwy4L+U/W+YDGH6QpbEkLV/9r0SHmpaejN5MppLYIWvUy3Z3lHpXEIGZ4gX6oLe5ExrvOziEpk+xig6JKa5/CUIKqrlMjw+Cd/j+pmW8Cf9QGh5hkQXpAm1I2+d9uDLldFyD5PfeC1jcaFCFaAsRV7C4fHEpqP1xUClqxLbx6MVO+HWPMC2JcSwP+LtLbo2Bv4ct5zsaT8ixXRO6dDyRGedoR9RksHwRHlu1kPNm6kh+nXGwO5ysE1/7XfanNEFSJa4c/17MrW3Kl064xGM/UsLVAXeVMBu7IYbGZdHFxYGO6oq1rTheI4GWw2Hse/QGvSsZZq/CLtUTZ62i3txQs3ujiiSRvE3IjXJqqU3FZSZJI8588fgg=;5tyW0QmFmjTiWN9hoAif9Q=="
+secured: "cFlegO+8YhoHzGQr9RK1HGZBR6LiEQDfZVXvz9gFT9pyvgLTgQPPLC3bN8ete/Ux1a1lR2Eo377Nu6f7nZjlPvJ8a30vd6sfCJPnvLMqZfR757WGkQ23wnvS+GpgTn/69fxiVSDq1aPZcPsAzv5rXS3D0/PpzL6ytCXgcu2PRC+r72cp3LNOLhiZr8rfYwBw5XfsREPCocaWn5iJE3yg5F4S3DnvaQG609dNVf2RrqMasq9N8jQvPJ1mf39Jw5voOEJ7VmJHf1wHMB9DC15wMuCIATYaNQkijrrVYNN5wTVrmJSH6/wHU9Zog257yuzUGIP3/DFhfAQmXy8AK/CmGUZ+UoGOM02IgtwyA29U2QkYFO+Fy+WCxKpSyfInZDAjMyyNFWZ5QR0G6OOUyJ7K3Jsvxg2rdM10gLAsdsewk1rgTrfi8zpxz1+DcLOejo0iDg/KZPuR0SINTEq9ydEN5/Q4xZz9gIbNQOCe65oKsOg=;eUTrYCEDXJZAR5oCujSQUQ=="
 ---
 

@@ -2,6 +2,141 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
+      "title": "Facebook proposes 3D navigation task for training autonomous robots",
+      "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
+      "publishedDateTime": "2020-04-10T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook proposes 3D navigation task for training autonomous robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form.md",
+      "title": "Janelle Shane explains AI with weirdness and humor, in book form",
+      "excerpt": "And also very accessible. And I thought that sounded fantastic. I know this all started with AI Weirdness. Why did you start that blog? How did that come about? Janelle Shane: I saw someone else named Tom Brewe who had used one of these text-generating neural nets to do cookbook recipes. It was one of these situations where I’m laughing so ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
+      "publishedDateTime": "2020-04-10T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/you-look-like-a-thing-hero.jpg?fit=2000%2C1001&strip=all",
+          "width": 2000,
+          "height": 1001,
+          "title": "Janelle Shane explains AI with weirdness and humor, in book form",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi.md",
+      "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+      "excerpt": "After collecting about 400 images in many different conditions, I uploaded them into Firebase AutoML Vision Edge and had it automatically train a model for us. Upload the data to the Firebase console.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/firebase-developers/smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi-834fa0eaa7c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D_0ACizWrSG-jDfpde6cfQ.png",
+          "width": 1200,
+          "height": 674,
+          "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
       "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
       "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
@@ -333,6 +468,35 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-baidus-zhang-on-ai-self-driving-cars-streaming-video.md",
+      "title": "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)",
+      "excerpt": "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/bizjournals/video/6082077878001",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -881,184 +1045,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-amazons-ai-uses-meta-learning-to-accomplish-related-tasks.md",
-      "title": "Amazon’s AI uses meta learning to accomplish related tasks",
-      "excerpt": "or learning with five examples per new task. But the researchers say those baselines were complementary to their approach, and that they believe combining approaches could yield lower error rates. “In the past decade, deep-learning systems have proven remarkably successful at many artificial-intelligence tasks, but their applications tend to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/amazons-ai-taps-meta-learning-techniques-to-accomplish-related-tasks/amp/",
-      "publishedDateTime": "2020-04-09T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI uses meta learning to accomplish related tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-open-source-ai-tool-aims-to-help-identify-coronavirus-infections.md",
-      "title": "Open-source AI tool aims to help identify coronavirus infections",
-      "excerpt": "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "publishedDateTime": "2020-04-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Open-source AI tool aims to help identify coronavirus infections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-google-releases-simclr-an-ai-framework-that-can-classify-images-with-limited-labeled-data.md",
-      "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
-      "excerpt": "A team of Google researchers recently detailed a framework called SimCLR, which improves previous approaches to self-supervised learning, a family of techniques for converting an unsupervised learning problem (i.e., a problem in which AI models train on unlabeled data) into a supervised one by creating labels from unlabeled data sets.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/09/google-releases-simclr-ai-framework-learns-to-classify-images-with-limited-labeled-data/amp/",
-      "publishedDateTime": "2020-04-09T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases SimCLR, an AI framework that can classify images with limited labeled data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california.md",
-      "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
-      "excerpt": "Autonomous delivery vehicle maker Nuro this week received California's first permit to test a driverless, passengerless car on public roads. Eager to get started, the company hopes to get its recently unveiled R2 vehicle on the move through Silicon Valley ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california",
-      "ampWebUrl": "https://www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-earns-permit-to-test-self-driving-delivery-vehicles-in-california?amp=true",
-      "publishedDateTime": "2020-04-09T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/005AXdYr3UnodeAytQQ7yfm-1.fit_lim.size_1200x630.v_1586432859.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "Nuro Earns Permit to Test Self-Driving Delivery Vehicles in California",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

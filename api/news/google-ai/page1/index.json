@@ -2,6 +2,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
+      "title": "Google unveils TensorFlow tool for making mobile-ready models",
+      "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
+      "publishedDateTime": "2020-04-17T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
       "title": "TensorFlow Lite gets machine learning model maker",
       "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
@@ -52,7 +90,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 96,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
@@ -1237,51 +1275,6 @@
         "AI",
         "Machine Learning",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
-      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
-      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
-      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
-      "publishedDateTime": "2020-03-28T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

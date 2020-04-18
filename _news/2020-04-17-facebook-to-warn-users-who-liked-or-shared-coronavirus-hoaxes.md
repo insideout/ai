@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-use
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 630
     title: "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes"
 
-secured: "Hgnu492mZNrSMJ5fE1+cz3x17hzv8LXhdJ94SfvxYbyui5+dBWgkVgzVBpT+3h54EFgrV5zkhsV1s4xIOxAzV6mh9ZEt23aKRb+UMPOU73Z8P/bb/gvPVp1rTJmhcRRusTc940+edSDdnEf3VaJc3Ypw1QCJ2QI5L9FSQz6iMfT/F6NV96HDm4GAHTE3X2/BQaRpvBX5bPseSdZW6L0/Lf6WtWsDPQZkYTYcSdaipeEN1+vC4NSWKy2f3dvvfkzFL0ztcZvQ4pKdi20Q0TiJSHEjBb0HA5KuQGEQ6v1jpj8PzI4J1APBl+sfsfy25S7Xdl7yp0Gao83oKo+zTT+NKpw6IFtlp0xDPBif/lWqlu8dY2X7jj6fpK5Hm03pDOSp2Go4mwz1fTjIwcBIM2hWanWzq7NZDz2VKm/cLwTa5a/0Cf/OLQ7EMb722EFQZUjVyP+8Kdff7PsGuLbeZUrflIqaB0Ib5LyBM3uSo1u0oy8=;ZwEOrzjMWLP+XeClZiPTAQ=="
+secured: "LdvapdKvDziRpohwU66oxzMIFdnhZg9fVFkTXC7Hdaqq1JWq71JgWiIBEWuww7pKjYJFrD6jx92HuZ5G6kvPDUypdoSPArot6PObod+7a7n+Z8s4I9kfJNIKsybvMuLm3OyH36cs4w20q2vlNUhB64RSMQae0X17s2OWIfhkN39TWhszXyAY9YfqGoy6Pf401SOzZ4fk1cL3Grs50lRIJJicj8WKpGue4iz7OXgd86j3OgJ/v2jyqwXGoF0kAD/vHEM1/0mMbdEADNSvd/ycrxj9ltdr4ALlf8vBYgS+Zmfm+0HPyAFJ1sWwQpxTV4lEpT2TIU8PDqDp3W5MfxCGPagSr8+UzyyLzjFBNZotYi9+1kRgwne60nJozdnRVAjcRlElFK+MzKz/zQS+BWg5SUJpGEGFRZy1wweXUCJ5+3VSMagY2j59+gsl9jFlNABNfdRsy2i6ifUJgGyanDmYC1NwZe890ACdEfSbwAUpjJo=;xsmTEPWM+w/eREtVOEGJpw=="
 ---
 

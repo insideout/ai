@@ -2,6 +2,51 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-01-04-deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost.md",
+      "title": "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?",
+      "excerpt": "Thanks to the advancement in deep learning and reinforcement learning, DeepMind achieved groundbreaking success first in Atari, then in Go, and finally in Starcraft II. One of the major benefits ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/swlh/deepmind-achieved-starcraft-ii-grandmaster-level-but-at-what-cost-32891dd990e4",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-04T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*V5bzG3H6ZKWh87AIxxv-dw.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": "DeepMind achieved StarCraft II GrandMaster Level, but at what cost?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-03-googles-deepmind-ai-outperforms-doctors-in-identifying-breast-cancer-from-x-ray-images.md",
       "title": "Google's DeepMind AI outperforms doctors in identifying breast cancer from X-ray images",
       "excerpt": "Researchers from Imperial College London and Google Health this week published new research that shows DeepMind's medical AI system can outperform doctors on identifying breast cancer from X-ray ...",

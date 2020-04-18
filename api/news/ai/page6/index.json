@@ -2,6 +2,141 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
+      "title": "Facebook proposes 3D navigation task for training autonomous robots",
+      "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
+      "publishedDateTime": "2020-04-10T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook proposes 3D navigation task for training autonomous robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form.md",
+      "title": "Janelle Shane explains AI with weirdness and humor, in book form",
+      "excerpt": "And also very accessible. And I thought that sounded fantastic. I know this all started with AI Weirdness. Why did you start that blog? How did that come about? Janelle Shane: I saw someone else named Tom Brewe who had used one of these text-generating neural nets to do cookbook recipes. It was one of these situations where I’m laughing so ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
+      "publishedDateTime": "2020-04-10T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/you-look-like-a-thing-hero.jpg?fit=2000%2C1001&strip=all",
+          "width": 2000,
+          "height": 1001,
+          "title": "Janelle Shane explains AI with weirdness and humor, in book form",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi.md",
+      "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+      "excerpt": "After collecting about 400 images in many different conditions, I uploaded them into Firebase AutoML Vision Edge and had it automatically train a model for us. Upload the data to the Firebase console.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/firebase-developers/smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi-834fa0eaa7c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D_0ACizWrSG-jDfpde6cfQ.png",
+          "width": 1200,
+          "height": 674,
+          "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
       "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
       "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
@@ -333,6 +468,35 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-baidus-zhang-on-ai-self-driving-cars-streaming-video.md",
+      "title": "Baidu's Zhang on AI, Self-Driving Cars, Streaming (Video)",
+      "excerpt": "© 2020 American City Business Journals. All rights reserved. Use of and/or registration on any portion of this site constitutes acceptance of our User Agreement ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/bizjournals/video/6082077878001",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-09T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -1103,180 +1267,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-will-product-designers-survive-the-ai-revolution.md",
-      "title": "Will product designers survive the AI revolution?",
-      "excerpt": "Did you know TNW Conference has a track fully dedicated to exploring new design trends this year? Check out the full ‘Sprint’ program here. “Our intelligence is what makes us human, and AI is an extension of that quality.” ― Yann LeCun The human species has performed incredible feats of ingenuity. We have created beautiful sculptures ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/will-product-designers-survive-the-ai-revolution/amp/",
-      "publishedDateTime": "2020-04-09T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-14-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Will product designers survive the AI revolution?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
-      "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-      "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
-      "heat": 164,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19/",
-      "publishedDateTime": "2020-04-09T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
-          "width": 1200,
-          "height": 675,
-          "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans.md",
-      "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
-      "excerpt": "Advancement in new robotics technology (mind-controlled bionic limbs & exoskeletons) coupled with 3D printing is also positively impacting the growth of the market. Download the sample copy of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/fmi-updates-medical-bionic-implants-and-exoskeletons-market-forecast-and-analysis-as-corona-virus-outbreak-disturbs-investment-plans-2020-04-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "FMI Updates Medical Bionic Implants And Exoskeletons Market Forecast and Analysis as Corona Virus Outbreak Disturbs Investment Plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic.md",
-      "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
-      "excerpt": "Students wary of coming into contact with COVID-19 at the dining hall can instead dispatch a robot to deliver food to their dorm.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://madison.com/wsj/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.html",
-      "ampWebUrl": "https://madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
-      "cdnAmpWebUrl": "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/education/university/robots-deliver-food-and-relief-to-uw-students-still-on-campus-during-covid-19-pandemic/article_cdd8a9f4-a2aa-542d-a226-02afa13dc3ef.amp.html",
-      "publishedDateTime": "2020-04-09T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madison.com",
-        "domain": "madison.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/fb/3fb77a79-7fe7-5882-84b1-de4944452c4c/5e8e28945f28f.image.jpg?resize=1024%2C701",
-          "width": 1024,
-          "height": 701,
-          "title": "Robots deliver food — and relief — to UW students still on campus during COVID-19 pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

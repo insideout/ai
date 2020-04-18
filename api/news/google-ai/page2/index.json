@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-28-ai-can-help-scientists-find-a-covid-19-vaccine.md",
+      "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+      "excerpt": "Over the last few weeks, teams at the Allen Institute for AI, Google DeepMind, and elsewhere have created AI tools, shared datasets and research results, and shared them freely with the global scientific community. Oren Etzioni is the CEO of the nonprofit Allen Institute for AI, and a professor of computer science at the University of Washington.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/",
+      "ampWebUrl": "https://www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-ai-can-help-find-scientists-find-a-covid-19-vaccine/amp",
+      "publishedDateTime": "2020-03-28T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "AI Can Help Scientists Find a Covid-19 Vaccine",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework.md",
       "title": "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework",
       "excerpt": "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more ...",
@@ -1085,43 +1130,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-03-09-google-is-making-it-easier-to-develop-quantum-machine-learning-apps.md",
-      "title": "Google is making it easier to develop quantum machine-learning apps",
-      "excerpt": "TensorFlow Quantum is an add-on to Google’s popular TensorFlow toolkit, which has helped give machine learning a big boost since its launch in 2015. What does it do? TensorFlow is one of a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technologyreview.com/f/615337/google-software-tensorflow-quantum-machine-learning-apps-ai-computing/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.technologyreview.com/i/images/fabian-grohs-oz61kfuqsus-unsplash.jpg?sw=1200&cx=0&cy=263&cw=1767&ch=994",
-          "width": 1200,
-          "height": 675,
-          "title": "Google is making it easier to develop quantum machine-learning apps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

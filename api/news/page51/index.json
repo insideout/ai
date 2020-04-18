@@ -2,6 +2,200 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-03-09-this-wearable-ai-translator-lets-you-talk-freely-and-naturally-in-different-languages.md",
+      "title": "This wearable AI translator lets you talk freely and naturally in different languages",
+      "excerpt": "Mashable is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle/",
+      "ampWebUrl": "https://mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/video/wt2-plus-wearable-translator-timekettle.amp",
+      "publishedDateTime": "2020-03-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2019%252F01%252F08%252F6e%252Fcde31ac0debc4a54974622afc46c4242.e83a8.png%252F1200x630.png?signature=ktElHOCCyScMZXyVZijc6UoLwD4=",
+          "width": 1200,
+          "height": 630,
+          "title": "This wearable AI translator lets you talk freely and naturally in different languages",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence.md",
+      "title": "Michael del Vecchio discusses how business accounting is changing due to artificial intelligence",
+      "excerpt": "has become a mainstream expression lately, and keeping in mind that it is difficult to isolate the publicity from practical possibilities, AI is established on a strong rule. Essentially expressed, AI is one of the most exceptional ideas in framework creation and dynamic,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/w15504476/michael-del-vecchio-discusses-how-business-accounting-is-changing-due-to-artificial-intelligence",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15504476",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15504476",
+      "publishedDateTime": "2020-03-08T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-installing-the-tensorflow-object-detection-api-on-windows-10.md",
+      "title": "Installing the Tensorflow Object Detection API on Windows 10",
+      "excerpt": "In order to achieve this goal, first I have to experiment with the Tensorflow Object Detection API. I have a Windows 10 system so I will use Tensorflow in Windows environment. Let’s get started ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@daniel.schwalm/installing-the-tensorflow-object-detection-api-on-windows-10-443750faf7b8",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/820/1*ubc_a9FvGl1fUwszAXYToA.png",
+          "width": 820,
+          "height": 533,
+          "title": "Installing the Tensorflow Object Detection API on Windows 10",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-how-does-carticaai-change-the-world-of-artificial-intelligence.md",
+      "title": "How does Cartica.AI change the world of Artificial Intelligence?",
+      "excerpt": "So if traffic signs are partly covered, dirty or bended, trucks have a odd load, pedestrians are particularly small or tall or they wear different clothing, that is a problem for traditional neural networks. As a solution more cases have to been taught as an attempt to cover mostly all possible edge cases. Traditional deep learning requires ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/how-does-carticaai-change-world-artificial-dr-karl-thomas-neumann",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-08T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHbGmNc02j0JQ/article-cover_image-shrink_600_2000/0?e=1590624000&v=beta&t=0IFQyP9TYpTYIIzH8YNV3ZBzBQbHIq_vhRDZUatx9ug",
+          "width": 485,
+          "height": 390,
+          "title": "How does Cartica.AI change the world of Artificial Intelligence?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-08-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app.md",
+      "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
+      "excerpt": "London-based Fintech firm Finastra has revealed that its customers will be able to Active.Ai‘s conversational artificial intelligence (AI)-based retail banking app, which was integrated with the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158332-uk-based-fintech-finastra-to-allow-customers-to-use-conversational-ai-based-retail-banking-app/amp/",
+      "publishedDateTime": "2020-03-08T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence-300x225.jpeg",
+          "width": 300,
+          "height": 225,
+          "title": "UK-based Fintech Finastra to Allow Customers to Use Conversational AI-based Retail Banking App",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-08-facial-recognition-technology-is-getting-out-of-control.md",
       "title": "Facial recognition technology is getting out of control",
       "excerpt": "Facial recognition is a more pressing concern than aerial surveillance. Thanks to technology like that developed by Clearview, anyone who has uploaded photos of themselves to social media is ...",
@@ -794,191 +988,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
-      "title": "Goodyear concept EV tire can regrow tread",
-      "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autonews.com/mobility-report-newsletter/goodyear-concept-ev-tire-can-regrow-tread",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVDay02-main_i.jpg",
-          "width": 792,
-          "height": 526,
-          "title": "Goodyear concept EV tire can regrow tread",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-americans-still-wary-of-self-driving-cars-many-worry-about-hacking.md",
-      "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
-      "excerpt": "Half (51%) said they were interested in laws to make sure self-driving cars are safe. — 44% expressed the desire to have access to easy-to-understand information about how self-driving cars will ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/",
-      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
-      "publishedDateTime": "2020-03-05T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e61060ee1e617000758e8a2%2F0x0.jpg%3FcropX1%3D8%26cropX2%3D600%26cropY1%3D0%26cropY2%3D333",
-          "width": 593,
-          "height": 333,
-          "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-mission-now-providing-smbs-with-managed-data-analytics-platform-for-aws.md",
-      "title": "Mission Now Providing SMBs with Managed Data & Analytics Platform for AWS",
-      "excerpt": "Amorphic unifies data, users and analytics across AWS data warehousing, machine learning and artificial intelligence services, with no high-risk development or operational support required.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/05/1995886/0/en/Mission-Now-Providing-SMBs-with-Managed-Data-Analytics-Platform-for-AWS.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-harnessing-thoughts-to-control-a-computer.md",
-      "title": "Harnessing Thoughts To Control A Computer",
-      "excerpt": "What is the best way to link the brain signals to the machine? FLATOW: Right. What about a mind-controlled robot? You know, the whole robot you can control with thinking about it? Prof.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.npr.org/templates/story/story.php?storyId=124361781?storyId=124361781",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": "Harnessing Thoughts To Control A Computer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-05-aible-is-recognized-as-a-visionary-in-the-gartner-magic-quadrant-2020.md",
-      "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
-      "excerpt": "It assesses vendors with offerings in three key service areas: language, vision and automated machine learning (AutoML).” The Gartner Magic Quadrant places Aible in its “Visionaries” quadrant. Gartner says, “Visionaries are likely to excel in AutoML, as this segment is viewed as the most important for application leaders and development ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200305005262/en/Aible-Recognized-Visionary-Gartner-Magic-Quadrant-2020",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-05T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200305005262/en/777778/23/Aible.logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Aible is Recognized as a Visionary in the Gartner Magic Quadrant 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

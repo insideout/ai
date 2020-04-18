@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-01-15-artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare.md",
+      "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
+      "excerpt": ". AI sector has also become one of the world's highest-growth industries. ©Shutterstock. Making a breakthrough in healthcare, researchers at the University of Warwick have developed a new ...",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/",
+      "ampWebUrl": "https://www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/news/artificial-intelligence-or-ai-here-is-how-it-is-transforming-healthcare-722335/amp/",
+      "publishedDateTime": "2020-01-15T05:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2019/01/artificial-intelligence.jpg",
+          "width": 679,
+          "height": 365,
+          "title": "Artificial Intelligence or AI: Here is how it is transforming healthcare",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-14-ai-replaces-prick-test-to-detect-blood-sugar-levels.md",
       "title": "AI replaces prick test to detect blood sugar levels",
       "excerpt": "The novel artificial intelligence system works as well as CGMs ... the device using cohort data would not provide the same results. Hence, personalized therapy based on the system can be more effective than therapies used today. The new approach was ...",

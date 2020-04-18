@@ -230,7 +230,7 @@
       "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
       "title": "MindsDB raises $3 million for open source automated machine learning",
       "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
@@ -612,6 +612,43 @@
           "width": 1024,
           "height": 768,
           "title": "Security measure or Big Brother? Civil rights groups ask Amazon to stop selling its facial recognition system to law enforcement",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success.md",
+      "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
+      "excerpt": "Hackathons have become de rigueur in the tech world – Facebook, Inc. held its 50th in February – but it’s not just tech companies that can benefit from scheduling an all-day brainstorming and development session, management consultants Elizabeth ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436",
+      "ampWebUrl": "https://www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/why-your-firm-should-host-a-hackathon-and-5-ways-to-ensure-its-success/68436?amp=1",
+      "publishedDateTime": "2020-04-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2016/04/Hackathons-header.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Why your firm should host a hackathon – and 5 ways to ensure its success",
           "attribution": null
         }
       ],
@@ -1241,43 +1278,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-2020-aws-sagemaker-ai-and-machine-learning-with-python.md",
-      "title": "2020 AWS SageMaker, AI and Machine Learning - With Python",
-      "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.udemy.com/course/aws-machine-learning-a-complete-guide-with-python/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Udemy",
-        "domain": "udemy.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/udemy.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

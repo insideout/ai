@@ -2,6 +2,199 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-03-30-why-ai-will-create-more-human-executives.md",
+      "title": "Why AI Will Create 'More Human' Executives",
+      "excerpt": "As AI magnifies the impact of new technology, we need CEOs who acknowledge and embrace the unique responsibility that goes with it.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/why-ai-will-create-more-human-executives/amp/",
+      "publishedDateTime": "2020-03-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F03%2Fa-8-4.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Why AI Will Create 'More Human' Executives",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305.md",
+      "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
+      "excerpt": "Read the full report:  NEW YORK, March 24, 2020 /PRNewswire/ -- The cognitive computing market size is projected to grow from USD 20.5 billion in 2020 to USD 77.5 billion by 2025, at a Compound Annual Growth Rate (CAGR) of 30.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/the-cognitive-computing-market-size-to-grow-at-a-cagr-of-305-2020-03-24",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "The cognitive computing market size to grow at a CAGR of 30.5%",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-global-cognitive-solution-market-2020-2026-microsoft-cisco-amazoncom-ibm-hpe.md",
+      "title": "Global Cognitive Solution Market 2020-2026 Microsoft, Cisco, Amazon.com, IBM, HPE",
+      "excerpt": "The Global Cognitive Solution Market research 2020-2026 is a specialized and in-depth study of industry with a focus on the global market trend. The Cognitive Solution report aims to provide an ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.openpr.com/news/1989878/global-cognitive-solution-market-2020-2026-microsoft-cisco",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T02:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-fintech-company-payby-launches-mobile-payment-services-in-the-uae.md",
+      "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
+      "excerpt": "PayBy is a fintech company with world-class payment infrastructure that provides a fast, secure, AI-powered, one-stop payment solution. The company is committed to offering unified and inclusive financial services for everyday work and life, connecting with people around the world. PayBy collaborates with a variety of leading institutions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zawya.com/uae/en/press-releases/story/Fintech_Company_PayBy_Launches_Mobile_Payment_Services_in_the_UAE-ZAWYA20200330093210/",
+      "ampWebUrl": "https://www.zawya.com/uae/en/story/amp/ZAWYA20200330093210/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/ZAWYA20200330093210/",
+      "publishedDateTime": "2020-03-30T02:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.zawya.com/resources/img/zawya-logo-en-social.png",
+          "width": 1200,
+          "height": 878,
+          "title": "Fintech Company PayBy launches Mobile Payment Services in the UAE",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-huawei-steps-up-ambitions-in-self-driving-vehicles-race.md",
+      "title": "Huawei steps up ambitions in self-driving vehicles race",
+      "excerpt": "The Chinese company last summer highlighted its ability to develop its own artificial intelligence computing chip, the Ascend 910, which would \"train\" self-driving algorithms and facilitate the development of future-connected cars. \"Everything Apple wants to do Huawei will follow suit,\" said an autonomous driving expert, who requested anonymity ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://asia.nikkei.com/Business/China-tech/Huawei-steps-up-ambitions-in-self-driving-vehicles-race2",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NIKKEI",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-ap-northeast-1.amazonaws.com%2Fpsh-ex-ftnikkei-3937bb4%2Fimages%2F1%2F6%2F6%2F3%2F25873661-1-eng-GB%2FRTX4YZOMre.jpg?source=nar-cms&width=1024&height=512&fit=cover&gravity=faces",
+          "width": 1024,
+          "height": 512,
+          "title": "Huawei steps up ambitions in self-driving vehicles race",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
       "title": "Extending the power of Azure AI to Microsoft 365 users",
       "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
@@ -1057,213 +1250,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-how-artificial-intelligence-can-aid-eye-testing.md",
-      "title": "How artificial intelligence can aid eye testing",
-      "excerpt": "From diagnostics to drug development, artificial intelligence (AI) today has become a valuable extension of the medical field. A new addition to its long list of uses is a hi-tech screening tool developed by Google and an international team of researchers for detecting diabetic retinopathy a diabetic complication in the eye. A study conducted ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
-      "publishedDateTime": "2020-03-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/science/bxexes/article31192454.ece/ALTERNATES/LANDSCAPE_615/29TH-SCIFUNDUSpng",
-          "width": 615,
-          "height": 384,
-          "title": "How artificial intelligence can aid eye testing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-sells-stake-in-israeli-face-recognition-firm.md",
-      "title": "Microsoft sells stake in Israeli face recognition firm",
-      "excerpt": "AnyVision, founded in 2015, is a leading computer vision company specializing in face, body, and object-recognition software. It develops core software solutions that make all cameras smart.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sify.com/finance/microsoft-sells-stake-in-israeli-face-recognition-firm-news-topnews-ud2nSchcbifgg.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-28T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/microsoft_ud2nSchcdgiii.jpg",
-          "width": 1350,
-          "height": 750,
-          "title": "Microsoft sells stake in Israeli face recognition firm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-to-divest-anyvision-stake-end-face-recognition-investing.md",
-      "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-      "excerpt": "Microsoft Corp on Friday said it would sell its stake in AnyVision, an Israeli facial recognition startup, and said it no longer would make minority investments in companies that sell the controversial technology.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-microsoft-anyvision-idUSKBN21E3BA",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21E3BA",
-      "publishedDateTime": "2020-03-27T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20200328&t=2&i=1509159992&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG2Q222",
-          "width": 818,
-          "height": 545,
-          "title": "Microsoft to divest AnyVision stake, end face recognition investing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-textio-lays-off-30-amid-covid-19-seattle-startup-hopes-its-ai-writing-tech-will-aid-all-job-seekers.md",
-      "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
-      "excerpt": "Textio, the Seattle startup whose augmented writing platform helps companies use language that attracts ... there’s some opportunity to support job seekers in this environment,” Snyder said of the desire to quickly implement new features in Textio’s AI-powered natural language processing technology. Job seekers using Textio would be ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/",
-      "ampWebUrl": "https://www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/textio-lays-off-30-amid-covid-19-seattle-startup-hopes-ai-writing-tech-will-aid-job-seekers/amp/",
-      "publishedDateTime": "2020-03-27T22:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2016/11/textio_life_new_brand_800px-630x323.jpg",
-          "width": 630,
-          "height": 323,
-          "title": "Textio lays off 30 amid COVID-19; Seattle startup hopes its AI writing tech will aid all job seekers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work.md",
-      "title": "Microsoft gives clean chit to Israeli facial recognition startup on its work",
-      "excerpt": "March 27 (Reuters) - Microsoft Corp said on Friday a probe found that an Israeli facial recognition startup it funded is not enabling a mass surveillance program in the West Bank as reported by some media outlets. AnyVision, based outside Tel Aviv, has come under scrutiny following reports by Haaretz’s TheMarker business newspaper and NBC ...",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/microsoft-anyvision/microsoft-gives-clean-chit-to-israeli-facial-recognition-startup-on-its-work-idUSL4N2BK4O4",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BK4O4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BK4O4",
-      "publishedDateTime": "2020-03-27T17:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft gives clean chit to Israeli facial recognition startup on its work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

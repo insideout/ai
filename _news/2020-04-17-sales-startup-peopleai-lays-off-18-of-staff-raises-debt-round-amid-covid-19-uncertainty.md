@@ -28,6 +28,6 @@ images:
     height: 683
     title: "Sales startup People.ai lays off 18% of staff, raises debt round amid COVID-19 uncertainty"
 
-secured: "ae9/jG1CXqo1xhzf65OKSYWCVbAmE1WStbdnf5jlHF6UcwQo4iwuoc4Te1MaiGS7Lwle45YUAxCYj0oo3zlFGSIVze3z21S/G5kCAGQ6RAhanQCazV5v1jeY3el4JDKkifp69YHX9Uj7HKWhgf4tkmgJBc6nTu7XTL9Wj5gbj9vmvKPx7L7srpBrMoSGfKP1DbLz8mjQmijXZEm4ADNer0vr9eIlM6FXjCYksRdfUrzwaLF0Co4FxQUgoH9zO/z0QqJAAhzN3mZDMHV+BmMxG+xUaH/WxqGvCZSdYdsjR28i7txzLvulZZJuqzMl5+fQ;t6yZSaQeYs7n0vF/IrsF/A=="
+secured: "7+phAkHXLYLtCFcXl3UhBCe6W9nvZRqdZhJadFOlLsTr5PNeaEc51/voXnmB/oQ4ZnUpolz3UZCo6LtGQmcz4Aeim3/Z/P0dUvw3JlBpT9VSMsA1dEbZdrd0SHiYOotrJi8Jb1eKIEsHl528PnNBmHAWN1mWXc4/eKwHoZyRFwzWeT+onMZnmbvWdlSwYKEoLjmg9vM6SACSdf8r6Rw1KuJjkr77U0wBqYpQcDpmKztabCfdpLcDALaVHJLpUEc1tlesefbVONk//TyE5YlBJ2ZXZvNJHEkLbeWzX1ief6sf44RbHO2PQMcTSDcp7mX78u3BIYKJE9WWs1oV/D0vuHn9FblR99mU/qruuLVt18Jc+ujjbUQjVxlbJLn7RiGumORkL+34C6dsKputfPYz68PtT0aim6JV3HK4Ukj7TQ+xOGiDD7suh5nEQQQgc7r+2ohrC3HaAK+Fhr/v/VqCD3DINZgZUhor4GFamevxVec=;lVeuka2JXX//F5Y7hGBLVg=="
 ---
 

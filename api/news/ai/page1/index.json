@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-17-san-francisco-orders-residents-to-wear-face-masks.md",
+      "title": "San Francisco Orders Residents To Wear Face Masks",
+      "excerpt": "The city joins New York and Los Angeles County in mandating residents and essential workers wear face masks outside their homes.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/",
+      "publishedDateTime": "2020-04-17T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F630811497%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5534%26cropY1%3D300%26cropY2%3D3413",
+          "width": 1200,
+          "height": 675,
+          "title": "San Francisco Orders Residents To Wear Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
+      "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+      "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "publishedDateTime": "2020-04-17T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99d3447be2870006ce16f8%2F0x0.jpg",
+          "width": 1200,
+          "height": 1203,
+          "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
       "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
       "excerpt": "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ...",
@@ -88,6 +178,44 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
+      "title": "Google unveils TensorFlow tool for making mobile-ready models",
+      "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.html",
+      "ampWebUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html",
+      "publishedDateTime": "2020-04-17T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
       ]
     },
     {
@@ -396,6 +524,51 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
+      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+      "excerpt": "Cerebras is one of a handful of companies that are creating specialized hardware for AI algorithms. Last year, it came out of stealth with the release of the CS-1, a huge processor with 1.2 trillion transistors, 18 gigabytes of on-chip memory, and 400,000 processing cores. Effectively, this allows the CS-1, the largest computer chip ever made ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
+      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
+      "publishedDateTime": "2020-04-17T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-could-s/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-fi_khzt.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -732,50 +905,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
-      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-      "excerpt": "When Mohammad Haft-Javaherian, a student at the Massachusetts Institute of Technology, attended MIT’s Green AI Hackathon in January, it was out of curiosity to learn about the capabilities of a new supercomputer cluster being showcased at the event.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
-      "ampWebUrl": "https://www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=true",
-      "publishedDateTime": "2020-04-17T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02XDOnKfv0oxVzeS0HviIbQ-1.fit_lim.size_1200x630.v_1586975953.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses.md",
       "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
       "excerpt": "Follow these tips to add artificial intelligence or machine learning tech to your business without breaking the bank.",
@@ -826,10 +955,10 @@
       "heat": 81,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "publishedDateTime": "2020-04-17T05:05:00-07:00",
+      "webUrl": "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-17T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VICE",
@@ -1085,7 +1214,7 @@
       "path": "_news/2020-04-17-facebook-to-warn-users-who-liked-or-shared-coronavirus-hoaxes.md",
       "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
       "excerpt": "Facebook says those warning labels have stopped 95 per cent of users from clicking ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
@@ -1168,140 +1297,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-computer-vision-market-key-facts-and-forecast-predictions-presented-until-2025.md",
-      "title": "Computer Vision Market: Key Facts and Forecast Predictions Presented Until 2025",
-      "excerpt": "According to our research team, the Global Computer Vision Market was valued at USD 11.02 billion in 2017 and is projected to reach USD 19.98 billion by 2025, growing at a CAGR of 7.8% from 2018 to 2025.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-key-facts-and-forecast-predictions-presented-until-2025-2020-04-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Computer Vision Market: Key Facts and Forecast Predictions Presented Until 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-toyota-backed-ponyai-to-offer-autonomous-delivery-service-in-california.md",
-      "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
-      "excerpt": "Toyota-backed self driving company Pony.ai said on Friday it would provide an autonomous delivery service to residents of Irvine, California, as demand for online orders surges because of the coronavirus lockdown.",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-pony-ai-idUSKBN21Y3GK",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21Y3GK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Y3GK",
-      "publishedDateTime": "2020-04-16T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200416&t=2&i=1515404415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3F2IJ",
-          "width": 821,
-          "height": 545,
-          "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
-      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
-      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
-      "publishedDateTime": "2020-04-16T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

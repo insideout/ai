@@ -2,6 +2,222 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-17-moodys-analytics-wins-an-artificial-intelligence-award.md",
+      "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
+      "excerpt": "Moody’s Analytics, a global provider of financial intelligence, has won the Best Financial Services AI Solution category at the 2019 Artificial Intelligence Awards. We won this award for the QUIQspread™ solution,",
+      "heat": 67,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/moodys-analytics-wins-an-artificial-intelligence-award-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Moody’s Analytics Wins an Artificial Intelligence Award",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity.md",
+      "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
+      "excerpt": "Also: Gap picks Microsoft Azure as preferred cloud vendor: Here's a look at the digital transformation ... Either way, Gap will have a laundry list of projects including: Data analytics and data science infrastructure. Machine learning efforts to improve marketing and supply chain. Customer targeting. Executing a mobile-first strategy.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/gap-nixes-plan-to-spin-off-old-navy-amid-cost-complexity/",
+      "publishedDateTime": "2020-01-17T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/07/23/1ce990cb-03ad-4814-af69-e4abc58ddfcc/thumbnail/1200x675/f3e8f8bcd73481326d927b2638178e1c/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Gap nixes plan to spin off Old Navy amid cost, complexity",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-applying-deep-learning-to-localization-microscopy.md",
+      "title": "Applying Deep Learning to Localization Microscopy",
+      "excerpt": "Two such technologies that can be combined to produce a better understanding of biological systems are localization microscopy and deep learning. Localization microscopy is a recently developed technique that has the potential to transform our understanding of cell function at the molecular level. It provides pin-point accurate information ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/life-sciences/Applying-Deep-Learning-to-Localization-Microscopy.aspx",
+      "publishedDateTime": "2020-01-17T02:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1096541144_80b03e6813c6441f98f150075dcfff1e-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Applying Deep Learning to Localization Microscopy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026.md",
+      "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+      "excerpt": "The Global Machine Learning Market is carefully researched in the report while largely concentrating on top players and their business tactics, geographical expansion, market segments, competitive landscape,",
+      "heat": 125,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-and-technology-advancements-2020-to-2026-2020-01-17",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-17T00:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Rising Trends and Technology Advancements 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
+      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "ampWebUrl": "https://www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
+      "publishedDateTime": "2020-01-17T00:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
+          "width": 640,
+          "height": 358,
+          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-apples-latest-deal-shows-how-ai-is-moving-right-onto-devices.md",
       "title": "Apple's Latest Deal Shows How AI Is Moving Right Onto Devices",
       "excerpt": "It’s all about keeping an edge in AI ... by adding more AI to the edge. “Machine learning is going to happen at the edge in a big way,” predicts Subhasish Mitra, a professor at Stanford who is working on low-power chips for AI. “The big question is how do you do it efficiently? That requires new hardware technology and design.",
@@ -846,229 +1062,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-googles-ai-language-model-reformer-can-process-the-entirety-of-novels.md",
-      "title": "Google’s AI language model Reformer can process the entirety of novels",
-      "excerpt": "We believe Reformer gives the basis for future use of Transformer models, both for long text and applications outside of natural language processing,” added Kaiser and Kitaev. In an interview late last year, Google AI chief Jeff Dean told VentureBeat that larger context would be a principal focus of Google’s work going forward.",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/googles-ai-language-model-reformer-can-process-the-entirety-of-novels/amp/",
-      "publishedDateTime": "2020-01-16T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI language model Reformer can process the entirety of novels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-how-ai-technology-will-change-the-way-we-treat-advertising-in-2020.md",
-      "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
-      "excerpt": "Very soon, marketing personalization strategies will largely depend on smart automation technologies to make each customer part of a fascinating branding experience.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/16/how-ai-technology-will-change-the-way-we-treat-advertising-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/973718316/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How AI Technology Will Change The Way We Treat Advertising In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-amazon-details-the-ai-behind-alexas-whisper-mode.md",
-      "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-      "excerpt": "In October 2018, months after a brief reveal, Amazon brought Whisper Mode to select third- and first-party Alexa devices. It expanded the feature to all locales in November 2019, such that all smart and smart home appliances powered by Alexa — the company’s virtual assistant — now respond to whispered speech by whispering back. Amazon was ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/16/amazon-details-the-ai-behind-alexas-whisper-mode/amp/",
-      "publishedDateTime": "2020-01-16T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon details the AI behind Alexa’s Whisper Mode",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020.md",
-      "title": "AI To Data Privacy: How Hiring Tools And Trends Will Drive Workplace Changes In 2020",
-      "excerpt": "Tremendous shifts in the workplace are driving significant changes in recruiting and hiring as employers attempt to find qualified candidates in today’s highly competitive labor market. Here’s what employers must keep in mind in 2020.",
-      "heat": 90,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alonzomartinez/2020/01/16/ai-to-data-privacy-how-hiring-tools-and-trends-will-drive-workplace-changes-in-2020/amp/",
-      "publishedDateTime": "2020-01-16T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1193887587%2F0x0.jpg",
-          "width": 1200,
-          "height": 763,
-          "title": "AI To Data Privacy: How Hiring Tools And Trends Will Drive Workplace Changes In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020.md",
-      "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-      "excerpt": "HTF MI newly added the Global Artificial Intelligence Platform Market Study that gives meticulous investigation of current scenario of the Market size, share, demand, growth, trends, and forecast in the coming years.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-outlook-poised-for-a-strong-2020-2020-01-16",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-16T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Platform Market Outlook: Poised For a Strong 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

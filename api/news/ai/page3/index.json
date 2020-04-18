@@ -2,6 +2,131 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
+      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "publishedDateTime": "2020-04-16T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
+          "width": 1200,
+          "height": 1015,
+          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
+      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
+      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "publishedDateTime": "2020-04-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-collective-mobilization-can-help-start-ups-fight-covid-19-outbreak.md",
+      "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
+      "excerpt": "On the flip side, Hong Kong-based AI healthcare startup Insilico Medicine recently opened its drug compound database to pharmaceutical companies worldwide to help speed up the identification of a COVID-19 cure. This type of open collaboration between startups and big industry is imperative to saving lives. Going forward, startups and industry ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/349364",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349364",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349364",
+      "publishedDateTime": "2020-04-16T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200218131007-shutterstock-580313551.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-global-artificial-intelligence-ai-in-healthcare-market-growth-size-share-trends-status-and-forecast-2020-2027.md",
       "title": "Global Artificial Intelligence (AI) in Healthcare Market Growth, Size, Share, Trends, Status and Forecast 2020-2027",
       "excerpt": "A new research report titled “Global Artificial Intelligence (AI) in Healthcare market” successfully exhibits the complete scenario of the global and an individual analysis of the various regional segments.",
@@ -96,7 +221,7 @@
       "path": "_news/2020-04-16-sproutai-raises-25m-to-speed-up-insurance-claims.md",
       "title": "Sprout.ai raises $2.5M to speed up insurance claims",
       "excerpt": "Founded in 2018, Sprout.ai has developed AI-based software that it says enables insurance claims to be settled within “just 24 hours”. Specifically, it uses natural language processing and optical character recognition to understand unstructured insurance claim data, and then combines this with real-time external data such as weather ...",
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://techcrunch.com/2020/04/15/sprout-ai/",
@@ -186,7 +311,7 @@
       "path": "_news/2020-04-16-samsung-and-xilinx-partner-on-chips-for-5g-networks.md",
       "title": "Samsung and Xilinx partner on chips for 5G networks",
       "excerpt": "In an email, Manuel Uhm, director of silicon marketing at Xilinx, said these chips work well for 5G. That’s because the AI engines within the AI Core series have been optimized for advanced signal processing, as well as AI inference. In particular, for signal processing, the AI engines were developed with 5G wireless algorithms in mind ...",
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/15/samsung-and-xilinx-team-up-on-chips-behind-5g-networks/",
@@ -497,7 +622,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 96,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
@@ -1207,133 +1332,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-intel-10th-gen-comet-lake-h-review-the-best-core-i7-in-a-laptop-you-can-buy.md",
-      "title": "Intel 10th-gen Comet Lake H review: The best Core i7 in a laptop you can buy",
-      "excerpt": "The pure CPU-focused AI upscale test takes hours to run. We then ran Topaz Video Enhance AI on a GPU, upping the conversion resolution to 4K. This is a realistic task for someone who wants to take a 2009-era Flip video and convert it to 4K for display on a TV.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.html",
-      "ampWebUrl": "https://www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537536/intel-10th-gen-comet-lake-h-review-we-test-the-core-i7-10875h-mobile-cpu.amp.html",
-      "publishedDateTime": "2020-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/04/gigabyte-aero-17-intel-core-i7-10875h-primary-100838509-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Intel 10th-gen Comet Lake H review: The best Core i7 in a laptop you can buy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing.md",
-      "title": "Microsoft’s New Azure Edge Zones Highlights Opportunity To Combine 5G And Edge Computing",
-      "excerpt": "Microsoft's latest Azure Edge Zone offerings typify the kind of widely distributed, heterogenous computing-focused and modern software-based efforts that 5G networks will start to enable.",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/",
-      "ampWebUrl": "https://www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bobodonnell/2020/04/15/microsofts-new-azure-edge-zones-highlights-opportunity-to-combine-5g-and-edge-computing/amp/",
-      "publishedDateTime": "2020-04-15T05:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-edited-raises-29-million-to-optimize-product-pricing-with-ai.md",
-      "title": "Edited raises $29 million to optimize product pricing with AI",
-      "excerpt": "Edited, a retail tech company leveraging AI to optimize product pricing, today announced that it raised $29 million. CEO Geoff Watts said the tranche will be put toward R&D and hiring as the company expands its global presence. Tools like Edited serve a real and present need in the over $3.53 trillion retail ecommerce market. Where price ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/edited-raises-29-million-to-optimize-product-pricing-with-ai/amp/",
-      "publishedDateTime": "2020-04-15T05:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/ecommerce-shutterstock_654465205-e1586371476558.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Edited raises $29 million to optimize product pricing with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

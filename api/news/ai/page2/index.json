@@ -2,10 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-17-computer-vision-market-key-facts-and-forecast-predictions-presented-until-2025.md",
+      "title": "Computer Vision Market: Key Facts and Forecast Predictions Presented Until 2025",
+      "excerpt": "According to our research team, the Global Computer Vision Market was valued at USD 11.02 billion in 2017 and is projected to reach USD 19.98 billion by 2025, growing at a CAGR of 7.8% from 2018 to 2025.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-key-facts-and-forecast-predictions-presented-until-2025-2020-04-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-16T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Computer Vision Market: Key Facts and Forecast Predictions Presented Until 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-toyota-backed-ponyai-to-offer-autonomous-delivery-service-in-california.md",
+      "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+      "excerpt": "Toyota-backed self driving company Pony.ai said on Friday it would provide an autonomous delivery service to residents of Irvine, California, as demand for online orders surges because of the coronavirus lockdown.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-pony-ai-idUSKBN21Y3GK",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN21Y3GK",
+      "publishedDateTime": "2020-04-16T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20200416&t=2&i=1515404415&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG3F2IJ",
+          "width": 821,
+          "height": 545,
+          "title": "Toyota-backed Pony.ai to offer autonomous delivery service in California",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-ponyai-partners-with-yamibuy-on-autonomous-deliveries.md",
+      "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+      "excerpt": "Self-driving startup Pony.ai today announced that it’s collaborating with Yamibuy ... as well as reduce the risk of infection in the course of deliveries. Former Baidu chief architect James Peng cofounded Pony.ai in 2016 with Tiancheng Lou, who worked at Google X’s autonomous car project before it was spun off into Waymo.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/pony-ai-partners-with-yamibuy-to-autonomously-deliver-goods-to-irvine-customers/amp/",
+      "publishedDateTime": "2020-04-16T16:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Photo2-e1587077842271.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Pony.ai partners with Yamibuy on autonomous deliveries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-autonomous-driving-startup-ponyai-takes-on-last-mile-delivery.md",
       "title": "Autonomous-Driving Startup Pony.ai Takes On Last-Mile Delivery",
       "excerpt": "With autonomous-vehicle companies parked by Covid-19, Pony.ai has teamed up with Los Angeles-based e-commerce site Yamibuy to deliver packages and groceries in the city of Irvine. Yamibuy specializes in Asian foods and home goods.",
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.bloomberg.com/news/articles/2020-04-16/autonomous-driving-startup-pony-ai-takes-on-last-mile-delivery",
@@ -658,7 +792,7 @@
       "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
       "title": "MindsDB raises $3 million for open source automated machine learning",
       "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
-      "heat": 106,
+      "heat": 107,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
@@ -1171,131 +1305,6 @@
           "width": 1200,
           "height": 630,
           "title": "Automotive Artificial Intelligence Market Gain Impetus due to the Growing Demand over 2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
-      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
-      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
-      "publishedDateTime": "2020-04-16T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
-          "width": 1200,
-          "height": 1015,
-          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
-      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
-      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
-      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
-      "publishedDateTime": "2020-04-16T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
-          "width": 400,
-          "height": 303,
-          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-collective-mobilization-can-help-start-ups-fight-covid-19-outbreak.md",
-      "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
-      "excerpt": "On the flip side, Hong Kong-based AI healthcare startup Insilico Medicine recently opened its drug compound database to pharmaceutical companies worldwide to help speed up the identification of a COVID-19 cure. This type of open collaboration between startups and big industry is imperative to saving lives. Going forward, startups and industry ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349364",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349364",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349364",
-      "publishedDateTime": "2020-04-16T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200218131007-shutterstock-580313551.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
           "attribution": null
         }
       ],

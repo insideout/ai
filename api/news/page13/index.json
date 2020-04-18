@@ -2,6 +2,205 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-06-apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test.md",
+      "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
+      "excerpt": "Instead of a top-to-bottom refresh of the service, Apple has spent nearly a decade making small improvements to various features, and now another one’s coming: The company has acquired an Irish voice AI company called Voysis to help fix one of Siri’s most glaring issues. While Siri has scored pretty well on Loup Ventures’ annual Digital ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test/amp/",
+      "publishedDateTime": "2020-04-06T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/voysis2.jpg?fit=2545%2C1273&strip=all",
+          "width": 2545,
+          "height": 1273,
+          "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-why-ai-startups-economics-will-likely-improve-over-time.md",
+      "title": "Why AI startups’ economics will likely improve over time",
+      "excerpt": "Hello and welcome back to our regular morning look at private companies, public markets and the gray space in between. If you can recall February, we dug into the question of AI startup gross margins. Venture shop a16z had published an interesting blog on the subject, arguing that it may be the case that AI-focused startups will enjoy strong ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/06/why-ai-startups-economics-will-likely-improve-over-time/amp/",
+      "publishedDateTime": "2020-04-06T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/argo-ai-detroit.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Why AI startups’ economics will likely improve over time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-ai-blockchain-transforming-the-banking-sector.md",
+      "title": "AI & Blockchain: Transforming the banking sector",
+      "excerpt": "In recent times, there has been a lot of interest towards companies that provide AI & Blockchain based solutions and platforms in the BFSI domain. The advent of the bitcoin led to the recognition of blockchain as a transparent payment and documentation mechanism.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/fintech-ai-blockchain-transforming-the-banking-sector-5113561.html/amp",
+      "publishedDateTime": "2020-04-06T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static-news.moneycontrol.com/static-mcnews/2017/12/Rubique_Digital-payment_cover-378x213.jpg",
+          "width": 378,
+          "height": 213,
+          "title": "AI & Blockchain: Transforming the banking sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
+      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/facial-recognition-market-size-share--trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020---2027-301035717.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-samsung-demonstrates-worlds-first-mcptx-video-call-on-aws.md",
+      "title": "Samsung Demonstrates World’s First MCPTX Video Call on AWS",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200406005496/en/Samsung-Demonstrates-World’s-MCPTX-Video-Call-AWS",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200406005496/en/783465/23/Samsung_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Samsung Demonstrates World’s First MCPTX Video Call on AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
       "title": "Microsoft Azure Speech to Text review",
       "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
@@ -167,14 +366,14 @@
     {
       "path": "_news/2020-04-06-watson-speech-to-text-review.md",
       "title": "Watson Speech to Text review",
-      "excerpt": "But price, integration complexity, and somewhat patchy BETA features may put some businesses off. Watson is IBM’s natural-language-processing computer system. It powers the famous question-answering supercomputer as well as a series of AI-based enterprise products, including Watson Speech to Text. In our Watson Speech to Text review ...",
+      "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/in/reviews/watson-speech-to-text-review",
+      "webUrl": "https://www.techradar.com/reviews/watson-speech-to-text-review",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T03:24:00-07:00",
+      "publishedDateTime": "2020-04-06T03:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -815,191 +1014,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-how-deepminds-agent57-outperformed-humans-in-57-atari-games.md",
-      "title": "How DeepMind’s Agent57 Outperformed Humans In 57 Atari Games",
-      "excerpt": "In a paper published by DeepMind, a team of scientists from Alphabet’s UK-based research division has claimed that Agent57 – the first deep reinforcement learning agent – has outperformed humans on all 57 Atari 2600 games in the Arcade Learning Environment data set. Agent57 combines an algorithm to efficiently explore a meta controller ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/how-deepminds-agent57-outperformed-humans-in-57-atari-games/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-04T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/AGENT57.jpg",
-          "width": 1440,
-          "height": 634,
-          "title": "How DeepMind’s Agent57 Outperformed Humans In 57 Atari Games",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-how-travel-apps-are-using-ai-to-personalize-the-experience.md",
-      "title": "How Travel Apps Are Using AI To Personalize The Experience",
-      "excerpt": "The goal of AI implementation in the travel industry is to improve people’s experience in planning trips and booking accommodation.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/",
-      "ampWebUrl": "https://www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ilkerkoksal/2020/04/04/how-travel-apps-are-using-ai-to-personalize-the-experience/amp/",
-      "publishedDateTime": "2020-04-04T00:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1198489788%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": "How Travel Apps Are Using AI To Personalize The Experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
-      "title": "The Global Face Recognition Market is expected to...",
-      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
-      "publishedDateTime": "2020-04-03T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-apple-acquires-ai-startup-to-better-understand-natural-language.md",
-      "title": "Apple Acquires AI Startup to Better Understand Natural Language",
-      "excerpt": "Voysis provided this AI to other companies to incorporate it into their own apps and voice assistants. Read more about the startup here: Synthesizing Realistic Human Speech Just Got a Lot Easier An Apple spokesman said the company “buys smaller technology companies from time to time, and we generally do not discuss our purpose or plans.”",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-04-03/apple-acquires-ai-startup-to-better-understand-natural-language",
-      "publishedDateTime": "2020-04-03T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration.md",
-      "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
-      "excerpt": "The devices, which are powered by the NVIDIA Jetson Nano running a Quad-core ARM A57, feature built in TensorFlow support to make edge AI prototyping more accessible for software engineers. According to the company, the AI devices streamline the software-hardware integration and provide users the following benefits: - Easy to customize modular ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.embedded-computing.com/news/gumstix-ai-series-for-nvidia-jetson-nano-features-tensorflow-pre-integration",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded Computing Design",
-        "domain": "embedded-computing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://share.opsy.st/5e879c92ccff4-Screen+Shot+2020-04-03+at+1.28.54+PM.png",
-          "width": 367,
-          "height": 496,
-          "title": "Gumstix AI Series for NVIDIA Jetson Nano Features TensorFlow Pre-Integration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

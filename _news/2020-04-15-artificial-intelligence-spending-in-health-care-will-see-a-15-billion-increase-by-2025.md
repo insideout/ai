@@ -8,7 +8,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will?amp"
 type: article
 quality: 82
-heat: 96
+heat: 92
 published: true
 
 provider:

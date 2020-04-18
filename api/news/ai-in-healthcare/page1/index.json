@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-17-this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling.md",
+      "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+      "excerpt": "Systems and Sociometrica analyze the sentiment of 63,000 social media posts each day to determine the emotional state of the internet in response to COVID-19.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2020/04/17/this-artificial-intelligence-extracts-emotions-and-shows-what-people-are-feeling/amp/",
+      "publishedDateTime": "2020-04-17T15:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e99d3447be2870006ce16f8%2F0x0.jpg",
+          "width": 1200,
+          "height": 1203,
+          "title": "This Artificial Intelligence Extracts Emotions And Shows What People Are Feeling",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-artificial-intelligence-trends-to-watch-out-for.md",
       "title": "Artificial Intelligence Trends To Watch Out For",
       "excerpt": "Trends and predictions in Artificial Intelligence can be difficult to predict, but one thing is certain - AI will make significant strides in the healthcare sector more so now given that we are battling a once in a lifetime pandemic. Although many businesses today throw the term “AI” around casually in their grey literature, it perfectly ...",
@@ -186,7 +231,7 @@
       "path": "_news/2020-04-15-artificial-intelligence-spending-in-health-care-will-see-a-15-billion-increase-by-2025.md",
       "title": "Artificial intelligence spending in health care will see a $1.5 billion increase by 2025",
       "excerpt": "If the coronavirus has proven anything, it’s that health care organizations can no longer ignore the role of artificial intelligence in their daily work. In a report released by ABI Research, AI spending in the health care and pharmaceutical industries is expected to increase from $463 million in 2019 to more than $2 billion over the next ...",
-      "heat": 96,
+      "heat": 92,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355336/artificial-intelligence-spending-in-health-care-will",
@@ -1200,51 +1245,6 @@
           "width": 1200,
           "height": 675,
           "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-how-artificial-intelligence-is-helping-fight-the-covid-19-pandemic.md",
-      "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
-      "excerpt": "Related: We're In This Together: Business Resources, Offers, And More For MENA Entrepreneurs To Get Through The Coronavirus Pandemic As research details emerge, the data pool grows exponentially, beyond the capacity of human intelligence alone to handle ... 2. VIRTUAL HEALTHCARE ASSISTANTS (CHATBOTS) The number of COVID-19 cases has shown ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348368",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348368",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348368",
-      "publishedDateTime": "2020-03-29T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20180508043336-shutterstock-618326639.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
           "attribution": null
         }
       ],

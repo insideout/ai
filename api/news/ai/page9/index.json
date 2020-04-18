@@ -2,6 +2,222 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-04-07-self-driving-cars-are-helping-the-coronavirus-fight-in-florida.md",
+      "title": "Self-driving cars are helping the coronavirus fight in Florida",
+      "excerpt": "With already limited staff, it's hard for people to be everywhere at once. Now, the Mayo Clinic is using self-driving cars to ease the burden. On March 30, the Mayo Clinic in Florida launched its program with four vehicles. The shuttles, which do not have any attendants or people onboard, transfer coronavirus tests and medical supplies from a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125",
+      "ampWebUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "publishedDateTime": "2020-04-07T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2020/4/7/29123b17-85f2-46ca-b31f-a9dcde4d2b1e-screen-shot-2020-04-07-at-15630-pm.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars are helping the coronavirus fight in Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-optimizing-japanese-text-to-speech-with-amazon-polly.md",
+      "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+      "excerpt": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-japanese-text-to-speech-with-amazon-polly/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T10:59:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/11/24/polly-social.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Optimizing Japanese text-to-speech with Amazon Polly",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-microsofts-cto-explains-how-ai-can-help-health-care-in-the-us-right-now.md",
+      "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
+      "excerpt": "Scott’s book tackles how artificial intelligence and machine learning can help rural America in a more grounding way, from employment to education to public health. In one chapter of his book, Scott focuses on how AI can assist with health care and diagnostic issues — a prominent concern in the US today,",
+      "heat": 90,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/7/21210331/vergecast-interview-microsoft-cto-kevin-scott-ai-rural-america-health-care",
+      "publishedDateTime": "2020-04-07T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/TrMdv5CKOKd-anE8ovz4hZ2WC84=/0x0:1314x739/1400x933/filters:focal(558x160:768x370):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66617290/y648_1.0.jpg",
+          "width": 1314,
+          "height": 739,
+          "title": "Microsoft’s CTO explains how AI can help health care in the US right now",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-the-quest-for-a-better-blockchain-former-microsoft-ai-chief-invests-in-seattle-startup-asensys.md",
+      "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
+      "excerpt": "Harry Shum, former head of Microsoft’s AI and Research Group, in his Redmond office in 2017. (GeekWire File Photo / Todd Bishop) Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/",
+      "ampWebUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
+      "publishedDateTime": "2020-04-07T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/harryshum-1-1-630x418.png",
+          "width": 630,
+          "height": 418,
+          "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks.md",
+      "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+      "excerpt": "Facebook’s AI moderators claimed another innocent victim this week when an algorithm blocked content on DIY coronavirus masks. The system threatened to ban mask makers in Pennsylvania, Illinois, and California, The New York Times reports. These groups were set up to fill a gap in protective gear that has forced hospital staff to don ski ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
+      "publishedDateTime": "2020-04-07T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design54-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe.md",
       "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
       "excerpt": "It all started when International Business Machines Corporation (NYSE: IBM) joined forces with the open-source software giant Red Hat. The deal was closed in July 2019,",
@@ -346,6 +562,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
       "title": "5 practical reasons to embrace artificial intelligence",
       "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
@@ -560,44 +813,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "publishedDateTime": "2020-04-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Facebook AI"
       ]
     },
     {
@@ -1081,215 +1296,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update.md",
-      "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
-      "excerpt": "The Pixel 4 may have one of the more advanced hardware in that market but it had one very peculiar misfeature. While the Pixel 4’s face recognition was proven to be quite accurate, it may have been too accurate to the extent that it can recognize and authorize faces even with their eyes closed. Although it can’t be fooled by photos ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/",
-      "ampWebUrl": "https://www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/pixel-4-face-unlock-can-finally-require-eyes-to-be-open-in-april-update-06615753/amp/",
-      "publishedDateTime": "2020-04-06T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/04/google-pixel-4-30.jpg",
-          "width": 1280,
-          "height": 800,
-          "title": "Pixel 4 Face Unlock can finally require eyes to be open in April update",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
-      "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Automated Machine Learning (AutoML) Market",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-powering-the-edge-with-ai-in-an-iot-world.md",
-      "title": "Powering The Edge With AI In An IoT World",
-      "excerpt": "The edge has to be powered with more processing power. This will enable enterprises to run AI models at the edge, thereby bringing more intelligence to the edge.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/06/powering-the-edge-with-ai-in-an-iot-world/amp/",
-      "publishedDateTime": "2020-04-06T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-89.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Powering The Edge With AI In An IoT World",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
-      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
-          "width": 2000,
-          "height": 1333,
-          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
-      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
-          "width": 1630,
-          "height": 952,
-          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

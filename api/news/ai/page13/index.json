@@ -2,6 +2,183 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-03-amazon-stands-for-nothing-that-almost-makes-it-beautiful.md",
+      "title": "Amazon stands for nothing. That almost makes it beautiful",
+      "excerpt": "“We feel really great and really strongly about the value that Amazon Rekognition is providing our customers of all sizes and all types of industries in law enforcement and out of law enforcement.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/co/1364409/amazon-stands-for-nothing-that-almost-makes-it-beautiful/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qz-news.imgix.net/1364409/thumbnail?auto=compress",
+          "width": 1400,
+          "height": 786,
+          "title": "Amazon stands for nothing. That almost makes it beautiful",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-artificial-intelligence-and-natural-language-processing.md",
+      "title": "Artificial Intelligence and Natural Language Processing",
+      "excerpt": "To send content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about sending ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cambridge.org/core/browse-subjects/computer-science/artificial-intelligence-and-natural-language-processing/listing",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-emerging-from-ai-utopia.md",
+      "title": "Emerging from AI utopia",
+      "excerpt": "There has been a proliferation of AI ethics frameworks that provide guidance in identifying the ethical implications of new technologies and propose ways to develop and use these technologies for the better. The Australian Human Rights Commission's Human Rights and Technology Discussion Paper acknowledges an important role for ethics frameworks ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://science.sciencemag.org/content/368/6486/9",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science",
+        "domain": "sciencemag.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://science.sciencemag.org/content/368/6486/F1.medium.gif",
+          "width": 346,
+          "height": 440,
+          "title": "Emerging from AI utopia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-sentiveillance-60-facial-identification-and-object-recognition-technology.md",
+      "title": "SentiVeillance 6.0 Facial Identification and Object Recognition Technology",
+      "excerpt": "Neurotechnology released the SentiVeillance 6.0 software development kit (SDK), which provides improved facial recognition using ... provides real-time moving object detection; tracking ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/product/12322276/neurotechnology-sentiveillance-60-facial-identification-and-object-recognition-technology",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Officer",
+        "domain": "officer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-top-artificial-intelligence-funding-and-investments-in-march-2020.md",
+      "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+      "excerpt": "What Artificial Intelligence has in its baggage is known to everyone and ... Therefore, we have brought you some of the most recent and significant AI funding and investments of 2020. Waymo, Alphabet’s self-driving car unit, just raised billions of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.analyticsinsight.net/top-artificial-intelligence-funding-and-investments-in-march-2020/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2020/04/software_robots-top-526940848.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Top Artificial Intelligence Funding and Investments in March 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-your-face-is-going-places-you-may-not-like.md",
       "title": "Your Face Is Going Places You May Not Like",
       "excerpt": "In a study by the ACLU, Amazon’s Rekognition software accidentally matched 28 members of congress with mugshots in its database. The training set isn’t the only problem for recognition.",
@@ -1068,206 +1245,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-why-robots-will-save-your-career-not-destroy-it.md",
-      "title": "Why Robots Will Save Your Career, Not Destroy It",
-      "excerpt": "AI, despite the challenges it poses for job seekers and the hiring process, is not a problem to be solved — it's a ray of hope.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/02/why-robots-will-save-your-career-not-destroy-it/amp/",
-      "publishedDateTime": "2020-04-02T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-61.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "Why Robots Will Save Your Career, Not Destroy It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-phantom-ai-raises-22-million-to-develop-adas-products.md",
-      "title": "Phantom AI raises $22 million to develop ADAS products",
-      "excerpt": "Phantom AI, a startup developing advanced driver-assistance systems (ADAS) for cars and trucks, today announced that it has raised $22 million. CEO Hyunggi Cho says it will enable the company to expand availability of its modular, software-based platform, which lets OEMs and Tier 1 automakers select components they wish to integrate and ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/phantom-ai-raises-22-million-to-develop-adas-products/amp/",
-      "publishedDateTime": "2020-04-02T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/0-5-e1585160578767.jpeg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Phantom AI raises $22 million to develop ADAS products",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
-      "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. \"While helping government agencies and healthcare ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-884893590.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
-          "width": 1650,
-          "height": 864,
-          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks.md",
-      "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
-      "excerpt": "The Founder of Robotic Trucking startup Starsky recently provided deep details on why they shut down. Here's some examination of his key points, and whether his failure bodes badly for the whole industry.",
-      "heat": 111,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
-      "publishedDateTime": "2020-04-02T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e851f8c2b3ff900068e6e3c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-deepminds-agent57-can-beat-average-humans-at-57-atari-games.md",
-      "title": "DeepMind’s ‘Agent57’ Can Beat Average Humans At 57 Atari Games",
-      "excerpt": "In a recent paper published by Google subsidiary, DeepMind has stated that the company has developed a new artificial intelligence — Agent57 designed to play and beat an average human at 57 classic Atari games, in the Arcade Learning environment. The system has been developed by combining deep reinforcement learning with an ML technique in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/deepminds-agent57-can-beat-average-humans-at-57-atari-games/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
