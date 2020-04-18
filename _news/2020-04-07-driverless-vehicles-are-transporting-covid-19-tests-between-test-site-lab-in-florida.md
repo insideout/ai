@@ -22,6 +22,6 @@ images:
     height: 635
     title: "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida"
 
-secured: "zcACN+c2dZF33pGrhZrs+zumnyMwIrmIxjLS0Ei8Ahme65Ohro7DjRly0bu1BfIAKtJbNvbDpVmBxi4oVMShb5k0G3ih1nCptDyDJ+a2wHmctK9399C2eINNQhqxhmuaiFR+wQOFyvzV9mKnseqyinwrGaDzTLzTR+1u0Ug97+OMviwye6sFcrh8TZNohS0pFUYVAjf9p8AKOGmdMNKsea/I03wGWt6DSsWsFzRyEbDxuRVqYZIImkRumn03n1GTInPQ25ZC13cJTKE6ntDMuSCrzgajRSEQ2gzzo9VbGvO1zxTzYhBPw8Xx8+secCws;p8KA0yrEvKGsuTzHyepOJg=="
+secured: "gtfdcOjUDeDyOdzABw4USPSsWxeCYC7JqWgSjVuHTBsg7Ba+z6K4DgcDYhwaW4lPSwQGzDD/Ob+gJMBKrfVpLCPDD7j34fXLkJIcicQJDE0smY+FPNLqhZVB1L6tOvBPbYSV6MhaVh/JeI2UhFzah23XCjEth7CzBCPGAsAD4bf7cvKvQ7Fwscc3jaV9duJ3pQ/jGxKCtH7zFH4wKT5NZu1GYfcT/yYBSlH+nH7LZjDK1L71IQDiWM5vNmYkmHXYOVlZsvwy/bujYMpz0nUD/mMXC50W2tvYaBleACgTJUhyMbttRClrHI2vJSHID7Au;BbHKmibslTw7eMEcePanZg=="
 ---
 
