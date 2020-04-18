@@ -64,7 +64,7 @@ related:
     provider:
       name: Hindustan Times
       domain: hindustantimes.com
-    quality: 24
+    quality: 41
   - title: "Microsoft adds 5 new Indian languages to its Translator service"
     excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
     publishedDateTime: 2020-04-16T17:26:00Z

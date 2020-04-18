@@ -2,6 +2,50 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-26-is-ai-enabled-voice-cloning-the-next-big-security-scam.md",
+      "title": "Is AI-Enabled Voice Cloning the Next Big Security Scam?",
+      "excerpt": "A company that specializes in detecting voice fraud is sounding the alarm over an emerging threat. With the help of AI-powered software, cybercriminals are starting to clone people’s voices to commit scams, according to Vijay Balasubramaniyan, CEO of ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam",
+      "ampWebUrl": "https://www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/is-ai-enabled-voice-cloning-the-next-big-security-scam?amp=true",
+      "publishedDateTime": "2020-02-26T15:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/00qALkcUOsHsCITmseFIx8j-1.fit_lim.size_1200x630.v_1582752685.jpg",
+          "width": 1119,
+          "height": 630,
+          "title": "Is AI-Enabled Voice Cloning the Next Big Security Scam?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-top-intel-ai-exec-naveen-rao-departs-after-nervana-pivot.md",
       "title": "Top Intel AI Exec Naveen Rao Departs After Nervana Pivot",
       "excerpt": "\"By moving to a single hardware architecture and software stack for data center AI acceleration, our engineering teams can join forces and focus on delivering more innovation, faster to our customers.\" Intel had been developing the Nervana chips since it acquired the namesake company, Nervana Systems, for a reported $408 million in 2016.",
@@ -1037,50 +1081,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-tempos-1995-fitness-tracker-taps-ai-to-improve-your-workout-routine.md",
-      "title": "Tempo’s $1,995 fitness tracker taps AI to improve your workout routine",
-      "excerpt": "Can AI and machine learning improve the quality of your workout routine? As the wearable AI market climbs to $180 billion, Tempo (previously Pivot), is betting that it can. Today, the startup launched a $1,995 AI-powered home fitness system (with a $200 down deposit and $35 monthly subscription) that will begin shipping in Summer 2020.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/26/tempos-1995-fitness-tracker-taps-ai-to-improve-your-workout-routine/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/26/tempos-1995-fitness-tracker-taps-ai-to-improve-your-workout-routine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/26/tempos-1995-fitness-tracker-taps-ai-to-improve-your-workout-routine/amp/",
-      "publishedDateTime": "2020-02-26T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/07_Tempo_User_Interface-e1582146540481.png?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Tempo’s $1,995 fitness tracker taps AI to improve your workout routine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

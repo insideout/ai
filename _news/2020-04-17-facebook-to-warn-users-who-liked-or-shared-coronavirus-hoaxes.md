@@ -8,7 +8,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-use
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

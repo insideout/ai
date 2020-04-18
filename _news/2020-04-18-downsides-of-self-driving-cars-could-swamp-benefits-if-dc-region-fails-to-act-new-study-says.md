@@ -25,6 +25,6 @@ images:
     height: 1080
     title: "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, new study says"
 
-secured: "lUezJWj5UeTfqSAHBN++7hlI0oYM3Q81hQMbXlwUi6gCL5ZQgn5XvM21+O8TgHcmYHcLw6Z5mcTcaLEisLimFrnh3/mHDmhM5uFTLXKh6xN/YzUYlM2wxXhxQPJh3VMTKSIEalHxg0L+zBY2LjJ3vFrgEVwFOtR8T+zVRzEIZpa/Pd+r2EvjUdtEZIBVEcYmAH3xhFWo/Mpn8h4gPvL01JFJ8+C+lYC8ZURApZnw0QY48UKrBH7gqZ/8LAMhnjlLVG+ddaa5aa1mQs1D3YsXc1S00bud1c944efIGBrqUWUe4G9HEuadyYLkB1T/6leY;eW2eHxgF38gTEjmmQhXTDQ=="
+secured: "ZemLY5UIEavh+biX/TYZI4TuU6BS+KxGeS2qyJrRS37LfImAAgJ0Fkxf5PA+fE+r8DxXN8JeiPY5yjGf9774GQ1R9342OPko9nUhxiEvSOup/GiEbfFzSkOasIXLC9bvxmnca6hME7zRNKF7MC8tVfNLLJj6ndyzoy9NckBYlAICzNkuFmQdsGWXdLZ/CAj2wPZ/KbJMCY8yto1QU6VMkBaxDcbOaeasPiFp4OyXAqtdie5b0s3/YmmBROPi7GQj5TZDj/F6hQ218erFRjD/YQvEyJUqGiqrtNw/gjhrgb/1Z1EP62KTVVEwTMHNYuvmlKS8Uqy/sdzCWBM9X9/gAMw2MrUQWZZp0ZufqNmH/657sw8JeENCChUEb5f9TxqzcObFS1zzq4q9Va5LLT5WibwYVDYJz/Q+i0TWPRosEJHBP0u8zfwr7CdLa7Vt4m5c4fzYiYqi7rKrr42HaJAoXKlXyHPEZ/o4moWYznACJp0=;XUKXlkJeonDjesuDWEKsaQ=="
 ---
 

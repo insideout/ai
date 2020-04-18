@@ -1,25 +1,23 @@
 ---
 category: news
 title: "Artificial intelligence can speed up the detection of stroke"
-excerpt: "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion ..."
-publishedDateTime: 2020-03-30T14:28:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-03/uot-aic033020.php"
+excerpt: "Scientists have created a fully automated method for acute ischemic lesion segmentation on brain MRIs and shows how artificial intelligence ... for endovascular therapy. Lesion segmentation ..."
+publishedDateTime: 2020-03-30T00:00:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/03/200330152137.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/228023_web.jpg"
-    width: 453
-    height: 509
-    title: "Artificial intelligence can speed up the detection of stroke"
-
-secured: "P7q9FtS3/v2f/A5mp8ZXfPd7/XW+jMcN5GQ/NeGXLtgCipScr3VkxOn4psTBNgfQMHMfEAdVlcmE+T8p54g7hYM/kLbpEJnsSaM0aEWRIN2w39vx9bzDgv0WpxdCf+CVfIlPolgF3QC2RjUssswc6plJlZs4YJKYigk/88IZ7tyXqI8PE5xqou9R+xTgUAWb0y63XxhHkUZ8aHgtEPMUy/bndOQunSWexXqWBUNBzqvu93IZUhzlcRr0Y+qTzQX8ZG9ghBbdiBDjvVodfBkA+LRajm6rSDlqqFXrt2JF5v+gpdXubL9NS8ZPLNWYQyH4;om5iTy01im0hhRL9WumrFg=="
+secured: "bnIvLqClq0H/GHHNuzcnde5y4DSRL3Arb2cKODnvNy79tqxvDKwSpmADU4c8UqrcnPjMqrONtl10dFbdNLUq8kbcmScwEe9t1q2+VYMIHj639ln68Kx1EoiKXpj9qiKGaGglHw8WtmwVa8U5170v8SIOwM/FxOMr/BE8SerTk7epd1NYjeFoNP3aWZKHUiU6DJZFDA4yxCgRiltbIfmXdt/6oCDfPXu+mYzuk5BxA8l76vsYkdX242wTwmy/OqQXz2tMG9LTDfZ6aRX1LFOYm3zVtfJQArH78hwlBPIog1dHIwirCy43Dm3r7vgBxyDM;APlB1IyMx6rPAzsWdLJ2kA=="
 ---
 

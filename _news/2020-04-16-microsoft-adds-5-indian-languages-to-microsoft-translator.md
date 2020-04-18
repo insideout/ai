@@ -7,7 +7,7 @@ webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-t
 ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
 cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
 type: article
-quality: 24
+quality: 41
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 related:
   - title: "Microsoft Translator gets 5 new Indian Languages: Know what they are"

@@ -41,6 +41,17 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/04/microsoft-translator-1587047031.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
+    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
+    publishedDateTime: 2020-04-16T17:58:00Z
+    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
+    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
+    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 41
   - title: "Now Microsoft Translator available in five new Indian languages"
     excerpt: "According to the company, users can avail the benefits of artificial intelligence (AI) and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows. The app can recognise and translate languages from ..."
     publishedDateTime: 2020-04-16T14:16:00Z
@@ -54,17 +65,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal%2F2020-04%2Fd561d636-0a81-4a26-9a3e-04195d699bdc%2Fmicrosoft.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 687
-  - title: "Microsoft adds 5 Indian languages to Microsoft Translator"
-    excerpt: "Microsoft India has announced that its Microsoft Translator will now offer real time translation in five additional languages including Gujarati, Marathi, Kannada, Malayalam and Punjabi."
-    publishedDateTime: 2020-04-16T17:58:00Z
-    webUrl: "https://www.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL.html"
-    ampWebUrl: "https://m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    cdnAmpWebUrl: "https://m-hindustantimes-com.cdn.ampproject.org/c/s/m.hindustantimes.com/tech/microsoft-adds-5-indian-languages-to-microsoft-translator/story-yzTyLkYzC1HHdnua3FwpcL_amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 24
   - title: "Microsoft adds 5 new Indian languages to its Translator service"
     excerpt: "This takes the total number of Indian languages supported to 10, including Bengali, Hindi, Tamil, Telugu and Urdu. With this, the service will now allow over 90 per cent of Indians to access information and work in their native/preferred languages,"
     publishedDateTime: 2020-04-16T17:26:00Z
