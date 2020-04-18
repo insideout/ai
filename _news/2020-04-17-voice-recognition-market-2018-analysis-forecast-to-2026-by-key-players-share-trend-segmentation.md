@@ -37,6 +37,19 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 19
+  - title: "In-Flight Voice Recognition Market Global Demand | Regional Analysis, Key Players, Industry Segments, Development, Opportunities by Forecast to 2024"
+    excerpt: "Market Insight Global In-Flight Voice Recognition Market is expected to grow at a significant rate owing to high"
+    publishedDateTime: 2020-04-13T13:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/in-flight-voice-recognition-market-global-demand-regional-analysis-key-players-industry-segments-development-opportunities-by-forecast-to-2024-2020-04-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
   - title: "Southeast Asia Data Center Markets - Industry Outlook and Forecast 2020-2025: COVID-19 Impact Included - ResearchAndMarkets.com"
     excerpt: "AWS, and Alibaba to open cloud regions. The adoption of cloud-based services will be a key driver for the market in the next few years. Increasing internet penetration is likely to aid the use of smart devices in this region. The impact of big data, IoT, artificial intelligence, and virtual reality will have a major impact on market growth in ..."
     publishedDateTime: 2020-04-17T08:36:00Z

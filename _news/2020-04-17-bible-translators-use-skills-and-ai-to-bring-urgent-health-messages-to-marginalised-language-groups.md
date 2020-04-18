@@ -3,7 +3,7 @@ category: news
 title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
 excerpt: "The pioneering work is being led by Steve Moitozo, Daniel Whitenack and Rob Hess of SIL International, a partner organisation of Wycliffe Bible Translators, with a helping hand from AI. \"Much of the world's digital media is available in only a couple of dozen languages, and translation platforms like Google Translate only support around 100 ..."
 publishedDateTime: 2020-04-17T08:40:00Z
-webUrl: "https://www.christiantoday.com/article/bible-translators-use-skills-and-ai-to-bring-urgent-health-messages-to-marginalised-language-groups/134708.htm"
+webUrl: "https://www.christiantoday.com/article/bible.translators.use.skills.and.ai.to.bring.urgent.health.messages.to.marginalised.language.groups/134708.htm"
 type: article
 quality: 25
 heat: 25
@@ -23,6 +23,6 @@ images:
     height: 720
     title: "Bible translators use skills and AI to bring urgent health messages to marginalised language groups"
 
-secured: "04IRD+HBjJ1gsQAprhWzgL3vPBgI/qmPST3J1eITOwOWn3qn+jJAq0tBkscT2iyvizDyAy/iqgqcv8uf6uZ9RMFocuuErJpsqxoO3RZ8FhVxcu2Yg5XFRdis8MiR5C/O9M0O+3Y5KFMAxfwFK2HpDKzvR/qOXJw6AoZvIgc/38ak+HxmMFixxVtExlwkHBc6ZRk9UcGkK+dAgUuCJShsYGhv1cDTNy48K1zzsaXNikGYnGCj6u47KWzLo6UvnwCVAFnbx3EQtwTeh2U1AQRgUEQHqAmBhzpNTxP8gA49ABiUwJ8uSS4jd5frjWGUL42y;NfylSLmQndVBEJSrGIyEyQ=="
+secured: "KtZMyeOxxNM2dv4d9Mpznyx2rjAK/5n4Btkl/cbIzl0peOafnv27A/mqu7vOmm3t9z/gWgwavX686hORiVPv2SPNm7hEJoZcH11cy8PcoCradJD654eVvut7wWF3UCSYty4Sc+GYsVP2nqLU/IdXLwYalegCRWm8Xybf/kow6mPVo1c2a6OZEWFkZ7CjcrOVY/9WZXdhNIj1Cq/BNT/ij1yNNnoUVj5/YKO/Ylo2FpHLkd4IzmdgH2KamwyX0K1vSCGKovtaebrReLM4119e7TFUYuALBg5TmzDsiS5Rbsi/uxgPuDEYYxhhCvvDR1GI;BusO406+bqM8rmxx8NaPRQ=="
 ---
 

@@ -33,6 +33,21 @@ related:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/04/microsoft-translator-1587047031.jpg"
         width: 1200
         height: 675
+  - title: "Microsoft adds five Indian languages to Microsoft Translator"
+    excerpt: "According to Microsoft, “Language translation is a core part of Microsoft products and services. Users can avail the benefits of AI and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows."
+    publishedDateTime: 2020-04-18T04:12:00Z
+    webUrl: "https://www.digit.in/news/apps/microsoft-adds-five-indian-languages-to-microsoft-translator-53626.html"
+    ampWebUrl: "https://www.digit.in/article/amp/apps/53626/microsoft-adds-five-indian-languages-to-microsoft-translator"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/apps/53626/microsoft-adds-five-indian-languages-to-microsoft-translator"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 44
+    images:
+      - url: "https://static.digit.in/default/223b47fd8c7f598a1e46c43038d9d58c33f10470.jpeg"
+        width: 1280
+        height: 720
   - title: "Now Microsoft Translator available in five new Indian languages"
     excerpt: "According to the company, users can avail the benefits of artificial intelligence (AI) and Deep Neural Networks-enhanced, real-time translation in all these languages while using Bing and the Microsoft Translator website, as well as the Microsoft Translator App for Android, IOS and Windows. The app can recognise and translate languages from ..."
     publishedDateTime: 2020-04-16T14:16:00Z

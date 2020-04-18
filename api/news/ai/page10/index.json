@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-07-introducing-incremental-enrichment-in-azure-cognitive-search.md",
+      "title": "Introducing incremental enrichment in Azure Cognitive Search",
+      "excerpt": "Incremental enrichment is a new feature of Azure Cognitive Search that brings a declarative approach to indexing your data. When incremental enrichment is turned on, document enrichment is performed at the least cost, even as your skills continue to evolve. Indexers in Azure Cognitive Search add documents",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/introducing-incremental-enrichment-in-azure-cognitive-search/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T02:00:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/11209cb0-9fc2-4d87-8210-62744f0df29a.png",
+          "width": 883,
+          "height": 462,
+          "title": "Introducing incremental enrichment in Azure Cognitive Search",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-at-cagr-of-38-machine-learning-as-a-service-mlaas-market-share-detailed-analysis-market-growth-size-trends-and-forecast-to-2023.md",
       "title": "At CAGR of 38%, Machine Learning-as-a-Service (MLaaS) Market Share, Detailed Analysis, Market Growth, Size, Trends and Forecast to 2023",
       "excerpt": "Global “Machine Learning-as-a-Service (MLaaS) Market”is analyzed byproduct types, applicationsand key market players formarket size, share, sales (consumption), gross margin and revenue. The Machine Learning-as-a-Service (MLaaS) Market data from the year 2015 to 2017 is primary basis of this research and the forecast period being 2019-2023.",
@@ -94,27 +139,27 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automated-machine-learning-automl-market/article_b1f573a7-0862-5891-ad0e-504da49e8a5b.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:45:00-07:00",
+      "publishedDateTime": "2020-04-06T19:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
           "title": "Automated Machine Learning (AutoML) Market",
           "attribution": null
         }
@@ -1228,50 +1273,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-microsofts-ai-recommends-lockdown-strategies-to-curb-coronavirus.md",
-      "title": "Microsoft’s AI recommends lockdown strategies to curb coronavirus",
-      "excerpt": "A preprint paper coauthored by researchers at Microsoft, the Indian Institute of Technology, and TCS Research (the R&D division of Tata Consultancy Services) describes an AI framework designed to help cities and regions make policy decisions about lockdowns, closures, and physical distancing in response to COVID-19. They claim that because it ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/",
-      "publishedDateTime": "2020-04-06T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s AI recommends lockdown strategies to curb coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

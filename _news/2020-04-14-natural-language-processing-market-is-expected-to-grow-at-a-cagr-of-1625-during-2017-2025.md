@@ -6,8 +6,8 @@ publishedDateTime: 2020-04-14T04:23:00Z
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: MarketWatch
@@ -28,41 +28,28 @@ images:
     title: "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025"
 
 related:
-  - title: "Artificial Intelligence (AI) Market Value Growing at a US$ 160 Bn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends."
-    publishedDateTime: 2020-04-13T12:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-value-growing-at-a-us-160-bn-by-2026-2020-04-13"
+  - title: "Artificial Intelligence in the Military Market is anticipated to grow at a CAGR of 14.35% During Forecast Period 2019 to 2024"
+    excerpt: "Market Insight The growth of the global artificial intelligence in the military market can be attributed to the"
+    publishedDateTime: 2020-04-16T13:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-military-market-is-anticipated-to-grow-at-a-cagr-of-1435-during-forecast-period-2019-to-2024-2020-04-16"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 81
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-  - title: "Artificial Intelligence (AI) Market Projected to Reach at a US$ 160 Bn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends."
-    publishedDateTime: 2020-04-14T12:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-projected-to-reach-at-a-us-160-bn-by-2026-2020-04-14"
+  - title: "The data center power market is expected to grow at a CAGR of over 11% during the period 2019-2025"
+    excerpt: "NEW YORK, April 15, 2020 /PRNewswire/ -- In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Data Center Power Market Report Read the full report:  The data center power market is expected to grow at a CAGR of over 11% during the period 2019–2025."
+    publishedDateTime: 2020-04-15T12:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-data-center-power-market-is-expected-to-grow-at-a-cagr-of-over-11-during-the-period-2019-2025-2020-04-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Deep Learning Market Value Growing at a US$ 56,427.2 Mn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends."
-    publishedDateTime: 2020-04-13T12:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-value-growing-at-a-us-564272-mn-by-2026-2020-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

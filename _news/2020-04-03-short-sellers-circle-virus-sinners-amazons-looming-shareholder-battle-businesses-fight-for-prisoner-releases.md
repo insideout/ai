@@ -1,15 +1,12 @@
 ---
 category: news
 title: "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases"
-excerpt: "For the second year in a row, Amazon shareholders will vote on the company’s facial identification technology, known as Rekognition, after the SEC rejected Amazon’s request to block the proposal. The petition requests an independent report to determine whether the company’s use of surveillance products contributes to human rights violations."
+excerpt: "For the second year in a row, Amazon shareholders will vote on the company’s facial identification technology, known as Rekognition, after the SEC rejected Amazon’s request to block the proposal."
 publishedDateTime: 2020-04-03T10:34:00Z
-webUrl: "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93"
+webUrl: "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93?src=rss"
 ampWebUrl: "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
   name: The Financial Times
@@ -25,6 +22,6 @@ images:
     height: 281
     title: "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases"
 
-secured: "a8A6vzvQkUPEEfGCT62hGgNUW92zSL9/EpxIb64VDGLJDHQGoYZx7gUFq3hwPbrg8y6YWDPGCF7FVxUukeyVItgRdCB739edxZtrtkv37kiCQ75/FiQa5zAGs4ltz9A6Y/9Ms5qbSp/cHSsxr78Pd4VfJBNgnFm4s0L4gDXqwSjr3Pi9+Yj8bex0mKaxRYqIPeXxOD+DROgU5vHy4LkBSZCe/i0MB78mWc7APLMBqJdU6exKRZpztnfwgBFp+CSTl+9P/q0Aq6B5dTcS8QCA7JEhb4sB1V97sPCc8L4oQGxw8f3KPEHBoEggcppQa7gO1Cdkuac5AP/sRetcVZc4Eck9BASUpvyyU5N3sqrUEPI6jOmjYiyhIBjgXJ0s9V6Xrmr6ji6agdb39Ty5OT06Rom1/8I0hLyCtGcYbWD4yIBERJZTzX08xhTQH9h5qZpAAUUw2MbO+ziuq1eBaCC5X2dWCaWL1z1hkJeJ5AAKSiU=;dNdQxMx2gHFlkcuV89HAFA=="
+secured: "n95R9tOf4kayWe/EeC7Ke7DjVjPAU+a4S2EuAUICmezPfRwvgidpm2V/kR2l1xMwUrbLc32MFzcOOTtSnaFV/WtD1bkosZmYwkhkGIKg5/B+8W0MKGGSmwNxLw2LYPcMMKD6leRYtUCrz5Ev9LVpGU3rMxrUWJhSD0+rN357W7Yspnl0vcQGqjGhTMFX1iL2rN6TuusFhPH6pEZ2/37UEdVtFzSleeXnKkRPvXqqUYR0Iz7V9h3DcQCmEd/0o10wEJ1sOEP1SExoI8DYnDeaA/e+a5QdpRkFcd58amnaO9lF+A26bI14WTmBj1LXmKgT;1JptvicpoPot2OVmYpjTXA=="
 ---
 

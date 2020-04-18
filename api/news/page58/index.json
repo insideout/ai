@@ -2,6 +2,133 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-02-26-macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist.md",
+      "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
+      "excerpt": "GATINEAU, Quebec, Feb. 26, 2020 /PRNewswire/ -- Macadamian, a leading digital and connected healthcare software development consultancy, announced that it will host a webinar with Microsoft Canada titled AI in Healthcare: 5 Things Every Product Owner Should Know.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/macadamian-to-host-ai-in-healthcare-webinar-with-microsoft-canadas-national-chief-data-scientist-2020-02-26",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-26T03:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Macadamian to host AI in Healthcare webinar with Microsoft Canada's National Chief Data Scientist",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-chinese-facial-recognition-can-now-identify-people-wearing-masks.md",
+      "title": "Chinese facial recognition can now identify people wearing masks",
+      "excerpt": "Chinese companies specialising in facial recognition have upgraded the technology to identify people wearing masks in the wake of the coronavirus outbreak. China's AI champion SenseTime, the most valuable AI startup in the world, is one of several firms ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8046325/amp/Chinese-facial-recognition-identify-people-wearing-masks.html",
+      "publishedDateTime": "2020-02-26T03:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mail Online",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/02/26/11/25217416-0-image-a-20_1582715621043.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Chinese facial recognition can now identify people wearing masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-nvidia-dlss-in-2020-stunning-results.md",
+      "title": "Nvidia DLSS in 2020: Stunning Results",
+      "excerpt": "This AI algorithm also leveraged a new feature on RTX Turing GPUs: the tensor cores. While these cores are most likely included on the GPU to make it also suitable for data center and workstation use cases, Nvidia found a way to use this hardware feature for gaming. Later, Nvidia decided to ditch the tensor cores for their cheaper Turing GPUs ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/article/1992-nvidia-dlss-2020/",
+      "ampWebUrl": "https://www.techspot.com/amp/article/1992-nvidia-dlss-2020/",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/article/1992-nvidia-dlss-2020/",
+      "publishedDateTime": "2020-02-26T03:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/articles-info/1992/images/2020-02-26-image-6.jpg",
+          "width": 3134,
+          "height": 1449,
+          "title": "Nvidia DLSS in 2020: Stunning Results",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-26-ai-comes-to-the-tax-code.md",
       "title": "AI Comes to the Tax Code",
       "excerpt": "Governments are increasingly relying on machine learning and data analytics to analyze troves of data as they seek to detect tax evasion, respond to taxpayers’ questions and make themselves more efficient.",
@@ -923,140 +1050,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-qualcomm-reveals-a-reference-headset-to-show-off-its-xr2-chip.md",
-      "title": "Qualcomm reveals a reference headset to show off its XR2 chip",
-      "excerpt": "As well as 5G, 8K and double the CPU and GPU performance of Qualcomm's previous XR platform, the XR2 headset features four times the video bandwidth, six times higher resolution and eleven times the AI improvements. The design supports up to seven cameras, and includes an IR emitter for hand and head tracking, as well as electromagnetic ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
-      "publishedDateTime": "2020-02-25T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1136%252C703%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C990%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F2fa8ef10-57bc-11ea-a79b-fadd2c116cd6%26client%3Da1acac3e1b3290917d92%26signature%3Da544bb848b9ad95ff869b5ce3575af7cc278222e&client=amp-blogside-v2&signature=6fad935a8e046f3c6bb909cc86d0aa1aa03bc69f",
-          "width": 600,
-          "height": 350,
-          "title": "Qualcomm reveals a reference headset to show off its XR2 chip",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-startup-malaise-startup-ambition.md",
-      "title": "Startup malaise, startup ambition",
-      "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
-      "publishedDateTime": "2020-02-25T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-525848841.jpg?w=1024",
-          "width": 1024,
-          "height": 787,
-          "title": "Startup malaise, startup ambition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers.md",
-      "title": "The future of AI journalism is less hyperbole and smarter readers",
-      "excerpt": "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ...",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
-      "publishedDateTime": "2020-02-25T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
-          "width": 796,
-          "height": 531,
-          "title": "The future of AI journalism is less hyperbole and smarter readers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

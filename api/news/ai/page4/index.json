@@ -1022,16 +1022,16 @@
       ]
     },
     {
-      "path": "_news/2020-04-14-deep-learning-market-value-expand-at-a-us-564272-mn-by-2026.md",
-      "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
-      "excerpt": "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends.",
-      "heat": 109,
+      "path": "_news/2020-04-14-artificial-intelligence-ai-market-projected-to-reach-at-a-us-160-bn-by-2026.md",
+      "title": "Artificial Intelligence (AI) Market Projected to Reach at a US$ 160 Bn by 2026",
+      "excerpt": "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends.",
+      "heat": 118,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-projected-to-reach-at-a-us-160-bn-by-2026-2020-04-14",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-14T05:46:00-07:00",
+      "publishedDateTime": "2020-04-14T05:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1053,7 +1053,7 @@
           "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
-          "title": "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026",
+          "title": "Artificial Intelligence (AI) Market Projected to Reach at a US$ 160 Bn by 2026",
           "attribution": null
         }
       ],
@@ -1062,7 +1062,6 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1246,30 +1245,38 @@
       ]
     },
     {
-      "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
-      "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
-      "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
-      "heat": 84,
+      "path": "_news/2020-04-14-natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025.md",
+      "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
+      "excerpt": "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD",
+      "heat": 79,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html",
-      "ampWebUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
-      "publishedDateTime": "2020-04-13T15:04:00-07:00",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T21:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://media2.govtech.com/images/shutterstock_611607041.jpg",
-          "width": 1148,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
           "height": 630,
-          "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
+          "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
           "attribution": null
         }
       ],
@@ -1278,7 +1285,7 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
         "AI"
       ]
     }

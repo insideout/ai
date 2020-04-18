@@ -2,24 +2,26 @@
 category: news
 title: "Scientific machine learning paves way for rapid rocket engine design"
 excerpt: "One group of researchers at The University of Texas at Austin is developing new \"scientific machine learning\" methods to address this challenge. Scientific machine learning is a relatively new field that blends scientific computing with machine learning. Through a combination of physics modeling and data-driven learning, it becomes possible to ..."
-publishedDateTime: 2020-04-16T23:35:00Z
-webUrl: "https://www.sciencedaily.com/releases/2020/04/200416135837.htm"
+publishedDateTime: 2020-04-16T17:01:00Z
+webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uota-sml041620.php"
 type: article
-quality: 49
-heat: 49
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/229424_web.jpg"
+    width: 1440
+    height: 1028
+    title: "Scientific machine learning paves way for rapid rocket engine design"
 
 related:
   - title: "Computer Vision Research Engineer, Deep Learning (London, UK)"
@@ -36,6 +38,6 @@ related:
         width: 520
         height: 520
 
-secured: "r+6MelSHaOW7cr8QhmnaWqDG2Wu+60z9gf7gFIZX2zGsEFkhz+7z2nl5KGWbw6+Jqjlie1vbEnHLxdDjQ8YHGHU8ggJPksEevWj06Pf8snYpkVgqMRtTsDspWs0rdpzWQuceEcPaBPfekKryWFyK0iKTdtaL0QYU4wuvUYrNEAG/QCvLJKXlqBYoUJpA99ih1KOj1KdkmSavLOYb+VL53B2bKrhG0eY2R8YEmq3fGL97YHZosOG98rf13pqYJ5DTsfxAsYFFX7vuo7gxma9krDxOiy3hOuNPJ86dDEIXmtOm0JPL0tb4fseCfp1WlOCq;rNISMfPvlu1hprmFz1EtSg=="
+secured: "pd3UXU0uGziug/rQQ9E688KZfoW7qvUweyCNkCkDjFZ9zviZVgzMbPIZ8Qw2uRqSPsUt9WcRkOJK4OXdLlLJKdXQo2AHuhb9GLGjM21PpMScox5SxwCtrdN2ineEuoqiS7Edv+RpjkDPPHPxCuknk6pEFB4IATDYgVcK5Z7gKMBIOafAJXLOyfTXSEoagjtQJRyr4X9NECZUklb6tr4i2f4/jdzD45wub/9UC6kfGMg5i1YD67ysDK4uwhuXpdJv7gsRSV/tZvANUSFylnYsEbRdzeavAhka6gYORV17mBkV1mQq7u1khQUtETjo1TCk;29Zh5M6Nz5usKOghq+dcTw=="
 ---
 

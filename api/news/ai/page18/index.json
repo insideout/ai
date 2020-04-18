@@ -2,6 +2,141 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-03-31-artificial-intelligence-cant-create-markets-on-its-own.md",
+      "title": "Artificial Intelligence Can’t Create Markets On Its Own",
+      "excerpt": "There’s plenty of consternation about artificial intelligence replacing many jobs and roles across the economic spectrum, — from salespeople to truck drivers to doctors. It’s worth mentioning, however,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/03/30/artificial-intelligence-cant-create-markets-on-its-own/amp/",
+      "publishedDateTime": "2020-03-30T20:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1143064046%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Artificial Intelligence Can’t Create Markets On Its Own",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-samsung-says-chip-factory-worker-tests-positive-for-virus-output-not-affected.md",
+      "title": "Samsung says chip factory worker tests positive for virus, output not affected",
+      "excerpt": "Chip factories have been largely unaffected by the pandemic which started in China ... The Korea Centers for Disease Control and Prevention reported 78 new cases on Monday, at least 13 of whom were people who arrived from abroad. Purchase the China AI Report 2020 brought to you by SCMP Research and enjoy a 20% discount (original price US$ ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3077672/samsung-says-chip-factory-worker-tests-positive-virus-output-not-affected",
+      "publishedDateTime": "2020-03-30T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/31/6e4808c2-72f7-11ea-ab8f-988daf8efd6f_image_hires_103108.JPG?itok=6oDRT2cN&v=1585621874",
+          "width": 1200,
+          "height": 630,
+          "title": "Samsung says chip factory worker tests positive for virus, output not affected",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-ai-in-fashion-market-next-big-thing-major-giants-microsoft-ibm-google-aws-sap.md",
+      "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
+      "excerpt": "Global AI in Fashion Market Size, Status and Forecast 2020-2026 is latest research study released by HTF MI evaluating the market, highlighting opportunities, risk side analysis, and leveraged with strategic and tactical decision-making support.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fashion-market-next-big-thing-major-giants--microsoft-ibm-google-aws-sap-2020-03-30",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T19:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fashion Market Next Big Thing | Major Giants- Microsoft, IBM, Google, AWS, SAP",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-huawei-has-open-sourced-an-ai-framework-called-mindspore-to-rival-googles-tensorflow.md",
       "title": "Huawei has open sourced an AI framework called MindSpore to rival Google’s TensorFlow",
       "excerpt": "China’s Huawei Technologies Co. Ltd. has open sourced a framework for artificial intelligence-based application development called MindSpore, which was first revealed last year. Huawei developed MindSpore alongside partners including Imperial College London, Peking University and the University of Edinburgh, as well as a Turkish robotics ...",
@@ -623,35 +758,6 @@
       ]
     },
     {
-      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
-      "title": "Artificial intelligence can speed up the detection of stroke",
-      "excerpt": "Artificial intelligence can speed up the detection of stroke by University of Turku Examples of the manual and automated lesion segmentations.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence.html",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-03-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-03-artificial-intelligence.amp",
-      "publishedDateTime": "2020-03-30T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-amazon-proposes-technique-for-improving-computer-vision-models-without-reprocessing.md",
       "title": "Amazon proposes technique for improving computer vision models without reprocessing",
       "excerpt": "They say it enables old models to bypass computing features for all previously seen images every time new ones are added, which could save enterprises developing computer vision-enabled ...",
@@ -1148,96 +1254,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-from-text-to-speech-with-polly-and-rekognition.md",
-      "title": "From text to speech with Polly and Rekognition!",
-      "excerpt": "Today, Artificial Intelligence (AI) is adding another dimension ... the text from images and transform them into audio using AWS services. The user uploads the image in S3 bucket.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@ZamiraJaupaj/from-text-to-speech-with-polly-and-rekognition-b0e12ee072b0",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/679/0*ALJJyqcnrwdPJuU2",
-          "width": 679,
-          "height": 335,
-          "title": "From text to speech with Polly and Rekognition!",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-tesla-self-driving-traffic-light-and-stop-sign-interaction-explained-in-leaked-manual.md",
-      "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
-      "excerpt": "Tesla is about to release a new update that will result in its Autopilot, under its Full Self-Driving package, reacting to traffic light and stop signs. We get the full explanation of how the new feature works, thanks to the leaked manual. As we reported last week, Tesla has started to push an Autopilot update with the actual ability to handle ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/",
-      "ampWebUrl": "https://electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/03/30/tesla-self-driving-traffic-light-stop-sign-explained-leaked-manual/amp/",
-      "publishedDateTime": "2020-03-30T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 482,
-          "title": "Tesla self-driving traffic light and stop-sign interaction explained in leaked manual",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

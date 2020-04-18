@@ -2,6 +2,141 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-02-washington-state-passes-microsoft-approved-facial-recognition-laws.md",
+      "title": "Washington state passes Microsoft-approved facial recognition laws",
+      "excerpt": "Washington state has adopted sweeping facial recognition laws seen as a national model, much to the pleasure of Microsoft president Bill Smith. “This legislation represents a significant breakthrough — the first time a state or nation has passed a new law devoted exclusively to putting guardrails in place for the use of facial recognition ...",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/02/washington-state-passes-microsoft-approved-facial-recognition-laws/amp/",
+      "publishedDateTime": "2020-04-02T07:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design47-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Washington state passes Microsoft-approved facial recognition laws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic.md",
+      "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
+      "excerpt": "After the COVID 19 crisis is over, business success or failure may come down to whether companies have taken advantage of Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
+      "heat": 100,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/",
+      "ampWebUrl": "https://www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/amp/",
+      "publishedDateTime": "2020-04-02T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84e9ffa1a0ef0006051091%2F0x0.jpg%3FcropX1%3D125%26cropX2%3D3963%26cropY1%3D0%26cropY2%3D2160",
+          "width": 1200,
+          "height": 675,
+          "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-microsoft-brings-new-voice-styles-to-azure-cognitive-services.md",
+      "title": "Microsoft brings new voice styles to Azure Cognitive Services",
+      "excerpt": "Microsoft today announced the launch of new neural text-to-speech (TTS) capabilities in Azure Cognitive Services, its suite of AI-imbued APIs and SDKs, that enable developers to tailor the voice of their apps and services to fit their brand. Each of three new styles — newscast, customer service, and digital assistant — offer fluid and ...",
+      "heat": 139,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/microsoft-brings-new-voice-styles-to-azure-cognitive-services/amp/",
+      "publishedDateTime": "2020-04-02T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": "Microsoft brings new voice styles to Azure Cognitive Services",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-robots-are-learning-workplace-etiquette-at-mit.md",
       "title": "Robots are learning workplace etiquette at MIT",
       "excerpt": "While humans learn workplace etiquette on the job, it's of course, a much different value proposition for robots. The machines cannot develop these skills by simply asking questions and understanding commands like the AI in Siri or Alexa, according to researchers at MIT's Computer Science and Artificial Intelligence Laboratory (CSAIL).",
@@ -1111,132 +1246,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-icon-group-partners-with-varian-to-advance-cancer-care-in-the-southern-hemisphere.md",
-      "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-      "excerpt": "This artificial intelligence (AI)-driven holistic adaptive therapy solution is designed to deliver an entire adapted treatment in a typical 15-minute timeslot. Icon Cancer Centre is part of Icon ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere",
-      "ampWebUrl": "https://www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/icon-group-partners-varian-advance-cancer-care-southern-hemisphere?amp",
-      "publishedDateTime": "2020-04-01T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Apr2020/pr-newswire_500_4_23.jpg?itok=ksaCxlcx",
-          "width": 763,
-          "height": 509,
-          "title": "Icon Group Partners with Varian to Advance Cancer Care in the Southern Hemisphere",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-ai-supported-sales-reps-how-to-make-it-work.md",
-      "title": "AI-Supported Sales Reps: How To Make It Work",
-      "excerpt": "AI can help salespeople do more of what they do best, but most efforts to enable reps with AI fail. Here's why, and how to make it work for your organization.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/",
-      "ampWebUrl": "https://www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arunshastri/2020/04/01/ai-supported-sales-reps-how-to-make-it-work/amp/",
-      "publishedDateTime": "2020-04-01T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1132912559%2F0x0.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": "AI-Supported Sales Reps: How To Make It Work",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-an-interview-with-microsoft-president-brad-smith.md",
-      "title": "An interview with Microsoft President Brad Smith",
-      "excerpt": "The post An interview with Microsoft President Brad Smith appeared first on The AI Blog.\n",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.microsoft.com/en-us/research/blog/an-interview-with-microsoft-president-brad-smith/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T13:06:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2020/03/Research_Podcast_Smith_Social_1200x627.png",
-          "width": 1200,
-          "height": 627,
-          "title": "An interview with Microsoft President Brad Smith",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

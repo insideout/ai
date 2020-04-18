@@ -28,15 +28,15 @@ images:
     title: "Automotive Voice Recognition System Market Size Worth Around US$ 39 Bn by 2027"
 
 related:
-  - title: "Deep Learning Market Value Expand at a US$ 56,427.2 Mn by 2026"
-    excerpt: "According to the Acumen Research and Consulting, the global Deep Learning market is expected to reach at US$ 56,427.2 Mn by 2026, along with the projected CAGR of 51.1% from 2020-2026. The published report global Deep Learning market provides a holistic overview of the current market covering the current trends."
-    publishedDateTime: 2020-04-14T12:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-value-expand-at-a-us-564272-mn-by-2026-2020-04-14"
+  - title: "Artificial Intelligence (AI) Market Projected to Reach at a US$ 160 Bn by 2026"
+    excerpt: "According to the Acumen Research and Consulting, the global Artificial Intelligence (AI) market is expected to reach at US$ 160 Bn by 2026, along with the projected CAGR of 49% from 2020-2026. The published report global Artificial Intelligence (AI) market provides a holistic overview of the current market covering the current trends."
+    publishedDateTime: 2020-04-14T12:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-projected-to-reach-at-a-us-160-bn-by-2026-2020-04-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 78
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

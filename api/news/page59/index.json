@@ -2,6 +2,140 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-02-25-qualcomm-reveals-a-reference-headset-to-show-off-its-xr2-chip.md",
+      "title": "Qualcomm reveals a reference headset to show off its XR2 chip",
+      "excerpt": "As well as 5G, 8K and double the CPU and GPU performance of Qualcomm's previous XR platform, the XR2 headset features four times the video bandwidth, six times higher resolution and eleven times the AI improvements. The design supports up to seven cameras, and includes an IR emitter for hand and head tracking, as well as electromagnetic ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/25/qualcomm-reference-headset-xr2-chip-platform/",
+      "publishedDateTime": "2020-02-25T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1136%252C703%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C990%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F2fa8ef10-57bc-11ea-a79b-fadd2c116cd6%26client%3Da1acac3e1b3290917d92%26signature%3Da544bb848b9ad95ff869b5ce3575af7cc278222e&client=amp-blogside-v2&signature=6fad935a8e046f3c6bb909cc86d0aa1aa03bc69f",
+          "width": 600,
+          "height": 350,
+          "title": "Qualcomm reveals a reference headset to show off its XR2 chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-startup-malaise-startup-ambition.md",
+      "title": "Startup malaise, startup ambition",
+      "excerpt": "In spite of a spate of massive startup exits the last few months ... What if we could instantly and easily build best-of-breed AI models to solve even our simplest decision-making problems?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/startup-malaise-startup-ambition/amp/",
+      "publishedDateTime": "2020-02-25T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-525848841.jpg?w=1024",
+          "width": 1024,
+          "height": 787,
+          "title": "Startup malaise, startup ambition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers.md",
+      "title": "The future of AI journalism is less hyperbole and smarter readers",
+      "excerpt": "In it, he discusses the 2017 hype-explosion surrounding Facebook’s AI research lab developing a pair of chat bots that created a short-hand language for negotiating. In reality, the chat bots’ behavior was remarkable but not entirely unexpected. Unfortunately the media at-large covered the interesting event as though SKYNET from the ...",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/25/the-future-of-ai-journalism-is-less-hyperbole-and-smarter-readers/amp/",
+      "publishedDateTime": "2020-02-25T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2017/05/3061093760_b92f06b7ba_o-796x531.jpg",
+          "width": 796,
+          "height": 531,
+          "title": "The future of AI journalism is less hyperbole and smarter readers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-save-97-off-this-machine-learning-data-science-certification-training-bundle.md",
       "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
       "excerpt": "Master the Most Important Deep Learning Frameworks for Python Data Science Tensorflow Masterclass For Machine Learning and Artificial Intelligence in Python Complete Tensorflow Mastery For Machine Learning & Deep Learning in Python Python Regression Analysis: Statistics & Machine Learning Learn Complete Hands-On Regression Analysis for ...",
@@ -954,132 +1088,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-artificial-intelligence-hub-planned-for-orange-county.md",
-      "title": "Artificial intelligence hub planned for Orange County",
-      "excerpt": "HIGHLAND FALLS – A local economic development agency has big ambitions to lure researchers and companies to the Village of Highland Falls to study artificial intelligence ... of tasks normally requiring human intelligence, including visual perception, speech recognition and decision-making. Robots, self-driving cars and missile systems ...",
-      "heat": 169,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county",
-      "ampWebUrl": "https://www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
-      "cdnAmpWebUrl": "https://www-recordonline-com.cdn.ampproject.org/c/s/www.recordonline.com/news/20200224/artificial-intelligence-hub-planned-for-orange-county?template=ampart",
-      "publishedDateTime": "2020-02-24T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "recordonline.com",
-        "domain": "recordonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.recordonline.com/apps/pbcsi.dll/bilde?Site=TH&Date=20200224&Category=NEWS&ArtNo=200229625&Ref=AR",
-          "width": 6000,
-          "height": 4000,
-          "title": "Artificial intelligence hub planned for Orange County",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-ai-chatbot-maker-babylon-health-attacks-clinician-in-pr-stunt-after-he-goes-public-with-safety-concerns.md",
-      "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
-      "excerpt": "Babylon’s PR also claims that only in 20 instances did Watkins find “genuine errors in our AI”, whereas other instances are couched as ‘misrepresentations’ or “mistakes”, per an unnamed “panel of senior clinicians” which the startup’s PR says “investigated and re-validated every single one” — suggesting the error rate ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/25/first-do-no-harm/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/25/first-do-no-harm/amp/",
-      "publishedDateTime": "2020-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/Screenshot-2020-02-26-at-01.21.20.png?w=680",
-          "width": 680,
-          "height": 362,
-          "title": "AI chatbot maker Babylon Health attacks clinician in PR stunt after he goes public with safety concerns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-25-deepmind-develops-ai-with-an-imagination.md",
-      "title": "DeepMind Develops AI With An Imagination",
-      "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geek.com/tech/deepmind-develops-ai-with-an-imagination-1708908/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-24T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geek.com",
-        "domain": "geek.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.geek.com/wp-content/uploads/2017/07/ai-2.jpg",
-          "width": 690,
-          "height": 388,
-          "title": "DeepMind Develops AI With An Imagination",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],
