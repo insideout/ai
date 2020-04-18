@@ -46,43 +46,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
-      "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
-      "excerpt": "Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just received DKK 33 million (EUR 4.4 million) from the prestigious EU framework programme Future and Emerging Technologies (FET ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news2/newsid=54899.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-08T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nanowerk.com/nanotechnology-news2/id54899_1.jpg",
-          "width": 300,
-          "height": 390,
-          "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-08-is-nvidia-stock-a-buy.md",
       "title": "Is NVIDIA Stock a Buy?",
       "excerpt": "Those who have followed tech stocks like NVIDIA know the case for buying this company well. The GPU company orchestrated a comeback by turning to new technologies. Innovations related to artificial intelligence (AI), virtual reality (VR), the Internet of Things (IoT), and other industries will become more prominent in the near future.",
@@ -168,6 +131,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-08-using-nano-scale-spintronics-researchers-aim-to-build-novel-artificial-brain.md",
+      "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+      "excerpt": "New research project to develop AI hardware; a completely new kind of computer system that mimics how the human brain is built up. Out with CPUs and memory storage, and in with artificial neural networks that can increase computer performance by up to 100,000 times compared to modern supercomputers. Researchers from Aarhus University have just ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-04/au-uns040820.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia/pub/web/228779_web.jpg",
+          "width": 1440,
+          "height": 2159,
+          "title": "Using nano-scale spintronics, researchers aim to build novel artificial brain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -267,7 +267,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics/",
+      "webUrl": "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T04:39:00-07:00",
@@ -526,11 +526,11 @@
     {
       "path": "_news/2020-04-08-insights-on-the-worldwide-automated-machine-learning-market-2020-to-2030-growing-healthcare-industry-presents-opportunities-researchandmarketscom.md",
       "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
-      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the deployment type segment is expected to record the fastest growth during the forecast period.",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/Insights-Worldwide-Automated-Machine-Learning-Market-2020",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-08T01:36:00-07:00",

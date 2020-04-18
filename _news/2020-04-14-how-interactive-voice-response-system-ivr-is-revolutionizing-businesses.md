@@ -25,21 +25,6 @@ images:
     height: 445
     title: "How Interactive Voice Response System (IVR) Is Revolutionizing Businesses"
 
-related:
-  - title: "Research Collection: Research Supporting Responsible AI"
-    excerpt: "When systems function in the physical world or when their shortcomings can pose risks to human lives, problems in system reliability translate to risks in safety. We recognize that when AI systems are used in applications ... including enhancing fairness in natural language processing, reducing bias, promoting social equality, and improving ..."
-    publishedDateTime: 2020-04-13T20:07:00Z
-    webUrl: "https://www.microsoft.com/en-us/research/blog/research-collection-responsible-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 39
-    images:
-      - url: "https://www.microsoft.com/en-us/research/uploads/prod/2018/11/Automated_Hero_Image_MSR_Social_11_2018_1200x627.png"
-        width: 1200
-        height: 627
-
 secured: "KR0jyu5JVQEzgyh0zsAivRaDc5ndIRj0u9VYByOtjFsRd/qseGTZ+orFQSn13c5d1ub4OzioKGN4Rh4lDn41y4xMkpVoY8q0NQN0AcZHk6dq8gAa/YnKyYYu2xTKZwaFAqn70eOBOEXBByoxACIqCmJRSXVxB3CjqcNx4nGjPl+Ir7Jm7bCWWsVEkfU8okbe2bMbRRwixrfMrqbQ1vQssBZDZsgtIxSzDxNEz6urxxhMlKLItTJee6pc0Y449GqmXtpgqZJibc12QGCAv/YsysUnivWui82673u5huZt5cPOaQXdiWuxT7pIcPQLg36Ef336bT6E6oDXbmwYLTLNhOO6wOi8jf/3CwUDj38Mamr7cmWtnfhEEX9Ert9H3ER/Ndk5A8ZgajX/PMBYcxKnqZm7eFW3K/y4hm3GA/4w5HQld+/PXwMkVb5CaT9aJT9hHFF2mHIcKJReylr1roNQoQpkEhabJuoQCTtFNi1Q4ck=;X5IuuJjyCHMh74EMde/xkA=="
 ---
 

@@ -296,7 +296,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/au/reviews/microsoft-azure-speech-to-text-review",
+      "webUrl": "https://www.techradar.com/nz/reviews/microsoft-azure-speech-to-text-review",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-06T06:33:00-07:00",
@@ -455,7 +455,7 @@
     {
       "path": "_news/2020-04-06-watson-speech-to-text-review.md",
       "title": "Watson Speech to Text review",
-      "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity, and somewhat patchy BETA features may put some businesses off.",
+      "excerpt": "But price, integration complexity, and somewhat patchy BETA features may put some businesses off. Watson is IBM’s natural-language-processing computer system. It powers the famous question-answering supercomputer as well as a series of AI-based enterprise products, including Watson Speech to Text. In our Watson Speech to Text review ...",
       "heat": null,
       "tags": null,
       "type": "article",
