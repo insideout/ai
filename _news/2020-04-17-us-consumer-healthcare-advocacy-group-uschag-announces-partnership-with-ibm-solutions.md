@@ -5,8 +5,8 @@ excerpt: "While the details of the relationship are confidential, the partnershi
 publishedDateTime: 2020-04-17T13:09:00Z
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
-quality: 15
-heat: 15
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/a7/aa72f18e-94ce-57c4-bfae-e17bf137f5eb/5e99a8d765877.image.jpg?resize=300%2C400"

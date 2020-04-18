@@ -2,6 +2,42 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2020-01-22-oakland-startup-nets-221m-to-build-out-whats-no-longer-science-fiction.md",
+      "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+      "excerpt": "When Sean Byrnes started his automated data analytics company, Outlier, in 2015 the idea of using artificial intelligence to boil down the massive amounts of data businesses collect into a few valuable insights sounded like science fiction.",
+      "heat": 140,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.html",
+      "ampWebUrl": "https://www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/01/22/oakland-startup-nets-22-1m-to-build-out-whats-no.amp.html",
+      "publishedDateTime": "2020-01-22T04:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11585539/sean-byrnes-horizontal*600xx3917-2620-288-433.jpg",
+          "width": 600,
+          "height": 401,
+          "title": "Oakland startup nets $22.1M to build out what's 'no longer science fiction'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-bring-back-play-store-update-notifications-with-this-free-app.md",
       "title": "Bring back Play Store update notifications with this free app",
       "excerpt": "In a recent move to reduce unnecessary notifications, the Play Store no longer confirms when apps are updated in the background. While this may not be a big deal for most users, it's ...",
@@ -1027,51 +1063,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage.md",
-      "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
-      "excerpt": "That’s why a team of researchers from the University of Texas and Facebook AI Research investigated in a paper Ego-Topo, a technique that decomposes a space captured in a video into a ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/21/facebooks-ai-learns-the-relationships-between-physical-places-from-first-person-video-footage/amp/",
-      "publishedDateTime": "2020-01-21T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/df0f4b81-fa76-42d4-bee8-2b4c4e8cd50d-e1579627646898.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Facebook’s AI learns the relationships between physical places from first-person video footage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

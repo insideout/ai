@@ -2,50 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-04-06-microsofts-ai-recommends-lockdown-strategies-to-curb-coronavirus.md",
-      "title": "Microsoft’s AI recommends lockdown strategies to curb coronavirus",
-      "excerpt": "A preprint paper coauthored by researchers at Microsoft, the Indian Institute of Technology, and TCS Research (the R&D division of Tata Consultancy Services) describes an AI framework designed to help cities and regions make policy decisions about lockdowns, closures, and physical distancing in response to COVID-19. They claim that because it ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/06/microsoft-ai-lockdown-policies-curb-spread-of-coronavirus/amp/",
-      "publishedDateTime": "2020-04-06T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft’s AI recommends lockdown strategies to curb coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-06-apples-voysis-acquisition-will-boost-siris-iq-in-a-respected-ai-test.md",
       "title": "Apple’s Voysis acquisition will boost Siri’s IQ in a respected AI test",
       "excerpt": "Instead of a top-to-bottom refresh of the service, Apple has spent nearly a decade making small improvements to various features, and now another one’s coming: The company has acquired an Irish voice AI company called Voysis to help fix one of Siri’s most glaring issues. While Siri has scored pretty well on Loup Ventures’ annual Digital ...",
@@ -1204,6 +1160,51 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-computer-vision-and-coronavirus-pandemic.md",
+      "title": "Computer Vision and CoronaVirus Pandemic",
+      "excerpt": "This technology is called “computer vision” and it is applied in many spheres of life, for example, in medicine. Computer vision is used for: Segmentation of MRI images. The layout of MRI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/taqadam/computer-vision-and-coronavirus-pandemic-e5fb6e83f9f7",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-03T16:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1197/0*uLVocH9TkD-9xChT.png",
+          "width": 1197,
+          "height": 1199,
+          "title": "Computer Vision and CoronaVirus Pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

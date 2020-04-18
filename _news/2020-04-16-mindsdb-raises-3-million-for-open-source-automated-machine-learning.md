@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/"
 type: article
 quality: 106
-heat: 107
+heat: 106
 published: true
 
 provider:

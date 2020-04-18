@@ -2,6 +2,43 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-03-17-hey-sparky-confused-by-data-science-governance-and-security-in-the-cloud-databricks-promises-to-ease-machine-learning-pipelines.md",
+      "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
+      "excerpt": "Meanwhile, the new features allow customers to deploy analytics and machine learning by offering APIs for everything ... Databricks is currently available on AWS and Azure, and although plans are in place to launch on Google Cloud Platform, \"it was a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theregister.co.uk/2020/03/17/databricks_machine_learning_pipelines/",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/databricks_machine_learning_pipelines/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/databricks_machine_learning_pipelines/",
+      "publishedDateTime": "2020-03-17T09:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2020/03/17/shutterstock_pipeline.jpg",
+          "width": 648,
+          "height": 429,
+          "title": "Hey, Sparky: Confused by data science governance and security in the cloud? Databricks promises to ease machine learning pipelines",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-composing-new-proteins-with-artificial-intelligence.md",
       "title": "Composing new proteins with artificial intelligence",
       "excerpt": "The specific sounds generated, determined by the way a protein folds, can be used to train deep learning neural networks. \"These networks learn to understand the complex language folded proteins speak at multiple time scales,\" said Markus J. Buehler, from the Massachusetts Institute of Technology. \"And once the computer has been given a seed of ...",
@@ -1030,35 +1067,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-ai-machine-learning-could-put-cell-sites-to-sleep-and-slash-energy-costs.md",
-      "title": "AI, machine learning could put cell sites to sleep (and slash energy costs)",
-      "excerpt": "And these new features incorporate tools like artificial intelligence (AI) and machine learning. In a new Ericsson white paper called \"Breaking the Energy Curve,\" the company said that machine learning can be used to make certain network features more autonomous. Two of those features, MIMO Sleep Mode and Cell Sleep Mode, are using machine ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.lightreading.com/ai-automation/ai-machine-learning-could-put-cell-sites-to-sleep-(and-slash-energy-costs)/d/d-id/758249",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T00:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Light Reading",
-        "domain": "lightreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

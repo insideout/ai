@@ -7,8 +7,8 @@ webUrl: "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-c
 ampWebUrl: "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 92
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1214233667.jpg?fit=1800%2C900&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 900
     title: "AI Weekly: When to ship or shelve a coronavirus solution"
 
-secured: "7ac/e1CkbmdHs+gBu+kAvGCEyJ0P2swueqRipl8ZZS5n6K5ShhSGwq/cUcMAkJ9fY0c5yAL6roXjeLKY2kfkkRXYHQ5EQ7IY4ZJlNylqVGGLqAfisyoFDAwp+8GQllJpJunAXcncgtxE1oNZ5aV5mdVEpJQFO1I1QZweKmF9Bj7CWEMlzPyuoRV7u/K0Obko5DKqE0QMJ1o8D2kM+oHawQbRjMXEW4AHLiNADI/d8tZ89HWrtLMiKzvk5RYqKV/y62lD/BOzuEoJ1IyAUlAlHkWTuOOHKoG0uX8zhOP0WqKQYXuWev6WGCQUO+4xK3yM;o/PXcTBS1kJ2ez3wUX5Cyw=="
+secured: "3eO+1jex6mqf8BgdEMrc/MpQWcFmEJlK3SXDWPYRMgefiVI5scWDK2HNMC7p/Ip6tVSJg587CxYi/RYgRCv3Pg1FioObBUMIXDznDcCxuu2JFXrUfFRMvwBy2N7oPH5xvH0Iw6o+B3/t5at0cc1ef4Nt8rtu7Kg6NrVbc+i2FlBS6qoteKUU/fYQsC7VGzUz+kPXctr0SfsV+rq/Q/pvDELVxWF9MHeS30egbGTElgIDqPcH0CQIBKhUH4yM3DgUwglr//ugs53a+v3bvrkntODN4ZUFLqueMlYGABHTga/i7O0Jt4quS7cVdpE2SDy0+6yxR2/p7jRdSIDt9nW3etBq69DObHGo8a062yrD5+JX2IZorjoYXkRNMZMt3PDixABA9mnZYySthjvzTXjxwed31Y1rJjdNA5zJ0hko/v5MI9ImrGSfcSzLYSovQUCNIoh6HDX/QWRYiRyhlEP2SA83uF6sSnwnpn1pkhUqf5E=;3SwVMKsHV2+PrlML2BP0Hw=="
 ---
 

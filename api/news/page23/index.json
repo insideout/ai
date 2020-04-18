@@ -2,6 +2,51 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-30-extending-the-power-of-azure-ai-to-microsoft-365-users.md",
+      "title": "Extending the power of Azure AI to Microsoft 365 users",
+      "excerpt": "Today, Yusuf Mehdi, Corporate Vice President of Modern Life and Devices, announced the availability of new Microsoft 365 Personal and Family subscriptions. In his blog, he shared a few examples of how Microsoft 365 is innovating to deliver experiences powered by artificial intelligence (AI) to billions",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/extending-the-power-of-azure-ai-to-microsoft-365-users/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T01:30:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9657b8e1-a355-40b6-ae91-6285753322d9.png",
+          "width": 1187,
+          "height": 821,
+          "title": "Extending the power of Azure AI to Microsoft 365 users",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-chinese-e-commerce-giant-takes-aim-at-rival-leader-alibaba-in-cloud-as-china-market-heats-up.md",
       "title": "Chinese e-commerce giant takes aim at rival leader Alibaba in cloud as China market heats up",
       "excerpt": "JD.com, a major Chinese e-commerce company, is looking to become the technology platform of choice for U.S. customers in a cloud computing market dominated by Alibaba.",
@@ -1004,42 +1049,6 @@
           "width": 756,
           "height": 567,
           "title": "iPad trackpad support is just the start of iOS 13.4's great features",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-28-how-artificial-intelligence-can-aid-eye-testing.md",
-      "title": "How artificial intelligence can aid eye testing",
-      "excerpt": "From diagnostics to drug development, artificial intelligence (AI) today has become a valuable extension of the medical field. A new addition to its long list of uses is a hi-tech screening tool developed by Google and an international team of researchers for detecting diabetic retinopathy a diabetic complication in the eye. A study conducted ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/how-artificial-intelligence-can-aid-eye-testing/article31192456.ece/amp/",
-      "publishedDateTime": "2020-03-28T04:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/science/bxexes/article31192454.ece/ALTERNATES/LANDSCAPE_615/29TH-SCIFUNDUSpng",
-          "width": 615,
-          "height": 384,
-          "title": "How artificial intelligence can aid eye testing",
           "attribution": null
         }
       ],

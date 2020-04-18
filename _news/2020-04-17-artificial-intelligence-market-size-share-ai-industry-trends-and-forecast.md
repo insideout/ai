@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T08:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-ai-industry-trends-and-forecast-2020-04-17"
 type: article
 quality: 81
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -37,19 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-  - title: "Automotive Artificial Intelligence Market Analysis, Size, Share, Growth, Trends and Forecast to 2025"
-    excerpt: "By Technology (Computer Vision, Natural Language Processing, Deep Learning, Machine Learning, Context Awareness),"
-    publishedDateTime: 2020-04-13T09:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-size-share-growth-trends-and-forecast-to-2025-2020-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

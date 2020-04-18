@@ -2,6 +2,51 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2020-02-14-how-to-avoid-another-ai-winter.md",
+      "title": "How To Avoid Another AI Winter",
+      "excerpt": "over the past few years, many of us remember the AI winter in the 1990s, which resulted from overinflated promises by developers and unnaturally high expectations from end users. Now, industry insiders,",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/14/how-to-avoid-another-ai-winter/amp/",
+      "publishedDateTime": "2020-02-14T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1043917898/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 474,
+          "title": "How To Avoid Another AI Winter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-yandex-claims-2-million-self-driving-car-miles-double-in-4-months.md",
       "title": "Yandex claims 2 million self-driving car miles, double in 4 months",
       "excerpt": "The Russian tech titan revealed the latest milestone in its Q4 2019 financials earlier today. Yandex’s on-demand transport subsidiary Yandex.Taxi unveiled its self-driving car program back in May, 2017, and shortly after it began piloting the vehicles on Moscow’s roads. In the intervening years, the company has expanded its fleet across ...",
@@ -1010,42 +1055,6 @@
           "width": 970,
           "height": 545,
           "title": "AI tool can now update outdated Wikipedia content",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-13-inside-the-secret-committees-that-quietly-run-the-grammy-awards.md",
-      "title": "Inside the ‘Secret Committees’ That Quietly Run the Grammy Awards",
-      "excerpt": "While neither Dugan nor any other industry figure has released the names of those artists, sources say her allegations are in line with what they have witnessed in the past. The music industry has long raised ... nominations review committee are artists themselves. There are no label folks in those rooms or anything like that.",
-      "heat": 142,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/",
-      "ampWebUrl": "https://www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/amp/",
-      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/amp/",
-      "publishedDateTime": "2020-02-13T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rolling Stone",
-        "domain": "rollingstone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.rollingstone.com/wp-content/uploads/2020/01/6352473xW.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": "Inside the ‘Secret Committees’ That Quietly Run the Grammy Awards",
           "attribution": null
         }
       ],
