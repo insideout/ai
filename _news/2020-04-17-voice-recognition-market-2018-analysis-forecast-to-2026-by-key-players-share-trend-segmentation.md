@@ -28,6 +28,15 @@ images:
     title: "Voice Recognition Market 2018 Analysis & Forecast to 2026 by Key Players, Share, Trend, Segmentation"
 
 related:
+  - title: "U.S Machine Learning in Finance Market Overview and Scope 2020 to 2025"
+    excerpt: "The report Global Machine Learning in Finance Market analyzes the strategy patterns, and forecast in the coming years. The report evaluates the market size of the Global Machine Learning in Finance Market studies the strategy patterns adopted by the prominent international players. Also, the report evaluates the size of the market in terms of ..."
+    publishedDateTime: 2020-04-18T01:12:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/81715/us-machine-learning-in-finance-market-overview/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 19
   - title: "Southeast Asia Data Center Markets - Industry Outlook and Forecast 2020-2025: COVID-19 Impact Included - ResearchAndMarkets.com"
     excerpt: "AWS, and Alibaba to open cloud regions. The adoption of cloud-based services will be a key driver for the market in the next few years. Increasing internet penetration is likely to aid the use of smart devices in this region. The impact of big data, IoT, artificial intelligence, and virtual reality will have a major impact on market growth in ..."
     publishedDateTime: 2020-04-17T08:36:00Z

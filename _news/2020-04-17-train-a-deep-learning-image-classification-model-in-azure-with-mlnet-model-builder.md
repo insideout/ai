@@ -5,9 +5,9 @@ excerpt: "LandUseUWP: Universal Windows Platform (UWP) application that consumes
 publishedDateTime: 2020-04-17T21:58:00Z
 webUrl: "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-azure-model-builder/"
 type: article
-quality: 63
-heat: 63
-published: false
+quality: 80
+heat: 80
+published: true
 
 provider:
   name: Microsoft
@@ -20,6 +20,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png"
@@ -27,6 +28,6 @@ images:
     height: 400
     title: "Train a deep learning image classification model in Azure with ML.NET Model Builder"
 
-secured: "wK5Rl3JM0mo1ReavIERaBf5RiV20CE9b7DRPUtD2dryU7JcXw0OsvgEoY8wyX364zhvY4fLCeaS+03Iksgs2DrGk0RO75VshWn1hkG880CYuESEKw4+9masRrXKXi+csTFYgXTdA6resQerMngVzJEuDgo1afIHvJH5l9CBXs0fhglOwxxEQyxNAQCZbDDs7sgOM46X6nMKIdA2ajWWFvB3fnuqfoF/m6pyc60SqVS95/xuW3s6vn+et1/hSFvRCk4kOwwxw8vr28IqSyGJ2I7P60lGuqJ9tq9foF16Y5zR9ZGFlHOedHxBvySteW0SZ;lGiE9ZBNsEdUFJkGgFmWEw=="
+secured: "R7sWFj6zWWDrrGYLEy4BLqfIWSXiLlxrT5NnFg2iM46iWEJC9WfFpynGfZxrPdesnrJeSVvw367Vi/NqvwVNyml1y+9a1pblnETap3lnuzk0ABokGYrWJCasiYGk0YorUlw/cv01hxvASu7oisESi5IY9gr5t4mqEmjsrjU1R0yJdaykRJjuvwnV2FmgUKISC/Jbauu2jFIhneoEf6cUqZrPeBGokfom8RbfiaaejVi/aSHe/up2ZVCfCgMHdog9mxkbX0rJ/tiwDLWCWvkHWJY9lMhK59sfcOPvQ7M8TBIGyALtgVL/jPX5GZH3ytZoO7BXxhsfg0vUkGRGt+4/1rjlL9kypG2I3iwEZWEBQUmv7eco0FsUO6qSO6DZCVfUXBDV13SuvwIAThQqlLtlgMLNU3UPiIjmCCY8U0eOQ/lXc0n3O6h2VR0QYplL4otbftdf420YlDQ4KsSv3CBa9uRg3F6ozgPxiS1497josH8=;NukyRhKLapyL/IPjlQIA1A=="
 ---
 

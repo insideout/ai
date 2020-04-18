@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Watson Speech to Text review"
-excerpt: "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity ..."
-publishedDateTime: 2020-04-06T10:26:00Z
-webUrl: "https://www.techradar.com/reviews/watson-speech-to-text-review"
+excerpt: "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity, and somewhat patchy BETA features may put some businesses off."
+publishedDateTime: 2020-04-06T10:24:00Z
+webUrl: "https://www.techradar.com/in/reviews/watson-speech-to-text-review"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 712
     title: "Watson Speech to Text review"
 
-secured: "aF9Xl/m5YN4jDDCLdf3eDADY/e8wwcIAEJfhPAT2YUgFG2JbjxQ5Vv8kGgaWunVPsXwaEbvopQTflEY1E2lysfx0luIqQt7YJqeD5TfkVLSh8+79Ywf/DumqtKC2anukb0FFzKj0Tnwet3cZhQx2ypM3h5ooflttOz5Hv0E/UvyBOpbFbQwFTljPi1bM09vc+jWNWxB8vLy28EgUrRgct8gpcwpRdog3x8OWnNd4qoxh9ZLT10q7cg7q1JolwabGyD07bjUPi2IdlAOmVWDFCG/sxBsokUxmKBAtacnHkOt0QKpJlIVC6rdSpH+TtEwY;/Y3jCwI8rqvds/pNsgrPDw=="
+secured: "pYVqvVFyj9oe4/npvTubDIkPgSqF4D6OY5oj5m9bim7v1rTwl6Osanokw5VxFAoOd6HkUiQy2tQ3MYvjOJjDJxE26I/+ZXR5rlkKNgMcl3pFIQLgP3Y0uGdCRhnP9bFEPGgkm5rY6EIo7iBc2f9ONupa15eXjKawRWjTMt3upIFF7k1KcJAOMffx5qjt/wpA3eZb/mUYfasXXTPVJlsGvfmS5C9fxznMdwFktH5iKmaXvlcY+BTB74ZdnAmxR2qhVHWm3dgh+BTlUgxjyuvSMx/JG6D8Nw6wq7jFApac+oTfhlWrJqWtz6Ab3d+vJl8d;qwKzZ7tgXzf7yQhHZ7H3Pw=="
 ---
 
