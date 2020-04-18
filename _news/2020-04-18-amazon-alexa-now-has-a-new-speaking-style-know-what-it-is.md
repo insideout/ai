@@ -25,6 +25,6 @@ images:
     height: 675
     title: "Amazon Alexa now has a new speaking style: Know what it is"
 
-secured: "ixdOHMHh1A3426DWHqvgXYP7AL6mO7kVE/mk5H37siaPGubwAN+uLK/b4H2+TAqzYMBE/MDQEwl2RDBHQSh4GDiHL5YCSu/ypxAwfnbwAUb3p/GqPN0tmMs9/MG1LZizpYg6VPBWSS0mznAgUGHd/wxLXH/pBJ/G2txIHibbsqClrrGJKkLVXspiIjxAbNP/qENr1mgpfuKJqnLq9F2r5SSpZYgVLyzzsIXg0YPTwPUibKV3vgTlp5wnwmWd04JvHR5vU5I8vYkoRz/IDCEUSiiKjRiuf1v/dzR7zZiZe4CmX0SDmIzxhvI26zofJ0Mz;JJEiBVH8ee2G7EEQVsop5Q=="
+secured: "oTPTfPhwOcN/ExF8FHdtN3+PVCh1Lh2y3pd8hWAsfbVpvSossj+yemlD/77ubHodZQvcawPWKB0X3//Nctm60vDV/mmh40sxKsbDcKG7rizKP91boQCr/QiqAP5uQ58jl1saUEATLxhqPhDOwL8cXp8bn4ttwWjGb/iL2zT3x8Trm0px2/8N4wc0HaQY/+rMf9QE6Y/XYWMKOdOEgDYiRsQzDJ5VqgIcX21wQ1ZcEyC4FYhr1KG+zBIbL1ha2OEjNlETBsehnWXskBc/ypnH0dZH2gk56Bp4APZVTOyACCrzE9E2p86FXNAr0X/4MsTXcBXkZZDQQ+U+zmmF0FHQkqDaBMEZVkgfRjrcF7jyJPAYG7rhY4X/Bm4xUkAD9C/0mvjB0YOJOkWpZhSwg8r1i5iLD+pQJeonYHcLqARq2AI6D6P2WnD51PNkLC6WI+XKSfuHDMiuacbAk/aC9tYfxTEJwJ/jvASvBC4Trt2YLAk=;iolrQHAKdpoCkDY0M4G5Uw=="
 ---
 

@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 76
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "San Francisco Orders Residents To Wear Face Masks"
 
-secured: "QK6KbynqxCpN2uk0tzycgrwmVDIqQxB6mAoNgByaZ3dRUHv0XYBe8nAUJnIuTMKrDM7CjSdpEUGPQQehcje/hXqUvL1JKutODWxKn640t9RqknsVXpNncQQ10vfXtKcO6EX/IzXFE7nBUu9Z+miGb/ZISEs9PsChnKen/4e94QtN6mvQ83n/xyEWYh983ugE1Zk6hsW69iR0qAdeD5fRQrSnlYgZZFowfPk1xTyawbTCG9Co/fS2YxCLFZ4baQj1a9+eSBkXYcgP0cX79EKW4rqyh1WK52YcezZ5sAZxBzJmJbao+Y1aAVNc+0/1LCPlP3dXd5aeFzEFBq+M+KRrQuZTCy6L2btw6Z3DEe1/GGLglxOBAV24VB94oRfVN41ZIUh+nr4SSGMEms/dyrEIxGjKAaB9J1IbunXMngTnfk4+U57IrzTQTZCTOoBiMcKH0r/zmNckrpvl/DNkS+u7PWc3VpvYJrkrRV16kl3FGcQ=;kQun8YrhAfMqySNmYJNDRg=="
+secured: "cyh9hZfc9MbaMdfWR2R2FdTiaOkTO+dlY/m+qXObilyNo9JpAja/wkS2MLHT+4Eop1Lsl/9UxW2txXcu/595rjAeV4lKC2sKtrAZd/QOnK46SLdlgjOYK5wvVBD61LMqATPfsCwud6N5L7y5DnhdfHItCAMLFYi7ES+3TeMYp66jdaY1A4AnTVx/7Xncrt+A1hx/YauWy9Ji4D7slNEXrsg9zUKoncpPP7Se18THBKnq0NpivxvVJxzm4V7VFqT8/9tnCPBjDe3/i2wuCNIyEvKM3JLm8aBVRvdhPBJOTbkobhHos//nmmpLTHpwmBJpVCWLxao4xUxg65OYVLwzQbk2L3Lm7KidmqoDlwRwZ7ZNBRUo6NC3IDnzgU9IBZxDiSf1gGzKy6W21XVC9ISXBISFamm7LtdwQUBDqpAK4Pmbax1YRP73/jkwKQnC0n5xwGTL4hWev/JHZsLeIveGOvxL9rp/rOLj822ugcJJNfw=;CT2uirGSpiKD/JwumuzwkA=="
 ---
 

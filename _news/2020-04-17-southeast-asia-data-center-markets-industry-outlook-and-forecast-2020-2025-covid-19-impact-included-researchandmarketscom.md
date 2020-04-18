@@ -46,19 +46,6 @@ related:
       name: ARN
       domain: arnnet.com.au
     quality: 19
-  - title: "In-Flight Voice Recognition Market Global Demand | Regional Analysis, Key Players, Industry Segments, Development, Opportunities by Forecast to 2024"
-    excerpt: "Market Insight Global In-Flight Voice Recognition Market is expected to grow at a significant rate owing to high"
-    publishedDateTime: 2020-04-13T13:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/in-flight-voice-recognition-market-global-demand-regional-analysis-key-players-industry-segments-development-opportunities-by-forecast-to-2024-2020-04-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
 
 secured: "ov4ybWrMZ2LkVuG6LGoZwbdWOG/rL2awc1GE7pv7nbaQ2np3g97cGOts3kNlrOgPvpANiJZ4Xpwp1it9IwTZvHPil535rb06SHHrgm6863PCHMr/e1Q+ceMFt/ARiCrAI5jNShsTt1rhzq8STbkIrvK1c5yfOS/+YKCT7lMJyYIDIdxLimPmQQ0VaZLRefnKLFdZea/IYdYRZPgtJ+jpMOH/FbLE8vB8fMnFzSr1Vj6w8L0kjXDp9G5D4g59L/E8hFxXzGGOmXIO+3gRJgdDTB216ZSg8q/cfYslIP183q6WnI4nqjx5kZeC4AnJ+BlWQXrNQNkehFNGos8LAezaDvxzFqd7FXqR7PlVmUFVY0nvLG0uMg2GWG0GaUplksqG1XzxwWPuZPXlrWD0Zur0iIT0++LGFeua3EvUejG/VpbtUdmnT8z7bQJE1AoL6OHtO1CsV0QclT2oVp3/tWFSWywNc2HSw0dflkT4FwLMU48=;5x2SWYEWWNPqDoFdkCm+7w=="
 ---
