@@ -748,19 +748,27 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T06:08:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15782410/automl-in-smart-iot-devices-a-sensiml-whitepaper",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15782410",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15782410",
+      "publishedDateTime": "2020-04-10T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
+          "width": 400,
+          "height": 208,
+          "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

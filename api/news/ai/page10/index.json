@@ -233,21 +233,21 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/automated-machine-learning-automl-market-301035747.html",
+      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:41:00-07:00",
+      "publishedDateTime": "2020-04-06T18:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Finanzen",
+        "domain": "finanzen.net",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
           "width": 600,
           "height": 315,
           "title": "Automated Machine Learning (AutoML) Market",
