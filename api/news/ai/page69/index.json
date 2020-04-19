@@ -2,6 +2,94 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-04-this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin.md",
+      "title": "This new AI model will badmouth you for putting trash in the wrong bin",
+      "excerpt": "When I’m at airports, I often get confused as to which trash and recycling bin I should throw my rubbish into. A new solution from a Canadian AI company, Initutaive AI, might come in handy. The firm has developed Oscar, an image-detection based AI, that recognizes objects in your hand and guides you to put things in correct bins.",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
+      "publishedDateTime": "2020-02-03T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Garbage-badmouth-796x418.png",
+          "width": 796,
+          "height": 418,
+          "title": "This new AI model will badmouth you for putting trash in the wrong bin",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
+      "title": "Camcon explores diesel and AI calibration for its digital valve train",
+      "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/",
+      "ampWebUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
+      "publishedDateTime": "2020-02-03T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg",
+          "width": 1160,
+          "height": 774,
+          "title": "Camcon explores diesel and AI calibration for its digital valve train",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-dont-care-if-you-even-graduated-says-elon-musk-as-he-announces-ai-party-at-his-place.md",
       "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
       "excerpt": "Tesla CEO Elon Musk recently invited coders and engineers over Twitter to attend an AI party ... \"reports directly\" to him daily. Tagging Lex Fridman, a known host of the Artificial Intelligence ...",
@@ -1183,94 +1271,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-ai-formulated-medicine-to-be-tested-on-humans-for-the-first-time.md",
-      "title": "AI-formulated medicine to be tested on humans for the first time",
-      "excerpt": "A drug designed entirely by artificial intelligence is about to enter clinical human trials for the first time. The drug, which is intended to treat obsessive-compulsive disorder, was discovered using AI systems from Oxford-based biotech company Exscientia. While it would usually take around four and a half years to get a drug to this stage of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/03/ai-formulated-medicine-tested-humans-trial-first/",
-      "publishedDateTime": "2020-02-03T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D6294%252C3923%252C639%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C997%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-10%252F27840430-f413-11e9-bdfc-1e60bbd37912%26client%3Da1acac3e1b3290917d92%26signature%3D79d1e8cd28bb5cdf1601ea05d7226f489d22eb6c&client=amp-blogside-v2&signature=5c83968906b4c6d0967bda40cb3845b8a7ec6b23",
-          "width": 600,
-          "height": 350,
-          "title": "AI-formulated medicine to be tested on humans for the first time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls.md",
-      "title": "Victoria to use AI to detect heart attacks on emergency calls",
-      "excerpt": "Triple zero call operators could soon have artificial intelligence (AI) alert them to callers who suffer from a heart attack. The Victorian government announced on Sunday it was kicking in AU$1.36 million towards the Artificial Intelligence in Cardiac Arrest project, which will be developed by Monash University and Ambulance Victoria.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/victoria-to-use-ai-to-detect-heart-attacks-on-emergency-calls/",
-      "publishedDateTime": "2020-02-02T20:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2013/11/14/c13adafe-5fde-41cb-99d0-859c455db5d5/Melbourne_credit_Kevin_Poh.jpg",
-          "width": 2048,
-          "height": 1536,
-          "title": "Victoria to use AI to detect heart attacks on emergency calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

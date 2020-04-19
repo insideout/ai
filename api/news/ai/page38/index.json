@@ -2,6 +2,88 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-03-12-the-humanization-of-customer-experience-in-an-era-of-artificial-intelligence.md",
+      "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
+      "excerpt": "This requires innovative solutions and making artificial intelligence a priority. 70% of companies are already using some form of AI to engage customers. 90% will be using AI within the next 24 months. Risk-averse markets such as healthcare, utilities and insurance are more than 70% of organizations are planning to make AI investments in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.linkedin.com/pulse/humanization-customer-experience-era-artificial-brian-solis/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQHHhzgKh1QPJQ/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=qFepTyXnx18VGXkqZJm8DEAeU-7dWL19yrdvzoBkFms",
+          "width": 1279,
+          "height": 720,
+          "title": "The Humanization of Customer Experience in an Era of Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-applications-in-alzheimers-forecast-to-2024-diagnosis-therapy-health-management-research.md",
+      "title": "AI Applications in Alzheimer's, Forecast to 2024: Diagnosis, Therapy, Health Management, Research",
+      "excerpt": "DUBLIN, March 12, 2020 /PRNewswire/ -- The \"Artificial Intelligence (AI) in Alzheimer's Applications\" report has been added to ResearchAndMarkets.com's offering. Artificial intelligence (AI ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/ai-applications-in-alzheimers-forecast-to-2024-diagnosis-therapy-health-management-research-301022297.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": "AI Applications in Alzheimer's, Forecast to 2024: Diagnosis, Therapy, Health Management, Research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-artificial-intelligence-in-medical-imaging.md",
       "title": "Artificial Intelligence in Medical Imaging",
       "excerpt": "Worldwide Market Reports adds Artificial Intelligence in Medical Imaging Market 2020 Global Analysis Growth Trends and Opportunities Research Report Forecasting to 2024 reports to its database This report provides in depth study of Artificial Intelligence in Medical Imaging Market using",
@@ -1061,72 +1143,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "Global Trust Asset Management LLC acquired a new stake in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) during the 4th quarter, according to its most recent filing with the SEC. The institutional investor acquired 7,600 shares of the company’s stock, valued at approximately $261,000. Global Trust Asset Management ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/03/11/global-trust-asset-management-llc-acquires-shares-of-7600-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html/amp",
-      "publishedDateTime": "2020-03-11T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": "Global Trust Asset Management LLC Acquires Shares of 7,600 First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-ticker-tocker-wins-best-social-trading-platform-designation-in-2020-fintech-breakthrough-awards-program.md",
-      "title": "Ticker Tocker Wins \"Best Social Trading Platform\" Designation in 2020 FinTech Breakthrough Awards Program",
-      "excerpt": "NEW YORK, March 11, 2020 /PRNewswire/ -- Ticker Tocker, an award winning social marketplace of verified trading leaders, announced today that it has been selected as the winner of the \"Best Social Trading Platform\" award in the 2020 FinTech Breakthrough Awards program conducted by FinTech Breakthrough,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/ticker-tocker-wins-best-social-trading-platform-designation-in-fintech/article_fa63fe8a-81c6-59bb-a66a-17cac9527377.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T17:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
+      "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
+      "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
+      "publishedDateTime": "2020-02-24T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png",
+          "width": 2048,
+          "height": 1261,
+          "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-02-24-intel-debuts-5g-server-and-base-station-chips-plus-a-pc-network-card.md",
       "title": "Intel debuts 5G server and base station chips, plus a PC network card",
       "excerpt": "Today, the company announced three chips built for various types of 5G computers, plus a 5G-optimized network adapter for PCs. Up first is an updated second-generation Xeon Scalable processor, now at a top speed of 3.9GHz and bolstered by additional AI capabilities to aid with inference applications. The new chip promises up to 36% more ...",
@@ -1245,51 +1291,6 @@
           "width": 800,
           "height": 560,
           "title": "Intel is sacrificing previous AI acquisitions for Habana",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-want-to-be-ai-first-you-need-to-be-data-first.md",
-      "title": "Want To Be AI-First? You Need To Be Data-First.",
-      "excerpt": "Those that implement AI and Machine Learning project learn quickly that machine learning projects are not like typical application development projects. The code is the least significant part.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
-      "publishedDateTime": "2020-01-30T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f567178b3f4000623f395%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Want To Be AI-First? You Need To Be Data-First.",
           "attribution": null
         }
       ],

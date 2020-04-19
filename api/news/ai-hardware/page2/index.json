@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-31-perceive-emerges-from-stealth-with-ergo-edge-ai-chip.md",
+      "title": "Perceive emerges from stealth with Ergo edge AI chip",
+      "excerpt": "On-device computing solutions startup Perceive emerged from stealth today with its first product: the Ergo edge processor for AI inference. CEO Steve Teig claims the chip, which is designed for consumer devices like security cameras, connected appliances, and mobile phones, delivers “breakthrough” accuracy and performance in its class.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/31/perceive-emerges-from-stealth-with-ergo-edge-ai-chip/amp/",
+      "publishedDateTime": "2020-03-31T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Perceive emerges from stealth with Ergo edge AI chip",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-huawei-execs-response-to-the-us-limiting-tsmc-chip-supply.md",
       "title": "Huawei exec’s response to the US limiting TSMC chip supply",
       "excerpt": "In other words, this will limit the Chinese tech giant’s global chip supply which is integral to its operations since it has its own ... Editor’s Pick: Xiaomi rolls out MIUI 11.0.16.0 Stable Update for Mi 10 Pro in China, Adds AI 8K video recording Xu Zhijun read the report from Reuters and People’s Daily and thinks it endangers the ...",
@@ -1179,43 +1224,6 @@
           "width": 1424,
           "height": 959,
           "title": "Intel made experimental chips that can smell",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-socionext-prototypes-low-power-ai-chip-with-quantized-deep-neural-network-engine.md",
-      "title": "Socionext Prototypes Low-Power AI Chip with Quantized Deep Neural Network Engine",
-      "excerpt": "/PRNewswire/ -- Socionext Inc. has developed a prototype chip that incorporates newly-developed quantized Deep Neural Network (DNN) technology,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/socionext-prototypes-low-power-ai-chip-with-quantized-deep-neural-network-engine-301025274.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/196435/socionext_inc_logo.jpg?p=facebook",
-          "width": 2300,
-          "height": 1207,
-          "title": "Socionext Prototypes Low-Power AI Chip with Quantized Deep Neural Network Engine",
           "attribution": null
         }
       ],

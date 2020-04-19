@@ -18,6 +18,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://www.brookings.edu/wp-content/uploads/2020/04/Coronavirus_testing.jpg"

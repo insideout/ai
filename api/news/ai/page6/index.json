@@ -2,6 +2,88 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-10-deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector.md",
+      "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+      "excerpt": "Innovation” Machine Learning Uses Three Structures to Produce Improvements – Deltec Bank Machine learning is a prerequisite feature",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784506/deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784506",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784506",
+      "publishedDateTime": "2020-04-10T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/7d1cdecfaa1f9896ac0a4752d6ed7d1c.jpg",
+          "width": 600,
+          "height": 352,
+          "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain.md",
+      "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
+      "excerpt": "The work is preliminary, but it might hold promise for autonomous vehicle companies that rely chiefly on camera footage to train their navigational AI. U.K.-based Wayve is in that camp, as are Tesla, Mobileye, and Comma.ai. The researchers’ work combines elements of model-free and model-based AI training methods into a single graph to ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/ai-training-helps-remote-controlled-buggy-negotiate-rugged-terrain/amp/",
+      "publishedDateTime": "2020-04-10T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screenshot-2020-04-10-at-3.36.33-PM-e1586547649387.png?fit=1201%2C600&strip=all",
+          "width": 1201,
+          "height": 600,
+          "title": "AI training helps remote-controlled buggy negotiate rugged terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-podcast-tesla-battery-day-delay-tesla-cybertruck-full-self-driving-and-more.md",
       "title": "Podcast: Tesla battery day delay, Tesla Cybertruck, Full Self-Driving, and more",
       "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy, including Tesla ‘battery day’ being delay, Tesla Cybertruck new, Full Self-Driving news, and more. The Electrek Podcast is me, Fred Lambert, editor-in-chief of Electrek, and Seth Weintraub, founder and publisher of ...",
@@ -434,27 +516,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15782410/automl-in-smart-iot-devices-a-sensiml-whitepaper",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15782410",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15782410",
-      "publishedDateTime": "2020-04-10T06:14:00-07:00",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T06:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg",
-          "width": 400,
-          "height": 208,
-          "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1153,96 +1227,6 @@
           "width": 1200,
           "height": 600,
           "title": "Google open-sources data set to train and benchmark AI sound separation models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
-      "title": "DARPA snags Intel to lead its machine learning security tech",
-      "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/09/intel-darpa-machine-learning/amp/",
-      "publishedDateTime": "2020-04-09T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1158998884.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "DARPA snags Intel to lead its machine learning security tech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-ai-predicts-where-coronavirus-cases-will-spike-next.md",
-      "title": "AI predicts where coronavirus cases will spike next",
-      "excerpt": "An AI has predicted which areas of the UK will suffer spikes in coronavirus cases next by analyzing social media posts about COVID-19. These posts suggest that outbreaks will soon hit Manchester, Liverpool, Oxfordshire, Leeds, Northamptonshire, and Luton. The system was created by Dataminr, a risk detection tech firm with a track record of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/09/ai-predicts-where-coronavirus-cases-will-spike-next/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/09/ai-predicts-where-coronavirus-cases-will-spike-next/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/09/ai-predicts-where-coronavirus-cases-will-spike-next/amp/",
-      "publishedDateTime": "2020-04-09T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design57-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "AI predicts where coronavirus cases will spike next",
           "attribution": null
         }
       ],

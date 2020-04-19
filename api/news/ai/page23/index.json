@@ -2,6 +2,87 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-03-26-microsoft-announces-several-new-azure-products-for-hybrid-computing.md",
+      "title": "Microsoft announces several new Azure products for hybrid computing",
+      "excerpt": "This will allow for data processing at the edge and acceleration of the workload of Machine Learning through a Field Programmable Gate Array which is powered by Azure Machine Learning and Intel ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336",
+      "ampWebUrl": "https://www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/microsoft-announces-several-new-azure-products-for-hybrid-computing/416336?amp=1",
+      "publishedDateTime": "2020-03-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/04/azure_01-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Microsoft announces several new Azure products for hybrid computing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-25-mastercard-keeping-humans-in-the-loop-of-ai-fraud-and-risk-related-decisions.md",
+      "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+      "excerpt": "While artificial intelligence (AI), machine learning (ML), and automated machine-driven processes are increasingly important in providing better cybersecurity, as well as fraud and risk management, in the financial services sector, Mastercard believes there will still be a place to keep a human in the loop. \"We do believe that humans will ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/mastercard-keeping-the-human-in-the-loop-of-ai-fraud-and-risk-related-decisions/",
+      "publishedDateTime": "2020-03-25T16:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2015/10/29/f5c9599b-804a-4829-9f04-6a58f753506f/thumbnail/1200x675/f8d4a0c55c206203f8f657a373484a70/australian-passport.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Mastercard keeping humans in the loop of AI fraud and risk-related decisions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-helmai-raises-13m-on-its-unsupervised-learning-approach-to-driverless-car-ai.md",
       "title": "Helm.ai raises $13M on its unsupervised learning approach to driverless car AI",
       "excerpt": "Helm.ai will put the $13 million in seed funding toward advanced engineering and R&D and hiring more employees, as well as locking in and fulfilling deals with customers. Helm.ai is focused solely ...",
@@ -1129,79 +1210,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-how-autism-researchers-are-applying-machine-learning-techniques.md",
-      "title": "How autism researchers are applying machine-learning techniques",
-      "excerpt": "From identifying a new antibiotic to generating the first-ever image of a black hole, machine learning is changing how scientists approach questions in many fields. Autism researchers are being equally creative, using machine-learning methods to improve ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.spectrumnews.org/news/how-autism-researchers-are-applying-machine-learning-techniques/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Spectrum",
-        "domain": "spectrumnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/spectrumnews-web-assets/wp-content/uploads/2020/03/23142010/20200325-MachineLearnV2-8441.jpg",
-          "width": 844,
-          "height": 570,
-          "title": "How autism researchers are applying machine-learning techniques",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm.md",
-      "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-      "excerpt": "Affinity is an AI-powered relationship intelligence platform with patented technology that structures ... Data science and artificial intelligence had advanced to a tipping point in terms of changing the CRM paradigm and that’s what inspired us to start the company.” Affinity’s founders recognized a need for streamlining how companies ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/",
-      "ampWebUrl": "https://www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/affinitys-ai-powered-relationship-intelligence-platform-is-transforming-crm/260926/amp/",
-      "publishedDateTime": "2020-03-25T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://1ld3bn3pj7u818mrpr3kmfig-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/031820c.jpg",
-          "width": 768,
-          "height": 489,
-          "title": "Affinity’s AI-powered relationship intelligence platform is transforming CRM",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

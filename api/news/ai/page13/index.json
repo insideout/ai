@@ -2,6 +2,94 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-03-blackbirdai-ceo-covid-19-is-the-olympics-of-disinformation.md",
+      "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
+      "excerpt": "According to a new report from Blackbird.AI, a wide range of actors are leveraging confusion around the coronavirus to dupe people into amplifying false and misleading information. With COVID-19’s almost unprecedented impact around the globe, virtually every type of player in the disinformation wars, from nations to private actors ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/blackbird-ai-ceo-covid-19-is-the-olympics-of-disinformation/amp/",
+      "publishedDateTime": "2020-04-03T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/blackbird.png?fit=1200%2C601&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": "Blackbird.AI CEO: ‘COVID-19 is the Olympics of disinformation’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators.md",
+      "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
+      "excerpt": "Computer scientists from the University of Copenhagen are using AI to calculate which coronavirus patients need ventilators and intensive care. The system will help doctors identify the symptoms that seriously ill patients have in common. Hospitals could use the insights provided by the AI to work how many patients will need a ventilator at ...",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/03/scientists-are-using-ai-to-predict-which-coronavirus-patients-need-ventilators/amp/",
+      "publishedDateTime": "2020-04-03T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design50-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
       "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
       "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
@@ -1124,87 +1212,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-googles-ai-accurately-predicts-physicians-prescribing-decisions-75-of-the-time.md",
-      "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
-      "excerpt": "An AI system developed by researchers at Google and the University of California, San Francisco anticipates physician’s prescribing decisions 75% of the time, according to a paper published in the journal Clinical Pharmacology and Therapeutics. If someday applied to a health care system, it could identify prescriptions that look abnormal ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/amp/",
-      "publishedDateTime": "2020-04-02T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self-driving-car-plans.md",
-      "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
-      "excerpt": "Policy & regulation are aligning with renewables cost declines to make projects more profitable and portfolios more sustainable. Batteries are helping to optimize the power grid and opening up new ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.greentechmedia.com/articles/read/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
-      "ampWebUrl": "https://www.greentechmedia.com/amp/article/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
-      "cdnAmpWebUrl": "https://www-greentechmedia-com.cdn.ampproject.org/c/s/www.greentechmedia.com/amp/article/ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self",
-      "publishedDateTime": "2020-04-02T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Greentech Media",
-        "domain": "greentechmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/XL_Editors-news-feed_New_410_282_c1.png",
-          "width": 410,
-          "height": 282,
-          "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

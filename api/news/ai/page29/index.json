@@ -2,6 +2,88 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-03-19-synergy-emergence-in-deep-reinforcement-motor-learning.md",
+      "title": "Synergy emergence in deep reinforcement motor learning",
+      "excerpt": "Now, researchers at Tohoku University have observed a similar concept in robotic agents using deep reinforcement learning (DRL) algorithms. DRL allows robotic agents to learn the best action possible in their virtual environment. It allows complex robotic tasks to be solved whilst minimalising manual operations and achieving peak performance.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/tu-sei031920.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-19T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eurekalert.org/multimedia_ml/pub/web/10686_web.jpg",
+          "width": 645,
+          "height": 315,
+          "title": "Synergy emergence in deep reinforcement motor learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-19-microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call.md",
+      "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
+      "excerpt": "The software giant's trained artificial intelligence software to identify background noise that isn't your voice. Snackers, rejoice. Just in time for us all to be working from home because of the pandemic coronavirus,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-can-filter-out-the-sound-of-you-eating-potato-chips-on-a-conference-call/",
+      "publishedDateTime": "2020-03-19T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/JZSQgmXsYYeJrmdTuLhBplTeIGs=/756x567/2017/03/13/a8a77ece-0a9f-437e-8a76-60905540b98d/chips.jpg",
+          "width": 756,
+          "height": 567,
+          "title": "Microsoft can filter out the sound of you eating potato chips on a conference call",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-media-alert-supermicro-announces-its-first-gpu-live-forum.md",
       "title": "Media Alert: Supermicro Announces its First GPU Live Forum",
       "excerpt": "Sessions will include: GPU Accelerated VDI Solution Powered by NVIDIA vGPU High-Density Computing Blade Servers & GPU Options Intelligent Edge Computing with NVIDIA EGX End-to-End AI with Supermicro's Validated NGC and EGX Platforms Accelerating Distributed DL Training with Optimized GPU Computing Solution Infrastructure Challenges within GPU ...",
@@ -1057,81 +1139,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-three-experts-appointed-to-axons-ai-ethics-board.md",
-      "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-      "excerpt": "Axon, a provider of smart devices for reduced-force policing and security applications, has appointed three individuals to its AI Ethics Board. Axon offers products like tasers, body cameras, and drones, as well as policing software; and the company seeks to leverage Artificial Intelligence in its offerings. At a time of intensifying scrutiny ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://findbiometrics.com/biometrics-news-three-experts-appointed-to-axons-ai-ethics-board-903184/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SecuriMetrics HIIDE",
-        "domain": "findbiometrics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://findbiometrics.com/wp-content/uploads/iStock-910132252-1-e1525292879902.jpg",
-          "width": 851,
-          "height": 638,
-          "title": "Three Experts Appointed to Axon’s AI Ethics Board",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-ibm-working-on-greater-business-use-of-natural-language-processing.md",
-      "title": "IBM Working on Greater Business Use of Natural Language Processing",
-      "excerpt": "IBM today at an online event outlined a plan to bring to market new natural language processing (NLP) technology that will help computers better understand human communication and companies better communicate with their customers. The company is working on commercial applications of the NLP technology developed as part of IBM Research's Project ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=139833",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/TopStoryImages/116673-Top-Story-AI-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM Working on Greater Business Use of Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

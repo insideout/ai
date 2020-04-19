@@ -371,23 +371,31 @@
     {
       "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
       "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Supply Chain Market by ... and planning & logistics), and by end-user (manufacturing, food and beverages, healthcare, automotive, aerospace, retail, and consumer-packaged goods), and geography.",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15773783",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783",
+      "webUrl": "https://www.businesswire.com/news/home/20200409005388/en/Global-Artificial-Intelligence-Supply-Chain-Market-2020",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-04-09T04:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Business Wire",
+        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200409005388/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

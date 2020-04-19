@@ -2,6 +2,96 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-01-02-googles-deepmind-created-an-ai-for-spotting-breast-cancer-that-can-outperform-human-radiologists.md",
+      "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
+      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. Google Health and DeepMind have created an AI tool capable of spotting breast cancer with as much accuracy as a human ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/deepmind-develops-ai-for-spotting-breast-cancer-2020-1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-02T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e0dc2ff855cc233a169d124?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Google's DeepMind created an AI for spotting breast cancer that can outperform human radiologists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-02-ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal.md",
+      "title": "Ambarella shows off new robotics platform and AWS AI programming deal",
+      "excerpt": "Santa Clara, California-based company will demo the robotics platform and the Amazon SageMaker Neo technology for training machine-learning models at CES 2020, the big tech trade show in Las Vegas ...",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/02/ambarella-shows-off-new-robotics-platform-and-aws-ai-programming-deal/amp/",
+      "publishedDateTime": "2020-01-02T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/Ambarella-and-AWS-CES-2020.jpg?fit=1200%2C646&strip=all",
+          "width": 1200,
+          "height": 646,
+          "title": "Ambarella shows off new robotics platform and AWS AI programming deal",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-02-ai-creativity-will-bloom-in-2020-all-thanks-to-true-web-machine-learning.md",
       "title": "AI creativity will bloom in 2020, all thanks to true web machine learning",
       "excerpt": "TensorFlow.js is great new creative tool in the developer's arsenal. Machine learning has been trotted out as a trend to watch for many years now. But there’s good reason to talk about it in the ...",
@@ -1186,96 +1276,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2019-12-20-facebook-discovers-fakes-that-show-evolution-of-disinformation.md",
-      "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-      "excerpt": "The network exposed by Facebook used fake profile photos generated with artificial intelligence.Credit...Graphika/The Atlantic Council’s Digital Forensic Research Lab Facebook said on Friday that it had removed hundreds of accounts with ties to the Epoch ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.html",
-      "ampWebUrl": "https://www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2019/12/20/business/facebook-ai-generated-profiles.amp.html",
-      "publishedDateTime": "2019-12-20T15:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2019/12/20/business/20takedown3/20takedown3-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Facebook Discovers Fakes That Show Evolution of Disinformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2019-12-20-facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos.md",
-      "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
-      "excerpt": "Facebook says it worked with independent researchers Graphika and the Atlantic Council’s Digital Forensic Research Lab (DFRLab ... most notably that the network was using artificial intelligence to generate fake profile photos. The network banned ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/",
-      "ampWebUrl": "https://www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mnunez/2019/12/20/facebook-removes-hundreds-of-fake-pro-trump-accounts-using-ai-generated-profile-photos/amp/",
-      "publishedDateTime": "2019-12-20T15:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F939701722%2F0x0.jpg",
-          "width": 1200,
-          "height": 797,
-          "title": "Facebook Removes Hundreds of Fake Pro-Trump Accounts Using AI-Generated Profile Photos",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

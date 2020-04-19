@@ -2,6 +2,79 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-02-11-the-white-house-wants-to-spend-hundreds-of-millions-more-on-ai-research.md",
+      "title": "The White House wants to spend hundreds of millions more on AI research",
+      "excerpt": "The news: The White House is pumping hundreds of millions more dollars into artificial intelligence research. In budget plans announced on Monday, the administration bumped funding for AI research at the Defense Advanced Research Projects Agency (DARPA) from $50 million to $249 million and at the National Science Foundation from $500 million ...",
+      "heat": 157,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/f/615174/the-white-house-will-spend-hundreds-of-millions-more-on-ai-research/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-11T04:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/david-everett-strickler-igcbfrmd11i-unsplash.jpg?sw=1200&cx=0&cy=0&cw=3000&ch=1688",
+          "width": 1200,
+          "height": 675,
+          "title": "The White House wants to spend hundreds of millions more on AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-facebook-acquires-third-ai-startup-in-uk-for-40m.md",
+      "title": "Facebook Acquires Third AI Startup In UK For $40M",
+      "excerpt": "Facebook acquires a new AI startup in Deeptide Ltd. The deal went almost unnoticed save for the blog post of Deeptide's founder back in December There was no disclosed acquisition cost but sources speculates it to be $40 million Facebook's \"acquire and conquer\" strategy has landed it another startup to boost its AI game.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901",
+      "ampWebUrl": "https://www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/facebook-acquires-third-ai-startup-uk-40m-2919901?amp=1",
+      "publishedDateTime": "2020-02-11T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/01/28/facebook-reports-it-is-closer-to-setting-up.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": "Facebook Acquires Third AI Startup In UK For $40M",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-11-amds-new-arcturus-gpu-could-be-super-efficient-but-probably-wont-trouble-nvidia.md",
       "title": "AMD’s new Arcturus GPU could be super-efficient – but probably won’t trouble Nvidia",
       "excerpt": "... reckons it can win the high-end GPU battle – and dethrone Nvidia These are all the best graphics cards of 2020 Remember this is a GPU aimed at data center and heavyweight compute usage – the likes of AI applications – but seemingly we’re looking at something of a beast of a card with a 1,090MHz base clock and 1,333MHz boost, with ...",
@@ -1199,94 +1272,6 @@
         "AI",
         "Facebook AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-this-ai-could-reunite-families-after-an-earthquake.md",
-      "title": "This AI could reunite families after an earthquake",
-      "excerpt": "A new AI prototype could transform how earthquake aftermaths are managed, by predicting the safest routes that families can take to find their loved ones ... predict and verify safe routes that parents and children could take to find one another after an earthquake — and the dangerous areas they should avoid. “In the urban environment ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/10/this-ai-could-reunite-families-after-an-earthquake/amp/",
-      "publishedDateTime": "2020-02-10T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Untitled-design-2-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This AI could reunite families after an earthquake",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence.md",
-      "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
-      "excerpt": "But, again, it becomes important to mention digital marketing without an effective resolution to the customer means nothing. And, here, AI or Artificial Intelligence comes into the picture. Today, most of the companies are merging the two technologies to create outstanding business operations, which can help in business growth.",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@inforobertsmith36/7-things-digital-marketing-industry-need-to-know-about-artificial-intelligence-17cab74ff304",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*9CF2YcL5UfPcmS034ycptg.jpeg",
-          "width": 1200,
-          "height": 628,
-          "title": "7 Things Digital Marketing Industry Need To Know About Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

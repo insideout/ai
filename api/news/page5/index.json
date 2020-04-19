@@ -731,6 +731,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-14-abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution.md",
+      "title": "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution",
+      "excerpt": "Artificial intelligence-based applications are a key focus for us at Abaco, and this partnership with DeepSig allows us to show prospective customers a complete, integrated, hardware and software solution that is rugged and ready to deploy,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-1029090417",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-1029090417",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-1029090417",
+      "publishedDateTime": "2020-04-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-synopsys-powers-groq-processor-expands-in-ai-chip-market.md",
       "title": "Synopsys Powers Groq Processor, Expands in AI Chip Market",
       "excerpt": "Synopsys, Inc.’s SNPS ZeBu Server 4 product is generating a broad-based adoption by customers’ designing storage, networking and AI chips. Recently, the company announced that Groq has adopted the ZeBu Server 4 emulation solution to develop its Tensor Streaming Processor (TSP).",
@@ -756,6 +793,35 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-computer-vision-ai-safeguard-atms.md",
+      "title": "Computer Vision & AI Safeguard ATMs",
+      "excerpt": "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -978,96 +1044,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-coronavirus-how-ready-is-ai-to-detect-and-prevent-pandemics.md",
-      "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-      "excerpt": "But the technological landscape has changed. Can AI, alongside machine learning, natural language processing (NLP), and robotics be called upon to detect, prevent, and manage pandemics? Bluedot, a Canadian startup used an AI-based algorithm to warn people against traveling to China due to the possibility of a flu-like outbreak. The startup ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348804",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348804",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348804",
-      "publishedDateTime": "2020-04-13T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200407144446-GettyImages-1185375168.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Coronavirus: How Ready is AI to Detect and Prevent Pandemics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025.md",
-      "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
-      "excerpt": "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-is-expected-to-grow-at-a-cagr-of-1625-during-2017-2025-2020-04-14",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Is Expected To Grow At A CAGR Of 16.25% During 2017-2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
