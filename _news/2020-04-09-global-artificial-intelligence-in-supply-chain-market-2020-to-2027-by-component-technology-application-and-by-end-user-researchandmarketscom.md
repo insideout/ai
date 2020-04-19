@@ -1,25 +1,21 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Supply Chain Market by ... and planning & logistics), and by end-user (manufacturing, food and beverages, healthcare, automotive, aerospace, retail, and consumer-packaged goods), and geography."
+excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language"
 publishedDateTime: 2020-04-09T11:22:00Z
-webUrl: "https://www.businesswire.com/news/home/20200409005388/en/Global-Artificial-Intelligence-Supply-Chain-Market-2020"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15773783"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200409005388/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
-
-secured: "iv1KmC94NWlQSVAtb6vumjMTnoT67P+C3+AsvlqkB1i5L+T1jcKW8jpLlZ2NYoMpkequ3XkCfm3Ct3Rp2/Tzzbtzj9FE7dJO14Q4lIVFCFIQgRnIuRaGLl3MbJojLd4LcKrxBCpu7aAxY/wEqHnSiCl4a+Ti6DT7+vI6QpNBXKtczcBFE9tGvxBPE/+fUebpKmlZPhtxSzTj57j0SjFg+82nnwoZZkZDsPFBVe6VOdaajATR3WrRYAYsCuvTr8WH3HXs/Ikfqxl84+n6BuVMWUTZUiDqZdTf5gXAyoDDB4gpok1Vt4j8ZGYkpoTdUJ1CU7mVKcR2YkfeH/JMliAOKzS+7PhjVz1NA7JYiDCMIpi1GBVbGRqHjiPExItGgwxMye3pRZ8CkrcmIfaRY5QuNV2iFc7i02WTZifub6dSA7ZZ/hwJCVlOGYvbiK3Vw+vgHXzm5kcDi5jF8uzZGdkA17la/YZvqsFx2FchxEAKP/0=;dTtqjEZk1XePlwaUpidIuA=="
+secured: "Rr7SYON593j6gFdmVbLjG9jUY5HibUO2Z3YdaJoM2m8zEPYjaQU54sNpyFF1W8Ze8bdpp+5BT/LVZNNJ4LLMecbh+qvzh0NY86lT9wn1104G9WpkCk/kk9rLr7UT1SOZ7pgenMPjo0dvNhPInx8Wc+7HU4yVAB/IxJ2PpyN6Lt3nlBX0GrFePJaoLGtOIh7MMaccMW5lRofgXbedKki1cKKcIggXiX2PUpoUhNnMTcaKJZDiTmKKfdd6hfnm3vzKpqTFqzYmiyL24a2SsM6IDpCxDAi7/Il4hJaq49pbr7PIYIkd6kdzfiBgA3TbOhck;3ZAajnQi+BFlNFhegnQHxQ=="
 ---
 

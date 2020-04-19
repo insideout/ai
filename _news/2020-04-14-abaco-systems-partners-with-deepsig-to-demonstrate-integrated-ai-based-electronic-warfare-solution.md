@@ -1,25 +1,25 @@
 ---
 category: news
 title: "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution"
-excerpt: "Abaco Systems today announced that, via a partnership with DeepSig, the company is now able to demonstrate DeepSig's ground-breaking"
+excerpt: "Artificial intelligence-based applications are a key focus for us at Abaco, and this partnership with DeepSig allows us to show prospective customers a complete, integrated, hardware and software solution that is rugged and ready to deploy,"
 publishedDateTime: 2020-04-14T15:00:00Z
-webUrl: "https://www.prnewswire.com/news-releases/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-301026444.html"
+webUrl: "https://markets.businessinsider.com/news/stocks/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-1029090417"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-1029090417"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-1029090417"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/438854/Abaco_Systems_Logo.jpg?p=facebook"
-    width: 1920
-    height: 1005
-    title: "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution"
-
-secured: "u9YHxjKqUrgGwCI6TdCXHlv4oHHNVo8Oh7EbWDkvY4PzerCUSzLZcqVwecgPJX+oIMFQZ79p4oUUi24yH00fUx6RlEmyg0P/iiyyD3ZH5cOtxxkyeIN1L67yfRo09/EzBvnQUFhqXyRQx/HSZVfDqp3ZIKGMgNC0vLwhKPamvRgibGPYwko8+fAlOqcHFZzI0Y8ew2t1qkUzrzjuCzqHdlZwFP46o5y05wfELxRTXCX8m39t7Bj6oZii0XYQXzrGptgOVeAaMSeJO7A8Q14EXh6hJGaU2bsrXvrOc31nwP9EwpKOrfLN+tuk5BZRjuuAhR07aOcUw9i+bd7AeIG+quwbf8HUgbBhN65VZq7evgR6Vqk1mCT61PH08OIV7gH1B+9WL6oj9xSjxF84uVa6cJDzyvwdO6Dw6ujiuAsZuNLXvE9p8DRc5hT3xsKCqU1rxwjdUn7jlSVAeWq28T2XgaBc2ArNNeGkQLrFC8znhAc=;4Ms/eVbcyduSfw0nn8w1pw=="
+secured: "bOzQHtVz6TZmN3OUfDrZ+lrhN8PTNoEal/adOSRkT7FYcr4ILuY89AgnriSMv4C2POlciVVgYs6s0iSb3kQYcrTUKWYdeNm11tpvWuI/bk8MaKk72zztQOjTmPbUy/5Y7jrMiiHQZWC7YUJHooCULJubNm5c02BB+W6nLc730h5WBzi+643odYLy0AnaA4LdtDLtL4F9tU3CWhDMYVbY60e0hTOs+SmVYx6U/TmoQjgRSNmXUrIYr20MKMk8IRWy94XKnOWgPhGMq+75KBeyFDY2rMcEw+02GPnlqg6oeg3lj5fGRs6//jjQuIMWNBdlF4gE9bouS3UwUAbNzvMddCX41NbyPKlrSiDWG460kg3DzFqpEhAVWrLbcb5dnKKn4DM9iwCoOO6W554KjfTol9Yu5LNT0HjCCp1uD3QxtNG8YkVwYJV92EODFRbLV7wyfRI/pV8EYMDr0G3YT9Z2YaghnAvsMp2EvYvjbQ4tilA=;XF2wKHnlcwPcsNHrP0eUMA=="
 ---
 

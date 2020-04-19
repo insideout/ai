@@ -1,11 +1,11 @@
 ---
 category: news
 title: "How a team of AI researchers took on all comers at StarCraft 2"
-excerpt: "That would be even more difficult. A team from Google has done it, however. The AlphaStar AI from DeepMind triumphed over puny humans in a series of blind games (the meatbags had no idea they ..."
-publishedDateTime: 2020-04-15T12:34:00Z
-webUrl: "https://www.pcgamer.com/au/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
+excerpt: "These chips are so powerful that for the first time we’ve had to introduce liquid cooling ... Unlike chess, the sheer number of 'pieces' that are in play in StarCraft poses immense challenges to an AI. The game offers 10^26 possible legal moves at every time-step—the moments when you stop to think what to do next—and that, to use ..."
+publishedDateTime: 2020-04-15T12:25:00Z
+webUrl: "https://www.pcgamer.com/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
+ampWebUrl: "https://www.pcgamer.com/amp/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
 type: article
 quality: 59
 heat: 59
@@ -16,7 +16,7 @@ provider:
   domain: pcgamer.com
 
 topics:
-  - Google AI
+  - AI Hardware
   - AI
 
 images:
@@ -25,6 +25,6 @@ images:
     height: 675
     title: "How a team of AI researchers took on all comers at StarCraft 2"
 
-secured: "pVM+iRgChxn3ggvLX54xjMvy0xvzFHQtijn6yXULc6GVRDyjLZswDgncTNUv2dcOk3Vj2VNCydsyD9m9yBQ8woqGOI0LaXn/SneIFe2GLf4v6FtWZIa3lmXhtIM0O+hM4YKVc/d/Su0RKfkSiT1qfRA0t8qakip8BOAOm4EmGEj73x7IfYLjQkHZhg/iRW3cuMquPOPoD63sCFkl8KUIW1jq53VzS+PWBtqB9c6BnOkjpwY3krXS90yuu7XYAOWsHZWtJHHI+d1TAeCcxr3WckHWraCAurUPI4mpG3hJlvFwnAuMmqPz8LZlFUrEiF8r;1DtQskApMMqYSFAb3Qsahg=="
+secured: "M4srOChZC1NzUBlo5mtwdy0MRlej86tpmoK9IjxaiqOZrnN9WZrxrBpoMkDe0rRLIuKV3Ubz2txqzmqX6kg1knIo4hKTykZAZedTrHkZmoT9EiDq0ginRg9mjmTPkg2y3nkROgqVG4PNBsOxiqV3hkopuc0kJpu0kGmJtErnf3hv+WjBRIwOXpmVRokxB5CJl6mgfotiLB3RonywaDYrPZFPZbo/u+CIvtwipTrtWCw8RrZiWoUPngjZNGBMssfdNPq+rGOlHfqJzkPq7kpOqFF7iBDCah2GOs9VBgm2/RKd89+EziUYidIDqH0ZSdMp;43rX/GJ2at7cLotYSG3VJw=="
 ---
 

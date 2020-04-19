@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
-excerpt: "In a request for information this week, the Pentagon’s Joint Artificial Intelligence Center, or JAIC, seeks input on cutting-edge testing and evaluation capabilities to support the “full spectrum” of the Defense Department’s emerging AI technologies, including machine learning, deep learning and neural networks. According to the ..."
-publishedDateTime: 2020-04-16T21:50:00Z
-webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/?oref=ng-skybox-lander"
+excerpt: "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do. The Pentagon is shopping around for ideas from industry regarding how it might better test and evaluate future artificial intelligence products to ensure they are “safe and effective.” In a request for ..."
+publishedDateTime: 2020-04-16T21:43:00Z
+webUrl: "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/"
 type: article
-quality: 35
-heat: 35
+quality: 33
+heat: 33
 published: false
 
 provider:
@@ -14,7 +14,6 @@ provider:
   domain: nextgov.com
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -23,6 +22,6 @@ images:
     height: 400
     title: "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects"
 
-secured: "2qnk3v5CIypWtJKIqQ5FYBEAuzHpiuAqgzDy7+I17MYyPITxYxgv3FqrmviYhFdVl+77Oh2OT84WOG5I/0MxGt5CyOAzw/jXv89qqeUkYC+YBHtYHI0KHEvfVHYgekuYqZgaPanyo9u5rRGEEUIUhVsKrA4/h/tOJzWnMNNFvJyrn4DdZR93TwPtDyraCqHkzGwV/KoY9qwoBxvaJGmNWA8uPjMjKBXolQ3QaxjUsyXOYtacpwetRuPlIt1UuMoh6Nz7c16y0Q27mdBbUUaC+xNdXrgrEekrN/jEQILseHtUiD4GYNZUkpMalQAV3LaR;l6x7fu0RvvJwrcVbty98Aw=="
+secured: "HkBrwJKinDXWNVmI2qcMu5XKuVyPXiwH6iVJfq4gDyWvH9/ZpsmfJ88/xSKiPHVx3FpM4sqyECADYDgh2AA+/lC1onUwRQEm7KhdZaafq6zZh1KeWqOBDbu4z6RpkCpxjWlVFLEMd7u2y5SZZLpX/7F4od/ATCxRiXPCCxfIVaXeotxQ64R78KwCECqS0K8KkaeTw1NL0Bm1Xqohvq/EtbiKYCOTjttyc/TDDOAv0f0dX3mTYwV5FHY6W+Yq0wsA0ddfp7eJy1FK1nE2BgIB62nsMizB+12m+5HUl1fiarI53vpykuyLHxvTHNBkxIam;JR5okZM5ih6Wcj0p7RoD3A=="
 ---
 
