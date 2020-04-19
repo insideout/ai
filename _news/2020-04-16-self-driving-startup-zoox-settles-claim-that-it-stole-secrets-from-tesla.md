@@ -67,17 +67,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-self-driving-visualization-hero.jpg?quality=82&strip=all&w=1000"
         width: 1000
         height: 480
-  - title: "Self-driving startup Zoox settles trade-secrets lawsuit filed by Tesla"
-    excerpt: "Autonomous-vehicle startup Zoox said late Tuesday it has settled a lawsuit by Tesla Inc. undefined that alleged theft of trade secrets. Last year, Tesla"
-    publishedDateTime: 2020-04-15T00:23:00Z
-    webUrl: "https://www.marketwatch.com/story/self-driving-startup-zoox-settles-trade-secrets-lawsuit-filed-by-tesla-2020-04-14?siteid=yhoof2&yptr=yahoo&bcmt=1"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
   - title: "Tesla Settles Trade Secret Fight With Self-Driving Start-Up"
     excerpt: "Law360 (April 15, 2020, 6:36 PM EDT) -- Tesla Inc. has reached a settlement with self-driving tech competitor Zoox Inc. and three former Tesla employees, asking a California federal court Monday to end its suit accusing the workers of stealing company trade secrets and taking them to Zoox. Monday’s joint filing included no details ..."
     publishedDateTime: 2020-04-15T22:39:00Z

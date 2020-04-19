@@ -60,17 +60,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H"
         width: 766
         height: 545
-  - title: "Self-driving startup Zoox settles trade-secrets lawsuit filed by Tesla"
-    excerpt: "Autonomous-vehicle startup Zoox said late Tuesday it has settled a lawsuit by Tesla Inc. undefined that alleged theft of trade secrets. Last year, Tesla"
-    publishedDateTime: 2020-04-15T00:23:00Z
-    webUrl: "https://www.marketwatch.com/story/self-driving-startup-zoox-settles-trade-secrets-lawsuit-filed-by-tesla-2020-04-14?siteid=yhoof2&yptr=yahoo&bcmt=1"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/guid/4DBF3FE7-449F-400A-9CF6-B8D6BC0EEBF8"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
   - title: "Self-driving startup Zoox settles claim that it stole secrets from Tesla"
     excerpt: "The self-driving startup Zoox has settled claims that four Tesla employees stole trade secrets on the way out the door to new jobs at Zoox. Zoox has ambitious plans to build a vertically integrated taxi service, with Zoox engineers designing a vehicle, self-driving software, and a ride-hailing network. Zoox has raised hundreds of millions of ..."
     publishedDateTime: 2020-04-16T16:53:00Z

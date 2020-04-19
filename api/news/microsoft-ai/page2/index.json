@@ -525,15 +525,23 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15702747/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15702747",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15702747",
-      "publishedDateTime": "2020-03-31T00:07:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nokia-launches-ava-5g-cognitive-operations-to-help-telcos-enter-the-5g-era-1029047410",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T00:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
         "publishers": null,
         "authors": null
       },

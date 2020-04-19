@@ -7,8 +7,8 @@ webUrl: "https://www.pcgamer.com/how-a-team-of-ai-researchers-took-on-all-comers
 ampWebUrl: "https://www.pcgamer.com/amp/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
 cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/how-a-team-of-ai-researchers-took-on-all-comers-at-starcraft-2/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Google AI
 
 images:
   - url: "https://cdn.mos.cms.futurecdn.net/7PJU8U3wTDctzf42kiLXFC-1200-80.jpg"
@@ -25,6 +26,6 @@ images:
     height: 675
     title: "How a team of AI researchers took on all comers at StarCraft 2"
 
-secured: "M4srOChZC1NzUBlo5mtwdy0MRlej86tpmoK9IjxaiqOZrnN9WZrxrBpoMkDe0rRLIuKV3Ubz2txqzmqX6kg1knIo4hKTykZAZedTrHkZmoT9EiDq0ginRg9mjmTPkg2y3nkROgqVG4PNBsOxiqV3hkopuc0kJpu0kGmJtErnf3hv+WjBRIwOXpmVRokxB5CJl6mgfotiLB3RonywaDYrPZFPZbo/u+CIvtwipTrtWCw8RrZiWoUPngjZNGBMssfdNPq+rGOlHfqJzkPq7kpOqFF7iBDCah2GOs9VBgm2/RKd89+EziUYidIDqH0ZSdMp;43rX/GJ2at7cLotYSG3VJw=="
+secured: "ki6Wsldla6qcDedE+aPNqrQO1dfE1SntadYTft95QDd/HYidHVpg7wvTZKPw7UMKGsLc71Snd6c/3lJFcmzlAnG67/JepnEeaxH7EY0t27b0DQjbycI3hEEYR+4tSl0aGTD+TkJc06Le4SYNuy8v07aGWmEBShGtB8nkrpjl3TMQKIbRuRiqNDHy92gXVwtx2SYD56QhwJVOV4z3ItR6MKKXk/G7TWY1McUr/RAbTVYek8dvgVcnPqbLqCn6j+xtTFpZaj1Nxa0E7bbwZ2OFj+JCA0T9Ef7lFOBJ0e3wPxr2rLOJ4LAtbJXfHE4U5EF49ME2iXu/WvtSP98HHPb47qC9G7qCecxk/y68GC1e6O1YODuIuGfQ3Ue0N5yOrPdwokz30bvRAzQBEgFeXm6ej1gyypSXdf+D+A07NTLHJX82WJiryPpi6LroJDQfdTWq7J2Ui1hKXpSzUFAhrZWpE6885YECYGnMQMxAeU3ezSo=;8OBqxOqmdaoX0Mtt6O+AVQ=="
 ---
 
