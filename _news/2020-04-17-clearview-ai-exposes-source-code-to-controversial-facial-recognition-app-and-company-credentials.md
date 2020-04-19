@@ -8,7 +8,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearvie
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8231025/amp/Clearview-AI-exposes-source-code-controversial-facial-recognition-app-company-credentials.html"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -39,19 +39,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/generic-media-release-shirt.jpg"
         width: 700
         height: 370
-  - title: "Australian Federal Police officers trialled controversial facial recognition tool Clearview AI"
-    excerpt: "Australian Federal Police (AFP) officers trialled controversial facial recognition technology Clearview AI from late 2019, despite the agency initially denying any association with the company. Founded by Australian Hoan Ton-That, the New York-based start-up claims to have created a database that contains billions of images scraped from ..."
-    publishedDateTime: 2020-04-14T05:54:00Z
-    webUrl: "https://www.abc.net.au/news/science/2020-04-14/clearview-ai-facial-recognition-tech-australian-federal-police/12146894"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12146986-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
 
 secured: "4Cd/ZQ4lyG7Z2Jyw35kyzhiiNL4+kxqLm6CDmvlJyXhHDMIY9EmYM0arzSLhZtJK7LUb8mJcEXZTggBJZRqxmQivd73dxVLGHQR1YTMRBzdAxYBxVnzvHjzrllIMj3NinhAlcdd8zTv4hhAlKqOOTEPo5HzhUQ2Dyx+gkWfdUc/6yRiQ2i6GJG/C6CqPnUR6/TI2IXqoDTw6ImQWD5Pfrtd2PUFHo10zTmh9AEEmUYWsacpVWRnX5lPdN28gwGP0+QWtt7+VGqpg66u4a869zlba4EAQ549VAyvuzXvQ3L8eeVLVMiSHyp1TLpsPDvUINRW/F3ACe4MN5juIU1faoJyOMuYLP57k7Rpsu8PawzsdYVi1uM0Hx2gEI3f0io9mV+1wWgd670koqtGziO24GqXigNCI4lNj1KuJNtQelPhBB0fmfYhOSRzVBN+6QgOnlTpxhd3+7Z/vmqntQxYs5x9+ggo/n4/CSQJ+qxyfYNQ=;FxZAOe7g6A2D9/LAaOatnw=="
 ---

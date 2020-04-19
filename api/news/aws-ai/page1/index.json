@@ -230,7 +230,7 @@
       "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
       "title": "MindsDB raises $3 million for open source automated machine learning",
       "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
-      "heat": 107,
+      "heat": 106,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
@@ -951,7 +951,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93?src=rss",
+      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "ampWebUrl": "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "publishedDateTime": "2020-04-03T03:34:00-07:00",
@@ -969,6 +969,43 @@
           "width": 500,
           "height": 281,
           "title": "Short sellers circle virus sinners; Amazon’s looming shareholder battle; Businesses fight for prisoner releases",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-ai-researchers-scold-amazon-for-selling-flawed-face-recognition-tech-to-the-police.md",
+      "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
+      "excerpt": "Amazon has come under fire before for Rekognition, the facial recognition technology that the company has allowed police to use and which has led to concerns the company is essentially supporting ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/",
+      "ampWebUrl": "https://bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/2019/04/03/amazon-facial-recognition-open-letter/amp/",
+      "publishedDateTime": "2020-04-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://boygeniusreport.files.wordpress.com/2019/04/face-recognition.jpg?quality=98&#038;strip=all",
+          "width": 1600,
+          "height": 1050,
+          "title": "AI researchers scold Amazon for selling flawed face-recognition tech to the police",
           "attribution": null
         }
       ],
@@ -1231,43 +1268,6 @@
           "width": 1200,
           "height": 505,
           "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-amazon-web-services-aws-bank-on-ai-to-add-new-servers-everyday.md",
-      "title": "Amazon Web Services (AWS) Bank On AI to Add New Servers Everyday",
-      "excerpt": "He explained that artificial intelligence is playing a crucial role in anticipating the demand for its services. Not only it is helping AWS to meet the demand but also cutting down the cost of operations. “One of the least understood aspects of AWS is ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://dazeinfo.com/2017/05/31/amazon-web-services-ai-capacity/",
-      "ampWebUrl": "https://dazeinfo.com/2017/05/31/amazon-web-services-ai-capacity/?amp",
-      "cdnAmpWebUrl": "https://dazeinfo-com.cdn.ampproject.org/c/s/dazeinfo.com/2017/05/31/amazon-web-services-ai-capacity/?amp",
-      "publishedDateTime": "2020-04-01T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dazeinfo",
-        "domain": "dazeinfo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://dazeinfo.com/wp-content/uploads/2017/05/AWS-AI.png",
-          "width": 1000,
-          "height": 500,
-          "title": "Amazon Web Services (AWS) Bank On AI to Add New Servers Everyday",
           "attribution": null
         }
       ],

@@ -29,6 +29,6 @@ images:
     height: 1120
     title: "Nvidia's 'RTX Voice' app uses AI to improve noise canceling on RTX-powered systems"
 
-secured: "DekXnsSpL+sWrKKAkcurI8+zm6ZM76fCPrCJhIa+JbcHXfN9L8zeZcgIH/aZPhD1h/vvNhSuO0NtRBIQGclPFiqSgCG+dZEOP3Yhq1F1bDetJNaTyvrQeh8iMhJwcE5M47ViE+7qwT1xDhf5p01R15UMPHwkIYDGvyIkVy9yrsr+e9MRiYqH+GU2QbaSC+F/GY7EexdtgtOyu2YkFDudoXUssNDA+pgfYpCY2qmMA1TA+Xv5xFqvyF/IMizji2D+Cv/qb8ioYDKJki/giotFYUk7oS4WcX0H9UUp1ge0yFRBlHtHxmUqhmpYmV2EK45B;vTjBzKDootGaHahYL6Q9kA=="
+secured: "dt+RN4C4OXppxv7dAt3mwRMw603cSiQKQUqIegY4d11VtNj35SykfQmMXFqglGEQFnHF1zNL/KQgFY97OfzK8wdE1FeQ4/NAUnDNH7klJy7rmhWuAIv8HtU2qpiInnGM/QC0puzUiclVzRaog7nfsKeQluT20gKtDD7o4afv0dkS8ve2Ls7Hz56gTCCxFdcUIqjnivYZd+qNrlXnM8aCwd0BT3FVAr1kFjccZlhmOHDWw1q2eYzbk5r5o6cSIO2wo6sffPkh3d6yTJG/U7q/X6DhbNCnPJ44k3NgZidHP5phklSWFmdaIAzmciUbkeIC558y9wUqi/IPz4L7IQCSIcokOPss7br6iJVGedbEobHfg3IOz05HJ6UFpMsa21osSv3TPBLu3dWt1DN6dcYPBwKjREujvWX8eatANxrj7x4wB+yWfZiZTSU6DBW/11p59h8L3ikFQHTBQ7HmBTZPwWdM0Zif5z/Znntk+lptu4Q=;ubNwdvFxE24K21e49XBADw=="
 ---
 

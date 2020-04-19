@@ -39,19 +39,6 @@ related:
       - url: "https://i.dailymail.co.uk/1s/2020/04/17/19/25231518-0-image-a-2_1587149037389.jpg"
         width: 636
         height: 382
-  - title: "Australian Federal Police officers trialled controversial facial recognition tool Clearview AI"
-    excerpt: "Australian Federal Police (AFP) officers trialled controversial facial recognition technology Clearview AI from late 2019, despite the agency initially denying any association with the company. Founded by Australian Hoan Ton-That, the New York-based start-up claims to have created a database that contains billions of images scraped from ..."
-    publishedDateTime: 2020-04-14T05:54:00Z
-    webUrl: "https://www.abc.net.au/news/science/2020-04-14/clearview-ai-facial-recognition-tech-australian-federal-police/12146894"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 42
-    images:
-      - url: "https://www.abc.net.au/cm/rimage/12146986-16x9-large.jpg?v=2"
-        width: 700
-        height: 394
 
 secured: "7Asq+dGC9LuSZZg0RjZDD8Jt0GM9vxYR2i6B4i4ex1nMMAZ6agqwG3O1QIovn2apvS6qkZqLxiEbo7gq8Z+G9KV1dNYpeYtCVTdW+W4y6ps0+7FyYQ8FBV9HnrfJxkwX6Un9V/SX0hwBUJrT6roh8pFym/QfkT3R7M7BrZJ2Int8r1scXItp7MePebjHkZ9cip/ksANI2Tcff1+xJ/FGiwRK6INrSyqF1hz+YANzc2FuVKYKQHlPY1T9Nc4bawrkty4p9kXqPs9LMBRVkg0A/XK+0gC5MhmUft3/blHSzimEx4cxy1o6dD5JwQrfv4erHxbA3jGMqDBdFDUQnNvD+Ivk1fQE5La8BHqPrjVu9Cz0NngIIHyjacyM0plCz/LI4QR5xk8zcKB8+4MU/ViJQKGe5vHAPStqWtQwcngjyqERJdkAri0XlXwUBO3gThjqExGBAWXcmZlxnWgXbUjI48cqze5msygAN0L0eIXimXg=;BLlXFaEA7VU1fFUsyyVH2Q=="
 ---

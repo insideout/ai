@@ -2,6 +2,80 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-03-17-why-sd-wans-need-artificial-intelligence.md",
+      "title": "Why SD-WANs Need Artificial Intelligence",
+      "excerpt": "A driver still needs to be present. That is, until fully autonomous vehicles become a reality. Self-driving cars will rely on understanding road rules and use artificial intelligence (AI) to make decisions without drivers. Data will be constantly fed into the automobile, so as conditions change, so too will the AI-based decisions. The same is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3532473/why-sd-wans-need-artificial-intelligence.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/istock-1051617224-100835456-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Why SD-WANs Need Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-knives-out-tech-tackles-violent-crime.md",
+      "title": "Knives out: tech tackles violent crime",
+      "excerpt": "“This means that in a crowded environment like a train station or shopping centre, video-recognition systems that are enhanced by AI-powered threat-object recognition software can be used to identify and flag forbidden objects such as knives,” he says.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://eandt.theiet.org/content/articles/2020/03/knives-out-tech-tackles-violent-crime/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IET",
+        "domain": "theiet.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://eandt.theiet.org/media/10910/gettyimages-175224409-2048x2048_440107723754523852.jpg?crop=0.0000000000000013895057943753,0.27276577721304568,0,0.22691656077932973&cropmode=percentage&width=1200&height=450&rnd=132288417420000000",
+          "width": 1200,
+          "height": 450,
+          "title": "Knives out: tech tackles violent crime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-17-venture-capitalist-tim-draper-bitcoin-decentralization-and-artificial-intelligence-could-transform-global-industries.md",
       "title": "Venture Capitalist Tim Draper: Bitcoin, decentralization and artificial intelligence could transform global industries",
       "excerpt": "WELCOME We use cookies to enhance your experience like remembering your Time Zone. We have updated our privacy policy please check our Terms&Conditions Accept and Continue Industries that could be transformed using decentralization,",
@@ -1058,88 +1132,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-tesla-trails-waymo-cruise-and-others-in-self-driving-strategy-study-claims.md",
-      "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-      "excerpt": "Tesla's position on Navigant Research's AV development leaderboard is just about at the bottom. Waymo continues to lead the pack in terms of both vision and execution, according to Navigant's leaderboard.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-study-navigant-research-tesla-waymo-cruise/",
-      "publishedDateTime": "2020-03-16T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/JYW41s6QFq3vS977cDHZTxVbuKc=/2019/08/20/1ad7f55f-6c1a-4d83-b8e5-b2d40024b32c/waymo-florida-ogi.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Tesla trails Waymo, Cruise and others in self-driving strategy, study claims",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-17-varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in-phoenix.md",
-      "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-      "excerpt": "PALO ALTO, Calif., March 16, 2020 /PRNewswire/ -- Varian (NYSE: VAR) today announced it was selected to equip the new Ethos Personalized Adaptive Therapy Center in Phoenix, Arizona, and help",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/varian-to-equip-new-ethos-personalized-adaptive-therapy-center-in/article_db430520-912a-5b81-8dd6-2c00c7b1f532.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T17:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Varian to Equip New Ethos Personalized Adaptive Therapy Center in Phoenix",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

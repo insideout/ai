@@ -8,7 +8,7 @@ ampWebUrl: "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-a
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp"
 type: article
 quality: 70
-heat: 72
+heat: 70
 published: true
 
 provider:

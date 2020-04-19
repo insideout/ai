@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-all
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 675
     title: "AI Becomes An Ally In The Fight Against COVID-19"
 
-secured: "d1Mz8P9byQFjsSB5lJUfBKpG143+CGGexTYWlC4FLpClT9xJCSZyEa/Y3zMr1WvUMtmAk2UNsQPGaGFjVopCd7Jx6PoQgMLbLVzbvPaP3r6UPYAzh5NnQ1E6fOY09GyPIve07Wgnhuw9dAAqxITOLDJ23CEkZl6MhzCfofKuVPuYss+KGmYOuDZ3nS/yhSvdA/nnEvJZfVrYmGC6cA0dxXcsJsjJjkSlsK9zr2UdgXetltdpCPUtohp+O0i9NfSIDcr0nxQUdhUIYTiL5fxWrJ2Yl7SzKIzBcnXWw41PoXYavJaSXjB9ixxKqDGiLLZGXMY+uzStl/ww0fYB60AX7JwWDcubmcJnZgG5EmYG5ip8eXKvZQPlwm2jhbtEU3eRxQLAOe/WwGZgRN4UP/D6/9ptEBilR3xo72AN/pYVKUMhWjQHWQLZrlfGPU78lO+m/Fo3mMSQ5xrPuz96VcthYztC+ireh0oe2eHjL2Bf2Ps=;dLmq8lEK9zEbx2h2f4u6oQ=="
+secured: "gF3SjCHN1Fs8x1XtcUnPV8Mgg5eUM6buY3HbX8NJtgpVl0mQm5lvlJaMX4w0CD4DEAaTXHxKVuUX4MntOYoo0fPRFsIHmttbsxlXS1Vo0KpboGf2Ek6LZOu10z4WtsAfjtcJ/oJfmhmzvESSiS3XXnVd9ChPVD50EeHWMaaMDKZMcgCY/JFg4hz8YOqkeXzvyW2wYnrliYy8vLAQcIcAfEYLuvfoaldiwu9KOjdXzBGBoEH4WF8hOXc6tTJGac8eeLpKdunsUDBuE+dNkpD7AcA1YvJszjSts+ECqIrQ/o8FKABMPMbzxTwHBDS8CRP6gu77KTKN8RPqYsoSqisxDssH5bWqABqP7ZzyT/X2SWOchC9+hnV1bf2DcvrwddM8gAwzjKZQTJvuxqYNgWqMLH6wKYzPksaWSDnsk2PtTZWkZIBRYGGyPouPQaaB66GzHhdfIqFyuWDTydZHjNFq63Sq90ispF9csSikROV3ZeA=;o8r13ocpQ9oFCDBaj1urGg=="
 ---
 

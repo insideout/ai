@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/15/sprout-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/sprout-ai/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

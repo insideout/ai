@@ -305,6 +305,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15773783",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783",
+      "publishedDateTime": "2020-04-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
       "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
       "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
@@ -1261,50 +1290,6 @@
           "width": 1200,
           "height": 654,
           "title": "Coronavirus crisis gives an opportunity for AI to shine",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-08-ai-and-account-based-marketing-in-a-time-of-disruption.md",
-      "title": "AI And Account Based Marketing In A Time Of Disruption",
-      "excerpt": "How is AI holding up? Has the pandemic impacted the quality of data used to feed analytic tools that help marketers create both strategic and tactical scenarios and insights? Alex Atzberger: There is more data and more need for automation and AI now than ever.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/",
-      "ampWebUrl": "https://www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/04/08/ai-and-account-based-marketing-in-a-time-of-disruption/amp/",
-      "publishedDateTime": "2020-04-08T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e05d52b720000076d7f52%2F0x0.jpg",
-          "width": 1199,
-          "height": 915,
-          "title": "AI And Account Based Marketing In A Time Of Disruption",
           "attribution": null
         }
       ],

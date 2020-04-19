@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
 type: article
 quality: 104
-heat: 125
+heat: 124
 published: true
 
 provider:

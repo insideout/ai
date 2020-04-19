@@ -415,6 +415,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-09-global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-application-and-by-end-user-researchandmarketscom.md",
+      "title": "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15773783",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783",
+      "publishedDateTime": "2020-04-09T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-ai-and-the-coronavirus-fight-how-artificial-intelligence-is-taking-on-covid-19.md",
       "title": "AI and the coronavirus fight: How artificial intelligence is taking on COVID-19",
       "excerpt": "As the COVID-19 coronavirus outbreak continues to spread across the globe, companies and researchers are looking to use artificial intelligence as a way of addressing the ... turning COVID-Net from a technical implementation to a system that can be used by healthcare workers. It's also now developing a neural network for risk-stratifying ...",
@@ -1176,83 +1205,30 @@
       ]
     },
     {
-      "path": "_news/2020-03-30-10-business-functions-that-are-ready-to-use-artificial-intelligence.md",
-      "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-      "excerpt": "Artificial intelligence (AI) and machine learning are starting to be adopted by businesses across nearly every industry even though it's still a new technology, and there's no way of knowing all that it will enable us to do once it's matured.",
-      "heat": 89,
+      "path": "_news/2020-03-30-artificial-intelligence-can-speed-up-the-detection-of-stroke.md",
+      "title": "Artificial intelligence can speed up the detection of stroke",
+      "excerpt": "Timely detection and accurate segmentation of acute ischemic stroke (AIS) lesions on magnetic resonance images (MRIs) are essential for the triaging patient for endovascular therapy. Lesion ...",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/03/30/10-business-functions-that-are-ready-to-use-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-03-29T21:36:00-07:00",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/uot-aic033020.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-30T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e81761ea1a0ef0007d89a39%2F0x0.jpg%3FcropX1%3D406%26cropX2%3D2635%26cropY1%3D0%26cropY2%3D1254",
-          "width": 1200,
-          "height": 675,
-          "title": "10 Business Functions That Are Ready To Use Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-how-artificial-intelligence-is-helping-fight-the-covid-19-pandemic.md",
-      "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
-      "excerpt": "Related: We're In This Together: Business Resources, Offers, And More For MENA Entrepreneurs To Get Through The Coronavirus Pandemic As research details emerge, the data pool grows exponentially, beyond the capacity of human intelligence alone to handle ... 2. VIRTUAL HEALTHCARE ASSISTANTS (CHATBOTS) The number of COVID-19 cases has shown ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/348368",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/348368",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/348368",
-      "publishedDateTime": "2020-03-29T20:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20180508043336-shutterstock-618326639.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "How Artificial Intelligence Is Helping Fight The COVID-19 Pandemic",
+          "url": "https://www.eurekalert.org/multimedia/pub/web/228023_web.jpg",
+          "width": 453,
+          "height": 509,
+          "title": "Artificial intelligence can speed up the detection of stroke",
           "attribution": null
         }
       ],

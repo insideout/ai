@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-16T13:05:00Z
 webUrl: "https://venturebeat.com/2020/04/16/coursera-taps-ai-to-match-on-campus-courses-with-online-curricula/"
 type: article
 quality: 67
-heat: 78
+heat: 77
 published: true
 
 provider:

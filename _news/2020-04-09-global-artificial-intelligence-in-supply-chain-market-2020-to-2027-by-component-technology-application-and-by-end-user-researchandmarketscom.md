@@ -1,28 +1,21 @@
 ---
 category: news
 title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
-excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Supply Chain Market by Component (Platforms ... and planning & logistics), and by end-user (manufacturing, food and beverages, healthcare, automotive, aerospace, retail, and consumer-packaged goods), and geography. Companies Mentioned Key Topics Covered: 1. Introduction 2."
+excerpt: "The \"Artificial Intelligence in Supply Chain Market by Component (Platforms, Solutions) Technology (Machine Learning, Computer Vision, Natural Language"
 publishedDateTime: 2020-04-09T11:22:00Z
-webUrl: "https://www.businesswire.com/news/home/20200409005388/en/Global-Artificial-Intelligence-Supply-Chain-Market-2020"
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15773783/global-artificial-intelligence-in-supply-chain-market-2020-to-2027-by-component-technology-applica"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15773783"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15773783"
 type: article
-quality: 15
-heat: 15
-published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200409005388/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
-    title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
-
-secured: "U+p3CnuZwN+SOfnfD9b+G6ROwqcXfTi+a7PEJWy6KjPPkqvjufVEHWwUgeytzFZYBXsIl00s12+Ft00vBCCbZfmFUIFZIuUueQeguHvZjlDrF4LVhKVAHh+y3zfF8X/shbtH9pgMfARsyAZYk1o4CM5tITz+2PnXy0kXRm3V+z569BH8hcQsv3JhuvaYSZNS6t4SMYqZwCKAlu4Z8VxFNUlE+upD/zYXQYfbDgZXHhAah1D8eK9L2+uVYHZII3cS3LPAFswHtNOw+Z/O1CQn6E6XnngEwVDxc/wvcVfuOMzBvXRevPzYv2s4sMF4niEjwO7tv8ipHUe61XuH3hkSyqAJYS/tHrVQp/P+lguukJxuKmlvds8WkWslWjY9wD8tVVBc1Pcn+jmABdV48c5Z1AFDgmldN1r1lndAayIFK+fYy00EQBFznIjLFd/rNZcRcFURjFF5KpNII7SCraF6yNI7at+E8m1AKOzNTovgRQI=;FZmNXMfVUjvSwdN8JvyaFA=="
+secured: "J6Skpdva7gpK3Wzj5YkQwR/M9cD8zxflaZASoi/PkvVg3nOA3TwlVHSV3/5iFACJ+eSJ7jQnr581Dn48VLrpeGx7x2ghH8s7M7b7nWhjD1VQn0+I3LFoIscZYkS1yfgm4HF54lr2+HM4pRWqN98YRcRFjg3no/T+KSblIvUJXm+eozRYE2xIT3z2KGmuvxaQNVvxhSl+NkCDjQys8Sx7kfhweWK1ZqHVPihplleIUOZj0L+2A57AKOWxbdVPC8eqhr77WlPDwEnrTixhFbHNgubitD66aOIQo2MY04e9gY11iybiKOdmvDoTGeLOy9Af;mHksyCaeRCph2ogq3VbloQ=="
 ---
 

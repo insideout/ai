@@ -8,7 +8,7 @@ ampWebUrl: "https://techcrunch.com/2020/04/16/clearview-source-code-lapse/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/clearview-source-code-lapse/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

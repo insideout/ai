@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:
@@ -24,6 +24,6 @@ topics:
   - AI
   - TensorFlow
 
-secured: "nIlqGE0r7JFvZmFcH4qc4CaIpy5GUNWXzObwdYtRbzlkBnSk7QZQpCf7lBBlC8Zhv/bKE7eE1+i1SJi/jhfGyT1qFFsddpYRAuinCarmyFePOpMa+qzl+N1YjbzYV1Xwh43orOa4ULfyxt1x7sfCgzgIw+cSkOoVZ8wjcu9WPSNMwDvwQkBaoCDkOyEOpKAFHJjCx9AVhXib/EnnIzYwKER6b31sWDHSvL0LbjhR0QR8UV+yNB3A7trfbMSbTCkIoyJWSfUWaadwhcvEsKXZGuzSLxMf4YbZOcXJh1ydaNvhQAFZPrfIR47O4+AprGMK;zKxIwUGvUTinJITerV3SJw=="
+secured: "HFyrvI7d2C/DPNGCaY9BUHcK36Ejmnnug+gOIsFZiBJJb2D2l0Df0FimDhX6+0xjohSpMuDVsQ6/yDMEhMzXR+en0zDQXzs2jiaHj/qO9CMSqiwj00MJIulzr2FCWsnHjNgDjHKly6Xsjq/mgZExfBAxY6mcj2gatzDQq6pU6fPSv3RedeoMB2P44KOqUzc+RVFqdZnk2+ZWDgyHNONVKd+40fQqn5V7q6a199Ck8F+09ZNq9S+25FwnR6QtXdforBzXDiJAe0lc5RA8+M9ejE7gjSeoutjGr6+H1LZylrTQaLIXCLCZgKTU54ohzQG9;tPdIe7P+ay1UdAiH7V+kDQ=="
 ---
 

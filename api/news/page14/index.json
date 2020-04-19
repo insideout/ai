@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-05-self-supervised-learning-is-the-future-of-ai.md",
+      "title": "Self-supervised learning is the future of AI",
+      "excerpt": "Despite the huge contributions of deep learning to the field of artificial intelligence, there’s something very wrong with it: It requires huge amounts of data. This is one thing that both the ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/05/self-supervised-learning-is-the-future-of-ai-syndication/amp/",
+      "publishedDateTime": "2020-04-04T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/10/4-human-caused-biases-we-need-to-fix-for-machine-learning1-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Self-supervised learning is the future of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-05-us-blocks-amazon-efforts-to-stop-shareholder-votes-on-facial-recognition.md",
       "title": "US blocks Amazon efforts to stop shareholder votes on facial recognition",
       "excerpt": "One proposal would require Amazon to cease offering facial recognition ... that might result from the service, known as Rekognition. Both proposals face uphill battles to receive a majority ...",
@@ -978,52 +1023,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-us-economy-and-national-security.md",
-      "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-      "excerpt": "Other recommendations in the report include: On matters of privacy and ethics, the Commission singles out Clearview AI, a company that scraped billions of images from the web to create a facial recognition system, as an example of invasive AI-powered tech that should be avoided. Tech companies that track the location of individuals ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/tech-leaders-highlight-military-ai-and-5g-investments-they-call-essential-to-u-s-economy-and-national-security/amp/",
-      "publishedDateTime": "2020-04-03T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6146265.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "Tech leaders highlight military AI and 5G investments they call essential to U.S economy and national security",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

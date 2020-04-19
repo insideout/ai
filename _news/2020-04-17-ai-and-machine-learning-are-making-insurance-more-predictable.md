@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learn
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-are-making-insurance-more-predictable/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 675
     title: "AI and machine learning are making insurance more predictable"
 
-secured: "7h5Ti1KvnMq47t8HRSuUb8yZ/ESfzSBEsxsYvm5RANIekdaFV68kRQCnILKen3jka0q+1XS91g28SSSPPV8f6f6MhmZXlm3lShdHFZXZtctUBD1mbZSYakYbvtZP+rKwu6M0sfL+TCax/ckS18SGEKLS6a2Ejvfbuz4RNazlSGC7KN5nJhozXuq2SCpFAxGuiNqYonqz3pmDSA1t7FBEdgRW4r+SCt8erngbTCaiEcnsuq2ehoORvS5Vu7wh9gRniV0Li5tYHB4kjHcuODWpVbXH4a9bkkjEPH8oLC6E+t3lDzi9o+b4Ct3/L4vlfJOJGu3+HUIV7Y1fG3uhD845IGNSWS1v+tg6E5PuMFjEN6a7w04Vv/96FfmITuUVQiHVk90DbBa+aSKEySei0BfaSennsW3kFkoEG8GhHPYFBCUbMR/ikWmb3ML2GWJIiXCaGh2Npp5UcA2GBrLjewpwJQ214aqZ0v+MRiuAcmpCNN0=;DYpTseH6TleTrQRctOhTzA=="
+secured: "NNECFW6HpoZV5JB8MBBI2XsRkIe1D/1T0pYddcTlJWShcYYGTNVL6kkasb/GM55xVqWX71MiXstAkPVgfQr66qlPyzeGA7unHnqdSBajBIhHm3a0ePdqn0x9gdmUpblshXWFGMG20FGWVRjREJUBNVXR41k2wMSQ8NSW7OXL7IDKsQLi+G6AAGHn0CoxY0l5Xf6NqUyWxWo0E47W7aU4cS3eBmW3L07rah8M4P6NpJwiGIJatg1TFheB9iDv3zfPPdyD75G1RF5S9jeWV5fyxZef7AkoKixZWJ8/QKzwbpolludxL0P15fXI3uQXHapO2JwukM2Y9lz/1Eqa+hvUzPHjHJYs9lgpaIpR9GAyDUh1f65c/g+ZwmmfiFxMv97WCXcLKBMkbOjBqZ8XDiRXzD0AP9B0zRuKkdiyr7Y0PIzrAPrj9q0at8mYngnx+7UFcjEB48YlMKX9LBFbeIlTp2rr7tre5K1FYgoZzPqA3wA=;yaOPS7n/rs2YVwderHhxBw=="
 ---
 

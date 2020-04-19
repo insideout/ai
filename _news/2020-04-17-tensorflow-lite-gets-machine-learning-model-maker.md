@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T18:36:00Z
 webUrl: "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 299
     title: "TensorFlow Lite gets machine learning model maker"
 
-secured: "6kJEMXUpwg/3+Xywkb4l2QnvHwjmxdJxsFul38799PGxoqsTuzhFPJPpIoxpKphW8lTPI+jvLcTqJ0zmoGBLi9F/GYFO+WbnWn4ZAAwHQ9oyHa3HuLcWLKlUWFK7JEW+d03WJ+Hlu0VNtkYV2RvWIJ42U0ghRyMzDiqTTwDUJmOLMOAlEA8/1Y9SoYkUffHBv/P/57JHh1M0f7TEFUN1J3sNHGzmEAXsGii8LKqc+yojFZ6tOLMO7dQhzES1TTT8YvyXYh+P1oH0czwe7a7/3Xdyi93cnCHrtG47HI3nyLODSnIs3USJzyN2FJ7J/l024tHijLH+YZguWiAQpPFDDBBmMQBKr1MSeZPrPI82CosH2qIWFockEOKSDM0532ZeJTSZBmoZqpyTqaaMWIgfAQk4Xc0rO1MPLeUz4x6JREcKMpIo86NelPcfM5YDK7hP8tOncvwA7QZJK0N3ElId1HR9Nl8iuqtGcEgzV0m8/sY=;BcMJOZqrlfWpLAAWmNZmzg=="
+secured: "DUBMHsiJhcAXmn+zp2NiXAkUn+MF/qjprNplkBGZeAZEHF0wHKzaz+Oofn1h6Bx9ZjWlP2cVAszEHR/REKq6/y4uB1dwgmWZR9fYrZ9KO1zoMoYFbqOuOvhPkCyFOvWSUTcxhR3ZR3VOk4Wmhy89B3viZzXKJngeIAuMbg8sUvNqkdCBS1jiUKNFcDjPmqjULJitToAdY31GEkycttSHPL+XyBZKKc1x8vkQ/ykAszrLzZeHR8QoTWWhxtW4VVTDp5u4xQkXrwVd1wW0FcqrCvmcKfGDUP3V+xqRsZwMSi7Veaet+CRxvqMCU1FIRWSQg+4pZFPdvR4zRlOAhxcmsb/JIPjxjPNtofu9Js2IJWu4hgfASt5SeO1xZnoS7JBABVvW/TBZ15ZvmLGccY/Y+Qg+K32d+6xxEbvT4qDpxwvBh401r/r1UvzBGDKy7TvTF5vH/BpkTfjEU9ds4ExBaKYEGObx8Xx15+GfjjZoEZQ=;aihM2iNoIVVDYh2on7rhFg=="
 ---
 
