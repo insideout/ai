@@ -1,27 +1,25 @@
 ---
 category: news
 title: "9 AI Stocks We’re Leaning on More and More"
-excerpt: "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ..."
-publishedDateTime: 2020-04-07T15:12:00Z
-webUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/"
-ampWebUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
-cdnAmpWebUrl: "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
+excerpt: "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and"
+publishedDateTime: 2020-04-07T13:05:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749"
 type: article
 
 provider:
-  name: InvestorPlace
-  domain: investorplace.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Facebook AI
+  - IBM AI
   - AI
 
-images:
-  - url: "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg"
-    width: 1600
-    height: 900
-    title: "9 AI Stocks We’re Leaning on More and More"
-
-secured: "i7JG3n6vtHUU30BduUWjIHwmrTYnkRMDGkNBoK6WyLUBJ30I5J2zC8OT0AJi7WnNQJpxflWFbN68mla/DuocbzDC3+4LR4ltW8wF8rtFeWBzcuIbLwvEKyXdy4gBg1CqYGtpcPoiLFE2hyBwu18GM+alGaPn+kA8JCUHfI9eds9newhZNBuBG7tfd0CCmFNMIu2KfBehGS46zBRC8ITKyxRnDHdF0L2uvJdF3szA5ao/+A1MoM59vnRkzQc3aqxBsY3uZprZ24ZIBsRGJZgLpc3UyQKaB9BRSlXf9TkIoOrVuMuU+WZ54BMYaUhvNupG;xlN2haqnhYpjuAop1V+u9g=="
+secured: "YhYcIGWBpU3+6j5n2EJhapyoH1V1U6Vgt58TZWL2sn8cS6toyvRDmi7RGPNEG1e17ttrOMwrOEvHnRR3MVw3CDaG7dgQlx30l1uuHeDENCS6b0yWfyjA2IssDfMSjdVsZ18kACTAsdpH1Tnq3kjP6TzifeKtjEVgMa2Vqm8kogfDuX4Azd8ZlvbVDU4uOlc3q66XttDm9SfFSppr1cZiFlnqbnDG6/ynaLm/9gSQkUP6Ij6U597SMJC8Q6DIcPVv1Q6AKNsCIc6tJOsRE3gFR/qrz8cpF3BVsJ1AAHqXLvkg7u7/G5JlWC+mJTj3VkRT23clukGtElPt6bqrtwAgYGqRnHqKxXbslhYbvQ5xkkTCqrhK1UxLzSSspK3HOI2zCN7JXQP3W58ELUUsoPTjN5lWXUZHcBVYQNRHSEwigqq0Xz64G1ZCisV44+n3FqCyXbPeDPrHxNLfnMwBPDT16zUvJurZBJdZURHg6WpiHzo=;vkGrLLoNdFYJCwD2DExVTg=="
 ---
 

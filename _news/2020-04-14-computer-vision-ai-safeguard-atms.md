@@ -2,25 +2,21 @@
 category: news
 title: "Computer Vision & AI Safeguard ATMs"
 excerpt: "Italy’s Banca Monte dei Paschi di Siena turned to advanced technology that could reliably detect installation of skimming devices, respect the privacy of bank customers, and reduce the load on operators. ATMSense is an aftermarket intelligent vision system that can be deployed on existing ATMs."
-publishedDateTime: 2020-04-14T13:47:00Z
-webUrl: "https://www.infoworld.com/resources/201265/computer-vision-ai-safeguard-atms"
+publishedDateTime: 2020-04-14T13:24:00Z
+webUrl: "https://www.computerworld.com/resources/201265/computer-vision-ai-safeguard-atms"
 type: article
-quality: 64
-heat: 64
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "RPuZCr8teugn6QmWSPxr/v5lD/jsIi3kti5MC9+b6hpQoeWhYN+v1ANybSXr9IK/KPFU4s1rWsGjkB8HXqUe0ZApA4BmG76hF7TNb0b26wQe6sw5wHpVquUzjyBdSYrP4o54pk2haAlRzJJX/a6L2KAA3U2PhlOvKjBFP2eKZHW578W9GNT30BvA5lUe/jopNfXUXM5Na2Sqc+gv2qryGIw5k20HtwcTwdu0LTxUl+HIznsFehvt/qJn7+iavTQP9uOUkMxCnPs+GC7QEE1KXXFEmkD+VUjiL/+7CIzNQx1olpRv9DNuTzfn+9Ci5tHFmsSKJ8j3Q/BYNSIRll6raXGBWGuRkMX3xfv8AQEAd0bBUHGdczQtvD6yOVJ0nK+Ep3Y2TjOcDjcSvtAiQnF4D9CDKO3x6kEfzEIWI+9Segaj1Raxyx+7mOWGvT52OismGp7lAFzZMh69uX6PLUGSuOjR2xWT7H9Om/h1aPqQi9s=;96IDqykXcN8qECir2l5CmQ=="
+secured: "a1m76nRjksxhCPvyLRe7UnB8bh+8r2sfeP01bAm70161aPudtW1gFbEpttMhgqCXHgU+gvHuvL8U/C5D9Qytf0yJjXzMMpmCAMj1K5y/iXCu/AwH6Voh0vIoxlvdpqziePKseAdmUh8B2SbzSqbpFT+lj9kkEs6hZvd/Ka8QOdsaFOeRt6LYwMdgotAUI4X/zxvDj33+fM/pRq9qAbc0aD2I98k2AdfeFtnln9vH8goI8R0diGPU0mFEY8OUZCUBogqwyuJli+Q/Jsph8f/sVf6qHNHpQl3p9QNjiHtNvXg62ZAQagfNJHAZ9/paap8poX8/fVI/S6xqoy4TX3SDXxtocV8/x6QCsXJDj6fQSrbHZzicST3e+q/cO4IuCNukkWhZLXJHELlmVlDVLXJG9eX9EOambUjCRt+GK+dDeY8V9VyU820MGPo73CsajYetq7TGD+wC7VLg0SSIu7F8uOrsXKNPRvqFJCYGbmizvdU=;ZnRCx2IPUC91h3cCClhiwQ=="
 ---
 

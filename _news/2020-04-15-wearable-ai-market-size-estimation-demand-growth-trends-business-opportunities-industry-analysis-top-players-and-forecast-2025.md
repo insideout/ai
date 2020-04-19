@@ -26,6 +26,21 @@ images:
     height: 630
     title: "Wearable AI Market Size Estimation, Demand, Growth Trends, Business Opportunities, Industry Analysis, Top Players and Forecast 2025"
 
+related:
+  - title: "Artificial Intelligence in Global Medical Imaging Markets, 2027: Growth Prospects, Key Trends, Leading Companies"
+    excerpt: "The \"AI in Medical Imaging Market - Global Industry Analysis, Size, Share, Growth, Trends, and Forecast, 2019-2027\" report has been added"
+    publishedDateTime: 2020-04-15T18:15:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-global-medical-imaging-markets-2027-growth-prospects-key-trends-leading-companies-301041121.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 16
+    images:
+      - url: "http://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+
 secured: "wHu5+1hoX8U3Ul2QH1uWrlYci7t4NjPntE/njNKTgSBepp60GIVTyXfUGQlPtqwRknnYxSWg1JFXA9V7DNyXQeHEFjMkNOEdNZoxo+YPQUq/FfSOaq91UAdnBJt/5hGC99y0nbhy/wBEfO7jE9mHCFMx2fuWZpsyc4ZXmiS8wxdkElP4R+2KEEJryHR8/tJ7q++2lijdvknvhhwf1AoCPCKLv4gfCTS8BzTC+75hXcWouLftFyOz9pnN11YB80XxpyhAftfXNENyeJk5740kqTzXpgatP2Y+ftmcGDsSKh0tFtjxJ7/YHxr2JMtzbb6m;GMpHWShwdyLuTABe0/5niQ=="
 ---
 

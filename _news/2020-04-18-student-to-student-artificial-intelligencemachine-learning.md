@@ -5,8 +5,8 @@ excerpt: "Artificial Intelligence (AI) has recently gained widespread popularity
 publishedDateTime: 2020-04-18T23:28:00Z
 webUrl: "https://www.rit.edu/news/student-student-artificial-intelligencemachine-learning"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2020-04/Tyler-Hayes.jpg?itok=G4WAYXeK"
