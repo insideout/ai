@@ -1,9 +1,9 @@
 ---
 category: news
 title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
-excerpt: "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions. While the details of the relationship are confidential,"
-publishedDateTime: 2020-04-17T12:33:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
+excerpt: "utilization of artificial intelligence (AI) and IBM's Watson capabilities to effect positive and empowering change for consumers when working with the American healthcare system. In development ..."
+publishedDateTime: 2020-04-17T13:03:00Z
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions/article_bd7661a1-ef09-596d-a592-242638e0c699.html"
 type: article
 quality: 15
 heat: 15
@@ -23,6 +23,6 @@ images:
     height: 400
     title: "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions"
 
-secured: "7HC7I5i7ZE4iwuDDDTWntf4wztXEOwaCIuMBO14PXZCSF66iGnnfqcCpNvag8OMEDbvbxPYhHaNlVVCQ8vESo3hChvBl1Z+m1NFaqDyieczZIN8ZkEBWK/Qn0NqsD0oJy7bUyFHQRj+ekhohjw3HAC12SyaaAwAPJAH3+TCQWHqkit68gXCWrrgyvCyLKGYtekUZk7o/yY2uL/RE+H98RS4HUFkavuzGPgmUZmdRKqPZU9r+grYm6/t2kzhuhteOalBbbIhQUQ0HHPBjWPFFSQWqkC+mpiQHs/eX6kkqku6GH5OibzYPBumyg9C6Jj14;qNixz8+LXzp+RpJPyyVQCQ=="
+secured: "Q7m5evJ65AGrhxwDw+8iyWtWG/6WxFWzTARhqNqgW97fIi3WvvH0l05RUwIrNaiDKpsWfLJ5IW3BOp1fF+7pRohBqB+Ua9nvGI8/g+PpRQaLnysIZjndngSAnD2xc45rKsj1wIDZiyLygWsOERabg457ysV8qCb3ql3NZPjk0rOKLnhNwnfkQ/YpxB410KMpKN9wwgLxAW7GxwAwPW4OPFGPjK9qR8o2gIonRrtVQPbaLrMCDOP0Wm91uh0U3+u+kVXAO0H8PG/E0phDTlMdAht0eqFSvH2JS2iLF7rsRR08yjh1ELYjPSt5dvt3Jg/TojSh3LETKhLXWI9alnZhSxvdWOw9snk+sH2bp5oWdHbYha/u/lVP5OA5cBlBAewQA+WIiMt3tzrxr9RH0Nl1i6L6LYVEl6MCxKMPMaBvRCp5enDnLCzrk09CFvsXSQKxfNQBaQTGUNlyIYCc84254kMnEiBj6Y39pYFdx894YBI=;Jz58iOAyCqKMdhhzqAVsFA=="
 ---
 

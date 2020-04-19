@@ -5,9 +5,6 @@ excerpt: "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview,
 publishedDateTime: 2020-04-11T11:30:00Z
 webUrl: "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: InfoQ
@@ -23,6 +20,6 @@ images:
     height: 835
     title: "Amazon Announces General Availability of AWS Deepcomposer"
 
-secured: "gRLNQ/bD8aeqq/lMwCRz6qRaid6hLoEruXsuclPVkkgoNpcb9F4OVvZmfip3Y1j7m48Pii6vAbnCg9NMDj+b0geiMXXfCxS8xG5IMlq/eWQiN1u/LXVtJVjeBbel7DtYMF2mBWwYd7rZEjFzinYvcjimX0UMhWsP6fiOi6qIPi1Us29EwI+1GajevjQq3RGqq6sG7+4Z+onRxhjBv0R1MKKgfyycynHccn2Bb5Pqjp60s/saq8o+gez7id/ZaD7Rz9sJNvExJKERTd56mI1mte8Q22Ae6enVlzWURA7nwkaYuiqKBX5kgTIKRPNAU34+;8rkzMlHntmjtRXQMk6/mFA=="
+secured: "ybKY3RxWqdJBLlh/qOv+Zczywo37C/719fz5fFhaufdQ37U44x03v72FbxQv5GiMtL+mO92hzmG9O6Vhc6d3qf8Y+tMGmVw2MWRFAtK5Td+zE1VRt3xY/naNej+3pp/8OOAKpn3HnV2y6pM7ZVt1wEyn20ot3YX8OuKbM2mEW16rK64kTJTl/mP7Nt5+P/HV9W5xNl2yO8o+/YZ0m36mNe3UwSkvBHu9CdcL0bKh8fTsv5csqRwKKOZXnX/GtKCDP/T99jmiHIeXqYLTRw3jUWII8W6xPTsVA4XvF/GJ9BXfsfykKQm02UfIjS1yGamv;VPGw1spMSZdvTY6WIdwGww=="
 ---
 

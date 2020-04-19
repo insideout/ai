@@ -8,7 +8,7 @@ ampWebUrl: "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -30,21 +30,6 @@ images:
     title: "Server screw-up exposes Clearview’s facial recognition AI software"
 
 related:
-  - title: "AFP used Clearview AI facial recognition software to counter child exploitation"
-    excerpt: "The Australian Federal Police (AFP) has admitted to using a facial recognition tool, despite not having an appropriate legislative framework in place, to help counter child exploitation. Australia’s encryption laws: An insider’s guide Australia now has world-first encryption laws. This guide explains what the laws can do, what they cannot ..."
-    publishedDateTime: 2020-04-15T03:40:00Z
-    webUrl: "https://www.zdnet.com/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/afp-used-clearview-ai-facial-recognition-software-to-counter-child-exploitation/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2019/10/23/105b9074-ceb1-4c7a-a8a0-d5581a1692fb/thumbnail/1200x675/307c4159c7d59289c5956ef469302170/fingerprint1.jpg"
-        width: 1200
-        height: 675
   - title: "Clearview AI’s source code and app data exposed in cybersecurity lapse"
     excerpt: "A security lapse at controversial facial recognition startup Clearview AI meant that its source code, some of its secret keys and cloud storage credentials, and even copies of its apps were publicly accessible."
     publishedDateTime: 2020-04-17T09:36:00Z

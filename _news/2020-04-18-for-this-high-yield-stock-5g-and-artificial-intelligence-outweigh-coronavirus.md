@@ -2,8 +2,8 @@
 category: news
 title: "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus"
 excerpt: "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips."
-publishedDateTime: 2020-04-18T18:15:00Z
-webUrl: "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx"
+publishedDateTime: 2020-04-18T22:07:00Z
+webUrl: "https://www.fool.com/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/18/for-this-high-yield-stock-5g-and-artificial-intell.aspx"
 type: article
@@ -28,6 +28,6 @@ images:
     height: 800
     title: "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus"
 
-secured: "5mtr9OuH8ELPx1fzb74uV6a5WG7kJRIeo5+HC2k10PEb2ChJp6apRpmbxPAzz3KSF58kbx/zaqIOlvZy1pMKLE7WBf3CHr1NwUoeoDdMpbNR2eKGENRY2HDBysEV5h5rxq7x+An05wUqMGA0Croy9ohXRnx/t6bNprYaXZ58QJh0Fv/eHZ5Mq7XRDy2MzqfRTcjNspYm6BMeRbjt7q7DOE1efni3xZp1PVt+mF/DsPs99eC1EWXTb1o5K576g31jCbg0WtwLtLnNAKs6Q3F4FjcecUDTBAhIprQDf1p3hFOzoj+kXSHOjV3iWD7GVn30BrjSL9LTKUmcK1H8KtFSYY7UWMu8S52UgGxz6nz9abMUd6npEQ/lEF4dePaj0R1jVLgvV4A+D0RA9+fZJzQgBafCwUOly1KY/y7F4he06sv+F6vb/pP3QxKXKhHF4Gg29Tgej5swVjP+TJykFUW7odS1DoGwyhXnV3jzYVZ4w+k=;zE/sGoXI2p6Z/QBpVn89MQ=="
+secured: "ji14wjBZyKMGz0DLBY3YwhpsHBbECplIKhAtv4sPwT6Sx7/dhkZyh//4V5pIz4Q/SoTkm94RuYa/UO7iCZS7NeobVvoEIrgGyopEA9NXttU87V2LtOFzRXqU/RL/Ac8Qc62S0z2+7ZLqUh5aTBjfmRartR/wIBeTd1w9kEa9Vj5mzii482LPPFLwXd84e2Ocx09UCpy7PfHR683bRtZbbQaPbGMpSHOKD8DSWXrzmIjfeCrVCSxQcTuvbtc0MgMGUQYEqy1Wyu9mKROBATvP2rfpHqSPvMWq+6q4alMT7dsNHN2xrBNYnxijuAPiSbDY;kIcUZ7okMnekanqrpiRL9A=="
 ---
 

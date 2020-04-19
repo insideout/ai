@@ -24,6 +24,6 @@ images:
     height: 630
     title: "BlackRock and Microsoft Form Strategic Partnership to Host Aladdin on Azure as BlackRock Readies Aladdin for Next Chapter of Innovation"
 
-secured: "L6v+pdJpu/BElhNejEHXgh7zAMLbsi9DqePvD9MeV5w3dgH6nlK8xNfOP9tcdPH0vi1QdVX8oomwrASYkhT32mXOcl/9OGh78nM0Em2HIlB3YuWQSCkf/TzIhJ69aOKlzxxgKP556011gC2zf9tGRLaD4XuoZuy0BoIcGywd4Tk5fC0d91RrELlyEjNnzmTmXN5IQlDp+hq+y1dhCZir7YUSbxoLOEObz945SzLmyMjX0waxLH8o6Wz+oPfV5OjkYrE1yyG/+uNNHGy4qUf5czxWlbHWeDhdnpolGY7LLHKbELxC5nyUk5GfRDLE41Wx;HLbpdKIGs2K8USLdZQHuaw=="
+secured: "TQ+DpmOyxwf72tsO5Of48ruhktMhJm73k5wmUnZ9eJFJbcKJ8fmBpov2SC+c3h9APvw+McD91ByUfhSZVtHt5C5YNxIS0vU7PFwyazbR3Sw5XMq0XBmk/NuX+1gW6DRNO99bt6pl9GpGzV+3mM0JXTXoG26pgD1tFoX9QvEyDuzabiHLq4vZxT1Ay+qlJKwjfEYqmi93nJ7kPyfYEDN6/MmJL4O3jMEJ99Ij3B9Blyx1wiaiBwL0uNv+3XMnzEED+WeXo+2BEhtjRCvlxcJvydcmzFJNk2MdACOywtFtqFFickCCCKPTTQ3jwqn/hqGP;3DFP+RGXtRoeoV5cUHATdg=="
 ---
 
