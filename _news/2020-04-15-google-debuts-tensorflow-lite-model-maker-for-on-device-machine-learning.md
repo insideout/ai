@@ -26,21 +26,19 @@ images:
     title: "Google debuts TensorFlow Lite Model Maker for on-device machine learning"
 
 related:
-  - title: "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI"
-    excerpt: "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ..."
-    publishedDateTime: 2020-04-14T18:12:00Z
-    webUrl: "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/"
+  - title: "TensorFlow Lite gets machine learning model maker"
+    excerpt: "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ..."
+    publishedDateTime: 2020-04-17T18:36:00Z
+    webUrl: "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 114
+      name: SD Times
+      domain: sdtimes.com
+    quality: 103
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all"
-        width: 1200
-        height: 600
+      - url: "https://sdtimes.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-13-at-4.22.27-PM.png"
+        width: 781
+        height: 299
 
 secured: "tX//u0YuUj2fLbDJIjf3ET90vvtS0AtE36jc9e5AmvLTeBM+L5sExUqKek/9xR97cUhrkrx9xRxm4/p9ISywzNjfbdTSQMzg/FIO1tlCCKi+5W6ylIH4rOs7ejEXFSEZcl3kEU+GUV1rtDNW/TvBfLXvanGIZIb5aQTOqZj5G/uCkJ+6MaJKrcu+Q+Pe+X3xjLdUJTKlF0N+55nk08ioPHrR1fV7JY6Btfo3LufGBX7IzGhTIKsKBkRPOqfCB9jYNkFR2JeLth/4spXK5x+0aqCRETYcVUOEr3+kJA6VD+Gn3g+3+t3mMD5d2HOGRsc+Dsy/uB9Vshtt9kuGp9Key1lH4ZjiB2zVJKJ4PNs5rjy8owS00Xe20xGUk+xtBIDJWYhTTpgqPOM3juHv1PLJdQcEzOur0N7ZtAn0zOsv2kD65U68WuVteK6Z/M/4ZlTcaaAgP/GRA3SgQI8RiEiU1pp3TQQeKEivCPrZ5TTSkCk=;Vw1sVZHGposBL/PMMN+TIw=="
 ---

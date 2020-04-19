@@ -2,6 +2,50 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2020-01-20-ai-does-for-security-what-apac-firms-cannot.md",
+      "title": "AI does for security what APAC firms cannot",
+      "excerpt": "Artificial intelligence (AI) will increasingly play a critical role in helping Asia-Pacific businesses cope with a fast-evolving threat landscape as well as an attack surface that is fast expanding amidst a hyperconnected environment. Organisations today face several key issues brought on by the adoption of cloud, Internet of Things (IoT ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/ai-does-for-security-what-apac-firms-cannot/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-does-for-security-what-apac-firms-cannot/",
+      "publishedDateTime": "2020-01-20T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/01/20/35933b74-57f6-49a4-9041-95b10c5f94b6/screenshot-2020-01-20-19-59-59.png",
+          "width": 1248,
+          "height": 603,
+          "title": "AI does for security what APAC firms cannot",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-20-this-ai-powered-cockpit-knows-when-to-cut-off-the-driver.md",
       "title": "This AI-Powered Cockpit Knows When To Cut Off The Driver",
       "excerpt": "A Taiwanese startup has developed a car cockpit that knows when the computer should take back the wheel from tired, sick or incompetent human drivers.",
@@ -1238,42 +1282,6 @@
           "width": 796,
           "height": 417,
           "title": "Why using AI to screen job applicants is almost always a bunch of crap",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100.md",
-      "title": "Whoever leads in artificial intelligence in 2030 will rule the world until 2100",
-      "excerpt": "A couple of years ago, Vladimir Putin warned Russians that the country that led in technologies using artificial intelligence will dominate the globe. He was right to be worried. Russia is now a minor player, and the race seems now to be mainly between the United States and China. But don’t count out the European Union just yet; the EU is ...",
-      "heat": 153,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/",
-      "ampWebUrl": "https://www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/blog/future-development/2020/01/17/whoever-leads-in-artificial-intelligence-in-2030-will-rule-the-world-until-2100/amp/",
-      "publishedDateTime": "2020-01-17T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2.wp.com/www.brookings.edu/wp-content/uploads/2020/01/200117_global_ai_fig2.jpg?fit=400%2C9999px&quality=1#038;ssl=1",
-          "width": 400,
-          "height": 857,
-          "title": "Whoever leads in artificial intelligence in 2030 will rule the world until 2100",
           "attribution": null
         }
       ],

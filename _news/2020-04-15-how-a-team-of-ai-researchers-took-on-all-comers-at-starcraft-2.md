@@ -25,6 +25,6 @@ images:
     height: 675
     title: "How a team of AI researchers took on all comers at StarCraft 2"
 
-secured: "/luIPRKPZ3jjnl/aFkMi0tMc/PN04S7bO9h5apoJ1t2HRF5/HvuD46/LCIuI+EsuHObDZw8rQ64XjgwE8UbCWhWuZI38KrsfzgVoQCwWXo+k/aNPZCnQjxiNZtI9Ds7+A7guF/fL5m1cW4mT1ybgPDAr1jTxBSrQH70Mh7C2lPsJIbf8WzsqSNsy8aycP89T7xKkcZm/V43Oehuie89CMp3gW3Z11f1Sb5SOrQPhvuYaD9ErCPqn6zQd+Q2gO8Mle/8aCUCt32aTDl0m9nuBvi4e2je53In69gZzLFyDPVTAmvtbBvNnUZdL1QcI3b55;HVaiidQxt04qbapERV6AXw=="
+secured: "qg8f60+diXZmLkcI7uJq8TxoRqU5im6rkWo3oHwIyK0awdOiu93YBk8JhatK3btuqQzMP5bM5X0/lo7YgXXNI6MRk4HS1+GhAutonO+ExuDHJS2KBDNp4QuWbVJfO9pjjRFTX3PKHEXw9Ryr8iwsSVAHEpiXL6PLSvTxE7MGaql9JNB4fKurG3J4P+vF4727seUPgy77p2ipyPfWRKKwdHaPBjMuq+CtoihdqR0kv85ODxe+xQiFXgNx8G+2Lm0o1825LPHPD64tlGf/4m/mY+nNT95wk9C+mzk62T08jLiVBeAzbgGEkIkQ9dE9OPxr;eqBDtOHhKAdu7s5HFFk2SQ=="
 ---
 

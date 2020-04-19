@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T18:36:00Z
 webUrl: "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/"
 type: article
 quality: 103
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,21 @@ images:
     height: 299
     title: "TensorFlow Lite gets machine learning model maker"
 
-secured: "D5SXklm7/YdWgaFsFWQOFmsp7QeXQulbNxFFFbZR90UZ0flM5Bv6vQXxHjoSD5AfwniJLGb4b5h8T8A/TZzzYJuQ2e5+yH5LIoWvLPlRKJ/AHAnKvwrUVEEt/zdJGLxIgGgzSFgIoaYzOMAF/2e5EjRt2g2+j9DdFKAZUfShFrex8Tmi5joJpcMzuQplYQnzwjuQBSpD8J2QMC5bcles+yl4KSIEgMeRyulExdkQ67YWaNI3yyKS5ku9AC0+jpRvFKZzrukxyRQrFZUf7fFt78gV22LTu9WshqWSiv2c3hnplqpiXcm89FhvOIDEnMt3a1UdwnHC4aHW0ilHftrHEJwDjuivOfOrBVeNhXRG25W/X7Fah4H+V7cSh0GV0PeWmLPyzRlfSLyYQ5wRVCWmUGmJioLzG3apE5VQZC7+7CmknzW74fJhykQx6MiFDH5Fxcxrz4GKsCcsIQeEzRZJQxI8QRi4AMeLRp8IyLq+C7g=;8qYuB5VfKTj4HnX2IBvBUg=="
+related:
+  - title: "Google debuts TensorFlow Lite Model Maker for on-device machine learning"
+    excerpt: "Google LLC has announced a new tool called TensorFlow Lite Model Maker, which uses a technique known as “transfer learning” to adapt machine learning models to custom data sets. TensorFlow Lite is a slimmed-down version of Google’s TensorFlow framework for training machine learning models. It’s a set of tools that’s used by developers ..."
+    publishedDateTime: 2020-04-15T00:37:00Z
+    webUrl: "https://siliconangle.com/2020/04/14/google-debuts-tensorflow-lite-model-maker-device-machine-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 72
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/04/TensorFlowLogo-2100x1200.jpg"
+        width: 2100
+        height: 1200
+
+secured: "ABDCWoIi1uugphc+O8q02rA0g5wOPsiFnisDhAIyoUTPn/gk9zwS90j664yTstH5TuSMUGTRtANL0lynhZdDtpBsRJrEwJGAfQ3bL1J6T/1Kd2ScT9+AfwouZ6mMwMM7b8koCmdVp/MzOat3a5rFGKAf8YBVSYV7NN4gksFfJHpW64ip2s9+8yxUXJXWoZilKEoClH+/c127W8+8iA3itriAix5tH4dSNwk+MdNwnyHVu4fgSUZ4CECpXy7vfZZsN66h51PxTUIJljPAGNUpzsJjlBSauQUqAlJoM3WA9YYh9+9U+ZyyiH8UMvX9FCGnKbhkK7KBp73M8AkO7z12/Nv/rT33GYwQNUKwdVfgFfpCfDFxgNK1LSx9/QXhunvGCYgDDLfXbhl7X+zWpwBu5yw1LHatAKGxIAKqjUDyWbI4uANxSCYIhcChlfWNhMJ+uaFGsEh1nk1fy49/3AKvGhWByBXWOPWUe2L1a2yJvOY=;P84Cj+2F5lAmXcKWJxw0lw=="
 ---
 

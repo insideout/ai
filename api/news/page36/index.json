@@ -2,6 +2,43 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-03-18-azure-netapp-files-become-hipaa-compliant.md",
+      "title": "Azure NetApp files become HIPAA compliant",
+      "excerpt": "In March 2018, Microsoft released automation for HIPAA/HITRUST compliance in the form of its new Azure Security and Compliance Blueprint for HIPAA/HITRUST – Health Data & AI. Azure Blueprints by Microsoft are resources to help build and launch cloud-powered applications that comply with stringent regulations and standards. Included in the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632",
+      "ampWebUrl": "https://www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/azure-netapp-files-become-hipaa-compliant/428632?amp=1",
+      "publishedDateTime": "2020-03-18T12:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2020/03/GettyImages-1127091365-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": "Azure NetApp files become HIPAA compliant",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-18-machine-learning-pushes-quantum-computing-forward.md",
       "title": "Machine learning pushes quantum computing forward",
       "excerpt": "Researchers have created a machine learning framework to precisely locate atom-sized quantum bits in silicon. It’s a crucial step for building a large-scale silicon quantum computer, the researchers report. Here, Muhammad Usman and Lloyd Hollenberg of the University of Melbourne explain their research and what it means for the future of ...",
@@ -909,35 +946,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-enzo-villani-former-nasdaq-strategist-and-fintech-ma-executive-raising-100-million-for-new-hedge-fund-focused-on-blockchain-and-digital-currencies.md",
-      "title": "Enzo Villani, Former Nasdaq Strategist and Fintech M&A Executive Raising $100 Million for New Hedge Fund Focused on Blockchain and Digital Currencies",
-      "excerpt": "Alpha Sigma Capital combines executives from Wall Street, digital currency and private equity to fund blockchain companies that demonstrate promise.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/18/2002586/0/en/Enzo-Villani-Former-Nasdaq-Strategist-and-Fintech-M-A-Executive-Raising-100-Million-for-New-Hedge-Fund-Focused-on-Blockchain-and-Digital-Currencies.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T05:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

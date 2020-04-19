@@ -2,6 +2,50 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-03-27-ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way.md",
+      "title": "AI Can Help Us Fight Infectious Diseases In A More Effective Way",
+      "excerpt": "The COVID-19 pandemic has created a sense of urgency to improve current approaches for prevention and treatment of infectious diseases. Fortunately, currently available AI and data science approaches can help us fight infectious diseases in a more effective way and improve human healthcare.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/amp/",
+      "publishedDateTime": "2020-03-27T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7d6ef3281468000685d08e%2F0x0.jpg",
+          "width": 1200,
+          "height": 1062,
+          "title": "AI Can Help Us Fight Infectious Diseases In A More Effective Way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-deep-learning-what-you-need-to-know.md",
       "title": "Deep Learning: What You Need To Know",
       "excerpt": "During the past decade, deep learning has seen groundbreaking developments in the field of AI (A. But what is this technology? And why is it so important? Well, let’s first get a definition of deep learning.",
@@ -988,35 +1032,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-27-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
-      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
-      "excerpt": "Windows NT version 4.0 (Microsoft) does not recognize USB ... efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement claims.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

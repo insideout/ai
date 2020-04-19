@@ -2,6 +2,43 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-02-20-patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.md",
+      "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
+      "excerpt": "Given the consequences of uncontrolled blood sugar levels, Turchin and colleagues set out to better understand why insulin therapy initiation is frequently delayed. The team used natural language processing -- an artificial intelligence tool that can scan through large amounts of data to pull out key phrases -- to comb through clinical ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200220/Patients-with-type-2-diabetes-who-decline-insulin-therapy-had-worse-blood-sugar-control.aspx",
+      "publishedDateTime": "2020-02-20T04:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fBlood_glucose-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Patients with type 2 diabetes who decline insulin therapy had worse blood sugar control",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-finnish-city-espoo-pioneers-civic-ai-with-education-and-explainability.md",
       "title": "Finnish city Espoo pioneers civic AI with education and explainability",
       "excerpt": "Espoo has already conducted AI trials that initially required overcoming technical hurdles but ultimately improved city services. Over the long-term, the city is crafting a model that places ethics at the center of its AI plans by ensuring citizens can understand how these systems work and participate in debates about their implementation.",
@@ -1234,51 +1271,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales.md",
-      "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
-      "excerpt": "NOAA scientist Erin Moreland felt sure there was a technological solution to help her team sort through millions of aerial images of ice each year. She hit the jackpot with artificial intelligence. (Photo provided by NOAA) That better way is now here — an idea that began, unusually enough, with the view from Moreland’s Seattle office window ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/features/artificial-intelligence-makes-a-splash-in-efforts-to-protect-alaskas-ice-seals-and-beluga-whales/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/2020/02/me2-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": "Artificial intelligence makes a splash in efforts to protect Alaska’s ice seals and beluga whales",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

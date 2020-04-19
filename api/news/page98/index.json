@@ -2,6 +2,43 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2020-01-21-macworld-speculates-that-apple-bought-xnorai-to-make-siri-smarter.md",
+      "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
+      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
+      "heat": 169,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
+      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "publishedDateTime": "2020-01-21T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Macworld speculates that Apple bought Xnor.ai to make Siri smarter",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-01-21-scrappy-company-leapfrogs-the-pack-with-functioning-robot-taxis.md",
       "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
       "excerpt": "His value proposition was that an evolving hardware stack that in early days consisted of nothing more visible spectrum cameras paired with the right AI would be enough for safe L4 autonomous driving ... Recently, AutoX announced a partnership with Fiat Chrysler (FCAU) to start rolling out the first \"Hardware Ready\" robotaxi for the Asia ...",
@@ -1042,43 +1079,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-20-airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership.md",
-      "title": "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership",
-      "excerpt": "In this partnership, Jio is also leveraging Microsoft’s speech and language cognitive services for its device ecosystem, providing support in 13 Indian languages, with the flexibility to add other languages. While both Google and Microsoft have entered into a partnership with Indian telcos, Amazon Web Services (AWS) is currently leading the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/",
-      "ampWebUrl": "https://inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/airtel-teams-up-with-google-cloud-to-take-on-jio-microsoft-partnership/amp/",
-      "publishedDateTime": "2020-01-20T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i0.wp.com/cdn.inc42.com/wp-content/uploads/2020/01/Untitled-design-2020-01-20T211049.620.jpg?fit=1200%2C628&#038;ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": "Airtel Teams Up With Google Cloud To Take On Jio-Microsoft Partnership",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
