@@ -2,14 +2,14 @@
 category: news
 title: "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer"
 excerpt: "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ..."
-publishedDateTime: 2020-04-17T11:00:00Z
-webUrl: "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
-ampWebUrl: "https://www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
-cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
+publishedDateTime: 2020-04-19T02:30:00Z
+webUrl: "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
+ampWebUrl: "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
+cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
 type: article
 quality: 81
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: VICE
@@ -32,10 +32,10 @@ images:
 related:
   - title: "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer"
     excerpt: "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ..."
-    publishedDateTime: 2020-04-19T02:30:00Z
-    webUrl: "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
-    ampWebUrl: "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
-    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
+    publishedDateTime: 2020-04-17T11:00:00Z
+    webUrl: "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
+    ampWebUrl: "https://www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer"
     type: article
     provider:
       name: VICE
@@ -46,6 +46,6 @@ related:
         width: 1440
         height: 810
 
-secured: "v1Y4DTn0CPkDm3inCjiSFrM2bS5pOUtD1RidwZAwRFoXFxR16G0g3dDkFjOntc4UzrghQj/Od6cnRwLFcCQ8QToWj8+Z+yetRobVhvkzsANPuLh8Zwo138cHAXdnAUN6KRPQsqiKTQk4xofPWQCwZXkUuCOKjOTrMFa8MTbyQFVE8JLjplLLPdEFYzJaBW4RA0ccpOOiuyOMIiBci8nk9GO5AsfdWrnNWBbvb1PR2cRei772kBj59NqMekuwuXREMHPSgiAHzKK7eX6ZRyq9JXSZbWyr8vEvU7XokOBePCuB1hLBYik7hSs9uMNlm4J6ywLeuXnAksrvdpdqVBwm49G0uoUDJGPRAwYDUUQ+qfkTHQmmIFuYRiunlA6w45jJVd3ODOrYj1cQSgqQT0QwUa/I5ZZf1eEsVWHkzQGatKM5Hojz2hKQob5Ou+ClpzNIECGLgJu2rnzkXfAECcq4rBa8RtK64tbr2B9EbxFB/mE=;lSEFVoFU3WLETOqSmvgjgg=="
+secured: "vFS8gPp54Hd8vNC/jV1e9lmTzvCje9uC9WUdYs0wx/c9tbex2L8yhSUpiTcDnydphEhnL33Rk+A66FPH7LiIrlS97d60rri/VAm4NhIEYu3m6/OnjuTcPF7AimHk3JXkckP35v/FCfeqcQCjX2zdJJMbk1j7q2QxDomWMTpDofmaOHrFogn6RaDo+yiFaW3BGx4DXlXzV8rEvlyt6IpezoAquqElc4mV2OKG/qtKFgLGYzbWbxIFAgumutTSV3cNX2RLfEXZrQMYSnbBLjvSz8EcFCYlRAt+RvfcfC5thC0HOzOWD8lAWdnk91HGhsNq;vjCCWBK/hbjEecM/KCi2Sw=="
 ---
 

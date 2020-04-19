@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-17-server-screw-up-exposes-clearviews-facial-recognition-ai-software.md",
+      "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+      "excerpt": "Clearview AI is widely seen as a privacy nightmare by the public and even privacy-challenged tech giants like Google. Now, the company has shown that it can’t even take care of its own data, according to a report from TechCrunch. It managed to expose its source code to anyone with an internet connection due to a server misconfiguration ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/clearview-ai-source-code-security-lapse-092558647.html",
+      "ampWebUrl": "https://www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/clearview-ai-source-code-security-lapse-092558647.html",
+      "publishedDateTime": "2020-04-17T02:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F28ce59d0-8081-11ea-bdfc-a85012ce4b5d&client=amp-blogside-v2&signature=f9db85aae85bfe0ff86ffd4d1d3a741e271a4252",
+          "width": 600,
+          "height": 350,
+          "title": "Server screw-up exposes Clearview’s facial recognition AI software",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-artificial-intelligence-trends-to-watch-out-for.md",
       "title": "Artificial Intelligence Trends To Watch Out For",
       "excerpt": "Trends and predictions in Artificial Intelligence can be difficult to predict, but one thing is certain - AI will make significant strides in the healthcare sector more so now given that we are battling a once in a lifetime pandemic. Although many businesses today throw the term “AI” around casually in their grey literature, it perfectly ...",
@@ -50,7 +95,7 @@
       "path": "_news/2020-04-17-artificial-intelligence-market-size-share-ai-industry-trends-and-forecast.md",
       "title": "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast",
       "excerpt": "According to the latest report by IMARC Group, titled \"Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence market size experienced healthy growth during 2014-2019.",
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-ai-industry-trends-and-forecast-2020-04-17",
@@ -1263,50 +1308,6 @@
           "width": 1200,
           "height": 625,
           "title": "Coursera taps AI to match on-campus courses with online curricula",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed.md",
-      "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
-      "excerpt": "India’s Yellow Messenger operates a conversational AI platform used by companies including Accenture, Flipkart and Grab to communicate with employees and customers. The startup is announcing new ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/16/conversational-ai-startup-yellow-messenger-raises-20m-series-b-from-lightspeed/amp/",
-      "publishedDateTime": "2020-04-16T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Team-YM-Co-founders.png?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Conversational AI startup Yellow Messenger raises $20M Series B from Lightspeed",
           "attribution": null
         }
       ],

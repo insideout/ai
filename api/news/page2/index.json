@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-17-ai-gets-into-the-fight-with-covid-19.md",
+      "title": "AI Gets Into The Fight With COVID-19",
+      "excerpt": "Recent surveys, studies, forecasts and other quantitative assessments of of AI highlight the role AI plays in fighting the Coronavirus, the business impact of AI, and what the American public feels about it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/04/17/ai-gets-into-the-fight-with-covid-19/amp/",
+      "publishedDateTime": "2020-04-17T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1213736109%2F0x0.jpg",
+          "width": 1199,
+          "height": 778,
+          "title": "AI Gets Into The Fight With COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-teslas-acquisition-of-deepscale-starts-to-pay-off-with-new-ip-in-machine-learning.md",
       "title": "Tesla’s acquisition of DeepScale starts to pay off with new IP in machine learning",
       "excerpt": "Tesla’s acquisition of machine-learning startup DeepScale is starting to pay off, with the team hired through the acquisition starting to deliver new IP for the automaker. Late last year, it was revealed that Tesla acquired DeepScale, a Bay Area-based startup that focuses on “Deep Neural Network (DNN)” for self-driving vehicles ...",
@@ -138,7 +182,7 @@
       "path": "_news/2020-04-17-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
       "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
       "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.vice.com/en_us/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
@@ -273,7 +317,7 @@
       "path": "_news/2020-04-17-artificial-intelligence-market-size-share-ai-industry-trends-and-forecast.md",
       "title": "Artificial Intelligence Market Size, Share | AI Industry Trends and Forecast",
       "excerpt": "According to the latest report by IMARC Group, titled \"Artificial Intelligence Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025,\" the global artificial intelligence market size experienced healthy growth during 2014-2019.",
-      "heat": 111,
+      "heat": 101,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-share-ai-industry-trends-and-forecast-2020-04-17",
@@ -1054,51 +1098,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-former-fbi-agent-of-25-years-explains-how-to-speed-read-body-languagenow-that-were-wearing-face-masks.md",
-      "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-      "excerpt": "Our facial expressions reflect our current emotional conditions. But now that many of us are required to wear face masks (to prevent the spread of coronavirus), detecting each other's thoughts and feelings can be tricky.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/retired-fbi-agent-how-to-read-body-language-during-coronavirus-when-wearing-face-masks.html",
-      "publishedDateTime": "2020-04-16T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106490292-1586980001137gettyimages-1154813597.jpg?v=1586980056",
-          "width": 6720,
-          "height": 4480,
-          "title": "Former FBI agent of 25 years explains how to 'speed-read' body language—now that we're wearing face masks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
