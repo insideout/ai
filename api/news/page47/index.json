@@ -2,6 +2,43 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
+      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T11:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-is-inter-company-automation-the-next-frontier-for-ai-a-new-startup-backboneai-says-yes.md",
       "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
       "excerpt": "BackboneAI is designed to fill the need for automation between companies, a distinct approach from other solutions that focus on AI within a company or between a company and its customers. The startup was founded by Rob Bailey with seed funding of $4.",
@@ -943,52 +980,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-improves-the-way-watson-products-analyze-language.md",
-      "title": "IBM Improves the Way Watson Products Analyze Language",
-      "excerpt": "The company is enhancing several of its Watson artificial-intelligence products with technology designed to help businesses better process and analyze human language, whether it comes from text or voice.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/ibm-improves-the-way-watson-products-analyze-language-11583880567",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://si.wsj.net/public/resources/images/B3-GH238_robtho_SOC_20200310183834.jpg",
-          "width": 900,
-          "height": 471,
-          "title": "IBM Improves the Way Watson Products Analyze Language",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

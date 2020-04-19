@@ -2,6 +2,50 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2020-01-17-the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts.md",
+      "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
+      "excerpt": "Just as technology has transformed many other industries, it’s impacting the legal sector as well. Rather than just take over tasks that have traditionally been done by lawyers, artificial intelligence is expected to completely transform the industry and make online courts ubiquitous.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/01/17/the-future-of-lawyers-legal-tech-ai-big-data-and-online-courts/amp/",
+      "publishedDateTime": "2020-01-16T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e214479735f8c00079a0916%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "The Future of Lawyers: Legal Tech, AI, Big Data And Online Courts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-best-of-arxivorg-for-ai-machine-learning-and-deep-learning-december-2019.md",
       "title": "Best of arXiv.org for AI, Machine Learning, and Deep Learning – December 2019",
       "excerpt": "In this recurring monthly feature, we filter recent research papers appearing on the arXiv.org preprint server for compelling subjects relating to AI, machine learning and deep learning – from disciplines including statistics, mathematics and computer science – and provide you with a useful “best of” list for the past month. Researchers ...",
@@ -1024,42 +1068,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-16-apple-acquires-artificial-intelligence-company-xnoraiheres-what-that-company-is.md",
-      "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-      "excerpt": "Apple (APPL) has reportedly acquired a company called Xnor.ai. The little-known, and difficult to pronounce, company is a Seattle-based artificial intelligence start-up. It was founded in 2016 by researchers at the Allen Institute for Artificial Intelligence. Xnor.ai’s mission is to enable AI algorithms to run on small devices—such as ...",
-      "heat": 66,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thestreet.com/video/apple-acquisition-of-xnor-ai-explained",
-      "ampWebUrl": "https://www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/video/apple-acquisition-of-xnor-ai-explained",
-      "publishedDateTime": "2020-01-16T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://content.jwplatform.com/thumbs/twa6yTzs-720.jpg",
-          "width": 720,
-          "height": 406,
-          "title": "Apple Acquires Artificial Intelligence Company Xnor.ai—Here's What That Company Is",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

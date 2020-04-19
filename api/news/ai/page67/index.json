@@ -2,6 +2,50 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-06-tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence.md",
+      "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
+      "excerpt": "Machine learning has made its way to Tinder, with the $1.2 billion dating app now using artificial intelligence (AI) to block people for inappropriate behavior. The at-least-initial anonymity of dating apps demonstrates that trolling behavior isn't reserved for Reddit or other forum-heavy websites. The popular dating app Tinder has made ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/tinder-users-can-now-block-inappropriate-users-thanks-to-artificial-intelligence/",
+      "publishedDateTime": "2020-02-06T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/06/f0bddc71-bfa6-4c79-9a42-db243b6fc1ca/resize/1200x/a5dcceb097c9efc8fc93ea0388f42181/tinder-app-gettyimages-1192325872.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": "Tinder users can now block inappropriate users thanks to artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-06-will-advancements-in-tech-make-homo-sapiens-go-extinct.md",
       "title": "Will Advancements In Tech Make Homo Sapiens Go Extinct?",
       "excerpt": "Very recently Johns Hopkins Applied Physics Lab developed a mind-controlled robotic arm. It has granted new life and leverage to a man who had lost his arm to cancer in 2005. This has been a huge ...",
@@ -1208,50 +1252,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-a-new-device-uses-ai-to-identify-fake-pairs-of-nike-and-adidas-sneakers-in-seconds-heres-how-the-authentication-technology-works.md",
-      "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-      "excerpt": "One of the biggest problems in the sneaker resale market may now be more manageable. Here's a new technology that uses AI to fight counterfeits.",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2",
-      "ampWebUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
-      "publishedDateTime": "2020-02-05T05:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e3477d95bc79c46c13d960e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

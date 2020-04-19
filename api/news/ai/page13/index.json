@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-03-clinical-ai-startup-jvion-launches-covid-community-vulnerability-map.md",
+      "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
+      "excerpt": "In an effort to help flatten the curve in the coronavirus pandemic, clinical AI startup Jvion has launched the COVID Community Vulnerability Map, a free, publicly available tool that identifies populations—down to the census block level—that are likely to experience severe outcomes requiring hospitalization if they contract the virus.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/clinical-ai-startup-jvion-launches-covid-community-vulnerability-map/",
+      "publishedDateTime": "2020-04-03T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/04/03/75ed8f15-e5a5-49f5-9892-df69b2755c95/resize/1200x/6cb7e80e70af315b753960d372303a21/jvion-shot-2020-04-03-at-11-09-35-am.png",
+          "width": 1200,
+          "height": 975,
+          "title": "Clinical AI startup Jvion launches COVID community vulnerability map",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-seattle-machine-learning-startup-octoml-raises-15m-from-amplify-and-madrona.md",
       "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
       "excerpt": "Founded by a group of computer science experts, the company aims to help companies deploy machine learning models on various hardware configurations. OctoML is led by the creators of Apache TVM, an open source “deep learning compiler stack” that started as a research project at the UW’s Paul G. Allen School of Computer Science ...",
@@ -349,7 +394,7 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93?src=rss",
+      "webUrl": "https://www.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "ampWebUrl": "https://amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/03355c3c-52d1-42da-8218-90524d458d93",
       "publishedDateTime": "2020-04-03T03:34:00-07:00",
@@ -1184,51 +1229,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks.md",
-      "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
-      "excerpt": "As a multiplayer game publisher, you may often need to either over-provision resources or manually manage compute allocation when launching or maintaining an online game to avoid long player wait times. You need to develop, configure, and deploy tools that help you monitor and control the compute allocation.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T11:39:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/14/reducing-player-wait-time-1.gif",
-          "width": 541,
-          "height": 363,
-          "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

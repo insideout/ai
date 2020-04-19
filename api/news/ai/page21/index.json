@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-03-27-ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way.md",
+      "title": "AI Can Help Us Fight Infectious Diseases In A More Effective Way",
+      "excerpt": "The COVID-19 pandemic has created a sense of urgency to improve current approaches for prevention and treatment of infectious diseases. Fortunately, currently available AI and data science approaches can help us fight infectious diseases in a more effective way and improve human healthcare.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/03/27/ai-can-help-us-fight-infectious-diseases-in-a-more-effective-way/amp/",
+      "publishedDateTime": "2020-03-27T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e7d6ef3281468000685d08e%2F0x0.jpg",
+          "width": 1200,
+          "height": 1062,
+          "title": "AI Can Help Us Fight Infectious Diseases In A More Effective Way",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-deep-learning-what-you-need-to-know.md",
       "title": "Deep Learning: What You Need To Know",
       "excerpt": "During the past decade, deep learning has seen groundbreaking developments in the field of AI (A. But what is this technology? And why is it so important? Well, let’s first get a definition of deep learning.",
@@ -1190,52 +1234,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-c3ai-microsoft-help-launch-the-c3ai-digital-transformation-institute.md",
-      "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-      "excerpt": "Additionally, C3.ai and Microsoft will contribute an $310 million in-kind, including use of the C3 AI Suite and Microsoft Azure computing, storage, and technical resources to support the consortium. C3.ai DTI will be jointly managed and hosted by the University of California at Berkeley and the University of Illinois at Urbana-Champaign.",
-      "heat": 136,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-microsoft-help-launch-the-c3-ai-digital-transformation-institute/",
-      "publishedDateTime": "2020-03-26T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/26/7a4cdb90-55e4-47df-bcef-2270e436b848/thumbnail/1200x675/a8d26ed3f62e8f9e33bc56df07bd93c5/online-learning-gets-its-moment-due-to-c-5e7a254b72c9c14f48d15807-1-mar-26-2020-18-29-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "C3.ai, Microsoft help launch the C3.ai Digital Transformation Institute",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

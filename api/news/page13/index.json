@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-06-introducing-recommendation-scores-in-amazon-personalize.md",
+      "title": "Introducing recommendation scores in Amazon Personalize",
+      "excerpt": "Amazon Personalize enables you to personalize your website, app, ads, emails, and more, using the same machine learning technology as used by Amazon.com, without requiring any prior machine learning experience. Using Amazon Personalize, you can generate personalized recommendations for your users through",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-recommendation-scores-in-amazon-personalize/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T12:54:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/06/recommendation-scores-3-799x630.gif",
+          "width": 799,
+          "height": 630,
+          "title": "Introducing recommendation scores in Amazon Personalize",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-nvidia-is-contributing-its-ai-smarts-to-help-fight-covid-19.md",
       "title": "NVIDIA is contributing its AI smarts to help fight COVID-19",
       "excerpt": "NVIDIA will add to this by providing expertise in AI, biology and large-scale computing optimizations. NVIDIA is also providing access to its own SaturnV supercomputer, but the primary focus is on its AI experience. The company likened the Consortium’s efforts to the Moon race. Ideally, this will speed up work for scientists who need ...",
@@ -841,14 +886,14 @@
     {
       "path": "_news/2020-04-06-watson-speech-to-text-review.md",
       "title": "Watson Speech to Text review",
-      "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity, and somewhat patchy BETA features may put some businesses off.",
+      "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.techradar.com/in/reviews/watson-speech-to-text-review",
+      "webUrl": "https://www.techradar.com/reviews/watson-speech-to-text-review",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T03:24:00-07:00",
+      "publishedDateTime": "2020-04-06T03:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -991,51 +1036,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-05-heres-the-top-stock-to-buy-with-your-coronavirus-stimulus-check.md",
-      "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
-      "excerpt": "Alphabet's artificial intelligence (AI) initiatives should open up a ginormous market opportunity for the company. Its Google Nest AI-enabled smart home products represent just the tip of the iceberg. My view is that Alphabet's Waymo self-driving car business could really take off over the next decade. I'm not the only one who is optimistic ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/05/heres-the-top-stock-to-buy-with-your-coronavirus-s.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-05T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/566132/us-capitol-building-with-100-bills.jpg",
-          "width": 2160,
-          "height": 1387,
-          "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
