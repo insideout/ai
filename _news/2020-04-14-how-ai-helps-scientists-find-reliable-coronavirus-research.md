@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-fin
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -27,19 +27,6 @@ images:
     width: 796
     height: 417
     title: "How AI helps scientists find reliable coronavirus research"
-
-related:
-  - title: "The best (and worst) parts of distance learning during the coronavirus crisis"
-    excerpt: "Most frustrating: “The most frustrating thing about distance learning is finding the balance between being there for my school kids and my own kids. It’s a delicate balance, which I have yet to master.” Best part: “The best thing at BVP right now is the deep and personal connections that adults are having with individual students and ..."
-    publishedDateTime: 2020-04-14T12:34:00Z
-    webUrl: "https://www.bostonglobe.com/2020/04/14/metro/best-worst-parts-distance-learning-during-coronavirus-crisis/"
-    ampWebUrl: "https://www.bostonglobe.com/2020/04/14/metro/best-worst-parts-distance-learning-during-coronavirus-crisis/?outputType=amp"
-    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/04/14/metro/best-worst-parts-distance-learning-during-coronavirus-crisis/?outputType=amp"
-    type: article
-    provider:
-      name: The Boston Globe
-      domain: bostonglobe.com
-    quality: 21
 
 secured: "fpt/xLQ8HfkO03iv3zomY8ss7cZyCf72NRwvvaZrjS8AxAevmlY1Rlj2IvI3m3Ucca39WDcQMrtE7Rt1/zfpCDA1K7JbK1Zn3RkCMZHuHOTebONa4wpT5hKPZsz2GUiUKNu4zgm9ikBsXPb5DWcsvHOS5JTqlJV7hmIdoifW6OpUvx8crT9zTNtcA2Tqslj5nrvhc90kJSzcp3PgBiEfXOcy2G2s5FxOqv/KIKHYPaPCszEzqLqIyOMHXrCwhICMD5/iUpQwCn7EsjypFnb1oCaZP8u3AFqIKTHZh4tWqSFUdXm1MemRCh8e9AkJaYO+56mvGIJ4Eo4RfDqG9uRPGrag93uwc8J2xH5UR26D79Rt8jIaK8dcecxO9FqZfq0Bwj06KSqEOaX9TwvIOnQ6PwRWrF1OItbfm8uWsxpckNvD1hlZzpMG9YvCcoA4g9tR5BokqUlSDwjXBNpw0uG4rQrUEi0Fsmse2tFCgwb6RpU=;1gUE7PJyrGgmLHVP6xBAhQ=="
 ---

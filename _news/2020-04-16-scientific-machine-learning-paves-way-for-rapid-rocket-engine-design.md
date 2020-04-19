@@ -2,26 +2,24 @@
 category: news
 title: "Scientific machine learning paves way for rapid rocket engine design"
 excerpt: "One group of researchers at The University of Texas at Austin is developing new \"scientific machine learning\" methods to address this challenge. Scientific machine learning is a relatively new field that blends scientific computing with machine learning. Through a combination of physics modeling and data-driven learning, it becomes possible to ..."
-publishedDateTime: 2020-04-16T17:01:00Z
-webUrl: "https://www.eurekalert.org/pub_releases/2020-04/uota-sml041620.php"
+publishedDateTime: 2020-04-16T23:35:00Z
+webUrl: "https://www.sciencedaily.com/releases/2020/04/200416135837.htm"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/229424_web.jpg"
-    width: 1440
-    height: 1028
-    title: "Scientific machine learning paves way for rapid rocket engine design"
 
 related:
   - title: "Computer Vision Research Engineer, Deep Learning (London, UK)"
@@ -38,6 +36,6 @@ related:
         width: 520
         height: 520
 
-secured: "gs8fzK82yjKmcMJnELnahW5MSL7KuXxVU7cp0lDNOZ57rTyDZ9nUj7aD8Lzz9kbms9I5Lc1/kCHdOY9OupxMEYaLVjLCldy/CRG+nr7MUhe2pg95hid7ebm6TbhomNz0V7cy/dwnT+94cJk2IU9Hx1a0DaWyq40RXJwFrU/Iaec190ncLtmUfMuMnb1+aiCCY4ytmxqgtMW9oEvNsLejt5E/bFnZTASKhvRKnp+rw7OzT2OwSs+EZiSCtnHOPWPpJK8OYT8xYwJeHCF9B/ZaKaJA/lFgDpq+28t0HYgnnA1tWj2exzIl2JZREw0FvGn9;/U8YYR7u2IgzEB7Zwj8F1w=="
+secured: "0MX4IP8dCquO/i/Ixd55v0kXuSfcKyzOcEY5PynIaIO0Y83ir4k2qbKUoR3S7w7e5P8X3R5DTvAdOPO+Zf6X6jqR6oBf3aC7s7QG6deQRsnClCRQ4dDDkI5Sd2o7KfT6wbtnT3dznwq26Mu6/O5Ei6sk482haj7tpVGchq2k8XzVdR6z5FPou/gGOPRilnSsr0fmhJQP3IUkMj69s9RfcVb2uoJ9fViiZcPmx33iNcFhFx51/RfoU5pb5HmmWzCc3DLWRoqk2W8U2d18T/SORhGYlAy9tVFyRnlT8/WiJHH1KpxPca1XiO/tjdGiJROg;D05tCzmAzjRS9ktvnq6eVg=="
 ---
 

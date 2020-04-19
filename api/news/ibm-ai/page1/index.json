@@ -94,44 +94,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "publishedDateTime": "2020-04-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-06-watson-speech-to-text-review.md",
       "title": "Watson Speech to Text review",
       "excerpt": "There’s plenty to be said in favor of IBM’s Watson Speech to Text service, such as its ability to convert hours of audio into text quickly and accurately. But price, integration complexity, and somewhat patchy BETA features may put some businesses off.",
@@ -1231,6 +1193,52 @@
           "width": 1200,
           "height": 600,
           "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-improves-the-way-watson-products-analyze-language.md",
+      "title": "IBM Improves the Way Watson Products Analyze Language",
+      "excerpt": "The company is enhancing several of its Watson artificial-intelligence products with technology designed to help businesses better process and analyze human language, whether it comes from text or voice.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ibm-improves-the-way-watson-products-analyze-language-11583880567",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://si.wsj.net/public/resources/images/B3-GH238_robtho_SOC_20200310183834.jpg",
+          "width": 900,
+          "height": 471,
+          "title": "IBM Improves the Way Watson Products Analyze Language",
           "attribution": null
         }
       ],

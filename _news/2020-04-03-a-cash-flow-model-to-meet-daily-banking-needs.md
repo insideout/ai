@@ -3,7 +3,7 @@ category: news
 title: "A Cash Flow Model to Meet Daily Banking Needs"
 excerpt: "In this post, we are going to present a use case within banking where deep learning (DL) turns out to be an efficient solution for time series prediction. The value of correct predictions of ..."
 publishedDateTime: 2020-04-03T17:00:00Z
-webUrl: "https://medium.com/analytics-ai-swedbank/predicting-customer-finances-using-deep-learning-168b47e54d54?source=topic_page---------10------------------1"
+webUrl: "https://medium.com/analytics-ai-swedbank/predicting-customer-finances-using-deep-learning-168b47e54d54"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 800
     title: "A Cash Flow Model to Meet Daily Banking Needs"
 
-secured: "daQ3bK/L5xnDdfvcJBKL6fEXQS+IAIM/gB0ipAZ3Uus2xmgx/MzYN+2eTiVPtRgex2i2HTKW/8GZ2Ss87Y7AuSnDkDaVqsGXoyFx2e4fWE/6G4rAxaIfFT4kfHXPoOUPI5oEeR3joX+2PVXvpGesh7B2Vappqmr3MBUfpdm1lccdB6QAUDV4V2AjL4P712YMXZ4jbs+BmqJBncIrmHHuSXGwnNX5GfYcA/+0LJ3rp4ajZvR+jPB2KiDtkROJeFufGX/LYv1TjQFqH/uqzIav5AHz1Wu6NEK4ZU8siz2iNA79e+4CIkv+eNmv3Tz0srIK;bxeX3skkObxFwUdLn5/AxA=="
+secured: "6Cadr8fhxdZcBzEEMRNQ8G9JLSFwRE/bmvBPpHbZ3/QHeVGTrVRgfhzKd2HA/LN+Z9Q+3/rOB8ia97s6isqR1UR2DlRvRwAdM/tcVzWBcAaYitMKnW/k5v2RY/bB1if7WrLhQpasu0Zm8Tq0QPinV0KlZtZ1QV8cfCgQzpbNJUyaTaOawqs3PHP+bpUrt7dxUuLE+8ab9/HzpgjBGbqqda3n8CNYIYTo4WKfzd7JUm02/sni4Co4WY1aa0VqzVMMwImdt5wzE58PVzHHCV42fvJFXiy1VscJokwHma227WGV8U6eqwpTDIzTNFekM+eW;EIkH9TxrH5STJd9yNOY4wg=="
 ---
 

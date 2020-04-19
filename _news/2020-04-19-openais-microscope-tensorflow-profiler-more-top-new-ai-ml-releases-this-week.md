@@ -5,8 +5,8 @@ excerpt: "OpenAI, especially, has come up with an interesting tool to promote th
 publishedDateTime: 2020-04-19T02:34:00Z
 webUrl: "https://analyticsindiamag.com/open-ai-tensorflow/"
 type: article
-quality: 48
-heat: 48
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - TensorFlow
 
 images:
   - url: "https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/open-ai-microscope.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1200
     title: "OpenAI’s Microscope, TensorFlow Profiler & More: Top New AI & ML Releases This Week"
 
-secured: "LYpfWgLSUsCprpqDzBkjNCqVQXmSq80cpTzPrzbZ3kwXcIX2cm0gjhgaCOHCWIVUPBerzX6Hny/gTCh5Lt73JDEloEohstnM2cQoCLqq7dp4dVroDfZv5y96CucWwA0sseUN6npxMqGUReo1jxmwbFuptuB0Lzu/JVOmUKuWXvN0rwD3zzKVdCGKd2RlRnX3mZYvNXJ7marLoHk18clfjNyE0Z82xlQZeEMQxpdZug0Aq8JGg22qIVtajmLjVSok2xY0oxXeCODTBUd6nZz4vEiny6i05p6ZBwX1VgKPH3E9xfmlatKNRZVJd00XUSpk;ArKmJ1Q7E09vV9uRt7BJVw=="
+secured: "JQ2FYoQf8XNVkAkYtVQi8Rq/5xwqlfau5Jg4343W12nM1zHsWw75nvsT2sUpp5yAtj7yKiBoPwmWZYmv/3GCEHPPGywcK5hupJRKdrygMJL/HkC6R/GUMrjwQ0C2yRCmGfALhdLh0ke0kXrK4QLbR6uKtsk8e3PsVxUiaBNS4wfrq2qoOk1aqaLT7muklrGm2a+d95DR1SMO/Zdn9+DtyR9wsiu7jWvy8VNEAPvJ2ZVyZdT8VWbiGOBiarwSwTRl6ec95Ww/ATqHKm9dS/VRJPwSF1aH3qEWXTG/LzXc93G1IoChXbtT8OfYv6J7mOSHsECEjKGQcRg+moLOMwloZzNpBs3X3t7mnR07Y6euMqrsLbY3RHXUC7hR1PsaI71iEqi8Sz7nDKywfR/H9PESJS8bybIMq6gT8wbPKRNttezN4td26ZPmdSjDG8EV5ZsxjzNLiAVtBAdu0GYgJDXBrZuKAhq7bwzk8nQpi1khFcw=;f0uM4K0ipWAfgyV4Qy7Vqw=="
 ---
 

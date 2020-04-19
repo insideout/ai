@@ -24,6 +24,6 @@ topics:
   - AI
   - TensorFlow
 
-secured: "7sy0Bw7ySJLg2KTcgH4oFDYmef/jv6tTAlkd6/UGo22Tn+ZxmZn6+Vmm7d9LLPOi8shDbdGC3rVkLqHgkmU87gMfZzTtJu9vjnBxErBfkgvugmAaHdzx1jfpS2WLCfS1qpd6zq/qmf6dCmbvbO/L4CtuKyF2O95URLw7ccOiNBu1WEU+uuEoO2TqMoaQhkbVUgGAcyxfOkeRDO/eEn3/LTnAmPpwQqBj8nBm4OgByPvOoxVsrqxqqmcPUI2NNomyR15gdQ3hG6jsCr0bQ031if1XiUvm8LadW0Z0PYtqWmzUXDLI98n8qLwqcUMbSyP5;owzJSP34C6c98goViJcv0A=="
+secured: "r8qHo04Z9tInop8mKcUQlMCpDZn2HISxDeB9c+tC+ULSt8wYE21H8NEXN2uFmG4BMpV0jlFA7dOpXjSf+237nWE7re5tRG9bLWLqmwTikVjw/nmr++omfnbPA18D0/1cQyo+Qx4HmEROB3foc7jbC8y/RqZZq4keYwTQtOj9NHYo6RiN92Pu9J1GtLEjCEUvGU+cm1A4FG7KnaWPXItaFQpMKyjx+Gp9+0TW6NcgIPXSodMr6rC+sagTnv0e+4S/dh6uB2s/vjzeDWX1pH+2MFfNbdPHpHamQ22WmVImgLctlK0Qb8p2OhrhWYRInezq;QolRnAgZq0RqZfbNnoLjAQ=="
 ---
 
