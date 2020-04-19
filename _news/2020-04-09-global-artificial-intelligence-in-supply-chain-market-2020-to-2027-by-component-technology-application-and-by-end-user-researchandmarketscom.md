@@ -20,6 +20,6 @@ images:
     height: 627
     title: "Global Artificial Intelligence in Supply Chain Market (2020 to 2027) - by Component Technology, Application and by End User - ResearchAndMarkets.com"
 
-secured: "u3eIvFle6eqrmPbLRCDGhr8G21LhRu95UNTAWTKcQlkMiU7PckT4BjhIdjF+rq7UYPuOeSOxgO6iRNH9RtvG8MDgC9L/sPWpuSQRpZD7iGDEipFPqVH8+4JZpZXsFRCCmCx4yWBTEkuqJ44/6TQjvOcZrOd/paRZUElf4TXge8d+FGJVpTa7XTEVRYRljDDpOazuVKl0tIxnGHjShnorrhSHRyERao3DrwZc85N+7BmzkJzvL5taEayhbVEbLe6Vl/9xELlPzb3g8IPZbkdKsxm7pZMazG8hMvXo32hN1JPVoRQj7GOmz9eTKBJlQBhm;azkJFIuWfhcVXv9ElaWtmQ=="
+secured: "iv1KmC94NWlQSVAtb6vumjMTnoT67P+C3+AsvlqkB1i5L+T1jcKW8jpLlZ2NYoMpkequ3XkCfm3Ct3Rp2/Tzzbtzj9FE7dJO14Q4lIVFCFIQgRnIuRaGLl3MbJojLd4LcKrxBCpu7aAxY/wEqHnSiCl4a+Ti6DT7+vI6QpNBXKtczcBFE9tGvxBPE/+fUebpKmlZPhtxSzTj57j0SjFg+82nnwoZZkZDsPFBVe6VOdaajATR3WrRYAYsCuvTr8WH3HXs/Ikfqxl84+n6BuVMWUTZUiDqZdTf5gXAyoDDB4gpok1Vt4j8ZGYkpoTdUJ1CU7mVKcR2YkfeH/JMliAOKzS+7PhjVz1NA7JYiDCMIpi1GBVbGRqHjiPExItGgwxMye3pRZ8CkrcmIfaRY5QuNV2iFc7i02WTZifub6dSA7ZZ/hwJCVlOGYvbiK3Vw+vgHXzm5kcDi5jF8uzZGdkA17la/YZvqsFx2FchxEAKP/0=;dTtqjEZk1XePlwaUpidIuA=="
 ---
 

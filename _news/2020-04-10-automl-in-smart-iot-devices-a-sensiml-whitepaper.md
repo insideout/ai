@@ -2,18 +2,26 @@
 category: news
 title: "AutoML in Smart IoT Devices - A SensiML Whitepaper"
 excerpt: "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ..."
-publishedDateTime: 2020-04-10T13:08:00Z
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html"
+publishedDateTime: 2020-04-10T13:14:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/n15782410/automl-in-smart-iot-devices-a-sensiml-whitepaper"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15782410"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15782410"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "WyuEle2QNUPSXwBVqxQFIkW5ztMsLT6cB49FUlAnsu205L5K7Hy/gz+qnhNmHlf2tAeD4gXW21bYJFOVth5uAjJBda0ODSGt50/frBg6W72nPLRwa4PViQUTvP7nbIar9Yqvi06DacIf7t4vfblZ835H6f+RNPL7IhP+VgD/WdNwNxXXkkP2bAtiHKRGAKSD4galdSCvf23u7PYu9pU2Av6bR++Q8OD3GP/RQ0l9sM/bsU4oXzeejXiQkbXjqX/lHc9WnzIDBOZcXGIEaO3EdlBo5vzXF847QxDM2JkvXik9Nnb4bUQ/Buy8URyxEVJ0;hJx1HiB9/fmV8B5iDS/3Sw=="
+images:
+  - url: "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg"
+    width: 400
+    height: 208
+    title: "AutoML in Smart IoT Devices - A SensiML Whitepaper"
+
+secured: "zqMjlsYrMxRVzu4ohCGTNcMhVSbMFreVhUzRxyLKAH/wXZFuOIkxr+Egr0UNfMQKa7HGgnJPi8673AOV9UtL/tOm1Uh3M/3ZQMG+kqxgNM65vSlap1vw1sm6X7Ak8u6bvlXfVmLOJsEgoP0xn/zNWFGSQNckD4RpxT8jQCpFEJcyRWgal8oIIMVX3ZOoLnbkY4nAvGIuH0xzI0FeLssif0s6HOiIUf9lHgndy9/dQpc6ATD11Uq/vtM4zynPpGnwAgOvg59pQafKRub3XfpsgNjYFtN5Uk8v+UN0Bv4qV4PnZW2DEa+OWVv+RcPTOjrG;gF+1GYG4/jONHj2Qxfmflw=="
 ---
 
