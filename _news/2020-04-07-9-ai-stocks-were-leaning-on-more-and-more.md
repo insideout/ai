@@ -1,7 +1,7 @@
 ---
 category: news
 title: "9 AI Stocks We’re Leaning on More and More"
-excerpt: "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ..."
+excerpt: "During this crisis, Facebook also plays a vital role ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery ..."
 publishedDateTime: 2020-04-07T15:12:00Z
 webUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/"
 ampWebUrl: "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/"
@@ -22,6 +22,6 @@ images:
     height: 900
     title: "9 AI Stocks We’re Leaning on More and More"
 
-secured: "N4W9z3W+/TRKl186BqAPcXc9pBvNNYoB3dE8L9vjvh4R2UqGJw2Qd+5ewomNPSDTNLiAgYeozAF5bjAkuM6nn9qQI1THuHywmtnlbqVV0iATAqRAOxwMNOfJICku13WnnC4EROyw3ttg3Ce9QJiIkKjvpPAJaUwcTSHd9Ux6gKIoRL13+oiixd4JhiU3vr0GiyO0vm7YAvD2PlA64Qqm+mRbfN03z/hMi33Etdk4fT9sgPbk7nZDeKEiKW8wVqytRToxeC5Q7AjEk4QOw8DahS2n9Mvaa/6i/I7D6xxm9dtTW474ilCBpjgftPET2NQW;MLEGXEp+O8TLISxOV7/ehg=="
+secured: "ezZTQjlt3wjP/VhpKcJv9ne66vPHZuqeTL/HFjpO8p/ljJd7lysp24NnnCoVcqvEe1vq4cVyLwVcObgdM3YOZQuAOel43LNBb/zeCjuhhUoGlPMJ2rjwQEyc0kmYL9z3b9euvLNJY1HJlEvAkpTP5vMN+Aec6S4F/MKOevx/krz48FScaY+E4bWbrcZNemk4VkJ5Es2uZ2+Vynbd8sTcQpa7v8O1y5Pt1kEy7SNN4/+pzmTn0LPWv77ZzI/8ZUz4k2y6Z8HqEDq6X0AKTuuTH4PGUws8iXAwQ3FKjLx4gjp8pHdNVEweoNqNOiGGwvqJ;5tdbtzKjpM4HQCse/k9pbA=="
 ---
 

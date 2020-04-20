@@ -1,9 +1,9 @@
 ---
 category: news
 title: "When Machines Design: Artificial Intelligence and the Future of Aesthetics"
-excerpt: "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same vein, the areas of site and social research that utilize artificial intelligence have been ..."
+excerpt: "In a tech report on artificial intelligence, Building Design + Construction explored how Arup had applied a neural network to a light rail design and reduced the number of utility clashes by over 90%, saving nearly 800 hours of engineering. In the same ..."
 publishedDateTime: 2020-04-08T11:39:00Z
-webUrl: "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics"
+webUrl: "https://www.archdaily.com/937051/when-machines-design-artificial-intelligence-and-the-future-of-aesthetics/"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 1333
     title: "When Machines Design: Artificial Intelligence and the Future of Aesthetics"
 
-secured: "OI0S13syZlDQEhtErCecGSFMslhYA+gpqbu/IWe4aqpmRO/lIOVFB7z3pSiX7M7ab7ma/AVAyXPBqiut0YDF4No4lcvhR2becrQ4ttWJ9LPnbnzfx3x2KhWcC1psJRuDT54zOmnYpFKFCHWEdhMJBzI9PDO06oUOkgFgwlxBlU2sCBe3Nkp0Df95zKOyhPQ0KVtlrEeYOfUhb/sh/tKI3v3725hreJDt87Y6IcdPKYedsN0PJ2jSNbZJL2lZNxyuwLf4gW6wof2/DWle67qc3VxGbA6qDOu4bByzxR2YMBEUm690kwTXu+jiGJboBUxgyJZcEZ1I4mONESzH/NnYOKZpSz7Mc2xYzBHZIWZLlPmflCbGLW2SLBM0UsFgPtTPm450khsf8cVbXDaVmAU4/IR4UKSwcPiiusoArSX1bUHIWtkugvslxQ/IQiu742U3kED6NIcqjW7deBdKFUuGZ8PLtD6jhh3XKYNoXAO+/Ms=;/5LXhu/eCZIFvYWAypMJNw=="
+secured: "qH1tbNgel3+OrHgHCAV+VSZAWtrlaXmfWwUajjNMxGK2AcKzNFq8bmmWq2dhqROTcYCbCiGtItT0MJwA+KQOI45I/MimwPfTHe2H/swWWsq7iqfE1DeqZz7IIFiQocElJWxmtKYodZkXTAzC+8QGUL7QvCH3wKX+gaNm78wjNbxllkeakmel/oR0DReCubHZc7y9B7eqK4rg3yUSOeTJpzLOKfNreuLD8YPZM1VXbnt+Ca48kwh5mYP/tEM5ihioYUHFzbjBy97GONme0tDhp8QoH3Bdm7VBUpf/rLMpnIp1JF1zJQvG+dqpRIVXJ/HF;3uUCsO3sOLyz4kJUa/F4Jg=="
 ---
 

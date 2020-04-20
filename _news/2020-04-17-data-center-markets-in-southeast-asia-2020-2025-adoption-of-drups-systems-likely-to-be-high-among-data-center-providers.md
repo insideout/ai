@@ -24,32 +24,19 @@ images:
     title: "Data Center Markets in Southeast Asia, 2020-2025: Adoption of DRUPS Systems Likely to Be High Among Data Center Providers"
 
 related:
-  - title: "U.S Machine Learning in Automobile Market will take the highest jump during 2020-2025"
-    excerpt: "This research study on the Machine Learning in Automobile market enumerates details about this industry in terms of a detailed evaluation and also an in-depth assessment of this business. The Machine Learning in Automobile market has been suitably divided into important segments, as per the report. A detailed overview of the industry with ..."
-    publishedDateTime: 2020-04-18T00:03:00Z
-    webUrl: "https://www.cmo.com.au/mediareleases/81704/us-machine-learning-in-automobile-market-will/"
+  - title: "Artificial Intelligence Chipsets Market Size 2020 By Industry Growths, Key Players, Development Insight, Regional and Global Forecast to 2025"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry\" “Artificial Intelligence Chipsets Market”"
+    publishedDateTime: 2020-04-17T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-2020-by-industry-growths-key-players-development-insight-regional-and-global-forecast-to-2025-2020-04-17"
     type: article
     provider:
-      name: cmo.com.au
-      domain: cmo.com.au
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 32
     images:
-      - url: "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg"
-        width: 600
-        height: 246
-  - title: "Into the Fast Lane with AI: Driving the Future of Mobility (2020 Edition) - ResearchAndMarkets.com"
-    excerpt: "DUBLIN--(BUSINESS WIRE)--The \"Into the Fast Lane with AI: Driving the Future of Mobility\" report has been added to ... of the key investments trends Key initiatives and regulations pertaining to AI in the automotive sector Artificial intelligence (AI) will hold as a key enabler in transforming the automotive industry. Currently, the automotive ..."
-    publishedDateTime: 2020-04-17T10:48:00Z
-    webUrl: "https://www.businesswire.com/news/home/20200417005213/en/Fast-Lane-AI-Driving-Future-Mobility-2020"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 25
-    images:
-      - url: "https://mms.businesswire.com/media/20200417005213/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
 
 secured: "QJPxK4EowM7W9p2c1llkE1bUeWX3oyqSYw4nbtykHDLmHOFpo0+3gbPspYMJ18kb6+yBGjC7Cd8j1xoLjdEg79WcGDo30iGEEymZY7Ukt62QZYYvfqfsAwpE3dRrou4ckgydoUYpC8JBp6cfxXHiUbHOfHRh11KNy9bgRTGDt1DCXvffvgMyXmEPvcB8nEWzASxcMS5gGCsB8nWXc246+Tbw7ziLv4xAgUQyJaeXEJfdSv4sx4afJ0XVwoUZujn7yqb4eGwWHBj9+ec/jz9xcr8DSrAnM67Y/YfOhCikdvcWgSFXJO3dRGDi9cLR4N6k;o+HB9cUuKSRKdf7fevHaTA=="
 ---

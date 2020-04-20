@@ -2,6 +2,310 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-12-michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence.md",
+      "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
+      "excerpt": "Artificial intelligence involves robots and algorithms that can perform tasks, solve problems and adapt to different situations. If you have Googled directions to a location, asked Alexa a question, scrolled through Facebook, browsed recommended products on Amazon or asked Siri to call a friend, you have interacted with artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://westfaironline.com/122170/michael-guberti-three-ways-to-grow-your-business-with-artificial-intelligence/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Westfaironline.com",
+        "domain": "westfaironline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://westfaironline.com/wp-content/uploads/2019/08/Michael_Guberti.jpg",
+          "width": 650,
+          "height": 440,
+          "title": "Michael Guberti: Three ways to grow your business with artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-towards-an-ai-led-2020.md",
+      "title": "Towards an AI-led 2020",
+      "excerpt": "Paul Morgan, Business Unit Lead – Data, Planning, and Analytics at Altron Karabina AI, machine learning, and data science are becoming more mainstream in larger organisations in South Africa. Thanks to the availability of the local Azure data centres, AI has become much easier to use, and companies are able to make use of Cognitive Services ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizcommunity.com/Article/196/852/201540.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bizcommunity",
+        "domain": "bizcommunity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://biz-file.com/c/2003/542725.jpg",
+          "width": 669,
+          "height": 632,
+          "title": "Towards an AI-led 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-swiss-re-launches-digital-market-center-supported-by-microsoft-data-analytics-ai-tools.md",
+      "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
+      "excerpt": "As part of the strategic alliance, Swiss Re will transform its internal operating platform by modernizing and moving it to the Azure cloud. This move will increase the efficiency and effectiveness of the core processes by leveraging the most advanced data processing and AI capabilities at scale. “Swiss Re’s alliance with Microsoft will help ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.insurancejournal.com/news/international/2020/03/12/560945.htm",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurance Journal",
+        "domain": "insurancejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.insurancejournal.com/app/uploads/2017/03/business-technology-.jpg",
+          "width": 900,
+          "height": 615,
+          "title": "Swiss Re Launches Digital Market Center Supported by Microsoft Data Analytics, AI Tools",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automotive-industry.md",
+      "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
+      "excerpt": "Instead, the vehicles move through production on driverless transport systems, also called autonomous guided vehicles ... the assembly stations that are currently available on autonomous transport systems. Algorithms and artificial intelligence support planning and make decision-making more efficient.” According to Uellendahl, the increased ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://roboticsandautomationnews.com/2020/03/12/farewell-to-the-old-assembly-line-automation-is-changing-manufacturing-processes-in-the-automobile-industry/31270/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics & Automation News",
+        "domain": "roboticsandautomationnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/03/automatica-2020_03_Flexible_Automobilfertigung-copy.jpg",
+          "width": 750,
+          "height": 500,
+          "title": "Farewell to the old assembly line: Automation is changing manufacturing processes in the automotive industry",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-is-failing-women-that-needs-to-change.md",
+      "title": "AI is Failing Women. That Needs to Change.",
+      "excerpt": "From robots and voice recognition to smart fridges and driverless cars – artificial intelligence is becoming widespread – but will these advancements meet the requirements of both men and women? Without diversity, the answer is no, writes Shawn Tan, CEO of AI ecosystem builder Skymind Global Ventures. Women and men don’t hold the same ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbronline.com/opinion/ai-is-failing-women",
+      "ampWebUrl": "https://www.cbronline.com/opinion/ai-is-failing-women/amp/",
+      "cdnAmpWebUrl": "https://www-cbronline-com.cdn.ampproject.org/c/s/www.cbronline.com/opinion/ai-is-failing-women/amp/",
+      "publishedDateTime": "2020-03-12T03:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Business Review",
+        "domain": "cbronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.cbronline.com/wp-content/uploads/2020/03/miguel-bruna-TzVN0xQhWaQ-unsplash-1024x587.jpg",
+          "width": 1024,
+          "height": 587,
+          "title": "AI is Failing Women. That Needs to Change.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ai-recruitment-start-up-talview-wins-the-best-ai-application-for-societal-impact-recognition-at-microsofts-ai-awards-20.md",
+      "title": "AI recruitment start-up Talview wins the \"Best AI Application for Societal Impact\" recognition at Microsoft's AI Awards 2.0",
+      "excerpt": "... partners and has built its Instahiring Experience platform using Microsoft Azure AI, machine learning and cognitive services. For corporate customers, Talview leverages the capabilities of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/Articles/Business/20200312/3519349.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence.md",
+      "title": "Smart Dubai identifies 40 use cases from 10 different sectors for artificial intelligence",
+      "excerpt": "“The steps we are taking at the moment, having an AI Lab, developing use cases across the city, having AI ethics, principles and guidelines, having data exchange and dissemination process, Dubai Pulse feeding city data to the public and government organisations and looking at the potential of exchange of data between the private and public ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/news/smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence",
+      "ampWebUrl": "https://www.techradar.com/amp/news/smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/smart-dubai-identifies-40-use-cases-from-10-different-sectors-for-artificial-intelligence",
+      "publishedDateTime": "2020-03-12T03:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/NQjdFLA3AuYRNHf7z72td7-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Smart Dubai identifies 40 use cases from 10 different sectors for artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-10-questions-about-deep-learning.md",
+      "title": "10 questions about deep learning",
+      "excerpt": "Learn why neural networks are so powerful, how and where they’re used, and how to get started — no programming necessary It seems everywhere you look nowadays, you will find an article that describes a winning strategy using deep learning in a data science problem, or more specifically in the field of artificial intelligence (AI).",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.infoworld.com/article/3532058/10-questions-about-deep-learning.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_ml_machine_learning_abstract_face_by_kentoh_gettyimages_1042827860-100817767-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 questions about deep learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-artificial-intelligence-robots-market-competitive-outlook.md",
       "title": "Artificial Intelligence Robots Market Competitive Outlook",
       "excerpt": "This global Artificial Intelligence Robots Market report includes all the company profiles of the top market players and brands Client s needs are understood well by experts leveraging their expertise and strong knowledge base to identify and evaluate competition and",
@@ -661,317 +965,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-new-scientist-got-an-early-glimpse-of-voice-recognition-technology.md",
-      "title": "New Scientist got an early glimpse of voice recognition technology",
-      "excerpt": "HEY Siri, we saw you coming. In our 17 March 1990 issue, we wrote about a computer system that could recognise continuous speech and may, we predicted, “form the basis of a personal computer controlled by voice”. At the time, this intriguing new technology had already piqued the interest of Apple, which we then described as “famous for ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newscientist.com/article/mg24532732-700-new-scientist-got-an-early-glimpse-of-voice-recognition-technology/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2015/08/ns-logo-for-featured-image.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "New Scientist got an early glimpse of voice recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-researchers-criticize-opacity-of-googles-mammogram-reading-ai-study.md",
-      "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-      "excerpt": "Though a study published Jan. 1 describing the success of Google's DeepMind artificial intelligence at diagnosing breast cancer was largely met with praise and excitement, in a Feb. 28 response, a group of AI researchers criticized the study's lack of transparency. In the initial study, Google researchers found the DeepMind AI produced fewer ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/researchers-criticize-opacity-of-google-s-mammogram-reading-ai-study.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T11:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/5.jpg",
-          "width": 400,
-          "height": 300,
-          "title": "Researchers criticize opacity of Google's mammogram-reading AI study",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-is-inter-company-automation-the-next-frontier-for-ai-a-new-startup-backboneai-says-yes.md",
-      "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
-      "excerpt": "BackboneAI is designed to fill the need for automation between companies, a distinct approach from other solutions that focus on AI within a company or between a company and its customers. The startup was founded by Rob Bailey with seed funding of $4.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/",
-      "ampWebUrl": "https://www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/micahsolomon/2020/03/10/is-inter-company-automation-the-next-frontier-of-ai-a-new-startup-backboneai-thinks-it-is/amp/",
-      "publishedDateTime": "2020-03-11T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e41ed80f133f400076c2216%2F0x0.jpg",
-          "width": 612,
-          "height": 1156,
-          "title": "Is Inter-Company Automation The Next Frontier For AI? A New Startup, BackboneAI, Says Yes.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-toyotas-self-driving-car-mapping-system-could-be-a-game-changer.md",
-      "title": "Toyota's self-driving car mapping system could be a game changer",
-      "excerpt": "Before anyone believes self-driving cars will be able to storm streets around the world, automakers and companies with interests in automated vehicles need to complete a major task: mapping the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/roadshow/news/toyota-self-driving-car-mapping-system-satellite/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/toyota-self-driving-car-mapping-system-satellite/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/toyota-self-driving-car-mapping-system-satellite/",
-      "publishedDateTime": "2020-03-11T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/HDT-32iZkdvCsv70p9wp0jzxpFo=/2020/03/11/08c6bafa-528c-4a61-8910-015efd1c372e/ogi-map.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "Toyota's self-driving car mapping system could be a game changer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-client-note-aon-acquires-willis-towers-watson-for-30b-nvidia-buys-an-ai-startup-ant-financial-invests-in-klarna-and-more.md",
-      "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
-      "excerpt": "Also covered are Sequoia’s investment in a student loan company, an email encryption startup raises, and Grindr’s $600M+ sale. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cbinsights.com/research/aon-willis-towers-watson-nvidia-ai-ant-financial-klarna/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CB Insights",
-        "domain": "cbinsights.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/03/11105643/News-coverage_edge-computing_CN_03102020-572x364.png",
-          "width": 572,
-          "height": 364,
-          "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers.md",
-      "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
-      "excerpt": "SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that software for Cadence ® Tensilica ® HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow Lite for Microcontrollers, part of the TensorFlow end-to-end open-source platform for machine learning (ML ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200311005239/en/Cadence-Tensilica-HiFi-IP-Accelerates-AI-Deployment",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200311005239/en/778960/23/bigstock-Voice-Recording-Or-Speech-Reco-321922831.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models.md",
-      "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
-      "excerpt": "Google announced the launch of TensorFlow Quantum, which is based on Machine learning and quantum computing coming together to build hybrid AI models. The TFQ was built in collaboration with the University of Waterloo, X, and Volkswagen. TensorFlow Quantum is an opensource library for rapid prototyping of quantum ML models. “TensorFlow ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.technowize.com/google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Technowize",
-        "domain": "technowize.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.technowize.com/wp-content/uploads/2019/11/Quantum-Supremacy.jpg",
-          "width": 1100,
-          "height": 825,
-          "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-chip-progress-ai-gains-leave-intel-stock-poised-to-outperform.md",
-      "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
-      "excerpt": "I remain convinced that Intelâs (NASDAQ:) increased parity with AMD (NASDAQ:) when it comes to computer chips, along with Intelâs superiority in the vital field of AI, leave Intel stock poised to outperform the market and AMD stock over the longer term,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11",
-      "ampWebUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
-      "publishedDateTime": "2020-03-11T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?128964636",
-          "width": 1024,
-          "height": 512,
-          "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

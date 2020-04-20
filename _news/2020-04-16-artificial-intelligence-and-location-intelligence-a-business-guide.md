@@ -22,17 +22,6 @@ images:
     height: 211
     title: "Artificial Intelligence And Location Intelligence: A Business Guide"
 
-related:
-  - title: "How important is building collective intelligence to better manage systemic risks?"
-    excerpt: "This requires a new paradigm for understanding and living with uncertainty and complexity. One that activates the power of human, social and contextual intelligence, and where possible, leverages it through appropriately designed artificial intelligence. This is at the core of systemic risk governance. Developing the capability for contextual ..."
-    publishedDateTime: 2020-04-15T15:44:00Z
-    webUrl: "https://www.preventionweb.net/english/professional/news/v.php?id=71310&pid:50"
-    type: article
-    provider:
-      name: Prevention Web
-      domain: preventionweb.net
-    quality: 0
-
 secured: "xleZuZMQxsJILkl1m7XxuGsoOkCqTZEZqkbMT4oY+xEKm1qbXU/XZCu9/hLD4ChOREpd17GrtJUcoVwOI5FzSHKQBA8U7Z5/pinyC1+6MitZIN6gv7YL5DDKdXENHMEWSFIGPrNv1/UNgnMTXlCA64VSABx9J7Jhsa683sjN+VHEXTui0fnj8liXlIwemKd9behB9vggDof0mrqu0kqIa53lPyumoPSMGS18jjnR+7nsPiMXLAg4JqeJWCYnYJFx1+lb2E7zlHXO4AnRZcCL0YPzT8VzSCH9ZEjqEkSdclWaBcyO0uX0ghMlO+F5woCJ;OEPkIWfRJsxUtUMB3RuAOg=="
 ---
 

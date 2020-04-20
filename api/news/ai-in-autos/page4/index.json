@@ -2,6 +2,96 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
+      "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
+      "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/softbank-group-didi-idUSL4N2BG4PA",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2BG4PA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2BG4PA",
+      "publishedDateTime": "2020-03-23T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027.md",
+      "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+      "excerpt": "Mar 23, 2020 (Business Arrival via Comtex) -- the global autonomous vehicle market is expected to expand at a CAGR of 35.6% during the forecast period",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/autonomous-vehicle-market-global-business-opportunities-analysis-with-trends-and-forecast-to-2027-2020-03-23",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Autonomous Vehicle Market: Global Business Opportunities Analysis with Trends and Forecast to 2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-23-tesla-files-patent-for-sourcing-self-driving-training-data-from-its-fleet.md",
       "title": "Tesla files patent for sourcing self-driving training data from its fleet",
       "excerpt": "Tesla has filed a patent on how to source training data from its large fleet of customer vehicles in order to train its self-driving neural network. The patent was filed for Tesla, but Andrej Karpathy, Tesla’s head of AI and Autopilot software, is named as the sole inventor on the application. He describes the problem with collecting data for ...",
@@ -1114,80 +1204,6 @@
         "AI in Robotics",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-westworld-premiere-doloress-road-to-revenge-crosses-paths-with-jesse-pinkman.md",
-      "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
-      "excerpt": "It’s slowly revealed, however, that Francis died and is now nothing more than artificial intelligence himself, a familiar character in Caleb’s ... There were several other intriguing technological achievements I could have selected here: driverless cars, those implants everyone seems to like, Dolores’s telescopic sunglasses, Dolores ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theringer.com/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "ampWebUrl": "https://www.theringer.com/platform/amp/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "cdnAmpWebUrl": "https://www-theringer-com.cdn.ampproject.org/c/s/www.theringer.com/platform/amp/2020/3/15/21179263/westworld-season-3-premiere-recap-dolores-aaron-paul-marshawn-lynch",
-      "publishedDateTime": "2020-03-15T19:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Ringer",
-        "domain": "theringer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/iiSAPg8mTmVPZ86oHhVnDgRRQDc=/0x0:1200x800/1400x1050/filters:focal(439x232:631x424):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66505019/westowrld_31_chin_hbo_ringer.0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "‘Westworld’ Premiere: Dolores’s Road to Revenge Crosses Paths With Jesse Pinkman",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
-      "title": "BMW says large-scale production of self-driving cars likely in next decade",
-      "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bmwblog.com/2016/03/16/bmw-says-large-scale-production-self-driving-cars-likely-next-decade/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMW BLOG",
-        "domain": "bmwblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bmwblog.com/wp-content/uploads/2015/03/xc_24_dwn_20_2014_hres.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "BMW says large-scale production of self-driving cars likely in next decade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
