@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-15-the-robot-that-can-train-your-dog-better-than-you-can.md",
+      "title": "The robot that can train your dog better than you can",
+      "excerpt": "The coronavirus pandemic has changed many routines, including those of pet guardians and their dogs and cats. Right now, that change is probably positive: Humans and animals are spending more time together as families shelter in place.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-smart-robot-that-can-train-your-dog-better-than-you-can/",
+      "publishedDateTime": "2020-04-15T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/nRzGs39XDCKbcF5JE2yjhBDEasA=/2020/04/14/c094f7e6-674d-42e0-85a9-a670420da402/introducing-companionpro-mp4-00-00-29-26-still001.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "The robot that can train your dog better than you can",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-using-ai-yes-health-cuts-costs-improves-adherence-for-weight-loss-and-diabetes-treatment.md",
       "title": "Using AI, Yes Health cuts costs, improves adherence for weight loss and diabetes treatment",
       "excerpt": "“Yes Health is proven to tackle difficult and costly chronic conditions through an AI-augmented and all-mobile solution, aligning it with our firm’s thesis in healthcare.”",
@@ -1248,51 +1293,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
-      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
-      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
-      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
-      "publishedDateTime": "2020-04-14T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
-          "width": 2100,
-          "height": 1428,
-          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

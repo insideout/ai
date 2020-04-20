@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

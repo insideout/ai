@@ -8,7 +8,7 @@ ampWebUrl: "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.amp.html"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:

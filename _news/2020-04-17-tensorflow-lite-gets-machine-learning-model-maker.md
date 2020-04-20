@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T18:36:00Z
 webUrl: "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/"
 type: article
 quality: 103
-heat: 104
+heat: 103
 published: true
 
 provider:

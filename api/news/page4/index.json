@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-16-some-countries-in-the-middle-east-are-using-artificial-intelligence-to-fight-the-coronavirus-pandemic.md",
+      "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
+      "excerpt": "AI's ability to crunch large amounts of data has allowed governments worldwide to collect information to try and stop the pandemic.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/16/countries-in-the-middle-east-are-using-ai-to-fight-coronavirus.html",
+      "publishedDateTime": "2020-04-15T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106491036-1587017369683gettyimages-1209811046.jpeg?v=1587017408",
+          "width": 3317,
+          "height": 2083,
+          "title": "Some countries in the Middle East are using artificial intelligence to fight the coronavirus pandemic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-sproutai-raises-25m-to-speed-up-insurance-claims.md",
       "title": "Sprout.ai raises $2.5M to speed up insurance claims",
       "excerpt": "Founded in 2018, Sprout.ai has developed AI-based software that it says enables insurance claims to be settled within “just 24 hours”. Specifically, it uses natural language processing and optical character recognition to understand unstructured insurance claim data, and then combines this with real-time external data such as weather ...",
@@ -1070,51 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-gigabyte-aero-17-review-a-gorgeous-4k-laptop-that-finally-makes-sense.md",
-      "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
-      "excerpt": "For our testing, we didn’t rely on Gigabyte’s “AI” feature, which references an AI database for guidance on how hard it can push loads. Instead we set the laptop to its “gaming” fan threshold and set the GPU and CPU settings to their maximum setting. We don’t believe this to be an overclock, but it’s also hard to say because the ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.html",
-      "ampWebUrl": "https://www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3537520/gigabyte-aero-17-review.amp.html",
-      "publishedDateTime": "2020-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/04/aero_17_lid-100838518-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,51 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-06-laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious.md",
+      "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
+      "excerpt": "It increases the output resolution and extends the battery life. DLSS 2.0 uses dedicated AI processors called Tensor cores. Max-Q Dynamic boost showing the power shift on an RTX 2080 Super laptop, 90W GPU power limit, ... [+] Witcher 3, Max settings, Core i7, 16GB of RAM. Not all laptops will support Max-Q GPUs, but for those laptops that do ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/?ss=consumertech",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
+      "publishedDateTime": "2020-04-06T16:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b4260e2bb0400064288b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1432%26cropY1%3D0%26cropY2%3D619",
+          "width": 1200,
+          "height": 519,
+          "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices.md",
       "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
       "excerpt": "Running today’s advanced neural networks has been significantly beyond the reach of many small and battery-powered devices.",
@@ -1216,43 +1261,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-the-top-10-most-innovative-and-disruptive-insurtech-companies.md",
-      "title": "The top 10 most innovative and disruptive Insurtech companies",
-      "excerpt": "Brolly, as the first insurtech advisory app in the UK to be powered by artificial intelligence, provides customers with vital insights into their ... with Trov helping to power emerging mobility services. Customers include Waymo, Groupe PSA, Suncorp (Australia) and Sompo (Japan), with Trov delivering modern insurance solutions built with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.information-age.com/the-top-10-most-innovative-insurtech-companies-123488729/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/04/the-top-10-most-innovative-insurtech-businesses-2020.jpeg",
-          "width": 1013,
-          "height": 675,
-          "title": "The top 10 most innovative and disruptive Insurtech companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

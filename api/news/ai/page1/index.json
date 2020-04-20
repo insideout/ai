@@ -2,6 +2,43 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-04-19-privitar-announces-availability-of-its-data-privacy-platform-in-aws-marketplace.md",
+      "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
+      "excerpt": "AWS Security, Data and Analytics Competency In addition ... constantly and efficiently monitor cameras in real-time or review the high volumes of archived video. Video analytics powered by Artificial Intelligence Increasingly, event venues are overcoming this challenge and maximising this video data by investing in intelligent video surveillance.",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sourcesecurity.com/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
+      "publishedDateTime": "2020-04-19T15:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/vandalism-surveillance-920x533_1578636475.jpg",
+          "width": 612,
+          "height": 355,
+          "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-19-have-1000-to-invest-buy-these-2-artificial-intelligence-stocks-now.md",
       "title": "Have $1,000 to Invest? Buy These 2 Artificial Intelligence Stocks Now",
       "excerpt": "Artificial intelligence (AI) -- the capability of a machine to mimic intelligent human behavior -- is a huge growth trend. The tech is being used to smarten up countless things large and small -- from cities and homes to cars and computers to factory equipment and healthcare diagnostic tools. One research firm, IDC, estimates that spending on ...",
@@ -348,7 +385,7 @@
       "path": "_news/2020-04-18-ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution.md",
       "title": "AI Weekly: When to ship or shelve a coronavirus solution",
       "excerpt": "Those debates certainly carry over to the kind of AI being deployed right now, and the important question of when a company should ship or shelve a coronavirus solution. A lot of AI is being deployed in the pandemic to save lives and someday soon help us resume daily lives, much of which you’ve been able to read about here. But they aren’t ...",
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/",
@@ -394,7 +431,7 @@
       "path": "_news/2020-04-17-san-francisco-orders-residents-to-wear-face-masks.md",
       "title": "San Francisco Orders Residents To Wear Face Masks",
       "excerpt": "The city joins New York and Los Angeles County in mandating residents and essential workers wear face masks outside their homes.",
-      "heat": 76,
+      "heat": 74,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/rachelsandler/2020/04/17/san-francisco-orders-residents-to-wear-face-masks/",
@@ -484,7 +521,7 @@
       "path": "_news/2020-04-17-train-a-deep-learning-image-classification-model-in-azure-with-mlnet-model-builder.md",
       "title": "Train a deep learning image classification model in Azure with ML.NET Model Builder",
       "excerpt": "LandUseUWP: Universal Windows Platform (UWP) application that consumes the model to classify satellite map images of locations provided by the user. Eurosat: A novel dataset and deep learning benchmark for land use and land cover classification. Patrick Helber, Benjamin Bischke, Andreas Dengel, Damian Borth. IEEE Journal of Selected Topics in ...",
-      "heat": 81,
+      "heat": 80,
       "tags": null,
       "type": "article",
       "webUrl": "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-azure-model-builder/",
@@ -530,7 +567,7 @@
       "path": "_news/2020-04-17-moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance.md",
       "title": "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance",
       "excerpt": "MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the entire fleet of cameras into the facial ...",
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.vice.com/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance",
@@ -619,7 +656,7 @@
       "path": "_news/2020-04-17-google-unveils-tensorflow-tool-for-making-mobile-ready-models.md",
       "title": "Google unveils TensorFlow tool for making mobile-ready models",
       "excerpt": "Google has announced TensorFlow Lite Model Maker, a tool for converting an existing TensorFlow model to the TensorFlow Lite format used to serve predictions on lightweight hardware such as mobile devices. TensorFlow models can be quite large, and serving predictions remotely from beefy hardware capable of handling them isn’t always possible.",
-      "heat": 87,
+      "heat": 86,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.infoworld.com/article/3538913/google-unveils-tensorflow-tool-for-making-mobile-ready-models.html",
@@ -657,7 +694,7 @@
       "path": "_news/2020-04-17-ai-and-machine-learning-are-making-insurance-more-predictable.md",
       "title": "AI and machine learning are making insurance more predictable",
       "excerpt": "\"So much data is locked up in paper and pdf files, and it has to be manually extracted by someone. In the process, there are errors and omissions.\" If AI and machine learning can transform these troves of documents into more usable, accessible information, employees, agents, and customers will get more value from the data. To facilitate the ...",
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/ai-and-machine-learning-are-making-insurance-more-predictable/",
@@ -747,7 +784,7 @@
       "path": "_news/2020-04-17-tensorflow-lite-gets-machine-learning-model-maker.md",
       "title": "TensorFlow Lite gets machine learning model maker",
       "excerpt": "Google has announced the TensorFlow Lite Model Maker. TensorFlow Lite is an open-source deep learning framework for on-device inference. The new tool is designed to adapt machine learning models to datasets with transfer learning. “It wraps the complex machine learning concepts with an intuitive API, so that everyone can get started without ...",
-      "heat": 104,
+      "heat": 103,
       "tags": null,
       "type": "article",
       "webUrl": "https://sdtimes.com/ai/tensorflow-lite-gets-machine-learning-model-maker/",
@@ -839,7 +876,7 @@
       "path": "_news/2020-04-17-ai-becomes-an-ally-in-the-fight-against-covid-19.md",
       "title": "AI Becomes An Ally In The Fight Against COVID-19",
       "excerpt": "How human ingenuity coupled with artificial intelligence is helping healthcare providers across the world respond to the pandemic.",
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/",
@@ -969,6 +1006,35 @@
       ]
     },
     {
+      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
+      "title": "Microsoft To Be AI Partner For NBA",
+      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year partnership between the two parties. As part of their collaboration, Microsoft will become the Official Artificial Intelligence Partner and an Official Cloud and Laptop Partner for the NBA,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-to-be-ai-partner-for-nba-2020-04-17?amp",
+      "publishedDateTime": "2020-04-17T08:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
       "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
       "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
@@ -1011,43 +1077,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
-      "title": "Microsoft To Be AI Partner For NBA",
-      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
-      "publishedDateTime": "2020-04-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -1262,50 +1291,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
-      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-      "excerpt": "When Mohammad Haft-Javaherian, a student at the Massachusetts Institute of Technology, attended MIT’s Green AI Hackathon in January, it was out of curiosity to learn about the capabilities of a new supercomputer cluster being showcased at the event.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
-      "ampWebUrl": "https://www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=true",
-      "publishedDateTime": "2020-04-17T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/02XDOnKfv0oxVzeS0HviIbQ-1.fit_lim.size_1200x630.v_1586975953.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

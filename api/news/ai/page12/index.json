@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-06-the-top-10-most-innovative-and-disruptive-insurtech-companies.md",
+      "title": "The top 10 most innovative and disruptive Insurtech companies",
+      "excerpt": "Brolly, as the first insurtech advisory app in the UK to be powered by artificial intelligence, provides customers with vital insights into their ... with Trov helping to power emerging mobility services. Customers include Waymo, Groupe PSA, Suncorp (Australia) and Sompo (Japan), with Trov delivering modern insurance solutions built with ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.information-age.com/the-top-10-most-innovative-insurtech-companies-123488729/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/04/the-top-10-most-innovative-insurtech-businesses-2020.jpeg",
+          "width": 1013,
+          "height": 675,
+          "title": "The top 10 most innovative and disruptive Insurtech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-these-robots-want-to-make-sure-you-dont-do-anything-stupid-with-your-money.md",
       "title": "These Robots Want to Make Sure You Don’t Do Anything Stupid With Your Money",
       "excerpt": "Investment firms use prompts to help customers make better financial decisions.",
@@ -1175,51 +1212,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
-      "title": "IBM makes AI tools and resources available to coronavirus researchers",
-      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
-      "publishedDateTime": "2020-04-03T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "IBM makes AI tools and resources available to coronavirus researchers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

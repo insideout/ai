@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
+      "title": "IBM makes AI tools and resources available to coronavirus researchers",
+      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "publishedDateTime": "2020-04-03T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM makes AI tools and resources available to coronavirus researchers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
       "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
       "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
@@ -851,6 +896,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-03-deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025.md",
+      "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
+      "excerpt": "Apr 03, 2020 (Heraldkeepers) -- New York, April 03, 2020: The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Deep ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-to-witness-a-pronounce-growth-during-2020-to-2025-2020-04-03?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T23:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market to Witness a Pronounce Growth during 2020 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-radiology-imaging-news.md",
       "title": "Radiology & Imaging news",
       "excerpt": "Object recognition and facial recognition may seem like similar abilities, but new research finds that these behaviors are on the opposite ends of the spectrum when it comes to physical signatures ...",
@@ -1160,81 +1250,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-google-introduces-tensorflow-hub-for-reusable-machine-learning-models.md",
-      "title": "Google introduces TensorFlow Hub for reusable machine learning models",
-      "excerpt": "Google announced new improvements to the TensorFlow developer experience at its annual TensorFlow Developer Summit last week. The company announced an improved programming model for Python ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sdtimes.com/ai/google-introduces-tensorflow-hub-reusable-machine-learning-models/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/04/tenssorflow.png",
-          "width": 800,
-          "height": 450,
-          "title": "Google introduces TensorFlow Hub for reusable machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-sentiveillance-60-facial-identification-and-object-recognition-technology.md",
-      "title": "SentiVeillance 6.0 Facial Identification and Object Recognition Technology",
-      "excerpt": "Neurotechnology released the SentiVeillance 6.0 software development kit (SDK), which provides improved facial recognition using ... provides real-time moving object detection; tracking ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.officer.com/investigations/forensics/facial-recognition/product/12322276/neurotechnology-sentiveillance-60-facial-identification-and-object-recognition-technology",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Officer",
-        "domain": "officer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

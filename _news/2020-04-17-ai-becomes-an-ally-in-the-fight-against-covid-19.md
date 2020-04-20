@@ -8,7 +8,7 @@ ampWebUrl: "https://www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-all
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2020/04/17/ai-becomes-an-ally-in-the-fight-against-covid-19/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

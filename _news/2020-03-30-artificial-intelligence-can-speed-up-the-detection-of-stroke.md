@@ -20,6 +20,6 @@ images:
     height: 509
     title: "Artificial intelligence can speed up the detection of stroke"
 
-secured: "bUQojPCzx6BpLU9SDrEmIFBBgt6hYY/MeER7TdLOYgqEMfwesui+Wu3kJgBEdjmDeBc7MRPxVrsuVVdEH7vtb92z2gCTMiiP4Q0yfnCr5jXIs638d5JbxLZS4woeWHrueA2axGssp4j3R9tL06SGOuFh7tVLuaEMfyf/fXCyOvPi+gKFxZ7pUu1O3qNoctgSOQ/He66JF4WSZUwm0QnipN2Mdm4bfMQ2dVmyr4H0BCT0hASrlGiGqEFER2BBQMx/eLapwddf3c9K7/y1sTxxkURme064k8kgCoz8q/1Nq8X5rIoiVcD+abOzl0DiEg66;3F9Bgf+GUPj0HTjhj1Syuw=="
+secured: "Y2xqr6tTyeiI5n+67Qf5fchi1CUgV7HmC7mmUFVlcQSv+IrjcO75YTTR9xSR4q49jw5T8+xyIuNA5nB/OoJeQw1t+pL8MHdWGd85+92kvi/aVZ2ykcFe53wGOFwUrcwKtEgbiW5ZmBvgmA7wiHQ6ODEsaNMjq2dRN21z/m9Il6drMiNTfjZV0PrBpKmA87rkixRk+F/l1TYjbotzxFGxyLr6p9cFAYwxYTRORwa3bv3nhS3cIAdIWpDCX3fPdVebr4KpCWpRmz2mVew090/IQV/lzqo2RWm5ZsAgueA57C3pN/+py3TQ5hhAGw3OvVsD;+3NvoEEO5RQSN5V/51f+Mg=="
 ---
 

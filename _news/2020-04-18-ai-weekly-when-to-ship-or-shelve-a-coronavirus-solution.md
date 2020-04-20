@@ -8,7 +8,7 @@ ampWebUrl: "https://venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-weekly-when-to-ship-or-shelve-a-coronavirus-solution/amp/"
 type: article
 quality: 91
-heat: 92
+heat: 91
 published: true
 
 provider:

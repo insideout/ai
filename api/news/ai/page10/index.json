@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-07-tesla-prepares-to-increase-the-price-of-full-self-driving-again-with-new-features.md",
+      "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+      "excerpt": "Tesla is preparing to increase the price of its “Full Self-Driving” package again as new features are coming — keeping the promise of increasing the value. There are many things about how Tesla is approaching self-driving technology that makes it different from the rest of the auto industry. The automaker refuses to use lidar sensors and ...",
+      "heat": 118,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/",
+      "ampWebUrl": "https://electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/07/tesla-increase-price-full-self-driving-again/amp/",
+      "publishedDateTime": "2020-04-07T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-Full-self-driving-price.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 449,
+          "title": "Tesla prepares to increase the price of ‘Full Self-Driving’ again with new features",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-artificial-intelligence-ai-market-what-are-the-main-factors-that-contributing-towards-industry-growth.md",
       "title": "Artificial Intelligence (AI) Market - What Are The Main Factors That Contributing Towards Industry Growth?",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -132,43 +177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "During this crisis, Facebook also plays a vital role ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
-      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
-      "publishedDateTime": "2020-04-07T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": "9 AI Stocks We’re Leaning on More and More",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     },
@@ -386,6 +394,43 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
+      "publishedDateTime": "2020-04-07T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     },
@@ -913,14 +958,14 @@
     {
       "path": "_news/2020-04-07-automated-machine-learning-automl-market.md",
       "title": "Automated Machine Learning (AutoML) Market",
-      "excerpt": "NEW YORK, April 6, 2020 /PRNewswire/ -- Automated Machine Learning (AutoML) Market Research Report: By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large ...",
+      "excerpt": "By Offering (Platform, Service), Deployment Type (On-Premises, Cloud), Enterprise Size (Large Enterprise, Small & Medium Enterprise), Application (Fraud Detection, Sales & Marketing Management, Medical Testing,",
       "heat": null,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15753140/automated-machine-learning-automl-market",
       "ampWebUrl": "https://amp.benzinga.com/amp/content/15753140",
       "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15753140",
-      "publishedDateTime": "2020-04-06T19:24:00-07:00",
+      "publishedDateTime": "2020-04-06T18:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -1227,51 +1272,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious.md",
-      "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
-      "excerpt": "It increases the output resolution and extends the battery life. DLSS 2.0 uses dedicated AI processors called Tensor cores. Max-Q Dynamic boost showing the power shift on an RTX 2080 Super laptop, 90W GPU power limit, ... [+] Witcher 3, Max settings, Core i7, 16GB of RAM. Not all laptops will support Max-Q GPUs, but for those laptops that do ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/?ss=consumertech",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/06/laptops-with-big-graphics-cards-are-surging-for-reasons-that-arent-obvious/amp/",
-      "publishedDateTime": "2020-04-06T16:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b4260e2bb0400064288b7%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1432%26cropY1%3D0%26cropY2%3D619",
-          "width": 1200,
-          "height": 519,
-          "title": "Laptops With Big Graphics Cards Are Surging For Reasons That Aren’t Obvious",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

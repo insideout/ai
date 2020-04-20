@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
+      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+      "excerpt": "When Mohammad Haft-Javaherian, a student at the Massachusetts Institute of Technology, attended MIT’s Green AI Hackathon in January, it was out of curiosity to learn about the capabilities of a new supercomputer cluster being showcased at the event.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
+      "ampWebUrl": "https://www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=true",
+      "publishedDateTime": "2020-04-17T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/02XDOnKfv0oxVzeS0HviIbQ-1.fit_lim.size_1200x630.v_1586975953.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-how-to-incorporate-ai-and-ml-on-a-budget-14-tips-for-businesses.md",
       "title": "How To Incorporate AI And ML On A Budget: 14 Tips For Businesses",
       "excerpt": "Follow these tips to add artificial intelligence or machine learning tech to your business without breaking the bank.",
@@ -1271,51 +1315,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may.md",
-      "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-      "excerpt": "Two of China’s leading self-driving car firms Didi Chuxing and AutoX are reportedly set to launch their ... The race to be among the first to launch commercial autonomous ride-hailing cabs have been raging in China with Pony.ai and Baidu at the forefront. AutoX and Didi are aiming to become among the first to get the nod to commercialize ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/",
-      "ampWebUrl": "https://www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2020/04/16/chinese-av-startups-didi-and-autox-set-to-launch-robotaxi-pilot-programs-in-may/?amp",
-      "publishedDateTime": "2020-04-16T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2020/04/auto-x.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": "Chinese AV startups Didi and AutoX set to launch robotaxi pilot programs in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

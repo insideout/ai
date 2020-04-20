@@ -2,6 +2,89 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-02-27-artificial-intelligence-ai-hardware-and-software-history-does-rhyme.md",
+      "title": "Artificial Intelligence (AI), Hardware And Software: History Does Rhyme",
+      "excerpt": "“History does not repeat itself, but it rhymes,” is a quote attributed to Samuel Clemens (Mark Twain). The current state of artificial intelligence (AI) advancements remind me much of the 1970s and 80s in computer technology.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/02/27/artificial-intelligence-ai-hardware-and-software-history-does-rhyme/",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/02/27/artificial-intelligence-ai-hardware-and-software-history-does-rhyme/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/02/27/artificial-intelligence-ai-hardware-and-software-history-does-rhyme/amp/",
+      "publishedDateTime": "2020-02-27T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56d67f995a5b0006066e16%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": "Artificial Intelligence (AI), Hardware And Software: History Does Rhyme",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-covariant-abb-partner-to-integrate-ai-and-robots-for-warehouses.md",
+      "title": "Covariant, ABB partner to integrate AI and robots for warehouses",
+      "excerpt": "Industrial automation leader ABB and artificial intelligence startup Covariant today announced that they are working to jointly bring AI-enabled robots to market, starting with a fully autonomous system for e-commerce order fulfillment. The growing demand for e-commerce order-fulfillment and the complex nature of the process offers unique ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.therobotreport.com/covariant-abb-partner-integrate-ai-warehouse-robots/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-27T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/Covariant_1-1024x735.jpeg",
+          "width": 1024,
+          "height": 735,
+          "title": "Covariant, ABB partner to integrate AI and robots for warehouses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-12-things-pop-culture-gets-wrong-about-artificial-intelligence.md",
       "title": "12 Things Pop Culture Gets Wrong About Artificial Intelligence",
       "excerpt": "When non-tech people glean much of their tech knowledge from pop culture, it can lead to a lot of misinformation.",
@@ -964,87 +1047,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-cartesiam-helps-developers-bring-ai-to-microcontrollers.md",
-      "title": "Cartesiam helps developers bring AI to microcontrollers",
-      "excerpt": "The new NanoEdge AI Studio is the first IDE specifically designed for enabling machine learning and inferencing on Arm Cortex-M microcontrollers, which power billions of devices already. As Cartesiam GM Marc Dupaquier, who co-founded the company in 2016, told me, the company works very closely with Arm, given that both have a vested interest in ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/26/cartesiam-helps-developers-bring-ai-to-microcontrollers/amp/",
-      "publishedDateTime": "2020-02-26T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-129905792.jpg?w=1024",
-          "width": 1024,
-          "height": 681,
-          "title": "Cartesiam helps developers bring AI to microcontrollers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-26-people-prefer-robots-to-explain-themselves-and-a-brief-summary-doesnt-cut-it.md",
-      "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
-      "excerpt": "Artificial intelligence is entering our lives in many ways – on our smartphones ... how artificial agents can be made more transparent and trustworthy to their human users. Trustworthiness is essential if robots and people are to work together. XAI seeks to develop AI systems that human beings find trustworthy – while also performing ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html",
-      "ampWebUrl": "https://www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/People-Prefer-Robots-to-Explain-Themselves--and-a-Brief-Summary-Doesnt-Cut-It.html?AMP",
-      "publishedDateTime": "2020-02-26T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/309620/original/file-20200113-103951-1d39a4w.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
-          "width": 754,
-          "height": 507,
-          "title": "People Prefer Robots to Explain Themselves – and a Brief Summary Doesn't Cut It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

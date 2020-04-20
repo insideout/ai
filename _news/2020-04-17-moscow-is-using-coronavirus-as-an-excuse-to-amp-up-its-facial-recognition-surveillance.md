@@ -8,7 +8,7 @@ ampWebUrl: "https://www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-corona
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
 type: article
 quality: 81
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -36,6 +36,21 @@ related:
     webUrl: "https://www.vice.com/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
     ampWebUrl: "https://www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
     cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_uk/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+    type: article
+    provider:
+      name: VICE
+      domain: vice.com
+    quality: 81
+    images:
+      - url: "https://video-images.vice.com/test-uploads/articles/5e9896d602fbe3009eff8090/lede/1587058510180-russiaclean.jpeg?crop=1xw:1xh;center,center"
+        width: 1920
+        height: 1080
+  - title: "Moscow Is Using Coronavirus as an Excuse to Amp Up Its Facial Recognition Surveillance"
+    excerpt: "This article originally appeared on VICE US. MOSCOW –– There’s about 178,000 surveillance cameras set up all around the Russian capital, pretty much wherever you look, and some of them are already connected to facial recognition software that’s helped police arrest more than 300 people. But now the authorities are trying to bring the ..."
+    publishedDateTime: 2020-04-19T22:22:00Z
+    webUrl: "https://www.vice.com/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+    ampWebUrl: "https://www.vice.com/amp/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
+    cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/n7jx3b/moscow-is-using-coronavirus-as-an-excuse-to-amp-up-its-facial-recognition-surveillance"
     type: article
     provider:
       name: VICE

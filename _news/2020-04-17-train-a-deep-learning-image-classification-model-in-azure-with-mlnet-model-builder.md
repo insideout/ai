@@ -6,7 +6,7 @@ publishedDateTime: 2020-04-17T21:58:00Z
 webUrl: "https://docs.microsoft.com/en-us/samples/dotnet/machinelearning-samples/mlnet-image-classification-azure-model-builder/"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

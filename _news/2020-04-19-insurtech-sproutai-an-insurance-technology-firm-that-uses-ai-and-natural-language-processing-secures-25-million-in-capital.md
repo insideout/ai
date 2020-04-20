@@ -25,6 +25,6 @@ images:
     height: 225
     title: "Insurtech: Sprout.ai, an Insurance Technology Firm that Uses AI and Natural Language Processing, Secures $2.5 Million in Capital"
 
-secured: "Gs8D1ORDXWKGiKP6pIu42bIyEEg8rPfW4FgNj13TuWkvx4Ey005BhnM4alO04f5AaT/7GpJCNISgWvzfgCxml8MSIjRv3TWhF5mKrTORJAEOFa8cyYghkNu4Yn4v/Zs5JSYJNytA78lel3qEegCqjD/HTNrnOEMi+bioXA/CmcCrzrWL0C+I+y8Ux+oaddzBBKiFdFnw3U9nToC52bbmQT5zAqw7EJWEdWIsxMhitEQlZcm6yaLJUDuZB5j/yPHRSEW/xQr/zR0bRkqACvTT8d8+Gtcaa3rrf8keqKbkYrAFrFrDozEo7l/nGeN2d8CV;GbgpQBQrk+ApmC+wFmAK1Q=="
+secured: "THtc5gT+V3muC9X/NCx/yT3zwVsIAoQajlCeYQ79yN9b/a7okKy+So4R0k/3eebYMawY0HUVQdtAupBunCeFBtG7c/PvyJUnrt1YdFBI1p0ODieJTYamfAFtzwFMB+1RYzxsXsHleS0xKdsnjDafxFcJhFegOyo32AS0FvE4A5yRhUDRAOaYMxXZhaT3DSkBIn8rAAPlSQSVeBXHN1pHSo6oa/HhEroWlND2JUemDiLGVXbNl3Y1lCElUas457+IOrA4Paa+QZFpCOKNSXc1Ltx42b2aeinOFhY/3xAZrn1+DxGZqRo3pU9iTIrmkKVgfBxZSGndJ6K1QFEiPNECphnf+bZvq+gzr75h/h0j0zWYHF1vXYsqmeJLBqWMZDfxIpOrewW4St0WNB5/0MI1fh8x7M59AjY4l4ovT4G3FJMOZZov41NjbcvdDQa8Q7D7kUie4qHQWWemvNbHdPRhRNGDlWTBLo9CnBTsVRhlk6s=;GFvN4ROeYtLTqygxtEBTWg=="
 ---
 

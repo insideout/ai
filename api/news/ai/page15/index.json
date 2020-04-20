@@ -2,6 +2,88 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
+      "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. \"While helping government agencies and healthcare ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-884893590.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T05:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
+          "width": 1650,
+          "height": 864,
+          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks.md",
+      "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
+      "excerpt": "The Founder of Robotic Trucking startup Starsky recently provided deep details on why they shut down. Here's some examination of his key points, and whether his failure bodes badly for the whole industry.",
+      "heat": 111,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/04/02/starsky-robotics-shuts-down-and-worries-everybody-else-will-also-fail-in-robotic-trucks/amp/",
+      "publishedDateTime": "2020-04-02T05:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e851f8c2b3ff900068e6e3c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Starsky Robotics Shuts Down And Worries Everybody Else Will Also Fail In Robotic Trucks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-deepminds-agent57-can-beat-average-humans-at-57-atari-games.md",
       "title": "DeepMind’s ‘Agent57’ Can Beat Average Humans At 57 Atari Games",
       "excerpt": "In a recent paper published by Google subsidiary, DeepMind has stated that the company has developed a new artificial intelligence — Agent57 designed to play and beat an average human at 57 classic Atari games, in the Arcade Learning environment. The system has been developed by combining deep reinforcement learning with an ML technique in ...",
@@ -1146,88 +1228,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech.md",
-      "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
-      "excerpt": "The technology behind automated speech recognition systems at some of the nation’s top tech firms are twice as likely to misinterpret words spoken by African-Americans compared to those spoken by whites, according to a new study out of Stanford University. Stanford University researchers found that speech recognition systems used by the top ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://atlantablackstar.com/2020/04/01/study-nations-leading-speech-recognition-systems-twice-as-likely-to-misinterpret-black-speech/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-01T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Atlanta Blackstar",
-        "domain": "atlantablackstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://atlantablackstar.com/wp-content/uploads/2020/03/GettyImages-1189583572-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": "Study: Nation’s Leading Speech Recognition Systems Twice as Likely to Misinterpret Black Speech",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-01-immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection.md",
-      "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-      "excerpt": "In practical terms, the partnership between the two companies included a complement of 1,250 Nvidia V100 Tensor Core GPUs designed for use in machine learning applications from a Microsoft Azure cluster, working with ImmunityBio’s existing 320 GPU cluster that is tuned specifically to molecular modeling work. The results of the collaboration ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/01/immunitybio-and-microsoft-team-up-to-precisely-model-how-key-covid-19-protein-leads-to-infection/amp/",
-      "publishedDateTime": "2020-04-01T09:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/covid-19-spike-protein.png?w=1024",
-          "width": 1024,
-          "height": 561,
-          "title": "ImmunityBio and Microsoft team up to precisely model how key COVID-19 protein leads to infection",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

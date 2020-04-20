@@ -2,6 +2,87 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2020-01-17-bjork-creates-an-ai-composition-that-creates-music-that-creates-music-to-the-weather.md",
+      "title": "Björk creates an AI composition that creates music that creates music to the weather",
+      "excerpt": "The AI will create dynamic new variations of Björk's original arrangements based on the changing weather patterns and position of the sun . Called ‘Kórsafn,’ which means ‘choir archive’ in Icelandic, the composition will be played continuously ...",
+      "heat": 160,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-7900725/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-7900725/amp/Bj-rk-creates-AI-composition-creates-music-creates-music-weather.html",
+      "publishedDateTime": "2020-01-17T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2020/01/17/22/23542750-0-image-a-28_1579300849679.jpg",
+          "width": 636,
+          "height": 382,
+          "title": "Björk creates an AI composition that creates music that creates music to the weather",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-amazon-web-services-enlists-ai-to-help-nasa-get-ahead-of-solar-superstorms.md",
+      "title": "Amazon Web Services enlists AI to help NASA get ahead of solar superstorms",
+      "excerpt": "That’s the upshot of a project that has NASA working with AWS Professional Services and the Amazon Machine Learning Solutions Lab to learn more about the early warning signs of a solar superstorm, with the aid of artificial intelligence. Solar storms occur when disturbances on the sun’s surface throw off a blasts of radiation and eruptions ...",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/",
+      "ampWebUrl": "https://www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/amazon-web-services-enlists-ai-help-nasa-get-ahead-solar-superstorms/amp/",
+      "publishedDateTime": "2020-01-17T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/170906-sun-flare-630x505.jpg",
+          "width": 630,
+          "height": 505,
+          "title": "Amazon Web Services enlists AI to help NASA get ahead of solar superstorms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-17-avra-medical-robotics-attends-jp-morgan-healthcare-conference.md",
       "title": "AVRA Medical Robotics Attends J.P. Morgan Healthcare Conference",
       "excerpt": "... the process of building a fully autonomous medical robotic system through the use of new technologies combining artificial intelligence, machine learning and proprietary software; is attending the 38th J.P. Morgan Healthcare Conference in San Francisco this week. The Company is represented by its CEO, Barry Cohen. Mr. Cohen has held ...",
@@ -987,87 +1068,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-european-union-to-restrict-the-development-of-artificial-intelligence.md",
-      "title": "European Union to restrict the development of artificial intelligence",
-      "excerpt": "These rules will restrict artificial intelligence developers and ensure that these modern technologies are developed in an ethical way. The competent authority of the European Union plans to implement these new regulations in “high-risk sectors”. They include health care, transportation, and other fields. Member states in the European ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/",
-      "ampWebUrl": "https://www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2020/01/17/european-union-to-restrict-the-development-of-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-01-17T05:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2019/07/EU.png",
-          "width": 788,
-          "height": 525,
-          "title": "European Union to restrict the development of artificial intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-17-i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape.md",
-      "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
-      "excerpt": "I'm in that hotel lobby, listening. There's a pattern to the music. It's connected to a camera on the roof, gazing at moving clouds and birds. The composition is AI-driven. The best part is, it's invisible and it works. I stay and listen for an hour. Björk created a new AI-generated experimental ambient musical piece in collaboration with ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/i-had-a-lovely-time-in-an-ai-generated-bjork-hotel-lobby-soundscape/",
-      "publishedDateTime": "2020-01-17T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/Tiid1ZAgHJWSHQdKzyENKcS7TFo=/756x567/2020/01/16/ceedacb8-85c9-4017-8972-6591c818f319/mg-2832.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "I had a lovely time in an AI-generated Björk hotel lobby soundscape",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

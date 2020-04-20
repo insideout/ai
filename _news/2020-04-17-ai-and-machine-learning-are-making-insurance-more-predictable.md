@@ -8,7 +8,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-and-machine-learn
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-and-machine-learning-are-making-insurance-more-predictable/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
