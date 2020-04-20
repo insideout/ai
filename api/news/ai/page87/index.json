@@ -2,6 +2,214 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2020-01-16-facial-recognition-scanners-are-coming-to-philadelphias-airport-starting-tuesday.md",
+      "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
+      "excerpt": "Facial-recognition scanners will be used on select outbound international flights starting Jan. 21. The technology is meant to increase security and speed up the boarding process. It's part of a 45-day pilot program where three brands will be tested to determine which will be installed permanently. Only non-citizens are required to be scanned.",
+      "heat": 194,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html",
+      "ampWebUrl": "https://www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/news/philadelphia/philadelphia-international-airport-facial-recognition-face-scanners-biometric-technology-20200116.html?outputType=amp",
+      "publishedDateTime": "2020-01-16T02:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Inquirer",
+        "domain": "inquirer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.inquirer.com/resizer/Bqd7C0g_vqzmOp6vDtoU_K9St20=/1200x0/center/middle/www.inquirer.com/resizer/Gfpkh9hliXlyDb-XZGMx3v92mn8=/1200x0/center/middle/arc-anglerfish-arc2-prod-pmn.s3.amazonaws.com/public/IM55BNURYVFVFBQDQ6VYGZYAUA.jpg",
+          "width": 1200,
+          "height": 908,
+          "title": "Facial-recognition scanners are coming to Philadelphia’s airport starting Tuesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-ai-for-good-starts-with-collaboration.md",
+      "title": "AI For Good Starts With Collaboration",
+      "excerpt": "In the age of innovation, we are focused on technologies such as artificial intelligence, virtual reality, augmented reality, and more. Often the application of these technologies comes as an afterthought once the technology has been developed.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/16/ai-for-good-starts-with-collaboration/amp/",
+      "publishedDateTime": "2020-01-16T02:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/500x279/https://specials-images.forbesimg.com/imageserve/5e202a29735f8c000799f8da/960x0.jpg?fit=scale",
+          "width": 500,
+          "height": 279,
+          "title": "AI For Good Starts With Collaboration",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-ai-in-fintech-market-big-changes-to-have-big-impact.md",
+      "title": "AI in Fintech Market - Big Changes to Have Big Impact",
+      "excerpt": "Advance Market Analytics recently introduced AI in Fintech Market study with in-depth overview, describing about the Product / Industry Scope and elaborates market outlook and status to 2025. AI in Fintech Market explores effective study on varied sections of Industry like opportunities,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market---big-changes-to-have-big-impact-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T02:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI in Fintech Market - Big Changes to Have Big Impact",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast.md",
+      "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
+      "heat": 63,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-2019-2027-trends-analysis-segmentation-and-forecast-2020-01-16",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T02:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cloud Natural Language Processing (NLP) Market 2019-2027 / Trends, Analysis, Segmentation And Forecast",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-16-artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-361-billion-by-2025.md",
+      "title": "Artificial Intelligence (AI) in Healthcare is Expected to Grow to $36.1 billion by 2025",
+      "excerpt": "Why is Artificial Intelligence disrupting the healthcare ... From life coaching to cognitive behavioural therapy to faith-based healing, therapy bots support users’ mental health and help ...",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@brand_minds/artificial-intelligence-ai-in-healthcare-is-expected-to-grow-to-36-1-billion-by-2025-1e2f70b0ca1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-01-16-creating-a-more-accessible-world-with-azure-ai.md",
       "title": "Creating a more accessible world with Azure AI",
       "excerpt": "At Microsoft, we are inspired by how artificial intelligence is transforming organizations of all sizes, empowering them to reimagine what’s possible. AI has immense potential to unlock solutions to some of society’s most pressing challenges. One challenge is that according to the World Health Association,",
@@ -1112,218 +1320,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-how-ai-is-revolutionizing-health-care.md",
-      "title": "How AI Is Revolutionizing Health Care",
-      "excerpt": "Being a relatively new technology in health care, AI still has a long way to go, but the progress is impressive.",
-      "heat": 129,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/01/15/how-ai-is-revolutionizing-health-care/amp/",
-      "publishedDateTime": "2020-01-15T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F01%2Fa-18-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "How AI Is Revolutionizing Health Care",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-congress-moves-toward-facial-recognition-regulation.md",
-      "title": "Congress moves toward facial recognition regulation",
-      "excerpt": "A bipartisan group in Congress is working on legislation that could regulate the use of facial recognition by the private sector, federal government, and law enforcement. “We have a ...",
-      "heat": 481,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/15/congress-moves-toward-facial-recognition-regulation/amp/",
-      "publishedDateTime": "2020-01-15T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/08/facial-recognition.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Congress moves toward facial recognition regulation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020.md",
-      "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
-      "excerpt": "The recent commercial AI revolution has been largely driven by deep neural networks. First invented in the 1960s, deep NNs came into their own once fueled by the combination of internet-scale datasets and distributed GPU farms. But the field of AI is much richer than just this one type of algorithm. Symbolic reasoning algorithms such ...",
-      "heat": 93,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/",
-      "ampWebUrl": "https://thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/podium/2020/01/15/what-are-neural-symbolic-ai-methods-and-why-will-they-dominate-2020/amp/",
-      "publishedDateTime": "2020-01-15T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/01/Untitled-design36-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "What are neural-symbolic AI methods and why will they dominate 2020?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-digital-dream-labs-acquires-anki-robotics-artificial-intelligence-assets.md",
-      "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
-      "excerpt": "/PRNewswire/ -- Digital Dream Labs announced today it has acquired Anki Robotics and Artificial Intelligence assets without taking on any",
-      "heat": 67,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/digital-dream-labs-acquires-anki-robotics--artificial-intelligence-assets-300987766.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-15T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1077064/digital_dream_labs_logo.jpg?p=facebook",
-          "width": 600,
-          "height": 314,
-          "title": "Digital Dream Labs Acquires Anki Robotics & Artificial Intelligence Assets",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-15-marscat-robot-is-more-project-than-pet.md",
-      "title": "MarsCat robot is more project than pet",
-      "excerpt": "There's a growing fear that artificial intelligence combined with robotics will displace the value of humans in many contexts. But could these trends also apply to our traditional four-legged canine and feline companions? After its splash at CES 2020, I had an opportunity to get up close this week with two prototypes of the MarsCat robot ...",
-      "heat": 69,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/marscat-robot-is-more-project-than-pet/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/marscat-robot-is-more-project-than-pet/",
-      "publishedDateTime": "2020-01-15T10:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

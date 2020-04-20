@@ -1171,6 +1171,43 @@
       ]
     },
     {
+      "path": "_news/2020-03-31-natural-language-processing-in-banking-will-bring-in-efficiency-says-deltec-bank-bahamas.md",
+      "title": "Natural Language Processing in Banking Will bring in Efficiency, says Deltec Bank-Bahamas",
+      "excerpt": "According to Deltec Bank, Bahamas – “Natural Language Processing (NLP) is expected to help banking institutions efficiently understand the meanings behind the text.” By processing ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15710277/natural-language-processing-in-banking-will-bring-in-efficiency-says-deltec-bank-bahamas",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15710277",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15710277",
+      "publishedDateTime": "2020-03-31T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/342ddf70fa9990ee05d70d63d72e49da.png",
+          "width": 594,
+          "height": 480,
+          "title": "Natural Language Processing in Banking Will bring in Efficiency, says Deltec Bank-Bahamas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-natural-language-processing-404.md",
       "title": "Natural Language Processing 404",
       "excerpt": "With the release of the COVID-19 datasets which is predominantly an NLP datasets (because it is mainly textual ), one must have mastery of Natural Language Processing to mine insight from the ...",
@@ -1203,51 +1240,6 @@
           "width": 640,
           "height": 426,
           "title": "Natural Language Processing 404",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027.md",
-      "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
-      "excerpt": "Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published report global Natural Language Processing (NLP) market provides a holistic overview of the current market covering the current trends.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T06:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
           "attribution": null
         }
       ],

@@ -2,6 +2,224 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-02-19-in-praise-of-boring-ai-aka-machine-learning.md",
+      "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+      "excerpt": "Whether or not machine learning is paving the way for a sci-fi movie type of AI in the distant future is a pointless question.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/19/in-praise-of-boring-ai-a-k-a-machine-learning/amp/",
+      "publishedDateTime": "2020-02-19T05:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x454/https://specials-images.forbesimg.com/dam/imageserve/1158524088/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 454,
+          "title": "In Praise Of Boring AI (A.K.A. Machine Learning)",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-eu-plans-european-rival-to-google-with-new-data-and-ai-proposals.md",
+      "title": "EU Plans European Rival To Google With New Data And AI Proposals",
+      "excerpt": "As outlined in two policy documents, the EC is planning to change EU law in order to foster the commercial gathering, sharing and processing of data, as well as the development of AI technology.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/02/19/eu-plans-european-rival-to-google-with-new-data-and-ai-proposals/amp/",
+      "publishedDateTime": "2020-02-19T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1201763571%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "EU Plans European Rival To Google With New Data And AI Proposals",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-report-artificial-intelligence-finds-disease-related-genes-tdnews.md",
+      "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
+      "excerpt": "An artificial neural network can reveal patterns in huge amounts of gene expression data, and discover groups of disease-related genes. This has been shown by a new study led by researchers at Linköping University, published in Nature Communications. The scientists hope that the method can eventually be applied within precision medicine and in ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/",
+      "ampWebUrl": "https://www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
+      "cdnAmpWebUrl": "https://www-tunisiesoir-com.cdn.ampproject.org/c/s/www.tunisiesoir.com/science/report-artificial-intelligence-finds-disease-related-genes-tdnews-19906-2020/amp/",
+      "publishedDateTime": "2020-02-19T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tunisie Soir",
+        "domain": "tunisiesoir.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.tunisiesoir.com/wp-content/uploads/2020/02/Artificial-intelligence-finds-disease-related-genes-1024x683.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": "Report: Artificial intelligence finds disease-related genes — Tdnews",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-obviously-ai-introduces-natural-language-predictive-analytics-service.md",
+      "title": "Obviously AI introduces natural language predictive analytics service",
+      "excerpt": "The key is a combination of natural language processing and AutoML-like capabilities that let you write a query down in standard English (you can skip the SQL), choose the data set and column(s) you want to target. Then the service performs some data cleansing to normalize the data, internally runs a handful of competing algorithms to select ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/obviously-ai-introduces-natural-language-predictive-analytics-service/",
+      "publishedDateTime": "2020-02-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/02/19/3b6d1b1b-288c-4f2d-9b9d-76593f46fba9/thumbnail/1200x675/aeb3ea6808e22b96d2de0a08c7e48caa/sennheiser-hd-450bt-header.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Obviously AI introduces natural language predictive analytics service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-this-startup-is-using-ai-to-transform-industrial-quality-inspections.md",
+      "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
+      "excerpt": "Neurala's Brain Builder platform leverages artificial intelligence to make revolutionary leaps in machine vision industrial inspection technology.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/",
+      "ampWebUrl": "https://www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jimvinoski/2020/02/19/this-startup-is-using-ai-to-transform-industrial-quality-inspections/amp/",
+      "publishedDateTime": "2020-02-19T04:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c97476895e0000683937c%2F0x0.jpg",
+          "width": 1200,
+          "height": 836,
+          "title": "This Startup Is Using AI To Transform Industrial Quality Inspections",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-19-artificial-intelligence-and-machine-learning-in-the-operating-room.md",
       "title": "Artificial Intelligence and Machine Learning in the Operating Room",
       "excerpt": "Most applications of artificial intelligence (AI) and machine learning technology provide only data to physicians, leaving the doctors to form a judgment on how to proceed. Because AI doesn’t actually perform any procedure or prescribe a course of medication, the software that diagnoses health problems does not have to pass a randomized ...",
@@ -822,231 +1040,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
-      "title": "AI At The Edge: Creating Coordinated Autonomy",
-      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
-      "publishedDateTime": "2020-02-18T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
-          "width": 800,
-          "height": 512,
-          "title": "AI At The Edge: Creating Coordinated Autonomy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
-      "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
-      "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change/",
-      "publishedDateTime": "2020-02-18T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/28/30cb4fae-507c-4d26-b536-81823c32cbda/instant-detect-2-system.jpg",
-          "width": 770,
-          "height": 474,
-          "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-google-experiments-with-ai-to-design-its-in-house-computer-chips.md",
-      "title": "Google experiments with AI to design its in-house computer chips",
-      "excerpt": "The Google Translate application is an escape of a sophisticated program, now at seventy different languages, that can run on a phone even in airplane mode, he noted, when there's no connection back to the data center. The family of Google silicon for AI has already broadened, he indicated. The \"Edge TPU,\" for example, is a designation that ...",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-experiments-with-ai-to-design-its-in-house-computer-chips/",
-      "publishedDateTime": "2020-02-18T09:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/18/488b0d78-cb71-4f26-a228-dabf1c603a54/google-ai-for-chip-design-feb-2020.png",
-          "width": 2388,
-          "height": 1339,
-          "title": "Google experiments with AI to design its in-house computer chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-google-brain-and-deepmind-researchers-attack-reinforcement-learning-efficiency.md",
-      "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
-      "excerpt": "Unfortunately, it’s data-intensive, which motivated research teams — one from Google Brain (one of Google’s AI research divisions) and the other from Alphabet’s DeepMind — to prototype more efficient means of executing it. In a pair of preprint papers, the researchers propose Adaptive Behavior Policy Sharing (ABPS), an algorithm that ...",
-      "heat": 120,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/google-brain-deepmind-reinforcement-learning-efficiency/amp/",
-      "publishedDateTime": "2020-02-18T09:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/dims-e1575998404106.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google Brain and DeepMind researchers attack reinforcement learning efficiency",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-18-how-ai-is-impacting-the-workplace.md",
-      "title": "How AI is impacting the workplace",
-      "excerpt": "The reason for this may be very straightforward: as impressive as it is (think self-driving cars or Google's DeepMind beating human Go champions) the technology just isn't capable of doing what humans can do. At least not yet. The Brookings Institute's January 2019 report, Automation and Artificial Intelligence: How Machines are Affecting ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-ai-is-impacting-the-workplace/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-is-impacting-the-workplace/",
-      "publishedDateTime": "2020-02-18T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "How AI is impacting the workplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

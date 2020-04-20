@@ -2,6 +2,169 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
+      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
+      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
+      "publishedDateTime": "2020-04-13T02:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dailyrecord",
+        "domain": "dailyrecord.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
+          "width": 615,
+          "height": 409,
+          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
+      "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
+      "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/",
+      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
+      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
+      "publishedDateTime": "2020-04-13T00:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tesla News",
+        "domain": "teslarati.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-fsd-visualizations-traffic-turn-signal-1024x512.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-13-artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024.md",
+      "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
+      "excerpt": "Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report LLC offers industry size, share,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024-2020-04-13?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-12T23:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-12-how-to-reduce-the-unemployment-gap-with-ai.md",
+      "title": "How To Reduce The Unemployment Gap With AI",
+      "excerpt": "McKinsey & Company's recent article, A new AI-powered network, is helping workers displaced by the coronavirus crisis provides context around the scope of challenges involved in closing the unemployment gap.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
+      "publishedDateTime": "2020-04-12T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e935f8401879f0006d2752c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1352%26cropY1%3D139%26cropY2%3D899",
+          "width": 1199,
+          "height": 675,
+          "title": "How To Reduce The Unemployment Gap With AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-12-the-united-kingdoms-role-in-the-future-of-ai.md",
       "title": "The United Kingdom’s Role In The Future Of AI",
       "excerpt": "The UK has played an important role in the history and development of AI. What are their plans to stay at the forefront in the years ahead?",
@@ -131,14 +294,14 @@
     {
       "path": "_news/2020-04-11-amazon-announces-general-availability-of-aws-deepcomposer.md",
       "title": "Amazon Announces General Availability of AWS Deepcomposer",
-      "excerpt": "Recently, Amazon announced the general availability of Deepcomposer, a service in AWS, which provides developers with a creative way to learn Machine Learning (ML). Deepcomposer is a machine ...",
+      "excerpt": "At re:Invent last year, Amazon launched AWS Deepcomposer as a preview, and it is generally available now with a few new features. These features include: Julien Simon, artificial intelligence & machine learning evangelist for EMEA, states in a blog post on the GA of Deepcomposer: Until now, developers interested in growing skills in GANs haven ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/?useSponsorshipSuggestions=true&itm_source=presentations_about_architecture-design&itm_medium=link&itm_campaign=architecture-design",
+      "webUrl": "https://www.infoq.com/news/2020/04/amazon-aws-deepcomposer-ga/",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-11T04:09:00-07:00",
+      "publishedDateTime": "2020-04-11T04:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1100,170 +1263,6 @@
           "width": 800,
           "height": 450,
           "title": "The Scientist Who Controlled People with Brain Implants",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio.md",
-      "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
-      "excerpt": "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.register-herald.com/region/artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to/article_60905b39-6f72-547d-8ec5-a2ca4ff1c12a.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Register-Herald",
-        "domain": "register-herald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/56/d56fd7d1-9b5f-510e-ab82-2929c2a90a99/5e905cb07d069.image.jpg?resize=1000%2C564",
-          "width": 1000,
-          "height": 564,
-          "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
-      "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
-      "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079362/chinese-self-driving-start-autox-sets-asias-largest-robotaxi-operations-centre",
-      "publishedDateTime": "2020-04-10T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/10/0602992e-7ae2-11ea-9b24-e7152d1bf921_image_hires_133906.jpg?itok=1KzUyjLW&v=1586497161",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-how-ai-is-helping-in-the-fight-against-covid-19.md",
-      "title": "How AI Is Helping in the Fight Against COVID-19",
-      "excerpt": "Artificial intelligence technologies such as machine learning, natural-language processing, computer vision, and deep learning can help track and identify the novel coronavirus. On Dec. 31, BlueDot, a Toronto-based company that uses artificial intelligence to track the spread of infectious diseases, alerted its customers about a cluster of ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19",
-      "ampWebUrl": "https://au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "cdnAmpWebUrl": "https://au-pcmag-com.cdn.ampproject.org/c/s/au.pcmag.com/artificial-intelligence-1/66281/how-ai-is-helping-in-the-fight-against-covid-19?amp=1",
-      "publishedDateTime": "2020-04-10T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/how-ai-is-/how-ai-is-helping-in-the-fight-against-covid-19_5mp8.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "How AI Is Helping in the Fight Against COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-ask-sophia-the-robot-is-ai-an-existential-threat-to-humans.md",
-      "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
-      "excerpt": "Sophia is Hanson Robotics’ latest human-like robot, created to be a research platform for Hanson Robotics' ongoing AI and robotics research work. Working with labs, universities and companies around the world, she is an architecture and a platform for developing AI applications. Sophia has received the title of Innovation Champion for the ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat",
-      "ampWebUrl": "https://bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/videos/sophia-the-robot-ai-threat.amp.html",
-      "publishedDateTime": "2020-04-10T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjkxNjUwMy9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYwMjE1NzA2M30.GOgoYXP2fQJ_og_DA0MKMmKBLdOKkl43q3I0LKsMQuM/img.jpg?width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": "Ask Sophia the Robot: Is AI an existential threat to humans?",
           "attribution": null
         }
       ],

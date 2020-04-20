@@ -7,8 +7,8 @@ webUrl: "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-
 ampWebUrl: "https://www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/waynecrews/2020/04/15/how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation/amp/"
 type: article
-quality: 75
-heat: 75
+quality: 77
+heat: 77
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e97210f1048ea0006cbdbc2%2F0x0.jpg"

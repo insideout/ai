@@ -2,6 +2,88 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-03-05-goodyear-concept-ev-tire-can-regrow-tread.md",
+      "title": "Goodyear concept EV tire can regrow tread",
+      "excerpt": "\"Thanks to artificial intelligence a driver profile would be ... more than the 259-mile range for the 2020 Chevrolet Bolt. Waymo raises $2.25 billion in first external funding round In a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.autonews.com/mobility-report-newsletter/goodyear-concept-ev-tire-can-regrow-tread",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-05T08:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/GMEVDay02-main_i.jpg",
+          "width": 792,
+          "height": 526,
+          "title": "Goodyear concept EV tire can regrow tread",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-05-americans-still-wary-of-self-driving-cars-many-worry-about-hacking.md",
+      "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
+      "excerpt": "Half (51%) said they were interested in laws to make sure self-driving cars are safe. — 44% expressed the desire to have access to easy-to-understand information about how self-driving cars will ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2020/03/05/americans-still-wary-of-self-driving-cars-many-worry-about-hacking/amp/",
+      "publishedDateTime": "2020-03-05T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e61060ee1e617000758e8a2%2F0x0.jpg%3FcropX1%3D8%26cropX2%3D600%26cropY1%3D0%26cropY2%3D333",
+          "width": 593,
+          "height": 333,
+          "title": "Americans Still Wary Of Self-Driving Cars, Many Worry About Hacking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-04-waymos-self-driving-jaguars-arrive-with-new-homegrown-tech.md",
       "title": "Waymo's Self-Driving Jaguars Arrive With New, Homegrown Tech",
       "excerpt": "If you’re in Mountain View and you spot a self-driving car, the smart money says it’s one of Waymo’s modified Chrysler Pacifica minivans. If you see an electric car, it’s most likely a Tesla.",
@@ -1206,96 +1288,6 @@
           "width": 1200,
           "height": 577,
           "title": "The Amazing Ways Goodyear Uses Artificial Intelligence And IoT For Digital Transformation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-20-google-parent-alphabet-is-pruning-its-other-bets.md",
-      "title": "Google parent Alphabet is pruning its 'other bets'",
-      "excerpt": "YouTube and more), Access (Fiber broadband), Calico (aging), Capital (late-stage investment), DeepMind (artificial intelligence), Google Ventures (startup investment), Life Sciences (health), Nest (smart home appliances), Sidewalk (smart cities) and Google X, which still looked after Boston Dynamics (robots), Waymo (self-driving cars), Loon ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/20/alphabet-makani-chronicle-jigsaw-other-bets/",
-      "publishedDateTime": "2020-02-20T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-02%252F84251f30-53db-11ea-9fcf-d89c1210ec92%26client%3Da1acac3e1b3290917d92%26signature%3D6ed4057d83c63aff8c4a85abf3a6285ca6b30cdb&client=amp-blogside-v2&signature=22c879d0d3bb8d2443c47f82793e879d2cc7bc5a",
-          "width": 600,
-          "height": 350,
-          "title": "Google parent Alphabet is pruning its 'other bets'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-19-levels-and-limits-of-ai.md",
-      "title": "Levels And Limits Of AI",
-      "excerpt": "Not all AI is the same. Accelerated AI makes what you do faster. Augmented AI makes it better. And Automated AI does it for you. But when each \"level\" of AI becomes feasible is a function of the underlying problem's difficulty,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/konstantinebuhler/2020/02/19/levels-and-limits-of-ai/amp/",
-      "publishedDateTime": "2020-02-19T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1141218835%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6400%26cropY1%3D663%26cropY2%3D4263",
-          "width": 1200,
-          "height": 675,
-          "title": "Levels And Limits Of AI",
           "attribution": null
         }
       ],

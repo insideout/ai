@@ -23,21 +23,6 @@ images:
     height: 228
     title: "Sarit Kraus Named ACM Athena Lecturer for Wide-Ranging Contributions to AI"
 
-related:
-  - title: "Sarit Kraus named ACM Athena Lecturer for contributions to artificial intelligence"
-    excerpt: "Multi-agent systems are regarded as vital to the increasingly complex challenges within artificial intelligence and have broad applications in a number of areas. Kraus is recognized as one of the world's leading researchers in multi-agent systems, in which a distributed group of agents (computers, robots, and/or humans) interact and work ..."
-    publishedDateTime: 2020-04-15T14:06:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-04/afcm-skn041420.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 35
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/229236_web.jpg"
-        width: 1440
-        height: 2160
-
 secured: "UxsdCxX+DZd1OQsKjUSVP9f/0PRYvOiCZlYmW4hWQ6twMWZKI/wb40RekBYNh2P1gn9sZ8tBoHqcWXZYvn2D24s+bATKG+g1ElHOpPYUT1u4IQ9PhfuhFpEvrzkIlWTBp0+yHKjfsDRKCgJgO49h1HHpTMf6bO65WgNfuTFnaVjpDFkNvx5FixFip5HjQ+WQ3Ju//0e+nDpuh8uCv43QuGTpA5sTvd/89Dv4+LogUI1IAhA5gTjaw9iN/zaCmtIKre20zeNWXkfFe+bFuhmRq7dqC8LiwFhEuQOBEDll+K9BWI2Pbi/AtNss6nvLrVl+Rjw/sdeqGPc8OvY/oABx9yiu3Bdz1N9efC8Zyg70yPZ9UUOtMDXx8p1oSVT0sVDI/o1YkoZnWldDZiNWOp7qhCuQCGRHYwaXwA+/S6kT7uADPUaGknBejQU22n/OaC2fO28Qox7bSXK86SafephyUHy0jDSt61mYJQb194UK6cA=;ywkml/xECpRgpFgbZG/FSg=="
 ---
 

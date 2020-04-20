@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
+      "title": "MindsDB raises $3 million for open source automated machine learning",
+      "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
+      "publishedDateTime": "2020-04-16T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Adam-Jorge-YCombinator.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "MindsDB raises $3 million for open source automated machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-customer-service-management-improved-through-artificial-intelligence.md",
       "title": "Customer Service Management Improved Through Artificial Intelligence",
       "excerpt": "Machine learning is still fairly technical, especially machine learning (ML), and the early audience had to be able to handle the detail. Now natural language processing (NLP) and generation (NLG), are starting to mesh with machine learning to provide an interface than can help the non-technical audience. The ML side has its own complexity.",
@@ -1048,6 +1094,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-15-us-self-driving-car-startup-zoox-agrees-to-settle-lawsuit-with-tesla.md",
+      "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
+      "excerpt": "Zoox Inc said on Tuesday it had settled a lawsuit with Tesla Inc after admitting that some new hires from the carmaker were in possession of certain Tesla documents when they joined the U.S. self-driving car startup.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/us-tesla-lawsuit-zoox-idUSKCN21X034",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKCN21X034",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN21X034",
+      "publishedDateTime": "2020-04-15T15:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20200415&t=2&i=1515214860&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEG3E01H",
+          "width": 766,
+          "height": 545,
+          "title": "U.S. self-driving car startup Zoox agrees to settle lawsuit with Tesla",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-former-tesla-employees-brought-stolen-documents-to-self-driving-startup-zoox.md",
       "title": "Former Tesla employees brought stolen documents to self-driving startup Zoox",
       "excerpt": "Self-driving startup Zoox has admitted that four of its employees took confidential documents from their previous employer Tesla, according to a statement issued after the company settled a lawsuit this week over the matter.",
@@ -1224,95 +1315,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-pileus-helps-businesses-cut-their-cloud-spend.md",
-      "title": "Pileus helps businesses cut their cloud spend",
-      "excerpt": "Using machine learning, the company’s platform continuously learns about how a user typically uses a given cloud and then provides forecasts and daily personalized recommendations to help them stay within a budget. Pileus currently supports AWS, with support for Google Cloud and Microsoft Azure coming soon. With all of the information it ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/pileus-helps-businesses-cut-their-cloud-spend/amp/",
-      "publishedDateTime": "2020-04-15T11:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/register_mockup_image.27280a96.png",
-          "width": 622,
-          "height": 364,
-          "title": "Pileus helps businesses cut their cloud spend",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-10-ways-ai-can-improve-digital-transformations-success-rate.md",
-      "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
-      "excerpt": "It's important to get beyond digital transformation as purely a technical, abstract construct and see it as a must-have strategy to retain customers and attract new ones.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/15/10-ways-ai-can-improve-digital-transformations-success-rate/amp/",
-      "publishedDateTime": "2020-04-15T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e974143892edc0006728986%2F0x0.jpg",
-          "width": 1200,
-          "height": 623,
-          "title": "10 Ways AI Can Improve Digital Transformation's Success Rate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

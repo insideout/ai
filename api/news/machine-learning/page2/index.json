@@ -2,6 +2,89 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-08-insights-on-the-worldwide-automated-machine-learning-market-2020-to-2030-growing-healthcare-industry-presents-opportunities-researchandmarketscom.md",
+      "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
+      "excerpt": "The global automated machine learning (AutoML) market generated the revenue of $269.6 million in 2019, and is expected to reach $14,511.9 million by 2030, advancing at a CAGR of 43.7% during the forecast period (2020-2030). The cloud category under the deployment type segment is expected to record the fastest growth during the forecast period.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200408005248/en/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-08T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200408005248/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Insights on the Worldwide Automated Machine Learning Market (2020 to 2030) - Growing Healthcare Industry Presents Opportunities - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-north-america-machine-learning-market-analysis-by-top-companies-driver.md",
+      "title": "North America Machine Learning Market Analysis by Top Companies, Driver",
+      "excerpt": "The value of the machine learning market in North America is expected to reach USD 8.07 Bn by 2023, expanding at a",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-machine-learning-market-analysis-by-top-companies-driver-2020-04-07?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "North America Machine Learning Market Analysis by Top Companies, Driver",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-automl-20-is-the-data-scientist-obsolete.md",
       "title": "AutoML 2.0: Is The Data Scientist Obsolete?",
       "excerpt": "In the world off AI & Machine Learning, AutoML has become a \"go-to\" technology to accelerate development and achieve better results. But does AutoML threaten the data scientist's role? And how do new,",
@@ -98,27 +181,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:45:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15753140/automated-machine-learning-automl-market",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15753140",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15753140",
+      "publishedDateTime": "2020-04-06T19:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Automated Machine Learning (AutoML) Market",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1185,80 +1260,6 @@
           "width": 1200,
           "height": 432,
           "title": "How to Find a Perfect Deep Learning Framework",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-deep-learning-chip-market-to-garner-2937-billion-2025-at-399-cagr-amr.md",
-      "title": "Deep Learning Chip Market to Garner $29.37 Billion 2025, at 39.9% CAGR: AMR",
-      "excerpt": "Portland, March 30, 2020 (GLOBE NEWSWIRE) -- According to the report published by Allied Market Research, the global deep learning chip market was pegged at $2.81 billion in 2018 and is estimated ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/30/2008437/0/en/Deep-Learning-Chip-Market-to-Garner-29-37-Billion-2025-at-39-9-CAGR-AMR.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-30T07:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data.md",
-      "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
-      "excerpt": "The recent success of deep learning is the result of the marriage of big data and GPUs, significantly increasing the breadth and depth of the data used for training computers and reducing the time required for training deep learning algorithms.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2020/03/30/12-artificial-intelligence-ai-milestones-3-computer-graphics-give-birth-to-big-data/amp/",
-      "publishedDateTime": "2020-03-30T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1ea66a958e13498c8aaf2f2ad7a2d9d5%2F0x0.jpg",
-          "width": 1200,
-          "height": 669,
-          "title": "12 Artificial Intelligence (AI) Milestones: 3. Computer Graphics Give Birth To Big Data",
           "attribution": null
         }
       ],

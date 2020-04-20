@@ -23,6 +23,7 @@ topics:
   - AI
   - Machine Learning
   - AI Ethics
+  - AI in Robotics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2019/04/30/5b11ee32-73c2-44a4-8b2b-3e5f9e608f39/resize/1200x/597423bf50db8a7114b211dfeb791671/istock-889289314azure.jpg"

@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-03-31-natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027.md",
+      "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
+      "excerpt": "Global Natural Language Processing (NLP) Market 2020 size, share, growth, trends, consumption, production, market sales analysis by manufacturers, regions, Type and Application and forecast to 2027. The published report global Natural Language Processing (NLP) market provides a holistic overview of the current market covering the current trends.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-expected-to-secure-notable-revenue-share-during-2020-2027-2020-03-31",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Natural Language Processing (NLP) Market Expected to Secure Notable Revenue Share During 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-europe-far-field-speech-recognition-market-is-slated-to-grow-rapidly-in-the-coming-years.md",
       "title": "Europe Far-field Speech Recognition Market is slated to grow rapidly in the coming years",
       "excerpt": "This research study on the Far-field Speech Recognition market enumerates details about this industry in terms of a detailed evaluation and also an in-depth assessment of this business. The Far-field Speech Recognition market has been suitably divided into important segments, as per the report. A detailed overview of the industry with respect ...",
@@ -1162,43 +1207,6 @@
         "Natural Language Processing",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-18-fca-opts-for-cerence-drive-in-latest-version-of-in-car-voice-platform.md",
-      "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-      "excerpt": "Fiat Chrysler Automobiles (FCA) has become the latest car manufacturer to adopt Cerence Drive. The voice recognition solution has been integrated into Uconnect 5, the most recent version of FCA’s Uconnect in-car infotainment platform. Uconnect 5 will be deployed across FCA’s entire product line, allowing drivers to use the brand of their ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mobileidworld.com/fca-opts-cerence-drive-latest-version-uconnect-in-car-voice-platform-031804/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile ID News",
-        "domain": "mobileidworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mobileidworld.com/wp-content/uploads/automobile-automotive-car-228094-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "FCA Opts for Cerence Drive in Latest Version of In-Car Voice Platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -25,6 +25,6 @@ images:
     height: 213
     title: "COVID-19 | Disruptive tech and SME innovation can boost the fight against the virus"
 
-secured: "+vWXuFdpRIn5A6yhrYiJWKsF/vveKYltrKvY86sn/XGNKUmVa3kZ6oyd+UdmUTwrKx0v6xYSPcGO/H9XuMow8qrIak+ohZcpULmWKQ4/NROhywpJSMSnKbeH8sw53QZmzVVYeRn73XrE0bO0/nFhDgqXLYkK/9f1WZVWQ6+CGGUYoPNoEqsOSQOucl8uwrn5IynwHqBinTkH5dyQ0ZO8vOgM49RQbddc1ZdU//DqGaAi1q6WX+Wn7jMTrO+SQeVBMr0yellWzzTSHhk++RFdUgeArsXdCaZVq673Vo9U6X0Q/sqBiM4lJfTCeG9IrhvK;xleUw59QsLLwRvcm+anT2Q=="
+secured: "t7jlQ9GHUtt9YwKNWzdWzXo44P8alsoZJVq6HVUiDT8a1WvPfZpEiLjGjKE/y6F2H5oW3L+rD6/1NJPtpi9ybRs7vKe0UA5iuQI5nnUsFG5Uhh+XElRJRT26yYGiqbcAeS48H1cB1tvJEWtPXD59X2tKjLpPN/3KnI50Icuu/s26ShfhutJPB2ruDeSvQg/jhQVHeInosj1IMse5mtjGPKisze5xxnT/xOGiISTNtp3mNxvV7gaWm6CsUlKXzLUZmzRZJQ5VXJw/AprCbm4i7wrOIWZqIUuZRJnYdU8arvussl2NPlbQuU9YiVngU1yMUVxuLJq75LKxEgxoS+4WFf0PzVbb/LcBFWkIfkDDd/Ru3DprkeQsEveRneoUB/3Ym/YoXMr6Sg8aobuifkP3ZE9WyoPWvPzqe7FJhoTq6ZyDcD69jfbRj//fnR5Zp3Qo6E7sbSJI30cUKQjK+VAZA6YJ1jWJN6PRH8Qv37Di2Fo=;IGQfFbGuduLASWbXBAj/vw=="
 ---
 

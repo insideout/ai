@@ -2,6 +2,207 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-03-15-middlesex-health-using-artificial-intelligence-making-patients-more-comfortable.md",
+      "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
+      "excerpt": "Middletown, Conn. (WTNH) Middlesex Health is the first healthcare system in the northeast to use artificial intelligence-powered software to Improve PET scans for patients. Typically a PET, or positron emission tomography scan, would take 24 minutes or longer. The tests are frequently done on Cancer patients to see if treatments are working or ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/",
+      "ampWebUrl": "https://www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
+      "cdnAmpWebUrl": "https://www-wtnh-com.cdn.ampproject.org/c/s/www.wtnh.com/ct-style/healthmatters/middlesex-health-using-artificial-intelligence-making-patients-more-comfortable/amp/",
+      "publishedDateTime": "2020-03-15T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTNH",
+        "domain": "wtnh.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.wtnh.com/wp-content/uploads/sites/100/2020/03/Annotation-2020-03-15-152535.png?w=620&h=352&crop=1&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": "Middlesex Health using artificial intelligence – making patients more comfortable",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-legal-aid-society-dubious-of-new-nypd-facial-recognition-provision.md",
+      "title": "Legal Aid Society dubious of new NYPD facial recognition provision",
+      "excerpt": "He was surrounded by representatives of the Jewish community and flanked by Commissioner Dermot Shea. (Photo by Todd Maisel) An update to the NYPD policy regarding facial recognition technology does not change precautions against using the feature as evidence to convict, according to Commissioner Dermot Shea. As the technology advances ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/",
+      "ampWebUrl": "https://www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "cdnAmpWebUrl": "https://www-amny-com.cdn.ampproject.org/c/s/www.amny.com/police-fire/legal-aid-society-dubious-of-new-nypd-facial-recognition-provision/amp/",
+      "publishedDateTime": "2020-03-15T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AM New York",
+        "domain": "amny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-azure-machine-learning-services-mlops.md",
+      "title": "Azure Machine Learning Services — MLOps",
+      "excerpt": "Azure machine learning services has end to end data science lifecycle process. Which means we can develop the model and then package it up for production. Then we can create model file and deploy ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/@balabala76/azure-machine-learning-services-mlops-c0fde346a8ff",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*MEoUfeWtl3VmgU9Dafei_w.jpeg",
+          "width": 1200,
+          "height": 897,
+          "title": "Azure Machine Learning Services — MLOps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-googles-parent-company-just-made-its-first-ever-investment-in-an-ai-chip-start-up.md",
+      "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+      "excerpt": "GV had never invested in a start-up making processors for artificial intelligence ... special features in its consumer products, while Waymo relies on AI for autonomous driving.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/03/15/alphabets-gv-invests-in-ai-chip-startup-sambanova.html",
+      "publishedDateTime": "2020-03-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105066224-Handout_SambaNova_Systems.jpeg?v=1529477748",
+          "width": 2000,
+          "height": 1333,
+          "title": "Google's parent company just made its first-ever investment in an A.I. chip start-up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-15-here-are-20-companies-google-could-buy-to-boost-its-cloud-business-against-amazon-web-services-according-to-experts.md",
+      "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+      "excerpt": "Google Cloud is likely going to make some big purchases to better compete with Amazon — some of them more likely than others.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/here-are-the-cloud-companies-google-could-buy-analysts-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5c4bb3cd2bdd7f2b686a5184?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Here are 20 companies Google could buy to boost its cloud business against Amazon Web Services, according to experts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-15-aclu-sues-dhs-to-expose-secretive-use-of-facial-recognition-technology.md",
       "title": "ACLU sues DHS to expose secretive use of facial recognition technology",
       "excerpt": "Feel free to republish and share widely. The ACLU's national and New York arms filed a federal lawsuit Thursday against the U.S. Department of Homeland Security and three of its agencies to expose law enforcement's secretive use of facial recognition surveillance technology. The new suit in the U.S. District Court for the Southern District of ...",
@@ -787,216 +988,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-washington-state-passes-landmark-facial-recognition-bill-reining-in-government-use-of-ai.md",
-      "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-      "excerpt": "The Washington state legislature passed a bill establishing new guardrails on government use of facial recognition software. The bill cleared both chambers of the state legislature Thursday, hours before the session ended, positioning Washington as one of the first states in the nation to regulate facial recognition, a key component in the ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/",
-      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-passes-landmark-facial-recognition-bill-reining-government-use-ai/amp/",
-      "publishedDateTime": "2020-03-13T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/legislature-630x473.jpg",
-          "width": 630,
-          "height": 473,
-          "title": "Washington state passes landmark facial recognition bill, reining in government use of AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-nypd-says-it-plans-to-use-facial-recognition-technology.md",
-      "title": "NYPD says it plans to use facial recognition technology",
-      "excerpt": "The NYPD on Friday said it plans to use emerging facial recognition technology in limited circumstances for “legitimate law enforcement purposes.” In announcing the policy Friday, NYPD Commissioner Dermot Shea outlined what he called six limited circumstances where the digital programs would be used to help develop leads to solve crimes.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.newsday.com/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "ampWebUrl": "https://www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/new-york/nypd-facial-recognition-technology-1.43047575",
-      "publishedDateTime": "2020-03-13T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.newsday.com/polopoly_fs/1.43047839.1584146943!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg",
-          "width": 1280,
-          "height": 719,
-          "title": "NYPD says it plans to use facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-can-detect-corona-virus-from-ct-scans-in-just-20-seconds.md",
-      "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-      "excerpt": "Chinese tech company Alibaba, says its AI can detect Corona virus from CT scans in just 20 seconds. It takes doctors around 20 mins to do the same. The model has an accuracy of around 96%. The diagnosis algorithm was developed by Alibaba's research institute Damo Academy. Researchers at the academy said they had trained the AI model with sample ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.linkedin.com/pulse/ai-can-detect-corona-virus-from-ct-scans-just-20-seconds-alan-brown/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGrEHprOlem7Q/article-cover_image-shrink_720_1280/0?e=1590624000&v=beta&t=VCPInLfR_pD5-rvXfrBh0UFfdTtHwNzswxK4BNKriAA",
-          "width": 1080,
-          "height": 720,
-          "title": "AI can detect Corona virus from CT scans in just 20 seconds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-driverless-trucks-being-tested-right-now-on-public-roads.md",
-      "title": "Driverless trucks being tested right now on public roads",
-      "excerpt": "(CBS News) — Few are aware that driverless 18-wheelers are already on the road ... cameras and radar devices affixed to the rig feed data to the artificial intelligence-driven supercomputer that controls the truck. Price says his product is superior to others. “Our system can see farther than any other autonomous system in the world.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/",
-      "ampWebUrl": "https://www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
-      "cdnAmpWebUrl": "https://www-klfy-com.cdn.ampproject.org/c/s/www.klfy.com/national/driverless-trucks-being-tested-right-now-on-public-roads/amp/",
-      "publishedDateTime": "2020-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLFY",
-        "domain": "klfy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.klfy.com/wp-content/uploads/sites/9/2020/03/trucks.png?w=620&h=349&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Driverless trucks being tested right now on public roads",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.md",
-      "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
-      "excerpt": "The market for self-driving technology ... to Chinese Internet giant Baidu. Shares of systems integrator Delphi Automotive, which has partnerships with Intel and Mobileye, rose 4.0 percent.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/14/intels-15-billion-purchase-of-mobileye-shakes-up-driverless-car-sector.html",
-      "publishedDateTime": "2020-03-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104338168-mobileye3.jpg?v=1529474476",
-          "width": 849,
-          "height": 478,
-          "title": "Intel's $15 billion purchase of Mobileye shakes up driverless car sector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

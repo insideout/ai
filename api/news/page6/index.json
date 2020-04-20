@@ -2,6 +2,177 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-04-14-amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking.md",
+      "title": "Amazon AI techniques improve speech recognition and dialog state tracking",
+      "excerpt": "In a pair of preprint papers published this week on Arxiv.org, Amazon researchers describe two novel systems — one that facilitates automatic speech recognition and another responsible for dialog state tracking — that they say achieve state-of-the-art performance compared with several baseline models. Assuming the claims have merit ...",
+      "heat": 103,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/amazon-ai-techniques-improve-speech-recognition-and-dialog-state-tracking/amp/",
+      "publishedDateTime": "2020-04-14T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Amazon AI techniques improve speech recognition and dialog state tracking",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-artificial-intelligence-that-can-evolve-on-its-own-is-being-tested-by-google-scientists.md",
+      "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
+      "excerpt": "It's extremely exciting to see if it can turn up any algorithms that we haven't even thought of yet, the impact of which to our daily lives may be enormous,\" one computer expert told Newsweek.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781",
+      "ampWebUrl": "https://www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/google-brain-artificial-intelligence-machine-learning-research-evolution-automl-zero-1497781?amp=1",
+      "publishedDateTime": "2020-04-14T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1581468/stock-math-equations.jpg",
+          "width": 2100,
+          "height": 1428,
+          "title": "Artificial Intelligence That Can Evolve on Its Own Is Being Tested by Google Scientists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-how-ai-helps-scientists-find-reliable-coronavirus-research.md",
+      "title": "How AI helps scientists find reliable coronavirus research",
+      "excerpt": "This is where the artificial intelligence community enters the scene. Among other efforts to help fight the coronavirus pandemic, AI researchers are fast busy developing tools that will help medical scientists navigate the fast-growing corpus of literature surrounding coronavirus. Read: [Researchers want your voice to train coronavirus ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/14/how-ai-helps-scientists-find-reliable-coronavirus-research/amp/",
+      "publishedDateTime": "2020-04-14T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-20-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": "How AI helps scientists find reliable coronavirus research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution.md",
+      "title": "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution",
+      "excerpt": "Abaco Systems today announced that, via a partnership with DeepSig, the company is now able to demonstrate DeepSig's ground-breaking",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/abaco-systems-partners-with-deepsig-to-demonstrate-integrated-ai-based-electronic-warfare-solution-301026444.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/438854/Abaco_Systems_Logo.jpg?p=facebook",
+          "width": 1920,
+          "height": 1005,
+          "title": "Abaco Systems Partners with DeepSig to Demonstrate Integrated AI-based Electronic Warfare Solution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-synopsys-powers-groq-processor-expands-in-ai-chip-market.md",
       "title": "Synopsys Powers Groq Processor, Expands in AI Chip Market",
       "excerpt": "Synopsys, Inc.’s SNPS ZeBu Server 4 product is generating a broad-based adoption by customers’ designing storage, networking and AI chips. Recently, the company announced that Groq has adopted the ZeBu Server 4 emulation solution to develop its Tensor Streaming Processor (TSP).",
@@ -578,7 +749,8 @@
       "topics": [
         "AI",
         "Machine Learning",
-        "AI Ethics"
+        "AI Ethics",
+        "AI in Robotics"
       ]
     },
     {
@@ -883,169 +1055,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-couple-claim-sex-robot-with-soft-scottish-accent-saved-their-marriage.md",
-      "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-      "excerpt": "A couple claim that a £6,600 Scottish sex robot - who shares their bed every night - has saved their marriage. Shelly, 45, and Darris Maxie, 48, from Texas, USA, splashed out on a computerised, Artificial Intelligence sex doll, called Camila, to save their marriage after the third person in their previous poly relationship left them.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349",
-      "ampWebUrl": "https://www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "cdnAmpWebUrl": "https://www-dailyrecord-co-uk.cdn.ampproject.org/c/s/www.dailyrecord.co.uk/news/uk-world-news/couple-claim-sex-robot-soft-21857349.amp",
-      "publishedDateTime": "2020-04-13T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dailyrecord",
-        "domain": "dailyrecord.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i2-prod.dailyrecord.co.uk/incoming/article21857352.ece/ALTERNATES/s615/1_Screen-Shot-2020-04-13-at-093812.png",
-          "width": 615,
-          "height": 409,
-          "title": "Couple claim sex robot with 'soft Scottish accent' saved their marriage",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
-      "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
-      "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
-      "publishedDateTime": "2020-04-13T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-fsd-visualizations-traffic-turn-signal-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024.md",
-      "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
-      "excerpt": "Global Artificial Intelligence (AI) in Retail Market Report added at Market Study Report LLC offers industry size, share,",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-retail-market-share-current-and-future-industry-trends-2019-2024-2020-04-13?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-12T23:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence (AI) in Retail Market Share Current and Future Industry Trends, 2019-2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-12-how-to-reduce-the-unemployment-gap-with-ai.md",
-      "title": "How To Reduce The Unemployment Gap With AI",
-      "excerpt": "McKinsey & Company's recent article, A new AI-powered network, is helping workers displaced by the coronavirus crisis provides context around the scope of challenges involved in closing the unemployment gap.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
-      "publishedDateTime": "2020-04-12T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e935f8401879f0006d2752c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1352%26cropY1%3D139%26cropY2%3D899",
-          "width": 1199,
-          "height": 675,
-          "title": "How To Reduce The Unemployment Gap With AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

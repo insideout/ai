@@ -2,6 +2,222 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2020-02-25-competing-in-the-age-of-ai-is-simpler-than-you-think.md",
+      "title": "Competing In The Age Of AI Is Simpler Than You Think",
+      "excerpt": "Artificial Intelligence is already fundamentally changing business and operations models, argue two Harvard Business School professors in a recent book. They show that it is simpler to implement than many expect.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/",
+      "ampWebUrl": "https://www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sophiamatveeva/2020/02/25/competing-in-the-age-of-ai-is-simpler-than-you-think/amp/",
+      "publishedDateTime": "2020-02-25T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e54c26476f73b0006dfd7ac%2F0x0.jpg",
+          "width": 1200,
+          "height": 729,
+          "title": "Competing In The Age Of AI Is Simpler Than You Think",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-graphcore-the-ai-chipmaker-raises-another-150m-at-a-195b-valuation.md",
+      "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
+      "excerpt": "The UK has a strong history when it comes to chips and processors, but the global chip market has seen some ups and downs ... hardware and corresponding Poplar software — which is designed specifically for the kind of simultaneous, intensive calculations demanded of AI applications innovators create next generation machine intelligence ...",
+      "heat": 136,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/24/graphcore-the-ai-chipmaker-raises-another-150m-at-a-1-95b-valuation/amp/",
+      "publishedDateTime": "2020-02-25T03:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/12/Graphcore-server-chassis.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Graphcore, the AI chipmaker, raises another $150M at a $1.95B valuation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-brief-abb-announces-partnership-with-ai-start-up.md",
+      "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
+      "excerpt": "Our Standards:The Thomson Reuters Trust Principles.",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-abb-announces-partnership-with-ai-idUSFWN2AO19Q",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2AO19Q",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2AO19Q",
+      "publishedDateTime": "2020-02-25T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-ABB Announces Partnership with AI Start-Up",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation.md",
+      "title": "OpsRamp Introduces AI-Driven Suggestions for Greater Transparency and Faster Incident Remediation",
+      "excerpt": "The OpsRamp Winter 2020 Release also introduces 19 new cloud monitoring integrations for Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), along with dynamic topology maps for Azure and GCP. Highlights of the Winter 2020 Release include: AIOps: OpsQ is OpsRamp's intelligent event management, alert correlation ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/opsramp-introduces-ai-driven-suggestions-for-greater-transparency-and-faster-incident-remediation-1028934454",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/OpsRamp-Introduces-AI-Driven-Suggestions-for-Greater-Transparency-and-Faster-Incident-Remediation-1028934454",
+      "publishedDateTime": "2020-02-25T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-artificial-intelligence-finds-compound-that-can-destroy-superbugs.md",
+      "title": "Artificial intelligence finds compound that can destroy superbugs",
+      "excerpt": "This isn’t the first time artificial intelligence has been tapped to process large amounts of information in order to find new arrangements of existing things. For example, the spice company McCormick has used IBM’s AI technology to develop new spice combinations for various meals. The same AI tech has also been used to create entirely new ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/",
+      "ampWebUrl": "https://www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/artificial-intelligence-finds-compound-that-can-destroy-superbugs-24611028/amp/",
+      "publishedDateTime": "2020-02-24T17:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scdn.slashgear.com/wp-content/uploads/2020/02/bacteria_main_petri_uns.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": "Artificial intelligence finds compound that can destroy superbugs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-25-artificial-intelligence-hub-planned-for-orange-county.md",
       "title": "Artificial intelligence hub planned for Orange County",
       "excerpt": "HIGHLAND FALLS – A local economic development agency has big ambitions to lure researchers and companies to the Village of Highland Falls to study artificial intelligence ... of tasks normally requiring human intelligence, including visual perception, speech recognition and decision-making. Robots, self-driving cars and missile systems ...",
@@ -855,230 +1071,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-ai-in-marketing-is-only-as-good-as-the-human-behind-it.md",
-      "title": "AI In Marketing Is Only As Good As The Human Behind It",
-      "excerpt": "While AI might change some day-to-day tasks for marketers, we believe that it will actually improve their jobs, not take them over.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/ai-in-marketing-is-only-as-good-as-the-human-behind-it/amp/",
-      "publishedDateTime": "2020-02-24T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x494/https://specials-images.forbesimg.com/dam/imageserve/1079012838/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 494,
-          "title": "AI In Marketing Is Only As Good As The Human Behind It",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-how-to-deploy-robotics-responsibly.md",
-      "title": "How To Deploy Robotics Responsibly",
-      "excerpt": "industrial and commercial robotics, artificial intelligence (AI) and the interconnectivity of software and hardware devices. Indeed, IDC predicts that by 2022, the global robotics market (i.e., robots,",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/how-to-deploy-robotics-responsibly/amp/",
-      "publishedDateTime": "2020-02-24T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/1011468914/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How To Deploy Robotics Responsibly",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-the-future-of-customer-service-isnt-as-simple-as-ai-or-human.md",
-      "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
-      "excerpt": "Business leaders who wish to bring AI-human collaboration to life in their customer service organizations need only ask themselves a few key questions to get started.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/24/the-future-of-customer-service-isnt-as-simple-as-ai-or-human/amp/",
-      "publishedDateTime": "2020-02-24T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 493,
-          "title": "The Future Of Customer Service Isn't As Simple As AI Or Human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics.md",
-      "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
-      "excerpt": "Due to pressures regarding data privacy, companies are often forced to set up stringent security processes that compromise the customer experience.",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/02/24/how-to-enhance-the-customer-experience-using-ai-and-voice-biometrics/amp/",
-      "publishedDateTime": "2020-02-24T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x474/https://specials-images.forbesimg.com/dam/imageserve/970156432/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 474,
-          "title": "How To Enhance The Customer Experience Using AI And Voice Biometrics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-24-google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-machine-learning.md",
-      "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
-      "excerpt": "If computer systems are to evolve to handle ever larger machine learning models, a standard way to compare the effectiveness of those systems is essential, according to Google head of AI, Jeff Dean. But that system of measurement itself must evolve over time, he said. \"I think the MLPerf benchmark suite is actually going to be very effective ...",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-chief-dean-sees-evolution-in-mlperf-benchmark-for-ai/",
-      "publishedDateTime": "2020-02-24T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/02/24/47c5d178-a38a-4ccc-8b13-5f32e97779b7/mlperf-benchmarks-for-various-networks.png",
-          "width": 2048,
-          "height": 1261,
-          "title": "Google AI chief Dean sees evolution in MLPerf benchmark for machine learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

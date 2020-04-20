@@ -2,6 +2,176 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-04-07-the-quest-for-a-better-blockchain-former-microsoft-ai-chief-invests-in-seattle-startup-asensys.md",
+      "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
+      "excerpt": "Harry Shum, former head of Microsoft’s AI and Research Group, in his Redmond office in 2017. (GeekWire File Photo / Todd Bishop) Asensys, a Seattle startup promising to build a more scalable and efficient blockchain infrastructure, has landed noted computer scientist and former Microsoft artificial intelligence chief Harry Shum as one of the ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/",
+      "ampWebUrl": "https://www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/quest-better-blockchain-former-microsoft-ai-chief-invests-seattle-startup-asensys/amp/",
+      "publishedDateTime": "2020-04-07T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/09/harryshum-1-1-630x418.png",
+          "width": 630,
+          "height": 418,
+          "title": "The quest for a better blockchain: Former Microsoft AI chief invests in Seattle startup Asensys",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks.md",
+      "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+      "excerpt": "Facebook’s AI moderators claimed another innocent victim this week when an algorithm blocked content on DIY coronavirus masks. The system threatened to ban mask makers in Pennsylvania, Illinois, and California, The New York Times reports. These groups were set up to fill a gap in protective gear that has forced hospital staff to don ski ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/07/facebook-apologizes-after-ai-blocks-posts-about-diy-coronavirus-masks/amp/",
+      "publishedDateTime": "2020-04-07T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design54-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Facebook apologizes after AI blocks posts about DIY coronavirus masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe.md",
+      "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
+      "excerpt": "It all started when International Business Machines Corporation (NYSE: IBM) joined forces with the open-source software giant Red Hat. The deal was closed in July 2019,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/markets/20/04/15757392/ibm-is-getting-ready-to-fight-for-a-place-in-the-cloud-universe",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/images/story/2012/carson-masterson-0mxw-dvulok-unsplash_1.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "IBM Is Getting Ready To Fight For A Place In The Cloud Universe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-tenstorrent-launches-ai-chip-with-conditional-execution.md",
+      "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+      "excerpt": "Analyst Karl Freund gives his take on the Cambrian Explosion of new AI chips and how the bar will continue to creep higher. The latest entrant to emerge from Stealth is Canada’s Tenstorrent, who has some aggressive optimizations that make them stand out in the crowd.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/04/07/tenstorrent-launches-ai-chip-with-conditional-execution/amp/",
+      "publishedDateTime": "2020-04-07T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8cacf5e9952f0006c612e3%2F0x0.jpg",
+          "width": 563,
+          "height": 291,
+          "title": "Tenstorrent Launches AI Chip With Conditional Execution",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-driverless-vehicles-are-transporting-covid-19-tests-between-test-site-lab-in-florida.md",
       "title": "Driverless vehicles are transporting COVID-19 tests between test site, lab in Florida",
       "excerpt": "Driverless vehicles are being used in northeast ... according to the Mayo Clinic. “Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using ...",
@@ -264,6 +434,43 @@
       ]
     },
     {
+      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
+      "title": "9 AI Stocks We’re Leaning on More and More",
+      "excerpt": "During this crisis, Facebook also plays a vital role in how we cope as a country ... Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. It’s always great when big corporations give back to the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/",
+      "ampWebUrl": "https://investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/04/9-ai-stocks-were-leaning-on-more-and-more/amp/",
+      "publishedDateTime": "2020-04-07T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2019/07/ai1600b.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": "9 AI Stocks We’re Leaning on More and More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-5-practical-reasons-to-embrace-artificial-intelligence.md",
       "title": "5 practical reasons to embrace artificial intelligence",
       "excerpt": "AI is about more than just robots. There are several reasons that people should accept artificial intelligence, including health care fighting the current coronavirus pandemic and empowering people with disabilities. Artificial intelligence is about more than robots. Whether someone considers themself a tech expert, or a newbie when it comes to ...",
@@ -477,43 +684,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-9-ai-stocks-were-leaning-on-more-and-more.md",
-      "title": "9 AI Stocks We’re Leaning on More and More",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips With the coronavirus pandemic taking a devastating toll both in the U.S. and",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/9-ai-stocks-were-leaning-on-more-and-more-1029072749",
-      "publishedDateTime": "2020-04-07T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     },
@@ -1045,27 +1215,19 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.finanzen.net/nachricht/aktien/automated-machine-learning-automl-market-8716980",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T18:45:00-07:00",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15753140/automated-machine-learning-automl-market",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15753140",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15753140",
+      "publishedDateTime": "2020-04-06T19:24:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanzen",
-        "domain": "finanzen.net",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://images.finanzen.net/images/logos/finanzennet_600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Automated Machine Learning (AutoML) Market",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1118,162 +1280,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.md",
-      "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-      "excerpt": "The investment makes the Chinese giant one of Tesla's largest shareholders, and is part of Tencent's pursuit of self-driving cars and ... Chinese internet provider Baidu recently made a reportedly ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/07/4-chinese-backed-electric-car-start-ups-planning-a-run-at-tesla.html",
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/104383570-GettyImages-630926570.jpg?v=1529474712",
-          "width": 2000,
-          "height": 1333,
-          "title": "4 Chinese-backed electric-car start-ups planning a run at Tesla",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-ai-applications-top-10-real-world-artificial-intelligence-applications.md",
-      "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-      "excerpt": "This makes Waymo cars more effective and safer. Another famous example of an autonomous vehicle is Tesla’s self-driving car. Artificial Intelligence implements computer vision, image detection and deep learning to build cars that can automatically detect ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.edureka.co/blog/artificial-intelligence-applications/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/10/Artificial-IntelligenceAI-applications.png",
-          "width": 1630,
-          "height": 952,
-          "title": "AI Applications: Top 10 Real World Artificial Intelligence Applications",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-artificial-intelligence-driving-autonomous-vehicle-development.md",
-      "title": "Artificial intelligence driving autonomous vehicle development",
-      "excerpt": "Autonomous driving is one of the key application areas of artificial intelligence (AI). Autonomous vehicles (AV ... which eventually became Waymo in 2016. Waymo has been extensively leveraging AI to make fully autonomous driving a reality.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://ihsmarkit.com/research-analysis/artificial-intelligence-driving-autonomous-vehicle-development.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IHS Markit",
-        "domain": "ihsmarkit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ihsmarkit.com/www/blog/ra-autonomous-car-getty692834496-featured.jpg",
-          "width": 636,
-          "height": 370,
-          "title": "Artificial intelligence driving autonomous vehicle development",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-example-notebooks-that-show-how-to-apply-machine-learning-deep-learning-and-reinforcement-learning-in-amazon-sagemaker.md",
-      "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
-      "excerpt": "These examples provide quick walkthroughs to get you up and running with the labeling job workflow for Amazon SageMaker Ground Truth. These examples provide a gentle introduction to machine learning concepts as they are applied in practical use cases ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://github.com/awslabs/amazon-sagemaker-examples",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://camo.githubusercontent.com/95b6d72381a76a923718ae1d6e56b079f3307e7b/68747470733a2f2f322e67726176617461722e636f6d2f6176617461722f61646133346163383236353638393938363337633563633637653837383031333f643d68747470732533412532462532466769746875622e6769746875626173736574732e636f6d253246696d6167657325324667726176617461727325324667726176617461722d757365722d3432302e706e6726723d6726733d3634",
-          "width": 420,
-          "height": 420,
-          "title": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
